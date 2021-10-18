@@ -44,9 +44,9 @@ function HomeScreen({navigation}: Props) {
   return (
     <SafeAreaView style={styles.screenContainer}>
       <ScrollView contentContainerStyle={styles.difficultyContainer}>
-        <View>
-          <Image />
-          <Text>Simply Trivia</Text>
+        <View style={styles.headerStyle}>
+          <Image style={styles.logo} source={require('../assets/images/logo.png')}/>
+          <Text style={styles.headerText}>Simply Trivia</Text>
         </View>
         <DifficultyButton
           difficulty="easy"
@@ -65,6 +65,19 @@ function HomeScreen({navigation}: Props) {
 export default HomeScreen;
 
 const styles = StyleSheet.create({
+  headerStyle: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    marginBottom: 50,
+  },
+  logo: {
+    height: 100,
+    width: 100,
+    marginRight: 20,
+  },
+  headerText: {
+    fontSize: 40,
+  },
   difficultyContainer: {
     flex: 1,
     alignItems: 'center',
