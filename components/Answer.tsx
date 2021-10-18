@@ -3,14 +3,16 @@ import {StyleSheet, Text, TouchableOpacity} from 'react-native';
 
 interface Props {
   correctAnswer: string;
+  disabled: boolean;
   onPress: (selectedAnswer: string) => void;
   selectedAnswer: string | null;
   thisAnswer: string;
 }
 
-function Answer({thisAnswer, correctAnswer, onPress, selectedAnswer}: Props) {
+function Answer({thisAnswer, correctAnswer, disabled, onPress, selectedAnswer}: Props) {
   return (
     <TouchableOpacity
+      disabled={disabled}
       onPress={() => onPress(thisAnswer)}
       style={[styles.answerContainer, getAnswerBackgroundColor({
         thisAnswer,

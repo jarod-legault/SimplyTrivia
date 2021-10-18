@@ -26,6 +26,7 @@ function Answers({correctAnswer, incorrectAnswers, onAnswerSelect}: Props) {
           key={answer}
           thisAnswer={answer}
           correctAnswer={correctAnswer}
+          disabled={!!selectedAnswer}
           onPress={newSelectedAnswer => {
             setSelectedAnswer(newSelectedAnswer);
             onAnswerSelect();
