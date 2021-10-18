@@ -1,8 +1,11 @@
 import React, {useState} from 'react';
 import {
+  Image,
   SafeAreaView,
   ScrollView,
   StyleSheet,
+  Text,
+  View,
 } from 'react-native';
 import {RootStackParamList} from './RootStackParams';
 import {NativeStackScreenProps} from '@react-navigation/native-stack';
@@ -41,6 +44,10 @@ function HomeScreen({navigation}: Props) {
   return (
     <SafeAreaView style={styles.screenContainer}>
       <ScrollView contentContainerStyle={styles.difficultyContainer}>
+        <View>
+          <Image />
+          <Text>Simply Trivia</Text>
+        </View>
         <DifficultyButton
           difficulty="easy"
           onPress={() => navigation.navigate('Question', {difficulty: 'easy', OTDBToken})} />

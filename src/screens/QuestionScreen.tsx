@@ -61,7 +61,7 @@ function QuestionScreen({navigation, route}: Props) {
       </View>
       <Answers correctAnswer={questionDetails.correct_answer} incorrectAnswers={questionDetails.incorrect_answers} onAnswerSelect={() => setAnswerIsSelected(true)} />
       {answerIsSelected && ( // TODO: Disable button after clicking.
-        <TouchableOpacity style={styles.nextQuestionButton} onPress={() => navigation.replace('Question', {difficulty})}>
+        <TouchableOpacity style={styles.nextQuestionButton} onPress={() => navigation.replace('Question', {difficulty, OTDBToken})}>
           <Text style={styles.nextQuestionText}>Next Question</Text>
         </TouchableOpacity>
       )}
