@@ -77,6 +77,7 @@ const styles = StyleSheet.create({
   },
   headerText: {
     fontSize: 40,
+    color: '#8927D8',
   },
   difficultyContainer: {
     flex: 1,
