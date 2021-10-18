@@ -22,7 +22,7 @@ function QuestionScreen({navigation, route}: Props) {
   const [answerIsSelected, setAnswerIsSelected] = useState<boolean>(false);
   const [questionDetails, setQuestionDetails] = useState<OTDBQuestionDetails | null>(null);
 
-  const {difficulty} = route.params;
+  const {difficulty, OTDBToken} = route.params;
 
   useEffect(() => {
     async function fetchQuestionDetails() {
@@ -31,6 +31,7 @@ function QuestionScreen({navigation, route}: Props) {
           params: {
             amount: '1',
             encode: 'base64',
+            token: OTDBToken,
             difficulty,
           },
         });
@@ -42,7 +43,7 @@ function QuestionScreen({navigation, route}: Props) {
     }
 
     fetchQuestionDetails();
-  }, [difficulty]);
+  }, [OTDBToken, difficulty]);
 
   if (!questionDetails) {
     return (
