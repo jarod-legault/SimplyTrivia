@@ -45,7 +45,11 @@ function QuestionScreen({navigation, route}: Props) {
   }, [difficulty]);
 
   if (!questionDetails) {
-    return <ActivityIndicator size="large" />;
+    return (
+      <View style={styles.container}>
+        <ActivityIndicator size="large" />
+      </View>
+    );
   }
 
   return (
