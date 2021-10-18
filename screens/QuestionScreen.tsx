@@ -1,24 +1,51 @@
 import React, {useEffect, useState} from 'react';
-import {StyleSheet, Text, TouchableOpacity, View} from 'react-native';
+import {ActivityIndicator, StyleSheet, Text, View} from 'react-native';
 import {RootStackParamList} from './RootStackParams';
 import {NativeStackScreenProps} from '@react-navigation/native-stack';
+import axios from 'axios';
+import {Buffer} from 'buffer';
+import Answers from '../components/Answers';
+
+export type difficultyType = 'easy' | 'medium' | 'hard';
+export interface OTDBQuestionDetails {
+  category: string;
+  type: string;
+  difficulty: difficultyType;
+  question: string;
+  correct_answer: string;
+  incorrect_answers: string[];
+}
 
 type Props = NativeStackScreenProps<RootStackParamList, 'Question'>;
 
 function QuestionScreen({route}: Props) {
-  const [allAnswers, setAllAnswers] = useState<string[]>([]);
-  const [selectedAnswer, setSelectedAnswer] = useState('');
+  const [questionDetails, setQuestionDetails] = useState<OTDBQuestionDetails | null>(null);
 
-  const {questionDetails} = route.params;
+  const {difficulty} = route.params;
 
   useEffect(() => {
-    const allAnswersNew = [...questionDetails.incorrect_answers];
-    const correctAnswerIndex = getRandomInt(allAnswersNew.length + 1); // Add 1 because we haven't added the correct answer to the array yet.
+    async function fetchQuestionDetails() {
+      try {
+        const response = await axios.get('https://opentdb.com/api.php/', {
+          params: {
+            amount: '1',
+            encode: 'base64',
+            difficulty,
+          },
+        });
+        setQuestionDetails(convertQuestionDetailsFromBase64(response.data.results[0]));
+      }
+      catch (error) {
+        console.error(error);
+      }
+    }
 
-    allAnswersNew.splice(correctAnswerIndex, 0, questionDetails.correct_answer); // Insert the correct answer into the array in a random position.
+    fetchQuestionDetails();
+  }, [difficulty]);
 
-    setAllAnswers(allAnswersNew);
-  }, [questionDetails.correct_answer, questionDetails.incorrect_answers]);
+  if (!questionDetails) {
+    return <ActivityIndicator size="large" />;
+  }
 
   return (
     <View style={styles.container}>
@@ -27,46 +54,37 @@ function QuestionScreen({route}: Props) {
           {questionDetails.question}
         </Text>
       </View>
-
-      <View style={styles.answersContainer}>
-        {allAnswers.map(answer => (
-          <TouchableOpacity
-            key={answer}
-            onPress={() => setSelectedAnswer(answer)}
-            style={[
-              styles.answerContainer,
-              {
-                backgroundColor: getAnswerBackgroundColor(
-                  answer,
-                  selectedAnswer,
-                  questionDetails.correct_answer,
-                ),
-              },
-            ]}>
-            <Text style={styles.answerText}>{answer}</Text>
-          </TouchableOpacity>
-        ))}
-      </View>
+      <Answers correctAnswer={questionDetails.correct_answer} incorrectAnswers={questionDetails.incorrect_answers} />
     </View>
   );
 }
 
-function getAnswerBackgroundColor(thisAnswer: string, selectedAnswer: string, correctAnswer: string) {
-  if (thisAnswer === selectedAnswer && thisAnswer === correctAnswer) { // Selected and correct.
-    return '#009D40';
-  }
-
-  if (thisAnswer === selectedAnswer && thisAnswer !== correctAnswer) { // Selected and incorrect.
-    return '#FF570D';
-  }
-
-  return 'white'; // Not selected.
+function convertQuestionDetailsFromBase64(base64QuestionDetails: OTDBQuestionDetails): OTDBQuestionDetails {
+  return {
+    category: convertBase64ToString(base64QuestionDetails.category),
+    type: convertBase64ToString(base64QuestionDetails.type),
+    difficulty: convertDifficultyFromBase64(base64QuestionDetails.difficulty),
+    question: convertBase64ToString(base64QuestionDetails.question),
+    correct_answer: convertBase64ToString(base64QuestionDetails.correct_answer),
+    incorrect_answers: base64QuestionDetails.incorrect_answers.map(incorrect_answer => convertBase64ToString(incorrect_answer)),
+  };
 }
 
-// Returns a random integer from 0 (inclusive) to `max` (exclusive).
-//
-function getRandomInt(max: number) {
-  return Math.floor(Math.random() * max);
+function convertDifficultyFromBase64(base64EncodedDifficulty: string) {
+  const difficulty = convertBase64ToString(base64EncodedDifficulty);
+  if (difficulty === 'easy' ) {
+    return 'easy';
+  }
+  else if (difficulty === 'medium' ) {
+    return 'easy';
+  }
+  else {
+    return 'hard';
+  }
+}
+
+function convertBase64ToString(base64EncodedString: string) {
+  return Buffer.from(base64EncodedString, 'base64').toString();
 }
 
 export default QuestionScreen;
@@ -88,23 +106,6 @@ const styles = StyleSheet.create({
     color: '#0e0fe0',
     fontSize: 30,
     marginVertical: 40,
-    textAlign: 'center',
-  },
-  answersContainer: {
-    width: '90%',
-    flexDirection: 'row',
-    flexWrap: 'wrap',
-    justifyContent: 'space-between',
-    marginTop: 40,
-  },
-  answerContainer: {
-    width: '47%',
-    borderRadius: 20,
-    marginVertical: 10,
-    padding: 5,
-  },
-  answerText: {
-    marginVertical: 30,
     textAlign: 'center',
   },
 });

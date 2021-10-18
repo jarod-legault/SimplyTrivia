@@ -1,6 +1,6 @@
-import {IOTDBQuestionDetails} from './Home';
+import {difficultyType} from './QuestionScreen';
 
 export type RootStackParamList = {
   Home: undefined;
-  Question: {questionDetails: IOTDBQuestionDetails};
+  Question: {difficulty: difficultyType};
 };
