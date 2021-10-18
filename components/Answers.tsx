@@ -5,9 +5,10 @@ import Answer from './Answer';
 interface Props {
   correctAnswer: string;
   incorrectAnswers: string[];
+  onAnswerSelect: () => void;
 }
 
-function Answers({correctAnswer, incorrectAnswers}: Props) {
+function Answers({correctAnswer, incorrectAnswers, onAnswerSelect}: Props) {
   const [answers, setAnswers] = useState<string[] | null>(null);
   const [selectedAnswer, setSelectedAnswer] = useState<string | null>(null);
 
@@ -25,7 +26,10 @@ function Answers({correctAnswer, incorrectAnswers}: Props) {
           key={answer}
           thisAnswer={answer}
           correctAnswer={correctAnswer}
-          onPress={newSelectedAnswer => setSelectedAnswer(newSelectedAnswer)}
+          onPress={newSelectedAnswer => {
+            setSelectedAnswer(newSelectedAnswer);
+            onAnswerSelect();
+          }}
           selectedAnswer={selectedAnswer}
         />
       ))}
@@ -47,6 +51,6 @@ const styles = StyleSheet.create({
     flexDirection: 'row',
     flexWrap: 'wrap',
     justifyContent: 'space-between',
-    marginTop: 40,
+    marginTop: 20,
   },
 });

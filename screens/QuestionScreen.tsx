@@ -1,5 +1,5 @@
 import React, {useEffect, useState} from 'react';
-import {ActivityIndicator, StyleSheet, Text, View} from 'react-native';
+import {ActivityIndicator, ScrollView, StyleSheet, Text, TouchableOpacity, View} from 'react-native';
 import {RootStackParamList} from './RootStackParams';
 import {NativeStackScreenProps} from '@react-navigation/native-stack';
 import axios from 'axios';
@@ -18,7 +18,8 @@ export interface OTDBQuestionDetails {
 
 type Props = NativeStackScreenProps<RootStackParamList, 'Question'>;
 
-function QuestionScreen({route}: Props) {
+function QuestionScreen({navigation, route}: Props) {
+  const [answerIsSelected, setAnswerIsSelected] = useState<boolean>(false);
   const [questionDetails, setQuestionDetails] = useState<OTDBQuestionDetails | null>(null);
 
   const {difficulty} = route.params;
@@ -48,14 +49,18 @@ function QuestionScreen({route}: Props) {
   }
 
   return (
-    <View style={styles.container}>
+    <ScrollView contentContainerStyle={styles.container}>
       <View style={styles.questionContainer}>
-        <Text style={styles.questionText}>
-          {questionDetails.question}
-        </Text>
+        <Text style={styles.categoryText}>{questionDetails.category}</Text>
+        <Text style={styles.questionText}>{questionDetails.question}</Text>
       </View>
-      <Answers correctAnswer={questionDetails.correct_answer} incorrectAnswers={questionDetails.incorrect_answers} />
-    </View>
+      <Answers correctAnswer={questionDetails.correct_answer} incorrectAnswers={questionDetails.incorrect_answers} onAnswerSelect={() => setAnswerIsSelected(true)} />
+      {answerIsSelected && ( // TODO: Disable button after clicking.
+        <TouchableOpacity style={styles.nextQuestionButton} onPress={() => navigation.replace('Question', {difficulty})}>
+          <Text style={styles.nextQuestionText}>Next Question</Text>
+        </TouchableOpacity>
+      )}
+    </ScrollView>
   );
 }
 
@@ -90,22 +95,35 @@ function convertBase64ToString(base64EncodedString: string) {
 export default QuestionScreen;
 
 const styles = StyleSheet.create({
+  categoryText: {
+    marginBottom: 10,
+  },
   container: {
     flex: 1,
     alignItems: 'center',
     justifyContent: 'center',
+  },
+  nextQuestionButton: {
+    padding: 20,
+    borderRadius: 10,
+    marginTop: 10,
+    backgroundColor: '#0e0fe0',
+  },
+  nextQuestionText: {
+    color: 'white',
+    fontSize: 20,
   },
   questionContainer: {
     width: '90%',
     alignItems: 'center',
     backgroundColor: 'white',
     borderRadius: 30,
-    padding: 5,
+    paddingVertical: 20,
+    paddingHorizontal: 10,
   },
   questionText: {
     color: '#0e0fe0',
     fontSize: 30,
-    marginVertical: 40,
     textAlign: 'center',
   },
 });
