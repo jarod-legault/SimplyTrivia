@@ -5,6 +5,7 @@
   "scripts": {
     "android": "react-native run-android",
     "android-bundle-release": "cd android && ./gradlew bundleRelease; cd ..",
+    "android-install-release": "npx react-native run-android --variant=release",
     "ios": "react-native run-ios",
     "start": "react-native start",
     "test": "jest",
