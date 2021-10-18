@@ -12,7 +12,7 @@ function DifficultyButton({difficulty, onPress}: Props) {
     <TouchableOpacity
       style={[styles.questionCategoryContainer, getBorderStyle(difficulty)]}
       onPress={onPress}>
-      <Text>{difficulty}</Text>
+      <Text style={styles.difficultyTextStyle}>{difficulty}</Text>
     </TouchableOpacity>
   );
 }
@@ -43,11 +43,15 @@ const styles = StyleSheet.create({
   },
   questionCategoryContainer: {
     width: '90%',
-    marginVertical: 5,
+    marginVertical: 10,
     backgroundColor: 'white',
     alignItems: 'center',
     paddingVertical: 30,
     borderWidth: 2,
     borderRadius: 10,
+  },
+  difficultyTextStyle: {
+    fontSize: 30,
+    textTransform: 'capitalize',
   },
 });
