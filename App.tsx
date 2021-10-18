@@ -19,7 +19,7 @@ function App() {
   return (
     <NavigationContainer>
       <RootStack.Navigator>
-        <RootStack.Screen name="Home" component={HomeScreen} />
+        <RootStack.Screen name="Home" component={HomeScreen} options={{ headerShown: false }} />
         <RootStack.Screen name="Question" component={QuestionScreen} />
       </RootStack.Navigator>
     </NavigationContainer>
