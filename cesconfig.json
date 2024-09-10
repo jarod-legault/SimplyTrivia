@@ -1,6 +1,6 @@
 {
   "cesVersion": "2.11.14",
-  "projectName": "simplytrivia",
+  "projectName": "SimplyTrivia",
   "packages": [
     {
       "name": "expo-router",
