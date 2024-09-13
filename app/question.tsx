@@ -60,7 +60,7 @@ function QuestionScreen() {
 
   return (
     <>
-      <Stack.Screen options={{ title: 'question' }} />
+      <Stack.Screen options={{ title: '' }} />
       <Container>
         <ScrollView contentContainerStyle={styles.container}>
           <View style={styles.questionContainer}>
