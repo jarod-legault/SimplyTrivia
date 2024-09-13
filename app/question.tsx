@@ -32,7 +32,9 @@ function QuestionScreen() {
 
   useEffect(() => {
     async function fetchQuestionDetails() {
+      let attemptCount = 0;
       try {
+        attemptCount++;
         const response = await axios.get('https://opentdb.com/api.php/', {
           params: {
             amount: '1',
@@ -43,7 +45,11 @@ function QuestionScreen() {
         });
         setQuestionDetails(convertQuestionDetailsFromBase64(response.data.results[0]));
       } catch (error) {
-        console.error(error);
+        if (attemptCount < 10) {
+          await fetchQuestionDetails();
+        } else {
+          console.error(error);
+        }
       }
     }
 
