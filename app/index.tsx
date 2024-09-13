@@ -33,7 +33,7 @@ export default function Home() {
   }
   return (
     <>
-      <Stack.Screen options={{ title: 'home' }} />
+      <Stack.Screen options={{ title: 'home', headerShown: false }} />
       <Container>
         <ScrollView contentContainerStyle={styles.difficultyContainer}>
           <View style={styles.headerStyle}>
