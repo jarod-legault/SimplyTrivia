@@ -28,6 +28,7 @@ export interface OTDBQuestionDetails {
 function QuestionScreen() {
   const { difficulty, OTDBToken } = useLocalSearchParams();
   const [answerIsSelected, setAnswerIsSelected] = useState<boolean>(false);
+  const [networkError, setNetworkError] = useState<string>('');
   const [questionDetails, setQuestionDetails] = useState<OTDBQuestionDetails | null>(null);
 
   useEffect(() => {
@@ -48,6 +49,7 @@ function QuestionScreen() {
         if (attemptCount < 10) {
           await fetchQuestionDetails();
         } else {
+          setNetworkError((error as Error).message);
           console.error(error);
         }
       }
@@ -56,7 +58,7 @@ function QuestionScreen() {
     fetchQuestionDetails();
   }, [OTDBToken, difficulty]);
 
-  if (!questionDetails) {
+  if (!questionDetails && !networkError) {
     return (
       <View style={styles.container}>
         <ActivityIndicator size="large" />
@@ -69,25 +71,32 @@ function QuestionScreen() {
       <Stack.Screen options={{ title: '' }} />
       <Container>
         <ScrollView contentContainerStyle={styles.container}>
-          <View style={styles.questionContainer}>
-            <Text style={styles.categoryText}>{questionDetails.category}</Text>
-            <Text style={styles.questionText}>{questionDetails.question}</Text>
-          </View>
-          <Answers
-            correctAnswer={questionDetails.correct_answer}
-            incorrectAnswers={questionDetails.incorrect_answers}
-            onAnswerSelect={() => setAnswerIsSelected(true)}
-          />
-          {answerIsSelected && ( // TODO: Disable button after clicking.
-            <Link
-              replace
-              href={{ pathname: '/question', params: { difficulty, OTDBToken } }}
-              asChild>
-              <TouchableOpacity style={styles.nextQuestionButton}>
-                <Text style={styles.nextQuestionText}>Next Question</Text>
-              </TouchableOpacity>
-            </Link>
+          {questionDetails && !networkError && (
+            <>
+              <View style={styles.questionContainer}>
+                <Text style={styles.categoryText}>{questionDetails.category}</Text>
+                <Text style={styles.questionText}>{questionDetails.question}</Text>
+              </View>
+              <Answers
+                correctAnswer={questionDetails.correct_answer}
+                incorrectAnswers={questionDetails.incorrect_answers}
+                onAnswerSelect={() => setAnswerIsSelected(true)}
+              />
+            </>
           )}
+
+          <Link replace href={{ pathname: '/question', params: { difficulty, OTDBToken } }} asChild>
+            <TouchableOpacity
+              disabled={!answerIsSelected && !networkError}
+              style={{
+                ...styles.nextQuestionButton,
+                opacity: !answerIsSelected && !networkError ? 0 : 1,
+              }}>
+              <Text style={styles.nextQuestionText}>
+                {networkError ? 'Network Error - Retry' : 'Next Question'}
+              </Text>
+            </TouchableOpacity>
+          </Link>
         </ScrollView>
       </Container>
     </>
