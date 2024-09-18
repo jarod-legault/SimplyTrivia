@@ -14,7 +14,6 @@ export default function Home() {
     setIsFetchingToken(true);
 
     try {
-      // TODO: Handle different response codes.
       const response = await axios.get('https://opentdb.com/api_token.php', {
         params: {
           command: 'request',
