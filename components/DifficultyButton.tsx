@@ -10,7 +10,7 @@ interface Props {
 function DifficultyButton({ difficulty, onPress }: Props) {
   return (
     <TouchableOpacity
-      style={[styles.questionCategoryContainer, getBorderStyle(difficulty)]}
+      style={[styles.difficultyButtonContainer, getBorderStyle(difficulty)]}
       onPress={onPress}>
       <Text style={styles.difficultyTextStyle}>{difficulty}</Text>
     </TouchableOpacity>
@@ -39,7 +39,7 @@ const styles = StyleSheet.create({
   hardBorder: {
     borderColor: '#FF570D',
   },
-  questionCategoryContainer: {
+  difficultyButtonContainer: {
     width: '90%',
     marginVertical: 10,
     backgroundColor: 'white',
