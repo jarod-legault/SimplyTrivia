@@ -66,9 +66,16 @@ function QuestionScreen() {
     );
   }
 
+  let headerTitle = 'Easy';
+  if (difficulty === 'medium') {
+    headerTitle = 'Medium';
+  } else if (difficulty === 'hard') {
+    headerTitle = 'Hard';
+  }
+
   return (
     <>
-      <Stack.Screen options={{ title: '' }} />
+      <Stack.Screen options={{ title: headerTitle }} />
       <Container>
         <ScrollView contentContainerStyle={styles.container}>
           {questionDetails && !networkError && (
