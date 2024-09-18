@@ -50,6 +50,7 @@ const styles = StyleSheet.create({
   answerContainer: {
     width: '47%',
     borderRadius: 20,
+    justifyContent: 'center',
     marginVertical: 10,
     padding: 5,
   },
