@@ -32,8 +32,8 @@ function QuestionScreen() {
   const [questionDetails, setQuestionDetails] = useState<OTDBQuestionDetails | null>(null);
 
   useEffect(() => {
+    let attemptCount = 0;
     async function fetchQuestionDetails() {
-      let attemptCount = 0;
       try {
         attemptCount++;
         const response = await axios.get('https://opentdb.com/api.php/', {
