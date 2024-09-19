@@ -1,24 +1,31 @@
-import { useState } from 'react';
+import { useEffect, useState } from 'react';
 import { StyleSheet, View } from 'react-native';
 
 import Answer from './Answer';
 
+import { OTDBQuestionDetails } from '~/types';
+
 interface Props {
-  correctAnswer: string;
-  incorrectAnswers: string[];
-  onAnswerSelect: () => void;
+  questionDetails: OTDBQuestionDetails;
+  onAnswerSelect: (answer: string) => void;
+  selectedAnswer: string;
 }
 
-function Answers({ correctAnswer, incorrectAnswers, onAnswerSelect }: Props) {
-  const [answers, setAnswers] = useState<string[] | null>(null);
-  const [selectedAnswer, setSelectedAnswer] = useState<string | null>(null);
+function Answers({ questionDetails, onAnswerSelect, selectedAnswer }: Props) {
+  const [answers, setAnswers] = useState<string[]>([]);
 
-  if (!answers) {
-    const correctAnswerIndex = getRandomIndex(incorrectAnswers.length + 1); // Add 1 because we haven't added the correct answer to the array yet.
-    const incorrectAnswersCopy = [...incorrectAnswers];
-    incorrectAnswersCopy.splice(correctAnswerIndex, 0, correctAnswer); // Insert the correct answer into the array in a random position.
-    setAnswers(incorrectAnswersCopy);
-  }
+  useEffect(() => {
+    if (!selectedAnswer) {
+      const correctAnswerIndex = getRandomIndex(questionDetails.incorrect_answers.length + 1); // Add 1 because we haven't added the correct answer to the array yet.
+      const incorrectAnswersCopy = [...questionDetails.incorrect_answers];
+
+      setAnswers([
+        ...incorrectAnswersCopy.slice(0, correctAnswerIndex),
+        questionDetails.correct_answer,
+        ...incorrectAnswersCopy.slice(correctAnswerIndex),
+      ]); // Insert the correct answer into the array in a random position.
+    }
+  }, [selectedAnswer]);
 
   return (
     <View style={styles.answersContainer}>
@@ -27,11 +34,10 @@ function Answers({ correctAnswer, incorrectAnswers, onAnswerSelect }: Props) {
           <Answer
             key={answer}
             thisAnswer={answer}
-            correctAnswer={correctAnswer}
+            correctAnswer={questionDetails.correct_answer}
             disabled={!!selectedAnswer}
             onPress={(newSelectedAnswer) => {
-              setSelectedAnswer(newSelectedAnswer);
-              onAnswerSelect();
+              onAnswerSelect(newSelectedAnswer);
             }}
             selectedAnswer={selectedAnswer}
           />

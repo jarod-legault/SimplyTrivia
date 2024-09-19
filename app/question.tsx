@@ -1,6 +1,6 @@
 import axios from 'axios';
 import { Buffer } from 'buffer';
-import { Stack, Link } from 'expo-router';
+import { Stack } from 'expo-router';
 import { useCallback, useEffect, useRef, useState } from 'react';
 import {
   ActivityIndicator,
@@ -22,7 +22,7 @@ const QUESTION_COUNT_TARGET = 20;
 function QuestionScreen() {
   const OTDBToken = useStore((state) => state.OTDBToken);
   const difficulty = useStore((state) => state.difficulty);
-  const [answerIsSelected, setAnswerIsSelected] = useState<boolean>(false);
+  const [selectedAnswer, setSelectedAnswer] = useState<string>('');
   const [networkError, setNetworkError] = useState<string>('');
   const [currentQuestion, setCurrentQuestion] = useState<OTDBQuestionDetails | null>(null);
   const questions = useRef<OTDBQuestionDetails[]>([]);
@@ -43,17 +43,28 @@ function QuestionScreen() {
           ...questions.current,
           ...convertQuestionsFromBase64(response.data.results),
         ];
+        if (!currentQuestion) goToNextQuestion();
       } catch (error) {
-        setNetworkError((error as Error).message);
-        console.error(error);
+        if (questions.current.length === 0) {
+          setNetworkError((error as Error).message);
+          console.error(error);
+        }
       }
     }
-    setCurrentQuestion(questions.current[0]);
   }, []);
 
   useEffect(() => {
     fetchQuestions();
-  }, [OTDBToken, difficulty]);
+  }, []);
+
+  const goToNextQuestion = () => {
+    if (questions.current.length > 0) {
+      setSelectedAnswer('');
+      setNetworkError('');
+      setCurrentQuestion(questions.current.shift()!);
+    }
+    fetchQuestions();
+  };
 
   if (!currentQuestion && !networkError) {
     return (
@@ -82,25 +93,31 @@ function QuestionScreen() {
                 <Text style={styles.questionText}>{currentQuestion.question}</Text>
               </View>
               <Answers
-                correctAnswer={currentQuestion.correct_answer}
-                incorrectAnswers={currentQuestion.incorrect_answers}
-                onAnswerSelect={() => setAnswerIsSelected(true)}
+                questionDetails={currentQuestion}
+                onAnswerSelect={(answer) => setSelectedAnswer(answer)}
+                selectedAnswer={selectedAnswer}
               />
+
+              <TouchableOpacity
+                disabled={!selectedAnswer}
+                style={{
+                  ...styles.nextQuestionButton,
+                  opacity: !selectedAnswer ? 0 : 1,
+                }}
+                onPress={goToNextQuestion}>
+                <Text style={styles.nextQuestionText}>Next Question</Text>
+              </TouchableOpacity>
             </>
           )}
 
-          <Link replace href={{ pathname: '/question', params: { difficulty, OTDBToken } }} asChild>
+          {networkError && (
             <TouchableOpacity
-              disabled={!answerIsSelected && !networkError}
-              style={{
-                ...styles.nextQuestionButton,
-                opacity: !answerIsSelected && !networkError ? 0 : 1,
-              }}>
-              <Text style={styles.nextQuestionText}>
-                {networkError ? 'Network Error - Retry' : 'Next Question'}
-              </Text>
+              disabled={!selectedAnswer && !networkError}
+              onPress={fetchQuestions}
+              style={styles.nextQuestionButton}>
+              <Text style={styles.nextQuestionText}>Network Error - Retry</Text>
             </TouchableOpacity>
-          </Link>
+          )}
         </ScrollView>
       </Container>
     </>

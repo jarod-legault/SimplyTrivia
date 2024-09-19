@@ -1,0 +1,2 @@
+- Move fetching code to separate file.
+- Fetch 50 questions on the home screen, and store them in the store based on difficulty.
