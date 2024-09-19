@@ -26,7 +26,10 @@ export interface OTDBQuestionDetails {
 }
 
 function QuestionScreen() {
-  const { difficulty, OTDBToken } = useLocalSearchParams();
+  const { difficulty, OTDBToken } = useLocalSearchParams<{
+    difficulty: difficultyType;
+    OTDBToken: string;
+  }>();
   const [answerIsSelected, setAnswerIsSelected] = useState<boolean>(false);
   const [networkError, setNetworkError] = useState<string>('');
   const [questionDetails, setQuestionDetails] = useState<OTDBQuestionDetails | null>(null);
