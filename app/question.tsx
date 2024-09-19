@@ -133,7 +133,7 @@ function convertDifficultyFromBase64(base64EncodedDifficulty: string) {
   if (difficulty === 'easy') {
     return 'easy';
   } else if (difficulty === 'medium') {
-    return 'easy';
+    return 'medium';
   } else {
     return 'hard';
   }
