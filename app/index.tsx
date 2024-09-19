@@ -13,19 +13,21 @@ import {
 
 import { Container } from '~/components/Container';
 import DifficultyButton from '~/components/DifficultyButton';
+import { useStore } from '~/store';
 
 export default function Home() {
-  const [OTDBToken, setOTDBToken] = useState<string | null>(null);
   const [isFetchingToken, setIsFetchingToken] = useState<boolean>(false);
   const [networkError, setNetworkError] = useState<string>('');
 
+  const setDifficulty = useStore((state) => state.setDifficulty);
+  const OTDBToken = useStore((state) => state.OTDBToken);
+  const setOTDBToken = useStore((state) => state.setOTDBToken);
+
   useEffect(() => {
-    let attemptCount = 0;
     async function getOTDBToken() {
       setIsFetchingToken(true);
 
       try {
-        attemptCount++;
         const response = await axios.get('https://opentdb.com/api_token.php', {
           params: {
             command: 'request',
@@ -34,13 +36,9 @@ export default function Home() {
         setOTDBToken(response.data.token);
         setIsFetchingToken(false);
       } catch (error) {
-        if (attemptCount < 10) {
-          await getOTDBToken();
-        } else {
-          setNetworkError((error as Error).message);
-          setIsFetchingToken(false);
-          console.error(error);
-        }
+        setNetworkError((error as Error).message);
+        setIsFetchingToken(false);
+        console.error(error);
       }
     }
 
@@ -74,20 +72,14 @@ export default function Home() {
 
             {OTDBToken && (
               <>
-                <Link
-                  href={{ pathname: '/question', params: { difficulty: 'easy', OTDBToken } }}
-                  asChild>
-                  <DifficultyButton difficulty="easy" />
+                <Link href={{ pathname: '/question', params: {} }} asChild>
+                  <DifficultyButton difficulty="easy" onPress={() => setDifficulty('easy')} />
                 </Link>
-                <Link
-                  href={{ pathname: '/question', params: { difficulty: 'medium', OTDBToken } }}
-                  asChild>
-                  <DifficultyButton difficulty="medium" />
+                <Link href={{ pathname: '/question', params: {} }} asChild>
+                  <DifficultyButton difficulty="medium" onPress={() => setDifficulty('medium')} />
                 </Link>
-                <Link
-                  href={{ pathname: '/question', params: { difficulty: 'hard', OTDBToken } }}
-                  asChild>
-                  <DifficultyButton difficulty="hard" />
+                <Link href={{ pathname: '/question', params: {} }} asChild>
+                  <DifficultyButton difficulty="hard" onPress={() => setDifficulty('hard')} />
                 </Link>
               </>
             )}

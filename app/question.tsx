@@ -1,7 +1,7 @@
 import axios from 'axios';
 import { Buffer } from 'buffer';
-import { Stack, Link, useLocalSearchParams } from 'expo-router';
-import { useEffect, useState } from 'react';
+import { Stack, Link } from 'expo-router';
+import { useCallback, useEffect, useRef, useState } from 'react';
 import {
   ActivityIndicator,
   ScrollView,
@@ -14,54 +14,48 @@ import {
 import Answers from '../components/Answers';
 
 import { Container } from '~/components/Container';
+import { useStore } from '~/store';
+import { OTDBQuestionDetails } from '~/types';
 
-export type difficultyType = 'easy' | 'medium' | 'hard';
-export interface OTDBQuestionDetails {
-  category: string;
-  type: string;
-  difficulty: difficultyType;
-  question: string;
-  correct_answer: string;
-  incorrect_answers: string[];
-}
+const QUESTION_COUNT_TARGET = 20;
 
 function QuestionScreen() {
-  const { difficulty, OTDBToken } = useLocalSearchParams<{
-    difficulty: difficultyType;
-    OTDBToken: string;
-  }>();
+  const OTDBToken = useStore((state) => state.OTDBToken);
+  const difficulty = useStore((state) => state.difficulty);
   const [answerIsSelected, setAnswerIsSelected] = useState<boolean>(false);
   const [networkError, setNetworkError] = useState<string>('');
-  const [questionDetails, setQuestionDetails] = useState<OTDBQuestionDetails | null>(null);
+  const [currentQuestion, setCurrentQuestion] = useState<OTDBQuestionDetails | null>(null);
+  const questions = useRef<OTDBQuestionDetails[]>([]);
 
-  useEffect(() => {
-    let attemptCount = 0;
-    async function fetchQuestionDetails() {
+  const fetchQuestions = useCallback(async () => {
+    if (questions.current.length < QUESTION_COUNT_TARGET / 2) {
       try {
-        attemptCount++;
+        const amount = QUESTION_COUNT_TARGET - questions.current.length;
         const response = await axios.get('https://opentdb.com/api.php/', {
           params: {
-            amount: '1',
+            amount,
             encode: 'base64',
             token: OTDBToken,
             difficulty,
           },
         });
-        setQuestionDetails(convertQuestionDetailsFromBase64(response.data.results[0]));
+        questions.current = [
+          ...questions.current,
+          ...convertQuestionsFromBase64(response.data.results),
+        ];
       } catch (error) {
-        if (attemptCount < 10) {
-          await fetchQuestionDetails();
-        } else {
-          setNetworkError((error as Error).message);
-          console.error(error);
-        }
+        setNetworkError((error as Error).message);
+        console.error(error);
       }
     }
+    setCurrentQuestion(questions.current[0]);
+  }, []);
 
-    fetchQuestionDetails();
+  useEffect(() => {
+    fetchQuestions();
   }, [OTDBToken, difficulty]);
 
-  if (!questionDetails && !networkError) {
+  if (!currentQuestion && !networkError) {
     return (
       <View style={styles.container}>
         <ActivityIndicator size="large" />
@@ -81,15 +75,15 @@ function QuestionScreen() {
       <Stack.Screen options={{ title: headerTitle }} />
       <Container>
         <ScrollView contentContainerStyle={styles.container}>
-          {questionDetails && !networkError && (
+          {currentQuestion && !networkError && (
             <>
               <View style={styles.questionContainer}>
-                <Text style={styles.categoryText}>{questionDetails.category}</Text>
-                <Text style={styles.questionText}>{questionDetails.question}</Text>
+                <Text style={styles.categoryText}>{currentQuestion.category}</Text>
+                <Text style={styles.questionText}>{currentQuestion.question}</Text>
               </View>
               <Answers
-                correctAnswer={questionDetails.correct_answer}
-                incorrectAnswers={questionDetails.incorrect_answers}
+                correctAnswer={currentQuestion.correct_answer}
+                incorrectAnswers={currentQuestion.incorrect_answers}
                 onAnswerSelect={() => setAnswerIsSelected(true)}
               />
             </>
@@ -111,6 +105,10 @@ function QuestionScreen() {
       </Container>
     </>
   );
+}
+
+function convertQuestionsFromBase64(base64Questions: OTDBQuestionDetails[]) {
+  return base64Questions.map((base64Question) => convertQuestionDetailsFromBase64(base64Question));
 }
 
 function convertQuestionDetailsFromBase64(
@@ -150,9 +148,10 @@ const styles = StyleSheet.create({
     marginBottom: 10,
   },
   container: {
-    flex: 1,
+    flexGrow: 1,
     alignItems: 'center',
     justifyContent: 'center',
+    borderWidth: 1,
   },
   nextQuestionButton: {
     padding: 20,
