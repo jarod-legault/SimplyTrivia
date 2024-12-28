@@ -1,2 +1,3 @@
 - Move fetching code to separate file.
-- Fetch 50 questions on the home screen, and store them in the store based on difficulty.
+- Fetch 10 questions in the category when the question screen loads. Then fetch 5 more every time it gets down to 5.
+- Test on iOS.

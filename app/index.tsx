@@ -1,4 +1,3 @@
-import axios from 'axios';
 import { Stack, Link } from 'expo-router';
 import { useEffect, useState } from 'react';
 import {
@@ -13,36 +12,32 @@ import {
 
 import { Container } from '~/components/Container';
 import DifficultyButton from '~/components/DifficultyButton';
+import { useOtdbApi } from '~/hooks/useOtdbApi';
 import { useStore } from '~/store';
 
 export default function Home() {
-  const [isFetchingToken, setIsFetchingToken] = useState<boolean>(false);
+  const [loading, setLoading] = useState<boolean>(true);
   const [networkError, setNetworkError] = useState<string>('');
 
   const setDifficulty = useStore((state) => state.setDifficulty);
-  const OTDBToken = useStore((state) => state.OTDBToken);
-  const setOTDBToken = useStore((state) => state.setOTDBToken);
+
+  const { updateToken } = useOtdbApi();
 
   useEffect(() => {
-    async function getOTDBToken() {
-      setIsFetchingToken(true);
-
+    async function init() {
+      setLoading(true);
       try {
-        const response = await axios.get('https://opentdb.com/api_token.php', {
-          params: {
-            command: 'request',
-          },
-        });
-        setOTDBToken(response.data.token);
-        setIsFetchingToken(false);
+        await updateToken();
+        setNetworkError('');
       } catch (error) {
+        console.error(error); // FIXME: Update network error? Maybe in global state?
         setNetworkError((error as Error).message);
-        setIsFetchingToken(false);
-        console.error(error);
       }
+
+      setLoading(false);
     }
 
-    getOTDBToken();
+    init();
   }, []);
 
   return (
@@ -56,7 +51,7 @@ export default function Home() {
           </View>
 
           <View style={styles.body}>
-            {isFetchingToken && (
+            {loading && (
               <View style={{ flex: 1, justifyContent: 'center' }}>
                 <ActivityIndicator size="large" />
               </View>
@@ -70,7 +65,7 @@ export default function Home() {
               </Link>
             )}
 
-            {OTDBToken && (
+            {!loading && (
               <>
                 <Link href={{ pathname: '/question', params: {} }} asChild>
                   <DifficultyButton difficulty="easy" onPress={() => setDifficulty('easy')} />
