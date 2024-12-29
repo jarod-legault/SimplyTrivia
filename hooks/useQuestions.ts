@@ -32,7 +32,7 @@ export function useQuestions() {
     }
 
     if (questions.length === 0) {
-      questions = await getQuestions(MIN_QUESTION_COUNT);
+      questions = await getQuestions(MAX_QUESTION_COUNT);
     } else if (questions.length <= MIN_QUESTION_COUNT) {
       const newQuestions = await getQuestions(MAX_QUESTION_COUNT - questions.length + 1);
       questions = [...questions, ...newQuestions];
