@@ -1,5 +1,5 @@
 import { Link, Stack } from 'expo-router';
-import { useEffect, useState } from 'react';
+import { useEffect, useRef, useState } from 'react';
 import {
   ActivityIndicator,
   ScrollView,
@@ -18,24 +18,27 @@ import { OTDBQuestionDetails } from '~/types';
 
 function QuestionScreen() {
   const difficulty = useStore((state) => state.difficulty);
+  const networkError = useStore((state) => state.networkError);
+  const easyQuestions = useStore((state) => state.easyQuestions);
+  const mediumQuestions = useStore((state) => state.mediumQuestions);
+  const hardQuestions = useStore((state) => state.hardQuestions);
+  const apiTimerIsTiming = useStore((state) => state.apiTimerIsTiming);
   const [selectedAnswer, setSelectedAnswer] = useState<string>('');
-  const [networkError, setNetworkError] = useState<string>('');
   const [currentQuestion, setCurrentQuestion] = useState<OTDBQuestionDetails | null>(null);
   const getNextQuestion = useQuestions();
+  const previousApiTimerIsTiming = useRef(false);
 
   useEffect(() => {
-    const init = async () => {
-      try {
-        setCurrentQuestion(await getNextQuestion());
-        setNetworkError('');
-      } catch (error) {
-        setNetworkError((error as Error).message);
-        console.error((error as Error).message);
-      }
-    };
+    if (!currentQuestion) setCurrentQuestion(getNextQuestion());
+  }, [easyQuestions, mediumQuestions, hardQuestions]);
 
-    init();
-  }, []);
+  useEffect(() => {
+    if (!currentQuestion && previousApiTimerIsTiming.current && !apiTimerIsTiming) {
+      setCurrentQuestion(getNextQuestion());
+    }
+
+    previousApiTimerIsTiming.current = apiTimerIsTiming;
+  }, [apiTimerIsTiming]);
 
   if (!currentQuestion && !networkError) {
     return (
@@ -81,7 +84,7 @@ function QuestionScreen() {
             </>
           )}
 
-          {networkError && (
+          {!!networkError && (
             <Link replace href={{ pathname: '/question', params: {} }} asChild>
               <TouchableOpacity
                 disabled={!selectedAnswer && !networkError}

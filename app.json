@@ -28,7 +28,8 @@
       "**/*"
     ],
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "net.jarodl.simplytrivia"
     },
     "android": {
       "adaptiveIcon": {

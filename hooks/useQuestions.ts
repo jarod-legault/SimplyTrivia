@@ -1,3 +1,4 @@
+import { useRef } from 'react';
 import { useOtdbApi } from './useOtdbApi';
 
 import { useStore } from '~/store';
@@ -14,10 +15,33 @@ export function useQuestions() {
   const setEasyQuestions = useStore((state) => state.setEasyQuestions);
   const setMediumQuestions = useStore((state) => state.setMediumQuestions);
   const setHardQuestions = useStore((state) => state.setHardQuestions);
+  const questionsRef = useRef<OTDBQuestionDetails[]>([]);
 
-  const { getQuestions } = useOtdbApi();
+  const { getQuestionsFromOtdb } = useOtdbApi();
 
-  const getNextQuestion = async () => {
+  const getNextQuestion = () => {
+    questionsRef.current = getQuestionsFromStore();
+
+    if (questionsRef.current.length > 0) {
+      const nextQuestion = questionsRef.current.shift()!;
+      updateQuestionsInStore(questionsRef.current);
+      if (questionsRef.current.length <= MIN_QUESTION_COUNT) addQuestions();
+      return nextQuestion;
+    } else {
+      addQuestions();
+      return null;
+    }
+  };
+
+  const addQuestions = async () => {
+    const newQuestions = await getQuestionsFromOtdb(MAX_QUESTION_COUNT - MIN_QUESTION_COUNT);
+    if (newQuestions !== null && newQuestions.length > 0) {
+      const updatedQuestions = [...questionsRef.current, ...newQuestions];
+      updateQuestionsInStore(updatedQuestions);
+    }
+  };
+
+  const getQuestionsFromStore = () => {
     let questions: OTDBQuestionDetails[];
 
     switch (difficulty) {
@@ -31,20 +55,10 @@ export function useQuestions() {
         questions = [...hardQuestions];
     }
 
-    if (questions.length === 0) {
-      questions = await getQuestions(MAX_QUESTION_COUNT);
-    } else if (questions.length <= MIN_QUESTION_COUNT) {
-      const newQuestions = await getQuestions(MAX_QUESTION_COUNT - questions.length + 1);
-      questions = [...questions, ...newQuestions];
-    }
-
-    const nextQuestion = questions.shift()!;
-    updateQuestions(questions);
-
-    return nextQuestion;
+    return questions;
   };
 
-  const updateQuestions = (questions: OTDBQuestionDetails[]) => {
+  const updateQuestionsInStore = (questions: OTDBQuestionDetails[]) => {
     switch (difficulty) {
       case 'easy':
         setEasyQuestions(questions);

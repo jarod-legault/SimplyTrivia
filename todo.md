@@ -1,3 +1,3 @@
-- Move fetching code to separate file.
-- Fetch 10 questions in the category when the question screen loads. Then fetch 5 more every time it gets down to 5.
-- Test on iOS.
+
+- Update app icon.
+- Fix "Function components cannot be given refs." error.

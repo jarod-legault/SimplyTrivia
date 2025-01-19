@@ -1,6 +1,5 @@
 import axios from 'axios';
 import { Buffer } from 'buffer';
-import { useRef } from 'react';
 
 import { useStore } from '~/store';
 import { OTDBQuestionDetails } from '~/types';
@@ -8,18 +7,21 @@ import { OTDBQuestionDetails } from '~/types';
 const BASE_URL = 'https://opentdb.com';
 const QUESTION_URL = `${BASE_URL}/api.php/`;
 const TOKEN_URL = `${BASE_URL}/api_token.php/`;
-const MAX_RETRIES = 1;
-const RETRY_TIMEOUT_IN_MS = 5500;
-
-type GetQuestionsType = (amount: number) => Promise<OTDBQuestionDetails[]>;
 
 export function useOtdbApi() {
   const difficulty = useStore((state) => state.difficulty);
   const OTDBToken = useStore((state) => state.OTDBToken);
   const setOTDBToken = useStore((state) => state.setOTDBToken);
-  const retryCountRef = useRef<number>(0);
+  const setNetworkError = useStore((state) => state.setNetworkError);
+  const isFetching = useStore((state) => state.isFetching);
+  const setIsFetching = useStore((state) => state.setIsFetching);
+  const apiTimerIsTiming = useStore((state) => state.apiTimerIsTiming);
 
-  const getQuestions: GetQuestionsType = async (amount: number) => {
+  const getQuestionsFromOtdb = async (amount: number) => {
+    if (isFetching || apiTimerIsTiming) return null;
+
+    setIsFetching(true);
+
     try {
       const response = await axios.get(QUESTION_URL, {
         params: {
@@ -30,18 +32,14 @@ export function useOtdbApi() {
         },
       });
 
-      retryCountRef.current = 0;
+      setNetworkError('');
 
       return convertQuestionsFromBase64(response.data.results);
     } catch (error) {
-      if (retryCountRef.current <= MAX_RETRIES) {
-        retryCountRef.current++;
-        return new Promise((resolve) => {
-          setTimeout(async () => resolve(await getQuestions(amount)), RETRY_TIMEOUT_IN_MS); // FIXME: Clear timers in useEffect.
-        });
-      } else {
-        throw error;
-      }
+      setNetworkError((error as Error).message);
+      return null;
+    } finally {
+      setIsFetching(false);
     }
   };
 
@@ -54,7 +52,7 @@ export function useOtdbApi() {
     setOTDBToken(response.data.token);
   };
 
-  return { getQuestions, updateToken };
+  return { getQuestionsFromOtdb, updateToken };
 }
 
 function convertQuestionsFromBase64(base64Questions: OTDBQuestionDetails[]) {
