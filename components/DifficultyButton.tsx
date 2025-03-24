@@ -1,23 +1,25 @@
+import { forwardRef } from 'react';
 import { StyleSheet, Text, TouchableOpacity } from 'react-native';
 
-import { difficultyType } from '~/app/question';
+import { Difficulty } from '~/types';
 
 interface Props {
-  difficulty: difficultyType;
+  difficulty: Difficulty;
   onPress?: () => void;
 }
 
-function DifficultyButton({ difficulty, onPress }: Props) {
+const DifficultyButton = forwardRef<TouchableOpacity, Props>(({ difficulty, onPress }, ref) => {
   return (
     <TouchableOpacity
+      ref={ref}
       style={[styles.difficultyButtonContainer, getBorderStyle(difficulty)]}
       onPress={onPress}>
       <Text style={styles.difficultyTextStyle}>{difficulty}</Text>
     </TouchableOpacity>
   );
-}
+});
 
-function getBorderStyle(difficulty: difficultyType) {
+function getBorderStyle(difficulty: Difficulty) {
   if (difficulty === 'easy') {
     return styles.easyBorder;
   } else if (difficulty === 'medium') {
