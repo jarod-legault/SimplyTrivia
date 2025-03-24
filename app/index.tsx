@@ -46,7 +46,7 @@ export default function Home() {
       <Container>
         <ScrollView contentContainerStyle={styles.difficultyContainer}>
           <View style={styles.headerStyle}>
-            <Image style={styles.logo} source={require('../assets/logo.png')} />
+            <Image style={styles.logo} source={require('../assets/icon.png')} />
             <Text style={styles.headerText}>Simply Trivia</Text>
           </View>
 
