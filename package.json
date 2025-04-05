@@ -4,9 +4,10 @@
   "main": "expo-router/entry",
   "scripts": {
     "android": "expo run:android",
+    "prebuild:clean": "expo prebuild --clean",
     "dev:android": "eas build --platform android --profile development --local",
     "ios": "expo run:ios",
-    "dev:ios:eas": "eas build --platform ios --profile development --local",
+    "dev:ios": "eas build --platform ios --profile development --local",
     "dev:ios:device": "expo run:ios --device",
     "prebuild": "expo prebuild",
     "start": "expo start",
