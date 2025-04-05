@@ -1,5 +1,5 @@
 ## 1.1
-- [ ] Delete unused files and clear out screens.
+- [x] Delete unused files and clear out screens.
 - [ ] Check Android package name.
 - [ ] Update app icon.
 - [ ] Determine categories
