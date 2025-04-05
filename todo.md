@@ -15,6 +15,7 @@
 
 ## Future updates
   - [ ] Backend for questions, user accounts
+  - [ ] Ability for users to report inaccurate questions.
   - [ ] Track questions that are answered and determine how difficult they are based on how often they are answered correctly.
   - [ ] Periodically cull questions that have a >95% correct answer rate.
   - [ ] Time limit for answering questions.
