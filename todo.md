@@ -2,7 +2,7 @@
   - [x] Delete unused files and clear out screens.
   - [x] Check Android package name.
   - [x] Update app icon and splash screen.
-  - [ ] Remove unused packages.
+  - [x] Remove unused packages.
   - [ ] Determine categories
   - [ ] Get 10,000 questions
   - [ ] Come up with a question-manager app (web page?) for adding questions with duplicate detection
