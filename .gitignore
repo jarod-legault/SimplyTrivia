@@ -13,9 +13,13 @@ web-build/
 expo-env.d.ts
 
 
-
+# iOS
 ios
+*.ipa
+
+# Android
 android
+*.apk
 
 # macOS
 .DS_Store
