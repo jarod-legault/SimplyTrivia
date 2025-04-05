@@ -1,17 +1,17 @@
 ## 1.1
-- [x] Delete unused files and clear out screens.
-- [x] Check Android package name.
-- [ ] Update app icon.
-- [ ] Remove unused packages.
-- [ ] Determine categories
-- [ ] Get 10,000 questions
-- [ ] Come up with a question-manager app (web page?) for adding questions with duplicate detection
-- [ ] Figure how to store questions answered by users (sqlite?)
-- [ ] Should we encrypt the questions in the app?
-- [ ] Create home screen (easy, medium, hard, surprise me, settings, statistics)
-- [ ] Create settings screen (select categories)
-- [ ] Create question screen
-- [ ] Test in dark mode and light mode.
+  - [x] Delete unused files and clear out screens.
+  - [x] Check Android package name.
+  - [x] Update app icon and splash screen.
+  - [ ] Remove unused packages.
+  - [ ] Determine categories
+  - [ ] Get 10,000 questions
+  - [ ] Come up with a question-manager app (web page?) for adding questions with duplicate detection
+  - [ ] Figure how to store questions answered by users (sqlite?)
+  - [ ] Should we encrypt the questions in the app?
+  - [ ] Create home screen (easy, medium, hard, surprise me, settings, statistics)
+  - [ ] Create settings screen (select categories)
+  - [ ] Create question screen
+  - [ ] Test in dark mode and light mode.
 
 ## Future updates
   - [ ] Backend for questions, user accounts
