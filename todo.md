@@ -1,6 +1,6 @@
 ## 1.1
 - [x] Delete unused files and clear out screens.
-- [ ] Check Android package name.
+- [x] Check Android package name.
 - [ ] Update app icon.
 - [ ] Determine categories
 - [ ] Get 10,000 questions
