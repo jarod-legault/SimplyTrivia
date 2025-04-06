@@ -11,6 +11,7 @@
   - [ ] Create home screen (easy, medium, hard, surprise me, settings, statistics)
   - [ ] Create settings screen (select categories)
   - [ ] Create question screen
+  - [ ] Create statistics screen where user can see how they have performed in different categories and difficulties.
   - [ ] Test in dark mode and light mode.
 
 ## Future updates
