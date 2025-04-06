@@ -5,16 +5,17 @@ import initSqlJs from 'sql.js';
 export default function AdminPage() {
   const [jsonInput, setJsonInput] = useState('');
   const [db, setDb] = useState<any>(null);
+  const [questions, setQuestions] = useState<any[]>([]);
 
   useEffect(() => {
-    // Initialize sql.js and create an in-memory database
+    console.log('Initializing database...');
     const loadDb = async () => {
       const SQL = await initSqlJs({
         locateFile: (file: string) => `https://sql.js.org/dist/${file}`,
       });
       const database: any = new SQL.Database();
 
-      // Create the questions table if it doesn't exist
+      console.log('Database initialized.');
       database.run(`
         CREATE TABLE IF NOT EXISTS questions (
           id INTEGER PRIMARY KEY AUTOINCREMENT,
@@ -31,6 +32,36 @@ export default function AdminPage() {
 
     loadDb();
   }, []);
+
+  useEffect(() => {
+    if (db) {
+      fetchQuestions();
+    }
+  }, [db]);
+
+  const fetchQuestions = () => {
+    if (!db) {
+      console.error('Database is not initialized yet.');
+      alert('Database is not initialized yet.');
+      return;
+    }
+
+    console.log('Fetching questions from database...');
+    const result = db.exec('SELECT * FROM questions');
+    if (result.length > 0) {
+      setQuestions(result[0].values);
+    }
+  };
+
+  const deleteQuestion = (id: number) => {
+    if (!db) {
+      alert('Database is not initialized yet.');
+      return;
+    }
+
+    db.run('DELETE FROM questions WHERE id = ?', [id]);
+    fetchQuestions();
+  };
 
   const handleImport = () => {
     if (!db) {
@@ -53,6 +84,7 @@ export default function AdminPage() {
         );
       });
       alert('Questions imported successfully!');
+      fetchQuestions();
     } catch {
       alert('Invalid JSON format. Please check your input.');
     }
@@ -90,6 +122,13 @@ export default function AdminPage() {
         <View style={styles.buttonSpacing} />
         <Button title="Export Database" onPress={handleExport} />
       </View>
+      <Text style={styles.subtitle}>Questions</Text>
+      {questions.map((question, index) => (
+        <View key={index} style={styles.questionContainer}>
+          <Text style={styles.questionText}>{question[1]}</Text>
+          <Button title="Delete" onPress={() => deleteQuestion(question[0])} />
+        </View>
+      ))}
     </View>
   );
 }
@@ -104,6 +143,12 @@ const styles = StyleSheet.create({
     fontSize: 24,
     fontWeight: 'bold',
     marginBottom: 20,
+  },
+  subtitle: {
+    fontSize: 20,
+    fontWeight: 'bold',
+    marginTop: 20,
+    marginBottom: 10,
   },
   textInput: {
     height: 200,
@@ -125,5 +170,15 @@ const styles = StyleSheet.create({
   },
   buttonSpacing: {
     width: 10,
+  },
+  questionContainer: {
+    flexDirection: 'row',
+    justifyContent: 'space-between',
+    alignItems: 'center',
+    marginBottom: 10,
+  },
+  questionText: {
+    flex: 1,
+    fontSize: 16,
   },
 });
