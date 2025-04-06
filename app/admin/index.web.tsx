@@ -85,8 +85,11 @@ export default function AdminPage() {
         value={jsonInput}
         onChangeText={setJsonInput}
       />
-      <Button title="Import Questions" onPress={handleImport} />
-      <Button title="Export Database" onPress={handleExport} />
+      <View style={styles.buttonContainerCentered}>
+        <Button title="Import Questions" onPress={handleImport} />
+        <View style={styles.buttonSpacing} />
+        <Button title="Export Database" onPress={handleExport} />
+      </View>
     </View>
   );
 }
@@ -109,5 +112,18 @@ const styles = StyleSheet.create({
     marginBottom: 20,
     padding: 10,
     textAlignVertical: 'top',
+  },
+  buttonContainer: {
+    flexDirection: 'row',
+    justifyContent: 'space-between',
+    alignItems: 'center',
+  },
+  buttonContainerCentered: {
+    flexDirection: 'row',
+    justifyContent: 'center',
+    alignItems: 'center',
+  },
+  buttonSpacing: {
+    width: 10,
   },
 });
