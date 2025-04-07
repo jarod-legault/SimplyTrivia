@@ -3,9 +3,11 @@
   - [x] Check Android package name.
   - [x] Update app icon and splash screen.
   - [x] Remove unused packages.
-  - [ ] Determine categories
-  - [ ] Get 10,000 questions
+  - [x] Determine categories
   - [ ] Come up with a question-manager app (web page?) for adding questions with duplicate detection
+  - [ ] Store new questions (with duplicates removed) in a separate JSON file for historical & backup purposes.
+  - [ ] Fix warnings in web console.
+  - [ ] Get 10,000 questions
   - [ ] Figure how to store questions answered by users (sqlite?)
   - [ ] Should we encrypt the questions in the app?
   - [ ] Create home screen (easy, medium, hard, surprise me, settings, statistics)

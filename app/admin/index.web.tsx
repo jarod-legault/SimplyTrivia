@@ -1,115 +1,247 @@
+import { eq } from 'drizzle-orm';
+import { drizzle } from 'drizzle-orm/sql-js';
 import React, { useState, useEffect } from 'react';
 import { View, Text, TextInput, Button, StyleSheet } from 'react-native';
 import initSqlJs from 'sql.js';
 
+import * as schema from '../../models/schema';
+import { Question, NewQuestion, QuestionData } from '../../models/schema';
+import { generateUUID } from '../../utils/uuid';
+
+// Constants for database persistence
+const DB_STORAGE_KEY = 'simplytrivia_db';
+
 export default function AdminPage() {
   const [jsonInput, setJsonInput] = useState('');
-  const [db, setDb] = useState<any>(null);
-  const [questions, setQuestions] = useState<any[]>([]);
+  const [sqlJsDb, setSqlJsDb] = useState<any>(null);
+  const [drizzleDb, setDrizzleDb] = useState<any>(null);
+  const [questions, setQuestions] = useState<Question[]>([]);
+  const [dbInitError, setDbInitError] = useState<string | null>(null);
 
   useEffect(() => {
     console.log('Initializing database...');
     const loadDb = async () => {
-      const SQL = await initSqlJs({
-        locateFile: (file: string) => `https://sql.js.org/dist/${file}`,
-      });
-      const database: any = new SQL.Database();
+      try {
+        // Load SQL.js
+        console.log('Loading SQL.js...');
+        const SQL = await initSqlJs({
+          locateFile: (file: string) => `https://sql.js.org/dist/${file}`,
+        });
 
-      console.log('Database initialized.');
-      database.run(`
-        CREATE TABLE IF NOT EXISTS questions (
-          id INTEGER PRIMARY KEY AUTOINCREMENT,
-          question TEXT NOT NULL,
-          correct_answer TEXT NOT NULL,
-          incorrect_answers TEXT NOT NULL,
-          category TEXT NOT NULL,
-          difficulty TEXT NOT NULL
-        );
-      `);
+        let database;
+        // Check if we have a stored database in localStorage
+        const storedDb = localStorage.getItem(DB_STORAGE_KEY);
 
-      setDb(database);
+        if (storedDb) {
+          try {
+            console.log('Found stored database in localStorage, attempting to load...');
+            const uInt8Array = new Uint8Array(JSON.parse(storedDb));
+            database = new SQL.Database(uInt8Array);
+            console.log('Successfully loaded database from localStorage');
+          } catch (err) {
+            console.error('Failed to load database from localStorage:', err);
+            console.log('Creating a new database instead');
+            database = new SQL.Database();
+          }
+        } else {
+          console.log('No stored database found, creating a new one');
+          database = new SQL.Database();
+        }
+
+        console.log('Database initialized.');
+
+        // Create tables if they don't exist
+        console.log('Creating tables if needed...');
+        database.run(`
+          CREATE TABLE IF NOT EXISTS questions (
+            id TEXT PRIMARY KEY NOT NULL,
+            question TEXT NOT NULL,
+            correct_answer TEXT NOT NULL,
+            incorrect_answers TEXT NOT NULL,
+            category TEXT NOT NULL,
+            difficulty TEXT NOT NULL,
+            created_at INTEGER NOT NULL
+          );
+        `);
+
+        // Initialize Drizzle with SQL.js
+        const db = drizzle(database, { schema });
+
+        setSqlJsDb(database);
+        setDrizzleDb(db);
+
+        // Run a direct query to count questions
+        const countResult = database.exec('SELECT COUNT(*) as count FROM questions');
+        if (countResult && countResult.length > 0 && countResult[0].values.length > 0) {
+          console.log(`Database initialized with ${countResult[0].values[0]} questions`);
+        } else {
+          console.log('Database initialized with 0 questions or count query failed');
+        }
+      } catch (error) {
+        console.error('Error initializing database:', error);
+        setDbInitError(`Failed to initialize database: ${error.message}`);
+      }
     };
 
     loadDb();
   }, []);
 
+  // Save database to localStorage whenever it changes
   useEffect(() => {
-    if (db) {
+    const saveDatabase = () => {
+      if (sqlJsDb) {
+        console.log('Saving database to localStorage...');
+        try {
+          const data = sqlJsDb.export();
+          const arr = Array.from(data);
+          localStorage.setItem(DB_STORAGE_KEY, JSON.stringify(arr));
+          console.log(`Database saved to localStorage with ${questions.length} questions`);
+        } catch (err) {
+          console.error('Failed to save database to localStorage:', err);
+        }
+      }
+    };
+
+    // If we have questions and a database, save it
+    if (questions.length > 0 && sqlJsDb) {
+      saveDatabase();
+    }
+  }, [questions, sqlJsDb]);
+
+  useEffect(() => {
+    if (drizzleDb) {
+      console.log('Database is ready, fetching questions...');
       fetchQuestions();
     }
-  }, [db]);
+  }, [drizzleDb]);
 
-  const fetchQuestions = () => {
-    if (!db) {
+  const fetchQuestions = async () => {
+    if (!drizzleDb) {
       console.error('Database is not initialized yet.');
       alert('Database is not initialized yet.');
       return;
     }
 
-    console.log('Fetching questions from database...');
-    const result = db.exec('SELECT * FROM questions');
-    if (result.length > 0) {
-      setQuestions(result[0].values);
+    try {
+      console.log('Fetching questions from database...');
+      const result = await drizzleDb.select().from(schema.questions);
+      console.log(`Found ${result.length} questions in database`);
+
+      // Log some details about the questions if any are found
+      if (result.length > 0) {
+        console.log('First question:', result[0]);
+      }
+
+      setQuestions(result);
+    } catch (error) {
+      console.error('Error fetching questions:', error);
+      alert('Error fetching questions from database');
     }
   };
 
-  const deleteQuestion = (id: number) => {
-    if (!db) {
-      alert('Database is not initialized yet.');
-      return;
-    }
-
-    db.run('DELETE FROM questions WHERE id = ?', [id]);
-    fetchQuestions();
-  };
-
-  const handleImport = () => {
-    if (!db) {
+  const deleteQuestion = async (id: string) => {
+    if (!drizzleDb) {
       alert('Database is not initialized yet.');
       return;
     }
 
     try {
-      const questions: any[] = JSON.parse(jsonInput);
-      questions.forEach((q: any) => {
-        db.run(
-          `INSERT INTO questions (question, correct_answer, incorrect_answers, category, difficulty) VALUES (?, ?, ?, ?, ?);`,
-          [
-            q.question,
-            q.correct_answer,
-            JSON.stringify(q.incorrect_answers),
-            q.category,
-            q.difficulty,
-          ]
-        );
-      });
-      alert('Questions imported successfully!');
+      console.log(`Deleting question with ID: ${id}`);
+      await drizzleDb.delete(schema.questions).where(eq(schema.questions.id, id));
+      console.log('Question deleted successfully');
       fetchQuestions();
-    } catch {
-      alert('Invalid JSON format. Please check your input.');
+    } catch (error) {
+      console.error('Error deleting question:', error);
+      alert('Error deleting question');
     }
   };
 
-  const handleExport = () => {
-    if (!db) {
+  const handleImport = async () => {
+    if (!drizzleDb) {
       alert('Database is not initialized yet.');
       return;
     }
 
-    const binaryArray = db.export();
-    const blob = new Blob([binaryArray], { type: 'application/octet-stream' });
-    const url = URL.createObjectURL(blob);
+    try {
+      console.log('Parsing JSON input...');
+      const questionsData: QuestionData[] = JSON.parse(jsonInput);
+      console.log(`Parsed ${questionsData.length} questions from JSON input`);
 
-    const a = document.createElement('a');
-    a.href = url;
-    a.download = 'questions.db';
-    a.click();
-    URL.revokeObjectURL(url);
+      // Process questions in batches for better performance
+      const newQuestions: NewQuestion[] = questionsData.map((q: QuestionData) => ({
+        id: generateUUID(),
+        question: q.question,
+        correctAnswer: q.correct_answer,
+        incorrectAnswers:
+          typeof q.incorrect_answers === 'string'
+            ? q.incorrect_answers
+            : JSON.stringify(q.incorrect_answers),
+        category: q.category,
+        difficulty: q.difficulty,
+        createdAt: new Date(),
+      }));
+
+      // Insert questions using Drizzle
+      console.log(`Inserting ${newQuestions.length} questions into database...`);
+      await drizzleDb.insert(schema.questions).values(newQuestions);
+      console.log('Questions inserted successfully');
+
+      // Save database to localStorage after insert
+      if (sqlJsDb) {
+        try {
+          const data = sqlJsDb.export();
+          const arr = Array.from(data);
+          localStorage.setItem(DB_STORAGE_KEY, JSON.stringify(arr));
+          console.log('Database saved to localStorage after question import');
+        } catch (err) {
+          console.error('Failed to save database to localStorage after import:', err);
+        }
+      }
+
+      alert('Questions imported successfully!');
+      fetchQuestions();
+    } catch (error) {
+      console.error('Error importing questions:', error);
+      alert('Invalid JSON format or import error. Please check your input.');
+    }
+  };
+
+  const handleExport = () => {
+    if (!sqlJsDb) {
+      alert('Database is not initialized yet.');
+      return;
+    }
+
+    try {
+      console.log('Exporting database...');
+      const binaryArray = sqlJsDb.export();
+      console.log(`Database exported: ${binaryArray.byteLength} bytes`);
+
+      const blob = new Blob([binaryArray], { type: 'application/octet-stream' });
+      const url = URL.createObjectURL(blob);
+
+      const a = document.createElement('a');
+      a.href = url;
+      a.download = 'questions.db';
+      a.click();
+      URL.revokeObjectURL(url);
+      console.log('Database download initiated');
+    } catch (error) {
+      console.error('Error exporting database:', error);
+      alert('Error exporting database');
+    }
   };
 
   return (
     <View style={styles.container}>
       <Text style={styles.title}>Question Database Admin</Text>
+
+      {dbInitError && (
+        <View style={styles.errorContainer}>
+          <Text style={styles.errorText}>Error: {dbInitError}</Text>
+        </View>
+      )}
+
       <TextInput
         style={styles.textInput}
         multiline
@@ -121,12 +253,14 @@ export default function AdminPage() {
         <Button title="Import Questions" onPress={handleImport} />
         <View style={styles.buttonSpacing} />
         <Button title="Export Database" onPress={handleExport} />
+        <View style={styles.buttonSpacing} />
+        <Button title="Refresh Questions" onPress={fetchQuestions} />
       </View>
-      <Text style={styles.subtitle}>Questions</Text>
-      {questions.map((question, index) => (
-        <View key={index} style={styles.questionContainer}>
-          <Text style={styles.questionText}>{question[1]}</Text>
-          <Button title="Delete" onPress={() => deleteQuestion(question[0])} />
+      <Text style={styles.subtitle}>Questions ({questions.length})</Text>
+      {questions.map((question) => (
+        <View key={question.id} style={styles.questionContainer}>
+          <Text style={styles.questionText}>{question.question}</Text>
+          <Button title="Delete" onPress={() => deleteQuestion(question.id)} />
         </View>
       ))}
     </View>
@@ -180,5 +314,14 @@ const styles = StyleSheet.create({
   questionText: {
     flex: 1,
     fontSize: 16,
+  },
+  errorContainer: {
+    backgroundColor: '#ffeeee',
+    padding: 10,
+    borderRadius: 5,
+    marginBottom: 15,
+  },
+  errorText: {
+    color: 'red',
   },
 });
