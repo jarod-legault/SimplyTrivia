@@ -1,74 +1,111 @@
 import React, { useState, useEffect } from 'react';
-import { View, Text, TextInput, Button, StyleSheet, ScrollView } from 'react-native';
-
-import {
-  getQuestions,
-  importQuestions,
-  deleteQuestion,
-  initializeDatabase,
-} from '../../models/database';
-import Question from '../../models/Question';
+import { View, Text, TextInput, Button, StyleSheet } from 'react-native';
+import initSqlJs from 'sql.js';
 
 export default function AdminPage() {
   const [jsonInput, setJsonInput] = useState('');
-  const [questions, setQuestions] = useState<Question[]>([]);
-  const [isLoading, setIsLoading] = useState(true);
+  const [db, setDb] = useState<any>(null);
+  const [questions, setQuestions] = useState<any[]>([]);
 
   useEffect(() => {
-    const setupDatabase = async () => {
-      setIsLoading(true);
-      try {
-        // Initialize database first
-        await initializeDatabase();
-        await fetchQuestions();
-      } catch (error) {
-        console.error('Error setting up database:', error);
-      } finally {
-        setIsLoading(false);
-      }
+    console.log('Initializing database...');
+    const loadDb = async () => {
+      const SQL = await initSqlJs({
+        locateFile: (file: string) => `https://sql.js.org/dist/${file}`,
+      });
+      const database: any = new SQL.Database();
+
+      console.log('Database initialized.');
+      database.run(`
+        CREATE TABLE IF NOT EXISTS questions (
+          id INTEGER PRIMARY KEY AUTOINCREMENT,
+          question TEXT NOT NULL,
+          correct_answer TEXT NOT NULL,
+          incorrect_answers TEXT NOT NULL,
+          category TEXT NOT NULL,
+          difficulty TEXT NOT NULL
+        );
+      `);
+
+      setDb(database);
     };
 
-    setupDatabase();
+    loadDb();
   }, []);
 
-  const fetchQuestions = async () => {
-    try {
-      const questionList = await getQuestions();
-      setQuestions(questionList);
-    } catch (error) {
-      console.error('Error fetching questions:', error);
+  useEffect(() => {
+    if (db) {
+      fetchQuestions();
+    }
+  }, [db]);
+
+  const fetchQuestions = () => {
+    if (!db) {
+      console.error('Database is not initialized yet.');
+      alert('Database is not initialized yet.');
+      return;
+    }
+
+    console.log('Fetching questions from database...');
+    const result = db.exec('SELECT * FROM questions');
+    if (result.length > 0) {
+      setQuestions(result[0].values);
     }
   };
 
-  const handleImport = async () => {
+  const deleteQuestion = (id: number) => {
+    if (!db) {
+      alert('Database is not initialized yet.');
+      return;
+    }
+
+    db.run('DELETE FROM questions WHERE id = ?', [id]);
+    fetchQuestions();
+  };
+
+  const handleImport = () => {
+    if (!db) {
+      alert('Database is not initialized yet.');
+      return;
+    }
+
     try {
-      const questionsData = JSON.parse(jsonInput);
-      await importQuestions(questionsData);
+      const questions: any[] = JSON.parse(jsonInput);
+      questions.forEach((q: any) => {
+        db.run(
+          `INSERT INTO questions (question, correct_answer, incorrect_answers, category, difficulty) VALUES (?, ?, ?, ?, ?);`,
+          [
+            q.question,
+            q.correct_answer,
+            JSON.stringify(q.incorrect_answers),
+            q.category,
+            q.difficulty,
+          ]
+        );
+      });
       alert('Questions imported successfully!');
       fetchQuestions();
-    } catch (error) {
-      alert('Error importing questions. Check your JSON format.');
-      console.error(error);
+    } catch {
+      alert('Invalid JSON format. Please check your input.');
     }
   };
 
-  const handleDeleteQuestion = async (id: string) => {
-    try {
-      await deleteQuestion(id);
-      fetchQuestions();
-    } catch (error) {
-      alert('Error deleting question.');
-      console.error(error);
+  const handleExport = () => {
+    if (!db) {
+      alert('Database is not initialized yet.');
+      return;
     }
-  };
 
-  if (isLoading) {
-    return (
-      <View style={styles.container}>
-        <Text>Loading database...</Text>
-      </View>
-    );
-  }
+    const binaryArray = db.export();
+    const blob = new Blob([binaryArray], { type: 'application/octet-stream' });
+    const url = URL.createObjectURL(blob);
+
+    const a = document.createElement('a');
+    a.href = url;
+    a.download = 'questions.db';
+    a.click();
+    URL.revokeObjectURL(url);
+  };
 
   return (
     <View style={styles.container}>
@@ -83,20 +120,15 @@ export default function AdminPage() {
       <View style={styles.buttonContainerCentered}>
         <Button title="Import Questions" onPress={handleImport} />
         <View style={styles.buttonSpacing} />
-        <Button
-          title="Export Database"
-          onPress={() => alert('Database is automatically saved in WatermelonDB')}
-        />
+        <Button title="Export Database" onPress={handleExport} />
       </View>
-      <Text style={styles.subtitle}>Questions ({questions.length})</Text>
-      <ScrollView style={styles.questionsList}>
-        {questions.map((question) => (
-          <View key={question.id} style={styles.questionContainer}>
-            <Text style={styles.questionText}>{question.question}</Text>
-            <Button title="Delete" onPress={() => handleDeleteQuestion(question.id)} />
-          </View>
-        ))}
-      </ScrollView>
+      <Text style={styles.subtitle}>Questions</Text>
+      {questions.map((question, index) => (
+        <View key={index} style={styles.questionContainer}>
+          <Text style={styles.questionText}>{question[1]}</Text>
+          <Button title="Delete" onPress={() => deleteQuestion(question[0])} />
+        </View>
+      ))}
     </View>
   );
 }
@@ -126,6 +158,11 @@ const styles = StyleSheet.create({
     padding: 10,
     textAlignVertical: 'top',
   },
+  buttonContainer: {
+    flexDirection: 'row',
+    justifyContent: 'space-between',
+    alignItems: 'center',
+  },
   buttonContainerCentered: {
     flexDirection: 'row',
     justifyContent: 'center',
@@ -134,22 +171,14 @@ const styles = StyleSheet.create({
   buttonSpacing: {
     width: 10,
   },
-  questionsList: {
-    flex: 1,
-    marginTop: 10,
-  },
   questionContainer: {
     flexDirection: 'row',
     justifyContent: 'space-between',
     alignItems: 'center',
     marginBottom: 10,
-    padding: 10,
-    backgroundColor: '#f5f5f5',
-    borderRadius: 5,
   },
   questionText: {
     flex: 1,
     fontSize: 16,
-    marginRight: 10,
   },
 });

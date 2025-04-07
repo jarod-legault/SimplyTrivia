@@ -1,10 +1,10 @@
 module.exports = function (api) {
   api.cache(true);
-
-  let plugins = [['@babel/plugin-proposal-decorators', { legacy: true }]];
+  let plugins = [];
 
   return {
-    presets: ['babel-preset-expo'],
+    presets: ["babel-preset-expo"],
+
     plugins,
   };
 };

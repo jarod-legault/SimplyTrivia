@@ -17,13 +17,10 @@
   },
   "dependencies": {
     "@expo/vector-icons": "^14.0.0",
-    "@nozbe/watermelondb": "^0.27.1",
     "@react-navigation/native": "^6.1.7",
-    "better-sqlite3": "^11.9.1",
     "expo": "^51.0.0",
     "expo-constants": "~16.0.1",
     "expo-dev-client": "~4.0.26",
-    "expo-file-system": "^18.0.12",
     "expo-linking": "~6.3.1",
     "expo-router": "~3.5.14",
     "expo-status-bar": "~1.12.1",
@@ -41,7 +38,6 @@
   },
   "devDependencies": {
     "@babel/core": "^7.20.0",
-    "@babel/plugin-proposal-decorators": "^7.25.9",
     "@types/react": "~18.2.45",
     "@types/sql.js": "^1.4.9",
     "@typescript-eslint/eslint-plugin": "^7.7.0",
