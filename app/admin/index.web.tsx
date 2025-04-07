@@ -77,9 +77,10 @@ export default function AdminPage() {
         } else {
           console.log('Database initialized with 0 questions or count query failed');
         }
-      } catch (error) {
+      } catch (error: unknown) {
         console.error('Error initializing database:', error);
-        setDbInitError(`Failed to initialize database: ${error.message}`);
+        const errorMessage = error instanceof Error ? error.message : 'Unknown error occurred';
+        setDbInitError(`Failed to initialize database: ${errorMessage}`);
       }
     };
 
@@ -133,7 +134,7 @@ export default function AdminPage() {
       }
 
       setQuestions(result);
-    } catch (error) {
+    } catch (error: unknown) {
       console.error('Error fetching questions:', error);
       alert('Error fetching questions from database');
     }
@@ -150,7 +151,7 @@ export default function AdminPage() {
       await drizzleDb.delete(schema.questions).where(eq(schema.questions.id, id));
       console.log('Question deleted successfully');
       fetchQuestions();
-    } catch (error) {
+    } catch (error: unknown) {
       console.error('Error deleting question:', error);
       alert('Error deleting question');
     }
@@ -200,7 +201,7 @@ export default function AdminPage() {
 
       alert('Questions imported successfully!');
       fetchQuestions();
-    } catch (error) {
+    } catch (error: unknown) {
       console.error('Error importing questions:', error);
       alert('Invalid JSON format or import error. Please check your input.');
     }
@@ -226,7 +227,7 @@ export default function AdminPage() {
       a.click();
       URL.revokeObjectURL(url);
       console.log('Database download initiated');
-    } catch (error) {
+    } catch (error: unknown) {
       console.error('Error exporting database:', error);
       alert('Error exporting database');
     }
