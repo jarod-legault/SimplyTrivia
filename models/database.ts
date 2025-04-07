@@ -1,11 +1,14 @@
-import { drizzle } from 'drizzle-orm/sqlite-proxy';
-import { Platform } from 'react-native';
-import * as schema from './schema';
-import { Question, NewQuestion, QuestionData } from './schema';
-import { generateUUID } from '../utils/uuid';
-import * as SQLjs from 'sql.js';
-import * as ExpoSQLite from 'expo-sqlite';
 import { eq } from 'drizzle-orm';
+import { drizzle } from 'drizzle-orm/sqlite-proxy';
+import { Asset } from 'expo-asset';
+import * as FileSystem from 'expo-file-system';
+import * as ExpoSQLite from 'expo-sqlite';
+import { Platform } from 'react-native';
+import * as SQLjs from 'sql.js';
+
+import { Question, NewQuestion, QuestionData } from './schema';
+import * as schema from './schema';
+import { generateUUID } from '../utils/uuid';
 
 // Declare platform-specific imports
 let SQLiteInited = false;
@@ -13,6 +16,10 @@ let SQLiteProxy: any;
 
 // Database connection instance
 let db: ReturnType<typeof drizzle> | null = null;
+
+// Constants for database files
+const DB_FILENAME = 'questions.db';
+const DB_PATH = FileSystem.documentDirectory + DB_FILENAME;
 
 /**
  * Initialize the database based on platform
@@ -85,43 +92,77 @@ export const initDatabase = async () => {
 const initMobileDatabase = async () => {
   if (SQLiteInited) return;
 
-  // Open the database using the proper async method
-  const database = await ExpoSQLite.openDatabaseAsync('simplytrivia.db');
+  try {
+    // Check if database file already exists in document directory
+    const fileInfo = await FileSystem.getInfoAsync(DB_PATH);
 
-  // Create our proxy for Expo SQLite
-  SQLiteProxy = {
-    execute: async (sql: string, params: any[] = []) => {
+    if (!fileInfo.exists) {
+      console.log('Database file not found in document directory, checking bundled assets...');
+
       try {
-        // Use promise-based approach to handle SQL execution
-        return new Promise((resolve, reject) => {
-          // Using a simplified transaction approach
-          (async () => {
-            try {
-              // Use the proper method for executing SQL statements
-              const result = await database.runAsync(sql, params);
+        // Try to load database from bundled assets
+        console.log('Attempting to copy bundled database from assets...');
+        const asset = Asset.fromModule(require('../assets/questions.db'));
+        await asset.downloadAsync();
 
-              // Extract rows based on whether this is a SELECT query
-              if (sql.trim().toUpperCase().startsWith('SELECT')) {
-                // Return the rows directly as an array
-                resolve(Array.isArray(result) ? result : []);
-              } else {
-                // For non-SELECT queries, just return an empty array
-                resolve([]);
-              }
-            } catch (err) {
-              console.error('Error executing SQL:', err);
-              reject(err);
-            }
-          })();
-        });
+        if (asset.localUri) {
+          await FileSystem.copyAsync({
+            from: asset.localUri,
+            to: DB_PATH,
+          });
+          console.log('Successfully copied bundled database from assets');
+        } else {
+          console.log('No bundled database found in assets, creating new database');
+        }
       } catch (error) {
-        console.error('SQL error:', error, 'SQL:', sql, 'Params:', params);
-        throw error;
+        console.log('No bundled database found or error copying, creating new database:', error);
       }
-    },
-  };
+    } else {
+      console.log('Using existing database file from document directory');
+    }
 
-  SQLiteInited = true;
+    // Open the database using the proper async method
+    const database = await ExpoSQLite.openDatabaseAsync(DB_PATH);
+    console.log('Database opened successfully');
+
+    // Create our proxy for Expo SQLite
+    SQLiteProxy = {
+      execute: async (sql: string, params: any[] = []) => {
+        try {
+          // Use promise-based approach to handle SQL execution
+          return new Promise((resolve, reject) => {
+            // Using a simplified transaction approach
+            (async () => {
+              try {
+                // Use the proper method for executing SQL statements
+                const result = await database.runAsync(sql, params);
+
+                // Extract rows based on whether this is a SELECT query
+                if (sql.trim().toUpperCase().startsWith('SELECT')) {
+                  // Return the rows directly as an array
+                  resolve(Array.isArray(result) ? result : []);
+                } else {
+                  // For non-SELECT queries, just return an empty array
+                  resolve([]);
+                }
+              } catch (err) {
+                console.error('Error executing SQL:', err);
+                reject(err);
+              }
+            })();
+          });
+        } catch (error) {
+          console.error('SQL error:', error, 'SQL:', sql, 'Params:', params);
+          throw error;
+        }
+      },
+    };
+
+    SQLiteInited = true;
+  } catch (error) {
+    console.error('Error initializing mobile database:', error);
+    throw error;
+  }
 };
 
 /**

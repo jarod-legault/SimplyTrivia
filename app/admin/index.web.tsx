@@ -1,6 +1,6 @@
 import { eq } from 'drizzle-orm';
 import { drizzle } from 'drizzle-orm/sql-js';
-import React, { useState, useEffect } from 'react';
+import React, { useState, useEffect, useRef } from 'react';
 import { View, Text, TextInput, Button, StyleSheet } from 'react-native';
 import initSqlJs from 'sql.js';
 
@@ -10,6 +10,7 @@ import { generateUUID } from '../../utils/uuid';
 
 // Constants for database persistence
 const DB_STORAGE_KEY = 'simplytrivia_db';
+const DEFAULT_DB_FILENAME = 'questions.db';
 
 export default function AdminPage() {
   const [jsonInput, setJsonInput] = useState('');
@@ -17,6 +18,7 @@ export default function AdminPage() {
   const [drizzleDb, setDrizzleDb] = useState<any>(null);
   const [questions, setQuestions] = useState<Question[]>([]);
   const [dbInitError, setDbInitError] = useState<string | null>(null);
+  const fileInputRef = useRef<HTMLInputElement>(null);
 
   useEffect(() => {
     console.log('Initializing database...');
@@ -223,14 +225,107 @@ export default function AdminPage() {
 
       const a = document.createElement('a');
       a.href = url;
-      a.download = 'questions.db';
+      a.download = DEFAULT_DB_FILENAME;
       a.click();
       URL.revokeObjectURL(url);
       console.log('Database download initiated');
+
+      // Show instructions for incorporating into the mobile app
+      alert(
+        'Database exported successfully!\n\n' +
+        'To use this database in your mobile app:\n' +
+        '1. Save the downloaded file to your project\'s assets folder\n' +
+        '2. Update your database.ts to load this file on startup'
+      );
     } catch (error: unknown) {
       console.error('Error exporting database:', error);
       alert('Error exporting database');
     }
+  };
+
+  const handleImportDatabaseFile = (event: React.ChangeEvent<HTMLInputElement>) => {
+    if (!event.target.files || event.target.files.length === 0) {
+      return;
+    }
+
+    const file = event.target.files[0];
+    const reader = new FileReader();
+
+    reader.onload = async (e) => {
+      if (!e.target || !e.target.result) {
+        alert('Error reading file');
+        return;
+      }
+
+      try {
+        console.log('Loading SQL.js...');
+        const SQL = await initSqlJs({
+          locateFile: (file: string) => `https://sql.js.org/dist/${file}`,
+        });
+
+        const arrayBuffer = e.target.result as ArrayBuffer;
+        const uint8Array = new Uint8Array(arrayBuffer);
+
+        // Create a new database from the file
+        const database = new SQL.Database(uint8Array);
+
+        // Initialize Drizzle with the new database
+        const db = drizzle(database, { schema });
+
+        setSqlJsDb(database);
+        setDrizzleDb(db);
+
+        // Verify the database structure
+        try {
+          const tables = database.exec("SELECT name FROM sqlite_master WHERE type='table'");
+          console.log('Tables in imported database:', tables);
+
+          // Check if the questions table exists
+          const hasQuestionsTable = tables[0].values.some((value) =>
+            value[0] === 'questions'
+          );
+
+          if (!hasQuestionsTable) {
+            alert('Warning: Imported database does not have a questions table.');
+          } else {
+            fetchQuestions();
+            alert('Database imported successfully!');
+          }
+        } catch (error) {
+          console.error('Error verifying database structure:', error);
+          alert('The imported file may not be a valid database.');
+        }
+      } catch (error) {
+        console.error('Error importing database file:', error);
+        alert('Failed to import database. The file might be corrupted or in an unsupported format.');
+      }
+    };
+
+    reader.readAsArrayBuffer(file);
+  };
+
+  // Custom instructions for mobile integration
+  const handleShowMobileInstructions = () => {
+    alert(
+      'Instructions for using this database in your mobile app:\n\n' +
+      '1. Export the database using the "Export Database" button\n' +
+      '2. Save the downloaded file as "questions.db" in your project\'s assets folder\n' +
+      '3. Modify your database.ts to check for and load this file on startup\n\n' +
+      'Sample code to add to your mobile database initialization:\n\n' +
+      'if (Platform.OS !== "web") {\n' +
+      '  // Check if bundled database exists\n' +
+      '  const bundledDB = await FileSystem.getInfoAsync(\n' +
+      '    FileSystem.documentDirectory + "questions.db"\n' +
+      '  );\n\n' +
+      '  if (!bundledDB.exists) {\n' +
+      '    // Copy from assets if not exists\n' +
+      '    await FileSystem.downloadAsync(\n' +
+      '      Asset.fromModule(require("../assets/questions.db")).uri,\n' +
+      '      FileSystem.documentDirectory + "questions.db"\n' +
+      '    );\n' +
+      '  }\n' +
+      '}'
+    );
   };
 
   return (
@@ -250,13 +345,33 @@ export default function AdminPage() {
         value={jsonInput}
         onChangeText={setJsonInput}
       />
+
       <View style={styles.buttonContainerCentered}>
         <Button title="Import Questions" onPress={handleImport} />
         <View style={styles.buttonSpacing} />
         <Button title="Export Database" onPress={handleExport} />
         <View style={styles.buttonSpacing} />
-        <Button title="Refresh Questions" onPress={fetchQuestions} />
+        <Button title="Mobile Instructions" onPress={handleShowMobileInstructions} />
       </View>
+
+      <View style={styles.sectionContainer}>
+        <Text style={styles.sectionTitle}>Database File Management</Text>
+        <View style={styles.buttonContainerCentered}>
+          <Button
+            title="Import Database File"
+            onPress={() => fileInputRef.current?.click()}
+          />
+        </View>
+        {/* Hidden file input for database import */}
+        <input
+          ref={fileInputRef}
+          type="file"
+          accept=".db,.sqlite,.sqlite3"
+          onChange={handleImportDatabaseFile}
+          style={{ display: 'none' }}
+        />
+      </View>
+
       <Text style={styles.subtitle}>Questions ({questions.length})</Text>
       {questions.map((question) => (
         <View key={question.id} style={styles.questionContainer}>
@@ -302,6 +417,7 @@ const styles = StyleSheet.create({
     flexDirection: 'row',
     justifyContent: 'center',
     alignItems: 'center',
+    flexWrap: 'wrap',
   },
   buttonSpacing: {
     width: 10,
@@ -324,5 +440,19 @@ const styles = StyleSheet.create({
   },
   errorText: {
     color: 'red',
+  },
+  sectionContainer: {
+    marginTop: 20,
+    marginBottom: 10,
+    padding: 15,
+    borderWidth: 1,
+    borderColor: '#ddd',
+    borderRadius: 5,
+  },
+  sectionTitle: {
+    fontSize: 18,
+    fontWeight: 'bold',
+    marginBottom: 10,
+    textAlign: 'center',
   },
 });
