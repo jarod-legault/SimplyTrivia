@@ -2,3 +2,4 @@
 - This is an Expo web, android, and iOS project.
 - Refer to FeaturesAndSpecification.md for a guideline.
 - Complete the items in todo.md one at a time. Check the item off when complete. Stop after completing an item and report the completion before proceeding.
+- If I ask a question, answer the question, but ask for permission before implementing any changes.
