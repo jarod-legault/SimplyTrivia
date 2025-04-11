@@ -1,6 +1,7 @@
 
 ## Tech Specs
   - Expo Android & iOS mobile app is the main app users will use.
+  - Expo Web app for question database management.
   - Expo Router
   - SQLite database
   - Local-only apps. No network required. All questions will be stored locally on the device.
