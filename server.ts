@@ -12,6 +12,10 @@ interface DeleteParams extends ParamsDictionary {
   id: string;
 }
 
+interface UpdateParams extends ParamsDictionary {
+  id: string;
+}
+
 const app = express();
 const port = 3001;
 
@@ -149,6 +153,62 @@ app.delete('/api/questions/:id', (async (req: Request<DeleteParams>, res: Respon
     });
   }
 }) as RequestHandler<DeleteParams>);
+
+// Update question by ID
+app.put('/api/questions/:id', (async (
+  req: Request<UpdateParams, object, QuestionData>,
+  res: Response
+) => {
+  try {
+    const db = getDB();
+
+    // Check if question exists
+    const question = await db
+      .select()
+      .from(schema.questions)
+      .where(eq(schema.questions.id, req.params.id));
+
+    if (!question || question.length === 0) {
+      return res.status(404).json({
+        success: false,
+        error: 'Question not found',
+      });
+    }
+
+    // Transform input data to match schema
+    const updatedQuestion = {
+      question: req.body.question,
+      correctAnswer: req.body.correct_answer,
+      incorrectAnswers:
+        typeof req.body.incorrect_answers === 'string'
+          ? req.body.incorrect_answers
+          : JSON.stringify(req.body.incorrect_answers),
+      category: req.body.category,
+      difficulty: req.body.difficulty,
+    };
+
+    // Update the question
+    await db
+      .update(schema.questions)
+      .set(updatedQuestion)
+      .where(eq(schema.questions.id, req.params.id));
+
+    res.json({
+      success: true,
+      message: 'Question updated successfully',
+      data: {
+        id: req.params.id,
+        ...updatedQuestion,
+      },
+    });
+  } catch (error) {
+    console.error('Error updating question:', error);
+    res.status(500).json({
+      success: false,
+      error: error instanceof Error ? error.message : String(error),
+    });
+  }
+}) as RequestHandler<UpdateParams>);
 
 app.listen(port, () => {
   console.log(`Development server running at http://localhost:${port}`);
