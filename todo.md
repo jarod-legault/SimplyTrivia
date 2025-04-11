@@ -6,11 +6,13 @@
   - [x] Determine categories
   - [ ] Come up with a question-manager app (web page?) for adding questions with duplicate detection
     - [x] Remove existing code for SQLite (SQL.js) database management via Expo Web, including uninstalling packages. Keep the SQLite code for Expo mobile.
-    - [ ] Set up Expo API routes for the backend #fetch https://docs.expo.dev/router/reference/api-routes/
+    - [ ] Set up a Node Express server for API routes
+      - [x] Install better-sqlite3.
+      - [x] Install and configure express.
+      - [x] Add a script to package.json to start the express server.
       - [x] Set up a test route and make sure it is working.
-      - [ ] Install better-sqlite3.
-      - [ ] Add code to initialize the database and make sure we can communicate with it.
-      - [ ] Create API routes for question CRUD operations
+      - [ ] Add code to initialize the database and make sure we can communicate with it. Add one API to test it out.
+      - [ ] Create API routes for question CRUD operations. Add one API at a time and test each one before implementing the next one.
       - [ ] Update admin interface to use API calls
     - [ ] After adding questions to the database successfully, store the new questions (with duplicates removed) in a separate time-stamped JSON file for historical & backup purposes.
   - [ ] Fix warnings in web console.

@@ -10,8 +10,12 @@ const DB_DIR = path.join(process.cwd(), 'data');
 const DB_PATH = path.join(DB_DIR, 'questions.db');
 
 // Make sure the data directory exists
-if (!fs.existsSync(DB_DIR)) {
-  fs.mkdirSync(DB_DIR, { recursive: true });
+try {
+  if (!fs.existsSync(DB_DIR)) {
+    fs.mkdirSync(DB_DIR, { recursive: true });
+  }
+} catch (err) {
+  console.error('Failed to create data directory:', err);
 }
 
 // Initialize the database connection
@@ -19,9 +23,20 @@ let _db: ReturnType<typeof drizzle> | null = null;
 let _sqlite: Database.Database | null = null;
 
 /**
+ * Check if code is running in a Node.js environment
+ */
+const isNode = () => {
+  return typeof process !== 'undefined' && process.versions && process.versions.node;
+};
+
+/**
  * Get the database instance, initializing it if necessary
  */
 export const getDB = () => {
+  if (!isNode()) {
+    throw new Error('Database operations are only supported in Node.js environment');
+  }
+
   if (!_db) {
     try {
       _sqlite = new Database(DB_PATH);
@@ -52,6 +67,10 @@ export const getDB = () => {
  * Get the raw SQLite database instance
  */
 export const getSQLite = () => {
+  if (!isNode()) {
+    throw new Error('Database operations are only supported in Node.js environment');
+  }
+
   if (!_sqlite) {
     getDB(); // Initialize if needed
   }
@@ -62,6 +81,10 @@ export const getSQLite = () => {
  * Find similar questions for duplicate detection
  */
 export const findSimilarQuestions = (questionText: string) => {
+  if (!isNode()) {
+    throw new Error('Database operations are only supported in Node.js environment');
+  }
+
   const sqlite = getSQLite();
   if (!sqlite) {
     console.error('SQLite database not initialized');
@@ -98,6 +121,10 @@ export const findSimilarQuestions = (questionText: string) => {
  * Save question to backup JSON file for historical tracking
  */
 export const saveQuestionToBackupFile = (question: any) => {
+  if (!isNode()) {
+    throw new Error('File system operations are only supported in Node.js environment');
+  }
+
   try {
     const backupDir = path.join(process.cwd(), 'data', 'backup');
     if (!fs.existsSync(backupDir)) {
