@@ -16,7 +16,7 @@
       - [ ] Create API routes for question CRUD operations. Add one API at a time and test each one before implementing the next one.
         - [x] GET /api/questions - Get all questions
         - [x] POST /api/questions - Add new question(s)
-        - [ ] DELETE /api/questions/:id - Delete a question
+        - [x] DELETE /api/questions/:id - Delete a question
         - [ ] PUT /api/questions/:id - Update a question
       - [ ] Update admin interface to use API calls
     - [ ] After adding questions to the database successfully, store the new questions (with duplicates removed) in a separate time-stamped JSON file for historical & backup purposes.
