@@ -14,7 +14,7 @@
     "lint": "eslint \"**/*.{js,jsx,ts,tsx}\" && prettier -c \"**/*.{js,jsx,ts,tsx,json}\"",
     "format": "eslint \"**/*.{js,jsx,ts,tsx}\" --fix && prettier \"**/*.{js,jsx,ts,tsx,json}\" --write",
     "web": "expo start --web",
-    "dev:server": "ts-node server.ts"
+    "dev:server": "nodemon server.ts"
   },
   "dependencies": {
     "@expo/vector-icons": "^14.0.0",
@@ -56,6 +56,7 @@
     "drizzle-kit": "^0.30.6",
     "eslint": "^8.57.0",
     "eslint-config-universe": "^12.0.1",
+    "nodemon": "^3.1.9",
     "prettier": "^3.2.5",
     "ts-node": "^10.9.2",
     "typescript": "~5.3.3"
