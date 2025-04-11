@@ -4,25 +4,21 @@ import { Asset } from 'expo-asset';
 import * as FileSystem from 'expo-file-system';
 import * as ExpoSQLite from 'expo-sqlite';
 import { Platform } from 'react-native';
-import * as SQLjs from 'sql.js';
 
 import { Question, NewQuestion, QuestionData } from './schema';
 import * as schema from './schema';
 import { generateUUID } from '../utils/uuid';
 
-// Declare platform-specific imports
-let SQLiteInited = false;
-let SQLiteProxy: any;
-
 // Database connection instance
 let db: ReturnType<typeof drizzle> | null = null;
+let SQLiteProxy: any;
 
 // Constants for database files
 const DB_FILENAME = 'questions.db';
 const DB_PATH = FileSystem.documentDirectory + DB_FILENAME;
 
 /**
- * Initialize the database based on platform
+ * Initialize the database
  */
 export const initDatabase = async () => {
   if (db) return db;
@@ -31,46 +27,11 @@ export const initDatabase = async () => {
 
   try {
     if (Platform.OS === 'web') {
-      if (!SQLiteInited) {
-        // Initialize SQL.js
-        const SQL_JS = await SQLjs.default();
-
-        // Create a new database
-        const database = new SQL_JS.Database();
-
-        // Create our proxy for SQL.js
-        SQLiteProxy = {
-          execute: (sql: string, params: any[] = []) => {
-            try {
-              // For queries that return data
-              if (sql.trim().toUpperCase().startsWith('SELECT')) {
-                const stmt = database.prepare(sql);
-                stmt.bind(params);
-
-                const results = [];
-                while (stmt.step()) {
-                  results.push(stmt.getAsObject());
-                }
-                stmt.free();
-                return results;
-              } else {
-                // For queries that modify data
-                database.run(sql, params);
-                return [];
-              }
-            } catch (error) {
-              console.error('SQL error:', error, 'SQL:', sql, 'Params:', params);
-              throw error;
-            }
-          },
-        };
-
-        SQLiteInited = true;
-      }
-    } else {
-      // Mobile implementation
-      await initMobileDatabase();
+      throw new Error('Database operations are not supported in web version');
     }
+
+    // Mobile implementation
+    await initMobileDatabase();
 
     // Initialize Drizzle with our proxy
     db = drizzle(SQLiteProxy, { schema });
@@ -90,8 +51,6 @@ export const initDatabase = async () => {
  * Initialize database for mobile platforms
  */
 const initMobileDatabase = async () => {
-  if (SQLiteInited) return;
-
   try {
     // Check if database file already exists in document directory
     const fileInfo = await FileSystem.getInfoAsync(DB_PATH);
@@ -129,25 +88,19 @@ const initMobileDatabase = async () => {
     SQLiteProxy = {
       execute: async (sql: string, params: any[] = []) => {
         try {
-          // Use promise-based approach to handle SQL execution
-          return new Promise((resolve, reject) => {
-            // Using a simplified transaction approach
+          return await new Promise((resolve, reject) => {
             (async () => {
               try {
-                // Use the proper method for executing SQL statements
                 const result = await database.runAsync(sql, params);
 
-                // Extract rows based on whether this is a SELECT query
                 if (sql.trim().toUpperCase().startsWith('SELECT')) {
-                  // Return the rows directly as an array
                   resolve(Array.isArray(result) ? result : []);
                 } else {
-                  // For non-SELECT queries, just return an empty array
                   resolve([]);
                 }
               } catch (err) {
                 console.error('Error executing SQL:', err);
-                reject(err);
+                reject(new Error(err instanceof Error ? err.message : String(err)));
               }
             })();
           });
@@ -157,8 +110,6 @@ const initMobileDatabase = async () => {
         }
       },
     };
-
-    SQLiteInited = true;
   } catch (error) {
     console.error('Error initializing mobile database:', error);
     throw error;
@@ -232,19 +183,8 @@ export const addQuestion = async (questionData: QuestionData): Promise<Question 
     };
 
     await database.insert(schema.questions).values(newQuestion);
-
-    // Verify question was added
-    const result = await database
-      .select()
-      .from(schema.questions)
-      .where(eq(schema.questions.id, newQuestion.id));
-
-    if (result.length === 0) {
-      throw new Error('Failed to add question');
-    }
-
-    console.log('Question added successfully with ID:', result[0].id);
-    return result[0];
+    console.log('Question added successfully with ID:', newQuestion.id);
+    return newQuestion as Question;
   } catch (error) {
     console.error('Error adding question:', error);
     return null;
@@ -258,7 +198,6 @@ export const deleteQuestion = async (id: string): Promise<boolean> => {
   try {
     const database = await initDatabase();
     await database.delete(schema.questions).where(eq(schema.questions.id, id));
-
     console.log('Question deleted:', id);
     return true;
   } catch (error) {
@@ -302,33 +241,7 @@ export const importQuestions = async (questionsData: QuestionData[]): Promise<Qu
       }));
 
       await database.insert(schema.questions).values(newQuestions);
-
-      // Fetch inserted questions using proper Drizzle ORM syntax
-      const questionIds = newQuestions.map((q) => q.id);
-      const inserted = await database
-        .select()
-        .from(schema.questions)
-        .where(eq(schema.questions.id, questionIds[0])); // Get first one as a fallback
-
-      // If multiple questions, try to get them all (using SQL directly if needed)
-      if (questionIds.length > 1) {
-        try {
-          // Use a direct SQL query as a workaround
-          const placeholders = questionIds.map(() => '?').join(',');
-          const sql = `SELECT * FROM questions WHERE id IN (${placeholders})`;
-          const result = await SQLiteProxy.execute(sql, questionIds);
-          if (result && Array.isArray(result) && result.length > 0) {
-            results.push(...result);
-          } else {
-            results.push(...inserted);
-          }
-        } catch (error) {
-          console.error('Failed to fetch multiple questions:', error);
-          results.push(...inserted);
-        }
-      } else {
-        results.push(...inserted);
-      }
+      results.push(...(newQuestions as Question[]));
     }
 
     console.log(`Successfully imported ${results.length} questions`);
