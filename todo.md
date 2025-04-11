@@ -11,7 +11,7 @@
       - [x] Install and configure express.
       - [x] Add a script to package.json to start the express server.
       - [x] Set up a test route and make sure it is working.
-      - [ ] Add code to initialize the database and make sure we can communicate with it. Add one API to test it out.
+      - [x] Add code to initialize the database and make sure we can communicate with it. Add one API to test it out.
       - [ ] Create API routes for question CRUD operations. Add one API at a time and test each one before implementing the next one.
       - [ ] Update admin interface to use API calls
     - [ ] After adding questions to the database successfully, store the new questions (with duplicates removed) in a separate time-stamped JSON file for historical & backup purposes.
