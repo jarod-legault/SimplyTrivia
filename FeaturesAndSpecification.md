@@ -1,10 +1,17 @@
 
 ## Tech Specs
-  - Expo Android & iOS mobile app
+  - Expo Android & iOS mobile app is the main app users will use.
   - Expo Router
   - SQLite database
   - Local-only apps. No network required. All questions will be stored locally on the device.
-  - Using yarn instead of npm for package management.
+  - Expo web app that runs locally. This is used for me to add questions to the SQLite database.
+    - Text input to paste JSON questions.
+    - Button to select a JSON file to upload questions.
+    - The JSON is validated to make sure the questions match our question schema.
+    - The new questions are compared against the existing questions in the database to see if there are any duplicates. If there are, they are presented to the user to either accept or reject.
+    - There will be a button that will allow the user to export the database file so it can be saved in the repository to be used in the mobile app.
+    - The Expo web app will use `better-sqlite3` to manage the SQLite database.
+  - Both the web and mobile app will use drizzle ORM for SQLite so they can share schemas.
 
 ## Question Database Management
   - Expo web app for question database management
