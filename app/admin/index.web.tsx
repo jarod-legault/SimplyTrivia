@@ -20,6 +20,13 @@ interface DuplicateQuestion {
   difficulty: string;
 }
 
+interface PaginationData {
+  page: number;
+  limit: number;
+  total: number;
+  totalPages: number;
+}
+
 export default function AdminPage() {
   const [jsonInput, setJsonInput] = useState('');
   const [questions, setQuestions] = useState<any[]>([]);
@@ -34,11 +41,18 @@ export default function AdminPage() {
     }[]
   >([]);
   const [showDuplicatesModal, setShowDuplicatesModal] = useState(false);
+  const [currentPage, setCurrentPage] = useState(1);
+  const [pagination, setPagination] = useState<PaginationData>({
+    page: 1,
+    limit: 20,
+    total: 0,
+    totalPages: 1,
+  });
 
   // Fetch questions on component mount
   useEffect(() => {
     fetchQuestions();
-  }, []);
+  }, [currentPage]);
 
   // Function to fetch questions from the API
   const fetchQuestions = async () => {
@@ -46,12 +60,15 @@ export default function AdminPage() {
     setError(null);
 
     try {
-      const response = await fetch(`${API_BASE_URL}/questions`);
+      const response = await fetch(
+        `${API_BASE_URL}/questions?page=${currentPage}&limit=${pagination.limit}`
+      );
       const result = await response.json();
 
       if (result.success) {
         setQuestions(result.data || []);
-        setStatusMessage(`Loaded ${result.count} questions successfully`);
+        setPagination(result.pagination);
+        setStatusMessage(`Showing ${result.data.length} of ${result.pagination.total} questions`);
       } else {
         setError(result.error || 'Failed to fetch questions');
       }
@@ -207,6 +224,12 @@ export default function AdminPage() {
     }
   };
 
+  const handlePageChange = (newPage: number) => {
+    if (newPage >= 1 && newPage <= pagination.totalPages) {
+      setCurrentPage(newPage);
+    }
+  };
+
   return (
     <View style={styles.container}>
       <Text style={styles.title}>Simply Trivia: Question Database Admin</Text>
@@ -305,6 +328,54 @@ export default function AdminPage() {
             <Text style={styles.emptyText}>
               No questions found. Import some questions to get started!
             </Text>
+          )}
+
+          {questions.length > 0 && (
+            <View style={styles.paginationContainer}>
+              <Pressable
+                onPress={() => handlePageChange(1)}
+                disabled={currentPage === 1}
+                style={({ pressed }) => [
+                  styles.paginationButton,
+                  currentPage === 1 && styles.paginationButtonDisabled,
+                  pressed && { opacity: 0.7 },
+                ]}>
+                <Text style={styles.paginationButtonText}>{'<<'}</Text>
+              </Pressable>
+              <Pressable
+                onPress={() => handlePageChange(currentPage - 1)}
+                disabled={currentPage === 1}
+                style={({ pressed }) => [
+                  styles.paginationButton,
+                  currentPage === 1 && styles.paginationButtonDisabled,
+                  pressed && { opacity: 0.7 },
+                ]}>
+                <Text style={styles.paginationButtonText}>{'<'}</Text>
+              </Pressable>
+              <Text style={styles.paginationText}>
+                Page {currentPage} of {pagination.totalPages}
+              </Text>
+              <Pressable
+                onPress={() => handlePageChange(currentPage + 1)}
+                disabled={currentPage === pagination.totalPages}
+                style={({ pressed }) => [
+                  styles.paginationButton,
+                  currentPage === pagination.totalPages && styles.paginationButtonDisabled,
+                  pressed && { opacity: 0.7 },
+                ]}>
+                <Text style={styles.paginationButtonText}>{'>'}</Text>
+              </Pressable>
+              <Pressable
+                onPress={() => handlePageChange(pagination.totalPages)}
+                disabled={currentPage === pagination.totalPages}
+                style={({ pressed }) => [
+                  styles.paginationButton,
+                  currentPage === pagination.totalPages && styles.paginationButtonDisabled,
+                  pressed && { opacity: 0.7 },
+                ]}>
+                <Text style={styles.paginationButtonText}>{'>>'}</Text>
+              </Pressable>
+            </View>
           )}
         </ScrollView>
       )}
@@ -582,5 +653,32 @@ const styles = StyleSheet.create({
   },
   closeButton: {
     marginTop: 20,
+  },
+  paginationContainer: {
+    flexDirection: 'row',
+    justifyContent: 'center',
+    alignItems: 'center',
+    padding: 20,
+    gap: 10,
+  },
+  paginationButton: {
+    backgroundColor: '#2196F3',
+    paddingHorizontal: 12,
+    paddingVertical: 8,
+    borderRadius: 4,
+    minWidth: 40,
+    alignItems: 'center',
+  },
+  paginationButtonDisabled: {
+    backgroundColor: '#cccccc',
+  },
+  paginationButtonText: {
+    color: 'white',
+    fontSize: 14,
+    fontWeight: '500',
+  },
+  paginationText: {
+    fontSize: 14,
+    marginHorizontal: 10,
   },
 });

@@ -34,7 +34,7 @@
     - [x] Add approve/reject buttons for each duplicate
     - [x] If approved, add the question despite being a duplicate
     - [x] If rejected, skip the question
-  - [ ] Add pagination to questions list on web page.
+  - [x] Add pagination to questions list on web page.
   - [ ] Get 10,000 questions
   - [ ] Set up SQLite database structure
     - [ ] Create responses table schema

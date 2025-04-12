@@ -1,5 +1,5 @@
 import cors from 'cors';
-import { eq } from 'drizzle-orm';
+import { eq, desc, sql } from 'drizzle-orm';
 import express, { Request, Response, RequestHandler } from 'express';
 import { ParamsDictionary } from 'express-serve-static-core';
 
@@ -30,15 +30,36 @@ const port = PORT;
 app.use(cors());
 app.use(express.json());
 
-// Get all questions
-app.get('/api/questions', (async (_req: Request, res: Response) => {
+// Get all questions with pagination
+app.get('/api/questions', (async (req: Request, res: Response) => {
   try {
     const db = getDB();
-    const questions = await db.select().from(schema.questions);
+    const page = Number(req.query.page) || 1;
+    const limit = Number(req.query.limit) || 20;
+    const offset = (page - 1) * limit;
+
+    // Get total count first
+    const totalCount = (await db
+      .select({ count: sql<number>`count(*)` })
+      .from(schema.questions)) as { count: number }[];
+
+    // Get paginated questions
+    const questions = await db
+      .select()
+      .from(schema.questions)
+      .orderBy(desc(schema.questions.createdAt))
+      .limit(limit)
+      .offset(offset);
+
     res.json({
       success: true,
-      count: questions.length,
       data: questions,
+      pagination: {
+        page,
+        limit,
+        total: totalCount[0].count,
+        totalPages: Math.ceil(totalCount[0].count / limit),
+      },
     });
   } catch (error) {
     console.error('Error fetching questions:', error);
