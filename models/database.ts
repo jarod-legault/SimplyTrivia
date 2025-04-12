@@ -126,7 +126,8 @@ const createTables = async () => {
       question TEXT NOT NULL,
       correct_answer TEXT NOT NULL,
       incorrect_answers TEXT NOT NULL,
-      category TEXT NOT NULL,
+      main_category TEXT NOT NULL,
+      subcategory TEXT NOT NULL,
       difficulty TEXT NOT NULL,
       created_at INTEGER NOT NULL
     )
@@ -177,7 +178,8 @@ export const addQuestion = async (questionData: QuestionData): Promise<Question 
         typeof questionData.incorrect_answers === 'string'
           ? questionData.incorrect_answers
           : JSON.stringify(questionData.incorrect_answers),
-      category: questionData.category,
+      mainCategory: questionData.main_category,
+      subcategory: questionData.subcategory,
       difficulty: questionData.difficulty,
       createdAt: new Date(),
     };
@@ -235,7 +237,8 @@ export const importQuestions = async (questionsData: QuestionData[]): Promise<Qu
           typeof data.incorrect_answers === 'string'
             ? data.incorrect_answers
             : JSON.stringify(data.incorrect_answers),
-        category: data.category,
+        mainCategory: data.main_category,
+        subcategory: data.subcategory,
         difficulty: data.difficulty,
         createdAt: new Date(),
       }));

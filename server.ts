@@ -6,7 +6,13 @@ import { ParamsDictionary } from 'express-serve-static-core';
 import { PORT } from './config';
 import * as schema from './models/schema';
 import { QuestionData } from './models/schema';
-import { getDB, findSimilarQuestions } from './utils/server-db';
+import {
+  getDB,
+  findSimilarQuestions,
+  getAllCategories,
+  getSubcategories,
+  validateCategory,
+} from './utils/server-db';
 import { generateUUID } from './utils/uuid';
 
 interface DeleteParams extends ParamsDictionary {
@@ -56,7 +62,16 @@ app.post('/api/questions', (async (
 
     for (const data of questionsData) {
       try {
-        // First check for duplicates
+        // Validate category/subcategory
+        if (!validateCategory(data.main_category, data.subcategory)) {
+          errors.push({
+            question: data.question,
+            error: `Invalid category combination: ${data.main_category}/${data.subcategory}`,
+          });
+          continue;
+        }
+
+        // Check for duplicates
         const similarQuestions = findSimilarQuestions(data.question);
         if (similarQuestions.length > 0) {
           duplicates.push({ newQuestion: data, similarQuestions });
@@ -72,7 +87,8 @@ app.post('/api/questions', (async (
             typeof data.incorrect_answers === 'string'
               ? data.incorrect_answers
               : JSON.stringify(data.incorrect_answers),
-          category: data.category,
+          mainCategory: data.main_category,
+          subcategory: data.subcategory,
           difficulty: data.difficulty,
           createdAt: new Date(),
         };
@@ -188,6 +204,14 @@ app.put('/api/questions/:id', (async (
       });
     }
 
+    // Validate category/subcategory
+    if (!validateCategory(req.body.main_category, req.body.subcategory)) {
+      return res.status(400).json({
+        success: false,
+        error: `Invalid category combination: ${req.body.main_category}/${req.body.subcategory}`,
+      });
+    }
+
     // Transform input data to match schema
     const updatedQuestion = {
       question: req.body.question,
@@ -196,7 +220,8 @@ app.put('/api/questions/:id', (async (
         typeof req.body.incorrect_answers === 'string'
           ? req.body.incorrect_answers
           : JSON.stringify(req.body.incorrect_answers),
-      category: req.body.category,
+      mainCategory: req.body.main_category,
+      subcategory: req.body.subcategory,
       difficulty: req.body.difficulty,
     };
 
@@ -222,6 +247,41 @@ app.put('/api/questions/:id', (async (
     });
   }
 }) as RequestHandler<UpdateParams>);
+
+// Get all categories
+app.get('/api/categories', (async (_req: Request, res: Response) => {
+  try {
+    const categories = getAllCategories();
+    res.json({
+      success: true,
+      data: categories,
+    });
+  } catch (error) {
+    console.error('Error fetching categories:', error);
+    res.status(500).json({
+      success: false,
+      error: error instanceof Error ? error.message : String(error),
+    });
+  }
+}) as RequestHandler);
+
+// Get subcategories for a main category
+app.get('/api/categories/:mainCategory/subcategories', (async (req: Request, res: Response) => {
+  try {
+    const { mainCategory } = req.params;
+    const subcategories = getSubcategories(mainCategory);
+    res.json({
+      success: true,
+      data: subcategories,
+    });
+  } catch (error) {
+    console.error('Error fetching subcategories:', error);
+    res.status(500).json({
+      success: false,
+      error: error instanceof Error ? error.message : String(error),
+    });
+  }
+}) as RequestHandler);
 
 app.listen(port, () => {
   console.log(`Development server running at http://localhost:${port}`);

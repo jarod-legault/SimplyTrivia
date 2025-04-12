@@ -21,6 +21,7 @@
       - [x] Remove test routes.
     - [x] Update admin interface to use API calls
     - [x] Test duplicate detection.
+    - [ ] Add validation for new questions. Questions should match our schema. Questions should have 7 incorrect answers. Category should match a valid subcategories.
     - [ ] After adding questions to the database successfully, store the new questions (with duplicates removed) in a separate time-stamped JSON file for historical & backup purposes.
   - [ ] Fix warnings in web console.
   - [ ] Get 10,000 questions
