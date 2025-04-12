@@ -24,6 +24,17 @@
     - [x] Add validation for new questions. Questions should match our schema. Questions should have 7 incorrect answers. Category should match a valid main category and subcategory.
     - [x] After adding questions to the database successfully, store the new questions (with duplicates removed) in a separate time-stamped JSON file for historical & backup purposes.
   - [x] Fix warnings in web console.
+  - [x] Do we need the "Check Duplicate" button? I think we check for duplicates automatically when adding questions.
+  - [x] Remove "Check Duplicate" button from web admin interface since we do this automatically
+  - [x] Do we need the "Export Questions" button? I think we are exporting all questions to JSON automatically.
+  - [x] Remove "Export Questions" button from web admin interface since we do this automatically
+  - [x] Do we display duplicate questions for approval or rejection when duplicate questions are detected?
+  - [ ] Add UI for duplicate question approval/rejection in web admin interface:
+    - [ ] Show detected duplicate questions side by side for comparison
+    - [ ] Add approve/reject buttons for each duplicate
+    - [ ] If approved, add the question despite being a duplicate
+    - [ ] If rejected, skip the question
+  - [ ] Add pagination to questions list on web page.
   - [ ] Get 10,000 questions
   - [ ] Set up SQLite database structure
     - [ ] Create responses table schema

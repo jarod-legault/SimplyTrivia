@@ -135,38 +135,6 @@ export default function AdminPage() {
     }
   };
 
-  // Function to export questions to JSON
-  const handleExport = async () => {
-    setIsLoading(true);
-
-    try {
-      const response = await fetch(`${API_BASE_URL}/questions`);
-      const result = await response.json();
-
-      if (result.success) {
-        setStatusMessage(`Exported ${result.count} questions successfully`);
-
-        // Create a download link for the data
-        const dataStr = JSON.stringify(result.data, null, 2);
-        const blob = new Blob([dataStr], { type: 'application/json' });
-        const url = URL.createObjectURL(blob);
-
-        const a = document.createElement('a');
-        a.href = url;
-        a.download = `simplytrivia_export_${new Date().toISOString().slice(0, 10)}.json`;
-        a.click();
-        URL.revokeObjectURL(url);
-      } else {
-        setError(result.error || 'Failed to export questions');
-      }
-    } catch (err) {
-      console.error('Error exporting questions:', err);
-      setError('Network error: Failed to export questions');
-    } finally {
-      setIsLoading(false);
-    }
-  };
-
   // Function to handle importing questions from a JSON file
   const handleJsonFileImport = (event: React.ChangeEvent<HTMLInputElement>) => {
     if (!event.target.files || event.target.files.length === 0) {
@@ -187,35 +155,6 @@ export default function AdminPage() {
     };
 
     reader.readAsText(file);
-  };
-
-  // Function to check for duplicate questions
-  const checkDuplicate = async (questionText: string) => {
-    try {
-      const response = await fetch(`${API_BASE_URL}/questions/check-duplicates`, {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ question: questionText }),
-      });
-
-      const result = await response.json();
-
-      if (result.success) {
-        if (result.hasDuplicates) {
-          alert(
-            `Found ${result.duplicateCount} potential duplicates. Check the console for details.`
-          );
-          console.log('Duplicate questions:', result.duplicates);
-        } else {
-          alert('No duplicates found for this question.');
-        }
-      } else {
-        alert('Error checking for duplicates: ' + (result.error || 'Unknown error'));
-      }
-    } catch (err) {
-      console.error('Error checking for duplicates:', err);
-      alert('Network error: Failed to check for duplicates');
-    }
   };
 
   return (
@@ -254,19 +193,6 @@ export default function AdminPage() {
           role="button"
           aria-label="Import questions">
           <Text style={styles.buttonText}>Import Questions</Text>
-        </Pressable>
-        <View style={styles.buttonSpacing} />
-        <Pressable
-          onPress={handleExport}
-          disabled={isLoading}
-          style={({ pressed }) => [
-            styles.button,
-            isLoading && styles.buttonDisabled,
-            pressed && { opacity: 0.7 },
-          ]}
-          role="button"
-          aria-label="Export questions">
-          <Text style={styles.buttonText}>Export Questions</Text>
         </Pressable>
         <View style={styles.buttonSpacing} />
         <Pressable
@@ -310,14 +236,6 @@ export default function AdminPage() {
                 </Text>
               </View>
               <View style={styles.questionActions}>
-                <Pressable
-                  onPress={() => checkDuplicate(question.question)}
-                  style={({ pressed }) => [styles.button, pressed && { opacity: 0.7 }]}
-                  role="button"
-                  aria-label="Check for duplicate questions">
-                  <Text style={styles.buttonText}>Check Duplicates</Text>
-                </Pressable>
-                <View style={styles.buttonSpacing} />
                 <Pressable
                   onPress={() => deleteQuestion(question.id)}
                   style={({ pressed }) => [
