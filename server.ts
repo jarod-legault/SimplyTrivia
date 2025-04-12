@@ -62,6 +62,31 @@ app.post('/api/questions', (async (
 
     for (const data of questionsData) {
       try {
+        // Validate question data structure
+        if (!data.question || !data.correct_answer || !data.incorrect_answers || !data.difficulty) {
+          errors.push({
+            question: data.question || 'Unknown question',
+            error:
+              'Missing required fields: question, correct_answer, incorrect_answers, or difficulty',
+          });
+          continue;
+        }
+
+        // Validate incorrect answers count
+        const incorrectAnswers = Array.isArray(data.incorrect_answers)
+          ? data.incorrect_answers
+          : JSON.parse(data.incorrect_answers);
+
+        if (!Array.isArray(incorrectAnswers) || incorrectAnswers.length !== 7) {
+          errors.push({
+            question: data.question,
+            error: `Questions must have exactly 7 incorrect answers. Found ${
+              Array.isArray(incorrectAnswers) ? incorrectAnswers.length : 0
+            }`,
+          });
+          continue;
+        }
+
         // Validate category/subcategory
         if (!validateCategory(data.main_category, data.subcategory)) {
           errors.push({
@@ -83,10 +108,7 @@ app.post('/api/questions', (async (
           id: generateUUID(),
           question: data.question,
           correctAnswer: data.correct_answer,
-          incorrectAnswers:
-            typeof data.incorrect_answers === 'string'
-              ? data.incorrect_answers
-              : JSON.stringify(data.incorrect_answers),
+          incorrectAnswers: JSON.stringify(incorrectAnswers),
           mainCategory: data.main_category,
           subcategory: data.subcategory,
           difficulty: data.difficulty,
@@ -98,7 +120,7 @@ app.post('/api/questions', (async (
         added.push(newQuestion);
       } catch (err) {
         errors.push({
-          question: data.question,
+          question: data.question || 'Unknown question',
           error: err instanceof Error ? err.message : String(err),
         });
       }
@@ -204,6 +226,34 @@ app.put('/api/questions/:id', (async (
       });
     }
 
+    // Validate question data structure
+    if (
+      !req.body.question ||
+      !req.body.correct_answer ||
+      !req.body.incorrect_answers ||
+      !req.body.difficulty
+    ) {
+      return res.status(400).json({
+        success: false,
+        error:
+          'Missing required fields: question, correct_answer, incorrect_answers, or difficulty',
+      });
+    }
+
+    // Validate incorrect answers count
+    const incorrectAnswers = Array.isArray(req.body.incorrect_answers)
+      ? req.body.incorrect_answers
+      : JSON.parse(req.body.incorrect_answers);
+
+    if (!Array.isArray(incorrectAnswers) || incorrectAnswers.length !== 7) {
+      return res.status(400).json({
+        success: false,
+        error: `Questions must have exactly 7 incorrect answers. Found ${
+          Array.isArray(incorrectAnswers) ? incorrectAnswers.length : 0
+        }`,
+      });
+    }
+
     // Validate category/subcategory
     if (!validateCategory(req.body.main_category, req.body.subcategory)) {
       return res.status(400).json({
@@ -216,10 +266,7 @@ app.put('/api/questions/:id', (async (
     const updatedQuestion = {
       question: req.body.question,
       correctAnswer: req.body.correct_answer,
-      incorrectAnswers:
-        typeof req.body.incorrect_answers === 'string'
-          ? req.body.incorrect_answers
-          : JSON.stringify(req.body.incorrect_answers),
+      incorrectAnswers: JSON.stringify(incorrectAnswers),
       mainCategory: req.body.main_category,
       subcategory: req.body.subcategory,
       difficulty: req.body.difficulty,
