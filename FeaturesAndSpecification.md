@@ -1,9 +1,10 @@
-
 ## Tech Specs
   - Expo Android & iOS mobile app is the main app users will use.
   - Expo Web app for question database management.
   - Expo Router
-  - SQLite database
+  - SQLite database:
+    - Questions table: Stores all trivia questions, ships with the app
+    - Responses table: Tracks user's answered questions and performance
   - Local-only apps. No network required. All questions will be stored locally on the device.
   - Expo web app that runs locally. This is used for me to add questions to the SQLite database.
     - Text input to paste JSON questions.
@@ -15,10 +16,17 @@
   - Both the web and mobile app will use drizzle ORM for SQLite so they can share schemas.
 
 ## Question Database Management
-  - Expo web app for question database management
-  - The database admin will only be accessible via web (no mobile app). It will only run locally on my machine so I can add questions to the database.
-  - We need to check for duplicate questions and flag them. The questions can be presented on the web page side-by-side for comparison, and I can choose to accept the new question or reject it.
-  - The page will have a text input where I can paste questions in JSON format, or a file picker to pick a JSON file with questions.
+  - Questions are added through the web admin interface and published with new app releases
+  - The SQLite database that ships with the app contains all questions but has an empty responses table
+  - When the app updates, the SQLite database is overwritten with the new version (including new questions)
+  - User progress is preserved through a backup system:
+    - Responses are stored in both SQLite and a JSON backup file
+    - JSON filename includes timestamp (responses_YYYYMMDD_HHMMSS.json)
+    - On app startup:
+      1. Check if responses table is empty
+      2. If empty, look for response backup JSON file
+      3. If JSON exists, import responses into SQLite
+      4. If no JSON found, this is first launch (empty responses)
 
 ## Features
   - Trivia app

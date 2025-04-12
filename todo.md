@@ -18,12 +18,24 @@
         - [x] POST /api/questions - Add new question(s)
         - [x] DELETE /api/questions/:id - Delete a question
         - [x] PUT /api/questions/:id - Update a question
-        - [x] Remove test routes.
+- [x] Remove test routes.
       - [ ] Update admin interface to use API calls
     - [ ] After adding questions to the database successfully, store the new questions (with duplicates removed) in a separate time-stamped JSON file for historical & backup purposes.
   - [ ] Fix warnings in web console.
   - [ ] Get 10,000 questions
-  - [ ] Figure how to store questions answered by users (sqlite?)
+  - [ ] Set up SQLite database structure
+    - [ ] Create responses table schema
+      - [ ] Question ID (foreign key to questions table)
+      - [ ] Answer was correct (boolean)
+      - [ ] Timestamp
+    - [ ] Add response backup system
+      - [ ] Create JSON file with timestamp in name
+      - [ ] Add function to write responses to JSON file
+      - [ ] Add function to read responses from JSON file
+    - [ ] Add app startup checks
+      - [ ] Check if responses table is empty
+      - [ ] Look for backup JSON file
+      - [ ] Import responses if backup found
   - [ ] Should we encrypt the questions in the app?
   - [ ] Create home screen (easy, medium, hard, surprise me, settings, statistics)
   - [ ] Create settings screen (select categories)
