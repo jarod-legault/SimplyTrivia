@@ -1,0 +1,5 @@
+{
+  "watch": ["server.ts", "models/", "utils/", "config.ts"],
+  "ignore": ["data/", ".git", "node_modules/", "android/", "ios/", "app/", "assets/"],
+  "ext": "ts,json"
+}

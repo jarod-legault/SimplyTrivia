@@ -3,6 +3,7 @@ import { eq } from 'drizzle-orm';
 import express, { Request, Response, RequestHandler } from 'express';
 import { ParamsDictionary } from 'express-serve-static-core';
 
+import { PORT } from './config';
 import * as schema from './models/schema';
 import { QuestionData } from './models/schema';
 import { getDB } from './utils/server-db';
@@ -17,7 +18,7 @@ interface UpdateParams extends ParamsDictionary {
 }
 
 const app = express();
-const port = 3001;
+const port = PORT;
 
 app.use(cors());
 app.use(express.json());

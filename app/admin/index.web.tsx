@@ -9,6 +9,8 @@ import {
   ActivityIndicator,
 } from 'react-native';
 
+import { API_BASE_URL } from '../../config';
+
 export default function AdminPage() {
   const [jsonInput, setJsonInput] = useState('');
   const [questions, setQuestions] = useState<any[]>([]);
@@ -28,7 +30,7 @@ export default function AdminPage() {
     setError(null);
 
     try {
-      const response = await fetch('/questions');
+      const response = await fetch(`${API_BASE_URL}/questions`);
       const result = await response.json();
 
       if (result.success) {
@@ -58,19 +60,18 @@ export default function AdminPage() {
     try {
       // Parse JSON input to validate it first
       try {
-        // Just validate the JSON is parseable
         const parsed = JSON.parse(jsonInput);
         if (!Array.isArray(parsed) && typeof parsed === 'object') {
           // We're good, it's either an array or a single object
         }
-      } catch (err) {
+      } catch {
         setError('Invalid JSON format. Please check your input.');
         setIsLoading(false);
         return;
       }
 
       // Send to API
-      const response = await fetch('/questions', {
+      const response = await fetch(`${API_BASE_URL}/questions`, {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: jsonInput,
@@ -114,7 +115,7 @@ export default function AdminPage() {
     setIsLoading(true);
 
     try {
-      const response = await fetch(`/questions/${id}`, {
+      const response = await fetch(`${API_BASE_URL}/questions/${id}`, {
         method: 'DELETE',
       });
 
@@ -139,7 +140,7 @@ export default function AdminPage() {
     setIsLoading(true);
 
     try {
-      const response = await fetch('/questions/export');
+      const response = await fetch(`${API_BASE_URL}/questions`);
       const result = await response.json();
 
       if (result.success) {
@@ -191,7 +192,7 @@ export default function AdminPage() {
   // Function to check for duplicate questions
   const checkDuplicate = async (questionText: string) => {
     try {
-      const response = await fetch('/questions/check-duplicates', {
+      const response = await fetch(`${API_BASE_URL}/questions/check-duplicates`, {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({ question: questionText }),
