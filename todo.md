@@ -23,7 +23,7 @@
     - [x] Test duplicate detection.
     - [x] Add validation for new questions. Questions should match our schema. Questions should have 7 incorrect answers. Category should match a valid main category and subcategory.
     - [x] After adding questions to the database successfully, store the new questions (with duplicates removed) in a separate time-stamped JSON file for historical & backup purposes.
-  - [ ] Fix warnings in web console.
+  - [x] Fix warnings in web console.
   - [ ] Get 10,000 questions
   - [ ] Set up SQLite database structure
     - [ ] Create responses table schema

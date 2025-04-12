@@ -3,7 +3,7 @@ import {
   View,
   Text,
   TextInput,
-  Button,
+  Pressable,
   StyleSheet,
   ScrollView,
   ActivityIndicator,
@@ -243,15 +243,44 @@ export default function AdminPage() {
       />
 
       <View style={styles.buttonContainerCentered}>
-        <Button title="Import Questions" onPress={handleImport} disabled={isLoading} />
+        <Pressable
+          onPress={handleImport}
+          disabled={isLoading}
+          style={({ pressed }) => [
+            styles.button,
+            isLoading && styles.buttonDisabled,
+            pressed && { opacity: 0.7 },
+          ]}
+          role="button"
+          aria-label="Import questions">
+          <Text style={styles.buttonText}>Import Questions</Text>
+        </Pressable>
         <View style={styles.buttonSpacing} />
-        <Button title="Export Questions" onPress={handleExport} disabled={isLoading} />
+        <Pressable
+          onPress={handleExport}
+          disabled={isLoading}
+          style={({ pressed }) => [
+            styles.button,
+            isLoading && styles.buttonDisabled,
+            pressed && { opacity: 0.7 },
+          ]}
+          role="button"
+          aria-label="Export questions">
+          <Text style={styles.buttonText}>Export Questions</Text>
+        </Pressable>
         <View style={styles.buttonSpacing} />
-        <Button
-          title="Upload JSON File"
+        <Pressable
           onPress={() => jsonFileInputRef.current?.click()}
           disabled={isLoading}
-        />
+          style={({ pressed }) => [
+            styles.button,
+            isLoading && styles.buttonDisabled,
+            pressed && { opacity: 0.7 },
+          ]}
+          role="button"
+          aria-label="Upload JSON file">
+          <Text style={styles.buttonText}>Upload JSON File</Text>
+        </Pressable>
       </View>
 
       {/* Hidden file input for JSON import */}
@@ -281,16 +310,25 @@ export default function AdminPage() {
                 </Text>
               </View>
               <View style={styles.questionActions}>
-                <Button
-                  title="Check Duplicates"
+                <Pressable
                   onPress={() => checkDuplicate(question.question)}
-                />
+                  style={({ pressed }) => [styles.button, pressed && { opacity: 0.7 }]}
+                  role="button"
+                  aria-label="Check for duplicate questions">
+                  <Text style={styles.buttonText}>Check Duplicates</Text>
+                </Pressable>
                 <View style={styles.buttonSpacing} />
-                <Button
-                  title="Delete"
+                <Pressable
                   onPress={() => deleteQuestion(question.id)}
-                  color="#ff0000"
-                />
+                  style={({ pressed }) => [
+                    styles.button,
+                    styles.deleteButton,
+                    pressed && { opacity: 0.7 },
+                  ]}
+                  role="button"
+                  aria-label="Delete question">
+                  <Text style={[styles.buttonText, styles.deleteButtonText]}>Delete</Text>
+                </Pressable>
               </View>
             </View>
           ))}
@@ -332,7 +370,7 @@ const styles = StyleSheet.create({
     borderWidth: 1,
     marginBottom: 20,
     padding: 10,
-    textAlignVertical: 'top',
+    verticalAlign: 'top',
     borderRadius: 5,
     fontFamily: 'monospace',
   },
@@ -405,5 +443,27 @@ const styles = StyleSheet.create({
     textAlign: 'center',
     color: '#666',
     padding: 20,
+  },
+  button: {
+    backgroundColor: '#2196F3',
+    paddingHorizontal: 16,
+    paddingVertical: 8,
+    borderRadius: 4,
+    alignItems: 'center',
+    justifyContent: 'center',
+  },
+  buttonDisabled: {
+    opacity: 0.5,
+  },
+  buttonText: {
+    color: 'white',
+    fontSize: 14,
+    fontWeight: '500',
+  },
+  deleteButton: {
+    backgroundColor: '#ff0000',
+  },
+  deleteButtonText: {
+    color: 'white',
   },
 });
