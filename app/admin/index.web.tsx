@@ -7,9 +7,17 @@ import {
   StyleSheet,
   ScrollView,
   ActivityIndicator,
+  Modal,
 } from 'react-native';
 
 import { API_BASE_URL } from '../../config';
+
+interface DuplicateQuestion {
+  question: string;
+  id: string;
+  category: string;
+  difficulty: string;
+}
 
 export default function AdminPage() {
   const [jsonInput, setJsonInput] = useState('');
@@ -18,6 +26,13 @@ export default function AdminPage() {
   const [error, setError] = useState<string | null>(null);
   const [statusMessage, setStatusMessage] = useState('');
   const jsonFileInputRef = useRef<HTMLInputElement>(null);
+  const [duplicateQuestions, setDuplicateQuestions] = useState<
+    {
+      new: any;
+      existing: DuplicateQuestion;
+    }[]
+  >([]);
+  const [showDuplicatesModal, setShowDuplicatesModal] = useState(false);
 
   // Fetch questions on component mount
   useEffect(() => {
@@ -80,17 +95,13 @@ export default function AdminPage() {
       const result = await response.json();
 
       if (result.success) {
-        setStatusMessage(
-          `Added ${result.added} questions. Found ${result.duplicates} duplicates. Had ${result.errors} errors.`
-        );
+        setStatusMessage(`Added ${result.added} questions. Found ${result.duplicates} duplicates.`);
         fetchQuestions(); // Refresh the question list
 
-        // If there are duplicates, show them
-        if (result.duplicates > 0) {
-          console.log('Duplicate questions:', result.duplicatesData);
-          alert(
-            `Found ${result.duplicates} potential duplicate questions. Check the console for details.`
-          );
+        // If there are duplicates, show them in the modal
+        if (result.duplicates > 0 && result.duplicatesData) {
+          setDuplicateQuestions(result.duplicatesData);
+          setShowDuplicatesModal(true);
         }
 
         // Clear the input after successful import
@@ -155,6 +166,44 @@ export default function AdminPage() {
     };
 
     reader.readAsText(file);
+  };
+
+  // Function to handle duplicate approval
+  const handleDuplicateApproval = async (newQuestion: any, approved: boolean) => {
+    try {
+      const response = await fetch(`${API_BASE_URL}/questions/handle-duplicate`, {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({
+          question: newQuestion,
+          approved,
+        }),
+      });
+
+      const result = await response.json();
+
+      if (result.success) {
+        // Remove this duplicate from the list
+        setDuplicateQuestions((prev) =>
+          prev.filter((q) => q.new.question !== newQuestion.question)
+        );
+
+        // Close modal if no more duplicates
+        if (duplicateQuestions.length <= 1) {
+          setShowDuplicatesModal(false);
+        }
+
+        // Refresh questions list if approved
+        if (approved) {
+          fetchQuestions();
+        }
+      } else {
+        setError(result.error || 'Failed to handle duplicate');
+      }
+    } catch (err) {
+      console.error('Error handling duplicate:', err);
+      setError('Network error: Failed to handle duplicate');
+    }
   };
 
   return (
@@ -258,6 +307,80 @@ export default function AdminPage() {
           )}
         </ScrollView>
       )}
+
+      {/* Duplicates Modal */}
+      <Modal
+        visible={showDuplicatesModal}
+        transparent
+        animationType="fade"
+        onRequestClose={() => setShowDuplicatesModal(false)}>
+        <View style={styles.modalOverlay}>
+          <View style={styles.modalContent}>
+            <Text style={styles.modalTitle}>Review Duplicate Questions</Text>
+            <Text style={styles.modalSubtitle}>
+              {duplicateQuestions.length} duplicate{duplicateQuestions.length !== 1 ? 's' : ''}{' '}
+              found
+            </Text>
+
+            <ScrollView style={styles.duplicatesContainer}>
+              {duplicateQuestions.map((duplicate, index) => (
+                <View key={index} style={styles.duplicateItem}>
+                  <View style={styles.questionComparison}>
+                    <View style={styles.questionBox}>
+                      <Text style={styles.questionLabel}>New Question:</Text>
+                      <Text style={styles.questionText}>{duplicate.new.question}</Text>
+                      <Text style={styles.questionMeta}>
+                        Category: {duplicate.new.category} | Difficulty: {duplicate.new.difficulty}
+                      </Text>
+                    </View>
+
+                    <View style={styles.questionBox}>
+                      <Text style={styles.questionLabel}>Existing Question:</Text>
+                      <Text style={styles.questionText}>{duplicate.existing.question}</Text>
+                      <Text style={styles.questionMeta}>
+                        Category: {duplicate.existing.category} | Difficulty:{' '}
+                        {duplicate.existing.difficulty}
+                      </Text>
+                    </View>
+                  </View>
+
+                  <View style={styles.duplicateActions}>
+                    <Pressable
+                      onPress={() => handleDuplicateApproval(duplicate.new, true)}
+                      style={({ pressed }) => [
+                        styles.button,
+                        styles.approveButton,
+                        pressed && { opacity: 0.7 },
+                      ]}>
+                      <Text style={styles.buttonText}>Add Anyway</Text>
+                    </Pressable>
+                    <View style={styles.buttonSpacing} />
+                    <Pressable
+                      onPress={() => handleDuplicateApproval(duplicate.new, false)}
+                      style={({ pressed }) => [
+                        styles.button,
+                        styles.rejectButton,
+                        pressed && { opacity: 0.7 },
+                      ]}>
+                      <Text style={styles.buttonText}>Skip</Text>
+                    </Pressable>
+                  </View>
+                </View>
+              ))}
+            </ScrollView>
+
+            <Pressable
+              onPress={() => setShowDuplicatesModal(false)}
+              style={({ pressed }) => [
+                styles.button,
+                styles.closeButton,
+                pressed && { opacity: 0.7 },
+              ]}>
+              <Text style={styles.buttonText}>Close</Text>
+            </Pressable>
+          </View>
+        </View>
+      </Modal>
     </View>
   );
 }
@@ -383,5 +506,73 @@ const styles = StyleSheet.create({
   },
   deleteButtonText: {
     color: 'white',
+  },
+  modalOverlay: {
+    flex: 1,
+    backgroundColor: 'rgba(0, 0, 0, 0.5)',
+    justifyContent: 'center',
+    alignItems: 'center',
+    padding: 20,
+  },
+  modalContent: {
+    backgroundColor: 'white',
+    borderRadius: 8,
+    padding: 20,
+    width: '100%',
+    maxWidth: 800,
+    maxHeight: '90%',
+  },
+  modalTitle: {
+    fontSize: 24,
+    fontWeight: 'bold',
+    marginBottom: 10,
+    textAlign: 'center',
+  },
+  modalSubtitle: {
+    fontSize: 16,
+    color: '#666',
+    marginBottom: 20,
+    textAlign: 'center',
+  },
+  duplicatesContainer: {
+    maxHeight: 500,
+  },
+  duplicateItem: {
+    marginBottom: 20,
+    padding: 15,
+    borderWidth: 1,
+    borderColor: '#eee',
+    borderRadius: 8,
+  },
+  questionComparison: {
+    flexDirection: 'row',
+    gap: 20,
+    marginBottom: 15,
+  },
+  questionBox: {
+    flex: 1,
+    padding: 10,
+    backgroundColor: '#f8f8f8',
+    borderRadius: 4,
+  },
+  questionLabel: {
+    fontSize: 14,
+    fontWeight: 'bold',
+    marginBottom: 8,
+    color: '#666',
+  },
+  duplicateActions: {
+    flexDirection: 'row',
+    justifyContent: 'center',
+    gap: 10,
+  },
+  approveButton: {
+    backgroundColor: '#4CAF50',
+  },
+  rejectButton: {
+    backgroundColor: '#f44336',
+  },
+  closeButton: {
+    marginTop: 20,
   },
 });

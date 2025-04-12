@@ -179,6 +179,75 @@ app.post('/api/questions/check-duplicates', (async (req: Request, res: Response)
   }
 }) as RequestHandler);
 
+// Handle duplicate question approval/rejection
+app.post('/api/questions/handle-duplicate', (async (req: Request, res: Response) => {
+  try {
+    const { question, approved } = req.body;
+    const db = getDB();
+
+    if (!question) {
+      res.status(400).json({
+        success: false,
+        error: 'Question data is required',
+      });
+      return;
+    }
+
+    if (typeof approved !== 'boolean') {
+      res.status(400).json({
+        success: false,
+        error: 'Approved status must be a boolean',
+      });
+      return;
+    }
+
+    if (approved) {
+      // If approved, add the question despite being a duplicate
+      const newQuestion = {
+        ...question,
+        id: generateUUID(),
+      };
+
+      try {
+        // Insert into database
+        await db.insert(schema.questions).values(newQuestion);
+
+        // Save to backup
+        await saveQuestionToBackupFile({
+          ...question,
+          id: newQuestion.id,
+          created_at: new Date(),
+        });
+
+        res.json({
+          success: true,
+          message: 'Duplicate question approved and added',
+        });
+        return;
+      } catch (error) {
+        console.error('Error adding approved duplicate:', error);
+        res.status(500).json({
+          success: false,
+          error: 'Failed to add approved duplicate question',
+        });
+        return;
+      }
+    }
+
+    // If not approved (rejected), just return success
+    res.json({
+      success: true,
+      message: 'Duplicate question rejected',
+    });
+  } catch (error) {
+    console.error('Error handling duplicate:', error);
+    res.status(500).json({
+      success: false,
+      error: 'Internal server error',
+    });
+  }
+}) as RequestHandler);
+
 // Delete question by ID
 app.delete('/api/questions/:id', (async (req: Request<DeleteParams>, res: Response) => {
   try {
