@@ -15,7 +15,8 @@ import { API_BASE_URL } from '../../config';
 interface DuplicateQuestion {
   question: string;
   id: string;
-  category: string;
+  mainCategory: string;
+  subcategory: string;
   difficulty: string;
 }
 
@@ -28,8 +29,8 @@ export default function AdminPage() {
   const jsonFileInputRef = useRef<HTMLInputElement>(null);
   const [duplicateQuestions, setDuplicateQuestions] = useState<
     {
-      new: any;
-      existing: DuplicateQuestion;
+      newQuestion: any;
+      similarQuestions: DuplicateQuestion[];
     }[]
   >([]);
   const [showDuplicatesModal, setShowDuplicatesModal] = useState(false);
@@ -185,7 +186,7 @@ export default function AdminPage() {
       if (result.success) {
         // Remove this duplicate from the list
         setDuplicateQuestions((prev) =>
-          prev.filter((q) => q.new.question !== newQuestion.question)
+          prev.filter((q) => q.newQuestion.question !== newQuestion.question)
         );
 
         // Close modal if no more duplicates
@@ -328,25 +329,29 @@ export default function AdminPage() {
                   <View style={styles.questionComparison}>
                     <View style={styles.questionBox}>
                       <Text style={styles.questionLabel}>New Question:</Text>
-                      <Text style={styles.questionText}>{duplicate.new.question}</Text>
+                      <Text style={styles.questionText}>{duplicate.newQuestion.question}</Text>
                       <Text style={styles.questionMeta}>
-                        Category: {duplicate.new.category} | Difficulty: {duplicate.new.difficulty}
+                        Category: {duplicate.newQuestion.main_category} | Difficulty:{' '}
+                        {duplicate.newQuestion.difficulty}
                       </Text>
                     </View>
 
                     <View style={styles.questionBox}>
-                      <Text style={styles.questionLabel}>Existing Question:</Text>
-                      <Text style={styles.questionText}>{duplicate.existing.question}</Text>
-                      <Text style={styles.questionMeta}>
-                        Category: {duplicate.existing.category} | Difficulty:{' '}
-                        {duplicate.existing.difficulty}
-                      </Text>
+                      <Text style={styles.questionLabel}>Similar Questions:</Text>
+                      {duplicate.similarQuestions.map((similar, idx) => (
+                        <View key={idx} style={styles.similarQuestion}>
+                          <Text style={styles.questionText}>{similar.question}</Text>
+                          <Text style={styles.questionMeta}>
+                            Category: {similar.mainCategory} | Difficulty: {similar.difficulty}
+                          </Text>
+                        </View>
+                      ))}
                     </View>
                   </View>
 
                   <View style={styles.duplicateActions}>
                     <Pressable
-                      onPress={() => handleDuplicateApproval(duplicate.new, true)}
+                      onPress={() => handleDuplicateApproval(duplicate.newQuestion, true)}
                       style={({ pressed }) => [
                         styles.button,
                         styles.approveButton,
@@ -356,7 +361,7 @@ export default function AdminPage() {
                     </Pressable>
                     <View style={styles.buttonSpacing} />
                     <Pressable
-                      onPress={() => handleDuplicateApproval(duplicate.new, false)}
+                      onPress={() => handleDuplicateApproval(duplicate.newQuestion, false)}
                       style={({ pressed }) => [
                         styles.button,
                         styles.rejectButton,
@@ -560,6 +565,9 @@ const styles = StyleSheet.create({
     fontWeight: 'bold',
     marginBottom: 8,
     color: '#666',
+  },
+  similarQuestion: {
+    marginBottom: 10,
   },
   duplicateActions: {
     flexDirection: 'row',
