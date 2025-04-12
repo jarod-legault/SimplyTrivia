@@ -203,12 +203,23 @@ app.post('/api/questions/handle-duplicate', (async (req: Request, res: Response)
 
     if (approved) {
       // If approved, add the question despite being a duplicate
-      const newQuestion = {
-        ...question,
-        id: generateUUID(),
-      };
-
       try {
+        // Transform input data to match schema
+        const incorrectAnswers = Array.isArray(question.incorrect_answers)
+          ? question.incorrect_answers
+          : JSON.parse(question.incorrect_answers);
+
+        const newQuestion = {
+          id: generateUUID(),
+          question: question.question,
+          correctAnswer: question.correct_answer,
+          incorrectAnswers: JSON.stringify(incorrectAnswers),
+          mainCategory: question.main_category,
+          subcategory: question.subcategory,
+          difficulty: question.difficulty,
+          createdAt: new Date(),
+        };
+
         // Insert into database
         await db.insert(schema.questions).values(newQuestion);
 
@@ -216,7 +227,7 @@ app.post('/api/questions/handle-duplicate', (async (req: Request, res: Response)
         await saveQuestionToBackupFile({
           ...question,
           id: newQuestion.id,
-          created_at: new Date(),
+          created_at: newQuestion.createdAt,
         });
 
         res.json({
