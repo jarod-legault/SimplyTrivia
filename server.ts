@@ -6,6 +6,7 @@ import { ParamsDictionary } from 'express-serve-static-core';
 import { PORT } from './config';
 import * as schema from './models/schema';
 import { QuestionData } from './models/schema';
+import { saveQuestionToBackupFile } from './utils/backup';
 import {
   getDB,
   findSimilarQuestions,
@@ -118,6 +119,13 @@ app.post('/api/questions', (async (
         // Add the question to the database
         await db.insert(schema.questions).values(newQuestion);
         added.push(newQuestion);
+
+        // Save to backup file - after successful DB insert
+        saveQuestionToBackupFile({
+          ...data,
+          id: newQuestion.id,
+          created_at: newQuestion.createdAt,
+        });
       } catch (err) {
         errors.push({
           question: data.question || 'Unknown question',
