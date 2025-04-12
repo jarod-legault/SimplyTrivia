@@ -20,7 +20,7 @@
         - [x] PUT /api/questions/:id - Update a question
       - [x] Remove test routes.
     - [x] Update admin interface to use API calls
-    - [ ] Test duplicate detection.
+    - [x] Test duplicate detection.
     - [ ] After adding questions to the database successfully, store the new questions (with duplicates removed) in a separate time-stamped JSON file for historical & backup purposes.
   - [ ] Fix warnings in web console.
   - [ ] Get 10,000 questions

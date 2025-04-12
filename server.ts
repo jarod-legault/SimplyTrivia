@@ -6,7 +6,7 @@ import { ParamsDictionary } from 'express-serve-static-core';
 import { PORT } from './config';
 import * as schema from './models/schema';
 import { QuestionData } from './models/schema';
-import { getDB } from './utils/server-db';
+import { getDB, findSimilarQuestions } from './utils/server-db';
 import { generateUUID } from './utils/uuid';
 
 interface DeleteParams extends ParamsDictionary {
@@ -51,10 +51,18 @@ app.post('/api/questions', (async (
     const db = getDB();
     const questionsData = Array.isArray(req.body) ? req.body : [req.body];
     const added = [];
+    const duplicates = [];
     const errors = [];
 
     for (const data of questionsData) {
       try {
+        // First check for duplicates
+        const similarQuestions = findSimilarQuestions(data.question);
+        if (similarQuestions.length > 0) {
+          duplicates.push({ newQuestion: data, similarQuestions });
+          continue;
+        }
+
         // Transform input data to match schema
         const newQuestion = {
           id: generateUUID(),
@@ -83,12 +91,41 @@ app.post('/api/questions', (async (
     res.json({
       success: true,
       added: added.length,
+      duplicates: duplicates.length,
       errors: errors.length,
       addedData: added,
+      duplicatesData: duplicates,
       errorsData: errors,
     });
   } catch (error) {
     console.error('Error adding questions:', error);
+    res.status(500).json({
+      success: false,
+      error: error instanceof Error ? error.message : String(error),
+    });
+  }
+}) as RequestHandler);
+
+// Check for duplicates
+app.post('/api/questions/check-duplicates', (async (req: Request, res: Response) => {
+  try {
+    const { question } = req.body;
+    if (!question) {
+      return res.status(400).json({
+        success: false,
+        error: 'Question text is required',
+      });
+    }
+
+    const similarQuestions = findSimilarQuestions(question);
+    res.json({
+      success: true,
+      hasDuplicates: similarQuestions.length > 0,
+      duplicateCount: similarQuestions.length,
+      duplicates: similarQuestions,
+    });
+  } catch (error) {
+    console.error('Error checking duplicates:', error);
     res.status(500).json({
       success: false,
       error: error instanceof Error ? error.message : String(error),
