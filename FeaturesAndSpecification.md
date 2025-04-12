@@ -20,11 +20,17 @@
   - The SQLite database that ships with the app contains all questions but has an empty responses table
   - When the app updates, the SQLite database is overwritten with the new version (including new questions)
   - User progress is preserved through a backup system:
-    - Responses are stored in both SQLite and a JSON backup file
-    - JSON filename includes timestamp (responses_YYYYMMDD_HHMMSS.json)
+    - Responses are stored in both SQLite and a JSON backup file (responses.json)
+    - When saving new responses:
+      1. Copy existing responses.json to responses.json.bak as safety backup
+      2. Read current responses from responses.json
+      3. Add new responses to existing response data
+      4. Write combined responses (existing + new) to responses.json
+      5. If write is successful, delete responses.json.bak
+      6. If write fails, restore from responses.json.bak
     - On app startup:
       1. Check if responses table is empty
-      2. If empty, look for response backup JSON file
+      2. If empty, look for responses.json file
       3. If JSON exists, import responses into SQLite
       4. If no JSON found, this is first launch (empty responses)
 

@@ -29,12 +29,18 @@
       - [ ] Answer was correct (boolean)
       - [ ] Timestamp
     - [ ] Add response backup system
-      - [ ] Create JSON file with timestamp in name
-      - [ ] Add function to write responses to JSON file
-      - [ ] Add function to read responses from JSON file
+      - [ ] Create responses.json backup functions
+        - [ ] Function to safely write responses:
+          - [ ] Copy existing responses.json to .bak
+          - [ ] Read existing responses from responses.json
+          - [ ] Add new responses to existing data
+          - [ ] Write combined data to responses.json
+          - [ ] Delete .bak file if successful
+          - [ ] Restore from .bak if write fails
+        - [ ] Function to read responses from JSON
     - [ ] Add app startup checks
       - [ ] Check if responses table is empty
-      - [ ] Look for backup JSON file
+      - [ ] Look for responses.json file
       - [ ] Import responses if backup found
   - [ ] Should we encrypt the questions in the app?
   - [ ] Create home screen (easy, medium, hard, surprise me, settings, statistics)
