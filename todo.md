@@ -60,6 +60,7 @@
   - [ ] Create settings screen (select categories)
   - [ ] Create question screen
   - [ ] Create statistics screen where user can see how they have performed in different categories and difficulties.
+  - [ ] Handle the case when the user has answered all available questions.
   - [ ] Test in dark mode and light mode.
 
 ## Future updates
