@@ -38,25 +38,6 @@
     "backupTimestamp": "2025-04-13T00:29:55.940Z"
   },
   {
-    "question": "What is the capital city of Morocco?",
-    "correct_answer": "Rabat",
-    "incorrect_answers": [
-      "Casablanca",
-      "Marrakech",
-      "Fez",
-      "Tangier",
-      "Agadir",
-      "Meknes",
-      "Oujda"
-    ],
-    "difficulty": "medium",
-    "main_category": "Geography",
-    "subcategory": "Countries & Capitals",
-    "id": "0e0757a5-0b0c-4f4f-bfcf-173f580b6f0a",
-    "created_at": "2025-04-13T00:29:55.940Z",
-    "backupTimestamp": "2025-04-13T00:29:55.940Z"
-  },
-  {
     "question": "Which movie won the Academy Award for Best Picture in 2024?",
     "correct_answer": "Oppenheimer",
     "incorrect_answers": [
