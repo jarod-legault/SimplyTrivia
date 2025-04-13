@@ -33,7 +33,15 @@ interface ErrorData {
 }
 
 interface AnswerInQuestion {
-  newQuestion: any;
+  question: {
+    id: string;
+    question: string;
+    mainCategory: string;
+    subcategory: string;
+    difficulty: string;
+    correctAnswer: string;
+    incorrectAnswers: string[];
+  };
   reason: string;
   answer: string;
 }
@@ -61,6 +69,30 @@ export default function QuestionsPage() {
     total: 0,
     totalPages: 1,
   });
+
+  const handleScanQuestions = async () => {
+    setIsLoading(true);
+    try {
+      const response = await fetch(`${API_BASE_URL}/questions/scan-for-answers`);
+      const result = await response.json();
+
+      if (result.success) {
+        if (result.answersInQuestions > 0 && result.answersInQuestionsData) {
+          setAnswersInQuestions(result.answersInQuestionsData);
+          setShowAnswersInQuestionsModal(true);
+        } else {
+          setStatusMessage('No questions found containing their answers.');
+        }
+      } else {
+        setError(result.error || 'Failed to scan questions');
+      }
+    } catch (err) {
+      console.error('Error scanning questions:', err);
+      setError('Network error: Failed to scan questions');
+    } finally {
+      setIsLoading(false);
+    }
+  };
 
   // Fetch questions on component mount
   useEffect(() => {
@@ -251,7 +283,11 @@ export default function QuestionsPage() {
 
   const handleAnswerInQuestionApproval = async (question: any, approved: boolean) => {
     try {
-      const response = await fetch(`${API_BASE_URL}/questions/handle-answer-in-question`, {
+      const endpoint = jsonInput
+        ? `${API_BASE_URL}/questions/handle-answer-in-question`
+        : `${API_BASE_URL}/questions/handle-scanned-answer`;
+
+      const response = await fetch(endpoint, {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({
@@ -263,26 +299,26 @@ export default function QuestionsPage() {
       const result = await response.json();
 
       if (result.success) {
-        // Remove this question from the list
         setAnswersInQuestions((prev) =>
-          prev.filter((q) => q.newQuestion.question !== question.question)
+          prev.filter((q) => q.question.question !== question.question)
         );
 
-        // Close modal if no more questions
         if (answersInQuestions.length <= 1) {
           setShowAnswersInQuestionsModal(false);
         }
 
-        // Refresh questions list if approved
-        if (approved) {
+        if ((jsonInput && approved) || (!jsonInput && !approved)) {
           fetchQuestions();
         }
       } else {
-        setError(result.error || 'Failed to handle answer-in-question');
+        setError(
+          result.error ||
+            `Failed to ${jsonInput ? 'handle answer-in-question' : 'handle scanned answer'}`
+        );
       }
     } catch (err) {
-      console.error('Error handling answer-in-question:', err);
-      setError('Network error: Failed to handle answer-in-question');
+      console.error('Error handling answer in question:', err);
+      setError('Network error: Failed to handle answer in question');
     }
   };
 
@@ -339,6 +375,19 @@ export default function QuestionsPage() {
           role="button"
           aria-label="Upload JSON file">
           <Text style={styles.buttonText}>Upload JSON File</Text>
+        </Pressable>
+        <View style={styles.buttonSpacing} />
+        <Pressable
+          onPress={handleScanQuestions}
+          disabled={isLoading}
+          style={({ pressed }) => [
+            styles.button,
+            isLoading && styles.buttonDisabled,
+            pressed && { opacity: 0.7 },
+          ]}
+          role="button"
+          aria-label="Scan questions for answers">
+          <Text style={styles.buttonText}>Scan Questions for Answers</Text>
         </Pressable>
       </View>
 
@@ -540,35 +589,52 @@ export default function QuestionsPage() {
                   <View style={styles.questionComparison}>
                     <View style={styles.questionBox}>
                       <Text style={styles.questionLabel}>Question:</Text>
-                      <Text style={styles.questionText}>{item.newQuestion.question}</Text>
+                      <Text style={styles.questionText}>{item.question.question}</Text>
                       <Text style={styles.questionMeta}>
-                        Category: {item.newQuestion.main_category} | Difficulty:{' '}
-                        {item.newQuestion.difficulty}
+                        Category: {item.question.mainCategory} - {item.question.subcategory} |
+                        Difficulty: {item.question.difficulty}
                       </Text>
-                      <Text style={styles.answerText}>Answer: {item.answer}</Text>
-                      <Text style={styles.reasonText}>Reason: {item.reason}</Text>
+                      <View style={styles.answersContainer}>
+                        <Text style={styles.answerLabel}>Answers:</Text>
+                        <Text style={styles.correctAnswerText}>
+                          ✓ Correct: {item.question.correctAnswer}
+                        </Text>
+                        {(() => {
+                          const incorrectAnswers =
+                            typeof item.question.incorrectAnswers === 'string'
+                              ? JSON.parse(item.question.incorrectAnswers)
+                              : item.question.incorrectAnswers;
+
+                          return incorrectAnswers.map((answer: string, idx: number) => (
+                            <Text key={idx} style={styles.incorrectAnswerText}>
+                              ✗ {answer}
+                            </Text>
+                          ));
+                        })()}
+                      </View>
+                      <Text style={styles.reasonText}>Reason found: {item.reason}</Text>
                     </View>
                   </View>
 
                   <View style={styles.duplicateActions}>
                     <Pressable
-                      onPress={() => handleAnswerInQuestionApproval(item.newQuestion, true)}
+                      onPress={() => handleAnswerInQuestionApproval(item.question, true)}
                       style={({ pressed }) => [
                         styles.button,
                         styles.approveButton,
                         pressed && { opacity: 0.7 },
                       ]}>
-                      <Text style={styles.buttonText}>Add Anyway</Text>
+                      <Text style={styles.buttonText}>{jsonInput ? 'Add Anyway' : 'Keep'}</Text>
                     </Pressable>
                     <View style={styles.buttonSpacing} />
                     <Pressable
-                      onPress={() => handleAnswerInQuestionApproval(item.newQuestion, false)}
+                      onPress={() => handleAnswerInQuestionApproval(item.question, false)}
                       style={({ pressed }) => [
                         styles.button,
                         styles.rejectButton,
                         pressed && { opacity: 0.7 },
                       ]}>
-                      <Text style={styles.buttonText}>Skip</Text>
+                      <Text style={styles.buttonText}>{jsonInput ? 'Skip' : 'Remove'}</Text>
                     </Pressable>
                   </View>
                 </View>
@@ -803,8 +869,29 @@ const styles = StyleSheet.create({
   },
   answerText: {
     fontSize: 14,
-    color: '#e65100',
     marginTop: 8,
+  },
+  correctAnswerText: {
+    fontSize: 14,
+    color: '#4CAF50',
+    marginTop: 8,
+  },
+  incorrectAnswerText: {
+    fontSize: 14,
+    color: '#f44336',
+    marginTop: 4,
+  },
+  answersContainer: {
+    marginTop: 8,
+    padding: 8,
+    backgroundColor: '#f5f5f5',
+    borderRadius: 4,
+  },
+  answerLabel: {
+    fontSize: 14,
+    fontWeight: 'bold',
+    color: '#666',
+    marginBottom: 4,
   },
   reasonText: {
     fontSize: 14,

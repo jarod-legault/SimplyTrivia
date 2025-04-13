@@ -396,6 +396,97 @@ app.post('/api/questions/handle-answer-in-question', (async (req: Request, res: 
   }
 }) as RequestHandler);
 
+// Handle scanned answer approval/rejection
+app.post('/api/questions/handle-scanned-answer', (async (req: Request, res: Response) => {
+  try {
+    const { question, approved } = req.body;
+    const db = getDB();
+
+    if (!question) {
+      res.status(400).json({
+        success: false,
+        error: 'Question data is required',
+      });
+      return;
+    }
+
+    if (typeof approved !== 'boolean') {
+      res.status(400).json({
+        success: false,
+        error: 'Approved status must be a boolean',
+      });
+      return;
+    }
+
+    if (approved) {
+      // If approved (Keep), just return success since we're keeping the question as is
+      res.json({
+        success: true,
+        message: 'Question kept despite containing answer',
+      });
+    } else {
+      // If not approved (Remove), delete the question from the database
+      try {
+        await db.delete(schema.questions).where(eq(schema.questions.id, question.id));
+        res.json({
+          success: true,
+          message: 'Question removed due to containing answer',
+        });
+      } catch (error) {
+        console.error('Error deleting question:', error);
+        res.status(500).json({
+          success: false,
+          error: 'Failed to delete question',
+        });
+      }
+    }
+  } catch (error) {
+    console.error('Error handling scanned answer:', error);
+    res.status(500).json({
+      success: false,
+      error: error instanceof Error ? error.message : String(error),
+    });
+  }
+}) as RequestHandler);
+
+// Scan all questions for answers in the questions
+app.get('/api/questions/scan-for-answers', (async (req: Request, res: Response) => {
+  try {
+    const db = getDB();
+    const questions = await db.select().from(schema.questions);
+    const problematicQuestions: { question: any; answer: string; reason: string }[] = [];
+
+    for (const question of questions) {
+      const cleanQuestion = question.question.toLowerCase();
+      const incorrectAnswers = JSON.parse(question.incorrectAnswers);
+      const answers = [question.correctAnswer, ...incorrectAnswers];
+
+      for (const answer of answers) {
+        if (checkQuestionContainsAnswer(cleanQuestion, answer)) {
+          problematicQuestions.push({
+            question,
+            answer,
+            reason: `Question contains the answer: "${answer}"`,
+          });
+          break; // Break after finding the first answer match
+        }
+      }
+    }
+
+    res.json({
+      success: true,
+      answersInQuestions: problematicQuestions.length,
+      answersInQuestionsData: problematicQuestions,
+    });
+  } catch (error) {
+    console.error('Error scanning questions:', error);
+    res.status(500).json({
+      success: false,
+      error: error instanceof Error ? error.message : String(error),
+    });
+  }
+}) as RequestHandler);
+
 // Delete question by ID
 app.delete('/api/questions/:id', (async (req: Request<DeleteParams>, res: Response) => {
   try {
