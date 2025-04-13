@@ -14,66 +14,8 @@
     "difficulty": "easy",
     "main_category": "Geography",
     "subcategory": "Countries & Capitals",
-    "id": "b64379e2-6d3e-45ee-bcd1-00e80bac9628",
-    "created_at": "2025-04-12T21:44:32.736Z",
-    "backupTimestamp": "2025-04-12T21:44:32.738Z"
-  },
-  {
-    "question": "What is the capital of Argentina?",
-    "correct_answer": "Buenos Aires",
-    "incorrect_answers": [
-      "Córdoba",
-      "Rosario",
-      "Mendoza",
-      "Mar del Plata",
-      "La Plata",
-      "San Miguel",
-      "Tucumán"
-    ],
-    "difficulty": "easy",
-    "main_category": "Geography",
-    "subcategory": "Countries & Capitals",
-    "id": "25bbb885-7d47-4534-8645-5326f771bac3",
-    "created_at": "2025-04-12T21:47:30.817Z",
-    "backupTimestamp": "2025-04-12T21:47:30.818Z"
-  },
-  {
-    "question": "What is the capital of Brazil?",
-    "correct_answer": "Brasília",
-    "incorrect_answers": [
-      "Rio de Janeiro",
-      "São Paulo",
-      "Salvador",
-      "Fortaleza",
-      "Manaus",
-      "Recife",
-      "Belo Horizonte"
-    ],
-    "difficulty": "easy",
-    "main_category": "Geography",
-    "subcategory": "Countries & Capitals",
     "id": "60e2cad4-074d-4eb0-89df-50721888c9ea",
     "created_at": "2025-04-12T23:41:17.182Z",
     "backupTimestamp": "2025-04-12T23:41:17.187Z"
-  },
-  {
-    "question": "Which ancient Egyptian queen was known as the \"Last Active Ruler of the Ptolemaic Kingdom\"?",
-    "correct_answer": "Cleopatra VII",
-    "incorrect_answers": [
-      "Nefertiti",
-      "Hatshepsut",
-      "Tiye",
-      "Nefertari",
-      "Ankhesenamun",
-      "Meritaten",
-      "Twosret"
-    ],
-    "difficulty": "medium",
-    "main_category": "History",
-    "subcategory": "Ancient History",
-    "id": "3a07d8b3-623e-4e75-aacd-3384e8f421d0",
-    "created_at": "2025-04-13T00:47:51.321Z",
-    "backupTimestamp": "2025-04-13T00:47:51.324Z",
-    "localBackupTimestamp": "2025-04-12T18:47:51.324Z"
   }
 ]
