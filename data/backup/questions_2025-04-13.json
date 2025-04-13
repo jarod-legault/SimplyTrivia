@@ -11618,5 +11618,3225 @@
     "created_at": "2025-04-13T22:12:06.671Z",
     "backupTimestamp": "2025-04-13T22:12:06.671Z",
     "localBackupTimestamp": "2025-04-13T16:12:06.671Z"
+  },
+  {
+    "question": "Which animal is known as the 'king of the jungle'?",
+    "correct_answer": "Lion",
+    "incorrect_answers": [
+      "Tiger",
+      "Elephant",
+      "Gorilla",
+      "Cheetah",
+      "Jaguar",
+      "Panther",
+      "Leopard"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Animals & Wildlife",
+    "difficulty": "easy",
+    "id": "fe66dba4-dfd2-44a0-8437-19556bea093e",
+    "created_at": "2025-04-13T23:36:19.058Z",
+    "backupTimestamp": "2025-04-13T23:36:19.061Z",
+    "localBackupTimestamp": "2025-04-13T17:36:19.061Z"
+  },
+  {
+    "question": "Which bird cannot fly but can swim?",
+    "correct_answer": "Penguin",
+    "incorrect_answers": [
+      "Ostrich",
+      "Emu",
+      "Kiwi",
+      "Chicken",
+      "Turkey",
+      "Dodo",
+      "Cassowary"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Animals & Wildlife",
+    "difficulty": "easy",
+    "id": "f2152c6d-54c9-472f-9d42-58029c705c86",
+    "created_at": "2025-04-13T23:36:19.068Z",
+    "backupTimestamp": "2025-04-13T23:36:19.070Z",
+    "localBackupTimestamp": "2025-04-13T17:36:19.070Z"
+  },
+  {
+    "question": "How many legs does a spider typically have?",
+    "correct_answer": "8",
+    "incorrect_answers": [
+      "6",
+      "10",
+      "4",
+      "12",
+      "2",
+      "14",
+      "16"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Animals & Wildlife",
+    "difficulty": "easy",
+    "id": "06ec88e8-d757-499a-bc35-3c9851c25563",
+    "created_at": "2025-04-13T23:36:19.080Z",
+    "backupTimestamp": "2025-04-13T23:36:19.082Z",
+    "localBackupTimestamp": "2025-04-13T17:36:19.082Z"
+  },
+  {
+    "question": "Which mammal can fly?",
+    "correct_answer": "Bat",
+    "incorrect_answers": [
+      "Squirrel",
+      "Mouse",
+      "Rabbit",
+      "Lemur",
+      "Kangaroo",
+      "Platypus",
+      "Mole"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Animals & Wildlife",
+    "difficulty": "easy",
+    "id": "daaf8eb5-dcdf-442f-9f40-05a3bab55555",
+    "created_at": "2025-04-13T23:36:19.091Z",
+    "backupTimestamp": "2025-04-13T23:36:19.092Z",
+    "localBackupTimestamp": "2025-04-13T17:36:19.092Z"
+  },
+  {
+    "question": "What color are flamingos when they are born?",
+    "correct_answer": "Gray",
+    "incorrect_answers": [
+      "Pink",
+      "White",
+      "Black",
+      "Yellow",
+      "Orange",
+      "Brown",
+      "Blue"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Animals & Wildlife",
+    "difficulty": "easy",
+    "id": "d2da6d2d-ce4d-4674-a825-57ff64cc811e",
+    "created_at": "2025-04-13T23:36:19.097Z",
+    "backupTimestamp": "2025-04-13T23:36:19.098Z",
+    "localBackupTimestamp": "2025-04-13T17:36:19.098Z"
+  },
+  {
+    "question": "Which animal sleeps standing up?",
+    "correct_answer": "Horse",
+    "incorrect_answers": [
+      "Giraffe",
+      "Elephant",
+      "Cow",
+      "Camel",
+      "Deer",
+      "Rhinoceros",
+      "Zebra"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Animals & Wildlife",
+    "difficulty": "easy",
+    "id": "6ded5a77-590f-4bec-be75-51c6e12978de",
+    "created_at": "2025-04-13T23:36:19.104Z",
+    "backupTimestamp": "2025-04-13T23:36:19.105Z",
+    "localBackupTimestamp": "2025-04-13T17:36:19.105Z"
+  },
+  {
+    "question": "What is a baby kangaroo called?",
+    "correct_answer": "Joey",
+    "incorrect_answers": [
+      "Cub",
+      "Kit",
+      "Fawn",
+      "Calf",
+      "Pup",
+      "Kid",
+      "Foal"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Animals & Wildlife",
+    "difficulty": "easy",
+    "id": "f2b7b252-17ac-4c0a-b43d-0b1a69e695b2",
+    "created_at": "2025-04-13T23:36:19.109Z",
+    "backupTimestamp": "2025-04-13T23:36:19.109Z",
+    "localBackupTimestamp": "2025-04-13T17:36:19.109Z"
+  },
+  {
+    "question": "Which animal has black and white stripes?",
+    "correct_answer": "Zebra",
+    "incorrect_answers": [
+      "Giraffe",
+      "Tiger",
+      "Panda",
+      "Skunk",
+      "Leopard",
+      "Raccoon",
+      "Okapi"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Animals & Wildlife",
+    "difficulty": "easy",
+    "id": "d3075bf1-df41-4b0d-8793-df01750386ec",
+    "created_at": "2025-04-13T23:36:19.113Z",
+    "backupTimestamp": "2025-04-13T23:36:19.114Z",
+    "localBackupTimestamp": "2025-04-13T17:36:19.114Z"
+  },
+  {
+    "question": "Which sea creature has eight arms?",
+    "correct_answer": "Octopus",
+    "incorrect_answers": [
+      "Squid",
+      "Jellyfish",
+      "Starfish",
+      "Seahorse",
+      "Crab",
+      "Eel",
+      "Lobster"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Animals & Wildlife",
+    "difficulty": "easy",
+    "id": "12cf596e-4f4e-4412-9a67-b111bfb1b510",
+    "created_at": "2025-04-13T23:36:19.116Z",
+    "backupTimestamp": "2025-04-13T23:36:19.117Z",
+    "localBackupTimestamp": "2025-04-13T17:36:19.117Z"
+  },
+  {
+    "question": "What do caterpillars turn into?",
+    "correct_answer": "Butterflies",
+    "incorrect_answers": [
+      "Beetles",
+      "Ants",
+      "Bees",
+      "Dragonflies",
+      "Wasps",
+      "Moths",
+      "Flies"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Animals & Wildlife",
+    "difficulty": "easy",
+    "id": "6d499193-c645-4c71-b2e1-6d64f156270b",
+    "created_at": "2025-04-13T23:36:19.122Z",
+    "backupTimestamp": "2025-04-13T23:36:19.123Z",
+    "localBackupTimestamp": "2025-04-13T17:36:19.123Z"
+  },
+  {
+    "question": "Which animal has the longest neck?",
+    "correct_answer": "Giraffe",
+    "incorrect_answers": [
+      "Ostrich",
+      "Elephant",
+      "Swan",
+      "Camel",
+      "Llama",
+      "Flamingo",
+      "Cobra"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Animals & Wildlife",
+    "difficulty": "easy",
+    "id": "889d8067-f6d0-4621-b642-03918b48fc78",
+    "created_at": "2025-04-13T23:36:19.127Z",
+    "backupTimestamp": "2025-04-13T23:36:19.128Z",
+    "localBackupTimestamp": "2025-04-13T17:36:19.128Z"
+  },
+  {
+    "question": "How many humps does a Bactrian camel have?",
+    "correct_answer": "2",
+    "incorrect_answers": [
+      "1",
+      "3",
+      "4",
+      "5",
+      "0",
+      "6",
+      "7"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Animals & Wildlife",
+    "difficulty": "easy",
+    "id": "878e97dd-02aa-48ec-910c-b96a86e7d23f",
+    "created_at": "2025-04-13T23:36:19.130Z",
+    "backupTimestamp": "2025-04-13T23:36:19.131Z",
+    "localBackupTimestamp": "2025-04-13T17:36:19.131Z"
+  },
+  {
+    "question": "Which animal is the tallest in the world?",
+    "correct_answer": "Giraffe",
+    "incorrect_answers": [
+      "Elephant",
+      "Rhino",
+      "Moose",
+      "Polar Bear",
+      "Ostrich",
+      "Horse",
+      "Camel"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Animals & Wildlife",
+    "difficulty": "easy",
+    "id": "365e1c80-5f6c-4ed2-b230-537c0317f50e",
+    "created_at": "2025-04-13T23:36:19.134Z",
+    "backupTimestamp": "2025-04-13T23:36:19.135Z",
+    "localBackupTimestamp": "2025-04-13T17:36:19.135Z"
+  },
+  {
+    "question": "Which big cat has spots?",
+    "correct_answer": "Leopard",
+    "incorrect_answers": [
+      "Lion",
+      "Tiger",
+      "Puma",
+      "Lynx",
+      "Cheetah",
+      "Jaguar",
+      "Cougar"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Animals & Wildlife",
+    "difficulty": "easy",
+    "id": "ac8818ca-e79e-40e3-828a-558051e0ec25",
+    "created_at": "2025-04-13T23:36:19.138Z",
+    "backupTimestamp": "2025-04-13T23:36:19.139Z",
+    "localBackupTimestamp": "2025-04-13T17:36:19.139Z"
+  },
+  {
+    "question": "What is a group of lions called?",
+    "correct_answer": "Pride",
+    "incorrect_answers": [
+      "Herd",
+      "Flock",
+      "Pack",
+      "Colony",
+      "School",
+      "Pod",
+      "Gang"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Animals & Wildlife",
+    "difficulty": "easy",
+    "id": "055fddea-44da-4ccb-884a-44e079e68a9c",
+    "created_at": "2025-04-13T23:36:19.142Z",
+    "backupTimestamp": "2025-04-13T23:36:19.142Z",
+    "localBackupTimestamp": "2025-04-13T17:36:19.142Z"
+  },
+  {
+    "question": "What animal is known for collecting and storing nuts?",
+    "correct_answer": "Squirrel",
+    "incorrect_answers": [
+      "Raccoon",
+      "Fox",
+      "Rabbit",
+      "Beaver",
+      "Chipmunk",
+      "Mouse",
+      "Rat"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Animals & Wildlife",
+    "difficulty": "easy",
+    "id": "9a172c5a-88eb-4b50-a60c-80f66f998378",
+    "created_at": "2025-04-13T23:36:19.145Z",
+    "backupTimestamp": "2025-04-13T23:36:19.145Z",
+    "localBackupTimestamp": "2025-04-13T17:36:19.145Z"
+  },
+  {
+    "question": "Which animal is the fastest land animal?",
+    "correct_answer": "Cheetah",
+    "incorrect_answers": [
+      "Lion",
+      "Gazelle",
+      "Ostrich",
+      "Horse",
+      "Antelope",
+      "Tiger",
+      "Wolf"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Animals & Wildlife",
+    "difficulty": "easy",
+    "id": "efe07f92-3488-400a-b6d5-6f29aa84f3ea",
+    "created_at": "2025-04-13T23:36:19.148Z",
+    "backupTimestamp": "2025-04-13T23:36:19.148Z",
+    "localBackupTimestamp": "2025-04-13T17:36:19.148Z"
+  },
+  {
+    "question": "Which animal hops and carries babies in a pouch?",
+    "correct_answer": "Kangaroo",
+    "incorrect_answers": [
+      "Koala",
+      "Opossum",
+      "Lemur",
+      "Rabbit",
+      "Squirrel",
+      "Monkey",
+      "Wombat"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Animals & Wildlife",
+    "difficulty": "easy",
+    "id": "2b01a0d7-6260-4453-abdd-5c5307df2c6b",
+    "created_at": "2025-04-13T23:36:19.151Z",
+    "backupTimestamp": "2025-04-13T23:36:19.152Z",
+    "localBackupTimestamp": "2025-04-13T17:36:19.152Z"
+  },
+  {
+    "question": "What type of animal is a Komodo dragon?",
+    "correct_answer": "Lizard",
+    "incorrect_answers": [
+      "Snake",
+      "Amphibian",
+      "Bird",
+      "Fish",
+      "Mammal",
+      "Insect",
+      "Crustacean"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Animals & Wildlife",
+    "difficulty": "easy",
+    "id": "94af814d-6f88-4b3c-8e6d-8011bcbc994d",
+    "created_at": "2025-04-13T23:36:19.155Z",
+    "backupTimestamp": "2025-04-13T23:36:19.155Z",
+    "localBackupTimestamp": "2025-04-13T17:36:19.155Z"
+  },
+  {
+    "question": "Which animal can change its color to match surroundings?",
+    "correct_answer": "Chameleon",
+    "incorrect_answers": [
+      "Gecko",
+      "Iguana",
+      "Frog",
+      "Snake",
+      "Salamander",
+      "Newt",
+      "Turtle"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Animals & Wildlife",
+    "difficulty": "easy",
+    "id": "258e3bcd-1038-4d3b-b50b-d579433eb811",
+    "created_at": "2025-04-13T23:36:19.158Z",
+    "backupTimestamp": "2025-04-13T23:36:19.159Z",
+    "localBackupTimestamp": "2025-04-13T17:36:19.159Z"
+  },
+  {
+    "question": "What is the largest type of big cat?",
+    "correct_answer": "Tiger",
+    "incorrect_answers": [
+      "Lion",
+      "Jaguar",
+      "Leopard",
+      "Cheetah",
+      "Puma",
+      "Lynx",
+      "Snow Leopard"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Animals & Wildlife",
+    "difficulty": "easy",
+    "id": "af205952-eccf-4586-88e9-9d64276b32db",
+    "created_at": "2025-04-13T23:36:19.163Z",
+    "backupTimestamp": "2025-04-13T23:36:19.163Z",
+    "localBackupTimestamp": "2025-04-13T17:36:19.163Z"
+  },
+  {
+    "question": "How many legs does an ant have?",
+    "correct_answer": "6",
+    "incorrect_answers": [
+      "4",
+      "8",
+      "10",
+      "12",
+      "2",
+      "14",
+      "16"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Animals & Wildlife",
+    "difficulty": "easy",
+    "id": "9d44cea0-fec2-471d-8f4d-c2922ccad023",
+    "created_at": "2025-04-13T23:36:19.166Z",
+    "backupTimestamp": "2025-04-13T23:36:19.166Z",
+    "localBackupTimestamp": "2025-04-13T17:36:19.166Z"
+  },
+  {
+    "question": "Which bear lives in the Arctic?",
+    "correct_answer": "Polar Bear",
+    "incorrect_answers": [
+      "Brown Bear",
+      "Black Bear",
+      "Grizzly Bear",
+      "Panda Bear",
+      "Koala",
+      "Sun Bear",
+      "Sloth Bear"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Animals & Wildlife",
+    "difficulty": "easy",
+    "id": "d2837400-8c45-4123-b7ac-8e33704a4aef",
+    "created_at": "2025-04-13T23:36:19.169Z",
+    "backupTimestamp": "2025-04-13T23:36:19.170Z",
+    "localBackupTimestamp": "2025-04-13T17:36:19.170Z"
+  },
+  {
+    "question": "Which animal is known for having a very long tongue?",
+    "correct_answer": "Giraffe",
+    "incorrect_answers": [
+      "Anteater",
+      "Frog",
+      "Chameleon",
+      "Snake",
+      "Koala",
+      "Penguin",
+      "Armadillo"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Animals & Wildlife",
+    "difficulty": "easy",
+    "id": "9d07a288-c482-497d-af02-b9e605c3c35d",
+    "created_at": "2025-04-13T23:36:19.173Z",
+    "backupTimestamp": "2025-04-13T23:36:19.173Z",
+    "localBackupTimestamp": "2025-04-13T17:36:19.173Z"
+  },
+  {
+    "question": "How many wings does a bee have?",
+    "correct_answer": "4",
+    "incorrect_answers": [
+      "2",
+      "6",
+      "8",
+      "3",
+      "5",
+      "7",
+      "9"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Animals & Wildlife",
+    "difficulty": "easy",
+    "id": "41c0a03b-dfb6-4190-b425-69e63042caf2",
+    "created_at": "2025-04-13T23:36:19.176Z",
+    "backupTimestamp": "2025-04-13T23:36:19.177Z",
+    "localBackupTimestamp": "2025-04-13T17:36:19.177Z"
+  },
+  {
+    "question": "What is the largest land animal?",
+    "correct_answer": "African Elephant",
+    "incorrect_answers": [
+      "Blue Whale",
+      "Giraffe",
+      "Rhino",
+      "Hippo",
+      "Bison",
+      "Moose",
+      "Polar Bear"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Animals & Wildlife",
+    "difficulty": "easy",
+    "id": "470812cc-1d4a-43c8-b2db-92fb55a0a1ac",
+    "created_at": "2025-04-13T23:36:19.180Z",
+    "backupTimestamp": "2025-04-13T23:36:19.180Z",
+    "localBackupTimestamp": "2025-04-13T17:36:19.180Z"
+  },
+  {
+    "question": "Which animal has the thickest fur of any mammal?",
+    "correct_answer": "Sea Otter",
+    "incorrect_answers": [
+      "Polar Bear",
+      "Arctic Fox",
+      "Mink",
+      "Wolf",
+      "Beaver",
+      "Chinchilla",
+      "Husky"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Animals & Wildlife",
+    "difficulty": "easy",
+    "id": "7856faa3-0465-43b8-9af4-af2db5fcacc7",
+    "created_at": "2025-04-13T23:36:19.183Z",
+    "backupTimestamp": "2025-04-13T23:36:19.183Z",
+    "localBackupTimestamp": "2025-04-13T17:36:19.183Z"
+  },
+  {
+    "question": "What do you call a baby swan?",
+    "correct_answer": "Cygnet",
+    "incorrect_answers": [
+      "Duckling",
+      "Chick",
+      "Gosling",
+      "Hatchling",
+      "Owlet",
+      "Eyas",
+      "Polliwog"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Animals & Wildlife",
+    "difficulty": "easy",
+    "id": "9f7d5615-6421-4b52-a090-1fc50672c8ad",
+    "created_at": "2025-04-13T23:36:19.187Z",
+    "backupTimestamp": "2025-04-13T23:36:19.187Z",
+    "localBackupTimestamp": "2025-04-13T17:36:19.187Z"
+  },
+  {
+    "question": "What animal is the symbol of Australia?",
+    "correct_answer": "Kangaroo",
+    "incorrect_answers": [
+      "Koala",
+      "Emu",
+      "Platypus",
+      "Dingo",
+      "Wombat",
+      "Tasmanian Devil",
+      "Kookaburra"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Animals & Wildlife",
+    "difficulty": "easy",
+    "id": "79edd72b-19a9-44ac-8f59-6f0b6bd25ef0",
+    "created_at": "2025-04-13T23:36:19.190Z",
+    "backupTimestamp": "2025-04-13T23:36:19.190Z",
+    "localBackupTimestamp": "2025-04-13T17:36:19.190Z"
+  },
+  {
+    "question": "What insect produces honey?",
+    "correct_answer": "Honey Bee",
+    "incorrect_answers": [
+      "Wasp",
+      "Ant",
+      "Fly",
+      "Butterfly",
+      "Moth",
+      "Beetle",
+      "Cricket"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Animals & Wildlife",
+    "difficulty": "easy",
+    "id": "be8471e8-af1e-4991-98ee-e8ec2312bb26",
+    "created_at": "2025-04-13T23:36:19.193Z",
+    "backupTimestamp": "2025-04-13T23:36:19.193Z",
+    "localBackupTimestamp": "2025-04-13T17:36:19.193Z"
+  },
+  {
+    "question": "Which animal is known as man's best friend?",
+    "correct_answer": "Dog",
+    "incorrect_answers": [
+      "Cat",
+      "Horse",
+      "Rabbit",
+      "Hamster",
+      "Guinea Pig",
+      "Parrot",
+      "Fish"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Animals & Wildlife",
+    "difficulty": "easy",
+    "id": "9ab5dbe8-cfdf-45d9-9f64-3dcf3e0f0121",
+    "created_at": "2025-04-13T23:36:19.196Z",
+    "backupTimestamp": "2025-04-13T23:36:19.196Z",
+    "localBackupTimestamp": "2025-04-13T17:36:19.196Z"
+  },
+  {
+    "question": "What is the largest bird in the world?",
+    "correct_answer": "Ostrich",
+    "incorrect_answers": [
+      "Eagle",
+      "Condor",
+      "Albatross",
+      "Emu",
+      "Penguin",
+      "Swan",
+      "Pelican"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Animals & Wildlife",
+    "difficulty": "easy",
+    "id": "54d8cef7-0f54-4a6a-b8c6-5edf643de2b1",
+    "created_at": "2025-04-13T23:36:19.199Z",
+    "backupTimestamp": "2025-04-13T23:36:19.199Z",
+    "localBackupTimestamp": "2025-04-13T17:36:19.199Z"
+  },
+  {
+    "question": "Which animal uses echolocation to find prey?",
+    "correct_answer": "Bat",
+    "incorrect_answers": [
+      "Owl",
+      "Snake",
+      "Fox",
+      "Spider",
+      "Wolf",
+      "Shark",
+      "Eagle"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Animals & Wildlife",
+    "difficulty": "easy",
+    "id": "5e7e62d7-5eaa-4f01-9989-4ef2c0f8f507",
+    "created_at": "2025-04-13T23:36:19.202Z",
+    "backupTimestamp": "2025-04-13T23:36:19.202Z",
+    "localBackupTimestamp": "2025-04-13T17:36:19.202Z"
+  },
+  {
+    "question": "What is a female deer called?",
+    "correct_answer": "Doe",
+    "incorrect_answers": [
+      "Buck",
+      "Stag",
+      "Fawn",
+      "Hind",
+      "Calf",
+      "Cow",
+      "Mare"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Animals & Wildlife",
+    "difficulty": "easy",
+    "id": "ddd06041-c522-4b84-b55a-fe4b022a4930",
+    "created_at": "2025-04-13T23:36:19.205Z",
+    "backupTimestamp": "2025-04-13T23:36:19.205Z",
+    "localBackupTimestamp": "2025-04-13T17:36:19.205Z"
+  },
+  {
+    "question": "What do you call a group of wolves?",
+    "correct_answer": "Pack",
+    "incorrect_answers": [
+      "Herd",
+      "Flock",
+      "Pride",
+      "School",
+      "Pod",
+      "Colony",
+      "Swarm"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Animals & Wildlife",
+    "difficulty": "easy",
+    "id": "492847b6-ee3e-42ab-9ef1-cca2bc597dd1",
+    "created_at": "2025-04-13T23:36:19.207Z",
+    "backupTimestamp": "2025-04-13T23:36:19.208Z",
+    "localBackupTimestamp": "2025-04-13T17:36:19.208Z"
+  },
+  {
+    "question": "Which animal has a pouch to carry its young?",
+    "correct_answer": "Kangaroo",
+    "incorrect_answers": [
+      "Elephant",
+      "Wolf",
+      "Bear",
+      "Zebra",
+      "Gorilla",
+      "Lion",
+      "Deer"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Animals & Wildlife",
+    "difficulty": "easy",
+    "id": "1a2eb430-70fd-45f2-9f4d-7bbbf7630148",
+    "created_at": "2025-04-13T23:36:19.210Z",
+    "backupTimestamp": "2025-04-13T23:36:19.211Z",
+    "localBackupTimestamp": "2025-04-13T17:36:19.211Z"
+  },
+  {
+    "question": "What is the only mammal that can fly?",
+    "correct_answer": "Bat",
+    "incorrect_answers": [
+      "Flying Squirrel",
+      "Bird",
+      "Butterfly",
+      "Dragonfly",
+      "Bee",
+      "Penguin",
+      "Flying Fish"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Animals & Wildlife",
+    "difficulty": "easy",
+    "id": "ed8dc7f8-df1c-49fd-94d5-27e5e9cd487a",
+    "created_at": "2025-04-13T23:36:19.213Z",
+    "backupTimestamp": "2025-04-13T23:36:19.213Z",
+    "localBackupTimestamp": "2025-04-13T17:36:19.213Z"
+  },
+  {
+    "question": "What is a baby cat called?",
+    "correct_answer": "Kitten",
+    "incorrect_answers": [
+      "Cub",
+      "Pup",
+      "Kid",
+      "Calf",
+      "Fawn",
+      "Foal",
+      "Hatchling"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Animals & Wildlife",
+    "difficulty": "easy",
+    "id": "7356c727-5c89-469e-bbda-7c7346637f69",
+    "created_at": "2025-04-13T23:36:19.217Z",
+    "backupTimestamp": "2025-04-13T23:36:19.217Z",
+    "localBackupTimestamp": "2025-04-13T17:36:19.217Z"
+  },
+  {
+    "question": "Which animal can regrow its tail?",
+    "correct_answer": "Lizard",
+    "incorrect_answers": [
+      "Snake",
+      "Frog",
+      "Cat",
+      "Dog",
+      "Mouse",
+      "Bird",
+      "Fish"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Animals & Wildlife",
+    "difficulty": "easy",
+    "id": "4c12b5b4-b272-4b0f-8071-7e1dd690c48e",
+    "created_at": "2025-04-13T23:36:19.221Z",
+    "backupTimestamp": "2025-04-13T23:36:19.221Z",
+    "localBackupTimestamp": "2025-04-13T17:36:19.221Z"
+  },
+  {
+    "question": "What is a group of fish called?",
+    "correct_answer": "School",
+    "incorrect_answers": [
+      "Herd",
+      "Flock",
+      "Pack",
+      "Pod",
+      "Colony",
+      "Swarm",
+      "Gaggle"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Animals & Wildlife",
+    "difficulty": "easy",
+    "id": "f1377b30-4c7d-408f-bf05-1de0f098901e",
+    "created_at": "2025-04-13T23:36:19.224Z",
+    "backupTimestamp": "2025-04-13T23:36:19.224Z",
+    "localBackupTimestamp": "2025-04-13T17:36:19.224Z"
+  },
+  {
+    "question": "Which animal has the best sense of smell?",
+    "correct_answer": "Bear",
+    "incorrect_answers": [
+      "Dog",
+      "Elephant",
+      "Shark",
+      "Rat",
+      "Wolf",
+      "Snake",
+      "Vulture"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Animals & Wildlife",
+    "difficulty": "easy",
+    "id": "6c2a7a73-ecbe-46e1-b3fb-4473d92a08b3",
+    "created_at": "2025-04-13T23:36:19.227Z",
+    "backupTimestamp": "2025-04-13T23:36:19.228Z",
+    "localBackupTimestamp": "2025-04-13T17:36:19.228Z"
+  },
+  {
+    "question": "What kind of animal is a Monarch?",
+    "correct_answer": "Butterfly",
+    "incorrect_answers": [
+      "Bird",
+      "Lion",
+      "Snake",
+      "Beetle",
+      "Fish",
+      "Lizard",
+      "Frog"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Animals & Wildlife",
+    "difficulty": "easy",
+    "id": "57d55333-b2b7-4b0f-abbc-7420d70cc100",
+    "created_at": "2025-04-13T23:36:19.230Z",
+    "backupTimestamp": "2025-04-13T23:36:19.231Z",
+    "localBackupTimestamp": "2025-04-13T17:36:19.231Z"
+  },
+  {
+    "question": "Which bird has the ability to mimic human speech?",
+    "correct_answer": "Parrot",
+    "incorrect_answers": [
+      "Crow",
+      "Eagle",
+      "Sparrow",
+      "Robin",
+      "Pigeon",
+      "Falcon",
+      "Ostrich"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Animals & Wildlife",
+    "difficulty": "easy",
+    "id": "2e9404f9-9db4-4671-8b07-54fbd0d70470",
+    "created_at": "2025-04-13T23:36:19.233Z",
+    "backupTimestamp": "2025-04-13T23:36:19.234Z",
+    "localBackupTimestamp": "2025-04-13T17:36:19.234Z"
+  },
+  {
+    "question": "Which animal is the national symbol of Canada?",
+    "correct_answer": "Beaver",
+    "incorrect_answers": [
+      "Moose",
+      "Bear",
+      "Eagle",
+      "Wolf",
+      "Bison",
+      "Maple Leaf",
+      "Loon"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Animals & Wildlife",
+    "difficulty": "easy",
+    "id": "d152f966-7158-406f-819b-b85a8b831c21",
+    "created_at": "2025-04-13T23:36:19.237Z",
+    "backupTimestamp": "2025-04-13T23:36:19.237Z",
+    "localBackupTimestamp": "2025-04-13T17:36:19.237Z"
+  },
+  {
+    "question": "What animal is the fastest swimmer?",
+    "correct_answer": "Sailfish",
+    "incorrect_answers": [
+      "Dolphin",
+      "Shark",
+      "Tuna",
+      "Penguin",
+      "Otter",
+      "Seal",
+      "Whale"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Animals & Wildlife",
+    "difficulty": "easy",
+    "id": "d68e7abc-f729-4612-81c1-86e9e32fb242",
+    "created_at": "2025-04-13T23:36:19.240Z",
+    "backupTimestamp": "2025-04-13T23:36:19.241Z",
+    "localBackupTimestamp": "2025-04-13T17:36:19.241Z"
+  },
+  {
+    "question": "What is the most common bird in the world?",
+    "correct_answer": "Chicken",
+    "incorrect_answers": [
+      "Sparrow",
+      "Pigeon",
+      "Robin",
+      "Crow",
+      "Starling",
+      "Duck",
+      "Seagull"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Animals & Wildlife",
+    "difficulty": "easy",
+    "id": "628efa13-f3ae-478d-8765-9d4b963a302a",
+    "created_at": "2025-04-13T23:36:19.244Z",
+    "backupTimestamp": "2025-04-13T23:36:19.244Z",
+    "localBackupTimestamp": "2025-04-13T17:36:19.244Z"
+  },
+  {
+    "question": "Which mammal lays eggs?",
+    "correct_answer": "Platypus",
+    "incorrect_answers": [
+      "Kangaroo",
+      "Bat",
+      "Dolphin",
+      "Beaver",
+      "Wolf",
+      "Koala",
+      "Hedgehog"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Animals & Wildlife",
+    "difficulty": "easy",
+    "id": "3ddf6767-2879-4a8b-86bd-447da64c8f86",
+    "created_at": "2025-04-13T23:36:19.246Z",
+    "backupTimestamp": "2025-04-13T23:36:19.247Z",
+    "localBackupTimestamp": "2025-04-13T17:36:19.247Z"
+  },
+  {
+    "question": "Where do polar bears live?",
+    "correct_answer": "Arctic",
+    "incorrect_answers": [
+      "Antarctica",
+      "Africa",
+      "Australia",
+      "Amazon",
+      "Asia",
+      "Europe",
+      "South America"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Animals & Wildlife",
+    "difficulty": "easy",
+    "id": "998660ac-e563-4791-8890-87aba583d472",
+    "created_at": "2025-04-13T23:36:19.249Z",
+    "backupTimestamp": "2025-04-13T23:36:19.249Z",
+    "localBackupTimestamp": "2025-04-13T17:36:19.249Z"
+  },
+  {
+    "question": "Which animal has no teeth?",
+    "correct_answer": "Tortoise",
+    "incorrect_answers": [
+      "Dolphin",
+      "Shark",
+      "Rabbit",
+      "Elephant",
+      "Snake",
+      "Frog",
+      "Mouse"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Animals & Wildlife",
+    "difficulty": "easy",
+    "id": "ba48cdbd-0274-4680-82aa-69666dfcdb80",
+    "created_at": "2025-04-13T23:36:19.252Z",
+    "backupTimestamp": "2025-04-13T23:36:19.252Z",
+    "localBackupTimestamp": "2025-04-13T17:36:19.252Z"
+  },
+  {
+    "question": "Which animal has the longest lifespan?",
+    "correct_answer": "Giant Tortoise",
+    "incorrect_answers": [
+      "Elephant",
+      "Whale",
+      "Parrot",
+      "Alligator",
+      "Human",
+      "Eagle",
+      "Koi Fish"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Animals & Wildlife",
+    "difficulty": "easy",
+    "id": "d6fc140c-df1f-4d23-bd9e-12a7eed1e0b0",
+    "created_at": "2025-04-13T23:36:19.254Z",
+    "backupTimestamp": "2025-04-13T23:36:19.255Z",
+    "localBackupTimestamp": "2025-04-13T17:36:19.255Z"
+  },
+  {
+    "question": "What do pandas primarily eat?",
+    "correct_answer": "Bamboo",
+    "incorrect_answers": [
+      "Meat",
+      "Fruit",
+      "Nuts",
+      "Fish",
+      "Insects",
+      "Leaves",
+      "Grass"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Animals & Wildlife",
+    "difficulty": "easy",
+    "id": "1ccb5bf6-9577-4e2f-a50f-1466c412a6ce",
+    "created_at": "2025-04-13T23:36:19.258Z",
+    "backupTimestamp": "2025-04-13T23:36:19.258Z",
+    "localBackupTimestamp": "2025-04-13T17:36:19.258Z"
+  },
+  {
+    "question": "What animal has distinctive black and white stripes?",
+    "correct_answer": "Zebra",
+    "incorrect_answers": [
+      "Tiger",
+      "Panda",
+      "Skunk",
+      "Penguin",
+      "Cow",
+      "Badger",
+      "Lemur"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Animals & Wildlife",
+    "difficulty": "easy",
+    "id": "cf9f098e-4474-46a6-8fd6-370c4d68c727",
+    "created_at": "2025-04-13T23:36:19.260Z",
+    "backupTimestamp": "2025-04-13T23:36:19.260Z",
+    "localBackupTimestamp": "2025-04-13T17:36:19.260Z"
+  },
+  {
+    "question": "What is a young frog called?",
+    "correct_answer": "Tadpole",
+    "incorrect_answers": [
+      "Polliwog",
+      "Hatchling",
+      "Froglet",
+      "Spawn",
+      "Larva",
+      "Salamander",
+      "Newt"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Animals & Wildlife",
+    "difficulty": "easy",
+    "id": "64ad7fee-4548-4c6e-9555-08dd0f201b40",
+    "created_at": "2025-04-13T23:36:19.263Z",
+    "backupTimestamp": "2025-04-13T23:36:19.264Z",
+    "localBackupTimestamp": "2025-04-13T17:36:19.264Z"
+  },
+  {
+    "question": "What do you call a baby goat?",
+    "correct_answer": "Kid",
+    "incorrect_answers": [
+      "Calf",
+      "Lamb",
+      "Foal",
+      "Fawn",
+      "Cub",
+      "Pup",
+      "Chick"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Animals & Wildlife",
+    "difficulty": "easy",
+    "id": "eb0e6bb6-ef55-419d-94aa-09cf6a1f56c2",
+    "created_at": "2025-04-13T23:36:19.266Z",
+    "backupTimestamp": "2025-04-13T23:36:19.266Z",
+    "localBackupTimestamp": "2025-04-13T17:36:19.266Z"
+  },
+  {
+    "question": "Which whale has the longest migration of any mammal?",
+    "correct_answer": "Gray Whale",
+    "incorrect_answers": [
+      "Blue Whale",
+      "Humpback Whale",
+      "Sperm Whale",
+      "Killer Whale",
+      "Beluga Whale",
+      "Narwhal",
+      "Minke Whale"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Animals & Wildlife",
+    "difficulty": "medium",
+    "id": "3f904f48-a957-4b92-99c7-dcd2f0119459",
+    "created_at": "2025-04-13T23:41:50.244Z",
+    "backupTimestamp": "2025-04-13T23:41:50.246Z",
+    "localBackupTimestamp": "2025-04-13T17:41:50.246Z"
+  },
+  {
+    "question": "What is the largest species of penguin?",
+    "correct_answer": "Emperor Penguin",
+    "incorrect_answers": [
+      "King Penguin",
+      "Adelie Penguin",
+      "Gentoo Penguin",
+      "Chinstrap Penguin",
+      "Rockhopper Penguin",
+      "Macaroni Penguin",
+      "Yellow-eyed Penguin"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Animals & Wildlife",
+    "difficulty": "medium",
+    "id": "26331f3d-22bf-4b22-b752-85f5f0986d82",
+    "created_at": "2025-04-13T23:41:50.278Z",
+    "backupTimestamp": "2025-04-13T23:41:50.279Z",
+    "localBackupTimestamp": "2025-04-13T17:41:50.279Z"
+  },
+  {
+    "question": "Which snake is known for playing dead when threatened?",
+    "correct_answer": "Hognose Snake",
+    "incorrect_answers": [
+      "Copperhead",
+      "Coral Snake",
+      "Python",
+      "Anaconda",
+      "Cobra",
+      "Rattlesnake",
+      "Viper"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Animals & Wildlife",
+    "difficulty": "medium",
+    "id": "5b404a2b-fe4c-4947-a809-c69a2d4bbfb0",
+    "created_at": "2025-04-13T23:41:50.285Z",
+    "backupTimestamp": "2025-04-13T23:41:50.285Z",
+    "localBackupTimestamp": "2025-04-13T17:41:50.285Z"
+  },
+  {
+    "question": "Which animal has the most powerful bite force?",
+    "correct_answer": "Saltwater Crocodile",
+    "incorrect_answers": [
+      "Hippopotamus",
+      "Great White Shark",
+      "Lion",
+      "Hyena",
+      "Tiger",
+      "Jaguar",
+      "Gorilla"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Animals & Wildlife",
+    "difficulty": "medium",
+    "id": "892c077a-88ab-4e9f-8f4f-d8defbd4b7f8",
+    "created_at": "2025-04-13T23:41:50.291Z",
+    "backupTimestamp": "2025-04-13T23:41:50.292Z",
+    "localBackupTimestamp": "2025-04-13T17:41:50.292Z"
+  },
+  {
+    "question": "What is the only continent without native reptiles?",
+    "correct_answer": "Antarctica",
+    "incorrect_answers": [
+      "Europe",
+      "North America",
+      "Asia",
+      "Australia",
+      "South America",
+      "Africa",
+      "Arctic"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Animals & Wildlife",
+    "difficulty": "medium",
+    "id": "e8cbf339-601f-4867-a180-a771ea85774c",
+    "created_at": "2025-04-13T23:41:50.298Z",
+    "backupTimestamp": "2025-04-13T23:41:50.299Z",
+    "localBackupTimestamp": "2025-04-13T17:41:50.299Z"
+  },
+  {
+    "question": "What unique anatomical feature do platypuses have?",
+    "correct_answer": "Venomous spurs",
+    "incorrect_answers": [
+      "Two stomachs",
+      "Retractable claws",
+      "Double eyelids",
+      "Hollow bones",
+      "Infrared vision",
+      "Regenerative limbs",
+      "Multiple hearts"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Animals & Wildlife",
+    "difficulty": "medium",
+    "id": "16b0af41-7f10-4444-9338-c67dba0d7ee0",
+    "created_at": "2025-04-13T23:41:50.304Z",
+    "backupTimestamp": "2025-04-13T23:41:50.305Z",
+    "localBackupTimestamp": "2025-04-13T17:41:50.305Z"
+  },
+  {
+    "question": "Which bird has the largest wingspan?",
+    "correct_answer": "Wandering Albatross",
+    "incorrect_answers": [
+      "Andean Condor",
+      "California Condor",
+      "Bald Eagle",
+      "Pelican",
+      "Golden Eagle",
+      "Stork",
+      "Great White Pelican"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Animals & Wildlife",
+    "difficulty": "medium",
+    "id": "67fffd6c-55a6-4baa-8827-4d737fbcb948",
+    "created_at": "2025-04-13T23:41:50.314Z",
+    "backupTimestamp": "2025-04-13T23:41:50.315Z",
+    "localBackupTimestamp": "2025-04-13T17:41:50.315Z"
+  },
+  {
+    "question": "Which animal has the largest brain relative to body size?",
+    "correct_answer": "Ant",
+    "incorrect_answers": [
+      "Human",
+      "Dolphin",
+      "Elephant",
+      "Octopus",
+      "Raven",
+      "Chimpanzee",
+      "Mouse"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Animals & Wildlife",
+    "difficulty": "medium",
+    "id": "97d4377b-808c-42e8-8769-4f0ac4485992",
+    "created_at": "2025-04-13T23:41:50.325Z",
+    "backupTimestamp": "2025-04-13T23:41:50.326Z",
+    "localBackupTimestamp": "2025-04-13T17:41:50.326Z"
+  },
+  {
+    "question": "Which fish can change from female to male?",
+    "correct_answer": "Clownfish",
+    "incorrect_answers": [
+      "Angelfish",
+      "Goldfish",
+      "Betta",
+      "Swordtail",
+      "Guppy",
+      "Shark",
+      "Tuna"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Animals & Wildlife",
+    "difficulty": "medium",
+    "id": "d332364c-4a60-4ba1-b0b3-92f3bb7027ae",
+    "created_at": "2025-04-13T23:41:50.332Z",
+    "backupTimestamp": "2025-04-13T23:41:50.333Z",
+    "localBackupTimestamp": "2025-04-13T17:41:50.333Z"
+  },
+  {
+    "question": "Which mammal lays eggs and produces venom?",
+    "correct_answer": "Platypus",
+    "incorrect_answers": [
+      "Echidna",
+      "Pangolin",
+      "Armadillo",
+      "Anteater",
+      "Koala",
+      "Opossum",
+      "Tasmanian Devil"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Animals & Wildlife",
+    "difficulty": "medium",
+    "id": "c7f6152e-9e23-4a26-902d-40947a109d9a",
+    "created_at": "2025-04-13T23:41:50.343Z",
+    "backupTimestamp": "2025-04-13T23:41:50.344Z",
+    "localBackupTimestamp": "2025-04-13T17:41:50.344Z"
+  },
+  {
+    "question": "What is the only marsupial native to North America?",
+    "correct_answer": "Opossum",
+    "incorrect_answers": [
+      "Kangaroo",
+      "Koala",
+      "Wombat",
+      "Wallaby",
+      "Tasmanian Devil",
+      "Quokka",
+      "Bandicoot"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Animals & Wildlife",
+    "difficulty": "medium",
+    "id": "bc88efa2-5132-4a4d-9313-4747a48ac642",
+    "created_at": "2025-04-13T23:41:50.360Z",
+    "backupTimestamp": "2025-04-13T23:41:50.361Z",
+    "localBackupTimestamp": "2025-04-13T17:41:50.361Z"
+  },
+  {
+    "question": "What phylum do jellyfish belong to?",
+    "correct_answer": "Cnidaria",
+    "incorrect_answers": [
+      "Chordata",
+      "Arthropoda",
+      "Annelida",
+      "Mollusca",
+      "Echinodermata",
+      "Porifera",
+      "Platyhelminthes"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Animals & Wildlife",
+    "difficulty": "medium",
+    "id": "cc7500f5-5f0c-4172-ac1e-528c514efe63",
+    "created_at": "2025-04-13T23:41:50.366Z",
+    "backupTimestamp": "2025-04-13T23:41:50.367Z",
+    "localBackupTimestamp": "2025-04-13T17:41:50.367Z"
+  },
+  {
+    "question": "What is the gestation period for an elephant?",
+    "correct_answer": "22 months",
+    "incorrect_answers": [
+      "9 months",
+      "12 months",
+      "15 months",
+      "18 months",
+      "24 months",
+      "30 months",
+      "36 months"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Animals & Wildlife",
+    "difficulty": "medium",
+    "id": "ffa3e0fe-7e35-40fc-9958-de7fe751aace",
+    "created_at": "2025-04-13T23:41:50.377Z",
+    "backupTimestamp": "2025-04-13T23:41:50.378Z",
+    "localBackupTimestamp": "2025-04-13T17:41:50.378Z"
+  },
+  {
+    "question": "Which species of turtle can live for over 150 years?",
+    "correct_answer": "Galapagos Tortoise",
+    "incorrect_answers": [
+      "Leatherback Turtle",
+      "Snapping Turtle",
+      "Box Turtle",
+      "Sea Turtle",
+      "Red-eared Slider",
+      "Painted Turtle",
+      "Wood Turtle"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Animals & Wildlife",
+    "difficulty": "medium",
+    "id": "41075fc3-3b87-4d2f-865d-e2c20e267ab7",
+    "created_at": "2025-04-13T23:41:50.383Z",
+    "backupTimestamp": "2025-04-13T23:41:50.384Z",
+    "localBackupTimestamp": "2025-04-13T17:41:50.384Z"
+  },
+  {
+    "question": "What is a group of rhinos called?",
+    "correct_answer": "Crash",
+    "incorrect_answers": [
+      "Herd",
+      "Pack",
+      "Pride",
+      "Pod",
+      "Gang",
+      "Colony",
+      "Army"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Animals & Wildlife",
+    "difficulty": "medium",
+    "id": "2edf30b7-9d22-40e2-a42a-04f4739a2219",
+    "created_at": "2025-04-13T23:41:50.389Z",
+    "backupTimestamp": "2025-04-13T23:41:50.390Z",
+    "localBackupTimestamp": "2025-04-13T17:41:50.390Z"
+  },
+  {
+    "question": "Which bird is known for its synchronized dancing?",
+    "correct_answer": "Manakin",
+    "incorrect_answers": [
+      "Peacock",
+      "Flamingo",
+      "Crane",
+      "Swan",
+      "Albatross",
+      "Bird of Paradise",
+      "Eagle"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Animals & Wildlife",
+    "difficulty": "medium",
+    "id": "d06c1988-9633-4d1b-b8d9-c83958ab0088",
+    "created_at": "2025-04-13T23:41:50.399Z",
+    "backupTimestamp": "2025-04-13T23:41:50.399Z",
+    "localBackupTimestamp": "2025-04-13T17:41:50.399Z"
+  },
+  {
+    "question": "How many hearts does an octopus have?",
+    "correct_answer": "3",
+    "incorrect_answers": [
+      "1",
+      "2",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Animals & Wildlife",
+    "difficulty": "medium",
+    "id": "4628bfe6-d302-4a22-9e73-dedea8ee683a",
+    "created_at": "2025-04-13T23:41:50.404Z",
+    "backupTimestamp": "2025-04-13T23:41:50.404Z",
+    "localBackupTimestamp": "2025-04-13T17:41:50.404Z"
+  },
+  {
+    "question": "Which animal never sleeps?",
+    "correct_answer": "Bullfrog",
+    "incorrect_answers": [
+      "Dolphin",
+      "Giraffe",
+      "Bat",
+      "Shark",
+      "Eagle",
+      "Ant",
+      "Horse"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Animals & Wildlife",
+    "difficulty": "medium",
+    "id": "379808b1-5656-4249-bfe0-a1ce087d5182",
+    "created_at": "2025-04-13T23:41:50.409Z",
+    "backupTimestamp": "2025-04-13T23:41:50.409Z",
+    "localBackupTimestamp": "2025-04-13T17:41:50.409Z"
+  },
+  {
+    "question": "What is the largest living arthropod?",
+    "correct_answer": "Japanese Spider Crab",
+    "incorrect_answers": [
+      "Goliath Beetle",
+      "Giant Squid",
+      "Coconut Crab",
+      "Tarantula",
+      "Lobster",
+      "Scorpion",
+      "Centipede"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Animals & Wildlife",
+    "difficulty": "medium",
+    "id": "31a8b77f-7195-4dec-a8cf-26878297f638",
+    "created_at": "2025-04-13T23:41:50.412Z",
+    "backupTimestamp": "2025-04-13T23:41:50.412Z",
+    "localBackupTimestamp": "2025-04-13T17:41:50.412Z"
+  },
+  {
+    "question": "Which shark species has a hammer-shaped head?",
+    "correct_answer": "Hammerhead Shark",
+    "incorrect_answers": [
+      "Great White Shark",
+      "Tiger Shark",
+      "Bull Shark",
+      "Mako Shark",
+      "Whale Shark",
+      "Nurse Shark",
+      "Thresher Shark"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Animals & Wildlife",
+    "difficulty": "medium",
+    "id": "16b80779-9aef-4d83-be73-aebb474232ad",
+    "created_at": "2025-04-13T23:41:50.414Z",
+    "backupTimestamp": "2025-04-13T23:41:50.415Z",
+    "localBackupTimestamp": "2025-04-13T17:41:50.415Z"
+  },
+  {
+    "question": "Which animal is born with horns?",
+    "correct_answer": "Giraffe",
+    "incorrect_answers": [
+      "Deer",
+      "Bison",
+      "Rhinoceros",
+      "Goat",
+      "Sheep",
+      "Cattle",
+      "Antelope"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Animals & Wildlife",
+    "difficulty": "medium",
+    "id": "3e6f3dcc-8d64-451e-9ef4-07bdebc44c75",
+    "created_at": "2025-04-13T23:41:50.417Z",
+    "backupTimestamp": "2025-04-13T23:41:50.418Z",
+    "localBackupTimestamp": "2025-04-13T17:41:50.418Z"
+  },
+  {
+    "question": "Which mammal has the most teeth?",
+    "correct_answer": "Giant Armadillo",
+    "incorrect_answers": [
+      "Elephant",
+      "Pig",
+      "Walrus",
+      "Shark",
+      "Hippopotamus",
+      "Great White Shark",
+      "Sloth"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Animals & Wildlife",
+    "difficulty": "medium",
+    "id": "6cc343c2-431d-4af0-aa4b-871bcac81b13",
+    "created_at": "2025-04-13T23:41:50.420Z",
+    "backupTimestamp": "2025-04-13T23:41:50.421Z",
+    "localBackupTimestamp": "2025-04-13T17:41:50.421Z"
+  },
+  {
+    "question": "What is the only venomous snake in Britain?",
+    "correct_answer": "Adder",
+    "incorrect_answers": [
+      "Grass Snake",
+      "Smooth Snake",
+      "Cobra",
+      "Viper",
+      "Rattlesnake",
+      "Python",
+      "Anaconda"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Animals & Wildlife",
+    "difficulty": "medium",
+    "id": "5f007cb0-06f9-4062-9d03-e52497a1eb82",
+    "created_at": "2025-04-13T23:41:50.424Z",
+    "backupTimestamp": "2025-04-13T23:41:50.424Z",
+    "localBackupTimestamp": "2025-04-13T17:41:50.424Z"
+  },
+  {
+    "question": "Which animal has the strongest memory?",
+    "correct_answer": "Dolphin",
+    "incorrect_answers": [
+      "Elephant",
+      "Chimpanzee",
+      "Octopus",
+      "Raven",
+      "Human",
+      "Dog",
+      "Rat"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Animals & Wildlife",
+    "difficulty": "medium",
+    "id": "9886c425-71cc-4451-ab47-94119c499d35",
+    "created_at": "2025-04-13T23:41:50.427Z",
+    "backupTimestamp": "2025-04-13T23:41:50.427Z",
+    "localBackupTimestamp": "2025-04-13T17:41:50.427Z"
+  },
+  {
+    "question": "Which animal has the highest blood pressure?",
+    "correct_answer": "Giraffe",
+    "incorrect_answers": [
+      "Elephant",
+      "Blue Whale",
+      "Lion",
+      "Cheetah",
+      "Human",
+      "Horse",
+      "Dolphin"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Animals & Wildlife",
+    "difficulty": "medium",
+    "id": "d8498640-04f0-4837-baeb-d441682239df",
+    "created_at": "2025-04-13T23:41:50.430Z",
+    "backupTimestamp": "2025-04-13T23:41:50.430Z",
+    "localBackupTimestamp": "2025-04-13T17:41:50.430Z"
+  },
+  {
+    "question": "What is the primary diet of red pandas?",
+    "correct_answer": "Bamboo",
+    "incorrect_answers": [
+      "Fruit",
+      "Insects",
+      "Fish",
+      "Eggs",
+      "Nuts",
+      "Meat",
+      "Leaves"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Animals & Wildlife",
+    "difficulty": "medium",
+    "id": "57072cd4-76f0-4d24-b316-98104eafe752",
+    "created_at": "2025-04-13T23:41:50.433Z",
+    "backupTimestamp": "2025-04-13T23:41:50.433Z",
+    "localBackupTimestamp": "2025-04-13T17:41:50.433Z"
+  },
+  {
+    "question": "Which primate is known for its large, colorful backside?",
+    "correct_answer": "Mandrill",
+    "incorrect_answers": [
+      "Baboon",
+      "Gorilla",
+      "Orangutan",
+      "Lemur",
+      "Chimpanzee",
+      "Gibbon",
+      "Marmoset"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Animals & Wildlife",
+    "difficulty": "medium",
+    "id": "64d6cd67-ad36-422a-983a-a8a325ff77ff",
+    "created_at": "2025-04-13T23:41:50.436Z",
+    "backupTimestamp": "2025-04-13T23:41:50.436Z",
+    "localBackupTimestamp": "2025-04-13T17:41:50.436Z"
+  },
+  {
+    "question": "Which animal has the longest tongue relative to body?",
+    "correct_answer": "Chameleon",
+    "incorrect_answers": [
+      "Anteater",
+      "Giraffe",
+      "Frog",
+      "Woodpecker",
+      "Snake",
+      "Pangolin",
+      "Okapi"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Animals & Wildlife",
+    "difficulty": "medium",
+    "id": "23542ffc-f05b-4135-b8f3-5adaed8bf6c8",
+    "created_at": "2025-04-13T23:41:50.439Z",
+    "backupTimestamp": "2025-04-13T23:41:50.439Z",
+    "localBackupTimestamp": "2025-04-13T17:41:50.439Z"
+  },
+  {
+    "question": "What is the longest-living insect?",
+    "correct_answer": "Queen Termite",
+    "incorrect_answers": [
+      "Cicada",
+      "Ant",
+      "Butterfly",
+      "Dragonfly",
+      "Mosquito",
+      "Beetle",
+      "Mantis"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Animals & Wildlife",
+    "difficulty": "medium",
+    "id": "de431348-34de-45f1-a7bf-26f13bca3acc",
+    "created_at": "2025-04-13T23:41:50.442Z",
+    "backupTimestamp": "2025-04-13T23:41:50.443Z",
+    "localBackupTimestamp": "2025-04-13T17:41:50.443Z"
+  },
+  {
+    "question": "Which animal can survive the longest without water?",
+    "correct_answer": "Kangaroo Rat",
+    "incorrect_answers": [
+      "Camel",
+      "Desert Tortoise",
+      "Jerboa",
+      "Gila Monster",
+      "Scorpion",
+      "Fennec Fox",
+      "Cactus Mouse"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Animals & Wildlife",
+    "difficulty": "medium",
+    "id": "3339ddb8-3375-43fa-82be-7d81ca48044f",
+    "created_at": "2025-04-13T23:41:50.445Z",
+    "backupTimestamp": "2025-04-13T23:41:50.446Z",
+    "localBackupTimestamp": "2025-04-13T17:41:50.446Z"
+  },
+  {
+    "question": "Which marine animal can clone itself?",
+    "correct_answer": "Sea Anemone",
+    "incorrect_answers": [
+      "Starfish",
+      "Jellyfish",
+      "Coral",
+      "Sea Cucumber",
+      "Sponge",
+      "Crab",
+      "Octopus"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Animals & Wildlife",
+    "difficulty": "medium",
+    "id": "b50a32e6-2cd9-4f52-a8fd-87922f7bf2d0",
+    "created_at": "2025-04-13T23:41:50.448Z",
+    "backupTimestamp": "2025-04-13T23:41:50.448Z",
+    "localBackupTimestamp": "2025-04-13T17:41:50.448Z"
+  },
+  {
+    "question": "Which bird can fly backward?",
+    "correct_answer": "Hummingbird",
+    "incorrect_answers": [
+      "Eagle",
+      "Hawk",
+      "Swallow",
+      "Falcon",
+      "Owl",
+      "Sparrow",
+      "Duck"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Animals & Wildlife",
+    "difficulty": "medium",
+    "id": "9ae01ddf-f1b1-4b0d-ab92-8a8430bf67d5",
+    "created_at": "2025-04-13T23:41:50.452Z",
+    "backupTimestamp": "2025-04-13T23:41:50.452Z",
+    "localBackupTimestamp": "2025-04-13T17:41:50.452Z"
+  },
+  {
+    "question": "What unique trait do sloths exhibit?",
+    "correct_answer": "Algae grows on their fur",
+    "incorrect_answers": [
+      "Sleep upside down",
+      "Cannot walk on ground",
+      "Change color",
+      "Have no teeth",
+      "Are blind",
+      "Hibernate",
+      "Cannot swim"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Animals & Wildlife",
+    "difficulty": "medium",
+    "id": "a193de75-3d77-45a9-80e2-5c0c109b7e32",
+    "created_at": "2025-04-13T23:41:50.455Z",
+    "backupTimestamp": "2025-04-13T23:41:50.455Z",
+    "localBackupTimestamp": "2025-04-13T17:41:50.455Z"
+  },
+  {
+    "question": "What is the loudest animal on Earth?",
+    "correct_answer": "Blue Whale",
+    "incorrect_answers": [
+      "Howler Monkey",
+      "Lion",
+      "Elephant",
+      "Tiger",
+      "Cicada",
+      "Wolf",
+      "Crocodile"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Animals & Wildlife",
+    "difficulty": "medium",
+    "id": "a7e9ccdd-6ddf-4a7c-90dc-7a9d19439446",
+    "created_at": "2025-04-13T23:41:50.458Z",
+    "backupTimestamp": "2025-04-13T23:41:50.459Z",
+    "localBackupTimestamp": "2025-04-13T17:41:50.459Z"
+  },
+  {
+    "question": "What is the world's largest rodent?",
+    "correct_answer": "Capybara",
+    "incorrect_answers": [
+      "Beaver",
+      "Porcupine",
+      "Rat",
+      "Guinea Pig",
+      "Groundhog",
+      "Squirrel",
+      "Marmot"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Animals & Wildlife",
+    "difficulty": "medium",
+    "id": "5a4d6967-3ca9-4087-a495-9d78b2c8f7ec",
+    "created_at": "2025-04-13T23:41:50.463Z",
+    "backupTimestamp": "2025-04-13T23:41:50.463Z",
+    "localBackupTimestamp": "2025-04-13T17:41:50.463Z"
+  },
+  {
+    "question": "Which animal has the most acute sense of smell?",
+    "correct_answer": "African Elephant",
+    "incorrect_answers": [
+      "Bloodhound",
+      "Grizzly Bear",
+      "Shark",
+      "Wolf",
+      "Snake",
+      "Rat",
+      "Cat"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Animals & Wildlife",
+    "difficulty": "medium",
+    "id": "14995a19-853b-47d6-9ce9-bd15cb62e769",
+    "created_at": "2025-04-13T23:41:50.469Z",
+    "backupTimestamp": "2025-04-13T23:41:50.469Z",
+    "localBackupTimestamp": "2025-04-13T17:41:50.469Z"
+  },
+  {
+    "question": "How many pairs of wings do bees have?",
+    "correct_answer": "2 pairs",
+    "incorrect_answers": [
+      "1 pair",
+      "3 pairs",
+      "4 pairs",
+      "5 pairs",
+      "6 pairs",
+      "No wings",
+      "7 pairs"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Animals & Wildlife",
+    "difficulty": "medium",
+    "id": "1c6f6f6c-0a15-44fd-b622-fb9db55cf62f",
+    "created_at": "2025-04-13T23:41:50.472Z",
+    "backupTimestamp": "2025-04-13T23:41:50.473Z",
+    "localBackupTimestamp": "2025-04-13T17:41:50.473Z"
+  },
+  {
+    "question": "What is a group of flamingos called?",
+    "correct_answer": "Flamboyance",
+    "incorrect_answers": [
+      "Flock",
+      "Colony",
+      "School",
+      "Pride",
+      "Herd",
+      "Pod",
+      "Swarm"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Animals & Wildlife",
+    "difficulty": "medium",
+    "id": "9ee9c4ca-1675-4db7-8698-035e3734dc61",
+    "created_at": "2025-04-13T23:41:50.476Z",
+    "backupTimestamp": "2025-04-13T23:41:50.476Z",
+    "localBackupTimestamp": "2025-04-13T17:41:50.476Z"
+  },
+  {
+    "question": "Which big cat cannot roar?",
+    "correct_answer": "Cheetah",
+    "incorrect_answers": [
+      "Lion",
+      "Tiger",
+      "Jaguar",
+      "Leopard",
+      "Cougar",
+      "Panther",
+      "Lynx"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Animals & Wildlife",
+    "difficulty": "medium",
+    "id": "28b030af-3961-4b6b-bf2a-335aad7a87f2",
+    "created_at": "2025-04-13T23:41:50.479Z",
+    "backupTimestamp": "2025-04-13T23:41:50.479Z",
+    "localBackupTimestamp": "2025-04-13T17:41:50.479Z"
+  },
+  {
+    "question": "Which animal doesn't have a stomach?",
+    "correct_answer": "Platypus",
+    "incorrect_answers": [
+      "Koala",
+      "Piranha",
+      "Jellyfish",
+      "Frog",
+      "Tortoise",
+      "Penguin",
+      "Bat"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Animals & Wildlife",
+    "difficulty": "medium",
+    "id": "e3e98514-f1d9-4d9a-a7bd-5193cbd609ac",
+    "created_at": "2025-04-13T23:41:50.482Z",
+    "backupTimestamp": "2025-04-13T23:41:50.482Z",
+    "localBackupTimestamp": "2025-04-13T17:41:50.482Z"
+  },
+  {
+    "question": "What is the only predator of adult Komodo dragons?",
+    "correct_answer": "Other Komodo dragons",
+    "incorrect_answers": [
+      "Tigers",
+      "Eagles",
+      "Crocodiles",
+      "Pythons",
+      "Humans",
+      "Lions",
+      "Bears"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Animals & Wildlife",
+    "difficulty": "medium",
+    "id": "6db4de9e-8488-4657-9456-da33bd443c84",
+    "created_at": "2025-04-13T23:41:50.486Z",
+    "backupTimestamp": "2025-04-13T23:41:50.486Z",
+    "localBackupTimestamp": "2025-04-13T17:41:50.486Z"
+  },
+  {
+    "question": "Which bird builds the largest nest?",
+    "correct_answer": "Sociable Weaver",
+    "incorrect_answers": [
+      "Bald Eagle",
+      "Ostrich",
+      "Stork",
+      "Albatross",
+      "Penguin",
+      "Flamingo",
+      "Condor"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Animals & Wildlife",
+    "difficulty": "medium",
+    "id": "e9639660-dccf-4b6c-b62f-36a3cfadfd6b",
+    "created_at": "2025-04-13T23:41:50.489Z",
+    "backupTimestamp": "2025-04-13T23:41:50.490Z",
+    "localBackupTimestamp": "2025-04-13T17:41:50.490Z"
+  },
+  {
+    "question": "What is the only species of bear native to South America?",
+    "correct_answer": "Spectacled Bear",
+    "incorrect_answers": [
+      "Brown Bear",
+      "Black Bear",
+      "Panda",
+      "Sloth Bear",
+      "Polar Bear",
+      "Sun Bear",
+      "Kodiak Bear"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Animals & Wildlife",
+    "difficulty": "medium",
+    "id": "02d0af96-f383-4ec0-af81-1bed115717a8",
+    "created_at": "2025-04-13T23:41:50.493Z",
+    "backupTimestamp": "2025-04-13T23:41:50.493Z",
+    "localBackupTimestamp": "2025-04-13T17:41:50.493Z"
+  },
+  {
+    "question": "What is the fastest flying bird?",
+    "correct_answer": "Peregrine Falcon",
+    "incorrect_answers": [
+      "Golden Eagle",
+      "Hummingbird",
+      "Swift",
+      "Hawk",
+      "Albatross",
+      "Swallow",
+      "Frigatebird"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Animals & Wildlife",
+    "difficulty": "medium",
+    "id": "3b59242d-a515-4b8c-b389-3197c20ac44c",
+    "created_at": "2025-04-13T23:41:50.496Z",
+    "backupTimestamp": "2025-04-13T23:41:50.496Z",
+    "localBackupTimestamp": "2025-04-13T17:41:50.496Z"
+  },
+  {
+    "question": "What is the only cat that can't retract its claws?",
+    "correct_answer": "Cheetah",
+    "incorrect_answers": [
+      "Lion",
+      "Tiger",
+      "Leopard",
+      "Jaguar",
+      "Ocelot",
+      "Lynx",
+      "Bobcat"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Animals & Wildlife",
+    "difficulty": "medium",
+    "id": "08266ef5-f718-405b-b3ad-0ec6e28dcf7d",
+    "created_at": "2025-04-13T23:41:50.500Z",
+    "backupTimestamp": "2025-04-13T23:41:50.500Z",
+    "localBackupTimestamp": "2025-04-13T17:41:50.500Z"
+  },
+  {
+    "question": "What is the primary ingredient in a flamingo's diet?",
+    "correct_answer": "Brine Shrimp",
+    "incorrect_answers": [
+      "Algae",
+      "Fish",
+      "Seeds",
+      "Insects",
+      "Plants",
+      "Krill",
+      "Plankton"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Animals & Wildlife",
+    "difficulty": "medium",
+    "id": "4bd841ec-0a4a-4e80-b51d-48b3edbb11a0",
+    "created_at": "2025-04-13T23:41:50.503Z",
+    "backupTimestamp": "2025-04-13T23:41:50.503Z",
+    "localBackupTimestamp": "2025-04-13T17:41:50.503Z"
+  },
+  {
+    "question": "Which animal has the biggest eyes?",
+    "correct_answer": "Giant Squid",
+    "incorrect_answers": [
+      "Blue Whale",
+      "Elephant",
+      "Ostrich",
+      "Owl",
+      "Horse",
+      "Tarsier",
+      "Octopus"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Animals & Wildlife",
+    "difficulty": "medium",
+    "id": "5f14d8cf-6f2d-4e0e-808f-73fe85c1ea51",
+    "created_at": "2025-04-13T23:41:50.506Z",
+    "backupTimestamp": "2025-04-13T23:41:50.506Z",
+    "localBackupTimestamp": "2025-04-13T17:41:50.506Z"
+  },
+  {
+    "question": "Which animal has the longest migration route?",
+    "correct_answer": "Arctic Tern",
+    "incorrect_answers": [
+      "Monarch Butterfly",
+      "Humpback Whale",
+      "Caribou",
+      "Salmon",
+      "Sea Turtle",
+      "Wildebeest",
+      "Elephant"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Animals & Wildlife",
+    "difficulty": "medium",
+    "id": "393fd6cd-fd17-4467-adec-c8998b6d272f",
+    "created_at": "2025-04-13T23:41:50.509Z",
+    "backupTimestamp": "2025-04-13T23:41:50.509Z",
+    "localBackupTimestamp": "2025-04-13T17:41:50.509Z"
+  },
+  {
+    "question": "What is the Japanese art of paper folding called?",
+    "correct_answer": "Origami",
+    "incorrect_answers": [
+      "Ikebana",
+      "Bonsai",
+      "Sumi-e",
+      "Kintsugi",
+      "Ukiyo-e",
+      "Shodo",
+      "Kabuki"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Animals & Wildlife",
+    "difficulty": "medium",
+    "id": "1d8ab99b-dde3-4cdc-9220-98f2f5eae62b",
+    "created_at": "2025-04-13T23:41:50.512Z",
+    "backupTimestamp": "2025-04-13T23:41:50.512Z",
+    "localBackupTimestamp": "2025-04-13T17:41:50.512Z"
+  },
+  {
+    "question": "Which animal has the strongest jaws in the animal?",
+    "correct_answer": "Saltwater Crocodile",
+    "incorrect_answers": [
+      "Great White Shark",
+      "Hippopotamus",
+      "Gorilla",
+      "Lion",
+      "Hyena",
+      "Tiger",
+      "Alligator"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Animals & Wildlife",
+    "difficulty": "medium",
+    "id": "a26dcb35-ac0d-43ae-87dd-28e3a7fd736d",
+    "created_at": "2025-04-13T23:41:50.516Z",
+    "backupTimestamp": "2025-04-13T23:41:50.516Z",
+    "localBackupTimestamp": "2025-04-13T17:41:50.516Z"
+  },
+  {
+    "question": "What is the slowest moving mammal in the world?",
+    "correct_answer": "Three-toed Sloth",
+    "incorrect_answers": [
+      "Giant Tortoise",
+      "Koala",
+      "Manatee",
+      "Snail",
+      "Hedgehog",
+      "Armadillo",
+      "Panda"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Animals & Wildlife",
+    "difficulty": "medium",
+    "id": "1d9885ff-4ca8-415e-a8f7-ca8f3e1efe51",
+    "created_at": "2025-04-13T23:41:50.519Z",
+    "backupTimestamp": "2025-04-13T23:41:50.519Z",
+    "localBackupTimestamp": "2025-04-13T17:41:50.519Z"
+  },
+  {
+    "question": "Which animal has the best night vision?",
+    "correct_answer": "Tarsier",
+    "incorrect_answers": [
+      "Owl",
+      "Cat",
+      "Bat",
+      "Wolf",
+      "Raccoon",
+      "Fox",
+      "Ocelot"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Animals & Wildlife",
+    "difficulty": "medium",
+    "id": "0879a80d-e5d0-4dd0-8890-9e91b7ffd43c",
+    "created_at": "2025-04-13T23:41:50.521Z",
+    "backupTimestamp": "2025-04-13T23:41:50.522Z",
+    "localBackupTimestamp": "2025-04-13T17:41:50.522Z"
+  },
+  {
+    "question": "Which animal has the longest tail?",
+    "correct_answer": "Giraffe",
+    "incorrect_answers": [
+      "Kangaroo",
+      "Lion",
+      "Horse",
+      "Monkey",
+      "Elephant",
+      "Peacock",
+      "Lizard"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Animals & Wildlife",
+    "difficulty": "medium",
+    "id": "04e258b6-ebf8-498a-9318-d19d9b076eb9",
+    "created_at": "2025-04-13T23:41:50.525Z",
+    "backupTimestamp": "2025-04-13T23:41:50.525Z",
+    "localBackupTimestamp": "2025-04-13T17:41:50.525Z"
+  },
+  {
+    "question": "Which bird is known for stealing shiny objects?",
+    "correct_answer": "Magpie",
+    "incorrect_answers": [
+      "Raven",
+      "Crow",
+      "Jackdaw",
+      "Jay",
+      "Mockingbird",
+      "Parrot",
+      "Finch"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Animals & Wildlife",
+    "difficulty": "medium",
+    "id": "455057c9-58a5-484b-92b6-a47a8229eb5a",
+    "created_at": "2025-04-13T23:41:50.529Z",
+    "backupTimestamp": "2025-04-13T23:41:50.530Z",
+    "localBackupTimestamp": "2025-04-13T17:41:50.530Z"
+  },
+  {
+    "question": "Which amphibian species can regrow entire limbs?",
+    "correct_answer": "Axolotl",
+    "incorrect_answers": [
+      "Nile Crocodile",
+      "Salamander",
+      "Tree Frog",
+      "Bullfrog",
+      "Caecilian",
+      "Newt",
+      "Mudpuppy"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Animals & Wildlife",
+    "difficulty": "hard",
+    "id": "df8512a6-7b7c-4afa-8596-0a0a7f9c812f",
+    "created_at": "2025-04-13T23:45:28.937Z",
+    "backupTimestamp": "2025-04-13T23:45:28.939Z",
+    "localBackupTimestamp": "2025-04-13T17:45:28.939Z"
+  },
+  {
+    "question": "What is the only bird that can fly backwards?",
+    "correct_answer": "Hummingbird",
+    "incorrect_answers": [
+      "Swift",
+      "Eagle",
+      "Falcon",
+      "Albatross",
+      "Kingfisher",
+      "Swallow",
+      "Bat"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Animals & Wildlife",
+    "difficulty": "hard",
+    "id": "7baae49f-52b1-4a98-a5be-b55aeadae8ca",
+    "created_at": "2025-04-13T23:45:28.950Z",
+    "backupTimestamp": "2025-04-13T23:45:28.950Z",
+    "localBackupTimestamp": "2025-04-13T17:45:28.950Z"
+  },
+  {
+    "question": "Which venomous snake has the highest toxicity?",
+    "correct_answer": "Inland Taipan",
+    "incorrect_answers": [
+      "Black Mamba",
+      "King Cobra",
+      "Death Adder",
+      "Rattlesnake",
+      "Viper",
+      "Sea Snake",
+      "Copperhead"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Animals & Wildlife",
+    "difficulty": "hard",
+    "id": "789f3417-7250-4b44-913c-6b9b548a4db1",
+    "created_at": "2025-04-13T23:45:28.954Z",
+    "backupTimestamp": "2025-04-13T23:45:28.955Z",
+    "localBackupTimestamp": "2025-04-13T17:45:28.955Z"
+  },
+  {
+    "question": "What is the only fish that can blink with both eyes?",
+    "correct_answer": "Shark",
+    "incorrect_answers": [
+      "Tuna",
+      "Salmon",
+      "Goldfish",
+      "Trout",
+      "Bass",
+      "Catfish",
+      "Piranha"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Animals & Wildlife",
+    "difficulty": "hard",
+    "id": "29f4e047-f3a5-4ed2-b022-cebedf7f16f7",
+    "created_at": "2025-04-13T23:45:28.963Z",
+    "backupTimestamp": "2025-04-13T23:45:28.965Z",
+    "localBackupTimestamp": "2025-04-13T17:45:28.965Z"
+  },
+  {
+    "question": "Which insect has the most complex eyes?",
+    "correct_answer": "Dragonfly",
+    "incorrect_answers": [
+      "Butterfly",
+      "Bee",
+      "Mantis",
+      "Fly",
+      "Ant",
+      "Beetle",
+      "Wasp"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Animals & Wildlife",
+    "difficulty": "hard",
+    "id": "b171c290-a1c1-41f4-b0eb-7ee9ac0ca9dd",
+    "created_at": "2025-04-13T23:45:28.983Z",
+    "backupTimestamp": "2025-04-13T23:45:28.983Z",
+    "localBackupTimestamp": "2025-04-13T17:45:28.983Z"
+  },
+  {
+    "question": "What characteristic distinguishes monotremes?",
+    "correct_answer": "Egg-laying mammals",
+    "incorrect_answers": [
+      "Cold-blooded",
+      "Live birth in water",
+      "Six limbs",
+      "No teeth",
+      "Pouches",
+      "Wings",
+      "Scales"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Animals & Wildlife",
+    "difficulty": "hard",
+    "id": "ddf2a86f-15b2-4f2e-b347-09bc84477c43",
+    "created_at": "2025-04-13T23:45:28.987Z",
+    "backupTimestamp": "2025-04-13T23:45:28.988Z",
+    "localBackupTimestamp": "2025-04-13T17:45:28.988Z"
+  },
+  {
+    "question": "What animal has the highest blood pressure?",
+    "correct_answer": "Giraffe",
+    "incorrect_answers": [
+      "Elephant",
+      "Blue Whale",
+      "Human",
+      "Cheetah",
+      "Horse",
+      "Dolphin",
+      "Mouse"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Animals & Wildlife",
+    "difficulty": "hard",
+    "id": "b2c61b0e-a95c-468e-a496-121ce2a7b81e",
+    "created_at": "2025-04-13T23:45:28.991Z",
+    "backupTimestamp": "2025-04-13T23:45:28.991Z",
+    "localBackupTimestamp": "2025-04-13T17:45:28.991Z"
+  },
+  {
+    "question": "Which marine creature has three hearts?",
+    "correct_answer": "Octopus",
+    "incorrect_answers": [
+      "Squid",
+      "Jellyfish",
+      "Shark",
+      "Blue Whale",
+      "Dolphin",
+      "Sea Turtle",
+      "Cuttlefish"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Animals & Wildlife",
+    "difficulty": "hard",
+    "id": "ebd7d14d-9542-41f9-9fc8-1e981ff5194e",
+    "created_at": "2025-04-13T23:45:28.998Z",
+    "backupTimestamp": "2025-04-13T23:45:28.999Z",
+    "localBackupTimestamp": "2025-04-13T17:45:28.999Z"
+  },
+  {
+    "question": "Which animal never gets cancer?",
+    "correct_answer": "Naked Mole Rat",
+    "incorrect_answers": [
+      "Elephant",
+      "Tortoise",
+      "Whale",
+      "Shark",
+      "Bat",
+      "Penguin",
+      "Crocodile"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Animals & Wildlife",
+    "difficulty": "hard",
+    "id": "47438403-3258-4ee0-a22a-222aeb548f4e",
+    "created_at": "2025-04-13T23:45:29.003Z",
+    "backupTimestamp": "2025-04-13T23:45:29.004Z",
+    "localBackupTimestamp": "2025-04-13T17:45:29.004Z"
+  },
+  {
+    "question": "Which animal doesn't have vocal cords?",
+    "correct_answer": "Giraffe",
+    "incorrect_answers": [
+      "Elephant",
+      "Koala",
+      "Meerkat",
+      "Lion",
+      "Deer",
+      "Monkey",
+      "Snake"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Animals & Wildlife",
+    "difficulty": "hard",
+    "id": "cbac2f43-8214-4332-81d4-416949b2bd0f",
+    "created_at": "2025-04-13T23:45:29.007Z",
+    "backupTimestamp": "2025-04-13T23:45:29.007Z",
+    "localBackupTimestamp": "2025-04-13T17:45:29.007Z"
+  },
+  {
+    "question": "What unique evolutionary trait do hagfish have?",
+    "correct_answer": "Slime defense",
+    "incorrect_answers": [
+      "No skeleton",
+      "Bioluminescence",
+      "Mind control",
+      "Immortality",
+      "Acid spray",
+      "Sonic boom",
+      "Shape-shifting"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Animals & Wildlife",
+    "difficulty": "hard",
+    "id": "73636591-7032-42fc-8cc8-19285aa1d528",
+    "created_at": "2025-04-13T23:45:29.012Z",
+    "backupTimestamp": "2025-04-13T23:45:29.012Z",
+    "localBackupTimestamp": "2025-04-13T17:45:29.012Z"
+  },
+  {
+    "question": "Which animal has the longest pregnancy?",
+    "correct_answer": "Alpine Black Salamander",
+    "incorrect_answers": [
+      "Elephant",
+      "Blue Whale",
+      "Camel",
+      "Giraffe",
+      "Rhino",
+      "Walrus",
+      "Manatee"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Animals & Wildlife",
+    "difficulty": "hard",
+    "id": "ede78493-3055-4c7c-a879-d3b48cf52ac3",
+    "created_at": "2025-04-13T23:45:29.016Z",
+    "backupTimestamp": "2025-04-13T23:45:29.016Z",
+    "localBackupTimestamp": "2025-04-13T17:45:29.016Z"
+  },
+  {
+    "question": "Which spider has the strongest silk?",
+    "correct_answer": "Darwin's Bark Spider",
+    "incorrect_answers": [
+      "Black Widow",
+      "Tarantula",
+      "Brown Recluse",
+      "Orb-weaver",
+      "Wolf Spider",
+      "Funnel Web",
+      "Huntsman"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Animals & Wildlife",
+    "difficulty": "hard",
+    "id": "3ea18d7b-46d0-4bf5-9c4d-0a8b7f5469b7",
+    "created_at": "2025-04-13T23:45:29.020Z",
+    "backupTimestamp": "2025-04-13T23:45:29.020Z",
+    "localBackupTimestamp": "2025-04-13T17:45:29.020Z"
+  },
+  {
+    "question": "Which animal can survive without water the longest?",
+    "correct_answer": "Kangaroo Rat",
+    "incorrect_answers": [
+      "Camel",
+      "Desert Tortoise",
+      "Fennec Fox",
+      "Scorpion",
+      "Jerboa",
+      "Desert Lizard",
+      "Gila Monster"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Animals & Wildlife",
+    "difficulty": "hard",
+    "id": "e147f3c8-0167-4062-986a-4736188e9b27",
+    "created_at": "2025-04-13T23:45:29.025Z",
+    "backupTimestamp": "2025-04-13T23:45:29.026Z",
+    "localBackupTimestamp": "2025-04-13T17:45:29.026Z"
+  },
+  {
+    "question": "Which animal can clone itself naturally?",
+    "correct_answer": "Marbled Crayfish",
+    "incorrect_answers": [
+      "Komodo Dragon",
+      "Sea Anemone",
+      "Starfish",
+      "Jellyfish",
+      "Coral",
+      "Flatworm",
+      "Hydra"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Animals & Wildlife",
+    "difficulty": "hard",
+    "id": "2b01516e-21c6-4b56-a791-b2eeeef91e8a",
+    "created_at": "2025-04-13T23:45:29.030Z",
+    "backupTimestamp": "2025-04-13T23:45:29.030Z",
+    "localBackupTimestamp": "2025-04-13T17:45:29.030Z"
+  },
+  {
+    "question": "Which animal has transparent blood?",
+    "correct_answer": "Antarctic Icefish",
+    "incorrect_answers": [
+      "Jellyfish",
+      "Squid",
+      "Glass Frog",
+      "Sea Cucumber",
+      "Worm",
+      "Leech",
+      "Starfish"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Animals & Wildlife",
+    "difficulty": "hard",
+    "id": "1501b401-af3e-4a29-b23d-967fe72987a5",
+    "created_at": "2025-04-13T23:45:29.034Z",
+    "backupTimestamp": "2025-04-13T23:45:29.035Z",
+    "localBackupTimestamp": "2025-04-13T17:45:29.035Z"
+  },
+  {
+    "question": "What is the only bird with nostrils at the tip?",
+    "correct_answer": "Kiwi",
+    "incorrect_answers": [
+      "Ostrich",
+      "Emu",
+      "Cassowary",
+      "Penguin",
+      "Albatross",
+      "Flamingo",
+      "Hummingbird"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Animals & Wildlife",
+    "difficulty": "hard",
+    "id": "956b2565-4362-440c-aaf4-da39484b29e7",
+    "created_at": "2025-04-13T23:45:29.038Z",
+    "backupTimestamp": "2025-04-13T23:45:29.039Z",
+    "localBackupTimestamp": "2025-04-13T17:45:29.039Z"
+  },
+  {
+    "question": "Which species has the most chromosomes?",
+    "correct_answer": "Adder's-tongue Fern",
+    "incorrect_answers": [
+      "Human",
+      "Fruit Fly",
+      "Cat",
+      "Gorilla",
+      "Butterfly",
+      "Dog",
+      "Chicken"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Animals & Wildlife",
+    "difficulty": "hard",
+    "id": "0d120a74-ec7e-438b-8d36-ab6b3ae72d67",
+    "created_at": "2025-04-13T23:45:29.042Z",
+    "backupTimestamp": "2025-04-13T23:45:29.043Z",
+    "localBackupTimestamp": "2025-04-13T17:45:29.043Z"
+  },
+  {
+    "question": "Which frog creates glass-like burrows?",
+    "correct_answer": "Desert Rain Frog",
+    "incorrect_answers": [
+      "Tree Frog",
+      "Poison Dart Frog",
+      "Bullfrog",
+      "Glass Frog",
+      "Goliath Frog",
+      "Tomato Frog",
+      "African Clawed Frog"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Animals & Wildlife",
+    "difficulty": "hard",
+    "id": "af6d1777-4982-41ee-a605-91aef91b06f1",
+    "created_at": "2025-04-13T23:45:29.047Z",
+    "backupTimestamp": "2025-04-13T23:45:29.048Z",
+    "localBackupTimestamp": "2025-04-13T17:45:29.048Z"
+  },
+  {
+    "question": "What animal has a poisonous elbow?",
+    "correct_answer": "Slow Loris",
+    "incorrect_answers": [
+      "Platypus",
+      "Komodo Dragon",
+      "Tasmanian Devil",
+      "Skunk",
+      "Wolverine",
+      "Honey Badger",
+      "Pangolin"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Animals & Wildlife",
+    "difficulty": "hard",
+    "id": "d97ae78c-831b-4717-89be-e9546b999c66",
+    "created_at": "2025-04-13T23:45:29.051Z",
+    "backupTimestamp": "2025-04-13T23:45:29.051Z",
+    "localBackupTimestamp": "2025-04-13T17:45:29.051Z"
+  },
+  {
+    "question": "What is the only venomous primate?",
+    "correct_answer": "Slow Loris",
+    "incorrect_answers": [
+      "Baboon",
+      "Mandrill",
+      "Lemur",
+      "Tarsier",
+      "Gibbon",
+      "Macaque",
+      "Marmoset"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Animals & Wildlife",
+    "difficulty": "hard",
+    "id": "77a3abd3-ba3a-4e9f-91f4-cedd242b21b6",
+    "created_at": "2025-04-13T23:45:29.055Z",
+    "backupTimestamp": "2025-04-13T23:45:29.056Z",
+    "localBackupTimestamp": "2025-04-13T17:45:29.056Z"
+  },
+  {
+    "question": "Which animal can turn its stomach inside out?",
+    "correct_answer": "Starfish",
+    "incorrect_answers": [
+      "Octopus",
+      "Jellyfish",
+      "Sea Cucumber",
+      "Seahorse",
+      "Frog",
+      "Snake",
+      "Gecko"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Animals & Wildlife",
+    "difficulty": "hard",
+    "id": "26373412-8b85-441f-a743-ad8e0678898c",
+    "created_at": "2025-04-13T23:45:29.060Z",
+    "backupTimestamp": "2025-04-13T23:45:29.060Z",
+    "localBackupTimestamp": "2025-04-13T17:45:29.060Z"
+  },
+  {
+    "question": "Which animal has blue blood?",
+    "correct_answer": "Horseshoe Crab",
+    "incorrect_answers": [
+      "Octopus",
+      "Lobster",
+      "Squid",
+      "Snail",
+      "Spider",
+      "Scorpion",
+      "Jellyfish"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Animals & Wildlife",
+    "difficulty": "hard",
+    "id": "35ab8f5b-f60a-4de1-a866-2ccb33db4a9f",
+    "created_at": "2025-04-13T23:45:29.064Z",
+    "backupTimestamp": "2025-04-13T23:45:29.065Z",
+    "localBackupTimestamp": "2025-04-13T17:45:29.065Z"
+  },
+  {
+    "question": "What is the only mammal that can fly on its own?",
+    "correct_answer": "Bat",
+    "incorrect_answers": [
+      "Flying Squirrel",
+      "Sugar Glider",
+      "Flying Fox",
+      "Lemur",
+      "Flying Opossum",
+      "Colugo",
+      "Flying Snake"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Animals & Wildlife",
+    "difficulty": "hard",
+    "id": "7f5e60c3-f172-4be7-8cba-091d1e8d7bd3",
+    "created_at": "2025-04-13T23:45:29.068Z",
+    "backupTimestamp": "2025-04-13T23:45:29.068Z",
+    "localBackupTimestamp": "2025-04-13T17:45:29.068Z"
+  },
+  {
+    "question": "Which animals can breathe through their skin?",
+    "correct_answer": "Frogs",
+    "incorrect_answers": [
+      "Earthworms",
+      "Lizards",
+      "Fish",
+      "Snakes",
+      "Turtles",
+      "Insects",
+      "Crabs"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Animals & Wildlife",
+    "difficulty": "hard",
+    "id": "cd2dc8e1-f6fa-4d01-9c42-f5942e2fe936",
+    "created_at": "2025-04-13T23:45:29.071Z",
+    "backupTimestamp": "2025-04-13T23:45:29.072Z",
+    "localBackupTimestamp": "2025-04-13T17:45:29.072Z"
+  },
+  {
+    "question": "Which animal sleeps with one eye open?",
+    "correct_answer": "Dolphin",
+    "incorrect_answers": [
+      "Owl",
+      "Crocodile",
+      "Shark",
+      "Snake",
+      "Lizard",
+      "Bat",
+      "Seal"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Animals & Wildlife",
+    "difficulty": "hard",
+    "id": "6872f25d-adfa-4b71-ade4-7a476ede30bf",
+    "created_at": "2025-04-13T23:45:29.075Z",
+    "backupTimestamp": "2025-04-13T23:45:29.076Z",
+    "localBackupTimestamp": "2025-04-13T17:45:29.076Z"
+  },
+  {
+    "question": "Which is the only mammal that cannot jump?",
+    "correct_answer": "Elephant",
+    "incorrect_answers": [
+      "Sloth",
+      "Rhinoceros",
+      "Hippopotamus",
+      "Whale",
+      "Manatee",
+      "Koala",
+      "Giraffe"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Animals & Wildlife",
+    "difficulty": "hard",
+    "id": "aff3dcd9-9afa-430c-b888-449161afd3fd",
+    "created_at": "2025-04-13T23:45:29.079Z",
+    "backupTimestamp": "2025-04-13T23:45:29.080Z",
+    "localBackupTimestamp": "2025-04-13T17:45:29.080Z"
+  },
+  {
+    "question": "What animal has 32 brains?",
+    "correct_answer": "Leech",
+    "incorrect_answers": [
+      "Earthworm",
+      "Octopus",
+      "Jellyfish",
+      "Starfish",
+      "Coral",
+      "Slug",
+      "Flatworm"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Animals & Wildlife",
+    "difficulty": "hard",
+    "id": "18562f71-7b09-4bfd-9569-151cd7ae1a22",
+    "created_at": "2025-04-13T23:45:29.083Z",
+    "backupTimestamp": "2025-04-13T23:45:29.083Z",
+    "localBackupTimestamp": "2025-04-13T17:45:29.083Z"
+  },
+  {
+    "question": "Which snake has the longest venom glands?",
+    "correct_answer": "King Cobra",
+    "incorrect_answers": [
+      "Black Mamba",
+      "Rattlesnake",
+      "Inland Taipan",
+      "Viper",
+      "Sea Snake",
+      "Death Adder",
+      "Copperhead"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Animals & Wildlife",
+    "difficulty": "hard",
+    "id": "7c595fd9-6527-4d93-9cdf-950c8887118a",
+    "created_at": "2025-04-13T23:45:29.086Z",
+    "backupTimestamp": "2025-04-13T23:45:29.086Z",
+    "localBackupTimestamp": "2025-04-13T17:45:29.086Z"
+  },
+  {
+    "question": "Which animal hibernates upside down?",
+    "correct_answer": "Bat",
+    "incorrect_answers": [
+      "Bear",
+      "Hedgehog",
+      "Dormouse",
+      "Ground Squirrel",
+      "Marmot",
+      "Chipmunk",
+      "Lemur"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Animals & Wildlife",
+    "difficulty": "hard",
+    "id": "8f7272c1-002b-4b91-b2cc-dce83ae00d30",
+    "created_at": "2025-04-13T23:45:29.089Z",
+    "backupTimestamp": "2025-04-13T23:45:29.089Z",
+    "localBackupTimestamp": "2025-04-13T17:45:29.089Z"
+  },
+  {
+    "question": "Which animal has the most neurons per brain mass?",
+    "correct_answer": "Long-finned Pilot Whale",
+    "incorrect_answers": [
+      "Elephant",
+      "Human",
+      "Dolphin",
+      "Chimpanzee",
+      "Octopus",
+      "Crow",
+      "Parrot"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Animals & Wildlife",
+    "difficulty": "hard",
+    "id": "5fccaf1e-c223-4732-b5e1-1d129edbda83",
+    "created_at": "2025-04-13T23:45:29.093Z",
+    "backupTimestamp": "2025-04-13T23:45:29.093Z",
+    "localBackupTimestamp": "2025-04-13T17:45:29.093Z"
+  },
+  {
+    "question": "Which insect has the most toxic venom?",
+    "correct_answer": "Bullet Ant",
+    "incorrect_answers": [
+      "Japanese Giant Hornet",
+      "Tarantula Hawk",
+      "Fire Ant",
+      "Harvester Ant",
+      "Paper Wasp",
+      "Yellow Jacket",
+      "Honey Bee"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Animals & Wildlife",
+    "difficulty": "hard",
+    "id": "502d414d-d1f9-41fc-9a01-6c5f6d3f5603",
+    "created_at": "2025-04-13T23:45:29.097Z",
+    "backupTimestamp": "2025-04-13T23:45:29.097Z",
+    "localBackupTimestamp": "2025-04-13T17:45:29.097Z"
+  },
+  {
+    "question": "Which animal can survive in space?",
+    "correct_answer": "Tardigrade",
+    "incorrect_answers": [
+      "Cockroach",
+      "Lichen",
+      "Bacteria",
+      "Nematode",
+      "Mold",
+      "Ant",
+      "Fruit Fly"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Animals & Wildlife",
+    "difficulty": "hard",
+    "id": "aff1d8d3-7085-4b73-a75f-544ce4191c0d",
+    "created_at": "2025-04-13T23:45:29.100Z",
+    "backupTimestamp": "2025-04-13T23:45:29.100Z",
+    "localBackupTimestamp": "2025-04-13T17:45:29.100Z"
+  },
+  {
+    "question": "Which bird has the fastest wingbeat?",
+    "correct_answer": "Hummingbird",
+    "incorrect_answers": [
+      "Falcon",
+      "Swift",
+      "Bee Hummingbird",
+      "Kingfisher",
+      "Sparrow",
+      "Warbler",
+      "Wren"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Animals & Wildlife",
+    "difficulty": "hard",
+    "id": "f9ea35bb-ae14-4965-a512-070de3793f92",
+    "created_at": "2025-04-13T23:45:29.103Z",
+    "backupTimestamp": "2025-04-13T23:45:29.104Z",
+    "localBackupTimestamp": "2025-04-13T17:45:29.104Z"
+  },
+  {
+    "question": "Which fish walks on land?",
+    "correct_answer": "Mudskipper",
+    "incorrect_answers": [
+      "Lungfish",
+      "Walking Catfish",
+      "Climbing Perch",
+      "Snakehead",
+      "Electric Eel",
+      "Axolotl",
+      "Archerfish"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Animals & Wildlife",
+    "difficulty": "hard",
+    "id": "fe263c2f-7a1b-48d2-9445-9298584085af",
+    "created_at": "2025-04-13T23:45:29.106Z",
+    "backupTimestamp": "2025-04-13T23:45:29.107Z",
+    "localBackupTimestamp": "2025-04-13T17:45:29.107Z"
+  },
+  {
+    "question": "Which animal has the largest brain-to-body ratio?",
+    "correct_answer": "Ant",
+    "incorrect_answers": [
+      "Human",
+      "Dolphin",
+      "Elephant",
+      "Mouse",
+      "Crow",
+      "Octopus",
+      "Blue Whale"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Animals & Wildlife",
+    "difficulty": "hard",
+    "id": "353c6e15-d76e-473e-989b-6036e7a8dbe4",
+    "created_at": "2025-04-13T23:45:29.110Z",
+    "backupTimestamp": "2025-04-13T23:45:29.110Z",
+    "localBackupTimestamp": "2025-04-13T17:45:29.110Z"
+  },
+  {
+    "question": "What animal has the most chromosomes?",
+    "correct_answer": "Hermit Crab",
+    "incorrect_answers": [
+      "Human",
+      "Elephant",
+      "Fruit Fly",
+      "Dog",
+      "Cat",
+      "Chimpanzee",
+      "Chicken"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Animals & Wildlife",
+    "difficulty": "hard",
+    "id": "15b477b0-4c03-4b09-81da-740ec3b38ba4",
+    "created_at": "2025-04-13T23:45:29.113Z",
+    "backupTimestamp": "2025-04-13T23:45:29.114Z",
+    "localBackupTimestamp": "2025-04-13T17:45:29.114Z"
+  },
+  {
+    "question": "Which beetle can see polarized light?",
+    "correct_answer": "Scarab Beetle",
+    "incorrect_answers": [
+      "Ladybug",
+      "Firefly",
+      "Stag Beetle",
+      "Dung Beetle",
+      "Weevil",
+      "Tiger Beetle",
+      "Longhorn Beetle"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Animals & Wildlife",
+    "difficulty": "hard",
+    "id": "af7c48bf-658a-4056-ad01-85711bf3cfde",
+    "created_at": "2025-04-13T23:45:29.116Z",
+    "backupTimestamp": "2025-04-13T23:45:29.117Z",
+    "localBackupTimestamp": "2025-04-13T17:45:29.117Z"
+  },
+  {
+    "question": "Which aquatic animal can live the longest?",
+    "correct_answer": "Ocean Quahog Clam",
+    "incorrect_answers": [
+      "Bowhead Whale",
+      "Greenland Shark",
+      "Sea Turtle",
+      "Koi Fish",
+      "Lobster",
+      "Starfish",
+      "Sea Urchin"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Animals & Wildlife",
+    "difficulty": "hard",
+    "id": "6da11876-5282-4cf3-b9c2-0b5eb5801d39",
+    "created_at": "2025-04-13T23:45:29.119Z",
+    "backupTimestamp": "2025-04-13T23:45:29.120Z",
+    "localBackupTimestamp": "2025-04-13T17:45:29.120Z"
+  },
+  {
+    "question": "Which animal has regenerative limbs?",
+    "correct_answer": "Axolotl",
+    "incorrect_answers": [
+      "Starfish",
+      "Salamander",
+      "Lizard",
+      "Crab",
+      "Octopus",
+      "Sea Cucumber",
+      "Planarian"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Animals & Wildlife",
+    "difficulty": "hard",
+    "id": "fecde307-ba64-4136-ae46-0db50ec83615",
+    "created_at": "2025-04-13T23:45:29.123Z",
+    "backupTimestamp": "2025-04-13T23:45:29.123Z",
+    "localBackupTimestamp": "2025-04-13T17:45:29.123Z"
+  },
+  {
+    "question": "What's the only animal with four knees?",
+    "correct_answer": "Elephant",
+    "incorrect_answers": [
+      "Giraffe",
+      "Camel",
+      "Rhinoceros",
+      "Hippopotamus",
+      "Kangaroo",
+      "Ostrich",
+      "Gorilla"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Animals & Wildlife",
+    "difficulty": "hard",
+    "id": "38971c49-9722-4ff6-9be9-8b528f388860",
+    "created_at": "2025-04-13T23:45:29.127Z",
+    "backupTimestamp": "2025-04-13T23:45:29.127Z",
+    "localBackupTimestamp": "2025-04-13T17:45:29.127Z"
+  },
+  {
+    "question": "Which animal has cube-shaped poop?",
+    "correct_answer": "Wombat",
+    "incorrect_answers": [
+      "Koala",
+      "Beaver",
+      "Panda",
+      "Sloth",
+      "Hippo",
+      "Elephant",
+      "Giraffe"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Animals & Wildlife",
+    "difficulty": "hard",
+    "id": "f9297354-eed5-4200-af87-ab883a81c61c",
+    "created_at": "2025-04-13T23:45:29.130Z",
+    "backupTimestamp": "2025-04-13T23:45:29.130Z",
+    "localBackupTimestamp": "2025-04-13T17:45:29.130Z"
+  },
+  {
+    "question": "Which animal has teeth in its stomach?",
+    "correct_answer": "Lobster",
+    "incorrect_answers": [
+      "Crab",
+      "Shark",
+      "Alligator",
+      "Crocodile",
+      "Parrot",
+      "Octopus",
+      "Whale"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Animals & Wildlife",
+    "difficulty": "hard",
+    "id": "c6dac858-d32e-4b7c-9211-ce6793e7f8b6",
+    "created_at": "2025-04-13T23:45:29.133Z",
+    "backupTimestamp": "2025-04-13T23:45:29.133Z",
+    "localBackupTimestamp": "2025-04-13T17:45:29.133Z"
+  },
+  {
+    "question": "What animal is immune to almost all poisons?",
+    "correct_answer": "Honey Badger",
+    "incorrect_answers": [
+      "Mongoose",
+      "Opossum",
+      "Hedgehog",
+      "Skunk",
+      "Armadillo",
+      "Vulture",
+      "Rat"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Animals & Wildlife",
+    "difficulty": "hard",
+    "id": "e1381d07-012b-464e-96da-5f51b777aae0",
+    "created_at": "2025-04-13T23:45:29.136Z",
+    "backupTimestamp": "2025-04-13T23:45:29.136Z",
+    "localBackupTimestamp": "2025-04-13T17:45:29.136Z"
+  },
+  {
+    "question": "Which animal has the largest eye?",
+    "correct_answer": "Colossal Squid",
+    "incorrect_answers": [
+      "Blue Whale",
+      "Elephant",
+      "Giraffe",
+      "Ostrich",
+      "Giant Squid",
+      "Swordfish",
+      "Horse"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Animals & Wildlife",
+    "difficulty": "hard",
+    "id": "e5c32c0b-88e6-4f55-9d82-e0141951b1b7",
+    "created_at": "2025-04-13T23:45:29.139Z",
+    "backupTimestamp": "2025-04-13T23:45:29.139Z",
+    "localBackupTimestamp": "2025-04-13T17:45:29.139Z"
+  },
+  {
+    "question": "What's the only known bird with poisonous feathers?",
+    "correct_answer": "Hooded Pitohui",
+    "incorrect_answers": [
+      "Cassowary",
+      "Vulture",
+      "Eagle",
+      "Falcon",
+      "Owl",
+      "Kiwi",
+      "Penguin"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Animals & Wildlife",
+    "difficulty": "hard",
+    "id": "e3ccef63-46e8-4584-95e7-5cf5bf235ba0",
+    "created_at": "2025-04-13T23:45:29.142Z",
+    "backupTimestamp": "2025-04-13T23:45:29.143Z",
+    "localBackupTimestamp": "2025-04-13T17:45:29.143Z"
+  },
+  {
+    "question": "Which reptile can change gender naturally?",
+    "correct_answer": "American Alligator",
+    "incorrect_answers": [
+      "Komodo Dragon",
+      "Green Iguana",
+      "Chameleon",
+      "Gecko",
+      "Python",
+      "Monitor Lizard",
+      "Tuatara"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Animals & Wildlife",
+    "difficulty": "hard",
+    "id": "051dc719-7ddd-40f8-aae5-93be509bdb63",
+    "created_at": "2025-04-13T23:45:29.146Z",
+    "backupTimestamp": "2025-04-13T23:45:29.147Z",
+    "localBackupTimestamp": "2025-04-13T17:45:29.147Z"
+  },
+  {
+    "question": "Which animal has eyes that can see 360 degrees?",
+    "correct_answer": "Chameleon",
+    "incorrect_answers": [
+      "Owl",
+      "Fly",
+      "Dragonfly",
+      "Hammerhead Shark",
+      "Frog",
+      "Rabbit",
+      "Goat"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Animals & Wildlife",
+    "difficulty": "hard",
+    "id": "2e132e06-c185-41d6-b3c8-3e747626ad34",
+    "created_at": "2025-04-13T23:45:29.149Z",
+    "backupTimestamp": "2025-04-13T23:45:29.150Z",
+    "localBackupTimestamp": "2025-04-13T17:45:29.150Z"
+  },
+  {
+    "question": "Which animal's heart stops beating while resting?",
+    "correct_answer": "Hummingbird",
+    "incorrect_answers": [
+      "Sloth",
+      "Bat",
+      "Snake",
+      "Frog",
+      "Turtle",
+      "Hedgehog",
+      "Fish"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Animals & Wildlife",
+    "difficulty": "hard",
+    "id": "be7eae26-ec45-49e3-81df-bf333b247bae",
+    "created_at": "2025-04-13T23:45:29.152Z",
+    "backupTimestamp": "2025-04-13T23:45:29.153Z",
+    "localBackupTimestamp": "2025-04-13T17:45:29.153Z"
+  },
+  {
+    "question": "Which animal's cells never get cancer?",
+    "correct_answer": "Naked Mole Rat",
+    "incorrect_answers": [
+      "Elephant",
+      "Blue Whale",
+      "Tortoise",
+      "Shark",
+      "Jellyfish",
+      "Lobster",
+      "Clam"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Animals & Wildlife",
+    "difficulty": "hard",
+    "id": "c9164e46-86c0-4760-984d-ca89dab4bc6c",
+    "created_at": "2025-04-13T23:45:29.156Z",
+    "backupTimestamp": "2025-04-13T23:45:29.156Z",
+    "localBackupTimestamp": "2025-04-13T17:45:29.156Z"
+  },
+  {
+    "question": "Which mammal lives its entire life backwards?",
+    "correct_answer": "Suriname Toad",
+    "incorrect_answers": [
+      "Platypus",
+      "Sloth",
+      "Echidna",
+      "Pangolin",
+      "Narwhal",
+      "Manatee",
+      "Dugong"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Animals & Wildlife",
+    "difficulty": "hard",
+    "id": "ff337034-e57d-4914-8c62-7998def4259b",
+    "created_at": "2025-04-13T23:45:29.159Z",
+    "backupTimestamp": "2025-04-13T23:45:29.159Z",
+    "localBackupTimestamp": "2025-04-13T17:45:29.159Z"
+  },
+  {
+    "question": "What animal can drink via its feet?",
+    "correct_answer": "Frog",
+    "incorrect_answers": [
+      "Snake",
+      "Tortoise",
+      "Newt",
+      "Salamander",
+      "Crocodile",
+      "Lizard",
+      "Turtle"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Animals & Wildlife",
+    "difficulty": "hard",
+    "id": "f34557c9-8b01-49cc-8786-72fa4c42078e",
+    "created_at": "2025-04-13T23:45:29.162Z",
+    "backupTimestamp": "2025-04-13T23:45:29.163Z",
+    "localBackupTimestamp": "2025-04-13T17:45:29.163Z"
+  },
+  {
+    "question": "Which mammal can detect electrical fields?",
+    "correct_answer": "Platypus",
+    "incorrect_answers": [
+      "Dolphin",
+      "Bat",
+      "Echidna",
+      "Opossum",
+      "Armadillo",
+      "Pangolin",
+      "Mole"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Animals & Wildlife",
+    "difficulty": "hard",
+    "id": "70482eb0-3e63-4e45-b1df-f8308435fdfe",
+    "created_at": "2025-04-13T23:45:29.165Z",
+    "backupTimestamp": "2025-04-13T23:45:29.166Z",
+    "localBackupTimestamp": "2025-04-13T17:45:29.166Z"
   }
 ]
