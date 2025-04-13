@@ -12598,5 +12598,3405 @@
     "created_at": "2025-04-13T02:03:07.938Z",
     "backupTimestamp": "2025-04-13T02:03:07.939Z",
     "localBackupTimestamp": "2025-04-12T20:03:07.939Z"
+  },
+  {
+    "question": "What is the name of the iconic plumber hero created by Nintendo?",
+    "correct_answer": "Mario",
+    "incorrect_answers": [
+      "Luigi",
+      "Wario",
+      "Sonic",
+      "Link",
+      "Kirby",
+      "Yoshi",
+      "Bowser"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Video Games",
+    "difficulty": "easy",
+    "id": "edccb5f6-029e-4734-a67a-5118d86afad8",
+    "created_at": "2025-04-13T02:08:39.363Z",
+    "backupTimestamp": "2025-04-13T02:08:39.365Z",
+    "localBackupTimestamp": "2025-04-12T20:08:39.365Z"
+  },
+  {
+    "question": "Which company developed the 'PlayStation' line of consoles?",
+    "correct_answer": "Sony",
+    "incorrect_answers": [
+      "Nintendo",
+      "Microsoft",
+      "Sega",
+      "Atari",
+      "Apple",
+      "Google",
+      "Valve"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Video Games",
+    "difficulty": "easy",
+    "id": "6fca9511-aabe-45b9-850f-8c9434c710f8",
+    "created_at": "2025-04-13T02:08:39.372Z",
+    "backupTimestamp": "2025-04-13T02:08:39.373Z",
+    "localBackupTimestamp": "2025-04-12T20:08:39.373Z"
+  },
+  {
+    "question": "What is the primary objective in the sandbox game 'Minecraft'?",
+    "correct_answer": "Survival and Building",
+    "incorrect_answers": [
+      "Racing Cars",
+      "Solving Puzzles",
+      "Completing Story Missions",
+      "Fighting Aliens",
+      "Managing a City",
+      "Playing Sports",
+      "Collecting Monsters"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Video Games",
+    "difficulty": "easy",
+    "id": "32f9771d-d945-4649-baa9-29553cb184a1",
+    "created_at": "2025-04-13T02:08:39.391Z",
+    "backupTimestamp": "2025-04-13T02:08:39.392Z",
+    "localBackupTimestamp": "2025-04-12T20:08:39.392Z"
+  },
+  {
+    "question": "What type of creature is Sonic, Sega's mascot?",
+    "correct_answer": "Hedgehog",
+    "incorrect_answers": [
+      "Fox",
+      "Echidna",
+      "Rabbit",
+      "Squirrel",
+      "Cat",
+      "Mouse",
+      "Armadillo"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Video Games",
+    "difficulty": "easy",
+    "id": "ff118090-6714-4845-bf38-2c839f0e4f48",
+    "created_at": "2025-04-13T02:08:39.398Z",
+    "backupTimestamp": "2025-04-13T02:08:39.398Z",
+    "localBackupTimestamp": "2025-04-12T20:08:39.398Z"
+  },
+  {
+    "question": "In 'Pac-Man', what does Pac-Man eat to gain the ability to eat ghosts?",
+    "correct_answer": "Power Pellet",
+    "incorrect_answers": [
+      "Fruit",
+      "Dots",
+      "Keys",
+      "Coins",
+      "Mushrooms",
+      "Stars",
+      "Cherries"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Video Games",
+    "difficulty": "easy",
+    "id": "f24020c5-aa72-4d97-b091-c1faa9ab8a50",
+    "created_at": "2025-04-13T02:08:39.405Z",
+    "backupTimestamp": "2025-04-13T02:08:39.406Z",
+    "localBackupTimestamp": "2025-04-12T20:08:39.406Z"
+  },
+  {
+    "question": "Which Microsoft console is the main competitor to the PlayStation?",
+    "correct_answer": "Xbox",
+    "incorrect_answers": [
+      "Switch",
+      "Wii",
+      "GameCube",
+      "Dreamcast",
+      "Stadia",
+      "Ouya",
+      "Zune"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Video Games",
+    "difficulty": "easy",
+    "id": "9ab164ae-7fe1-4b8d-a247-243a81fa8355",
+    "created_at": "2025-04-13T02:08:39.410Z",
+    "backupTimestamp": "2025-04-13T02:08:39.411Z",
+    "localBackupTimestamp": "2025-04-12T20:08:39.411Z"
+  },
+  {
+    "question": "What is the name of the yellow, electric-type Pokémon often seen with Ash Ketchum?",
+    "correct_answer": "Pikachu",
+    "incorrect_answers": [
+      "Charmander",
+      "Bulbasaur",
+      "Squirtle",
+      "Jigglypuff",
+      "Eevee",
+      "Meowth",
+      "Snorlax"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Video Games",
+    "difficulty": "easy",
+    "id": "62b7d4ad-72c5-4e75-a16d-2b0ca4622c46",
+    "created_at": "2025-04-13T02:08:39.414Z",
+    "backupTimestamp": "2025-04-13T02:08:39.415Z",
+    "localBackupTimestamp": "2025-04-12T20:08:39.415Z"
+  },
+  {
+    "question": "In 'Fortnite', what is the term for the shrinking play area?",
+    "correct_answer": "The Storm",
+    "incorrect_answers": [
+      "The Zone",
+      "The Circle",
+      "The Ring",
+      "The Barrier",
+      "The Miasma",
+      "The Gas",
+      "The Shrink Ray"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Video Games",
+    "difficulty": "easy",
+    "id": "97ee7c10-346a-4620-8d21-67cc7b27e602",
+    "created_at": "2025-04-13T02:08:39.418Z",
+    "backupTimestamp": "2025-04-13T02:08:39.418Z",
+    "localBackupTimestamp": "2025-04-12T20:08:39.418Z"
+  },
+  {
+    "question": "What is the main goal in the original 'Donkey Kong' arcade game?",
+    "correct_answer": "Rescue Pauline",
+    "incorrect_answers": [
+      "Defeat Bowser",
+      "Collect Rings",
+      "Eat Pellets",
+      "Build Structures",
+      "Reach the Flagpole",
+      "Climb the Mountain",
+      "Find the Triforce"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Video Games",
+    "difficulty": "easy",
+    "id": "69f591bd-8ebd-4b37-9c61-10f2d433f765",
+    "created_at": "2025-04-13T02:08:39.421Z",
+    "backupTimestamp": "2025-04-13T02:08:39.422Z",
+    "localBackupTimestamp": "2025-04-12T20:08:39.422Z"
+  },
+  {
+    "question": "What type of game is 'Tetris'?",
+    "correct_answer": "Puzzle",
+    "incorrect_answers": [
+      "Platformer",
+      "Shooter",
+      "RPG",
+      "Racing",
+      "Fighting",
+      "Simulation",
+      "Strategy"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Video Games",
+    "difficulty": "easy",
+    "id": "c1ecd128-3669-4e6b-860c-a8b26f53a307",
+    "created_at": "2025-04-13T02:08:39.426Z",
+    "backupTimestamp": "2025-04-13T02:08:39.427Z",
+    "localBackupTimestamp": "2025-04-12T20:08:39.427Z"
+  },
+  {
+    "question": "What item gives Mario temporary invincibility in many 'Super Mario' games?",
+    "correct_answer": "Super Star",
+    "incorrect_answers": [
+      "Super Mushroom",
+      "Fire Flower",
+      "1-Up Mushroom",
+      "Cape Feather",
+      "Tanooki Suit",
+      "P-Wing",
+      "Coin"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Video Games",
+    "difficulty": "easy",
+    "id": "1bc5ec78-6a70-4d22-835e-d70c3cd83e31",
+    "created_at": "2025-04-13T02:08:39.432Z",
+    "backupTimestamp": "2025-04-13T02:08:39.433Z",
+    "localBackupTimestamp": "2025-04-12T20:08:39.433Z"
+  },
+  {
+    "question": "What does 'HP' typically stand for in video games?",
+    "correct_answer": "Hit Points",
+    "incorrect_answers": [
+      "High Power",
+      "Health Percentage",
+      "Hero Potential",
+      "Heavy Punch",
+      "Horse Power",
+      "Hidden Power",
+      "Healing Potion"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Video Games",
+    "difficulty": "easy",
+    "id": "10b32f9c-5ba3-4044-bd29-257361b03a32",
+    "created_at": "2025-04-13T02:08:39.435Z",
+    "backupTimestamp": "2025-04-13T02:08:39.436Z",
+    "localBackupTimestamp": "2025-04-12T20:08:39.436Z"
+  },
+  {
+    "question": "Which popular mobile game involves swiping fruits to slice them?",
+    "correct_answer": "Fruit Ninja",
+    "incorrect_answers": [
+      "Candy Crush Saga",
+      "Angry Birds",
+      "Temple Run",
+      "Subway Surfers",
+      "Clash of Clans",
+      "Pokémon GO",
+      "Plants vs. Zombies"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Video Games",
+    "difficulty": "easy",
+    "id": "e32a29c8-1b7a-40d4-949f-c932ea4cbfc9",
+    "created_at": "2025-04-13T02:08:39.439Z",
+    "backupTimestamp": "2025-04-13T02:08:39.439Z",
+    "localBackupTimestamp": "2025-04-12T20:08:39.439Z"
+  },
+  {
+    "question": "What company created the character Kirby?",
+    "correct_answer": "Nintendo",
+    "incorrect_answers": [
+      "Sega",
+      "Capcom",
+      "Konami",
+      "Square Enix",
+      "Bandai Namco",
+      "Sony",
+      "Microsoft"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Video Games",
+    "difficulty": "easy",
+    "id": "c99c0e8d-870e-4654-a0f5-33f0b2ccb4b4",
+    "created_at": "2025-04-13T02:08:39.442Z",
+    "backupTimestamp": "2025-04-13T02:08:39.443Z",
+    "localBackupTimestamp": "2025-04-12T20:08:39.443Z"
+  },
+  {
+    "question": "In 'Street Fighter', what is Ryu's signature special move?",
+    "correct_answer": "Hadoken",
+    "incorrect_answers": [
+      "Shoryuken",
+      "Tatsumaki Senpukyaku",
+      "Yoga Flame",
+      "Sonic Boom",
+      "Spinning Bird Kick",
+      "Electric Thunder",
+      "Psycho Crusher"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Video Games",
+    "difficulty": "easy",
+    "id": "9eb7f1f7-a6ef-4c3f-8dff-6bfe568fddcd",
+    "created_at": "2025-04-13T02:08:39.445Z",
+    "backupTimestamp": "2025-04-13T02:08:39.446Z",
+    "localBackupTimestamp": "2025-04-12T20:08:39.446Z"
+  },
+  {
+    "question": "What console did 'Super Mario 64' originally launch on?",
+    "correct_answer": "Nintendo 64",
+    "incorrect_answers": [
+      "NES",
+      "SNES",
+      "GameCube",
+      "Wii",
+      "PlayStation",
+      "Sega Saturn",
+      "Game Boy"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Video Games",
+    "difficulty": "easy",
+    "id": "309b0d94-5d11-4946-9bba-925bc45cc100",
+    "created_at": "2025-04-13T02:08:39.449Z",
+    "backupTimestamp": "2025-04-13T02:08:39.450Z",
+    "localBackupTimestamp": "2025-04-12T20:08:39.450Z"
+  },
+  {
+    "question": "What is the name of the protagonist in the 'Tomb Raider' series?",
+    "correct_answer": "Lara Croft",
+    "incorrect_answers": [
+      "Samus Aran",
+      "Jill Valentine",
+      "Claire Redfield",
+      "Aloy",
+      "Ellie",
+      "Bayonetta",
+      "Chun-Li"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Video Games",
+    "difficulty": "easy",
+    "id": "6e7830ba-10fa-45a1-862d-2d67e2285811",
+    "created_at": "2025-04-13T02:08:39.453Z",
+    "backupTimestamp": "2025-04-13T02:08:39.453Z",
+    "localBackupTimestamp": "2025-04-12T20:08:39.453Z"
+  },
+  {
+    "question": "What does 'RPG' stand for in the context of video games?",
+    "correct_answer": "Role-Playing Game",
+    "incorrect_answers": [
+      "Real-time Playing Game",
+      "Racing Performance Game",
+      "Rapid Player Growth",
+      "Random Puzzle Generator",
+      "Realistic Physics Game",
+      "Retro Platformer Game",
+      "Resource Planning Game"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Video Games",
+    "difficulty": "easy",
+    "id": "47ec7256-c388-4d3c-ac6b-a2f814e6b4d8",
+    "created_at": "2025-04-13T02:08:39.456Z",
+    "backupTimestamp": "2025-04-13T02:08:39.457Z",
+    "localBackupTimestamp": "2025-04-12T20:08:39.457Z"
+  },
+  {
+    "question": "Which game series features characters like Master Chief and Cortana?",
+    "correct_answer": "Halo",
+    "incorrect_answers": [
+      "Gears of War",
+      "Mass Effect",
+      "Call of Duty",
+      "Destiny",
+      "Doom",
+      "Metroid",
+      "StarCraft"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Video Games",
+    "difficulty": "easy",
+    "id": "94f1c26d-c37c-4b6f-8745-70995197f676",
+    "created_at": "2025-04-13T02:08:39.459Z",
+    "backupTimestamp": "2025-04-13T02:08:39.460Z",
+    "localBackupTimestamp": "2025-04-12T20:08:39.460Z"
+  },
+  {
+    "question": "What geometric shapes fall from the sky in 'Tetris'?",
+    "correct_answer": "Tetrominoes",
+    "incorrect_answers": [
+      "Pentominoes",
+      "Dominoes",
+      "Triangles",
+      "Hexagons",
+      "Squares",
+      "Lines",
+      "Circles"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Video Games",
+    "difficulty": "easy",
+    "id": "858fa0a3-2688-46ef-bbca-f5399a66a463",
+    "created_at": "2025-04-13T02:08:39.462Z",
+    "backupTimestamp": "2025-04-13T02:08:39.462Z",
+    "localBackupTimestamp": "2025-04-12T20:08:39.462Z"
+  },
+  {
+    "question": "Which device popularized motion controls in the 7th generation of consoles?",
+    "correct_answer": "Nintendo Wii",
+    "incorrect_answers": [
+      "PlayStation 3 (Move)",
+      "Xbox 360 (Kinect)",
+      "Nintendo DS",
+      "GameCube",
+      "Dreamcast",
+      "PlayStation 2 (EyeToy)",
+      "Sega Genesis (Activator)"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Video Games",
+    "difficulty": "easy",
+    "id": "6f42c7d9-f788-45cf-b290-78c8f461f8ea",
+    "created_at": "2025-04-13T02:08:39.465Z",
+    "backupTimestamp": "2025-04-13T02:08:39.465Z",
+    "localBackupTimestamp": "2025-04-12T20:08:39.465Z"
+  },
+  {
+    "question": "What is the primary goal in 'Pokémon GO'?",
+    "correct_answer": "Catch Pokémon in the real world",
+    "incorrect_answers": [
+      "Build a virtual city",
+      "Solve complex puzzles",
+      "Race augmented reality cars",
+      "Battle historical figures",
+      "Farm virtual crops",
+      "Explore fictional dungeons",
+      "Fly virtual airplanes"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Video Games",
+    "difficulty": "easy",
+    "id": "e63f615e-d57d-4789-ae4c-bc5d2b647edb",
+    "created_at": "2025-04-13T02:08:39.467Z",
+    "backupTimestamp": "2025-04-13T02:08:39.468Z",
+    "localBackupTimestamp": "2025-04-12T20:08:39.468Z"
+  },
+  {
+    "question": "What species is Bowser, the main antagonist of the 'Super Mario' series?",
+    "correct_answer": "Koopa",
+    "incorrect_answers": [
+      "Goomba",
+      "Dragon",
+      "Turtle",
+      "Alligator",
+      "Dinosaur",
+      "Toad",
+      "Shy Guy"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Video Games",
+    "difficulty": "easy",
+    "id": "45139dc4-69b8-4c9f-a5fe-c768f9c1bbe8",
+    "created_at": "2025-04-13T02:08:39.471Z",
+    "backupTimestamp": "2025-04-13T02:08:39.471Z",
+    "localBackupTimestamp": "2025-04-12T20:08:39.471Z"
+  },
+  {
+    "question": "Which game involves launching birds at structures to defeat pigs?",
+    "correct_answer": "Angry Birds",
+    "incorrect_answers": [
+      "Cut the Rope",
+      "Fruit Ninja",
+      "Doodle Jump",
+      "Temple Run",
+      "Plants vs. Zombies",
+      "Where's My Water?",
+      "Bad Piggies"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Video Games",
+    "difficulty": "easy",
+    "id": "23d28e0d-2fcf-4647-887b-99ade6c88eb7",
+    "created_at": "2025-04-13T02:08:39.475Z",
+    "backupTimestamp": "2025-04-13T02:08:39.475Z",
+    "localBackupTimestamp": "2025-04-12T20:08:39.475Z"
+  },
+  {
+    "question": "What is the name of Link's iconic sword in 'The Legend of Zelda' series?",
+    "correct_answer": "Master Sword",
+    "incorrect_answers": [
+      "Buster Sword",
+      "Energy Sword",
+      "Excalibur",
+      "Frostmourne",
+      "Kokiri Sword",
+      "Biggoron's Sword",
+      "Soul Edge"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Video Games",
+    "difficulty": "easy",
+    "id": "78d35b57-8f6b-45fc-8378-bacbe5af446e",
+    "created_at": "2025-04-13T02:08:39.479Z",
+    "backupTimestamp": "2025-04-13T02:08:39.479Z",
+    "localBackupTimestamp": "2025-04-12T20:08:39.479Z"
+  },
+  {
+    "question": "What is the best-selling video game console of all time?",
+    "correct_answer": "PlayStation 2",
+    "incorrect_answers": [
+      "Nintendo DS",
+      "Nintendo Switch",
+      "Game Boy / Game Boy Color",
+      "PlayStation 4",
+      "PlayStation",
+      "Wii",
+      "Xbox 360"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Video Games",
+    "difficulty": "easy",
+    "id": "b78fed7e-cce9-4552-a4e3-702911401fa9",
+    "created_at": "2025-04-13T02:08:39.483Z",
+    "backupTimestamp": "2025-04-13T02:08:39.483Z",
+    "localBackupTimestamp": "2025-04-12T20:08:39.483Z"
+  },
+  {
+    "question": "In 'Grand Theft Auto V', which city is the game primarily set in?",
+    "correct_answer": "Los Santos",
+    "incorrect_answers": [
+      "Liberty City",
+      "Vice City",
+      "San Fierro",
+      "Las Venturas",
+      "Anywhere City",
+      "Carcer City",
+      "Alderney City"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Video Games",
+    "difficulty": "easy",
+    "id": "133e0124-6307-471f-97fb-ea0625545659",
+    "created_at": "2025-04-13T02:08:39.487Z",
+    "backupTimestamp": "2025-04-13T02:08:39.487Z",
+    "localBackupTimestamp": "2025-04-12T20:08:39.487Z"
+  },
+  {
+    "question": "What is the name of the virtual pet popular in the late 1990s?",
+    "correct_answer": "Tamagotchi",
+    "incorrect_answers": [
+      "Furby",
+      "Neopet",
+      "Digimon",
+      "Giga Pet",
+      "Nintendogs",
+      "Pokémon",
+      "Webkinz"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Video Games",
+    "difficulty": "easy",
+    "id": "2eef0396-f5cf-4fee-8ef8-f5b846fc9d00",
+    "created_at": "2025-04-13T02:08:39.490Z",
+    "backupTimestamp": "2025-04-13T02:08:39.490Z",
+    "localBackupTimestamp": "2025-04-12T20:08:39.490Z"
+  },
+  {
+    "question": "Which game features crafting, exploring, and surviving on an island with dinosaurs?",
+    "correct_answer": "ARK: Survival Evolved",
+    "incorrect_answers": [
+      "Minecraft",
+      "Rust",
+      "The Forest",
+      "Subnautica",
+      "Terraria",
+      "Don't Starve",
+      "Valheim"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Video Games",
+    "difficulty": "easy",
+    "id": "58c3f05f-6b7e-4d86-87a6-3a7b1b0b0aa2",
+    "created_at": "2025-04-13T02:08:39.493Z",
+    "backupTimestamp": "2025-04-13T02:08:39.493Z",
+    "localBackupTimestamp": "2025-04-12T20:08:39.493Z"
+  },
+  {
+    "question": "What is the typical reward for completing a level in a 'Super Mario' platformer?",
+    "correct_answer": "Reaching a Flagpole",
+    "incorrect_answers": [
+      "Defeating a Boss",
+      "Collecting a Star",
+      "Finding a Key",
+      "Opening a Chest",
+      "Solving a Puzzle",
+      "Rescuing a Character",
+      "Getting a High Score"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Video Games",
+    "difficulty": "easy",
+    "id": "db7cd618-91c3-40ff-8ffc-1b33f972c0e5",
+    "created_at": "2025-04-13T02:08:39.496Z",
+    "backupTimestamp": "2025-04-13T02:08:39.496Z",
+    "localBackupTimestamp": "2025-04-12T20:08:39.496Z"
+  },
+  {
+    "question": "What does 'XP' or 'EXP' usually stand for in RPGs?",
+    "correct_answer": "Experience Points",
+    "incorrect_answers": [
+      "Extra Power",
+      "Expert Points",
+      "Exploration Progress",
+      "Extreme Performance",
+      "Exchange Program",
+      "Execution Power",
+      "Exhaustion Penalty"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Video Games",
+    "difficulty": "easy",
+    "id": "9bb98f2b-3039-4d5f-bdbb-ab7c1a5117d2",
+    "created_at": "2025-04-13T02:08:39.499Z",
+    "backupTimestamp": "2025-04-13T02:08:39.500Z",
+    "localBackupTimestamp": "2025-04-12T20:08:39.500Z"
+  },
+  {
+    "question": "Which sport is the focus of the 'FIFA' video game series?",
+    "correct_answer": "Soccer (Association Football)",
+    "incorrect_answers": [
+      "American Football",
+      "Basketball",
+      "Baseball",
+      "Ice Hockey",
+      "Golf",
+      "Tennis",
+      "Racing"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Video Games",
+    "difficulty": "easy",
+    "id": "93b8e279-a743-45fa-85bd-a4b897296dcc",
+    "created_at": "2025-04-13T02:08:39.503Z",
+    "backupTimestamp": "2025-04-13T02:08:39.503Z",
+    "localBackupTimestamp": "2025-04-12T20:08:39.503Z"
+  },
+  {
+    "question": "What color is the default 'Among Us' crewmate often depicted in promotional material?",
+    "correct_answer": "Red",
+    "incorrect_answers": [
+      "Blue",
+      "Green",
+      "Yellow",
+      "Pink",
+      "Black",
+      "White",
+      "Purple"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Video Games",
+    "difficulty": "easy",
+    "id": "c68c92d1-6828-4831-9861-ec8870959122",
+    "created_at": "2025-04-13T02:08:39.506Z",
+    "backupTimestamp": "2025-04-13T02:08:39.507Z",
+    "localBackupTimestamp": "2025-04-12T20:08:39.507Z"
+  },
+  {
+    "question": "What handheld console was Nintendo's successor to the Game Boy Advance?",
+    "correct_answer": "Nintendo DS",
+    "incorrect_answers": [
+      "Game Boy Color",
+      "Nintendo 3DS",
+      "PlayStation Portable (PSP)",
+      "Game Gear",
+      "Wii U GamePad",
+      "Virtual Boy",
+      "PocketStation"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Video Games",
+    "difficulty": "easy",
+    "id": "6a7debda-7e0a-4dcc-b3b9-a3fda08d3739",
+    "created_at": "2025-04-13T02:08:39.509Z",
+    "backupTimestamp": "2025-04-13T02:08:39.509Z",
+    "localBackupTimestamp": "2025-04-12T20:08:39.509Z"
+  },
+  {
+    "question": "What is the name of the princess Mario frequently rescues?",
+    "correct_answer": "Princess Peach",
+    "incorrect_answers": [
+      "Princess Zelda",
+      "Princess Daisy",
+      "Rosalina",
+      "Pauline",
+      "Toadette",
+      "Wendy O. Koopa",
+      "Samus Aran"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Video Games",
+    "difficulty": "easy",
+    "id": "47bab84a-0f8b-49b7-876f-52ee38ec4962",
+    "created_at": "2025-04-13T02:08:39.512Z",
+    "backupTimestamp": "2025-04-13T02:08:39.512Z",
+    "localBackupTimestamp": "2025-04-12T20:08:39.512Z"
+  },
+  {
+    "question": "Which company publishes the 'Call of Duty' series?",
+    "correct_answer": "Activision",
+    "incorrect_answers": [
+      "Electronic Arts (EA)",
+      "Ubisoft",
+      "Take-Two Interactive",
+      "Bethesda Softworks",
+      "Square Enix",
+      "Nintendo",
+      "Sony Interactive Entertainment"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Video Games",
+    "difficulty": "easy",
+    "id": "1d601577-f1a7-4583-8888-6cb822ba2b83",
+    "created_at": "2025-04-13T02:08:39.515Z",
+    "backupTimestamp": "2025-04-13T02:08:39.515Z",
+    "localBackupTimestamp": "2025-04-12T20:08:39.515Z"
+  },
+  {
+    "question": "In 'The Sims', what are the controllable characters called?",
+    "correct_answer": "Sims",
+    "incorrect_answers": [
+      "Avatars",
+      "Humans",
+      "People",
+      "Characters",
+      "Dolls",
+      "Citizens",
+      "Residents"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Video Games",
+    "difficulty": "easy",
+    "id": "e7aeb86f-3d15-4189-a2b8-fe66ca008b79",
+    "created_at": "2025-04-13T02:08:39.518Z",
+    "backupTimestamp": "2025-04-13T02:08:39.518Z",
+    "localBackupTimestamp": "2025-04-12T20:08:39.518Z"
+  },
+  {
+    "question": "What is the primary gameplay mechanic in the 'Portal' series?",
+    "correct_answer": "Creating interconnected portals",
+    "incorrect_answers": [
+      "Shooting aliens",
+      "Driving vehicles",
+      "Building structures",
+      "Solving tile-matching puzzles",
+      "Managing a city",
+      "Platforming across gaps",
+      "Using time manipulation"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Video Games",
+    "difficulty": "easy",
+    "id": "f8142606-b597-40d5-ad72-5f09a70a9de1",
+    "created_at": "2025-04-13T02:08:39.520Z",
+    "backupTimestamp": "2025-04-13T02:08:39.521Z",
+    "localBackupTimestamp": "2025-04-12T20:08:39.521Z"
+  },
+  {
+    "question": "Which racing game series features blue shells that target the player in first place?",
+    "correct_answer": "Mario Kart",
+    "incorrect_answers": [
+      "Gran Turismo",
+      "Forza Motorsport",
+      "Need for Speed",
+      "Crash Team Racing",
+      "F-Zero",
+      "Wipeout",
+      "Burnout"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Video Games",
+    "difficulty": "easy",
+    "id": "f6813f5a-e0dc-464e-9dec-848757580823",
+    "created_at": "2025-04-13T02:08:39.523Z",
+    "backupTimestamp": "2025-04-13T02:08:39.524Z",
+    "localBackupTimestamp": "2025-04-12T20:08:39.524Z"
+  },
+  {
+    "question": "What is the main collectible item in most 'Sonic the Hedgehog' games?",
+    "correct_answer": "Rings",
+    "incorrect_answers": [
+      "Coins",
+      "Stars",
+      "Emeralds",
+      "Mushrooms",
+      "Bananas",
+      "Gems",
+      "Bolts"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Video Games",
+    "difficulty": "easy",
+    "id": "8ef1b465-373c-44d1-bbee-3da180374aac",
+    "created_at": "2025-04-13T02:08:39.526Z",
+    "backupTimestamp": "2025-04-13T02:08:39.527Z",
+    "localBackupTimestamp": "2025-04-12T20:08:39.527Z"
+  },
+  {
+    "question": "What is the name of the silent protagonist in the 'Half-Life' series?",
+    "correct_answer": "Gordon Freeman",
+    "incorrect_answers": [
+      "Alyx Vance",
+      "Barney Calhoun",
+      "Isaac Clarke",
+      "Master Chief",
+      "Doomguy",
+      "Chell",
+      "Adam Jensen"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Video Games",
+    "difficulty": "easy",
+    "id": "b75b3dda-4acb-41c6-b444-94e79f2e129a",
+    "created_at": "2025-04-13T02:08:39.529Z",
+    "backupTimestamp": "2025-04-13T02:08:39.530Z",
+    "localBackupTimestamp": "2025-04-12T20:08:39.530Z"
+  },
+  {
+    "question": "What type of creature is Yoshi from the 'Super Mario' series?",
+    "correct_answer": "Dinosaur",
+    "incorrect_answers": [
+      "Dragon",
+      "Turtle",
+      "Lizard",
+      "Frog",
+      "Koopa",
+      "Bird",
+      "Alien"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Video Games",
+    "difficulty": "easy",
+    "id": "7c03def1-d91f-4a76-9a54-9317cc183385",
+    "created_at": "2025-04-13T02:08:39.532Z",
+    "backupTimestamp": "2025-04-13T02:08:39.533Z",
+    "localBackupTimestamp": "2025-04-12T20:08:39.533Z"
+  },
+  {
+    "question": "Which fighting game series includes characters like Scorpion and Sub-Zero?",
+    "correct_answer": "Mortal Kombat",
+    "incorrect_answers": [
+      "Street Fighter",
+      "Tekken",
+      "Super Smash Bros.",
+      "Killer Instinct",
+      "Soulcalibur",
+      "Guilty Gear",
+      "King of Fighters"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Video Games",
+    "difficulty": "easy",
+    "id": "d81a796b-536c-4df0-b5d7-83e3386b3ab9",
+    "created_at": "2025-04-13T02:08:39.535Z",
+    "backupTimestamp": "2025-04-13T02:08:39.536Z",
+    "localBackupTimestamp": "2025-04-12T20:08:39.536Z"
+  },
+  {
+    "question": "What is the name of the galaxy where the 'Mass Effect' trilogy primarily takes place?",
+    "correct_answer": "Milky Way",
+    "incorrect_answers": [
+      "Andromeda",
+      "Triangulum",
+      "Pegasus",
+      "Whirlpool",
+      "Pinwheel",
+      "Sombrero",
+      "Heleus Cluster"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Video Games",
+    "difficulty": "easy",
+    "id": "5aa3c65d-cb78-4299-96ee-4d804369c123",
+    "created_at": "2025-04-13T02:08:39.538Z",
+    "backupTimestamp": "2025-04-13T02:08:39.538Z",
+    "localBackupTimestamp": "2025-04-12T20:08:39.538Z"
+  },
+  {
+    "question": "What is the goal in the classic arcade game 'Space Invaders'?",
+    "correct_answer": "Shoot descending aliens",
+    "incorrect_answers": [
+      "Navigate a maze",
+      "Collect pellets",
+      "Rescue a princess",
+      "Build a base",
+      "Fly through rings",
+      "Destroy asteroids",
+      "Race spaceships"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Video Games",
+    "difficulty": "easy",
+    "id": "60eedc9b-218b-486e-9654-dfe38c4091fa",
+    "created_at": "2025-04-13T02:08:39.541Z",
+    "backupTimestamp": "2025-04-13T02:08:39.542Z",
+    "localBackupTimestamp": "2025-04-12T20:08:39.542Z"
+  },
+  {
+    "question": "What object do Pokémon trainers use to catch wild Pokémon?",
+    "correct_answer": "Poké Ball",
+    "incorrect_answers": [
+      "Pokédex",
+      "Potion",
+      "Net",
+      "Lure",
+      "Trap",
+      "Capture Card",
+      "Trainer Badge"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Video Games",
+    "difficulty": "easy",
+    "id": "89be6f21-d197-45ce-a173-263614fb8592",
+    "created_at": "2025-04-13T02:08:39.544Z",
+    "backupTimestamp": "2025-04-13T02:08:39.544Z",
+    "localBackupTimestamp": "2025-04-12T20:08:39.544Z"
+  },
+  {
+    "question": "Which Nintendo console first introduced the D-pad (Directional Pad)?",
+    "correct_answer": "NES (Nintendo Entertainment System)",
+    "incorrect_answers": [
+      "Game Boy",
+      "SNES (Super Nintendo Entertainment System)",
+      "Nintendo 64",
+      "Atari 2600",
+      "ColecoVision",
+      "Intellivision",
+      "Game & Watch"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Video Games",
+    "difficulty": "easy",
+    "id": "87e4480d-210a-4f38-a80e-22f277d70b40",
+    "created_at": "2025-04-13T02:08:39.547Z",
+    "backupTimestamp": "2025-04-13T02:08:39.547Z",
+    "localBackupTimestamp": "2025-04-12T20:08:39.547Z"
+  },
+  {
+    "question": "What does the acronym 'NPC' stand for in video games?",
+    "correct_answer": "Non-Player Character",
+    "incorrect_answers": [
+      "New Player Character",
+      "Networked Player Control",
+      "No Playable Content",
+      "Narrative Point Changer",
+      "Necessary Plot Component",
+      "Neutral Party Combatant",
+      "Not Presently Controlled"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Video Games",
+    "difficulty": "easy",
+    "id": "428d76e2-0c3f-41de-900c-8e285c8d09c8",
+    "created_at": "2025-04-13T02:08:39.549Z",
+    "backupTimestamp": "2025-04-13T02:08:39.550Z",
+    "localBackupTimestamp": "2025-04-12T20:08:39.550Z"
+  },
+  {
+    "question": "Which popular life simulation game allows players to live on a deserted island with anthropomorphic animals?",
+    "correct_answer": "Animal Crossing: New Horizons",
+    "incorrect_answers": [
+      "The Sims 4: Island Living",
+      "Stardew Valley",
+      "Harvest Moon: Light of Hope",
+      "My Time at Portia",
+      "Terraria",
+      "Minecraft",
+      "Story of Seasons: Pioneers of Olive Town"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Video Games",
+    "difficulty": "easy",
+    "id": "1c346c2a-448a-4208-bb65-1fda0aa4f355",
+    "created_at": "2025-04-13T02:08:39.552Z",
+    "backupTimestamp": "2025-04-13T02:08:39.552Z",
+    "localBackupTimestamp": "2025-04-12T20:08:39.552Z"
+  },
+  {
+    "question": "What is the name of the organization Solid Snake often opposes in the 'Metal Gear' series?",
+    "correct_answer": "FOXHOUND",
+    "incorrect_answers": [
+      "Umbrella Corporation",
+      "The Patriots",
+      "Abstergo Industries",
+      "Shinra Electric Power Company",
+      "Cerberus",
+      "The Templars",
+      "Cipher"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Video Games",
+    "difficulty": "easy",
+    "id": "9b918e4f-9ac8-4298-b3f1-99b8f6169ac6",
+    "created_at": "2025-04-13T02:08:39.555Z",
+    "backupTimestamp": "2025-04-13T02:08:39.556Z",
+    "localBackupTimestamp": "2025-04-12T20:08:39.556Z"
+  },
+  {
+    "question": "In 'League of Legends' or 'Dota 2', what term describes the main path where computer-controlled units march?",
+    "correct_answer": "Lane",
+    "incorrect_answers": [
+      "Road",
+      "Jungle",
+      "Path",
+      "Corridor",
+      "River",
+      "Base",
+      "Nexus"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Video Games",
+    "difficulty": "easy",
+    "id": "3e864e3b-4086-42a4-a646-bef4903b4f36",
+    "created_at": "2025-04-13T02:08:39.558Z",
+    "backupTimestamp": "2025-04-13T02:08:39.558Z",
+    "localBackupTimestamp": "2025-04-12T20:08:39.558Z"
+  },
+  {
+    "question": "Which game franchise is known for its 'Fatality' finishing moves?",
+    "correct_answer": "Mortal Kombat",
+    "incorrect_answers": [
+      "Street Fighter",
+      "Tekken",
+      "Killer Instinct",
+      "Guilty Gear",
+      "BlazBlue",
+      "Soulcalibur",
+      "Super Smash Bros."
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Video Games",
+    "difficulty": "easy",
+    "id": "836b86f4-5153-4de1-9217-7489488e5285",
+    "created_at": "2025-04-13T02:08:39.561Z",
+    "backupTimestamp": "2025-04-13T02:08:39.561Z",
+    "localBackupTimestamp": "2025-04-12T20:08:39.561Z"
+  },
+  {
+    "question": "What is the primary resource collected in the 'StarCraft' series?",
+    "correct_answer": "Minerals",
+    "incorrect_answers": [
+      "Gold",
+      "Wood",
+      "Vespene Gas",
+      "Tiberium",
+      "Spice",
+      "Energy",
+      "Scrap"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Video Games",
+    "difficulty": "easy",
+    "id": "2a03d7c1-9a75-4fe2-ab02-6fd3a450e4e6",
+    "created_at": "2025-04-13T02:08:39.564Z",
+    "backupTimestamp": "2025-04-13T02:08:39.564Z",
+    "localBackupTimestamp": "2025-04-12T20:08:39.564Z"
+  },
+  {
+    "question": "Which 'Final Fantasy' character wields the iconic Buster Sword?",
+    "correct_answer": "Cloud Strife",
+    "incorrect_answers": [
+      "Squall Leonhart",
+      "Tidus",
+      "Zack Fair",
+      "Sephiroth",
+      "Noctis Lucis Caelum",
+      "Cecil Harvey",
+      "Lightning"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Video Games",
+    "difficulty": "easy",
+    "id": "408b18f4-7a04-46b3-bba3-a4e5fbbc1732",
+    "created_at": "2025-04-13T02:08:39.566Z",
+    "backupTimestamp": "2025-04-13T02:08:39.567Z",
+    "localBackupTimestamp": "2025-04-12T20:08:39.567Z"
+  },
+  {
+    "question": "What genre of game is 'Candy Crush Saga'?",
+    "correct_answer": "Match-three Puzzle",
+    "incorrect_answers": [
+      "Platformer",
+      "Endless Runner",
+      "City Builder",
+      "RPG",
+      "Tower Defense",
+      "Card Game",
+      "Word Game"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Video Games",
+    "difficulty": "easy",
+    "id": "9cf227e9-2500-4911-9c20-679c8826e2e3",
+    "created_at": "2025-04-13T02:08:39.569Z",
+    "backupTimestamp": "2025-04-13T02:08:39.570Z",
+    "localBackupTimestamp": "2025-04-12T20:08:39.570Z"
+  },
+  {
+    "question": "In 'The Legend of Zelda: Ocarina of Time', what instrument does Link primarily use?",
+    "correct_answer": "Ocarina",
+    "incorrect_answers": [
+      "Flute",
+      "Harp",
+      "Guitar",
+      "Drums",
+      "Trumpet",
+      "Violin",
+      "Pan Pipes"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Video Games",
+    "difficulty": "medium",
+    "id": "8344675a-0948-413e-8a4f-022d60027b69",
+    "created_at": "2025-04-13T02:08:39.572Z",
+    "backupTimestamp": "2025-04-13T02:08:39.572Z",
+    "localBackupTimestamp": "2025-04-12T20:08:39.572Z"
+  },
+  {
+    "question": "Which developer created the 'Dark Souls' series?",
+    "correct_answer": "FromSoftware",
+    "incorrect_answers": [
+      "Capcom",
+      "Square Enix",
+      "Bethesda Game Studios",
+      "CD Projekt Red",
+      "Naughty Dog",
+      "Rockstar Games",
+      "BioWare"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Video Games",
+    "difficulty": "medium",
+    "id": "bd4d50b1-dad3-47fc-8ffc-5fc293c4a8a2",
+    "created_at": "2025-04-13T02:08:39.575Z",
+    "backupTimestamp": "2025-04-13T02:08:39.576Z",
+    "localBackupTimestamp": "2025-04-12T20:08:39.576Z"
+  },
+  {
+    "question": "What is the name of the AI antagonist in the 'Portal' series?",
+    "correct_answer": "GLaDOS",
+    "incorrect_answers": [
+      "SHODAN",
+      "Cortana",
+      "HAL 9000",
+      "Skynet",
+      "VIKI",
+      "Durandal",
+      "Wheatley"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Video Games",
+    "difficulty": "medium",
+    "id": "5e04dc8d-1930-4258-8546-5836d9476d06",
+    "created_at": "2025-04-13T02:08:39.578Z",
+    "backupTimestamp": "2025-04-13T02:08:39.579Z",
+    "localBackupTimestamp": "2025-04-12T20:08:39.579Z"
+  },
+  {
+    "question": "In 'Red Dead Redemption 2', what is the name of the protagonist?",
+    "correct_answer": "Arthur Morgan",
+    "incorrect_answers": [
+      "John Marston",
+      "Dutch van der Linde",
+      "Micah Bell",
+      "Sadie Adler",
+      "Hosea Matthews",
+      "Bill Williamson",
+      "Javier Escuella"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Video Games",
+    "difficulty": "medium",
+    "id": "d3417945-629b-40d2-9e8e-87d40a8ef49f",
+    "created_at": "2025-04-13T02:08:39.582Z",
+    "backupTimestamp": "2025-04-13T02:08:39.583Z",
+    "localBackupTimestamp": "2025-04-12T20:08:39.583Z"
+  },
+  {
+    "question": "What type of energy source powers the Lancer rifle's chainsaw bayonet in 'Gears of War'?",
+    "correct_answer": "Internal Combustion",
+    "incorrect_answers": [
+      "Imulsion",
+      "Electric Charge",
+      "Plasma Core",
+      "Kinetic Energy",
+      "Solar Power",
+      "Nuclear Fission",
+      "Compressed Air"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Video Games",
+    "difficulty": "medium",
+    "id": "70f26c68-211e-4db7-8be9-72919b29fa5c",
+    "created_at": "2025-04-13T02:08:39.585Z",
+    "backupTimestamp": "2025-04-13T02:08:39.586Z",
+    "localBackupTimestamp": "2025-04-12T20:08:39.586Z"
+  },
+  {
+    "question": "Which game engine was famously used for 'Unreal Tournament', 'Gears of War', and 'BioShock'?",
+    "correct_answer": "Unreal Engine",
+    "incorrect_answers": [
+      "Source Engine",
+      "id Tech",
+      "CryEngine",
+      "Frostbite Engine",
+      "Unity",
+      "Creation Engine",
+      "RE Engine"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Video Games",
+    "difficulty": "medium",
+    "id": "af0b53ce-a028-409b-9935-8b0be348e729",
+    "created_at": "2025-04-13T02:08:39.588Z",
+    "backupTimestamp": "2025-04-13T02:08:39.589Z",
+    "localBackupTimestamp": "2025-04-12T20:08:39.589Z"
+  },
+  {
+    "question": "In 'Stardew Valley', what is the name of the town where the player moves?",
+    "correct_answer": "Pelican Town",
+    "incorrect_answers": [
+      "Mineral Town",
+      "Olive Town",
+      "Forget-Me-Not Valley",
+      "Harmony Town",
+      "Willow Creek",
+      "Oasis Springs",
+      "Stardew City"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Video Games",
+    "difficulty": "medium",
+    "id": "e7b3d411-c5c7-49d2-b991-6a72a3219190",
+    "created_at": "2025-04-13T02:08:39.591Z",
+    "backupTimestamp": "2025-04-13T02:08:39.592Z",
+    "localBackupTimestamp": "2025-04-12T20:08:39.592Z"
+  },
+  {
+    "question": "What is the name of the primary currency in the 'Animal Crossing' series?",
+    "correct_answer": "Bells",
+    "incorrect_answers": [
+      "Rupees",
+      "Gold",
+      "Nook Miles",
+      "Coins",
+      "Gil",
+      "Zenny",
+      "Leaf Tickets"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Video Games",
+    "difficulty": "medium",
+    "id": "306dd1b8-fbbf-4969-8393-12804e1f04c5",
+    "created_at": "2025-04-13T02:08:39.594Z",
+    "backupTimestamp": "2025-04-13T02:08:39.595Z",
+    "localBackupTimestamp": "2025-04-12T20:08:39.595Z"
+  },
+  {
+    "question": "Which Konami game series involves sneaking past guards, often using a cardboard box?",
+    "correct_answer": "Metal Gear",
+    "incorrect_answers": [
+      "Silent Hill",
+      "Castlevania",
+      "Contra",
+      "Suikoden",
+      "Splinter Cell",
+      "Hitman",
+      "Thief"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Video Games",
+    "difficulty": "medium",
+    "id": "90924b75-64ca-460a-ab32-72ac6bbfbad2",
+    "created_at": "2025-04-13T02:08:39.599Z",
+    "backupTimestamp": "2025-04-13T02:08:39.600Z",
+    "localBackupTimestamp": "2025-04-12T20:08:39.600Z"
+  },
+  {
+    "question": "What artifact is the central object of desire for Nathan Drake in 'Uncharted: Drake's Fortune'?",
+    "correct_answer": "El Dorado",
+    "incorrect_answers": [
+      "The Cintamani Stone",
+      "Iram of the Pillars",
+      "Libertalia",
+      "The Ark of the Covenant",
+      "The Holy Grail",
+      "Shangri-La",
+      "Shambhala"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Video Games",
+    "difficulty": "medium",
+    "id": "87f24cf8-db46-418b-8da8-1a387e3edd12",
+    "created_at": "2025-04-13T02:08:39.603Z",
+    "backupTimestamp": "2025-04-13T02:08:39.604Z",
+    "localBackupTimestamp": "2025-04-12T20:08:39.604Z"
+  },
+  {
+    "question": "Which character class in 'World of Warcraft' can transform into animal forms like Bear and Cat?",
+    "correct_answer": "Druid",
+    "incorrect_answers": [
+      "Shaman",
+      "Hunter",
+      "Warrior",
+      "Mage",
+      "Warlock",
+      "Paladin",
+      "Rogue"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Video Games",
+    "difficulty": "medium",
+    "id": "4c8c487d-d76d-4d4a-952e-4d82eb0fb448",
+    "created_at": "2025-04-13T02:08:39.608Z",
+    "backupTimestamp": "2025-04-13T02:08:39.608Z",
+    "localBackupTimestamp": "2025-04-12T20:08:39.608Z"
+  },
+  {
+    "question": "What is the name of the virus responsible for the zombie outbreak in the 'Resident Evil' series?",
+    "correct_answer": "T-Virus",
+    "incorrect_answers": [
+      "G-Virus",
+      "C-Virus",
+      "Uroboros Virus",
+      "Las Plagas",
+      "Progenitor Virus",
+      "Green Flu",
+      "Cordyceps Fungus"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Video Games",
+    "difficulty": "medium",
+    "id": "dae26196-aa7d-48d7-99be-87f2c076b1a1",
+    "created_at": "2025-04-13T02:08:39.611Z",
+    "backupTimestamp": "2025-04-13T02:08:39.612Z",
+    "localBackupTimestamp": "2025-04-12T20:08:39.612Z"
+  },
+  {
+    "question": "In 'Super Smash Bros.', what is Kirby's signature ability?",
+    "correct_answer": "Copy",
+    "incorrect_answers": [
+      "Inhale",
+      "Float",
+      "Hammer Flip",
+      "Final Cutter",
+      "Stone",
+      "Cook",
+      "Warp Star"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Video Games",
+    "difficulty": "medium",
+    "id": "02950589-e5b7-45bb-9669-99caa4e7af2a",
+    "created_at": "2025-04-13T02:08:39.615Z",
+    "backupTimestamp": "2025-04-13T02:08:39.616Z",
+    "localBackupTimestamp": "2025-04-12T20:08:39.616Z"
+  },
+  {
+    "question": "Which famous game designer created 'Metal Gear' and 'Death Stranding'?",
+    "correct_answer": "Hideo Kojima",
+    "incorrect_answers": [
+      "Shigeru Miyamoto",
+      "Sid Meier",
+      "Will Wright",
+      "John Carmack",
+      "Gabe Newell",
+      "Ken Levine",
+      "Todd Howard"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Video Games",
+    "difficulty": "medium",
+    "id": "c8a95446-abf8-47f2-9fbc-1d97c2a1d4c1",
+    "created_at": "2025-04-13T02:08:39.619Z",
+    "backupTimestamp": "2025-04-13T02:08:39.619Z",
+    "localBackupTimestamp": "2025-04-12T20:08:39.619Z"
+  },
+  {
+    "question": "What is the name of the protagonist's ship in 'Mass Effect'?",
+    "correct_answer": "Normandy",
+    "incorrect_answers": [
+      "Tempest",
+      "Ebon Hawk",
+      "Millennium Falcon",
+      "Serenity",
+      "Pillar of Autumn",
+      "USG Ishimura",
+      "Von Braun"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Video Games",
+    "difficulty": "medium",
+    "id": "8fb0e858-3be8-4288-8af9-1d956b6756a7",
+    "created_at": "2025-04-13T02:08:39.621Z",
+    "backupTimestamp": "2025-04-13T02:08:39.622Z",
+    "localBackupTimestamp": "2025-04-12T20:08:39.622Z"
+  },
+  {
+    "question": "In 'The Elder Scrolls V: Skyrim', what are the shouts used by the Dragonborn called?",
+    "correct_answer": "Thu'um",
+    "incorrect_answers": [
+      "Dragon Calls",
+      "Voice Powers",
+      "Roars",
+      "Word Walls",
+      "Dragon Tongue",
+      "Soul Chants",
+      "Power Words"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Video Games",
+    "difficulty": "medium",
+    "id": "d37a54d1-dc49-4ba6-939f-a3c8fdbd4af0",
+    "created_at": "2025-04-13T02:08:39.624Z",
+    "backupTimestamp": "2025-04-13T02:08:39.624Z",
+    "localBackupTimestamp": "2025-04-12T20:08:39.624Z"
+  },
+  {
+    "question": "What does the 'S' in 'NES' stand for?",
+    "correct_answer": "System",
+    "incorrect_answers": [
+      "Super",
+      "Station",
+      "Standard",
+      "Stereo",
+      "Service",
+      "Software",
+      "Special"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Video Games",
+    "difficulty": "medium",
+    "id": "b318f630-8ccf-41fa-9d21-cbd6cc57eadc",
+    "created_at": "2025-04-13T02:08:39.627Z",
+    "backupTimestamp": "2025-04-13T02:08:39.628Z",
+    "localBackupTimestamp": "2025-04-12T20:08:39.628Z"
+  },
+  {
+    "question": "Which indie game features a character named Sans and involves choosing between Pacifist, Neutral, and Genocide routes?",
+    "correct_answer": "Undertale",
+    "incorrect_answers": [
+      "Celeste",
+      "Hollow Knight",
+      "Stardew Valley",
+      "Shovel Knight",
+      "Cuphead",
+      "Braid",
+      "Fez"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Video Games",
+    "difficulty": "medium",
+    "id": "16109bdb-b258-4174-8c11-4fed1818d9c0",
+    "created_at": "2025-04-13T02:08:39.630Z",
+    "backupTimestamp": "2025-04-13T02:08:39.630Z",
+    "localBackupTimestamp": "2025-04-12T20:08:39.630Z"
+  },
+  {
+    "question": "What item is used to revive fainted Pokémon outside of battle?",
+    "correct_answer": "Revive",
+    "incorrect_answers": [
+      "Potion",
+      "Max Revive",
+      "Full Restore",
+      "Elixir",
+      "Sacred Ash",
+      "Ether",
+      "Full Heal"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Video Games",
+    "difficulty": "medium",
+    "id": "daddf678-1d63-486d-8474-2b42277ce2ae",
+    "created_at": "2025-04-13T02:08:39.633Z",
+    "backupTimestamp": "2025-04-13T02:08:39.633Z",
+    "localBackupTimestamp": "2025-04-12T20:08:39.633Z"
+  },
+  {
+    "question": "Which company developed the 'Witcher' series of games?",
+    "correct_answer": "CD Projekt Red",
+    "incorrect_answers": [
+      "BioWare",
+      "Bethesda Game Studios",
+      "FromSoftware",
+      "Obsidian Entertainment",
+      "Larian Studios",
+      "Ubisoft",
+      "Square Enix"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Video Games",
+    "difficulty": "medium",
+    "id": "eca640c7-8174-4481-a2b2-e8ea3f06c744",
+    "created_at": "2025-04-13T02:08:39.636Z",
+    "backupTimestamp": "2025-04-13T02:08:39.637Z",
+    "localBackupTimestamp": "2025-04-12T20:08:39.637Z"
+  },
+  {
+    "question": "In 'Team Fortress 2', which class is known for building Sentry Guns and Dispensers?",
+    "correct_answer": "Engineer",
+    "incorrect_answers": [
+      "Heavy",
+      "Medic",
+      "Spy",
+      "Demoman",
+      "Scout",
+      "Soldier",
+      "Pyro"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Video Games",
+    "difficulty": "medium",
+    "id": "6bc4f713-1c50-460c-bbbd-1e61ca9bf216",
+    "created_at": "2025-04-13T02:08:39.640Z",
+    "backupTimestamp": "2025-04-13T02:08:39.641Z",
+    "localBackupTimestamp": "2025-04-12T20:08:39.641Z"
+  },
+  {
+    "question": "What year was the original 'Doom' first released?",
+    "correct_answer": "1993",
+    "incorrect_answers": [
+      "1991",
+      "1992",
+      "1994",
+      "1995",
+      "1996",
+      "1989",
+      "1990"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Video Games",
+    "difficulty": "medium",
+    "id": "2b174550-0b85-4eab-a479-12954814c429",
+    "created_at": "2025-04-13T02:08:39.644Z",
+    "backupTimestamp": "2025-04-13T02:08:39.645Z",
+    "localBackupTimestamp": "2025-04-12T20:08:39.645Z"
+  },
+  {
+    "question": "What is the name of the fictional city where 'BioShock' takes place?",
+    "correct_answer": "Rapture",
+    "incorrect_answers": [
+      "Columbia",
+      "Dunwall",
+      "City 17",
+      "Midgar",
+      "Gotham City",
+      "Silent Hill",
+      "Raccoon City"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Video Games",
+    "difficulty": "medium",
+    "id": "c901ce0c-bf31-4234-9ba5-5851e5af1d97",
+    "created_at": "2025-04-13T02:08:39.648Z",
+    "backupTimestamp": "2025-04-13T02:08:39.648Z",
+    "localBackupTimestamp": "2025-04-12T20:08:39.648Z"
+  },
+  {
+    "question": "Which Sega console was known for its add-ons like the Sega CD and 32X?",
+    "correct_answer": "Sega Genesis (Mega Drive)",
+    "incorrect_answers": [
+      "Sega Master System",
+      "Sega Saturn",
+      "Sega Dreamcast",
+      "Game Gear",
+      "Sega Nomad",
+      "SG-1000",
+      "Pico"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Video Games",
+    "difficulty": "medium",
+    "id": "ddb475fb-5309-4772-ae84-b2ac0f6902ec",
+    "created_at": "2025-04-13T02:08:39.651Z",
+    "backupTimestamp": "2025-04-13T02:08:39.652Z",
+    "localBackupTimestamp": "2025-04-12T20:08:39.652Z"
+  },
+  {
+    "question": "What power does the protagonist Max Caulfield discover in 'Life is Strange'?",
+    "correct_answer": "Rewinding Time",
+    "incorrect_answers": [
+      "Telekinesis",
+      "Teleportation",
+      "Mind Reading",
+      "Super Speed",
+      "Invisibility",
+      "Precognition",
+      "Super Strength"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Video Games",
+    "difficulty": "medium",
+    "id": "b5afbf83-d242-498b-8dd3-30220e626cd9",
+    "created_at": "2025-04-13T02:08:39.654Z",
+    "backupTimestamp": "2025-04-13T02:08:39.655Z",
+    "localBackupTimestamp": "2025-04-12T20:08:39.655Z"
+  },
+  {
+    "question": "What is the primary weapon type used by Samus Aran in the 'Metroid' series?",
+    "correct_answer": "Arm Cannon",
+    "incorrect_answers": [
+      "Plasma Rifle",
+      "Laser Sword",
+      "Power Beam",
+      "Charge Beam",
+      "Shotgun",
+      "Missile Launcher",
+      "Whip"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Video Games",
+    "difficulty": "medium",
+    "id": "b5f838af-3f59-48f2-a4e0-e665f895fcf8",
+    "created_at": "2025-04-13T02:08:39.657Z",
+    "backupTimestamp": "2025-04-13T02:08:39.658Z",
+    "localBackupTimestamp": "2025-04-12T20:08:39.658Z"
+  },
+  {
+    "question": "In 'Overwatch', what is Tracer's signature catchphrase?",
+    "correct_answer": "Cheers, love! The cavalry's here!",
+    "incorrect_answers": [
+      "Justice rains from above!",
+      "Heroes never die!",
+      "I've got you in my sights.",
+      "Nerf this!",
+      "Death walks among you.",
+      "Ryūjin no ken wo kurae!",
+      "Ever get that feeling of déjà vu?"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Video Games",
+    "difficulty": "medium",
+    "id": "8075e125-d190-40e1-b774-03866bf502ab",
+    "created_at": "2025-04-13T02:08:39.660Z",
+    "backupTimestamp": "2025-04-13T02:08:39.661Z",
+    "localBackupTimestamp": "2025-04-12T20:08:39.661Z"
+  },
+  {
+    "question": "What is the subtitle of the third main installment in the 'Fallout' series, developed by Bethesda?",
+    "correct_answer": "Fallout 3",
+    "incorrect_answers": [
+      "Fallout: New Vegas",
+      "Fallout 4",
+      "Fallout 76",
+      "Fallout Shelter",
+      "Fallout 2",
+      "Fallout: Brotherhood of Steel",
+      "Fallout Tactics"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Video Games",
+    "difficulty": "medium",
+    "id": "a18208cd-f0a0-4ee9-a5f7-91debc06055d",
+    "created_at": "2025-04-13T02:08:39.663Z",
+    "backupTimestamp": "2025-04-13T02:08:39.664Z",
+    "localBackupTimestamp": "2025-04-12T20:08:39.664Z"
+  },
+  {
+    "question": "Which game features the 'Nemesis System', where enemy orcs remember past encounters?",
+    "correct_answer": "Middle-earth: Shadow of Mordor",
+    "incorrect_answers": [
+      "Assassin's Creed Odyssey",
+      "The Witcher 3: Wild Hunt",
+      "Batman: Arkham Knight",
+      "Mad Max",
+      "Far Cry 5",
+      "Dragon Age: Inquisition",
+      "Mount & Blade II: Bannerlord"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Video Games",
+    "difficulty": "medium",
+    "id": "e79700ba-badb-493c-b4b2-544b598229ae",
+    "created_at": "2025-04-13T02:08:39.666Z",
+    "backupTimestamp": "2025-04-13T02:08:39.667Z",
+    "localBackupTimestamp": "2025-04-12T20:08:39.667Z"
+  },
+  {
+    "question": "What does 'DRM' stand for in the context of digital games?",
+    "correct_answer": "Digital Rights Management",
+    "incorrect_answers": [
+      "Direct Rendering Mode",
+      "Downloadable Resource Manager",
+      "Data Restriction Method",
+      "Digital Retail Market",
+      "Dynamic Resolution Matching",
+      "Developer Release Module",
+      "Distributed Resource Monitor"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Video Games",
+    "difficulty": "medium",
+    "id": "95c8d091-366b-426a-b7b2-6f52760733f9",
+    "created_at": "2025-04-13T02:08:39.669Z",
+    "backupTimestamp": "2025-04-13T02:08:39.670Z",
+    "localBackupTimestamp": "2025-04-12T20:08:39.670Z"
+  },
+  {
+    "question": "In the 'Kingdom Hearts' series, what is the main weapon used by the protagonist Sora?",
+    "correct_answer": "Keyblade",
+    "incorrect_answers": [
+      "Buster Sword",
+      "Master Sword",
+      "Gunblade",
+      "Energy Sword",
+      "Magic Staff",
+      "Soul Edge",
+      "Shield"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Video Games",
+    "difficulty": "medium",
+    "id": "ce54ef77-e51a-4656-acb0-4b2e92cda5a2",
+    "created_at": "2025-04-13T02:08:39.673Z",
+    "backupTimestamp": "2025-04-13T02:08:39.673Z",
+    "localBackupTimestamp": "2025-04-12T20:08:39.673Z"
+  },
+  {
+    "question": "What is the name of the iconic vehicle featured in the 'Twisted Metal' series?",
+    "correct_answer": "Sweet Tooth",
+    "incorrect_answers": [
+      "Roadkill",
+      "Darkside",
+      "Spectre",
+      "Thumper",
+      "Warthog",
+      "Outlaw",
+      "Mr. Grimm"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Video Games",
+    "difficulty": "medium",
+    "id": "be15f5f2-09b3-48af-a8cb-2666b2093548",
+    "created_at": "2025-04-13T02:08:39.675Z",
+    "backupTimestamp": "2025-04-13T02:08:39.676Z",
+    "localBackupTimestamp": "2025-04-12T20:08:39.676Z"
+  },
+  {
+    "question": "Which gaming peripheral allowed NES players to shoot targets on screen?",
+    "correct_answer": "NES Zapper",
+    "incorrect_answers": [
+      "Power Glove",
+      "Super Scope",
+      "Menacer",
+      "Arcade Stick",
+      "R.O.B.",
+      "Light Phaser",
+      "Action Set Gun"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Video Games",
+    "difficulty": "medium",
+    "id": "72fd7e97-3f8a-423c-a801-9209a3735955",
+    "created_at": "2025-04-13T02:08:39.678Z",
+    "backupTimestamp": "2025-04-13T02:08:39.679Z",
+    "localBackupTimestamp": "2025-04-12T20:08:39.679Z"
+  },
+  {
+    "question": "What company is known for the 'Civilization' series of strategy games?",
+    "correct_answer": "Firaxis Games",
+    "incorrect_answers": [
+      "Paradox Interactive",
+      "Creative Assembly",
+      "Blizzard Entertainment",
+      "Maxis",
+      "Relic Entertainment",
+      "Ensemble Studios",
+      "MicroProse"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Video Games",
+    "difficulty": "medium",
+    "id": "75121617-31aa-4d46-9a00-6844e51e8eb1",
+    "created_at": "2025-04-13T02:08:39.681Z",
+    "backupTimestamp": "2025-04-13T02:08:39.682Z",
+    "localBackupTimestamp": "2025-04-12T20:08:39.682Z"
+  },
+  {
+    "question": "In 'Left 4 Dead', what is the name of the special infected known for its long tongue?",
+    "correct_answer": "Smoker",
+    "incorrect_answers": [
+      "Hunter",
+      "Boomer",
+      "Tank",
+      "Witch",
+      "Charger",
+      "Spitter",
+      "Jockey"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Video Games",
+    "difficulty": "medium",
+    "id": "d3f209bd-06da-4af6-998e-1953e4069cd8",
+    "created_at": "2025-04-13T02:08:39.684Z",
+    "backupTimestamp": "2025-04-13T02:08:39.686Z",
+    "localBackupTimestamp": "2025-04-12T20:08:39.686Z"
+  },
+  {
+    "question": "Which RPG series, developed by BioWare, features a choice system based on Paragon and Renegade points?",
+    "correct_answer": "Mass Effect",
+    "incorrect_answers": [
+      "Dragon Age",
+      "Star Wars: Knights of the Old Republic",
+      "Baldur's Gate",
+      "Neverwinter Nights",
+      "Jade Empire",
+      "Anthem",
+      "The Old Republic (MMO)"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Video Games",
+    "difficulty": "medium",
+    "id": "291df867-f769-49bf-83ea-84c43a6a251a",
+    "created_at": "2025-04-13T02:08:39.688Z",
+    "backupTimestamp": "2025-04-13T02:08:39.688Z",
+    "localBackupTimestamp": "2025-04-12T20:08:39.688Z"
+  },
+  {
+    "question": "What type of creature is 'Spyro', the titular character of his game series?",
+    "correct_answer": "Dragon",
+    "incorrect_answers": [
+      "Lizard",
+      "Dinosaur",
+      "Bird",
+      "Bat",
+      "Wyvern",
+      "Alligator",
+      "Chameleon"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Video Games",
+    "difficulty": "medium",
+    "id": "e1e17aa1-5f94-4eb2-aa0b-cf82dd9d41f4",
+    "created_at": "2025-04-13T02:08:39.691Z",
+    "backupTimestamp": "2025-04-13T02:08:39.691Z",
+    "localBackupTimestamp": "2025-04-12T20:08:39.691Z"
+  },
+  {
+    "question": "What is the primary gameplay loop in 'Monster Hunter' games?",
+    "correct_answer": "Hunt monsters, craft gear, hunt stronger monsters",
+    "incorrect_answers": [
+      "Explore dungeons, solve puzzles, defeat boss",
+      "Build base, defend against waves, upgrade base",
+      "Complete quests, level up character, follow story",
+      "Plant crops, raise animals, interact with villagers",
+      "Race vehicles, customize cars, win championships",
+      "Capture monsters, train them, battle other trainers",
+      "Infiltrate locations, avoid detection, assassinate targets"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Video Games",
+    "difficulty": "medium",
+    "id": "a6b9529d-9899-4c5f-bf68-4397c2a6ec38",
+    "created_at": "2025-04-13T02:08:39.694Z",
+    "backupTimestamp": "2025-04-13T02:08:39.694Z",
+    "localBackupTimestamp": "2025-04-12T20:08:39.694Z"
+  },
+  {
+    "question": "What does the acronym 'MMORPG' stand for?",
+    "correct_answer": "Massively Multiplayer Online Role-Playing Game",
+    "incorrect_answers": [
+      "Massive Multiplayer Online Racing Game",
+      "Multiple Main Objectives Role-Playing Game",
+      "Many Monsters Open Roaming Playground",
+      "Maximum Multiplayer Online Role-Playing Game",
+      "Master Modus Operandi Role-Playing Game",
+      "Mechanized Multiplayer Online Robot Game",
+      "Mythical Monsters Online Role-Playing Game"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Video Games",
+    "difficulty": "medium",
+    "id": "5b1c12f7-8013-47ab-8dce-d2e8c24b40fb",
+    "created_at": "2025-04-13T02:08:39.697Z",
+    "backupTimestamp": "2025-04-13T02:08:39.698Z",
+    "localBackupTimestamp": "2025-04-12T20:08:39.698Z"
+  },
+  {
+    "question": "Which FromSoftware game, released in 2022, features a vast open world called 'The Lands Between'?",
+    "correct_answer": "Elden Ring",
+    "incorrect_answers": [
+      "Dark Souls III",
+      "Sekiro: Shadows Die Twice",
+      "Bloodborne",
+      "Demon's Souls (Remake)",
+      "Armored Core VI: Fires of Rubicon",
+      "Dark Souls II",
+      "Deraciné"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Video Games",
+    "difficulty": "medium",
+    "id": "e5944ba9-0b07-4eb1-9cec-d90482a9c9ad",
+    "created_at": "2025-04-13T02:08:39.701Z",
+    "backupTimestamp": "2025-04-13T02:08:39.702Z",
+    "localBackupTimestamp": "2025-04-12T20:08:39.702Z"
+  },
+  {
+    "question": "What is the name of the global catastrophic event in the 'Gears of War' universe?",
+    "correct_answer": "Emergence Day",
+    "incorrect_answers": [
+      "Judgment Day",
+      "The Collapse",
+      "The Reckoning",
+      "V-Day",
+      "Hammerfall",
+      "E-Day",
+      "The Scouring"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Video Games",
+    "difficulty": "medium",
+    "id": "7981aa00-d030-401c-b00c-d52a0081b76b",
+    "created_at": "2025-04-13T02:08:39.704Z",
+    "backupTimestamp": "2025-04-13T02:08:39.704Z",
+    "localBackupTimestamp": "2025-04-12T20:08:39.704Z"
+  },
+  {
+    "question": "Which fighting game character is known for the phrase 'Get over here!'?",
+    "correct_answer": "Scorpion",
+    "incorrect_answers": [
+      "Sub-Zero",
+      "Ryu",
+      "Ken Masters",
+      "Liu Kang",
+      "Johnny Cage",
+      "Kazuya Mishima",
+      "Terry Bogard"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Video Games",
+    "difficulty": "medium",
+    "id": "bb94c7c0-8a2f-4800-a4ce-a88ba6d7bb00",
+    "created_at": "2025-04-13T02:08:39.707Z",
+    "backupTimestamp": "2025-04-13T02:08:39.707Z",
+    "localBackupTimestamp": "2025-04-12T20:08:39.707Z"
+  },
+  {
+    "question": "Which Naughty Dog game follows the journey of Ellie and Joel in a post-apocalyptic United States?",
+    "correct_answer": "The Last of Us",
+    "incorrect_answers": [
+      "Uncharted 4: A Thief's End",
+      "Jak and Daxter: The Precursor Legacy",
+      "Crash Bandicoot",
+      "Days Gone",
+      "The Walking Dead (Telltale)",
+      "Resident Evil 2",
+      "Left 4 Dead 2"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Video Games",
+    "difficulty": "medium",
+    "id": "c8c0afd3-de84-4534-aa3c-cdbc1331f018",
+    "created_at": "2025-04-13T02:08:39.709Z",
+    "backupTimestamp": "2025-04-13T02:08:39.711Z",
+    "localBackupTimestamp": "2025-04-12T20:08:39.711Z"
+  },
+  {
+    "question": "What resource is harvested by the GDI and Nod factions in the 'Command & Conquer' series?",
+    "correct_answer": "Tiberium",
+    "incorrect_answers": [
+      "Spice Melange",
+      "Minerals",
+      "Vespene Gas",
+      "Ore",
+      "Scrap",
+      "Gold",
+      "Energy Credits"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Video Games",
+    "difficulty": "medium",
+    "id": "6f542714-97f4-4e1a-96c8-9a2c8645697b",
+    "created_at": "2025-04-13T02:08:39.713Z",
+    "backupTimestamp": "2025-04-13T02:08:39.714Z",
+    "localBackupTimestamp": "2025-04-12T20:08:39.714Z"
+  },
+  {
+    "question": "What is the name of the main character in the 'Persona 5' game?",
+    "correct_answer": "Joker (Ren Amamiya/Akira Kurusu)",
+    "incorrect_answers": [
+      "Makoto Yuki (P3 Protagonist)",
+      "Yu Narukami (P4 Protagonist)",
+      "Ryuji Sakamoto",
+      "Morgana",
+      "Goro Akechi",
+      "Tatsuya Suou (P2 Protagonist)",
+      "Naoya Toudou (P1 Protagonist)"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Video Games",
+    "difficulty": "medium",
+    "id": "efd1b571-eed1-44d4-bb10-78f62edc9e87",
+    "created_at": "2025-04-13T02:08:39.716Z",
+    "backupTimestamp": "2025-04-13T02:08:39.716Z",
+    "localBackupTimestamp": "2025-04-12T20:08:39.716Z"
+  },
+  {
+    "question": "Which 'Call of Duty' game featured the popular 'Zombies' mode for the first time?",
+    "correct_answer": "Call of Duty: World at War",
+    "incorrect_answers": [
+      "Call of Duty 4: Modern Warfare",
+      "Call of Duty: Modern Warfare 2",
+      "Call of Duty: Black Ops",
+      "Call of Duty 2",
+      "Call of Duty 3",
+      "Call of Duty: Ghosts",
+      "Call of Duty: Advanced Warfare"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Video Games",
+    "difficulty": "medium",
+    "id": "a115f4f7-836e-4b87-95f2-03d5f61ddb92",
+    "created_at": "2025-04-13T02:08:39.719Z",
+    "backupTimestamp": "2025-04-13T02:08:39.719Z",
+    "localBackupTimestamp": "2025-04-12T20:08:39.719Z"
+  },
+  {
+    "question": "What is the name of the fictional sport played in 'Final Fantasy X'?",
+    "correct_answer": "Blitzball",
+    "incorrect_answers": [
+      "Tetra Master",
+      "Sphere Break",
+      "Chocobo Racing",
+      "Triple Triad",
+      "Condor War",
+      "Fort Condor",
+      "Calcio"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Video Games",
+    "difficulty": "medium",
+    "id": "6aa31fb0-9c26-4c8a-a747-161beabc81bf",
+    "created_at": "2025-04-13T02:08:39.722Z",
+    "backupTimestamp": "2025-04-13T02:08:39.722Z",
+    "localBackupTimestamp": "2025-04-12T20:08:39.722Z"
+  },
+  {
+    "question": "Which Valve platform is the largest digital distribution platform for PC gaming?",
+    "correct_answer": "Steam",
+    "incorrect_answers": [
+      "Epic Games Store",
+      "GOG (Good Old Games)",
+      "Origin",
+      "Uplay / Ubisoft Connect",
+      "Battle.net",
+      "itch.io",
+      "Microsoft Store"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Video Games",
+    "difficulty": "medium",
+    "id": "dc64ae48-b156-4f10-843a-deb41197dda0",
+    "created_at": "2025-04-13T02:08:39.725Z",
+    "backupTimestamp": "2025-04-13T02:08:39.725Z",
+    "localBackupTimestamp": "2025-04-12T20:08:39.725Z"
+  },
+  {
+    "question": "What is the name of the main villain in 'Borderlands 2'?",
+    "correct_answer": "Handsome Jack",
+    "incorrect_answers": [
+      "Commandant Steele",
+      "Colonel Zarpedon",
+      "The Calypso Twins",
+      "General Knoxx",
+      "Mr. Torgue",
+      "Professor Nakayama",
+      "Captain Flynt"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Video Games",
+    "difficulty": "medium",
+    "id": "988ef167-6433-4a5d-a4b4-510adc26d89f",
+    "created_at": "2025-04-13T02:08:39.727Z",
+    "backupTimestamp": "2025-04-13T02:08:39.728Z",
+    "localBackupTimestamp": "2025-04-12T20:08:39.728Z"
+  },
+  {
+    "question": "In 'Devil May Cry', what is the name of Dante's signature sword?",
+    "correct_answer": "Rebellion",
+    "incorrect_answers": [
+      "Yamato",
+      "Alastor",
+      "Force Edge",
+      "Sparda",
+      "Red Queen",
+      "Ebony & Ivory",
+      "Nevan"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Video Games",
+    "difficulty": "medium",
+    "id": "caae323c-a6a5-4c9c-aaaa-d35e5fe501f5",
+    "created_at": "2025-04-13T02:08:39.731Z",
+    "backupTimestamp": "2025-04-13T02:08:39.731Z",
+    "localBackupTimestamp": "2025-04-12T20:08:39.731Z"
+  },
+  {
+    "question": "Which 'Grand Theft Auto' game was the first to be set in the 'HD Universe'?",
+    "correct_answer": "Grand Theft Auto IV",
+    "incorrect_answers": [
+      "Grand Theft Auto: San Andreas",
+      "Grand Theft Auto: Vice City",
+      "Grand Theft Auto III",
+      "Grand Theft Auto V",
+      "Grand Theft Auto: Liberty City Stories",
+      "Grand Theft Auto: Chinatown Wars",
+      "Grand Theft Auto 2"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Video Games",
+    "difficulty": "medium",
+    "id": "6295db70-a8e7-436e-87d0-23f6f3be90e6",
+    "created_at": "2025-04-13T02:08:39.734Z",
+    "backupTimestamp": "2025-04-13T02:08:39.734Z",
+    "localBackupTimestamp": "2025-04-12T20:08:39.734Z"
+  },
+  {
+    "question": "What is the maximum number of players typically supported in a standard match of 'Counter-Strike: Global Offensive'?",
+    "correct_answer": "10 (5 vs 5)",
+    "incorrect_answers": [
+      "12 (6 vs 6)",
+      "16 (8 vs 8)",
+      "8 (4 vs 4)",
+      "20 (10 vs 10)",
+      "6 (3 vs 3)",
+      "24 (12 vs 12)",
+      "32 (16 vs 16)"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Video Games",
+    "difficulty": "medium",
+    "id": "868d3968-687c-4019-8e76-d73e2dbd0c70",
+    "created_at": "2025-04-13T02:08:39.736Z",
+    "backupTimestamp": "2025-04-13T02:08:39.737Z",
+    "localBackupTimestamp": "2025-04-12T20:08:39.737Z"
+  },
+  {
+    "question": "What is the name of the AI construct that assists Master Chief in the 'Halo' series?",
+    "correct_answer": "Cortana",
+    "incorrect_answers": [
+      "Serina",
+      "Roland",
+      "Auntie Dot",
+      "Isabel",
+      "Durandal",
+      "GLaDOS",
+      "EDI"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Video Games",
+    "difficulty": "medium",
+    "id": "f92059ab-b6e3-4d30-871f-f7d92d5c5b76",
+    "created_at": "2025-04-13T02:08:39.739Z",
+    "backupTimestamp": "2025-04-13T02:08:39.740Z",
+    "localBackupTimestamp": "2025-04-12T20:08:39.740Z"
+  },
+  {
+    "question": "Which Square Enix franchise features Cloud Strife, Sephiroth, and Tifa Lockhart?",
+    "correct_answer": "Final Fantasy VII",
+    "incorrect_answers": [
+      "Final Fantasy VIII",
+      "Final Fantasy X",
+      "Final Fantasy XV",
+      "Kingdom Hearts",
+      "Chrono Trigger",
+      "Nier: Automata",
+      "Crisis Core: Final Fantasy VII"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Video Games",
+    "difficulty": "medium",
+    "id": "bc51119a-6f26-49d6-885d-cf0175df5781",
+    "created_at": "2025-04-13T02:08:39.742Z",
+    "backupTimestamp": "2025-04-13T02:08:39.743Z",
+    "localBackupTimestamp": "2025-04-12T20:08:39.743Z"
+  },
+  {
+    "question": "In 'The Legend of Zelda: Breath of the Wild', what are the four main divine beasts named after?",
+    "correct_answer": "Champions (Mipha, Daruk, Revali, Urbosa)",
+    "incorrect_answers": [
+      "Sages from Ocarina of Time",
+      "Types of Guardians",
+      "Races of Hyrule",
+      "Ancient Kings",
+      "Constellations",
+      "Elemental Spirits",
+      "Legendary Weapons"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Video Games",
+    "difficulty": "medium",
+    "id": "b2f95dc3-eddb-4d0f-9ad8-133d29d78277",
+    "created_at": "2025-04-13T02:08:39.745Z",
+    "backupTimestamp": "2025-04-13T02:08:39.746Z",
+    "localBackupTimestamp": "2025-04-12T20:08:39.746Z"
+  },
+  {
+    "question": "Which developer is primarily known for the 'Assassin's Creed' and 'Far Cry' franchises?",
+    "correct_answer": "Ubisoft",
+    "incorrect_answers": [
+      "Electronic Arts (EA)",
+      "Activision",
+      "Take-Two Interactive",
+      "Bethesda Softworks",
+      "Square Enix",
+      "CD Projekt Red",
+      "Naughty Dog"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Video Games",
+    "difficulty": "medium",
+    "id": "1fb82086-2337-4f75-aed1-10705f96eeeb",
+    "created_at": "2025-04-13T02:08:39.749Z",
+    "backupTimestamp": "2025-04-13T02:08:39.749Z",
+    "localBackupTimestamp": "2025-04-12T20:08:39.749Z"
+  },
+  {
+    "question": "What was the first commercially successful video game?",
+    "correct_answer": "Pong",
+    "incorrect_answers": [
+      "Space Invaders",
+      "Pac-Man",
+      "Donkey Kong",
+      "Asteroids",
+      "Computer Space",
+      "Tetris",
+      "Breakout"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Video Games",
+    "difficulty": "medium",
+    "id": "6d99c263-5573-4d2f-a976-d4114447b4fc",
+    "created_at": "2025-04-13T02:08:39.752Z",
+    "backupTimestamp": "2025-04-13T02:08:39.752Z",
+    "localBackupTimestamp": "2025-04-12T20:08:39.752Z"
+  },
+  {
+    "question": "What is the unique gameplay mechanic introduced in 'Prince of Persia: The Sands of Time'?",
+    "correct_answer": "Rewinding time",
+    "incorrect_answers": [
+      "Wall-running",
+      "Dual wielding",
+      "Stealth takedowns",
+      "Controlling sand creatures",
+      "Bullet time",
+      "Crafting system",
+      "Moral choices"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Video Games",
+    "difficulty": "medium",
+    "id": "5266c7cb-1a62-4359-abae-b74727f63c08",
+    "created_at": "2025-04-13T02:08:39.754Z",
+    "backupTimestamp": "2025-04-13T02:08:39.755Z",
+    "localBackupTimestamp": "2025-04-12T20:08:39.755Z"
+  },
+  {
+    "question": "In 'Dungeons & Dragons' lore, which city serves as the setting for 'Baldur's Gate 3'?",
+    "correct_answer": "Baldur's Gate",
+    "incorrect_answers": [
+      "Waterdeep",
+      "Neverwinter",
+      "Silverymoon",
+      "Icewind Dale",
+      "Athkatla",
+      "Sigil",
+      "Greyhawk"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Video Games",
+    "difficulty": "medium",
+    "id": "378ed673-281d-447f-8d51-e35d243b3408",
+    "created_at": "2025-04-13T02:08:39.757Z",
+    "backupTimestamp": "2025-04-13T02:08:39.757Z",
+    "localBackupTimestamp": "2025-04-12T20:08:39.757Z"
+  },
+  {
+    "question": "What console did the original 'Crash Bandicoot' trilogy debut on?",
+    "correct_answer": "PlayStation",
+    "incorrect_answers": [
+      "Nintendo 64",
+      "Sega Saturn",
+      "PlayStation 2",
+      "GameCube",
+      "Xbox",
+      "Dreamcast",
+      "Super Nintendo"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Video Games",
+    "difficulty": "medium",
+    "id": "f67c2f91-84f4-4c8f-a0fd-d271c5b1b102",
+    "created_at": "2025-04-13T02:08:39.760Z",
+    "backupTimestamp": "2025-04-13T02:08:39.760Z",
+    "localBackupTimestamp": "2025-04-12T20:08:39.760Z"
+  },
+  {
+    "question": "What is the name of the highest difficulty setting in the original 'Doom' (1993)?",
+    "correct_answer": "Nightmare!",
+    "incorrect_answers": [
+      "Ultra-Violence",
+      "Hurt Me Plenty",
+      "I'm Too Young to Die",
+      "Hell on Earth",
+      "Inferno",
+      "Apocalypse",
+      "Impossible"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Video Games",
+    "difficulty": "hard",
+    "id": "65673fe5-5e17-4960-a614-3753a061c600",
+    "created_at": "2025-04-13T02:08:39.763Z",
+    "backupTimestamp": "2025-04-13T02:08:39.763Z",
+    "localBackupTimestamp": "2025-04-12T20:08:39.763Z"
+  },
+  {
+    "question": "In 'Metal Gear Solid', what frequency must be dialed on the Codec to contact Meryl Silverburgh?",
+    "correct_answer": "140.15",
+    "incorrect_answers": [
+      "140.85",
+      "141.12",
+      "140.48",
+      "140.96",
+      "141.80",
+      "140.66",
+      "142.42"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Video Games",
+    "difficulty": "hard",
+    "id": "1d3c17d9-fb17-4515-86c9-0889a4271d97",
+    "created_at": "2025-04-13T02:08:39.765Z",
+    "backupTimestamp": "2025-04-13T02:08:39.766Z",
+    "localBackupTimestamp": "2025-04-12T20:08:39.766Z"
+  },
+  {
+    "question": "What was the name of the failed Atari console intended to succeed the Atari 2600?",
+    "correct_answer": "Atari 5200",
+    "incorrect_answers": [
+      "Atari 7800",
+      "Atari Jaguar",
+      "Atari Lynx",
+      "Atari XEGS",
+      "Atari Pong",
+      "Atari VCS (2021)",
+      "ColecoVision"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Video Games",
+    "difficulty": "hard",
+    "id": "0dfbe318-3649-4368-9d10-0705f1709c18",
+    "created_at": "2025-04-13T02:08:39.768Z",
+    "backupTimestamp": "2025-04-13T02:08:39.768Z",
+    "localBackupTimestamp": "2025-04-12T20:08:39.768Z"
+  },
+  {
+    "question": "In 'Final Fantasy VI', which character can learn enemy abilities through the 'Lore' skill?",
+    "correct_answer": "Strago Magus",
+    "incorrect_answers": [
+      "Relm Arrowny",
+      "Gau",
+      "Cyan Garamonde",
+      "Terra Branford",
+      "Celes Chere",
+      "Sabin Rene Figaro",
+      "Setzer Gabbiani"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Video Games",
+    "difficulty": "hard",
+    "id": "0c2b828c-353e-4ebb-89ca-26059c484d63",
+    "created_at": "2025-04-13T02:08:39.771Z",
+    "backupTimestamp": "2025-04-13T02:08:39.771Z",
+    "localBackupTimestamp": "2025-04-12T20:08:39.771Z"
+  },
+  {
+    "question": "What does the acronym 'AGDQ' stand for in the speedrunning community?",
+    "correct_answer": "Awesome Games Done Quick",
+    "incorrect_answers": [
+      "Annual Gaming Donation Quest",
+      "All Gamers Defeat Quickly",
+      "Amazing Game Difficulty Quotient",
+      "Another Great Day Questing",
+      "Arcade Gaming Done Quick",
+      "Action Games Done Qualified",
+      "Australian Gamers Doing Quests"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Video Games",
+    "difficulty": "hard",
+    "id": "4faf7aad-ac2d-42c0-ba72-64b5346d709f",
+    "created_at": "2025-04-13T02:08:39.774Z",
+    "backupTimestamp": "2025-04-13T02:08:39.775Z",
+    "localBackupTimestamp": "2025-04-12T20:08:39.775Z"
+  },
+  {
+    "question": "Which video game developer created the SCUMM (Script Creation Utility for Maniac Mansion) engine?",
+    "correct_answer": "LucasArts (formerly Lucasfilm Games)",
+    "incorrect_answers": [
+      "Sierra On-Line",
+      "Infocom",
+      "Origin Systems",
+      "MicroProse",
+      "Westwood Studios",
+      "Interplay Productions",
+      "Bullfrog Productions"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Video Games",
+    "difficulty": "hard",
+    "id": "cd61ddea-87f3-4239-a8dd-1329d1748226",
+    "created_at": "2025-04-13T02:08:39.777Z",
+    "backupTimestamp": "2025-04-13T02:08:39.777Z",
+    "localBackupTimestamp": "2025-04-12T20:08:39.777Z"
+  },
+  {
+    "question": "What is the name of the secret final boss in 'Chrono Trigger' reachable via a specific bucket?",
+    "correct_answer": "Spekkio (at his strongest form)",
+    "incorrect_answers": [
+      "Lavos Spawn",
+      "Queen Zeal",
+      "Dalton",
+      "Magus (in a rematch)",
+      "Ozzie, Flea, and Slash (combined)",
+      "Nu",
+      "Gato"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Video Games",
+    "difficulty": "hard",
+    "id": "2f73edff-8790-4476-a21b-822cace0ec9e",
+    "created_at": "2025-04-13T02:08:39.780Z",
+    "backupTimestamp": "2025-04-13T02:08:39.780Z",
+    "localBackupTimestamp": "2025-04-12T20:08:39.780Z"
+  },
+  {
+    "question": "Which console used GD-ROM discs, a proprietary optical media format?",
+    "correct_answer": "Sega Dreamcast",
+    "incorrect_answers": [
+      "PlayStation 2",
+      "Nintendo GameCube",
+      "Xbox",
+      "Sega Saturn",
+      "PlayStation",
+      "Neo Geo CD",
+      "3DO Interactive Multiplayer"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Video Games",
+    "difficulty": "hard",
+    "id": "f4dd0e56-1617-484c-b584-f513fd727a16",
+    "created_at": "2025-04-13T02:08:39.783Z",
+    "backupTimestamp": "2025-04-13T02:08:39.783Z",
+    "localBackupTimestamp": "2025-04-12T20:08:39.783Z"
+  },
+  {
+    "question": "In 'Planescape: Torment', what is the name of the floating, talking skull companion?",
+    "correct_answer": "Morte",
+    "incorrect_answers": [
+      "Dak'kon",
+      "Annah-of-the-Shadows",
+      "Fall-From-Grace",
+      "Ignus",
+      "Vhailor",
+      "Nordom",
+      "Murray (from Monkey Island)"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Video Games",
+    "difficulty": "hard",
+    "id": "c4402b4d-c836-4595-8a0e-f3be6cee0581",
+    "created_at": "2025-04-13T02:08:39.786Z",
+    "backupTimestamp": "2025-04-13T02:08:39.786Z",
+    "localBackupTimestamp": "2025-04-12T20:08:39.786Z"
+  },
+  {
+    "question": "What was the launch price of the Neo Geo AES home console in the US in 1991?",
+    "correct_answer": "$649.99",
+    "incorrect_answers": [
+      "$399.99",
+      "$499.99",
+      "$299.99",
+      "$599.99",
+      "$199.99",
+      "$799.99",
+      "$899.99"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Video Games",
+    "difficulty": "hard",
+    "id": "3fce3396-a356-4626-8cd3-4b3cfcbb9c78",
+    "created_at": "2025-04-13T02:08:39.788Z",
+    "backupTimestamp": "2025-04-13T02:08:39.788Z",
+    "localBackupTimestamp": "2025-04-12T20:08:39.788Z"
+  },
+  {
+    "question": "Which game, developed by Looking Glass Studios, is considered a major precursor to the immersive sim genre?",
+    "correct_answer": "System Shock",
+    "incorrect_answers": [
+      "Ultima Underworld: The Stygian Abyss",
+      "Thief: The Dark Project",
+      "Deus Ex",
+      "Doom",
+      "Wolfenstein 3D",
+      "Wing Commander",
+      "Alone in the Dark"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Video Games",
+    "difficulty": "hard",
+    "id": "65b7509e-29c0-4003-8fb0-f309b243b914",
+    "created_at": "2025-04-13T02:08:39.791Z",
+    "backupTimestamp": "2025-04-13T02:08:39.791Z",
+    "localBackupTimestamp": "2025-04-12T20:08:39.791Z"
+  },
+  {
+    "question": "In the original 'StarCraft', what is the Zerg Overlord's primary function besides transport?",
+    "correct_answer": "Providing Supply (Psi)",
+    "incorrect_answers": [
+      "Detecting Cloaked Units",
+      "Generating Creep",
+      "Healing Units",
+      "Morphing into Overseers",
+      "Attacking Air Units",
+      "Building Structures",
+      "Gathering Resources"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Video Games",
+    "difficulty": "hard",
+    "id": "adba8d81-5560-473e-b0e2-8e9b637e45cf",
+    "created_at": "2025-04-13T02:08:39.794Z",
+    "backupTimestamp": "2025-04-13T02:08:39.794Z",
+    "localBackupTimestamp": "2025-04-12T20:08:39.794Z"
+  },
+  {
+    "question": "What does the Konami Code traditionally do in the original NES version of 'Contra'?",
+    "correct_answer": "Grants 30 lives",
+    "incorrect_answers": [
+      "Unlocks all weapons",
+      "Grants invincibility",
+      "Skips to the final level",
+      "Changes character appearance",
+      "Activates debug mode",
+      "Displays credits",
+      "Unlocks sound test"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Video Games",
+    "difficulty": "hard",
+    "id": "55ec2f56-fb6b-4771-aa4f-e26bb2e09724",
+    "created_at": "2025-04-13T02:08:39.797Z",
+    "backupTimestamp": "2025-04-13T02:08:39.798Z",
+    "localBackupTimestamp": "2025-04-12T20:08:39.798Z"
+  },
+  {
+    "question": "What was the name of the development studio founded by John Romero and Tom Hall after they left id Software?",
+    "correct_answer": "Ion Storm",
+    "incorrect_answers": [
+      "Raven Software",
+      "3D Realms",
+      "Epic MegaGames",
+      "Troika Games",
+      "Looking Glass Studios",
+      "Monolith Productions",
+      "Ritual Entertainment"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Video Games",
+    "difficulty": "hard",
+    "id": "1f648541-234e-4e85-a621-76194d96a18f",
+    "created_at": "2025-04-13T02:08:39.800Z",
+    "backupTimestamp": "2025-04-13T02:08:39.800Z",
+    "localBackupTimestamp": "2025-04-12T20:08:39.800Z"
+  },
+  {
+    "question": "In 'Eve Online', the catastrophic failure of a star gate leading to the destruction of a solar system is known as the?",
+    "correct_answer": "Seyllin Incident",
+    "incorrect_answers": [
+      "Mekhios Graveyard",
+      "Battle of B-R5RB",
+      "Caldari Prime Blockade",
+      "YC110 Capsuleer Crisis",
+      "Caroline's Star Event",
+      "Thera Expedition Collapse",
+      "Sansha Incursion"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Video Games",
+    "difficulty": "hard",
+    "id": "a6784ce9-a1bf-4750-a81e-8ff0e65fdd0d",
+    "created_at": "2025-04-13T02:08:39.803Z",
+    "backupTimestamp": "2025-04-13T02:08:39.803Z",
+    "localBackupTimestamp": "2025-04-12T20:08:39.803Z"
+  },
+  {
+    "question": "What programming language was the original 'Elite' (1984) primarily written in?",
+    "correct_answer": "6502 Assembly Language",
+    "incorrect_answers": [
+      "BASIC",
+      "C",
+      "Pascal",
+      "Forth",
+      "Z80 Assembly Language",
+      "Fortran",
+      "Lisp"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Video Games",
+    "difficulty": "hard",
+    "id": "0ee06a7e-92cf-4621-8155-766e21af364a",
+    "created_at": "2025-04-13T02:08:39.806Z",
+    "backupTimestamp": "2025-04-13T02:08:39.806Z",
+    "localBackupTimestamp": "2025-04-12T20:08:39.806Z"
+  },
+  {
+    "question": "Which obscure Nintendo peripheral for the Famicom allowed users to knit patterns?",
+    "correct_answer": "Nintendo Knitting Machine",
+    "incorrect_answers": [
+      "Famicom Disk System",
+      "Family BASIC Keyboard",
+      "Power Glove",
+      "Miracle Piano Teaching System",
+      "Aladdin Deck Enhancer",
+      "R.O.B. (Robotic Operating Buddy)",
+      "Famicom Modem"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Video Games",
+    "difficulty": "hard",
+    "id": "8877edb9-4b14-4e95-ad22-b4ebc33d63c0",
+    "created_at": "2025-04-13T02:08:39.809Z",
+    "backupTimestamp": "2025-04-13T02:08:39.809Z",
+    "localBackupTimestamp": "2025-04-12T20:08:39.809Z"
+  },
+  {
+    "question": "In 'NetHack', wishing for the 'Orb of Fate' results in what item actually appearing?",
+    "correct_answer": "Expensive Camera",
+    "incorrect_answers": [
+      "Crystal Ball",
+      "Amulet of Yendor",
+      "Magic Lamp",
+      "Figurine of an Archon",
+      "Glass Orb",
+      "Amulet of Reflection",
+      "Loadstone"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Video Games",
+    "difficulty": "hard",
+    "id": "75e73976-f046-473f-a180-21a76e20457e",
+    "created_at": "2025-04-13T02:08:39.812Z",
+    "backupTimestamp": "2025-04-13T02:08:39.812Z",
+    "localBackupTimestamp": "2025-04-12T20:08:39.812Z"
+  },
+  {
+    "question": "What was the main processor used in the Sega Saturn?",
+    "correct_answer": "Dual Hitachi SH-2 CPUs",
+    "incorrect_answers": [
+      "Motorola 68000",
+      "IBM PowerPC",
+      "NEC V810",
+      "MIPS R4300i",
+      "Hitachi SH-4",
+      "Zilog Z80",
+      "ARM7TDMI"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Video Games",
+    "difficulty": "hard",
+    "id": "e67a67de-d850-49db-a7ba-43ce2ff73ff3",
+    "created_at": "2025-04-13T02:08:39.815Z",
+    "backupTimestamp": "2025-04-13T02:08:39.815Z",
+    "localBackupTimestamp": "2025-04-12T20:08:39.815Z"
+  },
+  {
+    "question": "Which character created by Nintendo artist Shigesato Itoi is the protagonist of the 'Mother' series (known as 'EarthBound' outside Japan)?",
+    "correct_answer": "Ninten / Ness / Lucas (depending on game)",
+    "incorrect_answers": [
+      "Poo",
+      "Jeff Andonuts",
+      "Paula Polestar",
+      "Kumatora",
+      "Duster",
+      "Boney",
+      "Mr. Saturn"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Video Games",
+    "difficulty": "hard",
+    "id": "efb788db-1a0a-4943-9351-43be9944035d",
+    "created_at": "2025-04-13T02:08:39.818Z",
+    "backupTimestamp": "2025-04-13T02:08:39.818Z",
+    "localBackupTimestamp": "2025-04-12T20:08:39.818Z"
+  },
+  {
+    "question": "What specific type of sword does Sephiroth wield in 'Final Fantasy VII'?",
+    "correct_answer": "Masamune",
+    "incorrect_answers": [
+      "Katana",
+      "Nodachi",
+      "Odachi",
+      "Tachi",
+      "Wakizashi",
+      "Ninjato",
+      "Zanbato"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Video Games",
+    "difficulty": "hard",
+    "id": "76e9b9e0-ad5f-4a39-975c-1cf61417b07a",
+    "created_at": "2025-04-13T02:08:39.821Z",
+    "backupTimestamp": "2025-04-13T02:08:39.821Z",
+    "localBackupTimestamp": "2025-04-12T20:08:39.821Z"
+  },
+  {
+    "question": "The cult classic game 'Killer7' was directed by which eccentric game designer?",
+    "correct_answer": "Goichi Suda (Suda51)",
+    "incorrect_answers": [
+      "Hideo Kojima",
+      "Shinji Mikami",
+      "Hideki Kamiya",
+      "Keita Takahashi",
+      "Fumito Ueda",
+      "Yoko Taro",
+      "Swery65"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Video Games",
+    "difficulty": "hard",
+    "id": "c8641951-2346-4328-a4e0-3fd947ea73ee",
+    "created_at": "2025-04-13T02:08:39.824Z",
+    "backupTimestamp": "2025-04-13T02:08:39.824Z",
+    "localBackupTimestamp": "2025-04-12T20:08:39.824Z"
+  },
+  {
+    "question": "What was the name of the virtual reality headset released by Nintendo in 1995?",
+    "correct_answer": "Virtual Boy",
+    "incorrect_answers": [
+      "Nintendo Scope",
+      "Power Glove",
+      "Game Boy",
+      "Famicom 3D System",
+      "Nintendo Labo VR Kit",
+      "Project Reality",
+      "Ultra Hand"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Video Games",
+    "difficulty": "hard",
+    "id": "92ec4538-b3c1-4d2e-9f0a-12f3a9e42287",
+    "created_at": "2025-04-13T02:08:39.827Z",
+    "backupTimestamp": "2025-04-13T02:08:39.827Z",
+    "localBackupTimestamp": "2025-04-12T20:08:39.827Z"
+  },
+  {
+    "question": "In 'Deus Ex' (2000), what is the code to disable the security bots on the rooftop near Paul Denton's apartment?",
+    "correct_answer": "0451",
+    "incorrect_answers": [
+      "1984",
+      "1337",
+      "0000",
+      "1234",
+      "2001",
+      "1000",
+      "5555"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Video Games",
+    "difficulty": "hard",
+    "id": "6bb9f989-8016-4929-9ecc-8e8b6b0f800b",
+    "created_at": "2025-04-13T02:08:39.830Z",
+    "backupTimestamp": "2025-04-13T02:08:39.830Z",
+    "localBackupTimestamp": "2025-04-12T20:08:39.830Z"
+  },
+  {
+    "question": "What is the name of the fictional company that created the Animus technology in the 'Assassin's Creed' series?",
+    "correct_answer": "Abstergo Industries",
+    "incorrect_answers": [
+      "Umbrella Corporation",
+      "Shinra Electric Power Company",
+      "Aperture Science",
+      "Sarif Industries",
+      "Vault-Tec Corporation",
+      "Hyperion Corporation",
+      "Weyland-Yutani Corp"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Video Games",
+    "difficulty": "hard",
+    "id": "f64c1243-bbf3-4c1d-b889-215b5a931102",
+    "created_at": "2025-04-13T02:08:39.832Z",
+    "backupTimestamp": "2025-04-13T02:08:39.833Z",
+    "localBackupTimestamp": "2025-04-12T20:08:39.833Z"
+  },
+  {
+    "question": "Which Atari 2600 game, based on a movie, is often cited as a major factor in the video game crash of 1983?",
+    "correct_answer": "E.T. the Extra-Terrestrial",
+    "incorrect_answers": [
+      "Pac-Man (Atari 2600 port)",
+      "Raiders of the Lost Ark",
+      "Star Wars: The Empire Strikes Back",
+      "Superman",
+      "Tron: Deadly Discs",
+      "Halloween",
+      "Custer's Revenge"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Video Games",
+    "difficulty": "hard",
+    "id": "cc701796-3d3a-4259-85f5-531a0934bc5a",
+    "created_at": "2025-04-13T02:08:39.835Z",
+    "backupTimestamp": "2025-04-13T02:08:39.835Z",
+    "localBackupTimestamp": "2025-04-12T20:08:39.835Z"
+  },
+  {
+    "question": "What is the canonical name of the 'Doomguy' protagonist, revealed in 'Doom Eternal'?",
+    "correct_answer": "Doom Slayer",
+    "incorrect_answers": [
+      "Flynn Taggart",
+      "B.J. Blazkowicz",
+      "John Grimm",
+      "Stan Blazkowicz",
+      "John Kane",
+      "Reaper",
+      "The Marine"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Video Games",
+    "difficulty": "hard",
+    "id": "72af0fa6-2f8f-44c3-8a67-fb3a3f5992cf",
+    "created_at": "2025-04-13T02:08:39.838Z",
+    "backupTimestamp": "2025-04-13T02:08:39.839Z",
+    "localBackupTimestamp": "2025-04-12T20:08:39.839Z"
+  },
+  {
+    "question": "The Sega Master System had an add-on in Japan and Europe that allowed playing games using special cards. What was it called?",
+    "correct_answer": "Sega Card (My Card)",
+    "incorrect_answers": [
+      "Mega CD Card",
+      "Master Link Cable",
+      "3-D Glasses",
+      "Power Base Converter",
+      "FM Sound Unit",
+      "Memory Card",
+      "TurboGrafx Card"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Video Games",
+    "difficulty": "hard",
+    "id": "f3031c20-8877-4715-ac31-02e8b032d5bf",
+    "created_at": "2025-04-13T02:08:39.842Z",
+    "backupTimestamp": "2025-04-13T02:08:39.842Z",
+    "localBackupTimestamp": "2025-04-12T20:08:39.842Z"
+  },
+  {
+    "question": "In the 'Xenogears' timeline, what is the designation of the entity known as Deus?",
+    "correct_answer": "Interplanetary Invasion System",
+    "incorrect_answers": [
+      "Biological Computer Zohar",
+      "Wave Existence",
+      "Persona Annihilation Weapon",
+      "Kadomony Core Unit",
+      "Gnosis Anomaly",
+      "Artificial Life Form Eldridge",
+      "Abel's Ark"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Video Games",
+    "difficulty": "hard",
+    "id": "d71168dd-630b-4362-936b-92862a0bf8af",
+    "created_at": "2025-04-13T02:08:39.846Z",
+    "backupTimestamp": "2025-04-13T02:08:39.846Z",
+    "localBackupTimestamp": "2025-04-12T20:08:39.846Z"
+  },
+  {
+    "question": "What was the title of the cancelled sequel to 'Chrono Trigger' developed for the Nintendo 64DD?",
+    "correct_answer": "Chrono Break (Trademarked name, game unreleased)",
+    "incorrect_answers": [
+      "Radical Dreamers",
+      "Chrono Cross",
+      "Chrono Resurrection",
+      "Final Fantasy Chronicles",
+      "Trigger Omega",
+      "Epoch Traveler",
+      "Lavos' Revenge"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Video Games",
+    "difficulty": "hard",
+    "id": "1599b633-1f91-4c58-8b8a-4bd91fea0dc6",
+    "created_at": "2025-04-13T02:08:39.849Z",
+    "backupTimestamp": "2025-04-13T02:08:39.850Z",
+    "localBackupTimestamp": "2025-04-12T20:08:39.850Z"
+  },
+  {
+    "question": "Which FMV (Full Motion Video) game, known for its controversial content, was released on the Sega CD and 3DO?",
+    "correct_answer": "Night Trap",
+    "incorrect_answers": [
+      "Sewer Shark",
+      "Dragon's Lair",
+      "Mad Dog McCree",
+      "Corpse Killer",
+      "Ground Zero: Texas",
+      "Make My Video: Marky Mark",
+      "Plumbers Don't Wear Ties"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Video Games",
+    "difficulty": "hard",
+    "id": "4b407cba-7f17-465e-9553-af29797c0731",
+    "created_at": "2025-04-13T02:08:39.853Z",
+    "backupTimestamp": "2025-04-13T02:08:39.853Z",
+    "localBackupTimestamp": "2025-04-12T20:08:39.853Z"
+  },
+  {
+    "question": "The video game 'Polybius' is primarily known as what?",
+    "correct_answer": "An urban legend about a fictional arcade game",
+    "incorrect_answers": [
+      "An early vector graphics space shooter",
+      "A puzzle game released on the Vectrex",
+      "A cancelled Atari Jaguar CD title",
+      "A government simulation program",
+      "An experimental rhythm game",
+      "A ROM hack of Tempest",
+      "A German educational game"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Video Games",
+    "difficulty": "hard",
+    "id": "22bb8d45-88c1-42c5-8c82-1965d7bc7ade",
+    "created_at": "2025-04-13T02:08:39.856Z",
+    "backupTimestamp": "2025-04-13T02:08:39.857Z",
+    "localBackupTimestamp": "2025-04-12T20:08:39.857Z"
+  },
+  {
+    "question": "What does the 'G' in 'G-Man' from the 'Half-Life' series reportedly stand for, according to unused game files?",
+    "correct_answer": "Government",
+    "incorrect_answers": [
+      "Gordon",
+      "Global",
+      "Guardian",
+      "Gauss",
+      "Gatekeeper",
+      "Galactic",
+      "Genetic"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Video Games",
+    "difficulty": "hard",
+    "id": "63817a94-c93f-4041-9a09-535a7d2ac7a3",
+    "created_at": "2025-04-13T02:08:39.859Z",
+    "backupTimestamp": "2025-04-13T02:08:39.859Z",
+    "localBackupTimestamp": "2025-04-12T20:08:39.859Z"
+  },
+  {
+    "question": "Which programming language was used to create the influential text adventure game 'Colossal Cave Adventure' (also known as ADVENT)?",
+    "correct_answer": "Fortran",
+    "incorrect_answers": [
+      "Assembly",
+      "C",
+      "BASIC",
+      "Lisp",
+      "Pascal",
+      "COBOL",
+      "Algol"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Video Games",
+    "difficulty": "hard",
+    "id": "6453fc6e-fb75-41f1-ae36-4a295d7f2006",
+    "created_at": "2025-04-13T02:08:39.862Z",
+    "backupTimestamp": "2025-04-13T02:08:39.862Z",
+    "localBackupTimestamp": "2025-04-12T20:08:39.862Z"
+  },
+  {
+    "question": "What is the name of the sound chip used in the Sega Genesis/Mega Drive, known for its distinctive FM synthesis?",
+    "correct_answer": "Yamaha YM2612",
+    "incorrect_answers": [
+      "Ricoh 2A03 (NES)",
+      "MOS Technology SID (Commodore 64)",
+      "Sony SPU (SNES)",
+      "General Instrument AY-3-8910",
+      "Yamaha YM2151",
+      "Texas Instruments SN76489",
+      "OKI MSM6295"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Video Games",
+    "difficulty": "hard",
+    "id": "33f14dd5-8b99-449e-ae59-476bfcc1d303",
+    "created_at": "2025-04-13T02:08:39.865Z",
+    "backupTimestamp": "2025-04-13T02:08:39.865Z",
+    "localBackupTimestamp": "2025-04-12T20:08:39.865Z"
+  },
+  {
+    "question": "In 'Dwarf Fortress', what often triggers a 'Tantrum Spiral' among the dwarves?",
+    "correct_answer": "Accumulated stress and negative thoughts",
+    "incorrect_answers": [
+      "Lack of alcohol",
+      "A noble's unreasonable demands",
+      "Death of a pet",
+      "Invasion by goblins",
+      "Cave collapse",
+      "Witnessing death",
+      "Poorly made artifact"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Video Games",
+    "difficulty": "hard",
+    "id": "c4d05b60-9b78-4e2b-8c93-f61fd0bc060b",
+    "created_at": "2025-04-13T02:08:39.868Z",
+    "backupTimestamp": "2025-04-13T02:08:39.868Z",
+    "localBackupTimestamp": "2025-04-12T20:08:39.868Z"
+  },
+  {
+    "question": "What was the original Japanese title for the game known internationally as 'Final Fantasy III' (the SNES one)?",
+    "correct_answer": "Final Fantasy VI",
+    "incorrect_answers": [
+      "Final Fantasy III",
+      "Final Fantasy IV",
+      "Final Fantasy V",
+      "Final Fantasy VII",
+      "Final Fantasy II",
+      "Seiken Densetsu 3",
+      "Chrono Trigger"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Video Games",
+    "difficulty": "hard",
+    "id": "2b7b67a8-db2e-4cd0-a316-e50563bd54e0",
+    "created_at": "2025-04-13T02:08:39.872Z",
+    "backupTimestamp": "2025-04-13T02:08:39.872Z",
+    "localBackupTimestamp": "2025-04-12T20:08:39.872Z"
+  },
+  {
+    "question": "Which early PC game featured a complex copy protection mechanism involving a code wheel?",
+    "correct_answer": "Pool of Radiance",
+    "incorrect_answers": [
+      "Wing Commander",
+      "Ultima V: Warriors of Destiny",
+      "King's Quest IV: The Perils of Rosella",
+      "Maniac Mansion",
+      "Bard's Tale III: Thief of Fate",
+      "Pirates!",
+      "Dungeon Master"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Video Games",
+    "difficulty": "hard",
+    "id": "597ed63f-00a7-4e24-b607-d7f99aca364f",
+    "created_at": "2025-04-13T02:08:39.875Z",
+    "backupTimestamp": "2025-04-13T02:08:39.875Z",
+    "localBackupTimestamp": "2025-04-12T20:08:39.875Z"
+  },
+  {
+    "question": "The 'Souls' series progenitor, 'Demon's Souls', introduced a unique asynchronous multiplayer feature called?",
+    "correct_answer": "World Tendency",
+    "incorrect_answers": [
+      "Covenants",
+      "Bloodstains",
+      "Messages",
+      "Invasions",
+      "Summoning Signs",
+      "Ember System",
+      "Insight Mechanic"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Video Games",
+    "difficulty": "hard",
+    "id": "2cfabdbc-fa64-4557-b57b-4eba8b4b0a40",
+    "created_at": "2025-04-13T02:08:39.878Z",
+    "backupTimestamp": "2025-04-13T02:08:39.878Z",
+    "localBackupTimestamp": "2025-04-12T20:08:39.878Z"
+  },
+  {
+    "question": "What is the specific name of the sword wielded by Crono, the protagonist of 'Chrono Trigger'?",
+    "correct_answer": "Rainbow",
+    "incorrect_answers": [
+      "Masamune",
+      "Brave Sword",
+      "Demon Edge",
+      "Luminaire Edge",
+      "Epoch Blade",
+      "Dreamseeker",
+      "Bronze Edge"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Video Games",
+    "difficulty": "hard",
+    "id": "9e35e162-710d-475e-b9ef-1ed1e15d1a5a",
+    "created_at": "2025-04-13T02:08:39.881Z",
+    "backupTimestamp": "2025-04-13T02:08:39.881Z",
+    "localBackupTimestamp": "2025-04-12T20:08:39.881Z"
+  },
+  {
+    "question": "What was the name of the Commodore 64's primary storage medium before the 1541 disk drive became common?",
+    "correct_answer": "Datasette (Cassette Tape Drive)",
+    "incorrect_answers": [
+      "Cartridge Slot",
+      "5.25\" Floppy Disk",
+      "3.5\" Floppy Disk",
+      "Hard Drive",
+      "CD-ROM Drive",
+      "Network Storage",
+      "Punch Cards"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Video Games",
+    "difficulty": "hard",
+    "id": "2537279c-f5ee-4cd7-b12a-3d0f009b80c7",
+    "created_at": "2025-04-13T02:08:39.884Z",
+    "backupTimestamp": "2025-04-13T02:08:39.884Z",
+    "localBackupTimestamp": "2025-04-12T20:08:39.884Z"
+  },
+  {
+    "question": "In 'Ultima VII: The Black Gate', the main antagonist organization calls itself what?",
+    "correct_answer": "The Fellowship",
+    "incorrect_answers": [
+      "The Guardian's Cult",
+      "The Order of the Serpent",
+      "The Shadowlords",
+      "The Cult of the Wyrm",
+      "Mondain's Legacy",
+      "Minax's Enclave",
+      "The Seekers of Pagan"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Video Games",
+    "difficulty": "hard",
+    "id": "de87b2f1-b8ba-4af3-8f66-4420546a290f",
+    "created_at": "2025-04-13T02:08:39.887Z",
+    "backupTimestamp": "2025-04-13T02:08:39.887Z",
+    "localBackupTimestamp": "2025-04-12T20:08:39.887Z"
+  },
+  {
+    "question": "What unusual controller peripheral was bundled with the game 'Steel Battalion' for the original Xbox?",
+    "correct_answer": "A large controller with 40+ buttons, pedals, and joysticks",
+    "incorrect_answers": [
+      "A motion-sensing katana",
+      "A realistic light gun rifle",
+      "A dance pad with pressure sensors",
+      "A fishing rod controller",
+      "A keyboard and mouse adapter",
+      "A voice command headset",
+      "A steering wheel with force feedback"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Video Games",
+    "difficulty": "hard",
+    "id": "470ab926-afa1-49b5-9df4-04317e04de24",
+    "created_at": "2025-04-13T02:08:39.890Z",
+    "backupTimestamp": "2025-04-13T02:08:39.890Z",
+    "localBackupTimestamp": "2025-04-12T20:08:39.890Z"
+  },
+  {
+    "question": "The influential Amiga game 'Shadow of the Beast' was primarily known for its advanced graphics and what specific technical feat?",
+    "correct_answer": "Extensive parallax scrolling (up to 13 layers)",
+    "incorrect_answers": [
+      "Real-time 3D rendering",
+      "Digitized speech synthesis",
+      "Large number of on-screen sprites",
+      "CD-quality audio soundtrack",
+      "Complex physics engine",
+      "Procedurally generated levels",
+      "Support for high-resolution modes"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Video Games",
+    "difficulty": "hard",
+    "id": "4f68a4ed-fda1-4715-86fd-66ae7285d0a8",
+    "created_at": "2025-04-13T02:08:39.892Z",
+    "backupTimestamp": "2025-04-13T02:08:39.892Z",
+    "localBackupTimestamp": "2025-04-12T20:08:39.892Z"
+  },
+  {
+    "question": "What is the canonical name of the city where 'Bayonetta' primarily takes place?",
+    "correct_answer": "Vigrid",
+    "incorrect_answers": [
+      "Noatun",
+      "Fortitudo's Domain",
+      "Paradiso",
+      "Inferno",
+      "Umbran Capital",
+      "Lumen Sage Metropolis",
+      "Isla Del Sol"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Video Games",
+    "difficulty": "hard",
+    "id": "82733bdb-e646-4c71-9639-08a2a6650bd2",
+    "created_at": "2025-04-13T02:08:39.896Z",
+    "backupTimestamp": "2025-04-13T02:08:39.896Z",
+    "localBackupTimestamp": "2025-04-12T20:08:39.896Z"
+  },
+  {
+    "question": "What was the name of the add-on for the Nintendo 64 that allowed it to play games with enhanced graphics and performance?",
+    "correct_answer": "Expansion Pak",
+    "incorrect_answers": [
+      "Memory Pak",
+      "Rumble Pak",
+      "Transfer Pak",
+      "64DD (Disk Drive)",
+      "Super Pak",
+      "Booster Pak",
+      "Graphics Synthesizer"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Video Games",
+    "difficulty": "hard",
+    "id": "e739444d-500b-4ed8-986f-0f0bddbbc4ce",
+    "created_at": "2025-04-13T02:08:39.899Z",
+    "backupTimestamp": "2025-04-13T02:08:39.899Z",
+    "localBackupTimestamp": "2025-04-12T20:08:39.899Z"
+  },
+  {
+    "question": "In the lore of 'The Elder Scrolls', what is the name of the Daedric Prince of Madness?",
+    "correct_answer": "Sheogorath",
+    "incorrect_answers": [
+      "Molag Bal",
+      "Mehrunes Dagon",
+      "Hermaeus Mora",
+      "Vaermina",
+      "Azura",
+      "Jyggalag",
+      "Namira"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Video Games",
+    "difficulty": "hard",
+    "id": "e118fea9-a178-4531-b2c9-faff696f285f",
+    "created_at": "2025-04-13T02:08:39.902Z",
+    "backupTimestamp": "2025-04-13T02:08:39.902Z",
+    "localBackupTimestamp": "2025-04-12T20:08:39.902Z"
+  },
+  {
+    "question": "Which infamous glitch in the original 'Pokémon Red/Blue' allowed players to encounter a non-existent Pokémon?",
+    "correct_answer": "MissingNo.",
+    "incorrect_answers": [
+      "Glitch City",
+      "Mew Glitch",
+      "ZZAZZ Glitch",
+      "Trainer-Fly Glitch",
+      "Old Man Glitch",
+      "Ditto Glitch",
+      "Cable Club Glitch"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Video Games",
+    "difficulty": "hard",
+    "id": "4179c30c-e3f6-4bbd-96b4-7e61079564f1",
+    "created_at": "2025-04-13T02:08:39.905Z",
+    "backupTimestamp": "2025-04-13T02:08:39.905Z",
+    "localBackupTimestamp": "2025-04-12T20:08:39.905Z"
+  },
+  {
+    "question": "The TurboGrafx-16 console used credit card-sized game media called what?",
+    "correct_answer": "HuCard (TurboChip in US)",
+    "incorrect_answers": [
+      "Game Card",
+      "Memory Stick",
+      "UMD",
+      "Sega Card",
+      "ROM Cartridge",
+      "MiniDisc",
+      "CD-ROM²"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Video Games",
+    "difficulty": "hard",
+    "id": "baa59ff5-5210-4622-bed6-c90f1aadcb19",
+    "created_at": "2025-04-13T02:08:39.908Z",
+    "backupTimestamp": "2025-04-13T02:08:39.908Z",
+    "localBackupTimestamp": "2025-04-12T20:08:39.908Z"
+  },
+  {
+    "question": "What specific technical term describes the graphical effect used to create the illusion of 3D environments in games like 'Doom' (1993)?",
+    "correct_answer": "Binary Space Partitioning (BSP)",
+    "incorrect_answers": [
+      "Ray Tracing",
+      "Voxel Rendering",
+      "Texture Mapping",
+      "Polygon Rendering",
+      "Mode 7 Scaling",
+      "Parallax Scrolling",
+      "Sprite Scaling"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Video Games",
+    "difficulty": "hard",
+    "id": "8436bce9-77b6-4b66-8f4a-ae04a8da76d1",
+    "created_at": "2025-04-13T02:08:39.911Z",
+    "backupTimestamp": "2025-04-13T02:08:39.911Z",
+    "localBackupTimestamp": "2025-04-12T20:08:39.911Z"
+  },
+  {
+    "question": "Which game studio, known for 'System Shock 2' and 'BioShock', was co-founded by Ken Levine?",
+    "correct_answer": "Irrational Games",
+    "incorrect_answers": [
+      "Looking Glass Studios",
+      "Ion Storm",
+      "Arkane Studios",
+      "2K Marin",
+      "Ghost Story Games",
+      "Human Head Studios",
+      "Valve Corporation"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Video Games",
+    "difficulty": "hard",
+    "id": "ccfbfb19-9ec9-4c51-b52f-6e79429dadc6",
+    "created_at": "2025-04-13T02:08:39.913Z",
+    "backupTimestamp": "2025-04-13T02:08:39.914Z",
+    "localBackupTimestamp": "2025-04-12T20:08:39.914Z"
+  },
+  {
+    "question": "What is the name of the secret society pulling the strings in the 'Deus Ex' universe?",
+    "correct_answer": "The Illuminati",
+    "incorrect_answers": [
+      "The Templars",
+      "Majestic 12",
+      "The Patriots",
+      "Cipher",
+      "The Enclave",
+      "The Combine",
+      "Cerberus"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Video Games",
+    "difficulty": "hard",
+    "id": "01a9874e-6f51-4b7b-8558-def035c9c7b4",
+    "created_at": "2025-04-13T02:08:39.916Z",
+    "backupTimestamp": "2025-04-13T02:08:39.916Z",
+    "localBackupTimestamp": "2025-04-12T20:08:39.916Z"
+  },
+  {
+    "question": "What is the title of the very first game developed by Blizzard Entertainment (then known as Silicon & Synapse)?",
+    "correct_answer": "RPM Racing",
+    "incorrect_answers": [
+      "The Lost Vikings",
+      "Rock n' Roll Racing",
+      "Warcraft: Orcs & Humans",
+      "Blackthorne",
+      "Justice League Task Force",
+      "The Death and Return of Superman",
+      "Diablo"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Video Games",
+    "difficulty": "hard",
+    "id": "5aa6b2e2-af7e-4b76-8c39-2b69ecc7629c",
+    "created_at": "2025-04-13T02:08:39.921Z",
+    "backupTimestamp": "2025-04-13T02:08:39.921Z",
+    "localBackupTimestamp": "2025-04-12T20:08:39.921Z"
+  },
+  {
+    "question": "The critically acclaimed indie game 'Papers, Please' was created by a single developer. What is his name?",
+    "correct_answer": "Lucas Pope",
+    "incorrect_answers": [
+      "Jonathan Blow",
+      "Edmund McMillen",
+      "Phil Fish",
+      "Derek Yu",
+      "Markus Persson (Notch)",
+      "Eric Barone (ConcernedApe)",
+      "Toby Fox"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Video Games",
+    "difficulty": "hard",
+    "id": "8489e8f1-cb49-4e59-8cea-23fc2dac5b21",
+    "created_at": "2025-04-13T02:08:39.927Z",
+    "backupTimestamp": "2025-04-13T02:08:39.927Z",
+    "localBackupTimestamp": "2025-04-12T20:08:39.927Z"
+  },
+  {
+    "question": "Which rare and expensive SNES peripheral allowed players to download games via satellite broadcast in Japan?",
+    "correct_answer": "Satellaview",
+    "incorrect_answers": [
+      "Super Game Boy",
+      "SNES Mouse",
+      "Super Scope 6",
+      "Multiplayer Adapter (Multitap)",
+      "Nintento Power Cartridge",
+      "Sufami Turbo",
+      "Game Doctor SF"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Video Games",
+    "difficulty": "hard",
+    "id": "8e0902a8-6c2f-4d86-8462-cd372b578b58",
+    "created_at": "2025-04-13T02:08:39.933Z",
+    "backupTimestamp": "2025-04-13T02:08:39.933Z",
+    "localBackupTimestamp": "2025-04-12T20:08:39.933Z"
   }
 ]
