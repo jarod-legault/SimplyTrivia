@@ -584,61 +584,79 @@ export default function QuestionsPage() {
             </Text>
 
             <ScrollView style={styles.duplicatesContainer}>
-              {answersInQuestions.map((item, index) => (
-                <View key={index} style={styles.duplicateItem}>
-                  <View style={styles.questionComparison}>
-                    <View style={styles.questionBox}>
-                      <Text style={styles.questionLabel}>Question:</Text>
-                      <Text style={styles.questionText}>{item.question.question}</Text>
-                      <Text style={styles.questionMeta}>
-                        Category: {item.question.mainCategory} - {item.question.subcategory} |
-                        Difficulty: {item.question.difficulty}
-                      </Text>
-                      <View style={styles.answersContainer}>
-                        <Text style={styles.answerLabel}>Answers:</Text>
-                        <Text style={styles.correctAnswerText}>
-                          ✓ Correct: {item.question.correctAnswer}
-                        </Text>
-                        {(() => {
-                          const incorrectAnswers =
-                            typeof item.question.incorrectAnswers === 'string'
-                              ? JSON.parse(item.question.incorrectAnswers)
-                              : item.question.incorrectAnswers;
+              {answersInQuestions.map((item, index) => {
+                // Skip rendering if item or question is undefined
+                if (!item?.question) {
+                  console.warn(`Invalid item at index ${index}:`, item);
+                  return null;
+                }
 
-                          return incorrectAnswers.map((answer: string, idx: number) => (
-                            <Text key={idx} style={styles.incorrectAnswerText}>
-                              ✗ {answer}
-                            </Text>
-                          ));
-                        })()}
+                return (
+                  <View key={index} style={styles.duplicateItem}>
+                    <View style={styles.questionComparison}>
+                      <View style={styles.questionBox}>
+                        <Text style={styles.questionLabel}>Question:</Text>
+                        <Text style={styles.questionText}>{item.question.question}</Text>
+                        <Text style={styles.questionMeta}>
+                          Category: {item.question.mainCategory || 'N/A'}-
+                          {item.question.subcategory || 'N/A'} | Difficulty:{' '}
+                          {item.question.difficulty || 'N/A'}
+                        </Text>
+                        <View style={styles.answersContainer}>
+                          <Text style={styles.answerLabel}>Answers:</Text>
+                          <Text style={styles.correctAnswerText}>
+                            ✓ Correct: {item.question.correctAnswer || 'N/A'}
+                          </Text>
+                          {(() => {
+                            try {
+                              const incorrectAnswers =
+                                typeof item.question.incorrectAnswers === 'string'
+                                  ? JSON.parse(item.question.incorrectAnswers)
+                                  : item.question.incorrectAnswers || [];
+
+                              return incorrectAnswers.map((answer: string, idx: number) => (
+                                <Text key={idx} style={styles.incorrectAnswerText}>
+                                  ✗ {answer}
+                                </Text>
+                              ));
+                            } catch (error) {
+                              console.error('Error parsing incorrect answers:', error);
+                              return (
+                                <Text style={styles.incorrectAnswerText}>
+                                  Error loading incorrect answers
+                                </Text>
+                              );
+                            }
+                          })()}
+                        </View>
+                        <Text style={styles.reasonText}>Reason found: {item.reason || 'N/A'}</Text>
                       </View>
-                      <Text style={styles.reasonText}>Reason found: {item.reason}</Text>
+                    </View>
+
+                    <View style={styles.duplicateActions}>
+                      <Pressable
+                        onPress={() => handleAnswerInQuestionApproval(item.question, true)}
+                        style={({ pressed }) => [
+                          styles.button,
+                          styles.approveButton,
+                          pressed && { opacity: 0.7 },
+                        ]}>
+                        <Text style={styles.buttonText}>{jsonInput ? 'Add Anyway' : 'Keep'}</Text>
+                      </Pressable>
+                      <View style={styles.buttonSpacing} />
+                      <Pressable
+                        onPress={() => handleAnswerInQuestionApproval(item.question, false)}
+                        style={({ pressed }) => [
+                          styles.button,
+                          styles.rejectButton,
+                          pressed && { opacity: 0.7 },
+                        ]}>
+                        <Text style={styles.buttonText}>{jsonInput ? 'Skip' : 'Remove'}</Text>
+                      </Pressable>
                     </View>
                   </View>
-
-                  <View style={styles.duplicateActions}>
-                    <Pressable
-                      onPress={() => handleAnswerInQuestionApproval(item.question, true)}
-                      style={({ pressed }) => [
-                        styles.button,
-                        styles.approveButton,
-                        pressed && { opacity: 0.7 },
-                      ]}>
-                      <Text style={styles.buttonText}>{jsonInput ? 'Add Anyway' : 'Keep'}</Text>
-                    </Pressable>
-                    <View style={styles.buttonSpacing} />
-                    <Pressable
-                      onPress={() => handleAnswerInQuestionApproval(item.question, false)}
-                      style={({ pressed }) => [
-                        styles.button,
-                        styles.rejectButton,
-                        pressed && { opacity: 0.7 },
-                      ]}>
-                      <Text style={styles.buttonText}>{jsonInput ? 'Skip' : 'Remove'}</Text>
-                    </Pressable>
-                  </View>
-                </View>
-              ))}
+                );
+              })}
             </ScrollView>
 
             <Pressable
