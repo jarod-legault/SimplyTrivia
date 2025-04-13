@@ -22558,5 +22558,3285 @@
     "created_at": "2025-04-13T02:17:42.524Z",
     "backupTimestamp": "2025-04-13T02:17:42.524Z",
     "localBackupTimestamp": "2025-04-12T20:17:42.524Z"
+  },
+  {
+    "question": "Who wrote the 'Harry Potter' series?",
+    "correct_answer": "J.K. Rowling",
+    "incorrect_answers": [
+      "Suzanne Collins",
+      "Stephenie Meyer",
+      "George R.R. Martin",
+      "C.S. Lewis",
+      "J.R.R. Tolkien",
+      "Roald Dahl",
+      "Lois Lowry"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Books & Literature",
+    "difficulty": "easy",
+    "id": "a7dfb301-7e38-4a25-829e-4dbf77abc8a4",
+    "created_at": "2025-04-13T02:22:01.951Z",
+    "backupTimestamp": "2025-04-13T02:22:01.956Z",
+    "localBackupTimestamp": "2025-04-12T20:22:01.956Z"
+  },
+  {
+    "question": "What is the name of the wizarding school Harry Potter attends?",
+    "correct_answer": "Hogwarts",
+    "incorrect_answers": [
+      "Beauxbatons",
+      "Durmstrang",
+      "Ilvermorny",
+      "Castelobruxo",
+      "Mahoutokoro",
+      "Uagadou",
+      "Salem Witches' Institute"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Books & Literature",
+    "difficulty": "easy",
+    "id": "2c9428e6-26c3-413a-b648-893977a88f85",
+    "created_at": "2025-04-13T02:22:01.969Z",
+    "backupTimestamp": "2025-04-13T02:22:01.970Z",
+    "localBackupTimestamp": "2025-04-12T20:22:01.970Z"
+  },
+  {
+    "question": "In 'The Hunger Games', what is the name of the protagonist?",
+    "correct_answer": "Katniss Everdeen",
+    "incorrect_answers": [
+      "Primrose Everdeen",
+      "Peeta Mellark",
+      "Gale Hawthorne",
+      "Haymitch Abernathy",
+      "Effie Trinket",
+      "President Snow",
+      "Cinna"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Books & Literature",
+    "difficulty": "easy",
+    "id": "4e87df71-f370-44fa-af82-c61048ae8a0f",
+    "created_at": "2025-04-13T02:22:01.977Z",
+    "backupTimestamp": "2025-04-13T02:22:01.978Z",
+    "localBackupTimestamp": "2025-04-12T20:22:01.978Z"
+  },
+  {
+    "question": "Who is the author of 'Pride and Prejudice'?",
+    "correct_answer": "Jane Austen",
+    "incorrect_answers": [
+      "Charlotte Brontë",
+      "Emily Brontë",
+      "Mary Shelley",
+      "George Eliot",
+      "Virginia Woolf",
+      "Louisa May Alcott",
+      "Agatha Christie"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Books & Literature",
+    "difficulty": "easy",
+    "id": "b2e9b8e4-7ae4-44e2-b09b-bda7d1b639cd",
+    "created_at": "2025-04-13T02:22:01.984Z",
+    "backupTimestamp": "2025-04-13T02:22:01.985Z",
+    "localBackupTimestamp": "2025-04-12T20:22:01.985Z"
+  },
+  {
+    "question": "What type of creature is Bella Swan's love interest, Edward Cullen, in 'Twilight'?",
+    "correct_answer": "Vampire",
+    "incorrect_answers": [
+      "Werewolf",
+      "Wizard",
+      "Angel",
+      "Ghost",
+      "Zombie",
+      "Elf",
+      "Demon"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Books & Literature",
+    "difficulty": "easy",
+    "id": "11aba6e5-d568-45d1-8bba-c1c982ebecec",
+    "created_at": "2025-04-13T02:22:01.991Z",
+    "backupTimestamp": "2025-04-13T02:22:01.992Z",
+    "localBackupTimestamp": "2025-04-12T20:22:01.992Z"
+  },
+  {
+    "question": "Which book series features the land of Narnia?",
+    "correct_answer": "The Chronicles of Narnia",
+    "incorrect_answers": [
+      "The Lord of the Rings",
+      "Harry Potter",
+      "A Song of Ice and Fire",
+      "Percy Jackson & The Olympians",
+      "His Dark Materials",
+      "The Wheel of Time",
+      "Earthsea Cycle"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Books & Literature",
+    "difficulty": "easy",
+    "id": "d36b7824-da06-4bc7-a372-6532acad36c7",
+    "created_at": "2025-04-13T02:22:01.998Z",
+    "backupTimestamp": "2025-04-13T02:22:01.999Z",
+    "localBackupTimestamp": "2025-04-12T20:22:01.999Z"
+  },
+  {
+    "question": "Who wrote 'The Cat in the Hat'?",
+    "correct_answer": "Dr. Seuss",
+    "incorrect_answers": [
+      "Roald Dahl",
+      "Shel Silverstein",
+      "A.A. Milne",
+      "Eric Carle",
+      "Maurice Sendak",
+      "Beatrix Potter",
+      "Margaret Wise Brown"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Books & Literature",
+    "difficulty": "easy",
+    "id": "fc184e4f-793e-42f1-8fe4-bf3386f6b1a4",
+    "created_at": "2025-04-13T02:22:02.010Z",
+    "backupTimestamp": "2025-04-13T02:22:02.010Z",
+    "localBackupTimestamp": "2025-04-12T20:22:02.010Z"
+  },
+  {
+    "question": "What is the name of the hobbit who carries the One Ring in 'The Lord of the Rings'?",
+    "correct_answer": "Frodo Baggins",
+    "incorrect_answers": [
+      "Samwise Gamgee",
+      "Bilbo Baggins",
+      "Merry Brandybuck",
+      "Pippin Took",
+      "Gollum",
+      "Gandalf",
+      "Aragorn"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Books & Literature",
+    "difficulty": "easy",
+    "id": "49ec7cc1-6f32-4541-8c41-c916e7b26f0b",
+    "created_at": "2025-04-13T02:22:02.015Z",
+    "backupTimestamp": "2025-04-13T02:22:02.016Z",
+    "localBackupTimestamp": "2025-04-12T20:22:02.016Z"
+  },
+  {
+    "question": "Which Shakespearean play features the characters Romeo and Juliet?",
+    "correct_answer": "Romeo and Juliet",
+    "incorrect_answers": [
+      "Hamlet",
+      "Macbeth",
+      "Othello",
+      "A Midsummer Night's Dream",
+      "King Lear",
+      "The Tempest",
+      "Much Ado About Nothing"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Books & Literature",
+    "difficulty": "easy",
+    "id": "acc1aa96-32f2-4b78-898d-c6622feae08a",
+    "created_at": "2025-04-13T02:22:02.022Z",
+    "backupTimestamp": "2025-04-13T02:22:02.022Z",
+    "localBackupTimestamp": "2025-04-12T20:22:02.022Z"
+  },
+  {
+    "question": "What fictional detective lives at 221B Baker Street?",
+    "correct_answer": "Sherlock Holmes",
+    "incorrect_answers": [
+      "Hercule Poirot",
+      "Miss Marple",
+      "Philip Marlowe",
+      "Sam Spade",
+      "Nancy Drew",
+      "Inspector Clouseau",
+      "Dirk Gently"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Books & Literature",
+    "difficulty": "easy",
+    "id": "2392a040-e038-47d7-b006-9b18e714acea",
+    "created_at": "2025-04-13T02:22:02.028Z",
+    "backupTimestamp": "2025-04-13T02:22:02.028Z",
+    "localBackupTimestamp": "2025-04-12T20:22:02.028Z"
+  },
+  {
+    "question": "Who wrote 'Charlie and the Chocolate Factory'?",
+    "correct_answer": "Roald Dahl",
+    "incorrect_answers": [
+      "Dr. Seuss",
+      "C.S. Lewis",
+      "E.B. White",
+      "A.A. Milne",
+      "J.K. Rowling",
+      "Lewis Carroll",
+      "L. Frank Baum"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Books & Literature",
+    "difficulty": "easy",
+    "id": "382bf104-bc96-4979-88eb-af3733bc1742",
+    "created_at": "2025-04-13T02:22:02.033Z",
+    "backupTimestamp": "2025-04-13T02:22:02.034Z",
+    "localBackupTimestamp": "2025-04-12T20:22:02.034Z"
+  },
+  {
+    "question": "In George Orwell's 'Animal Farm', the pigs represent leaders of which real-world event?",
+    "correct_answer": "The Russian Revolution / Stalinist Era",
+    "incorrect_answers": [
+      "The American Revolution",
+      "World War I",
+      "The French Revolution",
+      "The Industrial Revolution",
+      "The Cold War",
+      "The Rise of Nazi Germany",
+      "The English Civil War"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Books & Literature",
+    "difficulty": "easy",
+    "id": "d03be987-0a1d-41cc-bb48-053580f7fc96",
+    "created_at": "2025-04-13T02:22:02.040Z",
+    "backupTimestamp": "2025-04-13T02:22:02.040Z",
+    "localBackupTimestamp": "2025-04-12T20:22:02.040Z"
+  },
+  {
+    "question": "What is the name of the young wizard who is Harry Potter's best male friend?",
+    "correct_answer": "Ron Weasley",
+    "incorrect_answers": [
+      "Hermione Granger",
+      "Neville Longbottom",
+      "Draco Malfoy",
+      "Albus Dumbledore",
+      "Sirius Black",
+      "Rubeus Hagrid",
+      "Cedric Diggory"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Books & Literature",
+    "difficulty": "easy",
+    "id": "675d6f99-ae6d-44bf-9170-123d41c99588",
+    "created_at": "2025-04-13T02:22:02.046Z",
+    "backupTimestamp": "2025-04-13T02:22:02.046Z",
+    "localBackupTimestamp": "2025-04-12T20:22:02.046Z"
+  },
+  {
+    "question": "Which novel begins with the line 'Call me Ishmael'?",
+    "correct_answer": "Moby Dick",
+    "incorrect_answers": [
+      "The Old Man and the Sea",
+      "Treasure Island",
+      "Robinson Crusoe",
+      "Twenty Thousand Leagues Under the Sea",
+      "Gulliver's Travels",
+      "The Adventures of Huckleberry Finn",
+      "Heart of Darkness"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Books & Literature",
+    "difficulty": "easy",
+    "id": "0e2eb28c-9bce-4ab3-bfec-bcf0b19511fe",
+    "created_at": "2025-04-13T02:22:02.053Z",
+    "backupTimestamp": "2025-04-13T02:22:02.054Z",
+    "localBackupTimestamp": "2025-04-12T20:22:02.054Z"
+  },
+  {
+    "question": "What genre of literature features made-up stories, often with imaginary characters and events?",
+    "correct_answer": "Fiction",
+    "incorrect_answers": [
+      "Non-fiction",
+      "Biography",
+      "Autobiography",
+      "History",
+      "Science",
+      "Memoir",
+      "Essay"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Books & Literature",
+    "difficulty": "easy",
+    "id": "8d438258-dda7-45f0-9f53-872ae195e5ea",
+    "created_at": "2025-04-13T02:22:02.059Z",
+    "backupTimestamp": "2025-04-13T02:22:02.059Z",
+    "localBackupTimestamp": "2025-04-12T20:22:02.059Z"
+  },
+  {
+    "question": "Who wrote 'Where the Wild Things Are'?",
+    "correct_answer": "Maurice Sendak",
+    "incorrect_answers": [
+      "Dr. Seuss",
+      "Eric Carle",
+      "Shel Silverstein",
+      "Beatrix Potter",
+      "Margaret Wise Brown",
+      "Roald Dahl",
+      "Ezra Jack Keats"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Books & Literature",
+    "difficulty": "easy",
+    "id": "cf44a5a1-22c7-4523-b9bf-000063b2c441",
+    "created_at": "2025-04-13T02:22:02.065Z",
+    "backupTimestamp": "2025-04-13T02:22:02.065Z",
+    "localBackupTimestamp": "2025-04-12T20:22:02.065Z"
+  },
+  {
+    "question": "What is the main character's name in 'The Catcher in the Rye'?",
+    "correct_answer": "Holden Caulfield",
+    "incorrect_answers": [
+      "Jay Gatsby",
+      "Atticus Finch",
+      "Ponyboy Curtis",
+      "Nick Carraway",
+      "Sal Paradise",
+      "Ralph",
+      "Scout Finch"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Books & Literature",
+    "difficulty": "easy",
+    "id": "a4610a47-b4e3-4bee-903d-6e81301707f3",
+    "created_at": "2025-04-13T02:22:02.070Z",
+    "backupTimestamp": "2025-04-13T02:22:02.071Z",
+    "localBackupTimestamp": "2025-04-12T20:22:02.071Z"
+  },
+  {
+    "question": "Which book features the character Atticus Finch, a lawyer defending a black man in the racially charged American South?",
+    "correct_answer": "To Kill a Mockingbird",
+    "incorrect_answers": [
+      "The Great Gatsby",
+      "Of Mice and Men",
+      "The Grapes of Wrath",
+      "Gone with the Wind",
+      "Invisible Man",
+      "A Raisin in the Sun",
+      "Beloved"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Books & Literature",
+    "difficulty": "easy",
+    "id": "f7f85a59-d92d-4250-b1ea-d5ff19e92556",
+    "created_at": "2025-04-13T02:22:02.076Z",
+    "backupTimestamp": "2025-04-13T02:22:02.076Z",
+    "localBackupTimestamp": "2025-04-12T20:22:02.076Z"
+  },
+  {
+    "question": "Who wrote 'The Very Hungry Caterpillar'?",
+    "correct_answer": "Eric Carle",
+    "incorrect_answers": [
+      "Dr. Seuss",
+      "Maurice Sendak",
+      "Beatrix Potter",
+      "A.A. Milne",
+      "Margaret Wise Brown",
+      "Shel Silverstein",
+      "Leo Lionni"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Books & Literature",
+    "difficulty": "easy",
+    "id": "9277b2ba-fecc-4db6-9d34-28ee0bf72045",
+    "created_at": "2025-04-13T02:22:02.081Z",
+    "backupTimestamp": "2025-04-13T02:22:02.081Z",
+    "localBackupTimestamp": "2025-04-12T20:22:02.081Z"
+  },
+  {
+    "question": "In the 'Twilight' saga, what supernatural creature is Jacob Black?",
+    "correct_answer": "Werewolf / Shape-shifter",
+    "incorrect_answers": [
+      "Vampire",
+      "Wizard",
+      "Ghost",
+      "Human",
+      "Angel",
+      "Demon",
+      "Fairy"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Books & Literature",
+    "difficulty": "easy",
+    "id": "4866431e-9b3c-4a0d-9528-f611e33ac10e",
+    "created_at": "2025-04-13T02:22:02.086Z",
+    "backupTimestamp": "2025-04-13T02:22:02.087Z",
+    "localBackupTimestamp": "2025-04-12T20:22:02.087Z"
+  },
+  {
+    "question": "What magical object does Aladdin find in a cave?",
+    "correct_answer": "A magic lamp",
+    "incorrect_answers": [
+      "A magic carpet",
+      "A magic ring",
+      "A crystal ball",
+      "A flying sword",
+      "A genie's bottle",
+      "A golden fleece",
+      "A philosopher's stone"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Books & Literature",
+    "difficulty": "easy",
+    "id": "341b6047-e762-4428-9112-c7facf309510",
+    "created_at": "2025-04-13T02:22:02.091Z",
+    "backupTimestamp": "2025-04-13T02:22:02.091Z",
+    "localBackupTimestamp": "2025-04-12T20:22:02.091Z"
+  },
+  {
+    "question": "Which character creates a monster from assembled body parts in Mary Shelley's novel?",
+    "correct_answer": "Victor Frankenstein",
+    "incorrect_answers": [
+      "The Monster",
+      "Igor",
+      "Dracula",
+      "Dr. Jekyll",
+      "Abraham Van Helsing",
+      "Henry Clerval",
+      "Robert Walton"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Books & Literature",
+    "difficulty": "easy",
+    "id": "a18f9f44-3bdb-472f-9c67-cc62483761da",
+    "created_at": "2025-04-13T02:22:02.096Z",
+    "backupTimestamp": "2025-04-13T02:22:02.096Z",
+    "localBackupTimestamp": "2025-04-12T20:22:02.096Z"
+  },
+  {
+    "question": "Who is the author of the horror novel 'It'?",
+    "correct_answer": "Stephen King",
+    "incorrect_answers": [
+      "Dean Koontz",
+      "H.P. Lovecraft",
+      "Anne Rice",
+      "Clive Barker",
+      "Edgar Allan Poe",
+      "Peter Straub",
+      "Shirley Jackson"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Books & Literature",
+    "difficulty": "easy",
+    "id": "abb28715-59ee-4f91-ba81-47b1131c2a54",
+    "created_at": "2025-04-13T02:22:02.100Z",
+    "backupTimestamp": "2025-04-13T02:22:02.100Z",
+    "localBackupTimestamp": "2025-04-12T20:22:02.100Z"
+  },
+  {
+    "question": "What kind of animal is Wilbur in E.B. White's 'Charlotte's Web'?",
+    "correct_answer": "Pig",
+    "incorrect_answers": [
+      "Spider",
+      "Rat",
+      "Sheep",
+      "Goose",
+      "Horse",
+      "Cow",
+      "Dog"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Books & Literature",
+    "difficulty": "easy",
+    "id": "cfbb6e7f-fe3e-4ea4-bb72-24deea309e29",
+    "created_at": "2025-04-13T02:22:02.104Z",
+    "backupTimestamp": "2025-04-13T02:22:02.104Z",
+    "localBackupTimestamp": "2025-04-12T20:22:02.104Z"
+  },
+  {
+    "question": "Which fictional land is the setting for L. Frank Baum's 'The Wonderful Wizard of Oz'?",
+    "correct_answer": "Oz",
+    "incorrect_answers": [
+      "Narnia",
+      "Middle-earth",
+      "Wonderland",
+      "Neverland",
+      "Fantastica",
+      "Camelot",
+      "Pern"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Books & Literature",
+    "difficulty": "easy",
+    "id": "59cb0c22-0186-43e0-b369-22f509cdfb80",
+    "created_at": "2025-04-13T02:22:02.109Z",
+    "backupTimestamp": "2025-04-13T02:22:02.109Z",
+    "localBackupTimestamp": "2025-04-12T20:22:02.109Z"
+  },
+  {
+    "question": "What is the term for the main character in a story?",
+    "correct_answer": "Protagonist",
+    "incorrect_answers": [
+      "Antagonist",
+      "Narrator",
+      "Foil",
+      "Sidekick",
+      "Villain",
+      "Author",
+      "Climax"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Books & Literature",
+    "difficulty": "easy",
+    "id": "4407cdc0-f9f3-404d-a988-14965ebb04d2",
+    "created_at": "2025-04-13T02:22:02.113Z",
+    "backupTimestamp": "2025-04-13T02:22:02.113Z",
+    "localBackupTimestamp": "2025-04-12T20:22:02.113Z"
+  },
+  {
+    "question": "Who is the boy who lives with bears, wolves, and a panther in Rudyard Kipling's 'The Jungle Book'?",
+    "correct_answer": "Mowgli",
+    "incorrect_answers": [
+      "Tarzan",
+      "Peter Pan",
+      "Baloo",
+      "Bagheera",
+      "Shere Khan",
+      "Kaa",
+      "Rikki-Tikki-Tavi"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Books & Literature",
+    "difficulty": "easy",
+    "id": "8bb80fd5-e006-48e3-958c-df6a9d195e53",
+    "created_at": "2025-04-13T02:22:02.118Z",
+    "backupTimestamp": "2025-04-13T02:22:02.118Z",
+    "localBackupTimestamp": "2025-04-12T20:22:02.118Z"
+  },
+  {
+    "question": "What color is the Cowardly Lion's medal for bravery in 'The Wonderful Wizard of Oz'?",
+    "correct_answer": "Green (Badge of Courage)",
+    "incorrect_answers": [
+      "Gold",
+      "Silver",
+      "Bronze",
+      "Red",
+      "Blue",
+      "Yellow",
+      "He doesn't get a medal"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Books & Literature",
+    "difficulty": "easy",
+    "id": "fc4cc12e-9e38-4bd4-b9ed-23425b0d15b8",
+    "created_at": "2025-04-13T02:22:02.122Z",
+    "backupTimestamp": "2025-04-13T02:22:02.122Z",
+    "localBackupTimestamp": "2025-04-12T20:22:02.122Z"
+  },
+  {
+    "question": "What is the name of the giant squid in Jules Verne's 'Twenty Thousand Leagues Under the Sea'?",
+    "correct_answer": "Giant Squid (No specific name given)",
+    "incorrect_answers": [
+      "Kraken",
+      "Nautilus",
+      "Leviathan",
+      "Moby Dick",
+      "Cthulhu",
+      "Hydra",
+      "Scylla"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Books & Literature",
+    "difficulty": "easy",
+    "id": "bb78c336-53fb-4c0f-812b-fc3810ef70b5",
+    "created_at": "2025-04-13T02:22:02.126Z",
+    "backupTimestamp": "2025-04-13T02:22:02.127Z",
+    "localBackupTimestamp": "2025-04-12T20:22:02.127Z"
+  },
+  {
+    "question": "In 'Alice's Adventures in Wonderland', which character is known for grinning?",
+    "correct_answer": "The Cheshire Cat",
+    "incorrect_answers": [
+      "The Mad Hatter",
+      "The Queen of Hearts",
+      "The White Rabbit",
+      "The March Hare",
+      "The Dormouse",
+      "The Caterpillar",
+      "Alice"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Books & Literature",
+    "difficulty": "easy",
+    "id": "9979f170-d6d1-41c1-9b70-80be8677eb7c",
+    "created_at": "2025-04-13T02:22:02.131Z",
+    "backupTimestamp": "2025-04-13T02:22:02.131Z",
+    "localBackupTimestamp": "2025-04-12T20:22:02.131Z"
+  },
+  {
+    "question": "What is the profession of Robert Langdon, the protagonist in Dan Brown's novels like 'The Da Vinci Code'?",
+    "correct_answer": "Symbologist / Professor of Religious Iconology",
+    "incorrect_answers": [
+      "Historian",
+      "Archaeologist",
+      "Cryptographer",
+      "Detective",
+      "Art Thief",
+      "Priest",
+      "Linguist"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Books & Literature",
+    "difficulty": "easy",
+    "id": "12371929-9dfc-444b-a805-a5f811e72743",
+    "created_at": "2025-04-13T02:22:02.136Z",
+    "backupTimestamp": "2025-04-13T02:22:02.136Z",
+    "localBackupTimestamp": "2025-04-12T20:22:02.136Z"
+  },
+  {
+    "question": "Who wrote 'The Old Man and the Sea'?",
+    "correct_answer": "Ernest Hemingway",
+    "incorrect_answers": [
+      "F. Scott Fitzgerald",
+      "John Steinbeck",
+      "William Faulkner",
+      "Mark Twain",
+      "Herman Melville",
+      "Jack London",
+      "Joseph Conrad"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Books & Literature",
+    "difficulty": "easy",
+    "id": "61fd6940-9d46-4a54-9324-684a73102f30",
+    "created_at": "2025-04-13T02:22:02.141Z",
+    "backupTimestamp": "2025-04-13T02:22:02.141Z",
+    "localBackupTimestamp": "2025-04-12T20:22:02.141Z"
+  },
+  {
+    "question": "What island nation is the setting for 'Treasure Island' by Robert Louis Stevenson?",
+    "correct_answer": "Fictional island (Treasure Island)",
+    "incorrect_answers": [
+      "Jamaica",
+      "Cuba",
+      "Hispaniola",
+      "Tortuga",
+      "Madagascar",
+      "Barbados",
+      "Bermuda"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Books & Literature",
+    "difficulty": "easy",
+    "id": "1e2a63a3-a680-4487-a990-7fe8e3ae5a4f",
+    "created_at": "2025-04-13T02:22:02.145Z",
+    "backupTimestamp": "2025-04-13T02:22:02.145Z",
+    "localBackupTimestamp": "2025-04-12T20:22:02.145Z"
+  },
+  {
+    "question": "Which book series is set in the fictional world of Westeros?",
+    "correct_answer": "A Song of Ice and Fire",
+    "incorrect_answers": [
+      "The Lord of the Rings",
+      "The Wheel of Time",
+      "The Chronicles of Narnia",
+      "The Kingkiller Chronicle",
+      "Mistborn",
+      "The Stormlight Archive",
+      "Malazan Book of the Fallen"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Books & Literature",
+    "difficulty": "easy",
+    "id": "32c099f0-c061-4900-bc87-10cef22e7092",
+    "created_at": "2025-04-13T02:22:02.150Z",
+    "backupTimestamp": "2025-04-13T02:22:02.151Z",
+    "localBackupTimestamp": "2025-04-12T20:22:02.151Z"
+  },
+  {
+    "question": "What is the first book in 'The Chronicles of Narnia' by publication order?",
+    "correct_answer": "The Lion, the Witch and the Wardrobe",
+    "incorrect_answers": [
+      "The Magician's Nephew",
+      "Prince Caspian",
+      "The Voyage of the Dawn Treader",
+      "The Silver Chair",
+      "The Horse and His Boy",
+      "The Last Battle",
+      "The Lion's Paw"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Books & Literature",
+    "difficulty": "easy",
+    "id": "17d9ebb9-9b35-4685-8831-882a31be05e2",
+    "created_at": "2025-04-13T02:22:02.155Z",
+    "backupTimestamp": "2025-04-13T02:22:02.155Z",
+    "localBackupTimestamp": "2025-04-12T20:22:02.155Z"
+  },
+  {
+    "question": "Which Charles Dickens novel features the character Ebenezer Scrooge?",
+    "correct_answer": "A Christmas Carol",
+    "incorrect_answers": [
+      "Oliver Twist",
+      "Great Expectations",
+      "David Copperfield",
+      "A Tale of Two Cities",
+      "Bleak House",
+      "Hard Times",
+      "Nicholas Nickleby"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Books & Literature",
+    "difficulty": "easy",
+    "id": "0dfcf25b-c0b9-4de5-b8eb-1e7640b97db3",
+    "created_at": "2025-04-13T02:22:02.159Z",
+    "backupTimestamp": "2025-04-13T02:22:02.160Z",
+    "localBackupTimestamp": "2025-04-12T20:22:02.160Z"
+  },
+  {
+    "question": "What type of animal is Aslan in 'The Chronicles of Narnia'?",
+    "correct_answer": "Lion",
+    "incorrect_answers": [
+      "Tiger",
+      "Bear",
+      "Wolf",
+      "Eagle",
+      "Horse",
+      "Dragon",
+      "Man"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Books & Literature",
+    "difficulty": "easy",
+    "id": "f75da83d-58a5-40f1-aa66-fa00bc5bd96d",
+    "created_at": "2025-04-13T02:22:02.164Z",
+    "backupTimestamp": "2025-04-13T02:22:02.164Z",
+    "localBackupTimestamp": "2025-04-12T20:22:02.164Z"
+  },
+  {
+    "question": "In 'The Great Gatsby', what is the name of the narrator?",
+    "correct_answer": "Nick Carraway",
+    "incorrect_answers": [
+      "Jay Gatsby",
+      "Tom Buchanan",
+      "Daisy Buchanan",
+      "Jordan Baker",
+      "George Wilson",
+      "Myrtle Wilson",
+      "Meyer Wolfsheim"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Books & Literature",
+    "difficulty": "easy",
+    "id": "3ff53f6d-aa36-4e1d-ad1c-a237247779f8",
+    "created_at": "2025-04-13T02:22:02.168Z",
+    "backupTimestamp": "2025-04-13T02:22:02.169Z",
+    "localBackupTimestamp": "2025-04-12T20:22:02.169Z"
+  },
+  {
+    "question": "What children's story features a wooden puppet who wants to become a real boy?",
+    "correct_answer": "Pinocchio",
+    "incorrect_answers": [
+      "Peter Pan",
+      "The Velveteen Rabbit",
+      "Toy Story",
+      "The Steadfast Tin Soldier",
+      "Frosty the Snowman",
+      "The Little Engine That Could",
+      "Corduroy"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Books & Literature",
+    "difficulty": "easy",
+    "id": "5b29817f-8449-49ea-ac3f-a2b65f45cf84",
+    "created_at": "2025-04-13T02:22:02.173Z",
+    "backupTimestamp": "2025-04-13T02:22:02.173Z",
+    "localBackupTimestamp": "2025-04-12T20:22:02.173Z"
+  },
+  {
+    "question": "Who wrote the novel '1984'?",
+    "correct_answer": "George Orwell",
+    "incorrect_answers": [
+      "Aldous Huxley",
+      "Ray Bradbury",
+      "H.G. Wells",
+      "Arthur C. Clarke",
+      "Isaac Asimov",
+      "Philip K. Dick",
+      "Kurt Vonnegut"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Books & Literature",
+    "difficulty": "easy",
+    "id": "b3a08bba-f8e7-4c83-9387-d7f3488a4911",
+    "created_at": "2025-04-13T02:22:02.177Z",
+    "backupTimestamp": "2025-04-13T02:22:02.177Z",
+    "localBackupTimestamp": "2025-04-12T20:22:02.177Z"
+  },
+  {
+    "question": "What do Katniss and Peeta pretend to be in 'The Hunger Games' to gain favor?",
+    "correct_answer": "Star-crossed lovers",
+    "incorrect_answers": [
+      "Siblings",
+      "Best friends",
+      "Cousins",
+      "Master and apprentice",
+      "Rivals",
+      "Wealthy sponsors",
+      "Escaped prisoners"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Books & Literature",
+    "difficulty": "easy",
+    "id": "2612fe38-55ce-4d27-bbcd-a00dd7786d58",
+    "created_at": "2025-04-13T02:22:02.181Z",
+    "backupTimestamp": "2025-04-13T02:22:02.181Z",
+    "localBackupTimestamp": "2025-04-12T20:22:02.181Z"
+  },
+  {
+    "question": "What sport is played on broomsticks in the 'Harry Potter' series?",
+    "correct_answer": "Quidditch",
+    "incorrect_answers": [
+      "Broom Ball",
+      "Wizard's Chess",
+      "Gobstones",
+      "Skysticks",
+      "Dragon Racing",
+      "Snitch Snatch",
+      "Bludger Bash"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Books & Literature",
+    "difficulty": "easy",
+    "id": "080da286-355d-44f0-af9f-5564b2817cc5",
+    "created_at": "2025-04-13T02:22:02.186Z",
+    "backupTimestamp": "2025-04-13T02:22:02.186Z",
+    "localBackupTimestamp": "2025-04-12T20:22:02.186Z"
+  },
+  {
+    "question": "Who is the author of 'The Little Prince'?",
+    "correct_answer": "Antoine de Saint-Exupéry",
+    "incorrect_answers": [
+      "Hans Christian Andersen",
+      "Brothers Grimm",
+      "Charles Perrault",
+      "A.A. Milne",
+      "Lewis Carroll",
+      "J.M. Barrie",
+      "Oscar Wilde"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Books & Literature",
+    "difficulty": "easy",
+    "id": "f383cf26-105e-45e8-bff7-17dbf5884994",
+    "created_at": "2025-04-13T02:22:02.190Z",
+    "backupTimestamp": "2025-04-13T02:22:02.191Z",
+    "localBackupTimestamp": "2025-04-12T20:22:02.191Z"
+  },
+  {
+    "question": "What famous monster is the subject of Bram Stoker's 1897 novel?",
+    "correct_answer": "Dracula",
+    "incorrect_answers": [
+      "Frankenstein's Monster",
+      "The Wolf Man",
+      "The Mummy",
+      "The Phantom of the Opera",
+      "Mr. Hyde",
+      "Carmilla",
+      "Varney the Vampire"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Books & Literature",
+    "difficulty": "easy",
+    "id": "fdff08b0-587c-43b8-b166-7482a302b865",
+    "created_at": "2025-04-13T02:22:02.196Z",
+    "backupTimestamp": "2025-04-13T02:22:02.196Z",
+    "localBackupTimestamp": "2025-04-12T20:22:02.196Z"
+  },
+  {
+    "question": "Which American author wrote 'The Adventures of Tom Sawyer' and 'Adventures of Huckleberry Finn'?",
+    "correct_answer": "Mark Twain",
+    "incorrect_answers": [
+      "Herman Melville",
+      "Nathaniel Hawthorne",
+      "Edgar Allan Poe",
+      "Jack London",
+      "Henry James",
+      "William Faulkner",
+      "John Steinbeck"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Books & Literature",
+    "difficulty": "easy",
+    "id": "3572ec83-93ab-4115-a1a0-50e7ff4bedb8",
+    "created_at": "2025-04-13T02:22:02.200Z",
+    "backupTimestamp": "2025-04-13T02:22:02.200Z",
+    "localBackupTimestamp": "2025-04-12T20:22:02.200Z"
+  },
+  {
+    "question": "What is the name of the pig who leads the revolution in 'Animal Farm'?",
+    "correct_answer": "Napoleon",
+    "incorrect_answers": [
+      "Snowball",
+      "Squealer",
+      "Old Major",
+      "Boxer",
+      "Benjamin",
+      "Clover",
+      "Mr. Jones"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Books & Literature",
+    "difficulty": "easy",
+    "id": "54d3e1c4-2f95-4365-89cc-e73f00da7be8",
+    "created_at": "2025-04-13T02:22:02.205Z",
+    "backupTimestamp": "2025-04-13T02:22:02.205Z",
+    "localBackupTimestamp": "2025-04-12T20:22:02.205Z"
+  },
+  {
+    "question": "What dystopian novel by Aldous Huxley features a society stratified into Alphas, Betas, Gammas, Deltas, and Epsilons?",
+    "correct_answer": "Brave New World",
+    "incorrect_answers": [
+      "1984",
+      "Fahrenheit 451",
+      "A Clockwork Orange",
+      "The Handmaid's Tale",
+      "Do Androids Dream of Electric Sheep?",
+      "We",
+      "Utopia"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Books & Literature",
+    "difficulty": "easy",
+    "id": "a23c68a1-a369-493a-b7c0-2707e292e3ef",
+    "created_at": "2025-04-13T02:22:02.210Z",
+    "backupTimestamp": "2025-04-13T02:22:02.210Z",
+    "localBackupTimestamp": "2025-04-12T20:22:02.210Z"
+  },
+  {
+    "question": "Who is the Greek god protagonist of the 'Percy Jackson & The Olympians' series?",
+    "correct_answer": "Percy Jackson (Son of Poseidon)",
+    "incorrect_answers": [
+      "Zeus",
+      "Hades",
+      "Apollo",
+      "Ares",
+      "Hermes",
+      "Hephaestus",
+      "Dionysus"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Books & Literature",
+    "difficulty": "easy",
+    "id": "73ac8d91-37ca-4217-8a71-edafcb15d678",
+    "created_at": "2025-04-13T02:22:02.214Z",
+    "backupTimestamp": "2025-04-13T02:22:02.214Z",
+    "localBackupTimestamp": "2025-04-12T20:22:02.214Z"
+  },
+  {
+    "question": "What is the name of the fantasy series written by George R.R. Martin that inspired the TV show 'Game of Thrones'?",
+    "correct_answer": "A Song of Ice and Fire",
+    "incorrect_answers": [
+      "The Lord of the Rings",
+      "The Wheel of Time",
+      "Mistborn",
+      "The Kingkiller Chronicle",
+      "The Stormlight Archive",
+      "Malazan Book of the Fallen",
+      "The Black Company"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Books & Literature",
+    "difficulty": "easy",
+    "id": "6b2eb657-c356-42c6-91a5-07981f73c9d4",
+    "created_at": "2025-04-13T02:22:02.218Z",
+    "backupTimestamp": "2025-04-13T02:22:02.219Z",
+    "localBackupTimestamp": "2025-04-12T20:22:02.219Z"
+  },
+  {
+    "question": "What genre typically involves crime, a detective, clues, and the solving of a mystery?",
+    "correct_answer": "Mystery / Detective Fiction",
+    "incorrect_answers": [
+      "Fantasy",
+      "Science Fiction",
+      "Horror",
+      "Romance",
+      "Thriller",
+      "Historical Fiction",
+      "Western"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Books & Literature",
+    "difficulty": "easy",
+    "id": "31aeff53-7fff-4caa-b0dd-440bf945dcb8",
+    "created_at": "2025-04-13T02:22:02.223Z",
+    "backupTimestamp": "2025-04-13T02:22:02.224Z",
+    "localBackupTimestamp": "2025-04-12T20:22:02.224Z"
+  },
+  {
+    "question": "In 'The Lion, the Witch and the Wardrobe', what piece of furniture serves as the portal to Narnia?",
+    "correct_answer": "A wardrobe",
+    "incorrect_answers": [
+      "A mirror",
+      "A painting",
+      "A grandfather clock",
+      "A doorway",
+      "A rabbit hole",
+      "A lamppost",
+      "A chest"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Books & Literature",
+    "difficulty": "easy",
+    "id": "b6d6ad15-c843-488c-af1a-e6ead3e3dcd2",
+    "created_at": "2025-04-13T02:22:02.228Z",
+    "backupTimestamp": "2025-04-13T02:22:02.228Z",
+    "localBackupTimestamp": "2025-04-12T20:22:02.228Z"
+  },
+  {
+    "question": "What is the occupation of the protagonist in Ray Bradbury's 'Fahrenheit 451'?",
+    "correct_answer": "Fireman (who burns books)",
+    "incorrect_answers": [
+      "Librarian",
+      "Teacher",
+      "Policeman",
+      "Writer",
+      "Rebel Leader",
+      "Scientist",
+      "Doctor"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Books & Literature",
+    "difficulty": "medium",
+    "id": "cf0dc0b3-172a-4280-8134-00c747b8593c",
+    "created_at": "2025-04-13T02:22:02.232Z",
+    "backupTimestamp": "2025-04-13T02:22:02.232Z",
+    "localBackupTimestamp": "2025-04-12T20:22:02.232Z"
+  },
+  {
+    "question": "Which Bronte sister wrote 'Jane Eyre'?",
+    "correct_answer": "Charlotte Brontë",
+    "incorrect_answers": [
+      "Emily Brontë",
+      "Anne Brontë",
+      "Jane Austen",
+      "Mary Shelley",
+      "George Eliot",
+      "Elizabeth Gaskell",
+      "Virginia Woolf"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Books & Literature",
+    "difficulty": "medium",
+    "id": "c83873c1-3eaa-42ec-935e-73f70ae79d10",
+    "created_at": "2025-04-13T02:22:02.237Z",
+    "backupTimestamp": "2025-04-13T02:22:02.237Z",
+    "localBackupTimestamp": "2025-04-12T20:22:02.237Z"
+  },
+  {
+    "question": "In 'The Hitchhiker's Guide to the Galaxy', what number is the Answer to the Ultimate Question of Life, the Universe, and Everything?",
+    "correct_answer": "42",
+    "incorrect_answers": [
+      "7",
+      "13",
+      "0",
+      "101",
+      "3.14",
+      "Infinity",
+      "Don't Panic"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Books & Literature",
+    "difficulty": "medium",
+    "id": "3a9b337c-803a-429b-8821-0a84516e4324",
+    "created_at": "2025-04-13T02:22:02.242Z",
+    "backupTimestamp": "2025-04-13T02:22:02.242Z",
+    "localBackupTimestamp": "2025-04-12T20:22:02.242Z"
+  },
+  {
+    "question": "What literary device is used when the narrative hints at future events?",
+    "correct_answer": "Foreshadowing",
+    "incorrect_answers": [
+      "Flashback",
+      "Irony",
+      "Metaphor",
+      "Symbolism",
+      "Allusion",
+      "Personification",
+      "Imagery"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Books & Literature",
+    "difficulty": "medium",
+    "id": "c9a252a2-ec4c-4208-bd13-a651a0cdb26e",
+    "created_at": "2025-04-13T02:22:02.248Z",
+    "backupTimestamp": "2025-04-13T02:22:02.249Z",
+    "localBackupTimestamp": "2025-04-12T20:22:02.249Z"
+  },
+  {
+    "question": "Who wrote the epic poem 'The Odyssey'?",
+    "correct_answer": "Homer",
+    "incorrect_answers": [
+      "Virgil",
+      "Sophocles",
+      "Euripides",
+      "Plato",
+      "Aristotle",
+      "Ovid",
+      "Hesiod"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Books & Literature",
+    "difficulty": "medium",
+    "id": "5d849dd1-d151-4ff5-b142-fbfe00f3ad4b",
+    "created_at": "2025-04-13T02:22:02.253Z",
+    "backupTimestamp": "2025-04-13T02:22:02.254Z",
+    "localBackupTimestamp": "2025-04-12T20:22:02.254Z"
+  },
+  {
+    "question": "In 'Lord of the Flies', what object symbolizes order and civilization among the stranded boys?",
+    "correct_answer": "The conch shell",
+    "incorrect_answers": [
+      "Piggy's glasses",
+      "The signal fire",
+      "The beast",
+      "The knife",
+      "Ralph's leadership",
+      "The island itself",
+      "The shelters"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Books & Literature",
+    "difficulty": "medium",
+    "id": "1e8295b6-a77c-4d98-ad9d-761068639ca8",
+    "created_at": "2025-04-13T02:22:02.258Z",
+    "backupTimestamp": "2025-04-13T02:22:02.259Z",
+    "localBackupTimestamp": "2025-04-12T20:22:02.259Z"
+  },
+  {
+    "question": "What is the name of the first book in the 'Divergent' series by Veronica Roth?",
+    "correct_answer": "Divergent",
+    "incorrect_answers": [
+      "Insurgent",
+      "Allegiant",
+      "Four",
+      "Convergent",
+      "Resurgent",
+      "Ascendant",
+      "Factionless"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Books & Literature",
+    "difficulty": "medium",
+    "id": "cad6b6e9-8f4c-4065-bcf3-46c237fbb1aa",
+    "created_at": "2025-04-13T02:22:02.264Z",
+    "backupTimestamp": "2025-04-13T02:22:02.265Z",
+    "localBackupTimestamp": "2025-04-12T20:22:02.265Z"
+  },
+  {
+    "question": "Who is the author of 'The Picture of Dorian Gray'?",
+    "correct_answer": "Oscar Wilde",
+    "incorrect_answers": [
+      "Bram Stoker",
+      "Robert Louis Stevenson",
+      "H.G. Wells",
+      "Arthur Conan Doyle",
+      "Charles Dickens",
+      "Edgar Allan Poe",
+      "James Joyce"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Books & Literature",
+    "difficulty": "medium",
+    "id": "5c048ae6-5784-4ae3-a4f2-3d742d331e7d",
+    "created_at": "2025-04-13T02:22:02.271Z",
+    "backupTimestamp": "2025-04-13T02:22:02.271Z",
+    "localBackupTimestamp": "2025-04-12T20:22:02.271Z"
+  },
+  {
+    "question": "What are the four houses at Hogwarts School of Witchcraft and Wizardry?",
+    "correct_answer": "Gryffindor, Hufflepuff, Ravenclaw, Slytherin",
+    "incorrect_answers": [
+      "Gryffindor, Slytherin, Ravenclaw, Beauxbatons",
+      "Hufflepuff, Durmstrang, Gryffindor, Slytherin",
+      "Ravenclaw, Gryffindor, Hufflepuff, Ilvermorny",
+      "Slytherin, Gryffindor, Pukwudgie, Ravenclaw",
+      "Hufflepuff, Wampus, Thunderbird, Gryffindor",
+      "Gryffindor, Slytherin, Ravenclaw, Horned Serpent",
+      "Pukwudgie, Wampus, Horned Serpent, Thunderbird"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Books & Literature",
+    "difficulty": "medium",
+    "id": "99f701ea-4552-40d5-9799-afaec5feec56",
+    "created_at": "2025-04-13T02:22:02.276Z",
+    "backupTimestamp": "2025-04-13T02:22:02.276Z",
+    "localBackupTimestamp": "2025-04-12T20:22:02.276Z"
+  },
+  {
+    "question": "Which John Steinbeck novel tells the story of the Joad family during the Great Depression?",
+    "correct_answer": "The Grapes of Wrath",
+    "incorrect_answers": [
+      "Of Mice and Men",
+      "East of Eden",
+      "Cannery Row",
+      "Tortilla Flat",
+      "The Pearl",
+      "Travels with Charley",
+      "The Winter of Our Discontent"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Books & Literature",
+    "difficulty": "medium",
+    "id": "b64747b3-d8bc-414d-b1f3-e16569cfbb13",
+    "created_at": "2025-04-13T02:22:02.280Z",
+    "backupTimestamp": "2025-04-13T02:22:02.280Z",
+    "localBackupTimestamp": "2025-04-12T20:22:02.280Z"
+  },
+  {
+    "question": "What is the narrative perspective of 'The Great Gatsby'?",
+    "correct_answer": "First-person (Nick Carraway)",
+    "incorrect_answers": [
+      "Third-person limited",
+      "Third-person omniscient",
+      "Second-person",
+      "First-person (Jay Gatsby)",
+      "Multiple perspectives",
+      "Stream of consciousness",
+      "Epistolary"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Books & Literature",
+    "difficulty": "medium",
+    "id": "2e3dc613-d5b2-47bc-be25-22656f8d7265",
+    "created_at": "2025-04-13T02:22:02.285Z",
+    "backupTimestamp": "2025-04-13T02:22:02.285Z",
+    "localBackupTimestamp": "2025-04-12T20:22:02.285Z"
+  },
+  {
+    "question": "Who wrote the influential environmental science book 'Silent Spring'?",
+    "correct_answer": "Rachel Carson",
+    "incorrect_answers": [
+      "Jane Goodall",
+      "Dian Fossey",
+      "Al Gore",
+      "David Attenborough",
+      "Jacques Cousteau",
+      "Carl Sagan",
+      "E.O. Wilson"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Books & Literature",
+    "difficulty": "medium",
+    "id": "db4d9615-a591-4dfb-a13a-9755aa1b6b08",
+    "created_at": "2025-04-13T02:22:02.289Z",
+    "backupTimestamp": "2025-04-13T02:22:02.290Z",
+    "localBackupTimestamp": "2025-04-12T20:22:02.290Z"
+  },
+  {
+    "question": "In 'Hamlet', what is the famous question Hamlet ponders in his soliloquy?",
+    "correct_answer": "'To be, or not to be'",
+    "incorrect_answers": [
+      "'Wherefore art thou Romeo?'",
+      "'Is this a dagger which I see before me?'",
+      "'Shall I compare thee to a summer's day?'",
+      "'What's in a name?'",
+      "'O, beware, my lord, of jealousy!'",
+      "'Friends, Romans, countrymen, lend me your ears'",
+      "'Get thee to a nunnery'"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Books & Literature",
+    "difficulty": "medium",
+    "id": "e3a7435b-a7e2-44ec-904e-6428931ee8cf",
+    "created_at": "2025-04-13T02:22:02.293Z",
+    "backupTimestamp": "2025-04-13T02:22:02.294Z",
+    "localBackupTimestamp": "2025-04-12T20:22:02.294Z"
+  },
+  {
+    "question": "What is the name of the powerful wizard who guides Frodo in 'The Lord of the Rings'?",
+    "correct_answer": "Gandalf",
+    "incorrect_answers": [
+      "Saruman",
+      "Elrond",
+      "Dumbledore",
+      "Merlin",
+      "Radagast",
+      "Tom Bombadil",
+      "Sauron"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Books & Literature",
+    "difficulty": "medium",
+    "id": "00d1b7c0-3707-4da3-8847-fe4751970e25",
+    "created_at": "2025-04-13T02:22:02.299Z",
+    "backupTimestamp": "2025-04-13T02:22:02.299Z",
+    "localBackupTimestamp": "2025-04-12T20:22:02.299Z"
+  },
+  {
+    "question": "Which novel by Fyodor Dostoevsky centers on the mental anguish and moral dilemmas of Rodion Raskolnikov?",
+    "correct_answer": "Crime and Punishment",
+    "incorrect_answers": [
+      "The Brothers Karamazov",
+      "Notes from Underground",
+      "The Idiot",
+      "Demons (The Possessed)",
+      "War and Peace",
+      "Anna Karenina",
+      "Dead Souls"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Books & Literature",
+    "difficulty": "medium",
+    "id": "a143a6b2-123d-4adf-9f1a-89f5782d3622",
+    "created_at": "2025-04-13T02:22:02.303Z",
+    "backupTimestamp": "2025-04-13T02:22:02.303Z",
+    "localBackupTimestamp": "2025-04-12T20:22:02.303Z"
+  },
+  {
+    "question": "What magical creatures pull the school carriages at Hogwarts, visible only to those who have seen death?",
+    "correct_answer": "Thestrals",
+    "incorrect_answers": [
+      "Hippogriffs",
+      "Unicorns",
+      "Pegasi",
+      "Centaurs",
+      "Grindylows",
+      "Abraxans",
+      "Manticores"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Books & Literature",
+    "difficulty": "medium",
+    "id": "5b3d20d4-b694-41c2-98f5-250e5c599b7a",
+    "created_at": "2025-04-13T02:22:02.307Z",
+    "backupTimestamp": "2025-04-13T02:22:02.307Z",
+    "localBackupTimestamp": "2025-04-12T20:22:02.307Z"
+  },
+  {
+    "question": "Who is the author of 'One Hundred Years of Solitude'?",
+    "correct_answer": "Gabriel García Márquez",
+    "incorrect_answers": [
+      "Jorge Luis Borges",
+      "Mario Vargas Llosa",
+      "Pablo Neruda",
+      "Isabel Allende",
+      "Julio Cortázar",
+      "Carlos Fuentes",
+      "Octavio Paz"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Books & Literature",
+    "difficulty": "medium",
+    "id": "a5cebb4c-b17a-4d38-8710-8cbfcd58785d",
+    "created_at": "2025-04-13T02:22:02.311Z",
+    "backupTimestamp": "2025-04-13T02:22:02.312Z",
+    "localBackupTimestamp": "2025-04-12T20:22:02.312Z"
+  },
+  {
+    "question": "In the 'His Dark Materials' trilogy, what are the animal companions that represent people's souls called?",
+    "correct_answer": "Dæmons",
+    "incorrect_answers": [
+      "Patronuses",
+      "Familiars",
+      "Sprites",
+      "Totems",
+      "Avatars",
+      "Spirit Animals",
+      "Animagi"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Books & Literature",
+    "difficulty": "medium",
+    "id": "78bed52d-a456-45a0-be82-8efe25546cae",
+    "created_at": "2025-04-13T02:22:02.316Z",
+    "backupTimestamp": "2025-04-13T02:22:02.316Z",
+    "localBackupTimestamp": "2025-04-12T20:22:02.316Z"
+  },
+  {
+    "question": "What is the name of the ship captained by Captain Ahab in 'Moby Dick'?",
+    "correct_answer": "Pequod",
+    "incorrect_answers": [
+      "Nautilus",
+      "Hispaniola",
+      "Flying Dutchman",
+      "Sea Wolf",
+      "Demeter",
+      "Essex",
+      "Beagle"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Books & Literature",
+    "difficulty": "medium",
+    "id": "a7ae3390-070b-4fad-b66d-8eca2aae57d9",
+    "created_at": "2025-04-13T02:22:02.321Z",
+    "backupTimestamp": "2025-04-13T02:22:02.321Z",
+    "localBackupTimestamp": "2025-04-12T20:22:02.321Z"
+  },
+  {
+    "question": "Which Kurt Vonnegut novel features the character Billy Pilgrim, who becomes 'unstuck in time'?",
+    "correct_answer": "Slaughterhouse-Five",
+    "incorrect_answers": [
+      "Cat's Cradle",
+      "Breakfast of Champions",
+      "Sirens of Titan",
+      "Mother Night",
+      "Galapagos",
+      "Player Piano",
+      "Timequake"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Books & Literature",
+    "difficulty": "medium",
+    "id": "cb39db9e-2325-421f-9b81-78cf0f2ae7cb",
+    "created_at": "2025-04-13T02:22:02.325Z",
+    "backupTimestamp": "2025-04-13T02:22:02.326Z",
+    "localBackupTimestamp": "2025-04-12T20:22:02.326Z"
+  },
+  {
+    "question": "What is the term for a long narrative poem, often concerning heroic deeds?",
+    "correct_answer": "Epic poem",
+    "incorrect_answers": [
+      "Sonnet",
+      "Haiku",
+      "Limerick",
+      "Ballad",
+      "Ode",
+      "Lyric poem",
+      "Elegy"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Books & Literature",
+    "difficulty": "medium",
+    "id": "4b4fbaaa-1d73-494b-83c1-5195861a102d",
+    "created_at": "2025-04-13T02:22:02.330Z",
+    "backupTimestamp": "2025-04-13T02:22:02.330Z",
+    "localBackupTimestamp": "2025-04-12T20:22:02.330Z"
+  },
+  {
+    "question": "Who wrote the novel 'The Handmaid's Tale'?",
+    "correct_answer": "Margaret Atwood",
+    "incorrect_answers": [
+      "Ursula K. Le Guin",
+      "Octavia Butler",
+      "Shirley Jackson",
+      "Alice Walker",
+      "Toni Morrison",
+      "Doris Lessing",
+      "Sylvia Plath"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Books & Literature",
+    "difficulty": "medium",
+    "id": "53ff67be-df14-47e5-a90d-4ff09370b390",
+    "created_at": "2025-04-13T02:22:02.334Z",
+    "backupTimestamp": "2025-04-13T02:22:02.335Z",
+    "localBackupTimestamp": "2025-04-12T20:22:02.335Z"
+  },
+  {
+    "question": "In 'Frankenstein', what is the monster's primary desire?",
+    "correct_answer": "Companionship / Acceptance",
+    "incorrect_answers": [
+      "Revenge on Victor",
+      "To become human",
+      "World domination",
+      "To find his creator",
+      "Wealth",
+      "To destroy mankind",
+      "Knowledge"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Books & Literature",
+    "difficulty": "medium",
+    "id": "83f37939-b546-45ae-92b0-d78c113c424b",
+    "created_at": "2025-04-13T02:22:02.338Z",
+    "backupTimestamp": "2025-04-13T02:22:02.339Z",
+    "localBackupTimestamp": "2025-04-12T20:22:02.339Z"
+  },
+  {
+    "question": "What famous detective created by Agatha Christie relies on his 'little grey cells'?",
+    "correct_answer": "Hercule Poirot",
+    "incorrect_answers": [
+      "Miss Marple",
+      "Sherlock Holmes",
+      "Father Brown",
+      "Lord Peter Wimsey",
+      "Sam Spade",
+      "Philip Marlowe",
+      "Inspector Morse"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Books & Literature",
+    "difficulty": "medium",
+    "id": "7a9c2e0a-7a34-4831-a2ed-d76d24734d04",
+    "created_at": "2025-04-13T02:22:02.343Z",
+    "backupTimestamp": "2025-04-13T02:22:02.343Z",
+    "localBackupTimestamp": "2025-04-12T20:22:02.343Z"
+  },
+  {
+    "question": "What is the name of the protagonist in Jack Kerouac's 'On the Road'?",
+    "correct_answer": "Sal Paradise",
+    "incorrect_answers": [
+      "Dean Moriarty",
+      "Allen Ginsberg",
+      "William S. Burroughs",
+      "Neal Cassady",
+      "Jack Kerouac",
+      "Carlo Marx",
+      "Old Bull Lee"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Books & Literature",
+    "difficulty": "medium",
+    "id": "0acfc812-fdc8-45b7-96c2-89c7f5a8d530",
+    "created_at": "2025-04-13T02:22:02.347Z",
+    "backupTimestamp": "2025-04-13T02:22:02.348Z",
+    "localBackupTimestamp": "2025-04-12T20:22:02.348Z"
+  },
+  {
+    "question": "Which Louisa May Alcott novel follows the lives of the four March sisters?",
+    "correct_answer": "Little Women",
+    "incorrect_answers": [
+      "Jo's Boys",
+      "Little Men",
+      "An Old-Fashioned Girl",
+      "Eight Cousins",
+      "Rose in Bloom",
+      "Under the Lilacs",
+      "Work: A Story of Experience"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Books & Literature",
+    "difficulty": "medium",
+    "id": "25e73408-fea4-4c0d-b1b8-ca6d7ef4dce1",
+    "created_at": "2025-04-13T02:22:02.352Z",
+    "backupTimestamp": "2025-04-13T02:22:02.352Z",
+    "localBackupTimestamp": "2025-04-12T20:22:02.352Z"
+  },
+  {
+    "question": "What is the name of the system of government in Orwell's '1984'?",
+    "correct_answer": "Ingsoc (English Socialism)",
+    "incorrect_answers": [
+      "The Party",
+      "Big Brother",
+      "Oceania",
+      "Totalitarianism",
+      "The Ministry of Truth",
+      "The Inner Party",
+      "Newspeak"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Books & Literature",
+    "difficulty": "medium",
+    "id": "f4f6f188-ac83-4bc3-8521-3db504da1546",
+    "created_at": "2025-04-13T02:22:02.356Z",
+    "backupTimestamp": "2025-04-13T02:22:02.356Z",
+    "localBackupTimestamp": "2025-04-12T20:22:02.356Z"
+  },
+  {
+    "question": "Who is the author of 'The Secret Garden'?",
+    "correct_answer": "Frances Hodgson Burnett",
+    "incorrect_answers": [
+      "Lucy Maud Montgomery",
+      "Louisa May Alcott",
+      "E. Nesbit",
+      "Anna Sewell",
+      "Beatrix Potter",
+      "Kate Douglas Wiggin",
+      "Gene Stratton-Porter"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Books & Literature",
+    "difficulty": "medium",
+    "id": "847045fc-cefe-4dc4-8058-18f2e70bd337",
+    "created_at": "2025-04-13T02:22:02.360Z",
+    "backupTimestamp": "2025-04-13T02:22:02.360Z",
+    "localBackupTimestamp": "2025-04-12T20:22:02.360Z"
+  },
+  {
+    "question": "In 'The Divine Comedy', who guides Dante through Hell and Purgatory?",
+    "correct_answer": "Virgil",
+    "incorrect_answers": [
+      "Beatrice",
+      "Saint Bernard",
+      "Homer",
+      "Charon",
+      "Lucifer",
+      "God",
+      "An Angel"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Books & Literature",
+    "difficulty": "medium",
+    "id": "33f8a157-a513-4209-8dc3-9bee32f1e5db",
+    "created_at": "2025-04-13T02:22:02.365Z",
+    "backupTimestamp": "2025-04-13T02:22:02.365Z",
+    "localBackupTimestamp": "2025-04-12T20:22:02.365Z"
+  },
+  {
+    "question": "What do the initials J.R.R. in J.R.R. Tolkien stand for?",
+    "correct_answer": "John Ronald Reuel",
+    "incorrect_answers": [
+      "John Robert Ralph",
+      "James Richard Robert",
+      "Joseph Raymond Richard",
+      "Jonathan Ryder Riley",
+      "Julius Roger Reginald",
+      "Jerome Russell Rupert",
+      "Just Rolls Royce"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Books & Literature",
+    "difficulty": "medium",
+    "id": "eb0994ad-a03c-43d3-8ef9-0b0802a90601",
+    "created_at": "2025-04-13T02:22:02.369Z",
+    "backupTimestamp": "2025-04-13T02:22:02.369Z",
+    "localBackupTimestamp": "2025-04-12T20:22:02.369Z"
+  },
+  {
+    "question": "Which book by Harper Lee serves as a sequel/companion to 'To Kill a Mockingbird', though published much later?",
+    "correct_answer": "Go Set a Watchman",
+    "incorrect_answers": [
+      "The Mockingbird Sings",
+      "Atticus",
+      "Scout's Story",
+      "Maycomb",
+      "To Kill Again",
+      "Watchman, What of the Night?",
+      "In Cold Blood"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Books & Literature",
+    "difficulty": "medium",
+    "id": "a9b1e68b-5fd9-48db-ade6-d64f1f115c81",
+    "created_at": "2025-04-13T02:22:02.373Z",
+    "backupTimestamp": "2025-04-13T02:22:02.374Z",
+    "localBackupTimestamp": "2025-04-12T20:22:02.374Z"
+  },
+  {
+    "question": "What is the name of the horse in Anna Sewell's novel 'Black Beauty'?",
+    "correct_answer": "Black Beauty",
+    "incorrect_answers": [
+      "Ginger",
+      "Merrylegs",
+      "Shadowfax",
+      "Rocinante",
+      "Bucephalus",
+      "Seabiscuit",
+      "Flicka"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Books & Literature",
+    "difficulty": "medium",
+    "id": "2a26571b-1763-4fd2-9896-fc35b6e1bfdf",
+    "created_at": "2025-04-13T02:22:02.378Z",
+    "backupTimestamp": "2025-04-13T02:22:02.378Z",
+    "localBackupTimestamp": "2025-04-12T20:22:02.378Z"
+  },
+  {
+    "question": "Who is the protagonist of the novel 'Jane Eyre'?",
+    "correct_answer": "Jane Eyre",
+    "incorrect_answers": [
+      "Mr. Rochester",
+      "Bertha Mason",
+      "St. John Rivers",
+      "Helen Burns",
+      "Mrs. Reed",
+      "Blanche Ingram",
+      "Catherine Earnshaw"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Books & Literature",
+    "difficulty": "medium",
+    "id": "86386ff0-f3d1-4e05-a808-7820a7ca5476",
+    "created_at": "2025-04-13T02:22:02.382Z",
+    "backupTimestamp": "2025-04-13T02:22:02.382Z",
+    "localBackupTimestamp": "2025-04-12T20:22:02.382Z"
+  },
+  {
+    "question": "What is the central theme of Ray Bradbury's 'Fahrenheit 451'?",
+    "correct_answer": "Censorship and the importance of knowledge/books",
+    "incorrect_answers": [
+      "Alien invasion",
+      "Time travel paradoxes",
+      "Post-apocalyptic survival",
+      "Artificial intelligence risks",
+      "Class struggle",
+      "Environmental destruction",
+      "Genetic engineering ethics"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Books & Literature",
+    "difficulty": "medium",
+    "id": "56bb9c6f-c3f3-4970-b825-9b99b66f95ab",
+    "created_at": "2025-04-13T02:22:02.387Z",
+    "backupTimestamp": "2025-04-13T02:22:02.387Z",
+    "localBackupTimestamp": "2025-04-12T20:22:02.387Z"
+  },
+  {
+    "question": "Which Russian author wrote the lengthy novels 'War and Peace' and 'Anna Karenina'?",
+    "correct_answer": "Leo Tolstoy",
+    "incorrect_answers": [
+      "Fyodor Dostoevsky",
+      "Anton Chekhov",
+      "Ivan Turgenev",
+      "Nikolai Gogol",
+      "Alexander Pushkin",
+      "Mikhail Bulgakov",
+      "Vladimir Nabokov"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Books & Literature",
+    "difficulty": "medium",
+    "id": "1f2c4ff0-831c-488c-a5ef-50b8e9e0875e",
+    "created_at": "2025-04-13T02:22:02.391Z",
+    "backupTimestamp": "2025-04-13T02:22:02.391Z",
+    "localBackupTimestamp": "2025-04-12T20:22:02.391Z"
+  },
+  {
+    "question": "What is the name of the island where Robinson Crusoe is shipwrecked?",
+    "correct_answer": "Island of Despair (not named, but near Trinidad)",
+    "incorrect_answers": [
+      "Treasure Island",
+      "Island of Dr. Moreau",
+      "Lilliput",
+      "Atlantis",
+      "Skull Island",
+      "Neverland",
+      "Pala"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Books & Literature",
+    "difficulty": "medium",
+    "id": "516406c0-a87e-4c1e-8beb-9abca39381fd",
+    "created_at": "2025-04-13T02:22:02.395Z",
+    "backupTimestamp": "2025-04-13T02:22:02.395Z",
+    "localBackupTimestamp": "2025-04-12T20:22:02.395Z"
+  },
+  {
+    "question": "Which American poet wrote 'The Raven'?",
+    "correct_answer": "Edgar Allan Poe",
+    "incorrect_answers": [
+      "Walt Whitman",
+      "Emily Dickinson",
+      "Robert Frost",
+      "Langston Hughes",
+      "Henry Wadsworth Longfellow",
+      "Ralph Waldo Emerson",
+      "Sylvia Plath"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Books & Literature",
+    "difficulty": "medium",
+    "id": "f37cf45d-ce87-4fed-9f86-10f72df35028",
+    "created_at": "2025-04-13T02:22:02.399Z",
+    "backupTimestamp": "2025-04-13T02:22:02.399Z",
+    "localBackupTimestamp": "2025-04-12T20:22:02.399Z"
+  },
+  {
+    "question": "What is the name of the house elf fiercely loyal to the Malfoy family, later freed by Harry Potter?",
+    "correct_answer": "Dobby",
+    "incorrect_answers": [
+      "Kreacher",
+      "Winky",
+      "Hokey",
+      "Griphook",
+      "Aragog",
+      "Fawkes",
+      "Hedwig"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Books & Literature",
+    "difficulty": "medium",
+    "id": "33012aba-ec62-4498-b735-db1f1a77de1d",
+    "created_at": "2025-04-13T02:22:02.403Z",
+    "backupTimestamp": "2025-04-13T02:22:02.404Z",
+    "localBackupTimestamp": "2025-04-12T20:22:02.404Z"
+  },
+  {
+    "question": "Who wrote 'The Call of the Wild'?",
+    "correct_answer": "Jack London",
+    "incorrect_answers": [
+      "Mark Twain",
+      "Herman Melville",
+      "Ernest Hemingway",
+      "John Steinbeck",
+      "Rudyard Kipling",
+      "Robert Louis Stevenson",
+      "Upton Sinclair"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Books & Literature",
+    "difficulty": "medium",
+    "id": "c699cbf1-a3bc-4c9f-9a78-c5f4aaccc8b9",
+    "created_at": "2025-04-13T02:22:02.408Z",
+    "backupTimestamp": "2025-04-13T02:22:02.409Z",
+    "localBackupTimestamp": "2025-04-12T20:22:02.409Z"
+  },
+  {
+    "question": "In 'The Princess Bride' novel, what phrase does Westley constantly say to Buttercup?",
+    "correct_answer": "'As you wish'",
+    "incorrect_answers": [
+      "'Inconceivable!'",
+      "'My name is Inigo Montoya...'",
+      "'Have fun storming the castle!'",
+      "'Get used to disappointment.'",
+      "'Life is pain, Highness.'",
+      "'Drop. Your. Sword.'",
+      "'True love'"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Books & Literature",
+    "difficulty": "medium",
+    "id": "daee57a9-010d-45a4-a814-c0c3379e2ecf",
+    "created_at": "2025-04-13T02:22:02.413Z",
+    "backupTimestamp": "2025-04-13T02:22:02.413Z",
+    "localBackupTimestamp": "2025-04-12T20:22:02.413Z"
+  },
+  {
+    "question": "What is the genre that combines elements of fiction and historical fact, often featuring real historical figures?",
+    "correct_answer": "Historical Fiction",
+    "incorrect_answers": [
+      "Biography",
+      "Autobiography",
+      "Memoir",
+      "Alternate History",
+      "Fantasy",
+      "Science Fiction",
+      "Non-fiction"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Books & Literature",
+    "difficulty": "medium",
+    "id": "37bf9efd-50a0-430e-89a5-7e2257893aa5",
+    "created_at": "2025-04-13T02:22:02.417Z",
+    "backupTimestamp": "2025-04-13T02:22:02.417Z",
+    "localBackupTimestamp": "2025-04-12T20:22:02.417Z"
+  },
+  {
+    "question": "Which classic novel features a character named Elizabeth Bennet?",
+    "correct_answer": "Pride and Prejudice",
+    "incorrect_answers": [
+      "Sense and Sensibility",
+      "Emma",
+      "Mansfield Park",
+      "Persuasion",
+      "Northanger Abbey",
+      "Jane Eyre",
+      "Wuthering Heights"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Books & Literature",
+    "difficulty": "medium",
+    "id": "a98dbd26-8641-45c1-8d3d-f0d6ea97636c",
+    "created_at": "2025-04-13T02:22:02.421Z",
+    "backupTimestamp": "2025-04-13T02:22:02.421Z",
+    "localBackupTimestamp": "2025-04-12T20:22:02.421Z"
+  },
+  {
+    "question": "What is the name of the author who created the character Winnie-the-Pooh?",
+    "correct_answer": "A.A. Milne",
+    "incorrect_answers": [
+      "Beatrix Potter",
+      "Kenneth Grahame",
+      "Lewis Carroll",
+      "Roald Dahl",
+      "Dr. Seuss",
+      "E.B. White",
+      "Margaret Wise Brown"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Books & Literature",
+    "difficulty": "medium",
+    "id": "10d443cd-34cb-40cc-a869-66ab5f8c07d4",
+    "created_at": "2025-04-13T02:22:02.425Z",
+    "backupTimestamp": "2025-04-13T02:22:02.426Z",
+    "localBackupTimestamp": "2025-04-12T20:22:02.426Z"
+  },
+  {
+    "question": "In 'Gulliver's Travels', what is the land inhabited by tiny people called?",
+    "correct_answer": "Lilliput",
+    "incorrect_answers": [
+      "Brobdingnag",
+      "Laputa",
+      "Houyhnhnmland",
+      "Blefuscu",
+      "Balnibarbi",
+      "Glubbdubdrib",
+      "Luggnagg"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Books & Literature",
+    "difficulty": "medium",
+    "id": "a44a6929-73e5-4512-a007-378b52e9a368",
+    "created_at": "2025-04-13T02:22:02.430Z",
+    "backupTimestamp": "2025-04-13T02:22:02.431Z",
+    "localBackupTimestamp": "2025-04-12T20:22:02.431Z"
+  },
+  {
+    "question": "Who is the author of the fantasy series 'The Wheel of Time'?",
+    "correct_answer": "Robert Jordan (and Brandon Sanderson)",
+    "incorrect_answers": [
+      "George R.R. Martin",
+      "J.R.R. Tolkien",
+      "Terry Brooks",
+      "Terry Goodkind",
+      "Patrick Rothfuss",
+      "Steven Erikson",
+      "Ursula K. Le Guin"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Books & Literature",
+    "difficulty": "medium",
+    "id": "ee4a9f2c-4a92-45d0-9c40-03859a2b8429",
+    "created_at": "2025-04-13T02:22:02.435Z",
+    "backupTimestamp": "2025-04-13T02:22:02.435Z",
+    "localBackupTimestamp": "2025-04-12T20:22:02.435Z"
+  },
+  {
+    "question": "What is the name of the futuristic city in Suzanne Collins' 'The Hunger Games'?",
+    "correct_answer": "The Capitol",
+    "incorrect_answers": [
+      "Panem",
+      "District 12",
+      "The Arena",
+      "Mockingjay",
+      "The Seam",
+      "Sector 451",
+      "Zion"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Books & Literature",
+    "difficulty": "medium",
+    "id": "7ced637b-372c-47ef-823c-f1f9d9c94eeb",
+    "created_at": "2025-04-13T02:22:02.439Z",
+    "backupTimestamp": "2025-04-13T02:22:02.439Z",
+    "localBackupTimestamp": "2025-04-12T20:22:02.439Z"
+  },
+  {
+    "question": "Which Virginia Woolf novel uses stream-of-consciousness to detail a day in the life of Clarissa Dalloway?",
+    "correct_answer": "Mrs Dalloway",
+    "incorrect_answers": [
+      "To the Lighthouse",
+      "Orlando",
+      "The Waves",
+      "A Room of One's Own",
+      "Jacob's Room",
+      "Between the Acts",
+      "Night and Day"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Books & Literature",
+    "difficulty": "medium",
+    "id": "1bcb3064-bc2e-4027-af0a-2d32e92c975a",
+    "created_at": "2025-04-13T02:22:02.443Z",
+    "backupTimestamp": "2025-04-13T02:22:02.443Z",
+    "localBackupTimestamp": "2025-04-12T20:22:02.443Z"
+  },
+  {
+    "question": "What is the name of the vampire who is the antagonist in Stephenie Meyer's 'Twilight' saga?",
+    "correct_answer": "James / Victoria / The Volturi (multiple antagonists)",
+    "incorrect_answers": [
+      "Edward Cullen",
+      "Carlisle Cullen",
+      "Laurent",
+      "Aro",
+      "Caius",
+      "Marcus",
+      "Demetri"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Books & Literature",
+    "difficulty": "medium",
+    "id": "174a4c50-d925-4383-bc22-6367568cb66b",
+    "created_at": "2025-04-13T02:22:02.448Z",
+    "backupTimestamp": "2025-04-13T02:22:02.448Z",
+    "localBackupTimestamp": "2025-04-12T20:22:02.448Z"
+  },
+  {
+    "question": "Who wrote 'A Brief History of Time'?",
+    "correct_answer": "Stephen Hawking",
+    "incorrect_answers": [
+      "Carl Sagan",
+      "Neil deGrasse Tyson",
+      "Richard Feynman",
+      "Albert Einstein",
+      "Isaac Asimov",
+      "Brian Greene",
+      "Michio Kaku"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Books & Literature",
+    "difficulty": "medium",
+    "id": "c6f29629-076d-4745-9dc7-09b61baec23e",
+    "created_at": "2025-04-13T02:22:02.452Z",
+    "backupTimestamp": "2025-04-13T02:22:02.453Z",
+    "localBackupTimestamp": "2025-04-12T20:22:02.453Z"
+  },
+  {
+    "question": "Which Shakespeare play is subtitled 'Or, What You Will'?",
+    "correct_answer": "Twelfth Night",
+    "incorrect_answers": [
+      "A Midsummer Night's Dream",
+      "As You Like It",
+      "The Taming of the Shrew",
+      "Much Ado About Nothing",
+      "The Comedy of Errors",
+      "Love's Labour's Lost",
+      "The Merry Wives of Windsor"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Books & Literature",
+    "difficulty": "medium",
+    "id": "ed2d92a6-176c-4377-a3ee-37a3d67a4f0b",
+    "created_at": "2025-04-13T02:22:02.456Z",
+    "backupTimestamp": "2025-04-13T02:22:02.457Z",
+    "localBackupTimestamp": "2025-04-12T20:22:02.457Z"
+  },
+  {
+    "question": "What award, named after a publisher, is considered the most prestigious prize for a single volume of science fiction or fantasy published in the US?",
+    "correct_answer": "Hugo Award",
+    "incorrect_answers": [
+      "Nebula Award",
+      "World Fantasy Award",
+      "Locus Award",
+      "Arthur C. Clarke Award",
+      "Philip K. Dick Award",
+      "Bram Stoker Award",
+      "Mythopoeic Award"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Books & Literature",
+    "difficulty": "medium",
+    "id": "3f1035ea-b912-49d9-8c4d-914e3660f0f1",
+    "created_at": "2025-04-13T02:22:02.461Z",
+    "backupTimestamp": "2025-04-13T02:22:02.461Z",
+    "localBackupTimestamp": "2025-04-12T20:22:02.461Z"
+  },
+  {
+    "question": "What is the pen name of Charles Lutwidge Dodgson, author of 'Alice's Adventures in Wonderland'?",
+    "correct_answer": "Lewis Carroll",
+    "incorrect_answers": [
+      "Mark Twain",
+      "George Eliot",
+      "O. Henry",
+      "George Orwell",
+      "Dr. Seuss",
+      "Voltaire",
+      "Saki"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Books & Literature",
+    "difficulty": "medium",
+    "id": "835eb8a1-b609-4d30-aaf5-bb7176ce62cf",
+    "created_at": "2025-04-13T02:22:02.465Z",
+    "backupTimestamp": "2025-04-13T02:22:02.465Z",
+    "localBackupTimestamp": "2025-04-12T20:22:02.465Z"
+  },
+  {
+    "question": "In J.D. Salinger's 'The Catcher in the Rye', what object does Holden Caulfield buy and wear often?",
+    "correct_answer": "A red hunting hat",
+    "incorrect_answers": [
+      "A baseball glove",
+      "A trench coat",
+      "Dark sunglasses",
+      "A scarf",
+      "A class ring",
+      "A pair of ice skates",
+      "His brother's jacket"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Books & Literature",
+    "difficulty": "medium",
+    "id": "7b8d35ca-ac9d-4803-a6e2-eac0ffa0fc99",
+    "created_at": "2025-04-13T02:22:02.469Z",
+    "backupTimestamp": "2025-04-13T02:22:02.470Z",
+    "localBackupTimestamp": "2025-04-12T20:22:02.470Z"
+  },
+  {
+    "question": "What is the name of the first novel in Frank Herbert's 'Dune' series?",
+    "correct_answer": "Dune",
+    "incorrect_answers": [
+      "Dune Messiah",
+      "Children of Dune",
+      "God Emperor of Dune",
+      "Heretics of Dune",
+      "Chapterhouse: Dune",
+      "Foundation",
+      "Hyperion"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Books & Literature",
+    "difficulty": "medium",
+    "id": "f69eb95a-a525-4a18-a65a-bdb6d6411fad",
+    "created_at": "2025-04-13T02:22:02.474Z",
+    "backupTimestamp": "2025-04-13T02:22:02.474Z",
+    "localBackupTimestamp": "2025-04-12T20:22:02.474Z"
+  },
+  {
+    "question": "Who is the author of the 'Sherlock Holmes' stories?",
+    "correct_answer": "Sir Arthur Conan Doyle",
+    "incorrect_answers": [
+      "Agatha Christie",
+      "Edgar Allan Poe",
+      "Wilkie Collins",
+      "G.K. Chesterton",
+      "Dorothy L. Sayers",
+      "Raymond Chandler",
+      "Dashiell Hammett"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Books & Literature",
+    "difficulty": "medium",
+    "id": "81d8d387-84c7-47eb-9827-0ee9352a000d",
+    "created_at": "2025-04-13T02:22:02.478Z",
+    "backupTimestamp": "2025-04-13T02:22:02.479Z",
+    "localBackupTimestamp": "2025-04-12T20:22:02.479Z"
+  },
+  {
+    "question": "What is the literary term for a character who contrasts with another character (usually the protagonist) to highlight particular qualities?",
+    "correct_answer": "Foil",
+    "incorrect_answers": [
+      "Antagonist",
+      "Confidante",
+      "Doppelgänger",
+      "Archetype",
+      "Stereotype",
+      "Mentor",
+      "Sidekick"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Books & Literature",
+    "difficulty": "medium",
+    "id": "e1b8edab-a6dd-48f5-bc71-10b18bb83642",
+    "created_at": "2025-04-13T02:22:02.482Z",
+    "backupTimestamp": "2025-04-13T02:22:02.483Z",
+    "localBackupTimestamp": "2025-04-12T20:22:02.483Z"
+  },
+  {
+    "question": "Which Umberto Eco novel is set in a 14th-century Italian monastery?",
+    "correct_answer": "The Name of the Rose",
+    "incorrect_answers": [
+      "Foucault's Pendulum",
+      "The Island of the Day Before",
+      "Baudolino",
+      "The Prague Cemetery",
+      "Numero Zero",
+      "The Mysterious Flame of Queen Loana",
+      "How to Travel with a Salmon"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Books & Literature",
+    "difficulty": "hard",
+    "id": "30114a89-21a8-4ef3-858b-d609eace0f9c",
+    "created_at": "2025-04-13T02:22:02.487Z",
+    "backupTimestamp": "2025-04-13T02:22:02.487Z",
+    "localBackupTimestamp": "2025-04-12T20:22:02.487Z"
+  },
+  {
+    "question": "What is the name of the fictional language created by Anthony Burgess for 'A Clockwork Orange'?",
+    "correct_answer": "Nadsat",
+    "incorrect_answers": [
+      "Newspeak",
+      "Klingon",
+      "Elvish",
+      "Dothraki",
+      "Lapine",
+      "Esperanto",
+      "Cityspeak"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Books & Literature",
+    "difficulty": "hard",
+    "id": "c74cd598-44cc-4915-8b21-3ec6daccb9dd",
+    "created_at": "2025-04-13T02:22:02.491Z",
+    "backupTimestamp": "2025-04-13T02:22:02.491Z",
+    "localBackupTimestamp": "2025-04-12T20:22:02.491Z"
+  },
+  {
+    "question": "Which Thomas Pynchon novel features characters like Oedipa Maas and the Tristero system?",
+    "correct_answer": "The Crying of Lot 49",
+    "incorrect_answers": [
+      "Gravity's Rainbow",
+      "V.",
+      "Mason & Dixon",
+      "Against the Day",
+      "Inherent Vice",
+      "Bleeding Edge",
+      "Vineland"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Books & Literature",
+    "difficulty": "hard",
+    "id": "768a969c-eb96-47bb-b7e1-093d5212cd33",
+    "created_at": "2025-04-13T02:22:02.496Z",
+    "backupTimestamp": "2025-04-13T02:22:02.496Z",
+    "localBackupTimestamp": "2025-04-12T20:22:02.496Z"
+  },
+  {
+    "question": "Who is the author of the novel 'Infinite Jest'?",
+    "correct_answer": "David Foster Wallace",
+    "incorrect_answers": [
+      "Thomas Pynchon",
+      "Don DeLillo",
+      "William Gaddis",
+      "Jonathan Franzen",
+      "Dave Eggers",
+      "Zadie Smith",
+      "Michael Chabon"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Books & Literature",
+    "difficulty": "hard",
+    "id": "b0764d65-7987-4a87-97ef-8a1cafa24e18",
+    "created_at": "2025-04-13T02:22:02.500Z",
+    "backupTimestamp": "2025-04-13T02:22:02.500Z",
+    "localBackupTimestamp": "2025-04-12T20:22:02.500Z"
+  },
+  {
+    "question": "In James Joyce's 'Ulysses', the events of the novel roughly parallel which ancient epic poem?",
+    "correct_answer": "The Odyssey",
+    "incorrect_answers": [
+      "The Iliad",
+      "The Aeneid",
+      "The Epic of Gilgamesh",
+      "Beowulf",
+      "The Divine Comedy",
+      "Paradise Lost",
+      "Metamorphoses"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Books & Literature",
+    "difficulty": "hard",
+    "id": "6ba98158-fbcc-4ffb-ab56-945c239746dd",
+    "created_at": "2025-04-13T02:22:02.504Z",
+    "backupTimestamp": "2025-04-13T02:22:02.505Z",
+    "localBackupTimestamp": "2025-04-12T20:22:02.505Z"
+  },
+  {
+    "question": "What is the name of the artificial intelligence in William Gibson's 'Neuromancer'?",
+    "correct_answer": "Wintermute / Neuromancer",
+    "incorrect_answers": [
+      "HAL 9000",
+      "Skynet",
+      "VIKI",
+      "GLaDOS",
+      "Deep Thought",
+      "Cortana",
+      "Shodan"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Books & Literature",
+    "difficulty": "hard",
+    "id": "6ec48ced-b221-449b-9dcb-35ab36291462",
+    "created_at": "2025-04-13T02:22:02.509Z",
+    "backupTimestamp": "2025-04-13T02:22:02.509Z",
+    "localBackupTimestamp": "2025-04-12T20:22:02.509Z"
+  },
+  {
+    "question": "Which Cormac McCarthy novel, winner of the Pulitzer Prize, depicts a father and son journeying through a post-apocalyptic America?",
+    "correct_answer": "The Road",
+    "incorrect_answers": [
+      "Blood Meridian",
+      "No Country for Old Men",
+      "All the Pretty Horses",
+      "Suttree",
+      "Child of God",
+      "Outer Dark",
+      "The Crossing"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Books & Literature",
+    "difficulty": "hard",
+    "id": "59a08a45-f3a7-447f-ab22-6db469200fe2",
+    "created_at": "2025-04-13T02:22:02.513Z",
+    "backupTimestamp": "2025-04-13T02:22:02.514Z",
+    "localBackupTimestamp": "2025-04-12T20:22:02.514Z"
+  },
+  {
+    "question": "What is the primary setting (city) for Charles Dickens' 'A Tale of Two Cities'?",
+    "correct_answer": "London and Paris",
+    "incorrect_answers": [
+      "London and Rome",
+      "Paris and Berlin",
+      "London and Dublin",
+      "Paris and Vienna",
+      "London and New York",
+      "Paris and Moscow",
+      "London and Amsterdam"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Books & Literature",
+    "difficulty": "hard",
+    "id": "284f30f4-3214-4a09-b128-c9dc7065dd90",
+    "created_at": "2025-04-13T02:22:02.518Z",
+    "backupTimestamp": "2025-04-13T02:22:02.519Z",
+    "localBackupTimestamp": "2025-04-12T20:22:02.519Z"
+  },
+  {
+    "question": "Who wrote the novel 'Beloved', which won the Pulitzer Prize for Fiction in 1988?",
+    "correct_answer": "Toni Morrison",
+    "incorrect_answers": [
+      "Alice Walker",
+      "Maya Angelou",
+      "Zora Neale Hurston",
+      "Octavia Butler",
+      "James Baldwin",
+      "Ralph Ellison",
+      "Richard Wright"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Books & Literature",
+    "difficulty": "hard",
+    "id": "20dc576a-df30-47bd-b799-f892a4385fef",
+    "created_at": "2025-04-13T02:22:02.523Z",
+    "backupTimestamp": "2025-04-13T02:22:02.523Z",
+    "localBackupTimestamp": "2025-04-12T20:22:02.523Z"
+  },
+  {
+    "question": "In 'Don Quixote', what common objects does the protagonist mistake for giants?",
+    "correct_answer": "Windmills",
+    "incorrect_answers": [
+      "Trees",
+      "Sheep",
+      "Castles",
+      "Clouds",
+      "Monks",
+      "Wine skins",
+      "Mountains"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Books & Literature",
+    "difficulty": "hard",
+    "id": "7a4052d0-a6f2-4b6a-92df-b26592592f64",
+    "created_at": "2025-04-13T02:22:02.527Z",
+    "backupTimestamp": "2025-04-13T02:22:02.527Z",
+    "localBackupTimestamp": "2025-04-12T20:22:02.527Z"
+  },
+  {
+    "question": "Which Beat Generation author wrote the controversial novel 'Naked Lunch'?",
+    "correct_answer": "William S. Burroughs",
+    "incorrect_answers": [
+      "Jack Kerouac",
+      "Allen Ginsberg",
+      "Neal Cassady",
+      "Lawrence Ferlinghetti",
+      "Gregory Corso",
+      "Gary Snyder",
+      "Michael McClure"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Books & Literature",
+    "difficulty": "hard",
+    "id": "cd2a6319-7cef-46a2-a179-33307414502f",
+    "created_at": "2025-04-13T02:22:02.531Z",
+    "backupTimestamp": "2025-04-13T02:22:02.532Z",
+    "localBackupTimestamp": "2025-04-12T20:22:02.532Z"
+  },
+  {
+    "question": "What is the name of the family estate in Daphne du Maurier's 'Rebecca'?",
+    "correct_answer": "Manderley",
+    "incorrect_answers": [
+      "Pemberley",
+      "Thornfield Hall",
+      "Wuthering Heights",
+      "Satis House",
+      "Howard's End",
+      "Bly Manor",
+      "Northanger Abbey"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Books & Literature",
+    "difficulty": "hard",
+    "id": "c6354776-0853-4b99-908e-4fb933daa75b",
+    "created_at": "2025-04-13T02:22:02.536Z",
+    "backupTimestamp": "2025-04-13T02:22:02.536Z",
+    "localBackupTimestamp": "2025-04-12T20:22:02.536Z"
+  },
+  {
+    "question": "Which author is known for the 'Rabbit' series of novels, including 'Rabbit, Run'?",
+    "correct_answer": "John Updike",
+    "incorrect_answers": [
+      "Philip Roth",
+      "Saul Bellow",
+      "Norman Mailer",
+      "John Cheever",
+      "Kurt Vonnegut",
+      "Gore Vidal",
+      "Richard Yates"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Books & Literature",
+    "difficulty": "hard",
+    "id": "ad6edc1d-45e7-47cc-a11f-ad9401dd1808",
+    "created_at": "2025-04-13T02:22:02.541Z",
+    "backupTimestamp": "2025-04-13T02:22:02.541Z",
+    "localBackupTimestamp": "2025-04-12T20:22:02.541Z"
+  },
+  {
+    "question": "What is the substance known as 'Spice Melange' essential for in Frank Herbert's 'Dune'?",
+    "correct_answer": "Space travel (navigation) and extending life/consciousness",
+    "incorrect_answers": [
+      "Powering shields",
+      "Fueling weapons",
+      "Terraforming planets",
+      "Communicating with sandworms",
+      "Creating synthetic food",
+      "Healing injuries",
+      "Inducing mutations"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Books & Literature",
+    "difficulty": "hard",
+    "id": "af179ebf-1fc1-44a7-b572-d0b7ef60ce34",
+    "created_at": "2025-04-13T02:22:02.545Z",
+    "backupTimestamp": "2025-04-13T02:22:02.545Z",
+    "localBackupTimestamp": "2025-04-12T20:22:02.545Z"
+  },
+  {
+    "question": "Who wrote the modernist novel 'Mrs Dalloway'?",
+    "correct_answer": "Virginia Woolf",
+    "incorrect_answers": [
+      "James Joyce",
+      "T.S. Eliot",
+      "Gertrude Stein",
+      "Dorothy Richardson",
+      "D.H. Lawrence",
+      "E.M. Forster",
+      "Katherine Mansfield"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Books & Literature",
+    "difficulty": "hard",
+    "id": "e495fa3e-d627-481c-a7af-6cf7441f4a3b",
+    "created_at": "2025-04-13T02:22:02.549Z",
+    "backupTimestamp": "2025-04-13T02:22:02.550Z",
+    "localBackupTimestamp": "2025-04-12T20:22:02.550Z"
+  },
+  {
+    "question": "What is the name of the protagonist in Kafka's 'The Metamorphosis' who transforms into an insect?",
+    "correct_answer": "Gregor Samsa",
+    "incorrect_answers": [
+      "Joseph K.",
+      "Karl Rossmann",
+      "Georg Bendemann",
+      "The Country Doctor",
+      "The Hunger Artist",
+      "Raskolnikov",
+      "Meursault"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Books & Literature",
+    "difficulty": "hard",
+    "id": "344adf50-9dcc-48f3-89ee-e3a5ca777c1e",
+    "created_at": "2025-04-13T02:22:02.554Z",
+    "backupTimestamp": "2025-04-13T02:22:02.555Z",
+    "localBackupTimestamp": "2025-04-12T20:22:02.555Z"
+  },
+  {
+    "question": "Which Italo Calvino novel is composed entirely of the first chapters of ten different novels?",
+    "correct_answer": "If on a winter's night a traveler",
+    "incorrect_answers": [
+      "Invisible Cities",
+      "Cosmicomics",
+      "The Baron in the Trees",
+      "The Cloven Viscount",
+      "The Nonexistent Knight",
+      "Mr. Palomar",
+      "Marcovaldo"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Books & Literature",
+    "difficulty": "hard",
+    "id": "3fb0996a-6ceb-4655-8fd7-5b84656c4984",
+    "created_at": "2025-04-13T02:22:02.561Z",
+    "backupTimestamp": "2025-04-13T02:22:02.561Z",
+    "localBackupTimestamp": "2025-04-12T20:22:02.561Z"
+  },
+  {
+    "question": "What is the source of the title 'Brave New World' by Aldous Huxley?",
+    "correct_answer": "Shakespeare's 'The Tempest'",
+    "incorrect_answers": [
+      "The Bible",
+      "Milton's 'Paradise Lost'",
+      "Plato's 'Republic'",
+      "A poem by William Blake",
+      "An essay by Thomas Huxley",
+      "Machiavelli's 'The Prince'",
+      "Huxley's own invention"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Books & Literature",
+    "difficulty": "hard",
+    "id": "ee8ed610-d37d-447f-99a2-3366698ec726",
+    "created_at": "2025-04-13T02:22:02.566Z",
+    "backupTimestamp": "2025-04-13T02:22:02.567Z",
+    "localBackupTimestamp": "2025-04-12T20:22:02.567Z"
+  },
+  {
+    "question": "Who wrote the Pulitzer Prize-winning novel 'The Amazing Adventures of Kavalier & Clay'?",
+    "correct_answer": "Michael Chabon",
+    "incorrect_answers": [
+      "Jonathan Franzen",
+      "David Foster Wallace",
+      "Jeffrey Eugenides",
+      "Jonathan Lethem",
+      "Colson Whitehead",
+      "Junot Díaz",
+      "Dave Eggers"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Books & Literature",
+    "difficulty": "hard",
+    "id": "e466ebb7-bf73-472b-97a7-e626627a27b7",
+    "created_at": "2025-04-13T02:22:02.571Z",
+    "backupTimestamp": "2025-04-13T02:22:02.571Z",
+    "localBackupTimestamp": "2025-04-12T20:22:02.571Z"
+  },
+  {
+    "question": "In 'Wuthering Heights', who is the tormented anti-hero deeply in love with Catherine Earnshaw?",
+    "correct_answer": "Heathcliff",
+    "incorrect_answers": [
+      "Edgar Linton",
+      "Hindley Earnshaw",
+      "Hareton Earnshaw",
+      "Linton Heathcliff",
+      "Mr. Lockwood",
+      "Joseph",
+      "Mr. Earnshaw"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Books & Literature",
+    "difficulty": "hard",
+    "id": "f17c3777-def1-4900-ad6d-c6bc5bb71b43",
+    "created_at": "2025-04-13T02:22:02.576Z",
+    "backupTimestamp": "2025-04-13T02:22:02.576Z",
+    "localBackupTimestamp": "2025-04-12T20:22:02.576Z"
+  },
+  {
+    "question": "What award is given annually for the best original full-length novel written in English and published in the UK or Ireland?",
+    "correct_answer": "The Booker Prize",
+    "incorrect_answers": [
+      "Pulitzer Prize for Fiction",
+      "National Book Award for Fiction",
+      "Nobel Prize in Literature",
+      "Women's Prize for Fiction",
+      "Costa Book Award for Novel",
+      "Hugo Award",
+      "Nebula Award"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Books & Literature",
+    "difficulty": "hard",
+    "id": "e3229c53-41ca-48e7-8145-4e3eafb223e3",
+    "created_at": "2025-04-13T02:22:02.580Z",
+    "backupTimestamp": "2025-04-13T02:22:02.581Z",
+    "localBackupTimestamp": "2025-04-12T20:22:02.581Z"
+  },
+  {
+    "question": "Which Russian novelist wrote 'Fathers and Sons' and 'A Sportsman's Sketches'?",
+    "correct_answer": "Ivan Turgenev",
+    "incorrect_answers": [
+      "Leo Tolstoy",
+      "Fyodor Dostoevsky",
+      "Anton Chekhov",
+      "Nikolai Gogol",
+      "Alexander Pushkin",
+      "Mikhail Lermontov",
+      "Boris Pasternak"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Books & Literature",
+    "difficulty": "hard",
+    "id": "601d3a06-ccfb-4b22-8ab7-3ba98d80613f",
+    "created_at": "2025-04-13T02:22:02.585Z",
+    "backupTimestamp": "2025-04-13T02:22:02.585Z",
+    "localBackupTimestamp": "2025-04-12T20:22:02.585Z"
+  },
+  {
+    "question": "What is the name of the ship that sinks in Yann Martel's 'Life of Pi'?",
+    "correct_answer": "Tsimtsum",
+    "incorrect_answers": [
+      "Pequod",
+      "Titanic",
+      "Lusitania",
+      "Demeter",
+      "Andromeda",
+      "Patna",
+      "Poseidon"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Books & Literature",
+    "difficulty": "hard",
+    "id": "056dcf46-441c-445e-a7bb-ed33f42febc9",
+    "created_at": "2025-04-13T02:22:02.591Z",
+    "backupTimestamp": "2025-04-13T02:22:02.592Z",
+    "localBackupTimestamp": "2025-04-12T20:22:02.592Z"
+  },
+  {
+    "question": "Which American author wrote the short story 'The Yellow Wallpaper'?",
+    "correct_answer": "Charlotte Perkins Gilman",
+    "incorrect_answers": [
+      "Kate Chopin",
+      "Edith Wharton",
+      "Willa Cather",
+      "Shirley Jackson",
+      "Flannery O'Connor",
+      "Louisa May Alcott",
+      "Emily Dickinson"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Books & Literature",
+    "difficulty": "hard",
+    "id": "78423294-5185-4741-87a2-afe285a6f5c5",
+    "created_at": "2025-04-13T02:22:02.596Z",
+    "backupTimestamp": "2025-04-13T02:22:02.597Z",
+    "localBackupTimestamp": "2025-04-12T20:22:02.597Z"
+  },
+  {
+    "question": "In Herman Melville's 'Bartleby, the Scrivener', what is Bartleby's famous recurring phrase?",
+    "correct_answer": "'I would prefer not to.'",
+    "incorrect_answers": [
+      "'Call me Ishmael.'",
+      "'It was the best of times, it was the worst of times.'",
+      "'Nevermore.'",
+      "'Please, sir, I want some more.'",
+      "'So it goes.'",
+      "'All animals are equal...'",
+      "'Who is John Galt?'"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Books & Literature",
+    "difficulty": "hard",
+    "id": "b75173ac-a4fd-4de7-8d97-786495eaf0e8",
+    "created_at": "2025-04-13T02:22:02.602Z",
+    "backupTimestamp": "2025-04-13T02:22:02.602Z",
+    "localBackupTimestamp": "2025-04-12T20:22:02.602Z"
+  },
+  {
+    "question": "Which Salman Rushdie novel prompted a fatwa to be issued against him?",
+    "correct_answer": "The Satanic Verses",
+    "incorrect_answers": [
+      "Midnight's Children",
+      "Shame",
+      "The Moor's Last Sigh",
+      "The Ground Beneath Her Feet",
+      "Haroun and the Sea of Stories",
+      "Fury",
+      "Quichotte"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Books & Literature",
+    "difficulty": "hard",
+    "id": "c1e72ce1-0041-41ef-ad67-a311bbbd79b0",
+    "created_at": "2025-04-13T02:22:02.606Z",
+    "backupTimestamp": "2025-04-13T02:22:02.607Z",
+    "localBackupTimestamp": "2025-04-12T20:22:02.607Z"
+  },
+  {
+    "question": "What is the name of the fictional estate owned by Jay Gatsby in 'The Great Gatsby'?",
+    "correct_answer": "West Egg (location, no specific estate name)",
+    "incorrect_answers": [
+      "East Egg",
+      "Pemberley",
+      "Manderley",
+      "Tara",
+      "Twelve Oaks",
+      "San Simeon",
+      "Graceland"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Books & Literature",
+    "difficulty": "hard",
+    "id": "2d0c7b86-b5f3-4d6f-9156-ee122ca5c544",
+    "created_at": "2025-04-13T02:22:02.611Z",
+    "backupTimestamp": "2025-04-13T02:22:02.611Z",
+    "localBackupTimestamp": "2025-04-12T20:22:02.611Z"
+  },
+  {
+    "question": "Which Ursula K. Le Guin novel explores anarchism and utopian ideals on the twin planets of Anarres and Urras?",
+    "correct_answer": "The Dispossessed",
+    "incorrect_answers": [
+      "The Left Hand of Darkness",
+      "A Wizard of Earthsea",
+      "The Lathe of Heaven",
+      "Always Coming Home",
+      "The Telling",
+      "City of Illusions",
+      "Rocannon's World"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Books & Literature",
+    "difficulty": "hard",
+    "id": "4c7bad9a-fbf5-4080-871c-34ab7ee3567b",
+    "created_at": "2025-04-13T02:22:02.617Z",
+    "backupTimestamp": "2025-04-13T02:22:02.617Z",
+    "localBackupTimestamp": "2025-04-12T20:22:02.617Z"
+  },
+  {
+    "question": "Who wrote the experimental novel 'House of Leaves'?",
+    "correct_answer": "Mark Z. Danielewski",
+    "incorrect_answers": [
+      "David Foster Wallace",
+      "Thomas Pynchon",
+      "William T. Vollmann",
+      "Bret Easton Ellis",
+      "Chuck Palahniuk",
+      "Neal Stephenson",
+      "Jennifer Egan"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Books & Literature",
+    "difficulty": "hard",
+    "id": "31b3d004-7579-4420-9e94-fe5f2a778de4",
+    "created_at": "2025-04-13T02:22:02.621Z",
+    "backupTimestamp": "2025-04-13T02:22:02.622Z",
+    "localBackupTimestamp": "2025-04-12T20:22:02.622Z"
+  },
+  {
+    "question": "In 'One Flew Over the Cuckoo's Nest', who is the narrator?",
+    "correct_answer": "Chief Bromden",
+    "incorrect_answers": [
+      "Randle McMurphy",
+      "Nurse Ratched",
+      "Dale Harding",
+      "Billy Bibbit",
+      "Ken Kesey",
+      "Dr. Spivey",
+      "Scanlon"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Books & Literature",
+    "difficulty": "hard",
+    "id": "8f527ac1-cf23-43a1-ba39-adcb20b1a5d8",
+    "created_at": "2025-04-13T02:22:02.626Z",
+    "backupTimestamp": "2025-04-13T02:22:02.626Z",
+    "localBackupTimestamp": "2025-04-12T20:22:02.626Z"
+  },
+  {
+    "question": "Which Kazuo Ishiguro novel features clones raised to be organ donors?",
+    "correct_answer": "Never Let Me Go",
+    "incorrect_answers": [
+      "The Remains of the Day",
+      "Klara and the Sun",
+      "An Artist of the Floating World",
+      "The Unconsoled",
+      "When We Were Orphans",
+      "The Buried Giant",
+      "A Pale View of Hills"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Books & Literature",
+    "difficulty": "hard",
+    "id": "037637f4-9b31-4716-967c-774a5c189e4e",
+    "created_at": "2025-04-13T02:22:02.631Z",
+    "backupTimestamp": "2025-04-13T02:22:02.631Z",
+    "localBackupTimestamp": "2025-04-12T20:22:02.631Z"
+  },
+  {
+    "question": "What is the meter of a traditional English or Shakespearean sonnet?",
+    "correct_answer": "Iambic pentameter",
+    "incorrect_answers": [
+      "Trochaic tetrameter",
+      "Anapestic trimeter",
+      "Dactylic hexameter",
+      "Spondaic dimeter",
+      "Free verse",
+      "Blank verse",
+      "Common meter"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Books & Literature",
+    "difficulty": "hard",
+    "id": "c281b9ee-1c6b-4f50-be5b-508d042844ca",
+    "created_at": "2025-04-13T02:22:02.635Z",
+    "backupTimestamp": "2025-04-13T02:22:02.635Z",
+    "localBackupTimestamp": "2025-04-12T20:22:02.635Z"
+  },
+  {
+    "question": "Who wrote the sprawling fantasy series 'Malazan Book of the Fallen'?",
+    "correct_answer": "Steven Erikson",
+    "incorrect_answers": [
+      "Ian C. Esslemont",
+      "George R.R. Martin",
+      "Robert Jordan",
+      "Brandon Sanderson",
+      "Glen Cook",
+      "R. Scott Bakker",
+      "Joe Abercrombie"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Books & Literature",
+    "difficulty": "hard",
+    "id": "f7aa29d8-0006-4f57-a4a2-393d69bc06f7",
+    "created_at": "2025-04-13T02:22:02.641Z",
+    "backupTimestamp": "2025-04-13T02:22:02.641Z",
+    "localBackupTimestamp": "2025-04-12T20:22:02.641Z"
+  },
+  {
+    "question": "In Voltaire's 'Candide', what philosophy is constantly espoused by Dr. Pangloss?",
+    "correct_answer": "Optimism ('All is for the best in the best of all possible worlds')",
+    "incorrect_answers": [
+      "Nihilism",
+      "Existentialism",
+      "Stoicism",
+      "Hedonism",
+      "Skepticism",
+      "Rationalism",
+      "Utilitarianism"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Books & Literature",
+    "difficulty": "hard",
+    "id": "b4fd8e29-079c-4048-b1a4-622739fd813e",
+    "created_at": "2025-04-13T02:22:02.645Z",
+    "backupTimestamp": "2025-04-13T02:22:02.646Z",
+    "localBackupTimestamp": "2025-04-12T20:22:02.646Z"
+  },
+  {
+    "question": "Which poet wrote the collection 'Leaves of Grass'?",
+    "correct_answer": "Walt Whitman",
+    "incorrect_answers": [
+      "Emily Dickinson",
+      "Ralph Waldo Emerson",
+      "Henry David Thoreau",
+      "Edgar Allan Poe",
+      "Robert Frost",
+      "Langston Hughes",
+      "Carl Sandburg"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Books & Literature",
+    "difficulty": "hard",
+    "id": "18599b51-de3c-45bb-8709-cf2d84111c17",
+    "created_at": "2025-04-13T02:22:02.650Z",
+    "backupTimestamp": "2025-04-13T02:22:02.650Z",
+    "localBackupTimestamp": "2025-04-12T20:22:02.650Z"
+  },
+  {
+    "question": "What is the name of the AI character in Arthur C. Clarke's '2001: A Space Odyssey'?",
+    "correct_answer": "HAL 9000",
+    "incorrect_answers": [
+      "SAL 9000",
+      "Deep Thought",
+      "Multivac",
+      "Skynet",
+      "Wintermute",
+      "GLaDOS",
+      "VIKI"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Books & Literature",
+    "difficulty": "hard",
+    "id": "df5af9c0-2f24-4413-a85c-6ebc17328b53",
+    "created_at": "2025-04-13T02:22:02.655Z",
+    "backupTimestamp": "2025-04-13T02:22:02.655Z",
+    "localBackupTimestamp": "2025-04-12T20:22:02.655Z"
+  },
+  {
+    "question": "Which Joseph Heller novel satirizes war and bureaucracy, known for its paradoxical catchphrase?",
+    "correct_answer": "Catch-22",
+    "incorrect_answers": [
+      "Slaughterhouse-Five",
+      "M*A*S*H",
+      "Something Happened",
+      "Good as Gold",
+      "Closing Time",
+      "God Knows",
+      "Picture This"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Books & Literature",
+    "difficulty": "hard",
+    "id": "3582b012-6933-4ee0-ae79-e49aefbdd396",
+    "created_at": "2025-04-13T02:22:02.659Z",
+    "backupTimestamp": "2025-04-13T02:22:02.660Z",
+    "localBackupTimestamp": "2025-04-12T20:22:02.660Z"
+  },
+  {
+    "question": "What is the name of the magical school in Patrick Rothfuss's 'The Name of the Wind'?",
+    "correct_answer": "The University",
+    "incorrect_answers": [
+      "Hogwarts",
+      "Brakebills University",
+      "Scholomance",
+      "Roke",
+      "Unseen University",
+      "Miskatonic University",
+      "Starfleet Academy"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Books & Literature",
+    "difficulty": "hard",
+    "id": "d3119833-7e41-4598-a79c-41155c3b1f1b",
+    "created_at": "2025-04-13T02:22:02.665Z",
+    "backupTimestamp": "2025-04-13T02:22:02.665Z",
+    "localBackupTimestamp": "2025-04-12T20:22:02.665Z"
+  },
+  {
+    "question": "Who wrote the influential post-structuralist work 'Of Grammatology'?",
+    "correct_answer": "Jacques Derrida",
+    "incorrect_answers": [
+      "Michel Foucault",
+      "Roland Barthes",
+      "Jean Baudrillard",
+      "Gilles Deleuze",
+      "Jacques Lacan",
+      "Julia Kristeva",
+      "Judith Butler"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Books & Literature",
+    "difficulty": "hard",
+    "id": "1e337eb7-16bc-4b11-9af9-3a0c28e55524",
+    "created_at": "2025-04-13T02:22:02.670Z",
+    "backupTimestamp": "2025-04-13T02:22:02.670Z",
+    "localBackupTimestamp": "2025-04-12T20:22:02.670Z"
+  },
+  {
+    "question": "In 'The Silmarillion', who is the primary antagonist and fallen Vala?",
+    "correct_answer": "Morgoth Bauglir (formerly Melkor)",
+    "incorrect_answers": [
+      "Sauron",
+      "Ungoliant",
+      "Glaurung",
+      "Ancalagon the Black",
+      "Fëanor",
+      "Maeglin",
+      "Gothmog (Lord of Balrogs)"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Books & Literature",
+    "difficulty": "hard",
+    "id": "2da6f554-7995-494a-ab58-8bbeadbe9af7",
+    "created_at": "2025-04-13T02:22:02.674Z",
+    "backupTimestamp": "2025-04-13T02:22:02.675Z",
+    "localBackupTimestamp": "2025-04-12T20:22:02.675Z"
+  },
+  {
+    "question": "Which Haruki Murakami novel features characters named Tengo and Aomame and deals with a parallel reality called '1Q84'?",
+    "correct_answer": "1Q84",
+    "incorrect_answers": [
+      "Kafka on the Shore",
+      "Norwegian Wood",
+      "The Wind-Up Bird Chronicle",
+      "Hard-Boiled Wonderland and the End of the World",
+      "Sputnik Sweetheart",
+      "Colorless Tsukuru Tazaki and His Years of Pilgrimage",
+      "Killing Commendatore"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Books & Literature",
+    "difficulty": "hard",
+    "id": "efcd3e86-79a3-4376-aa07-f95e6ff84c3d",
+    "created_at": "2025-04-13T02:22:02.679Z",
+    "backupTimestamp": "2025-04-13T02:22:02.679Z",
+    "localBackupTimestamp": "2025-04-12T20:22:02.679Z"
+  },
+  {
+    "question": "What movement in literature, associated with authors like Jack Kerouac and Allen Ginsberg, emphasized spontaneity and non-conformity?",
+    "correct_answer": "The Beat Generation",
+    "incorrect_answers": [
+      "The Lost Generation",
+      "Transcendentalism",
+      "Modernism",
+      "Postmodernism",
+      "Surrealism",
+      "The Harlem Renaissance",
+      "Imagism"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Books & Literature",
+    "difficulty": "hard",
+    "id": "534aa47e-78c0-49fb-b820-8b5cea975a80",
+    "created_at": "2025-04-13T02:22:02.684Z",
+    "backupTimestamp": "2025-04-13T02:22:02.684Z",
+    "localBackupTimestamp": "2025-04-12T20:22:02.684Z"
+  },
+  {
+    "question": "Who is the author of the sprawling novel 'Les Misérables'?",
+    "correct_answer": "Victor Hugo",
+    "incorrect_answers": [
+      "Alexandre Dumas",
+      "Gustave Flaubert",
+      "Honoré de Balzac",
+      "Émile Zola",
+      "Stendhal",
+      "Guy de Maupassant",
+      "Jules Verne"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Books & Literature",
+    "difficulty": "hard",
+    "id": "67fb06ba-d958-4ed9-99f2-0000742cd804",
+    "created_at": "2025-04-13T02:22:02.689Z",
+    "backupTimestamp": "2025-04-13T02:22:02.690Z",
+    "localBackupTimestamp": "2025-04-12T20:22:02.690Z"
+  },
+  {
+    "question": "Which Ted Hughes poetry collection focuses on a mythological crow figure?",
+    "correct_answer": "Crow: From the Life and Songs of the Crow",
+    "incorrect_answers": [
+      "The Hawk in the Rain",
+      "Lupercal",
+      "Wodwo",
+      "Birthday Letters",
+      "Tales from Ovid",
+      "Remains of Elmet",
+      "Season Songs"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Books & Literature",
+    "difficulty": "hard",
+    "id": "ce710d4e-9278-4de8-b7c9-646bc8dfc594",
+    "created_at": "2025-04-13T02:22:02.694Z",
+    "backupTimestamp": "2025-04-13T02:22:02.695Z",
+    "localBackupTimestamp": "2025-04-12T20:22:02.695Z"
+  },
+  {
+    "question": "What is the name of the protagonist in Ralph Ellison's 'Invisible Man'?",
+    "correct_answer": "He remains unnamed",
+    "incorrect_answers": [
+      "John Grimes",
+      "Bigger Thomas",
+      "Todd Clifton",
+      "Ras the Exhorter",
+      "Brother Jack",
+      "Dr. Bledsoe",
+      "Trueblood"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Books & Literature",
+    "difficulty": "hard",
+    "id": "b6c3d39d-7754-4aeb-a3e3-b7e5d4620e36",
+    "created_at": "2025-04-13T02:22:02.700Z",
+    "backupTimestamp": "2025-04-13T02:22:02.700Z",
+    "localBackupTimestamp": "2025-04-12T20:22:02.700Z"
+  },
+  {
+    "question": "Which Samuel Beckett play features two characters, Vladimir and Estragon, waiting for someone who never arrives?",
+    "correct_answer": "Waiting for Godot",
+    "incorrect_answers": [
+      "Endgame",
+      "Krapp's Last Tape",
+      "Happy Days",
+      "Play",
+      "Not I",
+      "Footfalls",
+      "Rockaby"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Books & Literature",
+    "difficulty": "hard",
+    "id": "b90f0ad8-16a8-4941-9f0e-343c1335a1dd",
+    "created_at": "2025-04-13T02:22:02.705Z",
+    "backupTimestamp": "2025-04-13T02:22:02.705Z",
+    "localBackupTimestamp": "2025-04-12T20:22:02.705Z"
+  },
+  {
+    "question": "What is the title of the first book in Isaac Asimov's 'Foundation' series?",
+    "correct_answer": "Foundation",
+    "incorrect_answers": [
+      "Foundation and Empire",
+      "Second Foundation",
+      "Prelude to Foundation",
+      "Forward the Foundation",
+      "Foundation's Edge",
+      "Foundation and Earth",
+      "I, Robot"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Books & Literature",
+    "difficulty": "hard",
+    "id": "029c332b-9ed1-4b5b-b0d5-1cd92aa593b7",
+    "created_at": "2025-04-13T02:22:02.709Z",
+    "backupTimestamp": "2025-04-13T02:22:02.710Z",
+    "localBackupTimestamp": "2025-04-12T20:22:02.710Z"
+  },
+  {
+    "question": "Which author wrote the stream-of-consciousness novel 'As I Lay Dying'?",
+    "correct_answer": "William Faulkner",
+    "incorrect_answers": [
+      "James Joyce",
+      "Virginia Woolf",
+      "Ernest Hemingway",
+      "John Steinbeck",
+      "T.S. Eliot",
+      "Thomas Wolfe",
+      "Carson McCullers"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Books & Literature",
+    "difficulty": "hard",
+    "id": "8ad1a0fc-14af-4597-af50-f560afa283ce",
+    "created_at": "2025-04-13T02:22:02.715Z",
+    "backupTimestamp": "2025-04-13T02:22:02.716Z",
+    "localBackupTimestamp": "2025-04-12T20:22:02.716Z"
+  },
+  {
+    "question": "What is the name of the computer that plays chess against the protagonist in Walter Tevis's 'The Queen's Gambit'?",
+    "correct_answer": "There is no chess-playing computer in the novel.",
+    "incorrect_answers": [
+      "Deep Blue",
+      "HAL 9000",
+      "BORG 19",
+      "The Turk",
+      "Colossus",
+      "WOPR",
+      "Skynet"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Books & Literature",
+    "difficulty": "hard",
+    "id": "11227f56-4c02-4426-8118-005021927b11",
+    "created_at": "2025-04-13T02:22:02.721Z",
+    "backupTimestamp": "2025-04-13T02:22:02.721Z",
+    "localBackupTimestamp": "2025-04-12T20:22:02.721Z"
+  },
+  {
+    "question": "Which Argentinian author is known for his philosophical short stories and essays, collected in works like 'Ficciones' and 'Labyrinths'?",
+    "correct_answer": "Jorge Luis Borges",
+    "incorrect_answers": [
+      "Gabriel García Márquez",
+      "Julio Cortázar",
+      "Mario Vargas Llosa",
+      "Roberto Bolaño",
+      "Carlos Fuentes",
+      "Adolfo Bioy Casares",
+      "Ernesto Sabato"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Books & Literature",
+    "difficulty": "hard",
+    "id": "541e1437-54b2-437a-8808-7c9bea674d64",
+    "created_at": "2025-04-13T02:22:02.725Z",
+    "backupTimestamp": "2025-04-13T02:22:02.726Z",
+    "localBackupTimestamp": "2025-04-12T20:22:02.726Z"
+  },
+  {
+    "question": "What is the 'Oxford English Dictionary' (OED)?",
+    "correct_answer": "A historical dictionary tracing the evolution of the English language",
+    "incorrect_answers": [
+      "A standard dictionary of current English",
+      "A thesaurus",
+      "An encyclopedia",
+      "A rhyming dictionary",
+      "A style guide",
+      "A translation dictionary",
+      "A biographical dictionary"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Books & Literature",
+    "difficulty": "hard",
+    "id": "2d3ec69a-a8da-4aeb-8f36-3effe03be2e9",
+    "created_at": "2025-04-13T02:22:02.730Z",
+    "backupTimestamp": "2025-04-13T02:22:02.731Z",
+    "localBackupTimestamp": "2025-04-12T20:22:02.731Z"
+  },
+  {
+    "question": "Which playwright wrote 'Death of a Salesman'?",
+    "correct_answer": "Arthur Miller",
+    "incorrect_answers": [
+      "Tennessee Williams",
+      "Eugene O'Neill",
+      "Edward Albee",
+      "Samuel Beckett",
+      "Harold Pinter",
+      "August Wilson",
+      "David Mamet"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Books & Literature",
+    "difficulty": "hard",
+    "id": "8499f0ba-eded-4651-ab09-9bf73382d647",
+    "created_at": "2025-04-13T02:22:02.735Z",
+    "backupTimestamp": "2025-04-13T02:22:02.735Z",
+    "localBackupTimestamp": "2025-04-12T20:22:02.735Z"
+  },
+  {
+    "question": "In Chaucer's 'The Canterbury Tales', where are the pilgrims traveling to?",
+    "correct_answer": "The shrine of Saint Thomas Becket in Canterbury",
+    "incorrect_answers": [
+      "Jerusalem",
+      "Rome",
+      "Santiago de Compostela",
+      "Glastonbury",
+      "Walsingham",
+      "London",
+      "Bath"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Books & Literature",
+    "difficulty": "hard",
+    "id": "b179c974-47c9-4be9-9ca9-2d84986a9304",
+    "created_at": "2025-04-13T02:22:02.741Z",
+    "backupTimestamp": "2025-04-13T02:22:02.741Z",
+    "localBackupTimestamp": "2025-04-12T20:22:02.741Z"
+  },
+  {
+    "question": "What is the name of the powerful, god-like being worshipped in H.P. Lovecraft's Cthulhu Mythos?",
+    "correct_answer": "Cthulhu / Azathoth / Yog-Sothoth (among others)",
+    "incorrect_answers": [
+      "Dagon",
+      "Nyarlathotep",
+      "Shub-Niggurath",
+      "Hastur",
+      "Satan",
+      "Odin",
+      "Zeus"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Books & Literature",
+    "difficulty": "hard",
+    "id": "c385fefe-8113-46c0-9002-4b143296a2aa",
+    "created_at": "2025-04-13T02:22:02.746Z",
+    "backupTimestamp": "2025-04-13T02:22:02.746Z",
+    "localBackupTimestamp": "2025-04-12T20:22:02.746Z"
+  },
+  {
+    "question": "Which Neil Gaiman novel features characters named Shadow Moon and Mr. Wednesday?",
+    "correct_answer": "American Gods",
+    "incorrect_answers": [
+      "Neverwhere",
+      "Stardust",
+      "Coraline",
+      "The Ocean at the End of the Lane",
+      "Anansi Boys",
+      "Good Omens (with Terry Pratchett)",
+      "The Graveyard Book"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Books & Literature",
+    "difficulty": "hard",
+    "id": "e1938373-664d-454c-bc2b-ab603dbe6366",
+    "created_at": "2025-04-13T02:22:02.751Z",
+    "backupTimestamp": "2025-04-13T02:22:02.751Z",
+    "localBackupTimestamp": "2025-04-12T20:22:02.751Z"
+  },
+  {
+    "question": "What is the name of the first book in Liu Cixin's 'Remembrance of Earth's Past' trilogy (often called the 'Three-Body Problem' series)?",
+    "correct_answer": "The Three-Body Problem",
+    "incorrect_answers": [
+      "The Dark Forest",
+      "Death's End",
+      "Ball Lightning",
+      "Supernova Era",
+      "The Wandering Earth",
+      "Foundation",
+      "Hyperion"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Books & Literature",
+    "difficulty": "hard",
+    "id": "249c1270-da60-42a8-94ed-1c4e92b23fae",
+    "created_at": "2025-04-13T02:22:02.756Z",
+    "backupTimestamp": "2025-04-13T02:22:02.756Z",
+    "localBackupTimestamp": "2025-04-12T20:22:02.756Z"
+  },
+  {
+    "question": "Which poet is famous for the line 'Do not go gentle into that good night'?",
+    "correct_answer": "Dylan Thomas",
+    "incorrect_answers": [
+      "W.H. Auden",
+      "T.S. Eliot",
+      "Sylvia Plath",
+      "Ted Hughes",
+      "Philip Larkin",
+      "Seamus Heaney",
+      "Robert Frost"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Books & Literature",
+    "difficulty": "hard",
+    "id": "3beb44bf-246a-444a-b8e9-9b1a50db3574",
+    "created_at": "2025-04-13T02:22:02.761Z",
+    "backupTimestamp": "2025-04-13T02:22:02.761Z",
+    "localBackupTimestamp": "2025-04-12T20:22:02.761Z"
   }
 ]
