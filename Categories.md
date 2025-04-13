@@ -1,7 +1,7 @@
 # Trivia App Categories & Subcategories
 
-- 61 subcategories in total
-- 164 questions per subcategory would be 10,004 questions
+- 60 subcategories in total
+- 167 questions per subcategory would be 10,020 questions
 
 ## Pop Culture
 - Movies

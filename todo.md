@@ -35,6 +35,9 @@
     - [x] If approved, add the question despite being a duplicate
     - [x] If rejected, skip the question
   - [x] Add pagination to questions list on web page.
+  - [ ] Add another validation for questions: Make sure the answer is not in the question.
+    - E.g. "question": "Which YouTube channel gained notoriety for its 'Hydraulic Press Channel,' crushing various objects?",
+    "correct_answer": "Hydraulic Press Channel",
   - [ ] Get 10,000 questions
   - [ ] Set up SQLite database structure
     - [ ] Create responses table schema

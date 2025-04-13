@@ -101,7 +101,6 @@ const populateCategories = () => {
     { main: 'Pop Culture', sub: 'Comics' },
     { main: 'Pop Culture', sub: 'Books & Literature' },
     { main: 'Pop Culture', sub: 'Celebrities' },
-    { main: 'Pop Culture', sub: 'Internet Culture, Memes, & Viral Content' },
 
     // Science & Nature
     { main: 'Science & Nature', sub: 'Biology' },
@@ -196,7 +195,13 @@ export const getAllCategories = () => {
   }
   if (!_sqlite) return [];
 
-  return _sqlite.prepare('SELECT * FROM categories ORDER BY main_category, subcategory').all();
+  const results = _sqlite
+    .prepare(
+      'SELECT id, main_category as mainCategory, subcategory, created_at as createdAt FROM categories ORDER BY main_category, subcategory'
+    )
+    .all();
+
+  return results;
 };
 
 /**

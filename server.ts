@@ -463,6 +463,104 @@ app.get('/api/categories/:mainCategory/subcategories', (async (req: Request, res
   }
 }) as RequestHandler);
 
+// Add new category
+app.post('/api/categories', (async (req: Request, res: Response) => {
+  try {
+    const db = getDB();
+    const { mainCategory, subcategory } = req.body;
+
+    if (!mainCategory || !subcategory) {
+      return res.status(400).json({
+        success: false,
+        error: 'Main category and subcategory are required',
+      });
+    }
+
+    // Check if category already exists
+    const existing = await db
+      .select()
+      .from(schema.categories)
+      .where(
+        sql`${schema.categories.mainCategory} = ${mainCategory} AND ${schema.categories.subcategory} = ${subcategory}`
+      );
+
+    if (existing.length > 0) {
+      return res.status(400).json({
+        success: false,
+        error: 'Category combination already exists',
+      });
+    }
+
+    // Add the category
+    const newCategory = {
+      id: generateUUID(),
+      mainCategory,
+      subcategory,
+      createdAt: new Date(),
+    };
+
+    await db.insert(schema.categories).values(newCategory);
+
+    res.json({
+      success: true,
+      data: newCategory,
+    });
+  } catch (error) {
+    console.error('Error adding category:', error);
+    res.status(500).json({
+      success: false,
+      error: error instanceof Error ? error.message : String(error),
+    });
+  }
+}) as RequestHandler);
+
+// Delete category
+app.delete('/api/categories/:id', (async (req: Request, res: Response) => {
+  try {
+    const db = getDB();
+    const { id } = req.params;
+
+    // Check if category exists
+    const category = await db.select().from(schema.categories).where(eq(schema.categories.id, id));
+
+    if (!category || category.length === 0) {
+      return res.status(404).json({
+        success: false,
+        error: 'Category not found',
+      });
+    }
+
+    // Check if there are any questions using this category
+    const questions = await db
+      .select()
+      .from(schema.questions)
+      .where(
+        sql`${schema.questions.mainCategory} = ${category[0].mainCategory} AND ${schema.questions.subcategory} = ${category[0].subcategory}`
+      );
+
+    if (questions.length > 0) {
+      return res.status(400).json({
+        success: false,
+        error: `Cannot delete category that has ${questions.length} questions. Delete the questions first.`,
+      });
+    }
+
+    // Delete the category
+    await db.delete(schema.categories).where(eq(schema.categories.id, id));
+
+    res.json({
+      success: true,
+      message: 'Category deleted successfully',
+    });
+  } catch (error) {
+    console.error('Error deleting category:', error);
+    res.status(500).json({
+      success: false,
+      error: error instanceof Error ? error.message : String(error),
+    });
+  }
+}) as RequestHandler);
+
 app.listen(port, () => {
   console.log(`Development server running at http://localhost:${port}`);
 });
