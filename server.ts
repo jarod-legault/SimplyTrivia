@@ -86,7 +86,7 @@ app.post('/api/questions', (async (
 
     const added = [];
     const duplicates = [];
-    const answersInQuestions = [];
+    const questionWarnings = [];
     const errors = [];
 
     for (const data of questionsData) {
@@ -120,6 +120,26 @@ app.post('/api/questions', (async (
           continue;
         }
 
+        // Check for long answers
+        const longAnswers: string[] = [];
+        if (data.correct_answer.length > 50) {
+          longAnswers.push(data.correct_answer);
+        }
+        for (const answer of incorrectAnswers) {
+          if (answer.length > 50) {
+            longAnswers.push(answer);
+          }
+        }
+        if (longAnswers.length > 0) {
+          console.log('Found long answers:', longAnswers);
+          questionWarnings.push({
+            newQuestion: data,
+            reason: 'Question has answers exceeding 50 characters',
+            answer: longAnswers.join(', '),
+          });
+          continue;
+        }
+
         // Validate category/subcategory
         if (!validateCategory(data.main_category, data.subcategory)) {
           console.log('Validation failed: Invalid category combination');
@@ -133,7 +153,7 @@ app.post('/api/questions', (async (
         // Check if answer is in question
         if (checkQuestionContainsAnswer(data.question, data.correct_answer)) {
           console.log('Found answer in question');
-          answersInQuestions.push({
+          questionWarnings.push({
             newQuestion: data,
             reason: 'Answer appears in question text',
             answer: data.correct_answer,
@@ -186,7 +206,7 @@ app.post('/api/questions', (async (
     console.log('Request complete:', {
       added: added.length,
       duplicates: duplicates.length,
-      answersInQuestions: answersInQuestions.length,
+      questionWarnings: questionWarnings.length,
       errors: errors.length,
     });
 
@@ -194,11 +214,11 @@ app.post('/api/questions', (async (
       success: true,
       added: added.length,
       duplicates: duplicates.length,
-      answersInQuestions: answersInQuestions.length,
+      questionWarnings: questionWarnings.length,
       errors: errors.length,
       addedData: added,
       duplicatesData: duplicates,
-      answersInQuestionsData: answersInQuestions,
+      questionWarningsData: questionWarnings,
       errorsData: errors,
     });
   } catch (error) {
@@ -476,8 +496,8 @@ app.get('/api/questions/scan-for-answers', (async (req: Request, res: Response) 
 
     res.json({
       success: true,
-      answersInQuestions: problematicQuestions.length,
-      answersInQuestionsData: problematicQuestions,
+      questionWarnings: problematicQuestions.length,
+      questionWarningsData: problematicQuestions,
     });
   } catch (error) {
     console.error('Error scanning questions:', error);

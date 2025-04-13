@@ -32,7 +32,7 @@ interface ErrorData {
   error: string;
 }
 
-interface AnswerInQuestion {
+interface QuestionWarning {
   newQuestion: {
     question: string;
     main_category: string;
@@ -58,9 +58,9 @@ export default function QuestionsPage() {
       similarQuestions: DuplicateQuestion[];
     }[]
   >([]);
-  const [answersInQuestions, setAnswersInQuestions] = useState<AnswerInQuestion[]>([]);
+  const [questionWarnings, setQuestionWarnings] = useState<QuestionWarning[]>([]);
   const [showDuplicatesModal, setShowDuplicatesModal] = useState(false);
-  const [showAnswersInQuestionsModal, setShowAnswersInQuestionsModal] = useState(false);
+  const [showWarningsModal, setShowWarningsModal] = useState(false);
   const [currentPage, setCurrentPage] = useState(1);
   const [pagination, setPagination] = useState<PaginationData>({
     page: 1,
@@ -76,9 +76,9 @@ export default function QuestionsPage() {
       const result = await response.json();
 
       if (result.success) {
-        if (result.answersInQuestions > 0 && result.answersInQuestionsData) {
-          setAnswersInQuestions(result.answersInQuestionsData);
-          setShowAnswersInQuestionsModal(true);
+        if (result.questionWarnings > 0 && result.questionWarningsData) {
+          setQuestionWarnings(result.questionWarningsData);
+          setShowWarningsModal(true);
         } else {
           setStatusMessage('No questions found containing their answers.');
         }
@@ -164,14 +164,14 @@ export default function QuestionsPage() {
           setShowDuplicatesModal(true);
         }
 
-        // If there are answers in questions, show them in the modal
-        if (result.answersInQuestions > 0 && result.answersInQuestionsData) {
-          setAnswersInQuestions(result.answersInQuestionsData);
-          setShowAnswersInQuestionsModal(true);
+        // If there are warnings, show them in the modal
+        if (result.questionWarnings > 0 && result.questionWarningsData) {
+          setQuestionWarnings(result.questionWarningsData);
+          setShowWarningsModal(true);
         }
 
         // Only clear input if everything was successful
-        if (result.errors === 0 && result.duplicates === 0 && result.answersInQuestions === 0) {
+        if (result.errors === 0 && result.duplicates === 0 && result.questionWarnings === 0) {
           setJsonInput('');
         }
 
@@ -298,12 +298,12 @@ export default function QuestionsPage() {
       const result = await response.json();
 
       if (result.success) {
-        setAnswersInQuestions((prev) =>
+        setQuestionWarnings((prev) =>
           prev.filter((q) => q.newQuestion.question !== question.question)
         );
 
-        if (answersInQuestions.length <= 1) {
-          setShowAnswersInQuestionsModal(false);
+        if (questionWarnings.length <= 1) {
+          setShowWarningsModal(false);
         }
 
         if ((jsonInput && approved) || (!jsonInput && !approved)) {
@@ -568,22 +568,22 @@ export default function QuestionsPage() {
         </View>
       </Modal>
 
-      {/* Answer in Question Modal */}
+      {/* Question Warnings Modal */}
       <Modal
-        visible={showAnswersInQuestionsModal}
+        visible={showWarningsModal}
         transparent
         animationType="fade"
-        onRequestClose={() => setShowAnswersInQuestionsModal(false)}>
+        onRequestClose={() => setShowWarningsModal(false)}>
         <View style={styles.modalOverlay}>
           <View style={styles.modalContent}>
-            <Text style={styles.modalTitle}>Review Questions with Answers</Text>
+            <Text style={styles.modalTitle}>Review Question Warnings</Text>
             <Text style={styles.modalSubtitle}>
-              {answersInQuestions.length} question{answersInQuestions.length !== 1 ? 's' : ''}
-              contain{answersInQuestions.length === 1 ? 's' : ''} their answer
+              {questionWarnings.length} question{questionWarnings.length !== 1 ? 's' : ''}
+              {' have'} warnings
             </Text>
 
             <ScrollView style={styles.duplicatesContainer}>
-              {answersInQuestions.map((item, index) => {
+              {questionWarnings.map((item, index) => {
                 // Skip rendering if item or newQuestion is undefined
                 if (!item?.newQuestion) {
                   console.warn(`Invalid item at index ${index}:`, item);
@@ -628,7 +628,7 @@ export default function QuestionsPage() {
                             }
                           })()}
                         </View>
-                        <Text style={styles.reasonText}>Reason found: {item.reason || 'N/A'}</Text>
+                        <Text style={styles.reasonText}>Warning: {item.reason || 'N/A'}</Text>
                       </View>
                     </View>
 
@@ -659,7 +659,7 @@ export default function QuestionsPage() {
             </ScrollView>
 
             <Pressable
-              onPress={() => setShowAnswersInQuestionsModal(false)}
+              onPress={() => setShowWarningsModal(false)}
               style={({ pressed }) => [
                 styles.button,
                 styles.closeButton,

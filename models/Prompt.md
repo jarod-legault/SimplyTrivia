@@ -11,3 +11,4 @@
 - Proof read each question to make sure there are no problems with the question. If there are problems, fix the problems or replace it with a different question.
 - Do not provide any questions that have only two possible answers, like true/false questions.
 - Ensure that the correct answer does not appear in the question.
+- All answers, both correct and incorrect, should not be more than 50 characters.
