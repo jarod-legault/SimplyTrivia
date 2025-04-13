@@ -1,0 +1,192 @@
+[
+  {
+    "question": "Which programming language was created by James Gosling at Sun Microsystems in 1995?",
+    "correct_answer": "Java",
+    "incorrect_answers": [
+      "Python",
+      "C++",
+      "JavaScript",
+      "Ruby",
+      "Pascal",
+      "COBOL",
+      "Perl"
+    ],
+    "difficulty": "easy",
+    "main_category": "Technology",
+    "subcategory": "Computers & Internet",
+    "id": "9a974609-4a77-450e-a9d2-b9ab42f39403",
+    "created_at": "2025-04-13T00:29:55.934Z",
+    "backupTimestamp": "2025-04-13T00:29:55.938Z"
+  },
+  {
+    "question": "Which ancient wonder of the world was located in Alexandria, Egypt?",
+    "correct_answer": "The Lighthouse of Alexandria",
+    "incorrect_answers": [
+      "The Hanging Gardens of Babylon",
+      "The Colossus of Rhodes",
+      "The Temple of Artemis",
+      "The Mausoleum at Halicarnassus",
+      "The Statue of Zeus",
+      "The Great Pyramid of Giza",
+      "The Ishtar Gate"
+    ],
+    "difficulty": "medium",
+    "main_category": "History",
+    "subcategory": "Ancient History",
+    "id": "3ba68514-ac69-4263-ae8d-478f3c9cbf8d",
+    "created_at": "2025-04-13T00:29:55.939Z",
+    "backupTimestamp": "2025-04-13T00:29:55.940Z"
+  },
+  {
+    "question": "What is the capital city of Morocco?",
+    "correct_answer": "Rabat",
+    "incorrect_answers": [
+      "Casablanca",
+      "Marrakech",
+      "Fez",
+      "Tangier",
+      "Agadir",
+      "Meknes",
+      "Oujda"
+    ],
+    "difficulty": "medium",
+    "main_category": "Geography",
+    "subcategory": "Countries & Capitals",
+    "id": "0e0757a5-0b0c-4f4f-bfcf-173f580b6f0a",
+    "created_at": "2025-04-13T00:29:55.940Z",
+    "backupTimestamp": "2025-04-13T00:29:55.940Z"
+  },
+  {
+    "question": "Which movie won the Academy Award for Best Picture in 2024?",
+    "correct_answer": "Oppenheimer",
+    "incorrect_answers": [
+      "Barbie",
+      "Poor Things",
+      "Killers of the Flower Moon",
+      "Maestro",
+      "American Fiction",
+      "The Holdovers",
+      "The Zone of Interest"
+    ],
+    "difficulty": "easy",
+    "main_category": "Pop Culture",
+    "subcategory": "Movies",
+    "id": "a6f16b05-bfae-40d4-9688-eb40b5377896",
+    "created_at": "2025-04-13T00:29:55.941Z",
+    "backupTimestamp": "2025-04-13T00:29:55.941Z"
+  },
+  {
+    "question": "What type of pasta has a name meaning \"little worms\" in Italian?",
+    "correct_answer": "Vermicelli",
+    "incorrect_answers": [
+      "Spaghetti",
+      "Linguine",
+      "Fettuccine",
+      "Penne",
+      "Rigatoni",
+      "Orecchiette",
+      "Farfalle"
+    ],
+    "difficulty": "hard",
+    "main_category": "Food & Drink",
+    "subcategory": "Cuisine Around the World",
+    "id": "ce263c35-0af9-4f3b-ad22-c84ad819076a",
+    "created_at": "2025-04-13T00:29:55.941Z",
+    "backupTimestamp": "2025-04-13T00:29:55.941Z"
+  },
+  {
+    "question": "Which famous artist painted \"The Persistence of Memory\" featuring melting clocks?",
+    "correct_answer": "Salvador Dalí",
+    "incorrect_answers": [
+      "Pablo Picasso",
+      "Vincent van Gogh",
+      "Claude Monet",
+      "René Magritte",
+      "Frida Kahlo",
+      "Andy Warhol",
+      "Georgia O'Keeffe"
+    ],
+    "difficulty": "medium",
+    "main_category": "Art & Culture",
+    "subcategory": "Painting & Drawing",
+    "id": "d3e8ecfe-1316-4af9-9aa1-62fb944c6ef7",
+    "created_at": "2025-04-13T00:29:55.941Z",
+    "backupTimestamp": "2025-04-13T00:29:55.942Z"
+  },
+  {
+    "question": "What is the chemical symbol for tungsten?",
+    "correct_answer": "W",
+    "incorrect_answers": [
+      "Tu",
+      "Tn",
+      "Tg",
+      "Wu",
+      "Ta",
+      "Ti",
+      "Te"
+    ],
+    "difficulty": "hard",
+    "main_category": "Science & Nature",
+    "subcategory": "Chemistry",
+    "id": "144f320e-eec0-4536-bd31-e79416b964e8",
+    "created_at": "2025-04-13T00:29:55.942Z",
+    "backupTimestamp": "2025-04-13T00:29:55.942Z"
+  },
+  {
+    "question": "Which NBA team won the most championships in the 1960s?",
+    "correct_answer": "Boston Celtics",
+    "incorrect_answers": [
+      "Los Angeles Lakers",
+      "Philadelphia 76ers",
+      "New York Knicks",
+      "St. Louis Hawks",
+      "San Francisco Warriors",
+      "Cincinnati Royals",
+      "Baltimore Bullets"
+    ],
+    "difficulty": "medium",
+    "main_category": "Sports & Games",
+    "subcategory": "Basketball",
+    "id": "22aca8e3-b86e-4aa9-865c-9633743fb2b0",
+    "created_at": "2025-04-13T00:29:55.942Z",
+    "backupTimestamp": "2025-04-13T00:29:55.943Z"
+  },
+  {
+    "question": "What is the term for a word that reads the same forwards and backwards?",
+    "correct_answer": "Palindrome",
+    "incorrect_answers": [
+      "Anagram",
+      "Homonym",
+      "Synonym",
+      "Antonym",
+      "Homophone",
+      "Acronym",
+      "Alliteration"
+    ],
+    "difficulty": "easy",
+    "main_category": "Language & Words",
+    "subcategory": "Grammar & Vocabulary",
+    "id": "bd56e056-5564-446b-9f58-9eef3dc01719",
+    "created_at": "2025-04-13T00:29:55.943Z",
+    "backupTimestamp": "2025-04-13T00:29:55.943Z"
+  },
+  {
+    "question": "Which social media platform was founded by Mark Zuckerberg in 2004?",
+    "correct_answer": "Facebook",
+    "incorrect_answers": [
+      "Twitter",
+      "Instagram",
+      "LinkedIn",
+      "Pinterest",
+      "Snapchat",
+      "TikTok",
+      "MySpace"
+    ],
+    "difficulty": "easy",
+    "main_category": "Technology",
+    "subcategory": "Social Media",
+    "id": "21608f80-69a4-435d-ab94-e3b66960c98a",
+    "created_at": "2025-04-13T00:29:55.943Z",
+    "backupTimestamp": "2025-04-13T00:29:55.944Z"
+  }
+]

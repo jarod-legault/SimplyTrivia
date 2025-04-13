@@ -55,5 +55,25 @@
     "id": "60e2cad4-074d-4eb0-89df-50721888c9ea",
     "created_at": "2025-04-12T23:41:17.182Z",
     "backupTimestamp": "2025-04-12T23:41:17.187Z"
+  },
+  {
+    "question": "Which ancient Egyptian queen was known as the \"Last Active Ruler of the Ptolemaic Kingdom\"?",
+    "correct_answer": "Cleopatra VII",
+    "incorrect_answers": [
+      "Nefertiti",
+      "Hatshepsut",
+      "Tiye",
+      "Nefertari",
+      "Ankhesenamun",
+      "Meritaten",
+      "Twosret"
+    ],
+    "difficulty": "medium",
+    "main_category": "History",
+    "subcategory": "Ancient History",
+    "id": "3a07d8b3-623e-4e75-aacd-3384e8f421d0",
+    "created_at": "2025-04-13T00:47:51.321Z",
+    "backupTimestamp": "2025-04-13T00:47:51.324Z",
+    "localBackupTimestamp": "2025-04-12T18:47:51.324Z"
   }
 ]

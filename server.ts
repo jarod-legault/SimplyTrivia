@@ -6,7 +6,7 @@ import { ParamsDictionary } from 'express-serve-static-core';
 import { PORT } from './config';
 import * as schema from './models/schema';
 import { QuestionData } from './models/schema';
-import { saveQuestionToBackupFile } from './utils/backup';
+import { saveQuestionToBackupFile, removeQuestionFromBackups } from './utils/backup';
 import {
   getDB,
   findSimilarQuestions,
@@ -319,8 +319,11 @@ app.delete('/api/questions/:id', (async (req: Request<DeleteParams>, res: Respon
       });
     }
 
-    // Delete the question
+    // Delete from database
     await db.delete(schema.questions).where(eq(schema.questions.id, req.params.id));
+
+    // Remove from backup files
+    await removeQuestionFromBackups(req.params.id);
 
     res.json({
       success: true,
