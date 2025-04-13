@@ -19298,5 +19298,3265 @@
     "created_at": "2025-04-13T02:13:15.478Z",
     "backupTimestamp": "2025-04-13T02:13:15.478Z",
     "localBackupTimestamp": "2025-04-12T20:13:15.478Z"
+  },
+  {
+    "question": "What is Superman's Kryptonian name?",
+    "correct_answer": "Kal-El",
+    "incorrect_answers": [
+      "Jor-El",
+      "Zor-El",
+      "Clark Kent",
+      "Bruce Wayne",
+      "Hal Jordan",
+      "Lex Luthor",
+      "General Zod"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Comics",
+    "difficulty": "easy",
+    "id": "0c8ce9f7-32af-43da-b36a-bc9fbe176049",
+    "created_at": "2025-04-13T02:17:41.815Z",
+    "backupTimestamp": "2025-04-13T02:17:41.818Z",
+    "localBackupTimestamp": "2025-04-12T20:17:41.818Z"
+  },
+  {
+    "question": "Who is Batman's secret identity?",
+    "correct_answer": "Bruce Wayne",
+    "incorrect_answers": [
+      "Clark Kent",
+      "Dick Grayson",
+      "Tony Stark",
+      "Peter Parker",
+      "Alfred Pennyworth",
+      "James Gordon",
+      "Harvey Dent"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Comics",
+    "difficulty": "easy",
+    "id": "2712fb17-2f95-49f4-90d2-5c4aa9eb6690",
+    "created_at": "2025-04-13T02:17:41.829Z",
+    "backupTimestamp": "2025-04-13T02:17:41.830Z",
+    "localBackupTimestamp": "2025-04-12T20:17:41.830Z"
+  },
+  {
+    "question": "Which superhero gets his powers from a radioactive spider bite?",
+    "correct_answer": "Spider-Man",
+    "incorrect_answers": [
+      "Batman",
+      "Superman",
+      "Captain America",
+      "The Hulk",
+      "Iron Man",
+      "Daredevil",
+      "Ant-Man"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Comics",
+    "difficulty": "easy",
+    "id": "2ee51c19-9b13-4d46-ae10-1512eadacb52",
+    "created_at": "2025-04-13T02:17:41.837Z",
+    "backupTimestamp": "2025-04-13T02:17:41.838Z",
+    "localBackupTimestamp": "2025-04-12T20:17:41.838Z"
+  },
+  {
+    "question": "What Marvel superhero team includes Iron Man, Captain America, Thor, and Hulk?",
+    "correct_answer": "The Avengers",
+    "incorrect_answers": [
+      "Justice League",
+      "X-Men",
+      "Fantastic Four",
+      "Guardians of the Galaxy",
+      "The Defenders",
+      "Teen Titans",
+      "Suicide Squad"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Comics",
+    "difficulty": "easy",
+    "id": "9d303113-1697-4b74-b6ac-9b5b8c60e2ea",
+    "created_at": "2025-04-13T02:17:41.850Z",
+    "backupTimestamp": "2025-04-13T02:17:41.851Z",
+    "localBackupTimestamp": "2025-04-12T20:17:41.851Z"
+  },
+  {
+    "question": "What is the name of Batman's loyal butler?",
+    "correct_answer": "Alfred Pennyworth",
+    "incorrect_answers": [
+      "James Gordon",
+      "Lucius Fox",
+      "Robin",
+      "Jarvis",
+      "Perry White",
+      "J. Jonah Jameson",
+      "Wong"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Comics",
+    "difficulty": "easy",
+    "id": "b638b478-8264-4973-8c8e-5e72827b4571",
+    "created_at": "2025-04-13T02:17:41.856Z",
+    "backupTimestamp": "2025-04-13T02:17:41.856Z",
+    "localBackupTimestamp": "2025-04-12T20:17:41.856Z"
+  },
+  {
+    "question": "Which DC superhero team includes Superman, Batman, and Wonder Woman?",
+    "correct_answer": "Justice League",
+    "incorrect_answers": [
+      "The Avengers",
+      "X-Men",
+      "Teen Titans",
+      "Justice Society of America",
+      "Suicide Squad",
+      "Birds of Prey",
+      "Doom Patrol"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Comics",
+    "difficulty": "easy",
+    "id": "91f1c0dc-0184-4c15-b047-6fd759b12d7a",
+    "created_at": "2025-04-13T02:17:41.861Z",
+    "backupTimestamp": "2025-04-13T02:17:41.862Z",
+    "localBackupTimestamp": "2025-04-12T20:17:41.862Z"
+  },
+  {
+    "question": "What color is the Hulk when he's angry?",
+    "correct_answer": "Green",
+    "incorrect_answers": [
+      "Red",
+      "Blue",
+      "Grey",
+      "Yellow",
+      "Purple",
+      "Orange",
+      "Black"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Comics",
+    "difficulty": "easy",
+    "id": "903d98f2-072d-4331-be39-20f969961a61",
+    "created_at": "2025-04-13T02:17:41.867Z",
+    "backupTimestamp": "2025-04-13T02:17:41.867Z",
+    "localBackupTimestamp": "2025-04-12T20:17:41.867Z"
+  },
+  {
+    "question": "What is Captain America's primary weapon?",
+    "correct_answer": "Shield",
+    "incorrect_answers": [
+      "Hammer",
+      "Bow and Arrow",
+      "Sword",
+      "Gun",
+      "Power Ring",
+      "Magic Lasso",
+      "Claws"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Comics",
+    "difficulty": "easy",
+    "id": "e09a2677-57d6-447a-9f3e-64cbb63b9c37",
+    "created_at": "2025-04-13T02:17:41.871Z",
+    "backupTimestamp": "2025-04-13T02:17:41.871Z",
+    "localBackupTimestamp": "2025-04-12T20:17:41.871Z"
+  },
+  {
+    "question": "What is Spider-Man's real name?",
+    "correct_answer": "Peter Parker",
+    "incorrect_answers": [
+      "Bruce Wayne",
+      "Clark Kent",
+      "Tony Stark",
+      "Steve Rogers",
+      "Miles Morales",
+      "Matt Murdock",
+      "Wade Wilson"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Comics",
+    "difficulty": "easy",
+    "id": "a103e2a3-a7d1-43e7-9f83-8a93e085aaff",
+    "created_at": "2025-04-13T02:17:41.876Z",
+    "backupTimestamp": "2025-04-13T02:17:41.876Z",
+    "localBackupTimestamp": "2025-04-12T20:17:41.876Z"
+  },
+  {
+    "question": "Which newspaper does Clark Kent work for?",
+    "correct_answer": "Daily Planet",
+    "incorrect_answers": [
+      "Daily Bugle",
+      "Gotham Gazette",
+      "New York Times",
+      "Central City Citizen",
+      "The Inquisitor",
+      "Washington Post",
+      "Chicago Tribune"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Comics",
+    "difficulty": "easy",
+    "id": "3941ea5a-1fe4-43b8-8a60-88f88f735b6c",
+    "created_at": "2025-04-13T02:17:41.881Z",
+    "backupTimestamp": "2025-04-13T02:17:41.881Z",
+    "localBackupTimestamp": "2025-04-12T20:17:41.881Z"
+  },
+  {
+    "question": "Who is the primary arch-nemesis of Batman?",
+    "correct_answer": "The Joker",
+    "incorrect_answers": [
+      "Lex Luthor",
+      "Green Goblin",
+      "Magneto",
+      "Red Skull",
+      "Loki",
+      "Two-Face",
+      "The Penguin"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Comics",
+    "difficulty": "easy",
+    "id": "f934dc10-b6f3-4337-bd59-3a2de65af326",
+    "created_at": "2025-04-13T02:17:41.887Z",
+    "backupTimestamp": "2025-04-13T02:17:41.888Z",
+    "localBackupTimestamp": "2025-04-12T20:17:41.888Z"
+  },
+  {
+    "question": "What is Wonder Woman's signature weapon, used to compel truth?",
+    "correct_answer": "Lasso of Truth",
+    "incorrect_answers": [
+      "Invisible Jet",
+      "Bracelets of Submission",
+      "Tiara",
+      "Sword and Shield",
+      "Power Ring",
+      "Kryptonite",
+      "Batarang"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Comics",
+    "difficulty": "easy",
+    "id": "e8f29142-254f-4ab2-91d0-4cc9ef30fa2e",
+    "created_at": "2025-04-13T02:17:41.893Z",
+    "backupTimestamp": "2025-04-13T02:17:41.893Z",
+    "localBackupTimestamp": "2025-04-12T20:17:41.893Z"
+  },
+  {
+    "question": "Which member of the X-Men has retractable claws and a healing factor?",
+    "correct_answer": "Wolverine",
+    "incorrect_answers": [
+      "Cyclops",
+      "Beast",
+      "Professor X",
+      "Magneto",
+      "Storm",
+      "Jean Grey",
+      "Gambit"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Comics",
+    "difficulty": "easy",
+    "id": "e8045185-a563-4dd0-8e1e-fdbc866a3856",
+    "created_at": "2025-04-13T02:17:41.897Z",
+    "backupTimestamp": "2025-04-13T02:17:41.897Z",
+    "localBackupTimestamp": "2025-04-12T20:17:41.897Z"
+  },
+  {
+    "question": "What is the name of Tony Stark's superhero alter ego?",
+    "correct_answer": "Iron Man",
+    "incorrect_answers": [
+      "Captain America",
+      "Thor",
+      "Hulk",
+      "War Machine",
+      "Ant-Man",
+      "Black Panther",
+      "Doctor Strange"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Comics",
+    "difficulty": "easy",
+    "id": "a57717b1-f9fd-49cc-b354-b6a408d77f5d",
+    "created_at": "2025-04-13T02:17:41.901Z",
+    "backupTimestamp": "2025-04-13T02:17:41.901Z",
+    "localBackupTimestamp": "2025-04-12T20:17:41.901Z"
+  },
+  {
+    "question": "Which planet is Superman from?",
+    "correct_answer": "Krypton",
+    "incorrect_answers": [
+      "Mars",
+      "Earth",
+      "Asgard",
+      "Cybertron",
+      "Daxam",
+      "Titan",
+      "Oa"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Comics",
+    "difficulty": "easy",
+    "id": "4a9e3428-6221-4e66-b482-574cc42c462b",
+    "created_at": "2025-04-13T02:17:41.905Z",
+    "backupTimestamp": "2025-04-13T02:17:41.905Z",
+    "localBackupTimestamp": "2025-04-12T20:17:41.905Z"
+  },
+  {
+    "question": "What is the name of the symbiotic alien that bonds with Eddie Brock to become Venom?",
+    "correct_answer": "Symbiote",
+    "incorrect_answers": [
+      "Parasite",
+      "Klyntar",
+      "Xenomorph",
+      "The Thing",
+      "Brood",
+      "Phalanx",
+      "Skrull"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Comics",
+    "difficulty": "easy",
+    "id": "beaa918e-f082-4b61-8344-97047e3fcbd8",
+    "created_at": "2025-04-13T02:17:41.909Z",
+    "backupTimestamp": "2025-04-13T02:17:41.909Z",
+    "localBackupTimestamp": "2025-04-12T20:17:41.909Z"
+  },
+  {
+    "question": "Which character is known as the 'Merc with a Mouth'?",
+    "correct_answer": "Deadpool",
+    "incorrect_answers": [
+      "Deathstroke",
+      "Spider-Man",
+      "Wolverine",
+      "The Joker",
+      "Lobo",
+      "Punisher",
+      "Hit-Monkey"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Comics",
+    "difficulty": "easy",
+    "id": "1565ee58-f0bb-407b-9727-73112e71f15a",
+    "created_at": "2025-04-13T02:17:41.913Z",
+    "backupTimestamp": "2025-04-13T02:17:41.913Z",
+    "localBackupTimestamp": "2025-04-12T20:17:41.913Z"
+  },
+  {
+    "question": "What team does Professor X lead?",
+    "correct_answer": "X-Men",
+    "incorrect_answers": [
+      "The Avengers",
+      "Justice League",
+      "Fantastic Four",
+      "The Defenders",
+      "Alpha Flight",
+      "New Mutants",
+      "X-Factor"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Comics",
+    "difficulty": "easy",
+    "id": "90020533-38c7-4806-a063-3301cdc40f35",
+    "created_at": "2025-04-13T02:17:41.917Z",
+    "backupTimestamp": "2025-04-13T02:17:41.917Z",
+    "localBackupTimestamp": "2025-04-12T20:17:41.917Z"
+  },
+  {
+    "question": "What is the Hulk's human alter ego?",
+    "correct_answer": "Bruce Banner",
+    "incorrect_answers": [
+      "Tony Stark",
+      "Steve Rogers",
+      "Peter Parker",
+      "Reed Richards",
+      "Matt Murdock",
+      "Rick Jones",
+      "Emil Blonsky"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Comics",
+    "difficulty": "easy",
+    "id": "cff18e96-cffb-4a38-b4c6-aca58c222a24",
+    "created_at": "2025-04-13T02:17:41.921Z",
+    "backupTimestamp": "2025-04-13T02:17:41.921Z",
+    "localBackupTimestamp": "2025-04-12T20:17:41.921Z"
+  },
+  {
+    "question": "Which villain is known for using fear gas?",
+    "correct_answer": "Scarecrow",
+    "incorrect_answers": [
+      "The Joker",
+      "Mysterio",
+      "Poison Ivy",
+      "Doctor Octopus",
+      "Green Goblin",
+      "Sinestro",
+      "Mister Freeze"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Comics",
+    "difficulty": "easy",
+    "id": "2f04ef49-9bf9-42eb-8d5d-7dbae0c7bd2c",
+    "created_at": "2025-04-13T02:17:41.926Z",
+    "backupTimestamp": "2025-04-13T02:17:41.927Z",
+    "localBackupTimestamp": "2025-04-12T20:17:41.927Z"
+  },
+  {
+    "question": "What is the name of Thor's enchanted hammer?",
+    "correct_answer": "Mjolnir",
+    "incorrect_answers": [
+      "Stormbreaker",
+      "Gungnir",
+      "Excalibur",
+      "Claw of Horus",
+      "Heart of the Universe",
+      "Cosmic Cube",
+      "Odinsword"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Comics",
+    "difficulty": "easy",
+    "id": "24a06e81-9aa1-4f72-90c2-bb7bc8db57f8",
+    "created_at": "2025-04-13T02:17:41.932Z",
+    "backupTimestamp": "2025-04-13T02:17:41.932Z",
+    "localBackupTimestamp": "2025-04-12T20:17:41.932Z"
+  },
+  {
+    "question": "Which comic book company created Spider-Man, Iron Man, and the X-Men?",
+    "correct_answer": "Marvel Comics",
+    "incorrect_answers": [
+      "DC Comics",
+      "Image Comics",
+      "Dark Horse Comics",
+      "Valiant Comics",
+      "Archie Comics",
+      "IDW Publishing",
+      "Boom! Studios"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Comics",
+    "difficulty": "easy",
+    "id": "f1dcfca0-7d57-42a1-bfc6-ce5ab6c68ea9",
+    "created_at": "2025-04-13T02:17:41.938Z",
+    "backupTimestamp": "2025-04-13T02:17:41.939Z",
+    "localBackupTimestamp": "2025-04-12T20:17:41.939Z"
+  },
+  {
+    "question": "Which comic book company created Superman, Batman, and Wonder Woman?",
+    "correct_answer": "DC Comics",
+    "incorrect_answers": [
+      "Marvel Comics",
+      "Image Comics",
+      "Dark Horse Comics",
+      "Top Cow Productions",
+      "WildStorm Productions",
+      "Vertigo Comics",
+      "Milestone Media"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Comics",
+    "difficulty": "easy",
+    "id": "1387027b-8dd3-439a-85f9-9db7e6964ebd",
+    "created_at": "2025-04-13T02:17:41.943Z",
+    "backupTimestamp": "2025-04-13T02:17:41.943Z",
+    "localBackupTimestamp": "2025-04-12T20:17:41.943Z"
+  },
+  {
+    "question": "What is the name of the Green Lantern's power source?",
+    "correct_answer": "Power Ring / Central Power Battery",
+    "incorrect_answers": [
+      "Kryptonite",
+      "Infinity Gauntlet",
+      "Super Soldier Serum",
+      "Lasso of Truth",
+      "Pym Particles",
+      "Tesseract",
+      "Mother Box"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Comics",
+    "difficulty": "easy",
+    "id": "ab2b056d-2734-4c50-ba80-e6320f95db26",
+    "created_at": "2025-04-13T02:17:41.946Z",
+    "backupTimestamp": "2025-04-13T02:17:41.947Z",
+    "localBackupTimestamp": "2025-04-12T20:17:41.947Z"
+  },
+  {
+    "question": "Who is the leader of the Fantastic Four?",
+    "correct_answer": "Reed Richards (Mr. Fantastic)",
+    "incorrect_answers": [
+      "Susan Storm (Invisible Woman)",
+      "Johnny Storm (Human Torch)",
+      "Ben Grimm (The Thing)",
+      "Doctor Doom",
+      "Silver Surfer",
+      "Namor",
+      "Professor X"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Comics",
+    "difficulty": "easy",
+    "id": "dc68b15e-d377-4de1-a688-0d65c5907126",
+    "created_at": "2025-04-13T02:17:41.950Z",
+    "backupTimestamp": "2025-04-13T02:17:41.951Z",
+    "localBackupTimestamp": "2025-04-12T20:17:41.951Z"
+  },
+  {
+    "question": "What gives the Flash his super speed?",
+    "correct_answer": "The Speed Force",
+    "incorrect_answers": [
+      "A radioactive spider bite",
+      "Gamma radiation",
+      "Super Soldier Serum",
+      "Alien heritage",
+      "Magic spell",
+      "Technological suit",
+      "Cosmic rays"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Comics",
+    "difficulty": "easy",
+    "id": "69bb1add-fe6e-418d-bd90-d3be9ec3158c",
+    "created_at": "2025-04-13T02:17:41.955Z",
+    "backupTimestamp": "2025-04-13T02:17:41.955Z",
+    "localBackupTimestamp": "2025-04-12T20:17:41.955Z"
+  },
+  {
+    "question": "What is the name of Aquaman's underwater kingdom?",
+    "correct_answer": "Atlantis",
+    "incorrect_answers": [
+      "Themyscira",
+      "Asgard",
+      "Wakanda",
+      "Latveria",
+      "Genosha",
+      "Bialya",
+      "Lemuria"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Comics",
+    "difficulty": "easy",
+    "id": "5132e2d1-4e6e-4423-b7dc-c179d4e0eaf5",
+    "created_at": "2025-04-13T02:17:41.959Z",
+    "backupTimestamp": "2025-04-13T02:17:41.959Z",
+    "localBackupTimestamp": "2025-04-12T20:17:41.959Z"
+  },
+  {
+    "question": "What is Superman's main weakness?",
+    "correct_answer": "Kryptonite",
+    "incorrect_answers": [
+      "Magic",
+      "Lead",
+      "Red sunlight",
+      "Fear gas",
+      "Loud noises",
+      "Water",
+      "Fire"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Comics",
+    "difficulty": "easy",
+    "id": "9beefa0e-55ce-4d5d-aeab-a1652724e85b",
+    "created_at": "2025-04-13T02:17:41.962Z",
+    "backupTimestamp": "2025-04-13T02:17:41.963Z",
+    "localBackupTimestamp": "2025-04-12T20:17:41.963Z"
+  },
+  {
+    "question": "Which X-Men member can control the weather?",
+    "correct_answer": "Storm",
+    "incorrect_answers": [
+      "Jean Grey",
+      "Cyclops",
+      "Iceman",
+      "Rogue",
+      "Beast",
+      "Wolverine",
+      "Sunspot"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Comics",
+    "difficulty": "easy",
+    "id": "0bda2822-fb21-4e26-88f1-0f3a54c3fdea",
+    "created_at": "2025-04-13T02:17:41.967Z",
+    "backupTimestamp": "2025-04-13T02:17:41.967Z",
+    "localBackupTimestamp": "2025-04-12T20:17:41.967Z"
+  },
+  {
+    "question": "Who is Thor's mischievous adopted brother?",
+    "correct_answer": "Loki",
+    "incorrect_answers": [
+      "Odin",
+      "Heimdall",
+      "Balder",
+      "Hela",
+      "Surtur",
+      "Malekith",
+      "Fenrir"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Comics",
+    "difficulty": "easy",
+    "id": "ed0f8775-f3f4-4a04-aa09-30398736eb2a",
+    "created_at": "2025-04-13T02:17:41.970Z",
+    "backupTimestamp": "2025-04-13T02:17:41.971Z",
+    "localBackupTimestamp": "2025-04-12T20:17:41.971Z"
+  },
+  {
+    "question": "What fictional city is Batman's primary base of operations?",
+    "correct_answer": "Gotham City",
+    "incorrect_answers": [
+      "Metropolis",
+      "Central City",
+      "Star City",
+      "National City",
+      "Coast City",
+      "Keystone City",
+      "Fawcett City"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Comics",
+    "difficulty": "easy",
+    "id": "2bcc5724-259b-4bda-b3cc-e65aaa29e3ef",
+    "created_at": "2025-04-13T02:17:41.974Z",
+    "backupTimestamp": "2025-04-13T02:17:41.974Z",
+    "localBackupTimestamp": "2025-04-12T20:17:41.974Z"
+  },
+  {
+    "question": "What fictional city does Superman protect?",
+    "correct_answer": "Metropolis",
+    "incorrect_answers": [
+      "Gotham City",
+      "Central City",
+      "Star City",
+      "New York City",
+      "Coast City",
+      "Smallville",
+      "National City"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Comics",
+    "difficulty": "easy",
+    "id": "89d0866d-e991-43da-b956-99c6c0bcb080",
+    "created_at": "2025-04-13T02:17:41.978Z",
+    "backupTimestamp": "2025-04-13T02:17:41.978Z",
+    "localBackupTimestamp": "2025-04-12T20:17:41.978Z"
+  },
+  {
+    "question": "What does the 'S' symbol on Superman's chest represent?",
+    "correct_answer": "Hope (House of El symbol)",
+    "incorrect_answers": [
+      "Superman",
+      "Strength",
+      "Savior",
+      "Super",
+      "Sentinel",
+      "Security",
+      "Starlight"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Comics",
+    "difficulty": "easy",
+    "id": "7d46fc53-cbe7-413f-b3b9-cd3b8715056b",
+    "created_at": "2025-04-13T02:17:41.982Z",
+    "backupTimestamp": "2025-04-13T02:17:41.983Z",
+    "localBackupTimestamp": "2025-04-12T20:17:41.983Z"
+  },
+  {
+    "question": "Who is the publisher of 'The Walking Dead' comic series?",
+    "correct_answer": "Image Comics",
+    "incorrect_answers": [
+      "Marvel Comics",
+      "DC Comics",
+      "Dark Horse Comics",
+      "IDW Publishing",
+      "Boom! Studios",
+      "Valiant Comics",
+      "Vertigo Comics"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Comics",
+    "difficulty": "easy",
+    "id": "5b0d7a7c-3252-4f2c-8201-0016d5f536ce",
+    "created_at": "2025-04-13T02:17:41.987Z",
+    "backupTimestamp": "2025-04-13T02:17:41.987Z",
+    "localBackupTimestamp": "2025-04-12T20:17:41.987Z"
+  },
+  {
+    "question": "What is the name of the powerful cosmic entity that the Silver Surfer serves?",
+    "correct_answer": "Galactus",
+    "incorrect_answers": [
+      "Thanos",
+      "The Beyonder",
+      "Eternity",
+      "Living Tribunal",
+      "Celestials",
+      "Mephisto",
+      "Annihilus"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Comics",
+    "difficulty": "easy",
+    "id": "cc3d11be-4f32-4927-9f87-fbe8fe184b13",
+    "created_at": "2025-04-13T02:17:41.991Z",
+    "backupTimestamp": "2025-04-13T02:17:41.991Z",
+    "localBackupTimestamp": "2025-04-12T20:17:41.991Z"
+  },
+  {
+    "question": "What is the name of the school for mutants run by Professor X?",
+    "correct_answer": "Xavier's School for Gifted Youngsters",
+    "incorrect_answers": [
+      "Avengers Academy",
+      "Stark Institute",
+      "The Jean Grey School",
+      "Mutant High",
+      "The Baxter Building",
+      "S.H.I.E.L.D. Academy",
+      "Massachusetts Academy"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Comics",
+    "difficulty": "easy",
+    "id": "69d4aa32-c8aa-4ea4-a219-f51398fe1be4",
+    "created_at": "2025-04-13T02:17:41.995Z",
+    "backupTimestamp": "2025-04-13T02:17:41.995Z",
+    "localBackupTimestamp": "2025-04-12T20:17:41.995Z"
+  },
+  {
+    "question": "Which Batman villain was formerly the District Attorney of Gotham City?",
+    "correct_answer": "Two-Face (Harvey Dent)",
+    "incorrect_answers": [
+      "The Penguin (Oswald Cobblepot)",
+      "The Riddler (Edward Nygma)",
+      "Scarecrow (Jonathan Crane)",
+      "Bane",
+      "Ra's al Ghul",
+      "Hugo Strange",
+      "Carmine Falcone"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Comics",
+    "difficulty": "easy",
+    "id": "67942190-2b40-4fdf-9435-bb6e35d8b7e5",
+    "created_at": "2025-04-13T02:17:41.999Z",
+    "backupTimestamp": "2025-04-13T02:17:41.999Z",
+    "localBackupTimestamp": "2025-04-12T20:17:41.999Z"
+  },
+  {
+    "question": "What team includes Star-Lord, Gamora, Drax, Rocket, and Groot?",
+    "correct_answer": "Guardians of the Galaxy",
+    "incorrect_answers": [
+      "The Avengers",
+      "Fantastic Four",
+      "X-Men",
+      "The Defenders",
+      "Inhumans",
+      "Starjammers",
+      "Omega Flight"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Comics",
+    "difficulty": "easy",
+    "id": "cf446e49-0b65-4ed4-869a-6064dfa3fecf",
+    "created_at": "2025-04-13T02:17:42.003Z",
+    "backupTimestamp": "2025-04-13T02:17:42.004Z",
+    "localBackupTimestamp": "2025-04-12T20:17:42.004Z"
+  },
+  {
+    "question": "What is the name of the substance that gives Captain America his powers?",
+    "correct_answer": "Super Soldier Serum",
+    "incorrect_answers": [
+      "Gamma Radiation",
+      "Pym Particles",
+      "Mutant Gene",
+      "Infinity Stone",
+      "Cosmic Rays",
+      "Terrigen Mist",
+      "Kryptonite"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Comics",
+    "difficulty": "easy",
+    "id": "f1339822-4991-476f-90d1-9cc185e605b4",
+    "created_at": "2025-04-13T02:17:42.008Z",
+    "backupTimestamp": "2025-04-13T02:17:42.008Z",
+    "localBackupTimestamp": "2025-04-12T20:17:42.008Z"
+  },
+  {
+    "question": "Which blind superhero has heightened senses and acts as the 'Man Without Fear'?",
+    "correct_answer": "Daredevil",
+    "incorrect_answers": [
+      "Batman",
+      "Moon Knight",
+      "Doctor Mid-Nite",
+      "Cyclops",
+      "Hawkeye",
+      "Oracle",
+      "Professor X"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Comics",
+    "difficulty": "easy",
+    "id": "c43a51c9-b9da-4356-be94-1d422a1866e4",
+    "created_at": "2025-04-13T02:17:42.011Z",
+    "backupTimestamp": "2025-04-13T02:17:42.011Z",
+    "localBackupTimestamp": "2025-04-12T20:17:42.011Z"
+  },
+  {
+    "question": "What is the name of the Amazonian island where Wonder Woman comes from?",
+    "correct_answer": "Themyscira",
+    "incorrect_answers": [
+      "Atlantis",
+      "Krypton",
+      "Asgard",
+      "Paradise Island",
+      "Genosha",
+      "Utopia",
+      "Nanda Parbat"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Comics",
+    "difficulty": "easy",
+    "id": "8f3a7fed-0dec-437a-acd0-98c08f037eb8",
+    "created_at": "2025-04-13T02:17:42.016Z",
+    "backupTimestamp": "2025-04-13T02:17:42.016Z",
+    "localBackupTimestamp": "2025-04-12T20:17:42.016Z"
+  },
+  {
+    "question": "Who is known as the 'Fastest Man Alive'?",
+    "correct_answer": "The Flash",
+    "incorrect_answers": [
+      "Superman",
+      "Quicksilver",
+      "Sonic the Hedgehog",
+      "Speedy",
+      "Captain Marvel",
+      "Northstar",
+      "Road Runner"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Comics",
+    "difficulty": "easy",
+    "id": "e992ca67-49a0-4be6-a452-c99e3e141f30",
+    "created_at": "2025-04-13T02:17:42.019Z",
+    "backupTimestamp": "2025-04-13T02:17:42.019Z",
+    "localBackupTimestamp": "2025-04-12T20:17:42.019Z"
+  },
+  {
+    "question": "Which founding member of the Fantastic Four can stretch his body into incredible shapes?",
+    "correct_answer": "Mr. Fantastic (Reed Richards)",
+    "incorrect_answers": [
+      "The Thing (Ben Grimm)",
+      "Human Torch (Johnny Storm)",
+      "Invisible Woman (Susan Storm)",
+      "Plastic Man",
+      "Elongated Man",
+      "Rubberband Man",
+      "Metamorpho"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Comics",
+    "difficulty": "easy",
+    "id": "26dba6c6-af93-4543-90c2-4caffa5d80f8",
+    "created_at": "2025-04-13T02:17:42.023Z",
+    "backupTimestamp": "2025-04-13T02:17:42.023Z",
+    "localBackupTimestamp": "2025-04-12T20:17:42.023Z"
+  },
+  {
+    "question": "What is the name of the criminal organization often fought by Captain America?",
+    "correct_answer": "HYDRA",
+    "incorrect_answers": [
+      "A.I.M.",
+      "The Hand",
+      "League of Assassins",
+      "Secret Society of Super Villains",
+      "Maggia",
+      "Serpent Society",
+      "Roxxon Energy Corporation"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Comics",
+    "difficulty": "easy",
+    "id": "7b13bf11-4c09-4fc3-89ad-8ebf4244ca82",
+    "created_at": "2025-04-13T02:17:42.027Z",
+    "backupTimestamp": "2025-04-13T02:17:42.027Z",
+    "localBackupTimestamp": "2025-04-12T20:17:42.027Z"
+  },
+  {
+    "question": "Which character famously says 'Hulk Smash!'?",
+    "correct_answer": "Hulk",
+    "incorrect_answers": [
+      "The Thing",
+      "Thor",
+      "Superman",
+      "Juggernaut",
+      "Solomon Grundy",
+      "Wolverine",
+      "She-Hulk"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Comics",
+    "difficulty": "easy",
+    "id": "e7979ba0-7391-40f6-a346-3668ff7f076d",
+    "created_at": "2025-04-13T02:17:42.031Z",
+    "backupTimestamp": "2025-04-13T02:17:42.031Z",
+    "localBackupTimestamp": "2025-04-12T20:17:42.031Z"
+  },
+  {
+    "question": "What is the name of the Daily Bugle's editor-in-chief, known for his dislike of Spider-Man?",
+    "correct_answer": "J. Jonah Jameson",
+    "incorrect_answers": [
+      "Perry White",
+      "Robbie Robertson",
+      "Ben Urich",
+      "Cat Grant",
+      "Morgan Edge",
+      "Vicki Vale",
+      "Lois Lane"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Comics",
+    "difficulty": "easy",
+    "id": "b6746589-107c-4ad9-8fdb-65d3aafcda30",
+    "created_at": "2025-04-13T02:17:42.036Z",
+    "backupTimestamp": "2025-04-13T02:17:42.036Z",
+    "localBackupTimestamp": "2025-04-12T20:17:42.036Z"
+  },
+  {
+    "question": "Who is Batman's original sidekick, the first Robin?",
+    "correct_answer": "Dick Grayson",
+    "incorrect_answers": [
+      "Jason Todd",
+      "Tim Drake",
+      "Damian Wayne",
+      "Barbara Gordon",
+      "Stephanie Brown",
+      "Carrie Kelley",
+      "Duke Thomas"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Comics",
+    "difficulty": "easy",
+    "id": "8a088b19-17b5-4bbd-8ae3-ef1dc3611c27",
+    "created_at": "2025-04-13T02:17:42.041Z",
+    "backupTimestamp": "2025-04-13T02:17:42.041Z",
+    "localBackupTimestamp": "2025-04-12T20:17:42.041Z"
+  },
+  {
+    "question": "What metal is bonded to Wolverine's skeleton?",
+    "correct_answer": "Adamantium",
+    "incorrect_answers": [
+      "Vibranium",
+      "Uru",
+      "Promethium",
+      "Carbonadium",
+      "Nth Metal",
+      "Titanium",
+      "Steel"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Comics",
+    "difficulty": "easy",
+    "id": "348e630e-a601-40a0-bc3e-9b1db966e80a",
+    "created_at": "2025-04-13T02:17:42.045Z",
+    "backupTimestamp": "2025-04-13T02:17:42.045Z",
+    "localBackupTimestamp": "2025-04-12T20:17:42.045Z"
+  },
+  {
+    "question": "Which villain wields the Infinity Gauntlet to wipe out half of all life in the universe?",
+    "correct_answer": "Thanos",
+    "incorrect_answers": [
+      "Darkseid",
+      "Galactus",
+      "Apocalypse",
+      "Ultron",
+      "Kang the Conqueror",
+      "Doctor Doom",
+      "Magus"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Comics",
+    "difficulty": "easy",
+    "id": "18a0807f-f953-43c4-9fa4-2cc97ced0440",
+    "created_at": "2025-04-13T02:17:42.049Z",
+    "backupTimestamp": "2025-04-13T02:17:42.050Z",
+    "localBackupTimestamp": "2025-04-12T20:17:42.050Z"
+  },
+  {
+    "question": "Which character is known for the catchphrase 'Shazam!'?",
+    "correct_answer": "Shazam (formerly Captain Marvel)",
+    "incorrect_answers": [
+      "Superman",
+      "Captain America",
+      "Thor",
+      "He-Man",
+      "Black Adam",
+      "Static",
+      "Zatanna"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Comics",
+    "difficulty": "easy",
+    "id": "34e2cf2e-108f-4270-9b26-f58e5877f209",
+    "created_at": "2025-04-13T02:17:42.054Z",
+    "backupTimestamp": "2025-04-13T02:17:42.054Z",
+    "localBackupTimestamp": "2025-04-12T20:17:42.054Z"
+  },
+  {
+    "question": "What is the name of the anti-hero who uses lethal force and wears a skull symbol on his chest?",
+    "correct_answer": "The Punisher",
+    "incorrect_answers": [
+      "Deadpool",
+      "Wolverine",
+      "Batman",
+      "Moon Knight",
+      "Deathstroke",
+      "Red Hood",
+      "Ghost Rider"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Comics",
+    "difficulty": "easy",
+    "id": "e3a18118-383c-4af6-afa1-48662297f028",
+    "created_at": "2025-04-13T02:17:42.057Z",
+    "backupTimestamp": "2025-04-13T02:17:42.058Z",
+    "localBackupTimestamp": "2025-04-12T20:17:42.058Z"
+  },
+  {
+    "question": "Which cosmic Marvel team guards the boundary between dimensions?",
+    "correct_answer": "Guardians of the Galaxy",
+    "incorrect_answers": [
+      "The Avengers",
+      "Fantastic Four",
+      "The Defenders",
+      "Alpha Flight",
+      "The Eternals",
+      "The Ultimates",
+      "Excalibur"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Comics",
+    "difficulty": "easy",
+    "id": "1dd9f4ed-eec3-4046-8371-a797e8830f3a",
+    "created_at": "2025-04-13T02:17:42.062Z",
+    "backupTimestamp": "2025-04-13T02:17:42.062Z",
+    "localBackupTimestamp": "2025-04-12T20:17:42.062Z"
+  },
+  {
+    "question": "What government agency is Nick Fury most associated with?",
+    "correct_answer": "S.H.I.E.L.D.",
+    "incorrect_answers": [
+      "A.R.G.U.S.",
+      "S.W.O.R.D.",
+      "Checkmate",
+      "H.A.M.M.E.R.",
+      "The C.I.A.",
+      "Department H",
+      "Project Cadmus"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Comics",
+    "difficulty": "easy",
+    "id": "e26a45b6-e83b-4804-ac92-9dbc775d26ad",
+    "created_at": "2025-04-13T02:17:42.066Z",
+    "backupTimestamp": "2025-04-13T02:17:42.066Z",
+    "localBackupTimestamp": "2025-04-12T20:17:42.066Z"
+  },
+  {
+    "question": "Which member of the Fantastic Four is known for saying 'It's Clobberin' Time!'?",
+    "correct_answer": "The Thing (Ben Grimm)",
+    "incorrect_answers": [
+      "Mr. Fantastic (Reed Richards)",
+      "Invisible Woman (Susan Storm)",
+      "Human Torch (Johnny Storm)",
+      "Hulk",
+      "Wolverine",
+      "Colossus",
+      "Sasquatch"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Comics",
+    "difficulty": "easy",
+    "id": "87907d3e-1e30-48c0-be95-81511c4afd9c",
+    "created_at": "2025-04-13T02:17:42.070Z",
+    "backupTimestamp": "2025-04-13T02:17:42.070Z",
+    "localBackupTimestamp": "2025-04-12T20:17:42.070Z"
+  },
+  {
+    "question": "Who wrote the seminal graphic novel 'Watchmen'?",
+    "correct_answer": "Alan Moore",
+    "incorrect_answers": [
+      "Frank Miller",
+      "Neil Gaiman",
+      "Grant Morrison",
+      "Stan Lee",
+      "Jack Kirby",
+      "Chris Claremont",
+      "Dave Gibbons"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Comics",
+    "difficulty": "medium",
+    "id": "443e62a4-5977-4765-bade-9d8dc618600a",
+    "created_at": "2025-04-13T02:17:42.073Z",
+    "backupTimestamp": "2025-04-13T02:17:42.074Z",
+    "localBackupTimestamp": "2025-04-12T20:17:42.074Z"
+  },
+  {
+    "question": "What is the name of the Flash's home city?",
+    "correct_answer": "Central City",
+    "incorrect_answers": [
+      "Metropolis",
+      "Gotham City",
+      "Star City",
+      "Keystone City",
+      "Coast City",
+      "National City",
+      "Opal City"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Comics",
+    "difficulty": "medium",
+    "id": "9dc6c2df-ea11-48d1-92d0-986299088648",
+    "created_at": "2025-04-13T02:17:42.077Z",
+    "backupTimestamp": "2025-04-13T02:17:42.077Z",
+    "localBackupTimestamp": "2025-04-12T20:17:42.077Z"
+  },
+  {
+    "question": "Which DC Comics imprint was known for publishing mature reader titles like 'Sandman' and 'Preacher'?",
+    "correct_answer": "Vertigo",
+    "incorrect_answers": [
+      "WildStorm",
+      "Milestone",
+      "Helix",
+      "Elseworlds",
+      "Black Label",
+      "Young Animal",
+      "Tangent Comics"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Comics",
+    "difficulty": "medium",
+    "id": "e77dbb92-a8f6-4c4c-b918-f63fe683ebc7",
+    "created_at": "2025-04-13T02:17:42.081Z",
+    "backupTimestamp": "2025-04-13T02:17:42.081Z",
+    "localBackupTimestamp": "2025-04-12T20:17:42.081Z"
+  },
+  {
+    "question": "What is the name of the process that transforms normal humans into mutants in the Marvel Universe?",
+    "correct_answer": "X-Gene Activation",
+    "incorrect_answers": [
+      "Terrigenesis",
+      "Super Soldier Program",
+      "Gamma Exposure",
+      "Cosmic Radiation",
+      "Radioactive Spider Bite",
+      "Symbiote Bonding",
+      "Magic Enchantment"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Comics",
+    "difficulty": "medium",
+    "id": "8ecb5865-6d22-4c23-acd6-767ab5b2b698",
+    "created_at": "2025-04-13T02:17:42.085Z",
+    "backupTimestamp": "2025-04-13T02:17:42.085Z",
+    "localBackupTimestamp": "2025-04-12T20:17:42.085Z"
+  },
+  {
+    "question": "Which character leads the Suicide Squad in the field, often under Amanda Waller's command?",
+    "correct_answer": "Rick Flag",
+    "incorrect_answers": [
+      "Deadshot",
+      "Harley Quinn",
+      "Captain Boomerang",
+      "Bronze Tiger",
+      "Deathstroke",
+      "Katana",
+      "King Shark"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Comics",
+    "difficulty": "medium",
+    "id": "24fde8cd-fa31-4fd7-9d7a-d3e988492b51",
+    "created_at": "2025-04-13T02:17:42.089Z",
+    "backupTimestamp": "2025-04-13T02:17:42.089Z",
+    "localBackupTimestamp": "2025-04-12T20:17:42.089Z"
+  },
+  {
+    "question": "What alien race is Ronan the Accuser a member of?",
+    "correct_answer": "Kree",
+    "incorrect_answers": [
+      "Skrull",
+      "Shi'ar",
+      "Brood",
+      "Badoon",
+      "Phalanx",
+      "Asgardian",
+      "Chitauri"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Comics",
+    "difficulty": "medium",
+    "id": "269a808d-8651-443c-bd1f-c33063be1a41",
+    "created_at": "2025-04-13T02:17:42.093Z",
+    "backupTimestamp": "2025-04-13T02:17:42.093Z",
+    "localBackupTimestamp": "2025-04-12T20:17:42.093Z"
+  },
+  {
+    "question": "Who created the comic book character Hellboy?",
+    "correct_answer": "Mike Mignola",
+    "incorrect_answers": [
+      "Frank Miller",
+      "Alan Moore",
+      "Todd McFarlane",
+      "Robert Kirkman",
+      "Neil Gaiman",
+      "Garth Ennis",
+      "Guillermo del Toro"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Comics",
+    "difficulty": "medium",
+    "id": "ab22fd43-d9e3-403f-969a-cbb699d8628b",
+    "created_at": "2025-04-13T02:17:42.096Z",
+    "backupTimestamp": "2025-04-13T02:17:42.097Z",
+    "localBackupTimestamp": "2025-04-12T20:17:42.097Z"
+  },
+  {
+    "question": "What is the name of Green Arrow's alter ego?",
+    "correct_answer": "Oliver Queen",
+    "incorrect_answers": [
+      "Roy Harper",
+      "Hal Jordan",
+      "Barry Allen",
+      "Arthur Curry",
+      "Carter Hall",
+      "Clint Barton",
+      "Matt Murdock"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Comics",
+    "difficulty": "medium",
+    "id": "37ef13ce-105d-46ee-bd9e-4a92ccd31b89",
+    "created_at": "2025-04-13T02:17:42.100Z",
+    "backupTimestamp": "2025-04-13T02:17:42.101Z",
+    "localBackupTimestamp": "2025-04-12T20:17:42.101Z"
+  },
+  {
+    "question": "In 'The Dark Knight Returns', who takes up the mantle of Robin?",
+    "correct_answer": "Carrie Kelley",
+    "incorrect_answers": [
+      "Dick Grayson",
+      "Jason Todd",
+      "Tim Drake",
+      "Damian Wayne",
+      "Stephanie Brown",
+      "Barbara Gordon",
+      "Duke Thomas"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Comics",
+    "difficulty": "medium",
+    "id": "d6c59151-0b73-46c4-be51-9a9f6b3aaaa5",
+    "created_at": "2025-04-13T02:17:42.104Z",
+    "backupTimestamp": "2025-04-13T02:17:42.104Z",
+    "localBackupTimestamp": "2025-04-12T20:17:42.104Z"
+  },
+  {
+    "question": "What is the primary power of the X-Men member Rogue?",
+    "correct_answer": "Absorbing powers and life force through touch",
+    "incorrect_answers": [
+      "Telekinesis and Telepathy",
+      "Weather Manipulation",
+      "Optic Blasts",
+      "Super Strength and Invulnerability",
+      "Intangibility",
+      "Energy Projection",
+      "Probability Manipulation"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Comics",
+    "difficulty": "medium",
+    "id": "fea0da66-c139-4307-b2d3-f6877c3bb54e",
+    "created_at": "2025-04-13T02:17:42.108Z",
+    "backupTimestamp": "2025-04-13T02:17:42.108Z",
+    "localBackupTimestamp": "2025-04-12T20:17:42.108Z"
+  },
+  {
+    "question": "Which writer is most associated with the modern reinvention of Green Lantern, introducing the Emotional Spectrum?",
+    "correct_answer": "Geoff Johns",
+    "incorrect_answers": [
+      "Grant Morrison",
+      "Alan Moore",
+      "Mark Waid",
+      "Denny O'Neil",
+      "Peter Tomasi",
+      "Ron Marz",
+      "Gerard Jones"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Comics",
+    "difficulty": "medium",
+    "id": "7bd2adc6-1ee2-475b-8cdd-c26e4073a9d5",
+    "created_at": "2025-04-13T02:17:42.112Z",
+    "backupTimestamp": "2025-04-13T02:17:42.112Z",
+    "localBackupTimestamp": "2025-04-12T20:17:42.112Z"
+  },
+  {
+    "question": "What metal is Black Panther's suit primarily made of?",
+    "correct_answer": "Vibranium",
+    "incorrect_answers": [
+      "Adamantium",
+      "Uru",
+      "Nth Metal",
+      "Promethium",
+      "Carbonadium",
+      "Titanium",
+      "Steel"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Comics",
+    "difficulty": "medium",
+    "id": "44138196-e7b9-4841-9ef9-3c7e3ceda598",
+    "created_at": "2025-04-13T02:17:42.115Z",
+    "backupTimestamp": "2025-04-13T02:17:42.116Z",
+    "localBackupTimestamp": "2025-04-12T20:17:42.116Z"
+  },
+  {
+    "question": "Who is the ruler of the underwater kingdom of Atlantis in Marvel Comics?",
+    "correct_answer": "Namor the Sub-Mariner",
+    "incorrect_answers": [
+      "Aquaman",
+      "Attuma",
+      "Tiger Shark",
+      "King Neptune",
+      "Ocean Master",
+      "Black Manta",
+      "Mera"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Comics",
+    "difficulty": "medium",
+    "id": "9e4389f0-b4c4-49e8-aacb-326bc6817147",
+    "created_at": "2025-04-13T02:17:42.119Z",
+    "backupTimestamp": "2025-04-13T02:17:42.120Z",
+    "localBackupTimestamp": "2025-04-12T20:17:42.120Z"
+  },
+  {
+    "question": "What is the name of the event where Superman died in the 1990s?",
+    "correct_answer": "The Death of Superman",
+    "incorrect_answers": [
+      "Crisis on Infinite Earths",
+      "Infinite Crisis",
+      "Final Crisis",
+      "Zero Hour: Crisis in Time",
+      "Flashpoint",
+      "Knightfall",
+      "Reign of the Supermen"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Comics",
+    "difficulty": "medium",
+    "id": "4e88e4ce-31c2-4354-8b3b-8003a9e9354e",
+    "created_at": "2025-04-13T02:17:42.124Z",
+    "backupTimestamp": "2025-04-13T02:17:42.124Z",
+    "localBackupTimestamp": "2025-04-12T20:17:42.124Z"
+  },
+  {
+    "question": "Which member of the Teen Titans is the daughter of the demon Trigon?",
+    "correct_answer": "Raven",
+    "incorrect_answers": [
+      "Starfire",
+      "Cyborg",
+      "Beast Boy",
+      "Wonder Girl (Donna Troy)",
+      "Terra",
+      "Aqualad",
+      "Kid Flash"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Comics",
+    "difficulty": "medium",
+    "id": "dcc4f4cc-7013-42c7-9dd9-187d7917481f",
+    "created_at": "2025-04-13T02:17:42.127Z",
+    "backupTimestamp": "2025-04-13T02:17:42.128Z",
+    "localBackupTimestamp": "2025-04-12T20:17:42.128Z"
+  },
+  {
+    "question": "What species is Groot from Guardians of the Galaxy?",
+    "correct_answer": "Flora Colossus",
+    "incorrect_answers": [
+      "Kree",
+      "Skrull",
+      "Celestial",
+      "Symbiote",
+      "Terran",
+      "Asgardian",
+      "Shi'ar"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Comics",
+    "difficulty": "medium",
+    "id": "90f09a82-9ef4-4a22-bc9e-398e1617722e",
+    "created_at": "2025-04-13T02:17:42.131Z",
+    "backupTimestamp": "2025-04-13T02:17:42.131Z",
+    "localBackupTimestamp": "2025-04-12T20:17:42.131Z"
+  },
+  {
+    "question": "Who is the Sorcerer Supreme of Earth in Marvel Comics?",
+    "correct_answer": "Doctor Strange",
+    "incorrect_answers": [
+      "Wong",
+      "The Ancient One",
+      "Brother Voodoo",
+      "Clea",
+      "Baron Mordo",
+      "Loki",
+      "Magik"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Comics",
+    "difficulty": "medium",
+    "id": "83e10614-1e50-43e6-879e-63d2ba2328e7",
+    "created_at": "2025-04-13T02:17:42.135Z",
+    "backupTimestamp": "2025-04-13T02:17:42.135Z",
+    "localBackupTimestamp": "2025-04-12T20:17:42.135Z"
+  },
+  {
+    "question": "Which villain broke Batman's back in the 'Knightfall' storyline?",
+    "correct_answer": "Bane",
+    "incorrect_answers": [
+      "The Joker",
+      "Ra's al Ghul",
+      "Killer Croc",
+      "Two-Face",
+      "Scarecrow",
+      "Clayface",
+      "Deathstroke"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Comics",
+    "difficulty": "medium",
+    "id": "9946805b-3c8c-4cbd-8917-fd0767961bcb",
+    "created_at": "2025-04-13T02:17:42.138Z",
+    "backupTimestamp": "2025-04-13T02:17:42.139Z",
+    "localBackupTimestamp": "2025-04-12T20:17:42.139Z"
+  },
+  {
+    "question": "What powerful cosmic force possesses Jean Grey, turning her into a major threat?",
+    "correct_answer": "Phoenix Force",
+    "incorrect_answers": [
+      "Infinity Gauntlet",
+      "Galactus Power Cosmic",
+      "Shadow King",
+      "Apocalypse Seed",
+      "Nega-Bands",
+      "M'Kraan Crystal",
+      "Goblin Force"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Comics",
+    "difficulty": "medium",
+    "id": "168f2340-63d9-4cb3-aeb2-c81fa5cb0e04",
+    "created_at": "2025-04-13T02:17:42.142Z",
+    "backupTimestamp": "2025-04-13T02:17:42.142Z",
+    "localBackupTimestamp": "2025-04-12T20:17:42.142Z"
+  },
+  {
+    "question": "What is the name of the alternate reality where Spider-Man is an older, grizzled detective in the 1930s?",
+    "correct_answer": "Spider-Man Noir",
+    "incorrect_answers": [
+      "Spider-Man 2099",
+      "Ultimate Spider-Man",
+      "Spider-Gwen's Universe (Earth-65)",
+      "Spider-Man India",
+      "MC2 Universe (Spider-Girl)",
+      "Marvel Zombies",
+      "Earth X"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Comics",
+    "difficulty": "medium",
+    "id": "fbfdf681-ee6e-4656-8e04-e76cb2c51207",
+    "created_at": "2025-04-13T02:17:42.146Z",
+    "backupTimestamp": "2025-04-13T02:17:42.146Z",
+    "localBackupTimestamp": "2025-04-12T20:17:42.146Z"
+  },
+  {
+    "question": "Who is the main character in Neil Gaiman's 'Sandman' series?",
+    "correct_answer": "Dream (Morpheus)",
+    "incorrect_answers": [
+      "Death",
+      "Destiny",
+      "Desire",
+      "Despair",
+      "Delirium",
+      "Destruction",
+      "Lucifer Morningstar"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Comics",
+    "difficulty": "medium",
+    "id": "ff207b22-8348-435b-ab46-ccbaa5b7da36",
+    "created_at": "2025-04-13T02:17:42.150Z",
+    "backupTimestamp": "2025-04-13T02:17:42.150Z",
+    "localBackupTimestamp": "2025-04-12T20:17:42.150Z"
+  },
+  {
+    "question": "What event caused the creation of the Fantastic Four?",
+    "correct_answer": "Exposure to cosmic rays in space",
+    "incorrect_answers": [
+      "Gamma bomb explosion",
+      "Radioactive spider bite",
+      "Super soldier experiment",
+      "Mutant gene activation",
+      "Lab accident involving chemicals",
+      "Alien abduction",
+      "Magic spell gone wrong"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Comics",
+    "difficulty": "medium",
+    "id": "1d7ece36-d719-42de-a3a8-170e1c771961",
+    "created_at": "2025-04-13T02:17:42.154Z",
+    "backupTimestamp": "2025-04-13T02:17:42.154Z",
+    "localBackupTimestamp": "2025-04-12T20:17:42.154Z"
+  },
+  {
+    "question": "Which artist is famous for co-creating Spider-Man and Doctor Strange alongside Stan Lee?",
+    "correct_answer": "Steve Ditko",
+    "incorrect_answers": [
+      "Jack Kirby",
+      "John Romita Sr.",
+      "Gil Kane",
+      "Neal Adams",
+      "Gene Colan",
+      "Don Heck",
+      "Bill Everett"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Comics",
+    "difficulty": "medium",
+    "id": "c823db38-8374-4787-bf9d-b1c0cd7084e9",
+    "created_at": "2025-04-13T02:17:42.157Z",
+    "backupTimestamp": "2025-04-13T02:17:42.158Z",
+    "localBackupTimestamp": "2025-04-12T20:17:42.158Z"
+  },
+  {
+    "question": "What is the name of the anti-registration faction leader during Marvel's 'Civil War' event?",
+    "correct_answer": "Captain America",
+    "incorrect_answers": [
+      "Iron Man",
+      "Nick Fury",
+      "Luke Cage",
+      "Daredevil",
+      "Black Panther",
+      "Doctor Strange",
+      "Professor X"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Comics",
+    "difficulty": "medium",
+    "id": "b4c40f6f-4e31-448e-8161-69543f58dd9b",
+    "created_at": "2025-04-13T02:17:42.161Z",
+    "backupTimestamp": "2025-04-13T02:17:42.161Z",
+    "localBackupTimestamp": "2025-04-12T20:17:42.161Z"
+  },
+  {
+    "question": "Which Robin was brutally murdered by the Joker?",
+    "correct_answer": "Jason Todd",
+    "incorrect_answers": [
+      "Dick Grayson",
+      "Tim Drake",
+      "Damian Wayne",
+      "Stephanie Brown",
+      "Carrie Kelley",
+      "Barbara Gordon",
+      "Duke Thomas"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Comics",
+    "difficulty": "medium",
+    "id": "b312b479-c92a-496b-a8ab-fbf84aa66c5d",
+    "created_at": "2025-04-13T02:17:42.165Z",
+    "backupTimestamp": "2025-04-13T02:17:42.165Z",
+    "localBackupTimestamp": "2025-04-12T20:17:42.165Z"
+  },
+  {
+    "question": "What is the name of the symbiotic life form that bonded with Cletus Kasady?",
+    "correct_answer": "Carnage",
+    "incorrect_answers": [
+      "Venom",
+      "Toxin",
+      "Anti-Venom",
+      "Scream",
+      "Riot",
+      "Phage",
+      "Agony"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Comics",
+    "difficulty": "medium",
+    "id": "7ea6a5be-e743-4f3b-b58d-d4444d1b8666",
+    "created_at": "2025-04-13T02:17:42.169Z",
+    "backupTimestamp": "2025-04-13T02:17:42.169Z",
+    "localBackupTimestamp": "2025-04-12T20:17:42.169Z"
+  },
+  {
+    "question": "Who is the creator of the comic book series 'Spawn'?",
+    "correct_answer": "Todd McFarlane",
+    "incorrect_answers": [
+      "Jim Lee",
+      "Rob Liefeld",
+      "Erik Larsen",
+      "Marc Silvestri",
+      "Robert Kirkman",
+      "Frank Miller",
+      "Alan Moore"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Comics",
+    "difficulty": "medium",
+    "id": "97fb767e-9732-4eaf-ab73-2b83c80b561c",
+    "created_at": "2025-04-13T02:17:42.172Z",
+    "backupTimestamp": "2025-04-13T02:17:42.172Z",
+    "localBackupTimestamp": "2025-04-12T20:17:42.172Z"
+  },
+  {
+    "question": "What is the real name of the X-Men villain Magneto?",
+    "correct_answer": "Max Eisenhardt / Erik Lehnsherr",
+    "incorrect_answers": [
+      "Charles Xavier",
+      "Victor Creed",
+      "Cain Marko",
+      "Nathaniel Essex",
+      "En Sabah Nur",
+      "Bolivar Trask",
+      "Sebastian Shaw"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Comics",
+    "difficulty": "medium",
+    "id": "e0a856f7-1a2f-4956-866f-52b91a80c35b",
+    "created_at": "2025-04-13T02:17:42.176Z",
+    "backupTimestamp": "2025-04-13T02:17:42.176Z",
+    "localBackupTimestamp": "2025-04-12T20:17:42.176Z"
+  },
+  {
+    "question": "Which Marvel character is the king of the fictional African nation of Wakanda?",
+    "correct_answer": "Black Panther (T'Challa)",
+    "incorrect_answers": [
+      "Storm",
+      "Luke Cage",
+      "Blade",
+      "Falcon",
+      "Killmonger",
+      "M'Baku",
+      "War Machine"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Comics",
+    "difficulty": "medium",
+    "id": "efb9a0e7-b8b7-4c7c-8f8e-46f7d06ef8ec",
+    "created_at": "2025-04-13T02:17:42.180Z",
+    "backupTimestamp": "2025-04-13T02:17:42.180Z",
+    "localBackupTimestamp": "2025-04-12T20:17:42.180Z"
+  },
+  {
+    "question": "What is the name of the mystical dimension Doctor Strange often travels to?",
+    "correct_answer": "The Dark Dimension / Astral Plane (among others)",
+    "incorrect_answers": [
+      "The Negative Zone",
+      "Asgard",
+      "The Microverse",
+      "Apokolips",
+      "The Phantom Zone",
+      "Quantum Realm",
+      "Limbo"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Comics",
+    "difficulty": "medium",
+    "id": "3a76cf72-9d1f-4f7b-aa10-3548ddd58c4a",
+    "created_at": "2025-04-13T02:17:42.184Z",
+    "backupTimestamp": "2025-04-13T02:17:42.184Z",
+    "localBackupTimestamp": "2025-04-12T20:17:42.184Z"
+  },
+  {
+    "question": "Which graphic novel by Frank Miller depicts a gritty, older Batman coming out of retirement?",
+    "correct_answer": "The Dark Knight Returns",
+    "incorrect_answers": [
+      "Batman: Year One",
+      "Batman: The Killing Joke",
+      "Batman: Hush",
+      "Batman: The Long Halloween",
+      "Arkham Asylum: A Serious House on Serious Earth",
+      "Batman: Knightfall",
+      "Batman: Under the Red Hood"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Comics",
+    "difficulty": "medium",
+    "id": "760f5ded-3fa3-412c-b906-7858efa5d4dc",
+    "created_at": "2025-04-13T02:17:42.187Z",
+    "backupTimestamp": "2025-04-13T02:17:42.187Z",
+    "localBackupTimestamp": "2025-04-12T20:17:42.187Z"
+  },
+  {
+    "question": "What organization does Barbara Gordon operate under after being paralyzed by the Joker?",
+    "correct_answer": "Oracle",
+    "incorrect_answers": [
+      "Batgirl",
+      "Batwoman",
+      "Spoiler",
+      "Black Canary",
+      "Huntress",
+      "Birds of Prey (Leader)",
+      "Agent of S.H.I.E.L.D."
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Comics",
+    "difficulty": "medium",
+    "id": "766e030c-2f2c-4bcc-b4c5-3ee3d2b5112f",
+    "created_at": "2025-04-13T02:17:42.191Z",
+    "backupTimestamp": "2025-04-13T02:17:42.192Z",
+    "localBackupTimestamp": "2025-04-12T20:17:42.192Z"
+  },
+  {
+    "question": "What Lantern Corps wields the power of fear?",
+    "correct_answer": "Sinestro Corps (Yellow Lanterns)",
+    "incorrect_answers": [
+      "Green Lantern Corps",
+      "Red Lantern Corps (Rage)",
+      "Blue Lantern Corps (Hope)",
+      "Star Sapphires (Love)",
+      "Orange Lantern Corps (Avarice)",
+      "Indigo Tribe (Compassion)",
+      "Black Lantern Corps (Death)"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Comics",
+    "difficulty": "medium",
+    "id": "cae33ebc-6d11-4a97-baac-b220101e6335",
+    "created_at": "2025-04-13T02:17:42.195Z",
+    "backupTimestamp": "2025-04-13T02:17:42.195Z",
+    "localBackupTimestamp": "2025-04-12T20:17:42.195Z"
+  },
+  {
+    "question": "Who is considered the first superhero in the DC Comics universe timeline?",
+    "correct_answer": "Superman (based on publication, Action Comics #1)",
+    "incorrect_answers": [
+      "Doctor Occult",
+      "The Spectre",
+      "Crimson Avenger",
+      "Batman",
+      "Alan Scott (Green Lantern)",
+      "Jay Garrick (Flash)",
+      "Wonder Woman"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Comics",
+    "difficulty": "medium",
+    "id": "93f39559-3cdd-4681-9a1e-3e481a827f5c",
+    "created_at": "2025-04-13T02:17:42.199Z",
+    "backupTimestamp": "2025-04-13T02:17:42.199Z",
+    "localBackupTimestamp": "2025-04-12T20:17:42.199Z"
+  },
+  {
+    "question": "What ability does the character Multiple Man (Jamie Madrox) possess?",
+    "correct_answer": "Create duplicates of himself upon physical impact",
+    "incorrect_answers": [
+      "Super strength",
+      "Teleportation",
+      "Energy absorption",
+      "Mind control",
+      "Shape-shifting",
+      "Invulnerability",
+      "Phasing"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Comics",
+    "difficulty": "medium",
+    "id": "96955dfc-88b2-4d60-ae6e-30aa2adf5130",
+    "created_at": "2025-04-13T02:17:42.203Z",
+    "backupTimestamp": "2025-04-13T02:17:42.203Z",
+    "localBackupTimestamp": "2025-04-12T20:17:42.203Z"
+  },
+  {
+    "question": "Which character from 'Watchmen' wears a mask with constantly shifting inkblots?",
+    "correct_answer": "Rorschach",
+    "incorrect_answers": [
+      "Nite Owl",
+      "The Comedian",
+      "Doctor Manhattan",
+      "Ozymandias",
+      "Silk Spectre",
+      "Captain Metropolis",
+      "Hooded Justice"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Comics",
+    "difficulty": "medium",
+    "id": "08ddc423-96a6-4dde-8fa3-768739d8e112",
+    "created_at": "2025-04-13T02:17:42.206Z",
+    "backupTimestamp": "2025-04-13T02:17:42.206Z",
+    "localBackupTimestamp": "2025-04-12T20:17:42.206Z"
+  },
+  {
+    "question": "What team was originally formed by Iron Man, Thor, Hulk, Ant-Man, and the Wasp?",
+    "correct_answer": "The Avengers",
+    "incorrect_answers": [
+      "The Defenders",
+      "Fantastic Four",
+      "X-Men",
+      "Champions",
+      "Invaders",
+      "Ultimates",
+      "West Coast Avengers"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Comics",
+    "difficulty": "medium",
+    "id": "eea652f5-4482-45ab-b380-df5717ce3585",
+    "created_at": "2025-04-13T02:17:42.210Z",
+    "backupTimestamp": "2025-04-13T02:17:42.210Z",
+    "localBackupTimestamp": "2025-04-12T20:17:42.210Z"
+  },
+  {
+    "question": "What is the name of Daredevil's primary love interest and skilled assassin?",
+    "correct_answer": "Elektra Natchios",
+    "incorrect_answers": [
+      "Karen Page",
+      "Black Widow (Natasha Romanoff)",
+      "Jessica Jones",
+      "Echo (Maya Lopez)",
+      "Typhoid Mary",
+      "Milla Donovan",
+      "Heather Glenn"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Comics",
+    "difficulty": "medium",
+    "id": "f3033998-8371-4e4f-95b5-6b6debd0d1b6",
+    "created_at": "2025-04-13T02:17:42.214Z",
+    "backupTimestamp": "2025-04-13T02:17:42.214Z",
+    "localBackupTimestamp": "2025-04-12T20:17:42.214Z"
+  },
+  {
+    "question": "Which creative team is renowned for their long and defining run on Uncanny X-Men starting in the 1970s?",
+    "correct_answer": "Chris Claremont & Dave Cockrum / John Byrne",
+    "incorrect_answers": [
+      "Stan Lee & Jack Kirby",
+      "Grant Morrison & Frank Quitely",
+      "Joss Whedon & John Cassaday",
+      "Brian Michael Bendis & Stuart Immonen",
+      "Roy Thomas & Neal Adams",
+      "Len Wein & Dave Cockrum",
+      "Scott Lobdell & Joe Madureira"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Comics",
+    "difficulty": "medium",
+    "id": "165a355c-9cac-4bd6-a15d-99d5f0c19df0",
+    "created_at": "2025-04-13T02:17:42.217Z",
+    "backupTimestamp": "2025-04-13T02:17:42.217Z",
+    "localBackupTimestamp": "2025-04-12T20:17:42.217Z"
+  },
+  {
+    "question": "What is the name of the DC Comics event that merged multiple Earths into one?",
+    "correct_answer": "Crisis on Infinite Earths",
+    "incorrect_answers": [
+      "Infinite Crisis",
+      "Final Crisis",
+      "Zero Hour: Crisis in Time",
+      "Flashpoint",
+      "Convergence",
+      "Identity Crisis",
+      "52"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Comics",
+    "difficulty": "medium",
+    "id": "b61254cc-4e5f-4bda-85e3-2675cdb7639d",
+    "created_at": "2025-04-13T02:17:42.221Z",
+    "backupTimestamp": "2025-04-13T02:17:42.221Z",
+    "localBackupTimestamp": "2025-04-12T20:17:42.221Z"
+  },
+  {
+    "question": "What is the name of the sword wielded by Wonder Woman?",
+    "correct_answer": "Sword of Athena / Sun Sword (varies)",
+    "incorrect_answers": [
+      "Excalibur",
+      "Masamune",
+      "God Killer",
+      "Odinsword",
+      "Soulsword",
+      "Grasscutter",
+      "Blade of Olympus"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Comics",
+    "difficulty": "medium",
+    "id": "78cd4843-5ba1-4167-9c13-c91462120a68",
+    "created_at": "2025-04-13T02:17:42.225Z",
+    "backupTimestamp": "2025-04-13T02:17:42.225Z",
+    "localBackupTimestamp": "2025-04-12T20:17:42.225Z"
+  },
+  {
+    "question": "Which villain group serves as the opposite number to the Justice League?",
+    "correct_answer": "Injustice League / Legion of Doom",
+    "incorrect_answers": [
+      "Secret Society of Super Villains",
+      "Masters of Evil",
+      "Sinister Six",
+      "Brotherhood of Evil Mutants",
+      "H.I.V.E.",
+      "Darkseid's Elite",
+      "Crime Syndicate of America"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Comics",
+    "difficulty": "medium",
+    "id": "3f4654ad-6598-41d8-bf87-3e4aaa8bfd67",
+    "created_at": "2025-04-13T02:17:42.228Z",
+    "backupTimestamp": "2025-04-13T02:17:42.229Z",
+    "localBackupTimestamp": "2025-04-12T20:17:42.229Z"
+  },
+  {
+    "question": "What substance causes the transformations in the comic series 'Transformers'?",
+    "correct_answer": "Energon",
+    "incorrect_answers": [
+      "Kryptonite",
+      "Adamantium",
+      "Vibranium",
+      "Cybertronium",
+      "Transformium",
+      "AllSpark Energy",
+      "Matrix Power"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Comics",
+    "difficulty": "medium",
+    "id": "de3b1a34-c2e3-47ab-a226-c5fd8979aa81",
+    "created_at": "2025-04-13T02:17:42.233Z",
+    "backupTimestamp": "2025-04-13T02:17:42.233Z",
+    "localBackupTimestamp": "2025-04-12T20:17:42.233Z"
+  },
+  {
+    "question": "Which Marvel UK character is a psychic bounty hunter known for his large hat and trench coat?",
+    "correct_answer": "Death's Head",
+    "incorrect_answers": [
+      "Captain Britain",
+      "Psylocke",
+      "Pete Wisdom",
+      "Union Jack",
+      "Black Knight",
+      "Spitfire",
+      "Motormouth"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Comics",
+    "difficulty": "medium",
+    "id": "b4f4aa82-eaca-453f-a239-95b72299d1b8",
+    "created_at": "2025-04-13T02:17:42.237Z",
+    "backupTimestamp": "2025-04-13T02:17:42.237Z",
+    "localBackupTimestamp": "2025-04-12T20:17:42.237Z"
+  },
+  {
+    "question": "What is the name of the mystical artifact that grants Doctor Fate his powers?",
+    "correct_answer": "Helmet of Fate (Nabu)",
+    "incorrect_answers": [
+      "Amulet of Anubis",
+      "Cloak of Destiny",
+      "Orb of Agamotto",
+      "Heart of the Universe",
+      "Nth Metal Mace",
+      "Power Stone",
+      "Book of Vishanti"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Comics",
+    "difficulty": "medium",
+    "id": "a20ff119-a54f-4e48-937c-6f5adaac7871",
+    "created_at": "2025-04-13T02:17:42.241Z",
+    "backupTimestamp": "2025-04-13T02:17:42.241Z",
+    "localBackupTimestamp": "2025-04-12T20:17:42.241Z"
+  },
+  {
+    "question": "Which Image Comics series follows Rick Grimes navigating a zombie apocalypse?",
+    "correct_answer": "The Walking Dead",
+    "incorrect_answers": [
+      "Saga",
+      "Invincible",
+      "Spawn",
+      "Chew",
+      "East of West",
+      "Paper Girls",
+      "Y: The Last Man (Vertigo)"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Comics",
+    "difficulty": "medium",
+    "id": "11bd8342-86a3-40b6-9676-e325d9681d18",
+    "created_at": "2025-04-13T02:17:42.245Z",
+    "backupTimestamp": "2025-04-13T02:17:42.245Z",
+    "localBackupTimestamp": "2025-04-12T20:17:42.245Z"
+  },
+  {
+    "question": "What type of energy does Cyclops fire from his eyes?",
+    "correct_answer": "Optic Blasts (Concussive Force)",
+    "incorrect_answers": [
+      "Heat Vision",
+      "Laser Beams",
+      "X-Rays",
+      "Plasma Energy",
+      "Psionic Energy",
+      "Darkforce Energy",
+      "Solar Energy"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Comics",
+    "difficulty": "medium",
+    "id": "7f66306a-76dc-4c64-882a-1cf8443d2f7a",
+    "created_at": "2025-04-13T02:17:42.249Z",
+    "backupTimestamp": "2025-04-13T02:17:42.249Z",
+    "localBackupTimestamp": "2025-04-12T20:17:42.249Z"
+  },
+  {
+    "question": "What is the name of the dimension ruled by Dormammu?",
+    "correct_answer": "The Dark Dimension",
+    "incorrect_answers": [
+      "Limbo",
+      "Negative Zone",
+      "Asgard",
+      "Quantum Realm",
+      "Hell",
+      "The Astral Plane",
+      "Apokolips"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Comics",
+    "difficulty": "medium",
+    "id": "561296e4-af73-48e3-9ced-2f3f4e3c3b32",
+    "created_at": "2025-04-13T02:17:42.252Z",
+    "backupTimestamp": "2025-04-13T02:17:42.252Z",
+    "localBackupTimestamp": "2025-04-12T20:17:42.252Z"
+  },
+  {
+    "question": "Which graphic novel tells the story of V, an anarchist revolutionary fighting a fascist regime in Britain?",
+    "correct_answer": "V for Vendetta",
+    "incorrect_answers": [
+      "Watchmen",
+      "From Hell",
+      "The League of Extraordinary Gentlemen",
+      "Judge Dredd",
+      "Marshal Law",
+      "Transmetropolitan",
+      "Preacher"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Comics",
+    "difficulty": "medium",
+    "id": "f9dd9a8d-4fe6-4127-a76e-cee4f222914e",
+    "created_at": "2025-04-13T02:17:42.256Z",
+    "backupTimestamp": "2025-04-13T02:17:42.256Z",
+    "localBackupTimestamp": "2025-04-12T20:17:42.256Z"
+  },
+  {
+    "question": "What Marvel storyline saw the Skrulls secretly replace many heroes and villains?",
+    "correct_answer": "Secret Invasion",
+    "incorrect_answers": [
+      "Civil War",
+      "House of M",
+      "Annihilation",
+      "Siege",
+      "Secret Wars",
+      "Kree-Skrull War",
+      "Age of Ultron"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Comics",
+    "difficulty": "medium",
+    "id": "0f93aabb-65c4-4664-b4c0-61ca87bae059",
+    "created_at": "2025-04-13T02:17:42.260Z",
+    "backupTimestamp": "2025-04-13T02:17:42.260Z",
+    "localBackupTimestamp": "2025-04-12T20:17:42.260Z"
+  },
+  {
+    "question": "Who is the archenemy of the Flash, known as the Reverse-Flash?",
+    "correct_answer": "Eobard Thawne (Professor Zoom)",
+    "incorrect_answers": [
+      "Hunter Zolomon (Zoom)",
+      "Captain Cold",
+      "Gorilla Grodd",
+      "The Thinker",
+      "Savitar",
+      "Mirror Master",
+      "Abra Kadabra"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Comics",
+    "difficulty": "medium",
+    "id": "5279f68d-bd52-417e-9143-324856e7a398",
+    "created_at": "2025-04-13T02:17:42.264Z",
+    "backupTimestamp": "2025-04-13T02:17:42.264Z",
+    "localBackupTimestamp": "2025-04-12T20:17:42.264Z"
+  },
+  {
+    "question": "What is Moon Knight's connection to the Egyptian moon god?",
+    "correct_answer": "He is the avatar/fist of Khonshu",
+    "incorrect_answers": [
+      "He is possessed by Khonshu",
+      "He found Khonshu's temple",
+      "He wields Khonshu's moon blades",
+      "He is a descendant of Khonshu",
+      "He channels moonlight through Khonshu's power",
+      "He made a pact with Khonshu",
+      "He wears armor blessed by Khonshu"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Comics",
+    "difficulty": "medium",
+    "id": "55876551-66a7-4aa0-b602-084a2f9ce426",
+    "created_at": "2025-04-13T02:17:42.267Z",
+    "backupTimestamp": "2025-04-13T02:17:42.267Z",
+    "localBackupTimestamp": "2025-04-12T20:17:42.267Z"
+  },
+  {
+    "question": "Which member of the Guardians of the Galaxy is known as 'The Deadliest Woman in the Whole Galaxy'?",
+    "correct_answer": "Gamora",
+    "incorrect_answers": [
+      "Nebula",
+      "Mantis",
+      "Phyla-Vell",
+      "Moondragon",
+      "Angela",
+      "Captain Marvel",
+      "Ronan the Accuser"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Comics",
+    "difficulty": "medium",
+    "id": "f4146e48-514f-4678-8cf6-4368406deef9",
+    "created_at": "2025-04-13T02:17:42.272Z",
+    "backupTimestamp": "2025-04-13T02:17:42.272Z",
+    "localBackupTimestamp": "2025-04-12T20:17:42.272Z"
+  },
+  {
+    "question": "What is the name of the reality-altering event in Marvel Comics caused by the Scarlet Witch?",
+    "correct_answer": "House of M / Decimation",
+    "incorrect_answers": [
+      "Secret Wars",
+      "Civil War",
+      "Age of Apocalypse",
+      "Avengers Disassembled",
+      "Onslaught",
+      "Age of Ultron",
+      "Secret Invasion"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Comics",
+    "difficulty": "medium",
+    "id": "ece90ee7-66a4-479d-8896-b9e168f41236",
+    "created_at": "2025-04-13T02:17:42.275Z",
+    "backupTimestamp": "2025-04-13T02:17:42.275Z",
+    "localBackupTimestamp": "2025-04-12T20:17:42.275Z"
+  },
+  {
+    "question": "Which Hellblazer character is a cynical, chain-smoking magician from Liverpool?",
+    "correct_answer": "John Constantine",
+    "incorrect_answers": [
+      "Zatanna",
+      "Doctor Strange",
+      "Tim Hunter",
+      "Shade, the Changing Man",
+      "Jason Blood (Etrigan)",
+      "Felix Faust",
+      "Anton Arcane"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Comics",
+    "difficulty": "medium",
+    "id": "662b9d5c-cbf1-4890-9fcd-1ae058ef07ed",
+    "created_at": "2025-04-13T02:17:42.279Z",
+    "backupTimestamp": "2025-04-13T02:17:42.279Z",
+    "localBackupTimestamp": "2025-04-12T20:17:42.279Z"
+  },
+  {
+    "question": "What is the name of the cosmic storm that grants the Fantastic Four their powers in the Ultimate Marvel universe?",
+    "correct_answer": "The N-Zone transition",
+    "incorrect_answers": [
+      "Cosmic Rays",
+      "Terrigen Mist",
+      "Phoenix Force",
+      "God Wave",
+      "The Bleed",
+      "Quantum Entanglement",
+      "Source Wall rupture"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Comics",
+    "difficulty": "hard",
+    "id": "6c6f1054-5769-4aab-9a14-6c9cea05f212",
+    "created_at": "2025-04-13T02:17:42.283Z",
+    "backupTimestamp": "2025-04-13T02:17:42.283Z",
+    "localBackupTimestamp": "2025-04-12T20:17:42.283Z"
+  },
+  {
+    "question": "In Alan Moore's 'Swamp Thing', what was revealed about Alec Holland's transformation?",
+    "correct_answer": "The Swamp Thing was a plant elemental that absorbed Holland's consciousness, not Holland transformed.",
+    "incorrect_answers": [
+      "He was secretly an alien.",
+      "The transformation was caused by magic, not science.",
+      "He could revert to human form at will.",
+      "His wife Linda was also transformed.",
+      "The chemicals were created by Lex Luthor.",
+      "He was chosen by the Parliament of Trees before the accident.",
+      "The accident opened a portal to the Green."
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Comics",
+    "difficulty": "hard",
+    "id": "a3cb3b1a-8ae2-41d3-ba50-86e78eb99ea7",
+    "created_at": "2025-04-13T02:17:42.287Z",
+    "backupTimestamp": "2025-04-13T02:17:42.287Z",
+    "localBackupTimestamp": "2025-04-12T20:17:42.287Z"
+  },
+  {
+    "question": "What is the name of the language spoken by the New Gods of New Genesis and Apokolips?",
+    "correct_answer": "Interlac (spoken) / Language of the Source (conceptual)",
+    "incorrect_answers": [
+      "Kryptonian",
+      "Thanagarian",
+      "Kree",
+      "Skrull",
+      "Tamaranean",
+      "Oan",
+      "Old Tongue"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Comics",
+    "difficulty": "hard",
+    "id": "30a5af84-9eb1-42c8-8b6b-4050ef21de8a",
+    "created_at": "2025-04-13T02:17:42.291Z",
+    "backupTimestamp": "2025-04-13T02:17:42.292Z",
+    "localBackupTimestamp": "2025-04-12T20:17:42.292Z"
+  },
+  {
+    "question": "Which indie comic series by Brian K. Vaughan follows the last man on Earth and his monkey companion?",
+    "correct_answer": "Y: The Last Man",
+    "incorrect_answers": [
+      "Saga",
+      "Ex Machina",
+      "Paper Girls",
+      "Runaways",
+      "Pride of Baghdad",
+      "The Private Eye",
+      "We Stand On Guard"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Comics",
+    "difficulty": "hard",
+    "id": "ab19eaae-954a-4b92-a6a2-91d6c8473c94",
+    "created_at": "2025-04-13T02:17:42.295Z",
+    "backupTimestamp": "2025-04-13T02:17:42.296Z",
+    "localBackupTimestamp": "2025-04-12T20:17:42.296Z"
+  },
+  {
+    "question": "What was the name of the British comics anthology that first published Judge Dredd?",
+    "correct_answer": "2000 AD",
+    "incorrect_answers": [
+      "Warrior",
+      "Eagle",
+      "Action",
+      "Crisis",
+      "Rebellion",
+      "Deadline",
+      "Beano"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Comics",
+    "difficulty": "hard",
+    "id": "98141b23-43ed-4222-9f1e-c3a810ed3d33",
+    "created_at": "2025-04-13T02:17:42.300Z",
+    "backupTimestamp": "2025-04-13T02:17:42.301Z",
+    "localBackupTimestamp": "2025-04-12T20:17:42.301Z"
+  },
+  {
+    "question": "In Grant Morrison's 'Animal Man' run, who does Buddy Baker meet in the final issue?",
+    "correct_answer": "Grant Morrison (the writer)",
+    "incorrect_answers": [
+      "Superman",
+      "Swamp Thing",
+      "God",
+      "The Psycho-Pirate",
+      "The Anti-Monitor",
+      "His future self",
+      "John Constantine"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Comics",
+    "difficulty": "hard",
+    "id": "0aa31670-316c-4ed3-a597-bfc1172bc02c",
+    "created_at": "2025-04-13T02:17:42.305Z",
+    "backupTimestamp": "2025-04-13T02:17:42.305Z",
+    "localBackupTimestamp": "2025-04-12T20:17:42.305Z"
+  },
+  {
+    "question": "What is the designation of the alternate Earth where the Crime Syndicate of America originates?",
+    "correct_answer": "Earth-3",
+    "incorrect_answers": [
+      "Earth-2",
+      "Earth-Prime",
+      "Earth-X",
+      "Earth-C (Captain Carrot)",
+      "Earth-One",
+      "Earth-S (Shazam)",
+      "Earth-Zero"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Comics",
+    "difficulty": "hard",
+    "id": "02ef11df-50db-413c-8478-f911a7b103f3",
+    "created_at": "2025-04-13T02:17:42.309Z",
+    "backupTimestamp": "2025-04-13T02:17:42.309Z",
+    "localBackupTimestamp": "2025-04-12T20:17:42.309Z"
+  },
+  {
+    "question": "Which Jack Kirby creation involves a war between the New Gods of New Genesis and Apokolips?",
+    "correct_answer": "The Fourth World Saga",
+    "incorrect_answers": [
+      "The Eternals",
+      "The Inhumans",
+      "Kamandi: The Last Boy on Earth",
+      "Devil Dinosaur",
+      "OMAC (One-Man Army Corps)",
+      "The Demon (Etrigan)",
+      "Machine Man"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Comics",
+    "difficulty": "hard",
+    "id": "a53b7834-47f2-4b63-8271-20256f3872d7",
+    "created_at": "2025-04-13T02:17:42.314Z",
+    "backupTimestamp": "2025-04-13T02:17:42.314Z",
+    "localBackupTimestamp": "2025-04-12T20:17:42.314Z"
+  },
+  {
+    "question": "What is the name of the sentient, reality-warping cube often sought by villains in the Marvel Universe?",
+    "correct_answer": "Cosmic Cube (later shaped into Tesseract in MCU)",
+    "incorrect_answers": [
+      "Mother Box",
+      "Infinity Gauntlet",
+      "Casket of Ancient Winters",
+      "Norn Stones",
+      "M'Kraan Crystal",
+      "Ultimate Nullifier",
+      "Wand of Watoomb"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Comics",
+    "difficulty": "hard",
+    "id": "44226019-b99b-4f54-8a21-0f0eef951493",
+    "created_at": "2025-04-13T02:17:42.318Z",
+    "backupTimestamp": "2025-04-13T02:17:42.318Z",
+    "localBackupTimestamp": "2025-04-12T20:17:42.318Z"
+  },
+  {
+    "question": "Who is the original artist for 'The Amazing Spider-Man' credited with designing his costume?",
+    "correct_answer": "Steve Ditko",
+    "incorrect_answers": [
+      "Jack Kirby",
+      "John Romita Sr.",
+      "Gil Kane",
+      "Todd McFarlane",
+      "Erik Larsen",
+      "Mark Bagley",
+      "Ron Frenz"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Comics",
+    "difficulty": "hard",
+    "id": "d87650aa-b813-4718-ad8a-781165cc63d4",
+    "created_at": "2025-04-13T02:17:42.322Z",
+    "backupTimestamp": "2025-04-13T02:17:42.322Z",
+    "localBackupTimestamp": "2025-04-12T20:17:42.322Z"
+  },
+  {
+    "question": "What is the 'Miracleman' (originally 'Marvelman') character's transformative magic word?",
+    "correct_answer": "Kimota!",
+    "incorrect_answers": [
+      "Shazam!",
+      "By Grapthar's Hammer!",
+      "Abracadabra!",
+      "Volthoom!",
+      "Mxyzptlk!",
+      "Hoary Hosts of Hoggoth!",
+      "Ikonn!"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Comics",
+    "difficulty": "hard",
+    "id": "25a67a6d-8cb1-4a7f-a615-c4087a419b9a",
+    "created_at": "2025-04-13T02:17:42.330Z",
+    "backupTimestamp": "2025-04-13T02:17:42.330Z",
+    "localBackupTimestamp": "2025-04-12T20:17:42.330Z"
+  },
+  {
+    "question": "Which Warren Ellis series, illustrated by Darick Robertson, follows journalist Spider Jerusalem in a dystopic future?",
+    "correct_answer": "Transmetropolitan",
+    "incorrect_answers": [
+      "Planetary",
+      "The Authority",
+      "Global Frequency",
+      "Fell",
+      "Injection",
+      "Ministry of Space",
+      "Nextwave: Agents of H.A.T.E."
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Comics",
+    "difficulty": "hard",
+    "id": "22324169-677d-48b2-b684-69ee90888993",
+    "created_at": "2025-04-13T02:17:42.334Z",
+    "backupTimestamp": "2025-04-13T02:17:42.335Z",
+    "localBackupTimestamp": "2025-04-12T20:17:42.335Z"
+  },
+  {
+    "question": "What Golden Age superhero team was the precursor to the Justice League of America?",
+    "correct_answer": "Justice Society of America (JSA)",
+    "incorrect_answers": [
+      "All-Star Squadron",
+      "Seven Soldiers of Victory",
+      "Freedom Fighters",
+      "Invaders (Marvel)",
+      "Young All-Stars",
+      "Law's Legionnaires",
+      "Mystery Men"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Comics",
+    "difficulty": "hard",
+    "id": "0413807a-42ab-4a32-b86b-90afb3143f1d",
+    "created_at": "2025-04-13T02:17:42.339Z",
+    "backupTimestamp": "2025-04-13T02:17:42.339Z",
+    "localBackupTimestamp": "2025-04-12T20:17:42.339Z"
+  },
+  {
+    "question": "In the 'Age of Apocalypse' storyline, which character leads the X-Men in Professor X's absence?",
+    "correct_answer": "Magneto",
+    "incorrect_answers": [
+      "Wolverine (Weapon X)",
+      "Jean Grey",
+      "Cyclops",
+      "Storm",
+      "Apocalypse",
+      "Bishop",
+      "Sabretooth"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Comics",
+    "difficulty": "hard",
+    "id": "e8c5ee1e-ea74-46a2-8241-b7770478c8c0",
+    "created_at": "2025-04-13T02:17:42.343Z",
+    "backupTimestamp": "2025-04-13T02:17:42.344Z",
+    "localBackupTimestamp": "2025-04-12T20:17:42.344Z"
+  },
+  {
+    "question": "What is the name of the robotic enemies of the X-Men designed to hunt mutants?",
+    "correct_answer": "Sentinels",
+    "incorrect_answers": [
+      "Ultron drones",
+      "Deathloks",
+      "Adaptoids",
+      "Nimrod",
+      "Cybermen",
+      "Manhunters",
+      "Reavers"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Comics",
+    "difficulty": "hard",
+    "id": "9188f19b-0ad3-4b13-89f9-cb23822e50c2",
+    "created_at": "2025-04-13T02:17:42.347Z",
+    "backupTimestamp": "2025-04-13T02:17:42.348Z",
+    "localBackupTimestamp": "2025-04-12T20:17:42.348Z"
+  },
+  {
+    "question": "Which creator-owned series by Robert Kirkman features a teenager developing superpowers and dealing with the consequences?",
+    "correct_answer": "Invincible",
+    "incorrect_answers": [
+      "The Walking Dead",
+      "Outcast",
+      "Oblivion Song",
+      "Fire Power",
+      "Die!Die!Die!",
+      "Super Dinosaur",
+      "Birthright"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Comics",
+    "difficulty": "hard",
+    "id": "b2185ed0-4b5f-4ae5-a2f3-4ee5684f095f",
+    "created_at": "2025-04-13T02:17:42.353Z",
+    "backupTimestamp": "2025-04-13T02:17:42.353Z",
+    "localBackupTimestamp": "2025-04-12T20:17:42.353Z"
+  },
+  {
+    "question": "What is the name of the cosmic entity embodying Death in the Marvel Universe, often courted by Thanos?",
+    "correct_answer": "Mistress Death",
+    "incorrect_answers": [
+      "Hela",
+      "Mephisto",
+      "Black Racer",
+      "Nekron",
+      "Oblivion",
+      "The Black Flash",
+      "Nix Uotan"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Comics",
+    "difficulty": "hard",
+    "id": "069a321b-b716-42aa-98fa-d0d966839b35",
+    "created_at": "2025-04-13T02:17:42.357Z",
+    "backupTimestamp": "2025-04-13T02:17:42.357Z",
+    "localBackupTimestamp": "2025-04-12T20:17:42.357Z"
+  },
+  {
+    "question": "Which character, created by Will Eisner, is a masked crimefighter operating in Central City, known for his atmospheric, noir-style adventures?",
+    "correct_answer": "The Spirit",
+    "incorrect_answers": [
+      "The Shadow",
+      "The Phantom",
+      "Dick Tracy",
+      "Sandman (Wesley Dodds)",
+      "The Question",
+      "Doc Savage",
+      "Green Hornet"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Comics",
+    "difficulty": "hard",
+    "id": "9902bf13-371d-406d-b513-8ea82d90b438",
+    "created_at": "2025-04-13T02:17:42.361Z",
+    "backupTimestamp": "2025-04-13T02:17:42.362Z",
+    "localBackupTimestamp": "2025-04-12T20:17:42.362Z"
+  },
+  {
+    "question": "What is the name of the dimension Kang the Conqueror rules outside of time?",
+    "correct_answer": "Chronopolis",
+    "incorrect_answers": [
+      "Limbo",
+      "The Vanishing Point",
+      "The End of Time",
+      "The Quantum Realm",
+      "The Time Variance Authority (TVA)",
+      "The Bleed",
+      "Hypertime"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Comics",
+    "difficulty": "hard",
+    "id": "b1489ac1-8c15-4426-a493-0bc86a863eff",
+    "created_at": "2025-04-13T02:17:42.366Z",
+    "backupTimestamp": "2025-04-13T02:17:42.366Z",
+    "localBackupTimestamp": "2025-04-12T20:17:42.366Z"
+  },
+  {
+    "question": "Which Garth Ennis and Steve Dillon series follows Jesse Custer, a preacher possessed by a supernatural entity?",
+    "correct_answer": "Preacher",
+    "incorrect_answers": [
+      "Hellblazer",
+      "The Boys",
+      "Punisher MAX",
+      "Hitman",
+      "Crossed",
+      "Unknown Soldier",
+      "Chronicles of Wormwood"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Comics",
+    "difficulty": "hard",
+    "id": "a12c95e4-dacf-47d7-99a9-3ff36a6d1737",
+    "created_at": "2025-04-13T02:17:42.370Z",
+    "backupTimestamp": "2025-04-13T02:17:42.371Z",
+    "localBackupTimestamp": "2025-04-12T20:17:42.371Z"
+  },
+  {
+    "question": "What is the name of the fictional, indestructible metal that makes up Captain America's shield in the main Marvel Universe (Earth-616)?",
+    "correct_answer": "Proto-Adamantium (a unique Vibranium/Steel alloy)",
+    "incorrect_answers": [
+      "Pure Vibranium",
+      "True Adamantium",
+      "Uru",
+      "Carbonadium",
+      "Adamantine",
+      "Secondary Adamantium",
+      "Antarctic Vibranium (Anti-Metal)"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Comics",
+    "difficulty": "hard",
+    "id": "d6e66100-89dc-4a05-8d32-f626c055a021",
+    "created_at": "2025-04-13T02:17:42.376Z",
+    "backupTimestamp": "2025-04-13T02:17:42.376Z",
+    "localBackupTimestamp": "2025-04-12T20:17:42.376Z"
+  },
+  {
+    "question": "Which Alan Moore graphic novel explores the history and mythology surrounding Jack the Ripper?",
+    "correct_answer": "From Hell",
+    "incorrect_answers": [
+      "Watchmen",
+      "V for Vendetta",
+      "The League of Extraordinary Gentlemen",
+      "Promethea",
+      "Tom Strong",
+      "Lost Girls",
+      "A Small Killing"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Comics",
+    "difficulty": "hard",
+    "id": "46f8b99c-d32b-4886-b68c-da313e0a7234",
+    "created_at": "2025-04-13T02:17:42.379Z",
+    "backupTimestamp": "2025-04-13T02:17:42.380Z",
+    "localBackupTimestamp": "2025-04-12T20:17:42.380Z"
+  },
+  {
+    "question": "What species are the Teenage Mutant Ninja Turtles mutated from?",
+    "correct_answer": "Red-eared sliders",
+    "incorrect_answers": [
+      "Box turtles",
+      "Snapping turtles",
+      "Painted turtles",
+      "Sea turtles",
+      "Tortoises",
+      "Terrapins",
+      "Softshell turtles"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Comics",
+    "difficulty": "hard",
+    "id": "d4534b2a-5428-4f3f-847f-09803399e05f",
+    "created_at": "2025-04-13T02:17:42.384Z",
+    "backupTimestamp": "2025-04-13T02:17:42.384Z",
+    "localBackupTimestamp": "2025-04-12T20:17:42.384Z"
+  },
+  {
+    "question": "Who is the main antagonist of the 'Bone' series by Jeff Smith?",
+    "correct_answer": "The Lord of the Locusts",
+    "incorrect_answers": [
+      "Kingdok",
+      "The Hooded One (Briar)",
+      "The Rat Creatures",
+      "Roque Ja",
+      "The Mimic",
+      "Thorn Harvestar",
+      "Gran'ma Ben"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Comics",
+    "difficulty": "hard",
+    "id": "b4fd729d-9620-4dfb-8648-b37dbd53be02",
+    "created_at": "2025-04-13T02:17:42.388Z",
+    "backupTimestamp": "2025-04-13T02:17:42.388Z",
+    "localBackupTimestamp": "2025-04-12T20:17:42.388Z"
+  },
+  {
+    "question": "What is the name of the Japanese manga series about a young ninja named Naruto Uzumaki?",
+    "correct_answer": "Naruto",
+    "incorrect_answers": [
+      "One Piece",
+      "Bleach",
+      "Dragon Ball Z",
+      "Attack on Titan",
+      "My Hero Academia",
+      "Demon Slayer",
+      "Jujutsu Kaisen"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Comics",
+    "difficulty": "hard",
+    "id": "89cec7d9-eeab-4ad7-9423-1fa1597907d8",
+    "created_at": "2025-04-13T02:17:42.392Z",
+    "backupTimestamp": "2025-04-13T02:17:42.392Z",
+    "localBackupTimestamp": "2025-04-12T20:17:42.392Z"
+  },
+  {
+    "question": "Which Grant Morrison creation is a sentient, transvestite, teleporting street?",
+    "correct_answer": "Danny the Street (Doom Patrol)",
+    "incorrect_answers": [
+      "Flex Mentallo",
+      "Crazy Jane",
+      "The Chief (Niles Caulder)",
+      "Negative Man",
+      "Robotman",
+      "Mr. Nobody",
+      "The Quiz"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Comics",
+    "difficulty": "hard",
+    "id": "3d0b5c3a-2da1-4a84-8424-3deb15f7e255",
+    "created_at": "2025-04-13T02:17:42.396Z",
+    "backupTimestamp": "2025-04-13T02:17:42.397Z",
+    "localBackupTimestamp": "2025-04-12T20:17:42.397Z"
+  },
+  {
+    "question": "In the comic 'Saga', what species is Marko?",
+    "correct_answer": "Moonie (Horned species from Wreath)",
+    "incorrect_answers": [
+      "Landfallian (Winged species)",
+      "Robot",
+      "Freelancer",
+      "Ghost",
+      "Native of Quietus",
+      "Dragon",
+      "Sextillion"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Comics",
+    "difficulty": "hard",
+    "id": "21f4ba96-e4fe-4d8c-a006-3347fd872b4c",
+    "created_at": "2025-04-13T02:17:42.401Z",
+    "backupTimestamp": "2025-04-13T02:17:42.401Z",
+    "localBackupTimestamp": "2025-04-12T20:17:42.401Z"
+  },
+  {
+    "question": "What is the name of the supervillain team that often opposes the Fantastic Four, led by Doctor Octopus?",
+    "correct_answer": "Sinister Six",
+    "incorrect_answers": [
+      "Masters of Evil",
+      "Frightful Four",
+      "Brotherhood of Evil Mutants",
+      "Serpent Society",
+      "Legion of Doom",
+      "U-Foes",
+      "Wrecking Crew"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Comics",
+    "difficulty": "hard",
+    "id": "d288b455-7e80-48ae-8756-6b77b72b93c1",
+    "created_at": "2025-04-13T02:17:42.405Z",
+    "backupTimestamp": "2025-04-13T02:17:42.405Z",
+    "localBackupTimestamp": "2025-04-12T20:17:42.405Z"
+  },
+  {
+    "question": "Which influential comic book artist is known for his work on 'Daredevil: Born Again' and 'Batman: Year One'?",
+    "correct_answer": "David Mazzucchelli",
+    "incorrect_answers": [
+      "Frank Miller (Writer)",
+      "Neal Adams",
+      "Jim Lee",
+      "John Romita Jr.",
+      "Bill Sienkiewicz",
+      "Klaus Janson",
+      "Alex Maleev"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Comics",
+    "difficulty": "hard",
+    "id": "f7492684-20d1-473c-b749-66a792baa46f",
+    "created_at": "2025-04-13T02:17:42.409Z",
+    "backupTimestamp": "2025-04-13T02:17:42.410Z",
+    "localBackupTimestamp": "2025-04-12T20:17:42.410Z"
+  },
+  {
+    "question": "What is the name of the DC Comics character who gains superpowers based on the last animal he touches?",
+    "correct_answer": "Animal Man (Buddy Baker)",
+    "incorrect_answers": [
+      "Beast Boy (Garfield Logan)",
+      "Vixen (Mari McCabe)",
+      "Man-Bat (Kirk Langstrom)",
+      "B'wana Beast (Mike Maxwell)",
+      "Congorilla (Congo Bill)",
+      "Timber Wolf (Brin Londo)",
+      "Bronze Tiger (Ben Turner)"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Comics",
+    "difficulty": "hard",
+    "id": "260aa015-f7ee-43c1-b438-b45fdafc30e2",
+    "created_at": "2025-04-13T02:17:42.413Z",
+    "backupTimestamp": "2025-04-13T02:17:42.414Z",
+    "localBackupTimestamp": "2025-04-12T20:17:42.414Z"
+  },
+  {
+    "question": "Which Vertigo series by Bill Willingham features fairytale characters living secretly in New York City?",
+    "correct_answer": "Fables",
+    "incorrect_answers": [
+      "Sandman",
+      "Lucifer",
+      "The Unwritten",
+      "Jack of Fables",
+      "House of Mystery",
+      "American Vampire",
+      "Clean Room"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Comics",
+    "difficulty": "hard",
+    "id": "c4369705-dc11-4eac-9934-05e5bb138079",
+    "created_at": "2025-04-13T02:17:42.417Z",
+    "backupTimestamp": "2025-04-13T02:17:42.418Z",
+    "localBackupTimestamp": "2025-04-12T20:17:42.418Z"
+  },
+  {
+    "question": "What is the 'Ultimate Nullifier' in Marvel Comics?",
+    "correct_answer": "A powerful cosmic device capable of eliminating anything from existence",
+    "incorrect_answers": [
+      "A weapon used by Thanos",
+      "The source of the Silver Surfer's power",
+      "A component of the Infinity Gauntlet",
+      "A prison dimension",
+      "Galactus's spaceship",
+      "A machine that cancels mutant powers",
+      "The opposite of the Cosmic Cube"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Comics",
+    "difficulty": "hard",
+    "id": "2cb25dd9-5583-488e-b362-818af26d5023",
+    "created_at": "2025-04-13T02:17:42.423Z",
+    "backupTimestamp": "2025-04-13T02:17:42.423Z",
+    "localBackupTimestamp": "2025-04-12T20:17:42.423Z"
+  },
+  {
+    "question": "Which comic book introduced the first appearance of Wolverine?",
+    "correct_answer": "The Incredible Hulk #181",
+    "incorrect_answers": [
+      "Giant-Size X-Men #1",
+      "Uncanny X-Men #94",
+      "The Incredible Hulk #180",
+      "Marvel Comics Presents #1",
+      "X-Men #1",
+      "Alpha Flight #1",
+      "Wolverine (Limited Series) #1"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Comics",
+    "difficulty": "hard",
+    "id": "1a57775a-b81c-4cf0-ae6f-aef4fab91197",
+    "created_at": "2025-04-13T02:17:42.427Z",
+    "backupTimestamp": "2025-04-13T02:17:42.427Z",
+    "localBackupTimestamp": "2025-04-12T20:17:42.427Z"
+  },
+  {
+    "question": "What is the name of the storyline where Jean Grey becomes Dark Phoenix?",
+    "correct_answer": "The Dark Phoenix Saga",
+    "incorrect_answers": [
+      "The Phoenix Saga",
+      "Inferno",
+      "Mutant Massacre",
+      "Fall of the Mutants",
+      "X-Tinction Agenda",
+      "Fatal Attractions",
+      "Onslaught Saga"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Comics",
+    "difficulty": "hard",
+    "id": "1f58ccdc-cd13-4904-8037-e1d401c9f8a8",
+    "created_at": "2025-04-13T02:17:42.431Z",
+    "backupTimestamp": "2025-04-13T02:17:42.431Z",
+    "localBackupTimestamp": "2025-04-12T20:17:42.431Z"
+  },
+  {
+    "question": "Which Canadian superhero team was Wolverine originally a part of before joining the X-Men?",
+    "correct_answer": "Alpha Flight",
+    "incorrect_answers": [
+      "Department H",
+      "The Invaders",
+      "Excalibur",
+      "Omega Flight",
+      "Beta Flight",
+      "Gamma Flight",
+      "X-Force"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Comics",
+    "difficulty": "hard",
+    "id": "99ce005b-58ff-4499-ae75-ff491e3e6c93",
+    "created_at": "2025-04-13T02:17:42.436Z",
+    "backupTimestamp": "2025-04-13T02:17:42.436Z",
+    "localBackupTimestamp": "2025-04-12T20:17:42.436Z"
+  },
+  {
+    "question": "What is the name of the intelligent, talking chimpanzee who is often associated with the Flash?",
+    "correct_answer": "Detective Chimp (Bobo T. Chimpanzee)",
+    "incorrect_answers": [
+      "Gorilla Grodd",
+      "Solovar",
+      "Monsieur Mallah",
+      "Titano the Super-Ape",
+      "Ultra-Humanite (in ape body)",
+      "Jackanapes",
+      "Hit-Monkey (Marvel)"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Comics",
+    "difficulty": "hard",
+    "id": "0a40a7fa-da54-4360-b084-55e2d57edbad",
+    "created_at": "2025-04-13T02:17:42.440Z",
+    "backupTimestamp": "2025-04-13T02:17:42.440Z",
+    "localBackupTimestamp": "2025-04-12T20:17:42.440Z"
+  },
+  {
+    "question": "Which writer/artist created 'The Maxx' for Image Comics?",
+    "correct_answer": "Sam Kieth",
+    "incorrect_answers": [
+      "Todd McFarlane",
+      "Rob Liefeld",
+      "Jim Lee",
+      "Erik Larsen",
+      "Marc Silvestri",
+      "Dale Keown",
+      "Jim Valentino"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Comics",
+    "difficulty": "hard",
+    "id": "f96c5393-8de4-4ecb-82c6-01d7832a3a34",
+    "created_at": "2025-04-13T02:17:42.444Z",
+    "backupTimestamp": "2025-04-13T02:17:42.444Z",
+    "localBackupTimestamp": "2025-04-12T20:17:42.444Z"
+  },
+  {
+    "question": "What is the real name of the Marvel villain known as Apocalypse?",
+    "correct_answer": "En Sabah Nur",
+    "incorrect_answers": [
+      "Nathaniel Essex",
+      "Cain Marko",
+      "Victor Von Doom",
+      "Ozymandias",
+      "Max Eisenhardt",
+      "Bolivar Trask",
+      "Sebastian Shaw"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Comics",
+    "difficulty": "hard",
+    "id": "d0acda1e-8a85-4980-8606-724b4d13a644",
+    "created_at": "2025-04-13T02:17:42.448Z",
+    "backupTimestamp": "2025-04-13T02:17:42.449Z",
+    "localBackupTimestamp": "2025-04-12T20:17:42.449Z"
+  },
+  {
+    "question": "Which Dark Horse comic series features a team of super-powered individuals fighting Nazis during World War II?",
+    "correct_answer": "Hellboy / B.P.R.D.",
+    "incorrect_answers": [
+      "Sin City",
+      "The Umbrella Academy",
+      "Black Hammer",
+      "Fear Agent",
+      "Concrete",
+      "Usagi Yojimbo",
+      "Groo the Wanderer"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Comics",
+    "difficulty": "hard",
+    "id": "2c8d020b-52c8-46ed-9dc4-60d627c1368f",
+    "created_at": "2025-04-13T02:17:42.452Z",
+    "backupTimestamp": "2025-04-13T02:17:42.452Z",
+    "localBackupTimestamp": "2025-04-12T20:17:42.452Z"
+  },
+  {
+    "question": "What is the name of the powerful telepath who founded the original X-Men?",
+    "correct_answer": "Professor Charles Xavier (Professor X)",
+    "incorrect_answers": [
+      "Jean Grey (Marvel Girl)",
+      "Emma Frost (White Queen)",
+      "Psylocke (Betsy Braddock)",
+      "Shadow King (Amahl Farouk)",
+      "Mastermind (Jason Wyngarde)",
+      "Legion (David Haller)",
+      "Moira MacTaggert"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Comics",
+    "difficulty": "hard",
+    "id": "0fd6dac4-0e28-466b-bcbc-44cc490d83cd",
+    "created_at": "2025-04-13T02:17:42.456Z",
+    "backupTimestamp": "2025-04-13T02:17:42.457Z",
+    "localBackupTimestamp": "2025-04-12T20:17:42.457Z"
+  },
+  {
+    "question": "Which graphic novel by Daniel Clowes follows the lives of two cynical teenage girls, Enid and Rebecca?",
+    "correct_answer": "Ghost World",
+    "incorrect_answers": [
+      "Persepolis",
+      "Fun Home",
+      "Blankets",
+      "Black Hole",
+      "Jimmy Corrigan, the Smartest Kid on Earth",
+      "Patience",
+      "Wilson"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Comics",
+    "difficulty": "hard",
+    "id": "2a84afd4-1ba7-484c-9bf4-578afe815836",
+    "created_at": "2025-04-13T02:17:42.461Z",
+    "backupTimestamp": "2025-04-13T02:17:42.461Z",
+    "localBackupTimestamp": "2025-04-12T20:17:42.461Z"
+  },
+  {
+    "question": "What is the name of the process that grants the Inhumans their powers?",
+    "correct_answer": "Terrigenesis",
+    "incorrect_answers": [
+      "X-Gene Activation",
+      "Gamma Exposure",
+      "Cosmic Radiation",
+      "Super Soldier Serum",
+      "Nth Metal Exposure",
+      "Chemical Accident",
+      "Magic Infusion"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Comics",
+    "difficulty": "hard",
+    "id": "9b337ba8-5b04-4b55-92e1-96c1703a3e62",
+    "created_at": "2025-04-13T02:17:42.465Z",
+    "backupTimestamp": "2025-04-13T02:17:42.465Z",
+    "localBackupTimestamp": "2025-04-12T20:17:42.465Z"
+  },
+  {
+    "question": "Which DC Comics character is an immortal caveman cursed to walk the Earth forever?",
+    "correct_answer": "Vandal Savage",
+    "incorrect_answers": [
+      "Ra's al Ghul",
+      "Solomon Grundy",
+      "The Phantom Stranger",
+      "Resurrection Man",
+      "Anthro",
+      "Immortal Man",
+      "Black Adam"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Comics",
+    "difficulty": "hard",
+    "id": "68b978eb-db6e-41b3-a2dd-dbf8c62b5ad3",
+    "created_at": "2025-04-13T02:17:42.470Z",
+    "backupTimestamp": "2025-04-13T02:17:42.470Z",
+    "localBackupTimestamp": "2025-04-12T20:17:42.470Z"
+  },
+  {
+    "question": "Which artist, known for his highly detailed and realistic style, painted the covers for the 'Sandman' series?",
+    "correct_answer": "Dave McKean",
+    "incorrect_answers": [
+      "Alex Ross",
+      "Bill Sienkiewicz",
+      "Mike Dringenberg",
+      "Sam Kieth",
+      "P. Craig Russell",
+      "Jill Thompson",
+      "Charles Vess"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Comics",
+    "difficulty": "hard",
+    "id": "a8cd4162-d229-483b-a293-6d8bcb43f763",
+    "created_at": "2025-04-13T02:17:42.474Z",
+    "backupTimestamp": "2025-04-13T02:17:42.474Z",
+    "localBackupTimestamp": "2025-04-12T20:17:42.474Z"
+  },
+  {
+    "question": "What is the title of Art Spiegelman's Pulitzer Prize-winning graphic novel about his father's experiences during the Holocaust?",
+    "correct_answer": "Maus",
+    "incorrect_answers": [
+      "Persepolis",
+      "Palestine",
+      "Barefoot Gen",
+      "Safe Area Goražde",
+      "From Hell",
+      "Watchmen",
+      "Fun Home"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Comics",
+    "difficulty": "hard",
+    "id": "f0a68fb9-1fe6-414c-ae6d-c434e6c33be8",
+    "created_at": "2025-04-13T02:17:42.478Z",
+    "backupTimestamp": "2025-04-13T02:17:42.478Z",
+    "localBackupTimestamp": "2025-04-12T20:17:42.478Z"
+  },
+  {
+    "question": "Which Marvel Comics character is known as the 'Living Monolith'?",
+    "correct_answer": "Ahmet Abdol",
+    "incorrect_answers": [
+      "Apocalypse",
+      "Juggernaut",
+      "Exodus",
+      "Mister Sinister",
+      "High Evolutionary",
+      "Terrax the Tamer",
+      "The Sphinx"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Comics",
+    "difficulty": "hard",
+    "id": "7a469f96-a098-44bd-a7b6-4249fc3dff1f",
+    "created_at": "2025-04-13T02:17:42.482Z",
+    "backupTimestamp": "2025-04-13T02:17:42.483Z",
+    "localBackupTimestamp": "2025-04-12T20:17:42.483Z"
+  },
+  {
+    "question": "What is the name of the DC storyline where Hal Jordan becomes the villain Parallax?",
+    "correct_answer": "Emerald Twilight",
+    "incorrect_answers": [
+      "Zero Hour: Crisis in Time",
+      "Blackest Night",
+      "Sinestro Corps War",
+      "Rebirth",
+      "Green Lantern: Secret Origin",
+      "War of the Green Lanterns",
+      "Final Night"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Comics",
+    "difficulty": "hard",
+    "id": "246f4b1b-a7d0-45dd-b51f-881fec504c69",
+    "created_at": "2025-04-13T02:17:42.490Z",
+    "backupTimestamp": "2025-04-13T02:17:42.491Z",
+    "localBackupTimestamp": "2025-04-12T20:17:42.491Z"
+  },
+  {
+    "question": "Which comic book character, created by Steve Gerber, is a talking duck trapped in a world he never made?",
+    "correct_answer": "Howard the Duck",
+    "incorrect_answers": [
+      "Donald Duck",
+      "Darkwing Duck",
+      "Duck Dodgers",
+      "Plucky Duck",
+      "Count Duckula",
+      "Captain Carrot",
+      "Rocket Raccoon"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Comics",
+    "difficulty": "hard",
+    "id": "9f7c6436-b34d-4011-9a33-2ae51ba9ae4a",
+    "created_at": "2025-04-13T02:17:42.495Z",
+    "backupTimestamp": "2025-04-13T02:17:42.496Z",
+    "localBackupTimestamp": "2025-04-12T20:17:42.496Z"
+  },
+  {
+    "question": "What is the name of the cosmic entity that judges civilizations, often associated with the Fantastic Four?",
+    "correct_answer": "The Celestials",
+    "incorrect_answers": [
+      "Galactus",
+      "The Watchers",
+      "Eternity",
+      "The Beyonder",
+      "Living Tribunal",
+      "In-Betweener",
+      "Death"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Comics",
+    "difficulty": "hard",
+    "id": "9d73ad60-8877-4a3c-bfda-e579af117e74",
+    "created_at": "2025-04-13T02:17:42.501Z",
+    "backupTimestamp": "2025-04-13T02:17:42.501Z",
+    "localBackupTimestamp": "2025-04-12T20:17:42.501Z"
+  },
+  {
+    "question": "Which artist is known for his unique, angular art style on 'Hellboy' and 'Batman: The Long Halloween'?",
+    "correct_answer": "Tim Sale",
+    "incorrect_answers": [
+      "Mike Mignola",
+      "Jim Lee",
+      "Frank Miller",
+      "David Mazzucchelli",
+      "Alex Ross",
+      "Jae Lee",
+      "Ashley Wood"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Comics",
+    "difficulty": "hard",
+    "id": "d8f94f4d-6c18-426f-8225-f6332d60c649",
+    "created_at": "2025-04-13T02:17:42.505Z",
+    "backupTimestamp": "2025-04-13T02:17:42.506Z",
+    "localBackupTimestamp": "2025-04-12T20:17:42.506Z"
+  },
+  {
+    "question": "What Marvel team consists of heroes who typically operate at the street level in New York City, originally including Daredevil, Luke Cage, Iron Fist, and Jessica Jones?",
+    "correct_answer": "The Defenders",
+    "incorrect_answers": [
+      "The Avengers",
+      "Heroes for Hire",
+      "Marvel Knights",
+      "New Avengers",
+      "Thunderbolts",
+      "Champions",
+      "Secret Avengers"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Comics",
+    "difficulty": "hard",
+    "id": "de167e00-0e2b-4812-99a5-1c07586a0a62",
+    "created_at": "2025-04-13T02:17:42.509Z",
+    "backupTimestamp": "2025-04-13T02:17:42.510Z",
+    "localBackupTimestamp": "2025-04-12T20:17:42.510Z"
+  },
+  {
+    "question": "What is the main character's name in the manga and anime series 'One Piece'?",
+    "correct_answer": "Monkey D. Luffy",
+    "incorrect_answers": [
+      "Naruto Uzumaki",
+      "Son Goku",
+      "Ichigo Kurosaki",
+      "Eren Yeager",
+      "Edward Elric",
+      "Light Yagami",
+      "Gon Freecss"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Comics",
+    "difficulty": "hard",
+    "id": "d74362e9-11de-4587-980d-6dd4a960816c",
+    "created_at": "2025-04-13T02:17:42.514Z",
+    "backupTimestamp": "2025-04-13T02:17:42.514Z",
+    "localBackupTimestamp": "2025-04-12T20:17:42.514Z"
+  },
+  {
+    "question": "Which 1980s DC crossover event featured the Anti-Monitor as the main villain and resulted in the deaths of Barry Allen and Supergirl?",
+    "correct_answer": "Crisis on Infinite Earths",
+    "incorrect_answers": [
+      "Legends",
+      "Millennium",
+      "Invasion!",
+      "Zero Hour: Crisis in Time",
+      "Infinite Crisis",
+      "Final Crisis",
+      "Armageddon 2001"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Comics",
+    "difficulty": "hard",
+    "id": "6b54d96d-f862-4b63-bae2-fa96168b1408",
+    "created_at": "2025-04-13T02:17:42.519Z",
+    "backupTimestamp": "2025-04-13T02:17:42.519Z",
+    "localBackupTimestamp": "2025-04-12T20:17:42.519Z"
+  },
+  {
+    "question": "What is the power source for the Crimson Gem of Cyttorak, which empowers the Juggernaut?",
+    "correct_answer": "Cyttorak (Mystical Entity)",
+    "incorrect_answers": [
+      "Gamma Radiation",
+      "Mutant Gene",
+      "Celestial Technology",
+      "Darkforce Dimension",
+      "The Odinforce",
+      "The Phoenix Force",
+      "Asgardian Magic"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Comics",
+    "difficulty": "hard",
+    "id": "80bd705f-6700-40ea-b2df-25d7f5249f85",
+    "created_at": "2025-04-13T02:17:42.524Z",
+    "backupTimestamp": "2025-04-13T02:17:42.524Z",
+    "localBackupTimestamp": "2025-04-12T20:17:42.524Z"
   }
 ]
