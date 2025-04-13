@@ -1,0 +1,3162 @@
+[
+  {
+    "question": "What is the process by which plants make their own food using sunlight?",
+    "correct_answer": "Photosynthesis",
+    "incorrect_answers": [
+      "Respiration",
+      "Transpiration",
+      "Fermentation",
+      "Pollination",
+      "Germination",
+      "Decomposition",
+      "Osmosis"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Biology",
+    "difficulty": "easy",
+    "id": "1a1c1cac-7d3b-4eb8-8ea1-b16c4aacecb8",
+    "created_at": "2025-04-13T21:30:04.428Z",
+    "backupTimestamp": "2025-04-13T21:30:04.431Z",
+    "localBackupTimestamp": "2025-04-13T15:30:04.431Z"
+  },
+  {
+    "question": "What is the main control center of a typical animal cell?",
+    "correct_answer": "Nucleus",
+    "incorrect_answers": [
+      "Mitochondrion",
+      "Ribosome",
+      "Cell membrane",
+      "Cytoplasm",
+      "Vacuole",
+      "Chloroplast",
+      "Cell wall"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Biology",
+    "difficulty": "easy",
+    "id": "29a42597-0669-4347-a289-f01ce783ae48",
+    "created_at": "2025-04-13T21:30:04.433Z",
+    "backupTimestamp": "2025-04-13T21:30:04.434Z",
+    "localBackupTimestamp": "2025-04-13T15:30:04.434Z"
+  },
+  {
+    "question": "Which organ system is responsible for pumping blood throughout the body?",
+    "correct_answer": "Circulatory System",
+    "incorrect_answers": [
+      "Respiratory System",
+      "Digestive System",
+      "Nervous System",
+      "Skeletal System",
+      "Muscular System",
+      "Endocrine System",
+      "Immune System"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Biology",
+    "difficulty": "easy",
+    "id": "c72300ed-4ce4-465b-b72a-a2eadb094187",
+    "created_at": "2025-04-13T21:30:04.435Z",
+    "backupTimestamp": "2025-04-13T21:30:04.436Z",
+    "localBackupTimestamp": "2025-04-13T15:30:04.436Z"
+  },
+  {
+    "question": "What molecule carries the genetic instructions for the development, functioning, growth and reproduction of all known organisms?",
+    "correct_answer": "DNA",
+    "incorrect_answers": [
+      "RNA",
+      "ATP",
+      "Protein",
+      "Lipid",
+      "Carbohydrate",
+      "Amino Acid",
+      "Enzyme"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Biology",
+    "difficulty": "easy",
+    "id": "8564679d-e770-4e81-83a3-a8c902a1b27c",
+    "created_at": "2025-04-13T21:30:04.442Z",
+    "backupTimestamp": "2025-04-13T21:30:04.443Z",
+    "localBackupTimestamp": "2025-04-13T15:30:04.443Z"
+  },
+  {
+    "question": "What part of a plant absorbs water and nutrients from the soil?",
+    "correct_answer": "Roots",
+    "incorrect_answers": [
+      "Leaves",
+      "Stem",
+      "Flower",
+      "Fruit",
+      "Seeds",
+      "Petals",
+      "Pollen"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Biology",
+    "difficulty": "easy",
+    "id": "ae2f502f-5fd9-476f-b954-a63ad7c9df37",
+    "created_at": "2025-04-13T21:30:04.445Z",
+    "backupTimestamp": "2025-04-13T21:30:04.446Z",
+    "localBackupTimestamp": "2025-04-13T15:30:04.446Z"
+  },
+  {
+    "question": "What class of animals are characterized by having fur or hair and feeding milk to their young?",
+    "correct_answer": "Mammals",
+    "incorrect_answers": [
+      "Reptiles",
+      "Amphibians",
+      "Birds",
+      "Fish",
+      "Insects",
+      "Arachnids",
+      "Crustaceans"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Biology",
+    "difficulty": "easy",
+    "id": "3654b24a-d4d3-4b63-a9ab-ecf1ac6fd3dc",
+    "created_at": "2025-04-13T21:30:04.447Z",
+    "backupTimestamp": "2025-04-13T21:30:04.448Z",
+    "localBackupTimestamp": "2025-04-13T15:30:04.448Z"
+  },
+  {
+    "question": "What gas do humans primarily breathe in to live?",
+    "correct_answer": "Oxygen",
+    "incorrect_answers": [
+      "Carbon Dioxide",
+      "Nitrogen",
+      "Hydrogen",
+      "Helium",
+      "Methane",
+      "Argon",
+      "Ozone"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Biology",
+    "difficulty": "easy",
+    "id": "f3fff1ea-ffe7-454e-ba70-2a781d009a6d",
+    "created_at": "2025-04-13T21:30:04.449Z",
+    "backupTimestamp": "2025-04-13T21:30:04.450Z",
+    "localBackupTimestamp": "2025-04-13T15:30:04.450Z"
+  },
+  {
+    "question": "What is the common name for the larva stage of a butterfly or moth?",
+    "correct_answer": "Caterpillar",
+    "incorrect_answers": [
+      "Pupa",
+      "Chrysalis",
+      "Tadpole",
+      "Maggot",
+      "Nymph",
+      "Grub",
+      "Cocoon"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Biology",
+    "difficulty": "easy",
+    "id": "fa0eebb8-54ee-45e6-8aa3-6fb172ed6cb5",
+    "created_at": "2025-04-13T21:30:04.451Z",
+    "backupTimestamp": "2025-04-13T21:30:04.451Z",
+    "localBackupTimestamp": "2025-04-13T15:30:04.451Z"
+  },
+  {
+    "question": "Which of the five senses allows us to perceive flavors?",
+    "correct_answer": "Taste",
+    "incorrect_answers": [
+      "Sight",
+      "Smell",
+      "Hearing",
+      "Touch",
+      "Balance",
+      "Proprioception",
+      "Intuition"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Biology",
+    "difficulty": "easy",
+    "id": "73f051e9-2f85-48f9-a726-e26b2d2424d2",
+    "created_at": "2025-04-13T21:30:04.452Z",
+    "backupTimestamp": "2025-04-13T21:30:04.453Z",
+    "localBackupTimestamp": "2025-04-13T15:30:04.453Z"
+  },
+  {
+    "question": "What structure provides support and shape to the human body?",
+    "correct_answer": "Skeleton",
+    "incorrect_answers": [
+      "Muscles",
+      "Skin",
+      "Nerves",
+      "Blood vessels",
+      "Organs",
+      "Cartilage",
+      "Ligaments"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Biology",
+    "difficulty": "easy",
+    "id": "cbb1c084-bcc2-4c65-bc39-7724132c2011",
+    "created_at": "2025-04-13T21:30:04.454Z",
+    "backupTimestamp": "2025-04-13T21:30:04.455Z",
+    "localBackupTimestamp": "2025-04-13T15:30:04.455Z"
+  },
+  {
+    "question": "What is the process by which organisms produce offspring?",
+    "correct_answer": "Reproduction",
+    "incorrect_answers": [
+      "Metabolism",
+      "Growth",
+      "Respiration",
+      "Digestion",
+      "Excretion",
+      "Adaptation",
+      "Evolution"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Biology",
+    "difficulty": "easy",
+    "id": "f4ef69a7-00a5-46f8-a69a-b31ac40fb102",
+    "created_at": "2025-04-13T21:30:04.455Z",
+    "backupTimestamp": "2025-04-13T21:30:04.456Z",
+    "localBackupTimestamp": "2025-04-13T15:30:04.456Z"
+  },
+  {
+    "question": "Which organ in the human body is primarily responsible for thinking and controlling actions?",
+    "correct_answer": "Brain",
+    "incorrect_answers": [
+      "Heart",
+      "Lungs",
+      "Liver",
+      "Stomach",
+      "Kidneys",
+      "Spinal Cord",
+      "Spleen"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Biology",
+    "difficulty": "easy",
+    "id": "a769ffed-e132-4021-a395-3fd0c97299a9",
+    "created_at": "2025-04-13T21:30:04.457Z",
+    "backupTimestamp": "2025-04-13T21:30:04.457Z",
+    "localBackupTimestamp": "2025-04-13T15:30:04.457Z"
+  },
+  {
+    "question": "What is the natural home or environment of an animal, plant, or other organism called?",
+    "correct_answer": "Habitat",
+    "incorrect_answers": [
+      "Ecosystem",
+      "Biome",
+      "Niche",
+      "Community",
+      "Population",
+      "Territory",
+      "Range"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Biology",
+    "difficulty": "easy",
+    "id": "c7ec0efc-3005-4371-81f8-b7088bdf23b4",
+    "created_at": "2025-04-13T21:30:04.458Z",
+    "backupTimestamp": "2025-04-13T21:30:04.459Z",
+    "localBackupTimestamp": "2025-04-13T15:30:04.459Z"
+  },
+  {
+    "question": "What structure encloses and protects a plant seed?",
+    "correct_answer": "Fruit",
+    "incorrect_answers": [
+      "Flower",
+      "Leaf",
+      "Stem",
+      "Root",
+      "Pollen",
+      "Nectar",
+      "Seed coat"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Biology",
+    "difficulty": "easy",
+    "id": "71016789-9be7-4e65-9ee5-611bc971efcd",
+    "created_at": "2025-04-13T21:30:04.460Z",
+    "backupTimestamp": "2025-04-13T21:30:04.460Z",
+    "localBackupTimestamp": "2025-04-13T15:30:04.460Z"
+  },
+  {
+    "question": "Which type of organism breaks down dead plants and animals?",
+    "correct_answer": "Decomposer",
+    "incorrect_answers": [
+      "Producer",
+      "Consumer",
+      "Herbivore",
+      "Carnivore",
+      "Omnivore",
+      "Predator",
+      "Parasite"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Biology",
+    "difficulty": "easy",
+    "id": "93d8ecff-08dd-4147-853d-b5787a304283",
+    "created_at": "2025-04-13T21:30:04.461Z",
+    "backupTimestamp": "2025-04-13T21:30:04.462Z",
+    "localBackupTimestamp": "2025-04-13T15:30:04.462Z"
+  },
+  {
+    "question": "What are the small units that make up all living things?",
+    "correct_answer": "Cells",
+    "incorrect_answers": [
+      "Atoms",
+      "Molecules",
+      "Tissues",
+      "Organs",
+      "Systems",
+      "Organisms",
+      "Genes"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Biology",
+    "difficulty": "easy",
+    "id": "58419f2a-61d3-4ac0-959d-b20fccc186c3",
+    "created_at": "2025-04-13T21:30:04.463Z",
+    "backupTimestamp": "2025-04-13T21:30:04.463Z",
+    "localBackupTimestamp": "2025-04-13T15:30:04.463Z"
+  },
+  {
+    "question": "What part of a flower typically attracts pollinators with its bright colors?",
+    "correct_answer": "Petals",
+    "incorrect_answers": [
+      "Sepals",
+      "Stamen",
+      "Pistil",
+      "Ovule",
+      "Nectar",
+      "Pollen",
+      "Stem"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Biology",
+    "difficulty": "easy",
+    "id": "58b1d153-69de-4fdc-86ce-983e335f0ffb",
+    "created_at": "2025-04-13T21:30:04.464Z",
+    "backupTimestamp": "2025-04-13T21:30:04.464Z",
+    "localBackupTimestamp": "2025-04-13T15:30:04.464Z"
+  },
+  {
+    "question": "What is the process of change over time that leads to new species?",
+    "correct_answer": "Evolution",
+    "incorrect_answers": [
+      "Adaptation",
+      "Mutation",
+      "Metamorphosis",
+      "Reproduction",
+      "Growth",
+      "Development",
+      "Photosynthesis"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Biology",
+    "difficulty": "easy",
+    "id": "6c663ce1-646a-4116-bab1-f69d04e1ece7",
+    "created_at": "2025-04-13T21:30:04.465Z",
+    "backupTimestamp": "2025-04-13T21:30:04.465Z",
+    "localBackupTimestamp": "2025-04-13T15:30:04.465Z"
+  },
+  {
+    "question": "Which body system is responsible for breaking down food?",
+    "correct_answer": "Digestive System",
+    "incorrect_answers": [
+      "Circulatory System",
+      "Respiratory System",
+      "Nervous System",
+      "Excretory System",
+      "Skeletal System",
+      "Muscular System",
+      "Immune System"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Biology",
+    "difficulty": "easy",
+    "id": "10cfe23a-2401-4d14-95d2-19594c72d5b7",
+    "created_at": "2025-04-13T21:30:04.466Z",
+    "backupTimestamp": "2025-04-13T21:30:04.467Z",
+    "localBackupTimestamp": "2025-04-13T15:30:04.467Z"
+  },
+  {
+    "question": "What is the green pigment found in plant leaves that absorbs sunlight?",
+    "correct_answer": "Chlorophyll",
+    "incorrect_answers": [
+      "Carotene",
+      "Xanthophyll",
+      "Hemoglobin",
+      "Melanin",
+      "Anthocyanin",
+      "Lycopene",
+      "Bilirubin"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Biology",
+    "difficulty": "easy",
+    "id": "f7a751d6-65f8-4331-b234-43b1ef8908cb",
+    "created_at": "2025-04-13T21:30:04.467Z",
+    "backupTimestamp": "2025-04-13T21:30:04.468Z",
+    "localBackupTimestamp": "2025-04-13T15:30:04.468Z"
+  },
+  {
+    "question": "What are animals that primarily eat plants called?",
+    "correct_answer": "Herbivores",
+    "incorrect_answers": [
+      "Carnivores",
+      "Omnivores",
+      "Insectivores",
+      "Piscivores",
+      "Frugivores",
+      "Detritivores",
+      "Predators"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Biology",
+    "difficulty": "easy",
+    "id": "0ed4fdb7-51a5-4743-8071-5b078346c57f",
+    "created_at": "2025-04-13T21:30:04.468Z",
+    "backupTimestamp": "2025-04-13T21:30:04.469Z",
+    "localBackupTimestamp": "2025-04-13T15:30:04.469Z"
+  },
+  {
+    "question": "What is the hard outer covering of an insect called?",
+    "correct_answer": "Exoskeleton",
+    "incorrect_answers": [
+      "Endoskeleton",
+      "Skin",
+      "Shell",
+      "Cuticle",
+      "Carapace",
+      "Hide",
+      "Pelt"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Biology",
+    "difficulty": "easy",
+    "id": "d64fc6f9-60a1-434c-b807-8a26566c4867",
+    "created_at": "2025-04-13T21:30:04.469Z",
+    "backupTimestamp": "2025-04-13T21:30:04.470Z",
+    "localBackupTimestamp": "2025-04-13T15:30:04.470Z"
+  },
+  {
+    "question": "What is the primary function of the lungs?",
+    "correct_answer": "Gas exchange (breathing)",
+    "incorrect_answers": [
+      "Pumping blood",
+      "Filtering waste",
+      "Digesting food",
+      "Producing hormones",
+      "Storing energy",
+      "Fighting infection",
+      "Moving the body"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Biology",
+    "difficulty": "easy",
+    "id": "0712c8f2-a707-4098-8ddf-208366572844",
+    "created_at": "2025-04-13T21:30:04.470Z",
+    "backupTimestamp": "2025-04-13T21:30:04.471Z",
+    "localBackupTimestamp": "2025-04-13T15:30:04.471Z"
+  },
+  {
+    "question": "What is the stage in an insect's life cycle between larva and adult, often involving a casing?",
+    "correct_answer": "Pupa",
+    "incorrect_answers": [
+      "Egg",
+      "Larva",
+      "Nymph",
+      "Adult",
+      "Chrysalis",
+      "Cocoon",
+      "Imago"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Biology",
+    "difficulty": "easy",
+    "id": "bd693dc4-454b-43e1-a142-73ffbbe08815",
+    "created_at": "2025-04-13T21:30:04.472Z",
+    "backupTimestamp": "2025-04-13T21:30:04.472Z",
+    "localBackupTimestamp": "2025-04-13T15:30:04.472Z"
+  },
+  {
+    "question": "What is the process where water vapor is released from plant leaves?",
+    "correct_answer": "Transpiration",
+    "incorrect_answers": [
+      "Photosynthesis",
+      "Respiration",
+      "Evaporation",
+      "Condensation",
+      "Precipitation",
+      "Osmosis",
+      "Absorption"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Biology",
+    "difficulty": "easy",
+    "id": "4ca1764b-719c-4255-a679-e19ab475d20e",
+    "created_at": "2025-04-13T21:30:04.473Z",
+    "backupTimestamp": "2025-04-13T21:30:04.474Z",
+    "localBackupTimestamp": "2025-04-13T15:30:04.474Z"
+  },
+  {
+    "question": "Which type of blood cell is primarily responsible for carrying oxygen?",
+    "correct_answer": "Red blood cell",
+    "incorrect_answers": [
+      "White blood cell",
+      "Platelet",
+      "Plasma",
+      "Lymphocyte",
+      "Neutrophil",
+      "Macrophage",
+      "Stem cell"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Biology",
+    "difficulty": "easy",
+    "id": "28ebb730-6a23-4fcf-993b-1dbed233f150",
+    "created_at": "2025-04-13T21:30:04.475Z",
+    "backupTimestamp": "2025-04-13T21:30:04.476Z",
+    "localBackupTimestamp": "2025-04-13T15:30:04.476Z"
+  },
+  {
+    "question": "What term describes a living thing, such as a plant or animal?",
+    "correct_answer": "Organism",
+    "incorrect_answers": [
+      "Molecule",
+      "Cell",
+      "Tissue",
+      "Organ",
+      "System",
+      "Species",
+      "Ecosystem"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Biology",
+    "difficulty": "easy",
+    "id": "fa0aed0b-c8c5-4d55-b1cc-436e7071cd1d",
+    "created_at": "2025-04-13T21:30:04.477Z",
+    "backupTimestamp": "2025-04-13T21:30:04.477Z",
+    "localBackupTimestamp": "2025-04-13T15:30:04.477Z"
+  },
+  {
+    "question": "What are the bones that protect the brain called?",
+    "correct_answer": "Skull",
+    "incorrect_answers": [
+      "Rib cage",
+      "Spine",
+      "Pelvis",
+      "Femur",
+      "Vertebrae",
+      "Sternum",
+      "Clavicle"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Biology",
+    "difficulty": "easy",
+    "id": "224c6f3f-be7e-45f3-a33f-3f751db133a2",
+    "created_at": "2025-04-13T21:30:04.478Z",
+    "backupTimestamp": "2025-04-13T21:30:04.478Z",
+    "localBackupTimestamp": "2025-04-13T15:30:04.478Z"
+  },
+  {
+    "question": "What is the common term for the scientific study of plants?",
+    "correct_answer": "Botany",
+    "incorrect_answers": [
+      "Zoology",
+      "Ecology",
+      "Genetics",
+      "Microbiology",
+      "Anatomy",
+      "Physiology",
+      "Mycology"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Biology",
+    "difficulty": "easy",
+    "id": "3a92b9c8-beff-4671-803b-92d21ad1b6e8",
+    "created_at": "2025-04-13T21:30:04.479Z",
+    "backupTimestamp": "2025-04-13T21:30:04.479Z",
+    "localBackupTimestamp": "2025-04-13T15:30:04.479Z"
+  },
+  {
+    "question": "What is the name for the collective group of bones in the body?",
+    "correct_answer": "Skeleton",
+    "incorrect_answers": [
+      "Muscular System",
+      "Nervous System",
+      "Framework",
+      "Chassis",
+      "Endoskeleton",
+      "Exoskeleton",
+      "Marrow"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Biology",
+    "difficulty": "easy",
+    "id": "e39611ed-410c-4d03-9f89-9c10ed31a3df",
+    "created_at": "2025-04-13T21:30:04.480Z",
+    "backupTimestamp": "2025-04-13T21:30:04.480Z",
+    "localBackupTimestamp": "2025-04-13T15:30:04.480Z"
+  },
+  {
+    "question": "What sense helps us detect sound waves?",
+    "correct_answer": "Hearing",
+    "incorrect_answers": [
+      "Sight",
+      "Smell",
+      "Taste",
+      "Touch",
+      "Echolocation",
+      "Vibration Sense",
+      "Telepathy"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Biology",
+    "difficulty": "easy",
+    "id": "ea246bd9-cef2-4bc0-82b6-af81999215b8",
+    "created_at": "2025-04-13T21:30:04.481Z",
+    "backupTimestamp": "2025-04-13T21:30:04.481Z",
+    "localBackupTimestamp": "2025-04-13T15:30:04.481Z"
+  },
+  {
+    "question": "What are the structures in flowers that produce pollen?",
+    "correct_answer": "Stamen",
+    "incorrect_answers": [
+      "Pistil",
+      "Petal",
+      "Sepal",
+      "Ovule",
+      "Style",
+      "Stigma",
+      "Anther"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Biology",
+    "difficulty": "easy",
+    "id": "5d338b2d-5035-456c-975a-d5a0927c0e5f",
+    "created_at": "2025-04-13T21:30:04.482Z",
+    "backupTimestamp": "2025-04-13T21:30:04.482Z",
+    "localBackupTimestamp": "2025-04-13T15:30:04.482Z"
+  },
+  {
+    "question": "What type of organism obtains nutrients by feeding on other living things?",
+    "correct_answer": "Consumer",
+    "incorrect_answers": [
+      "Producer",
+      "Decomposer",
+      "Autotroph",
+      "Chemotroph",
+      "Saprotroph",
+      "Lithotroph",
+      "Phototroph"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Biology",
+    "difficulty": "easy",
+    "id": "b44ee1ac-5df8-489a-b937-504e44875381",
+    "created_at": "2025-04-13T21:30:04.483Z",
+    "backupTimestamp": "2025-04-13T21:30:04.483Z",
+    "localBackupTimestamp": "2025-04-13T15:30:04.483Z"
+  },
+  {
+    "question": "What is the human body's largest organ?",
+    "correct_answer": "Skin",
+    "incorrect_answers": [
+      "Liver",
+      "Brain",
+      "Lungs",
+      "Heart",
+      "Intestine",
+      "Kidney",
+      "Stomach"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Biology",
+    "difficulty": "easy",
+    "id": "7d29f83f-68f1-43c7-863c-a1f3075a4b2a",
+    "created_at": "2025-04-13T21:30:04.484Z",
+    "backupTimestamp": "2025-04-13T21:30:04.485Z",
+    "localBackupTimestamp": "2025-04-13T15:30:04.485Z"
+  },
+  {
+    "question": "What biological process involves the breakdown of glucose to release energy?",
+    "correct_answer": "Cellular Respiration",
+    "incorrect_answers": [
+      "Photosynthesis",
+      "Digestion",
+      "Fermentation",
+      "Transpiration",
+      "Metabolism",
+      "Catabolism",
+      "Anabolism"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Biology",
+    "difficulty": "easy",
+    "id": "7a9d3305-9184-49e4-aa30-3d54d38a55db",
+    "created_at": "2025-04-13T21:30:04.485Z",
+    "backupTimestamp": "2025-04-13T21:30:04.486Z",
+    "localBackupTimestamp": "2025-04-13T15:30:04.486Z"
+  },
+  {
+    "question": "What type of animal lacks a backbone?",
+    "correct_answer": "Invertebrate",
+    "incorrect_answers": [
+      "Vertebrate",
+      "Mammal",
+      "Reptile",
+      "Amphibian",
+      "Bird",
+      "Fish",
+      "Chordate"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Biology",
+    "difficulty": "easy",
+    "id": "46ca0338-711b-429a-8845-d5163a084333",
+    "created_at": "2025-04-13T21:30:04.486Z",
+    "backupTimestamp": "2025-04-13T21:30:04.486Z",
+    "localBackupTimestamp": "2025-04-13T15:30:04.486Z"
+  },
+  {
+    "question": "What is the name for the study of animals?",
+    "correct_answer": "Zoology",
+    "incorrect_answers": [
+      "Botany",
+      "Ecology",
+      "Genetics",
+      "Microbiology",
+      "Paleontology",
+      "Entomology",
+      "Ornithology"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Biology",
+    "difficulty": "easy",
+    "id": "afa57853-7e7e-4060-951f-0f101ae082ff",
+    "created_at": "2025-04-13T21:30:04.487Z",
+    "backupTimestamp": "2025-04-13T21:30:04.488Z",
+    "localBackupTimestamp": "2025-04-13T15:30:04.488Z"
+  },
+  {
+    "question": "What is the process where seeds start to grow into plants?",
+    "correct_answer": "Germination",
+    "incorrect_answers": [
+      "Pollination",
+      "Fertilization",
+      "Photosynthesis",
+      "Transpiration",
+      "Respiration",
+      "Sprouting",
+      "Budding"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Biology",
+    "difficulty": "easy",
+    "id": "f233db54-ed87-410c-921a-46014b258b0b",
+    "created_at": "2025-04-13T21:30:04.488Z",
+    "backupTimestamp": "2025-04-13T21:30:04.489Z",
+    "localBackupTimestamp": "2025-04-13T15:30:04.489Z"
+  },
+  {
+    "question": "Which system protects the body from diseases?",
+    "correct_answer": "Immune System",
+    "incorrect_answers": [
+      "Circulatory System",
+      "Nervous System",
+      "Integumentary System",
+      "Lymphatic System",
+      "Endocrine System",
+      "Respiratory System",
+      "Excretory System"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Biology",
+    "difficulty": "easy",
+    "id": "9a8d3f92-962e-4244-ad1b-91061eccbb31",
+    "created_at": "2025-04-13T21:30:04.490Z",
+    "backupTimestamp": "2025-04-13T21:30:04.490Z",
+    "localBackupTimestamp": "2025-04-13T15:30:04.490Z"
+  },
+  {
+    "question": "What is the basic unit of heredity passed from parent to offspring?",
+    "correct_answer": "Gene",
+    "incorrect_answers": [
+      "Chromosome",
+      "Allele",
+      "DNA",
+      "Nucleotide",
+      "Trait",
+      "Genotype",
+      "Phenotype"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Biology",
+    "difficulty": "easy",
+    "id": "a5ec0518-7453-4e1c-8819-5e67397a582e",
+    "created_at": "2025-04-13T21:30:04.491Z",
+    "backupTimestamp": "2025-04-13T21:30:04.491Z",
+    "localBackupTimestamp": "2025-04-13T15:30:04.491Z"
+  },
+  {
+    "question": "What are animals that hunt other animals for food called?",
+    "correct_answer": "Predators",
+    "incorrect_answers": [
+      "Prey",
+      "Herbivores",
+      "Omnivores",
+      "Scavengers",
+      "Parasites",
+      "Decomposers",
+      "Producers"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Biology",
+    "difficulty": "easy",
+    "id": "be5dff0f-81d2-43f0-b145-05d45b9d0664",
+    "created_at": "2025-04-13T21:30:04.492Z",
+    "backupTimestamp": "2025-04-13T21:30:04.492Z",
+    "localBackupTimestamp": "2025-04-13T15:30:04.492Z"
+  },
+  {
+    "question": "What substance produced by flowers attracts bees and other insects?",
+    "correct_answer": "Nectar",
+    "incorrect_answers": [
+      "Pollen",
+      "Sap",
+      "Water",
+      "Honey",
+      "Perfume",
+      "Resin",
+      "Oil"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Biology",
+    "difficulty": "easy",
+    "id": "0a86578b-6306-4747-8fd1-80233f2846af",
+    "created_at": "2025-04-13T21:30:04.494Z",
+    "backupTimestamp": "2025-04-13T21:30:04.494Z",
+    "localBackupTimestamp": "2025-04-13T15:30:04.494Z"
+  },
+  {
+    "question": "What term describes the variety of life in a particular habitat or ecosystem?",
+    "correct_answer": "Biodiversity",
+    "incorrect_answers": [
+      "Ecology",
+      "Community",
+      "Population",
+      "Biosphere",
+      "Biome",
+      "Habitat",
+      "Niche"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Biology",
+    "difficulty": "easy",
+    "id": "fbfe742d-0ec0-431c-992f-f3de3181482a",
+    "created_at": "2025-04-13T21:30:04.494Z",
+    "backupTimestamp": "2025-04-13T21:30:04.495Z",
+    "localBackupTimestamp": "2025-04-13T15:30:04.495Z"
+  },
+  {
+    "question": "What is the process of shedding an exoskeleton called?",
+    "correct_answer": "Molting",
+    "incorrect_answers": [
+      "Metamorphosis",
+      "Hibernation",
+      "Regeneration",
+      "Camouflage",
+      "Shedding",
+      "Peeling",
+      "Ecdysis"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Biology",
+    "difficulty": "easy",
+    "id": "f0a7185f-1868-4bc7-bd32-45193cb2bd57",
+    "created_at": "2025-04-13T21:30:04.495Z",
+    "backupTimestamp": "2025-04-13T21:30:04.496Z",
+    "localBackupTimestamp": "2025-04-13T15:30:04.496Z"
+  },
+  {
+    "question": "Which major group of organisms includes mushrooms and yeasts?",
+    "correct_answer": "Fungi",
+    "incorrect_answers": [
+      "Plants",
+      "Animals",
+      "Bacteria",
+      "Archaea",
+      "Protists",
+      "Algae",
+      "Lichens"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Biology",
+    "difficulty": "easy",
+    "id": "179c8a7a-bcf2-4580-b774-a62f62596ded",
+    "created_at": "2025-04-13T21:30:04.497Z",
+    "backupTimestamp": "2025-04-13T21:30:04.497Z",
+    "localBackupTimestamp": "2025-04-13T15:30:04.497Z"
+  },
+  {
+    "question": "What type of organism lives on or inside another organism (the host) and benefits by deriving nutrients at the host's expense?",
+    "correct_answer": "Parasite",
+    "incorrect_answers": [
+      "Predator",
+      "Symbiont",
+      "Mutualist",
+      "Commensal",
+      "Decomposer",
+      "Scavenger",
+      "Pathogen"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Biology",
+    "difficulty": "easy",
+    "id": "a8deff90-8ca4-4e22-808b-ab3a693b047e",
+    "created_at": "2025-04-13T21:30:04.498Z",
+    "backupTimestamp": "2025-04-13T21:30:04.498Z",
+    "localBackupTimestamp": "2025-04-13T15:30:04.498Z"
+  },
+  {
+    "question": "What is the tough, outer layer of a plant cell called?",
+    "correct_answer": "Cell wall",
+    "incorrect_answers": [
+      "Cell membrane",
+      "Cytoplasm",
+      "Nucleus",
+      "Vacuole",
+      "Chloroplast",
+      "Mitochondrion",
+      "Ribosome"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Biology",
+    "difficulty": "easy",
+    "id": "a88a241d-c348-482c-9f4d-a04c9f309101",
+    "created_at": "2025-04-13T21:30:04.499Z",
+    "backupTimestamp": "2025-04-13T21:30:04.499Z",
+    "localBackupTimestamp": "2025-04-13T15:30:04.499Z"
+  },
+  {
+    "question": "What kind of organism is a single-celled microorganism that lacks a nucleus?",
+    "correct_answer": "Bacterium",
+    "incorrect_answers": [
+      "Virus",
+      "Fungus",
+      "Protist",
+      "Alga",
+      "Amoeba",
+      "Yeast",
+      "Archaea"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Biology",
+    "difficulty": "easy",
+    "id": "eb76eb9f-eb4b-449e-ade4-2e23ed6a8b9a",
+    "created_at": "2025-04-13T21:30:04.500Z",
+    "backupTimestamp": "2025-04-13T21:30:04.500Z",
+    "localBackupTimestamp": "2025-04-13T15:30:04.500Z"
+  },
+  {
+    "question": "What part of the blood is responsible for clotting?",
+    "correct_answer": "Platelets",
+    "incorrect_answers": [
+      "Red blood cells",
+      "White blood cells",
+      "Plasma",
+      "Hemoglobin",
+      "Antibodies",
+      "Antigens",
+      "Fibrinogen"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Biology",
+    "difficulty": "easy",
+    "id": "6e3e9de8-28c8-422f-bacb-ecd7aa7dc1ea",
+    "created_at": "2025-04-13T21:30:04.501Z",
+    "backupTimestamp": "2025-04-13T21:30:04.501Z",
+    "localBackupTimestamp": "2025-04-13T15:30:04.501Z"
+  },
+  {
+    "question": "What organelle is known as the 'powerhouse' of the cell, generating most of its ATP?",
+    "correct_answer": "Mitochondrion",
+    "incorrect_answers": [
+      "Nucleus",
+      "Ribosome",
+      "Chloroplast",
+      "Endoplasmic Reticulum",
+      "Golgi Apparatus",
+      "Lysosome",
+      "Vacuole"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Biology",
+    "difficulty": "medium",
+    "id": "ff29dc9a-39ff-4cd2-a821-b1231739b9b6",
+    "created_at": "2025-04-13T21:30:04.502Z",
+    "backupTimestamp": "2025-04-13T21:30:04.502Z",
+    "localBackupTimestamp": "2025-04-13T15:30:04.502Z"
+  },
+  {
+    "question": "What is the process where a cell divides into two identical daughter cells?",
+    "correct_answer": "Mitosis",
+    "incorrect_answers": [
+      "Meiosis",
+      "Binary Fission",
+      "Budding",
+      "Cytokinesis",
+      "Interphase",
+      "Fertilization",
+      "Apoptosis"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Biology",
+    "difficulty": "medium",
+    "id": "de9cfbe6-9baf-49c3-859e-f21380ace00f",
+    "created_at": "2025-04-13T21:30:04.503Z",
+    "backupTimestamp": "2025-04-13T21:30:04.503Z",
+    "localBackupTimestamp": "2025-04-13T15:30:04.503Z"
+  },
+  {
+    "question": "What type of symbiosis benefits both organisms involved?",
+    "correct_answer": "Mutualism",
+    "incorrect_answers": [
+      "Commensalism",
+      "Parasitism",
+      "Predation",
+      "Competition",
+      "Amensalism",
+      "Neutralism",
+      "Allelopathy"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Biology",
+    "difficulty": "medium",
+    "id": "c4e557d5-764b-46aa-b523-5baaa90f1385",
+    "created_at": "2025-04-13T21:30:04.504Z",
+    "backupTimestamp": "2025-04-13T21:30:04.504Z",
+    "localBackupTimestamp": "2025-04-13T15:30:04.504Z"
+  },
+  {
+    "question": "What are the building blocks of proteins?",
+    "correct_answer": "Amino acids",
+    "incorrect_answers": [
+      "Nucleotides",
+      "Fatty acids",
+      "Monosaccharides",
+      "Glycerol",
+      "Vitamins",
+      "Minerals",
+      "Enzymes"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Biology",
+    "difficulty": "medium",
+    "id": "eef6bddb-f7f5-4043-a49c-3e6e95af803a",
+    "created_at": "2025-04-13T21:30:04.505Z",
+    "backupTimestamp": "2025-04-13T21:30:04.505Z",
+    "localBackupTimestamp": "2025-04-13T15:30:04.505Z"
+  },
+  {
+    "question": "Which level of biological classification is directly below Kingdom?",
+    "correct_answer": "Phylum",
+    "incorrect_answers": [
+      "Class",
+      "Order",
+      "Family",
+      "Genus",
+      "Species",
+      "Domain",
+      "Division"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Biology",
+    "difficulty": "medium",
+    "id": "04129a26-c6e8-41d3-ba47-e882cba71930",
+    "created_at": "2025-04-13T21:30:04.506Z",
+    "backupTimestamp": "2025-04-13T21:30:04.507Z",
+    "localBackupTimestamp": "2025-04-13T15:30:04.507Z"
+  },
+  {
+    "question": "What type of immunity is acquired after recovering from an infection?",
+    "correct_answer": "Active immunity",
+    "incorrect_answers": [
+      "Passive immunity",
+      "Innate immunity",
+      "Herd immunity",
+      "Artificial immunity",
+      "Natural immunity",
+      "Adaptive immunity",
+      "Cell-mediated immunity"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Biology",
+    "difficulty": "medium",
+    "id": "6c6262d2-b864-498a-af97-e1d5a8f56ff4",
+    "created_at": "2025-04-13T21:30:04.508Z",
+    "backupTimestamp": "2025-04-13T21:30:04.508Z",
+    "localBackupTimestamp": "2025-04-13T15:30:04.508Z"
+  },
+  {
+    "question": "What vessels carry blood away from the heart?",
+    "correct_answer": "Arteries",
+    "incorrect_answers": [
+      "Veins",
+      "Capillaries",
+      "Venuoles",
+      "Arterioles",
+      "Lymphatic vessels",
+      "Aorta",
+      "Pulmonary vein"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Biology",
+    "difficulty": "medium",
+    "id": "d211de15-d86e-4b62-8260-9941acb08ef6",
+    "created_at": "2025-04-13T21:30:04.509Z",
+    "backupTimestamp": "2025-04-13T21:30:04.509Z",
+    "localBackupTimestamp": "2025-04-13T15:30:04.509Z"
+  },
+  {
+    "question": "What process describes the movement of water across a semipermeable membrane from high to low concentration?",
+    "correct_answer": "Osmosis",
+    "incorrect_answers": [
+      "Diffusion",
+      "Active transport",
+      "Facilitated diffusion",
+      "Endocytosis",
+      "Exocytosis",
+      "Filtration",
+      "Transpiration"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Biology",
+    "difficulty": "medium",
+    "id": "fefe2a03-2bad-49fb-a708-d87b6ad4afc1",
+    "created_at": "2025-04-13T21:30:04.510Z",
+    "backupTimestamp": "2025-04-13T21:30:04.510Z",
+    "localBackupTimestamp": "2025-04-13T15:30:04.510Z"
+  },
+  {
+    "question": "What term describes the genetic makeup of an organism?",
+    "correct_answer": "Genotype",
+    "incorrect_answers": [
+      "Phenotype",
+      "Allele",
+      "Chromosome",
+      "Gene",
+      "Genome",
+      "Trait",
+      "Karyotype"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Biology",
+    "difficulty": "medium",
+    "id": "c0f0644b-02f8-4699-bf2b-6fc3bf62a824",
+    "created_at": "2025-04-13T21:30:04.511Z",
+    "backupTimestamp": "2025-04-13T21:30:04.511Z",
+    "localBackupTimestamp": "2025-04-13T15:30:04.511Z"
+  },
+  {
+    "question": "Which organelle in plant cells is the primary site of photosynthesis?",
+    "correct_answer": "Chloroplast",
+    "incorrect_answers": [
+      "Mitochondrion",
+      "Nucleus",
+      "Ribosome",
+      "Vacuole",
+      "Cell wall",
+      "Golgi apparatus",
+      "Endoplasmic reticulum"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Biology",
+    "difficulty": "medium",
+    "id": "0b00d737-3143-442f-b290-0f4615cda029",
+    "created_at": "2025-04-13T21:30:04.512Z",
+    "backupTimestamp": "2025-04-13T21:30:04.513Z",
+    "localBackupTimestamp": "2025-04-13T15:30:04.513Z"
+  },
+  {
+    "question": "What are different versions of the same gene called?",
+    "correct_answer": "Alleles",
+    "incorrect_answers": [
+      "Chromosomes",
+      "Genotypes",
+      "Phenotypes",
+      "Loci",
+      "Mutations",
+      "Traits",
+      "Homologues"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Biology",
+    "difficulty": "medium",
+    "id": "c1a938b2-9eaf-40ae-851b-7dd53e3279a3",
+    "created_at": "2025-04-13T21:30:04.513Z",
+    "backupTimestamp": "2025-04-13T21:30:04.514Z",
+    "localBackupTimestamp": "2025-04-13T15:30:04.514Z"
+  },
+  {
+    "question": "What structure connects muscle to bone?",
+    "correct_answer": "Tendon",
+    "incorrect_answers": [
+      "Ligament",
+      "Cartilage",
+      "Joint",
+      "Fascia",
+      "Nerve",
+      "Blood vessel",
+      "Synovial fluid"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Biology",
+    "difficulty": "medium",
+    "id": "4ff65ca3-1c14-42d1-8f51-3c3223ee2509",
+    "created_at": "2025-04-13T21:30:04.514Z",
+    "backupTimestamp": "2025-04-13T21:30:04.515Z",
+    "localBackupTimestamp": "2025-04-13T15:30:04.515Z"
+  },
+  {
+    "question": "What type of cell division produces gametes (sperm and egg cells)?",
+    "correct_answer": "Meiosis",
+    "incorrect_answers": [
+      "Mitosis",
+      "Binary Fission",
+      "Budding",
+      "Cytokinesis",
+      "Interphase",
+      "Amitosis",
+      "Fragmentation"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Biology",
+    "difficulty": "medium",
+    "id": "e6449c34-ebd6-43d0-affa-dc66f3417575",
+    "created_at": "2025-04-13T21:30:04.515Z",
+    "backupTimestamp": "2025-04-13T21:30:04.516Z",
+    "localBackupTimestamp": "2025-04-13T15:30:04.516Z"
+  },
+  {
+    "question": "What hormone is primarily responsible for regulating blood sugar levels?",
+    "correct_answer": "Insulin",
+    "incorrect_answers": [
+      "Glucagon",
+      "Adrenaline",
+      "Cortisol",
+      "Thyroxine",
+      "Growth Hormone",
+      "Testosterone",
+      "Estrogen"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Biology",
+    "difficulty": "medium",
+    "id": "efe32cc4-db2b-456a-bfa9-308eb108cb92",
+    "created_at": "2025-04-13T21:30:04.516Z",
+    "backupTimestamp": "2025-04-13T21:30:04.517Z",
+    "localBackupTimestamp": "2025-04-13T15:30:04.517Z"
+  },
+  {
+    "question": "What is the name for the observable characteristics or traits of an organism?",
+    "correct_answer": "Phenotype",
+    "incorrect_answers": [
+      "Genotype",
+      "Allele",
+      "Chromosome",
+      "Gene",
+      "Genome",
+      "Heredity",
+      "Karyotype"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Biology",
+    "difficulty": "medium",
+    "id": "43f58a85-01f6-4864-86ad-32af7f8aebd9",
+    "created_at": "2025-04-13T21:30:04.518Z",
+    "backupTimestamp": "2025-04-13T21:30:04.518Z",
+    "localBackupTimestamp": "2025-04-13T15:30:04.518Z"
+  },
+  {
+    "question": "What biomolecule acts as a biological catalyst to speed up chemical reactions?",
+    "correct_answer": "Enzyme",
+    "incorrect_answers": [
+      "Carbohydrate",
+      "Lipid",
+      "Nucleic Acid",
+      "Protein (general)",
+      "Hormone",
+      "Antibody",
+      "ATP"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Biology",
+    "difficulty": "medium",
+    "id": "57f05132-931f-4e3e-bffc-175b3552808c",
+    "created_at": "2025-04-13T21:30:04.519Z",
+    "backupTimestamp": "2025-04-13T21:30:04.519Z",
+    "localBackupTimestamp": "2025-04-13T15:30:04.519Z"
+  },
+  {
+    "question": "What is the scientific name for the voice box?",
+    "correct_answer": "Larynx",
+    "incorrect_answers": [
+      "Pharynx",
+      "Trachea",
+      "Esophagus",
+      "Bronchus",
+      "Epiglottis",
+      "Vocal cords",
+      "Uvula"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Biology",
+    "difficulty": "medium",
+    "id": "19d01b59-2543-4cb3-8ad4-eb92ca5cfa48",
+    "created_at": "2025-04-13T21:30:04.520Z",
+    "backupTimestamp": "2025-04-13T21:30:04.520Z",
+    "localBackupTimestamp": "2025-04-13T15:30:04.520Z"
+  },
+  {
+    "question": "Which domain of life includes organisms like humans, plants, and fungi?",
+    "correct_answer": "Eukarya",
+    "incorrect_answers": [
+      "Bacteria",
+      "Archaea",
+      "Prokarya",
+      "Monera",
+      "Protista",
+      "Animalia",
+      "Plantae"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Biology",
+    "difficulty": "medium",
+    "id": "3e47892e-29d7-4dcb-b3cd-3e12e7f4a714",
+    "created_at": "2025-04-13T21:30:04.521Z",
+    "backupTimestamp": "2025-04-13T21:30:04.521Z",
+    "localBackupTimestamp": "2025-04-13T15:30:04.521Z"
+  },
+  {
+    "question": "What structures in the lungs are the tiny air sacs where gas exchange occurs?",
+    "correct_answer": "Alveoli",
+    "incorrect_answers": [
+      "Bronchi",
+      "Bronchioles",
+      "Trachea",
+      "Capillaries",
+      "Diaphragm",
+      "Pleura",
+      "Larynx"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Biology",
+    "difficulty": "medium",
+    "id": "1aae09ba-c469-4825-91de-c0647c2b6faa",
+    "created_at": "2025-04-13T21:30:04.522Z",
+    "backupTimestamp": "2025-04-13T21:30:04.523Z",
+    "localBackupTimestamp": "2025-04-13T15:30:04.523Z"
+  },
+  {
+    "question": "What is the process by which bacteria reproduce asexually?",
+    "correct_answer": "Binary Fission",
+    "incorrect_answers": [
+      "Mitosis",
+      "Meiosis",
+      "Budding",
+      "Conjugation",
+      "Transformation",
+      "Transduction",
+      "Spore formation"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Biology",
+    "difficulty": "medium",
+    "id": "33263584-4cf2-422f-b735-716e99094eef",
+    "created_at": "2025-04-13T21:30:04.523Z",
+    "backupTimestamp": "2025-04-13T21:30:04.524Z",
+    "localBackupTimestamp": "2025-04-13T15:30:04.524Z"
+  },
+  {
+    "question": "What are the filtering units of the kidneys called?",
+    "correct_answer": "Nephrons",
+    "incorrect_answers": [
+      "Alveoli",
+      "Villi",
+      "Neurons",
+      "Glomeruli",
+      "Tubules",
+      "Ureters",
+      "Adrenal glands"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Biology",
+    "difficulty": "medium",
+    "id": "d6a1f5fe-442e-4644-aed7-8b4230966191",
+    "created_at": "2025-04-13T21:30:04.524Z",
+    "backupTimestamp": "2025-04-13T21:30:04.525Z",
+    "localBackupTimestamp": "2025-04-13T15:30:04.525Z"
+  },
+  {
+    "question": "What type of tissue connects bones to other bones?",
+    "correct_answer": "Ligament",
+    "incorrect_answers": [
+      "Tendon",
+      "Cartilage",
+      "Muscle",
+      "Fascia",
+      "Adipose tissue",
+      "Epithelial tissue",
+      "Nervous tissue"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Biology",
+    "difficulty": "medium",
+    "id": "08b837c6-27b5-4c1f-93d6-7efb9ca1c701",
+    "created_at": "2025-04-13T21:30:04.525Z",
+    "backupTimestamp": "2025-04-13T21:30:04.525Z",
+    "localBackupTimestamp": "2025-04-13T15:30:04.525Z"
+  },
+  {
+    "question": "What pigment gives red blood cells their color and binds to oxygen?",
+    "correct_answer": "Hemoglobin",
+    "incorrect_answers": [
+      "Chlorophyll",
+      "Melanin",
+      "Carotene",
+      "Bilirubin",
+      "Myoglobin",
+      "Cytochrome",
+      "Hemocyanin"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Biology",
+    "difficulty": "medium",
+    "id": "29636c51-8558-4fc0-bc91-d8e44af6a981",
+    "created_at": "2025-04-13T21:30:04.526Z",
+    "backupTimestamp": "2025-04-13T21:30:04.527Z",
+    "localBackupTimestamp": "2025-04-13T15:30:04.527Z"
+  },
+  {
+    "question": "What theory proposes that mitochondria and chloroplasts were once free-living prokaryotes?",
+    "correct_answer": "Endosymbiotic Theory",
+    "incorrect_answers": [
+      "Cell Theory",
+      "Evolutionary Theory",
+      "Germ Theory",
+      "Gene Theory",
+      "Abiogenesis Theory",
+      "Symbiogenesis",
+      "Panspermia"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Biology",
+    "difficulty": "medium",
+    "id": "86009852-0cab-448b-bd18-662490b48bc6",
+    "created_at": "2025-04-13T21:30:04.527Z",
+    "backupTimestamp": "2025-04-13T21:30:04.528Z",
+    "localBackupTimestamp": "2025-04-13T15:30:04.528Z"
+  },
+  {
+    "question": "What is the study of fungi called?",
+    "correct_answer": "Mycology",
+    "incorrect_answers": [
+      "Botany",
+      "Zoology",
+      "Microbiology",
+      "Phycology",
+      "Lichenology",
+      "Bryology",
+      "Virology"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Biology",
+    "difficulty": "medium",
+    "id": "a61442c2-8d70-4afa-a510-d48843236b83",
+    "created_at": "2025-04-13T21:30:04.528Z",
+    "backupTimestamp": "2025-04-13T21:30:04.528Z",
+    "localBackupTimestamp": "2025-04-13T15:30:04.528Z"
+  },
+  {
+    "question": "Which part of the nervous system controls involuntary actions like breathing and heart rate?",
+    "correct_answer": "Autonomic Nervous System",
+    "incorrect_answers": [
+      "Central Nervous System",
+      "Somatic Nervous System",
+      "Peripheral Nervous System",
+      "Sympathetic Nervous System",
+      "Parasympathetic Nervous System",
+      "Enteric Nervous System",
+      "Brainstem"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Biology",
+    "difficulty": "medium",
+    "id": "ad73a0f5-99ab-4fc7-b9ac-8539187a3540",
+    "created_at": "2025-04-13T21:30:04.529Z",
+    "backupTimestamp": "2025-04-13T21:30:04.530Z",
+    "localBackupTimestamp": "2025-04-13T15:30:04.530Z"
+  },
+  {
+    "question": "What molecule serves as the main energy currency of the cell?",
+    "correct_answer": "ATP (Adenosine Triphosphate)",
+    "incorrect_answers": [
+      "ADP (Adenosine Diphosphate)",
+      "Glucose",
+      "DNA",
+      "RNA",
+      "NADH",
+      "Fatty Acid",
+      "Pyruvate"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Biology",
+    "difficulty": "medium",
+    "id": "668be651-a86f-4927-872f-d70c1a249134",
+    "created_at": "2025-04-13T21:30:04.531Z",
+    "backupTimestamp": "2025-04-13T21:30:04.532Z",
+    "localBackupTimestamp": "2025-04-13T15:30:04.532Z"
+  },
+  {
+    "question": "What is the phenomenon where organisms better adapted to their environment tend to survive and produce more offspring?",
+    "correct_answer": "Natural Selection",
+    "incorrect_answers": [
+      "Artificial Selection",
+      "Genetic Drift",
+      "Gene Flow",
+      "Mutation",
+      "Adaptation",
+      "Speciation",
+      "Survival of the Fittest"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Biology",
+    "difficulty": "medium",
+    "id": "b3b845b4-32d7-4996-9a37-2cd65c5bfefa",
+    "created_at": "2025-04-13T21:30:04.532Z",
+    "backupTimestamp": "2025-04-13T21:30:04.533Z",
+    "localBackupTimestamp": "2025-04-13T15:30:04.533Z"
+  },
+  {
+    "question": "What are the chemical messengers produced by the endocrine glands?",
+    "correct_answer": "Hormones",
+    "incorrect_answers": [
+      "Enzymes",
+      "Neurotransmitters",
+      "Antibodies",
+      "Antigens",
+      "Pheromones",
+      "Cytokines",
+      "Vitamins"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Biology",
+    "difficulty": "medium",
+    "id": "7b8ac143-8d9f-4427-8789-5349dda95e4f",
+    "created_at": "2025-04-13T21:30:04.533Z",
+    "backupTimestamp": "2025-04-13T21:30:04.534Z",
+    "localBackupTimestamp": "2025-04-13T15:30:04.534Z"
+  },
+  {
+    "question": "What type of plant vascular tissue transports water and minerals from the roots upwards?",
+    "correct_answer": "Xylem",
+    "incorrect_answers": [
+      "Phloem",
+      "Cambium",
+      "Epidermis",
+      "Parenchyma",
+      "Collenchyma",
+      "Sclerenchyma",
+      "Meristem"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Biology",
+    "difficulty": "medium",
+    "id": "04f4467d-d67d-41de-9681-e2d902d888ed",
+    "created_at": "2025-04-13T21:30:04.534Z",
+    "backupTimestamp": "2025-04-13T21:30:04.535Z",
+    "localBackupTimestamp": "2025-04-13T15:30:04.535Z"
+  },
+  {
+    "question": "What does 'homeostasis' refer to in biology?",
+    "correct_answer": "Maintenance of a stable internal environment",
+    "incorrect_answers": [
+      "Growth and development",
+      "Response to stimuli",
+      "Reproduction",
+      "Evolutionary adaptation",
+      "Energy processing (metabolism)",
+      "Cellular organization",
+      "Genetic inheritance"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Biology",
+    "difficulty": "medium",
+    "id": "c43d915e-1aaf-4f24-a454-5653c18eb2a6",
+    "created_at": "2025-04-13T21:30:04.535Z",
+    "backupTimestamp": "2025-04-13T21:30:04.536Z",
+    "localBackupTimestamp": "2025-04-13T15:30:04.536Z"
+  },
+  {
+    "question": "What is the primary role of ribosomes in the cell?",
+    "correct_answer": "Protein synthesis",
+    "incorrect_answers": [
+      "Energy production",
+      "DNA replication",
+      "Lipid synthesis",
+      "Waste breakdown",
+      "Transporting molecules",
+      "Storing genetic information",
+      "Modifying proteins"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Biology",
+    "difficulty": "medium",
+    "id": "ad21441d-2613-4665-9d8c-fbd5172eebb8",
+    "created_at": "2025-04-13T21:30:04.536Z",
+    "backupTimestamp": "2025-04-13T21:30:04.537Z",
+    "localBackupTimestamp": "2025-04-13T15:30:04.537Z"
+  },
+  {
+    "question": "What is the term for the sum of all chemical reactions occurring within an organism?",
+    "correct_answer": "Metabolism",
+    "incorrect_answers": [
+      "Respiration",
+      "Photosynthesis",
+      "Catabolism",
+      "Anabolism",
+      "Homeostasis",
+      "Digestion",
+      "Excretion"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Biology",
+    "difficulty": "medium",
+    "id": "0eb0fdf7-b709-4367-b924-311a92ef5d8e",
+    "created_at": "2025-04-13T21:30:04.537Z",
+    "backupTimestamp": "2025-04-13T21:30:04.538Z",
+    "localBackupTimestamp": "2025-04-13T15:30:04.538Z"
+  },
+  {
+    "question": "Which nitrogenous base is found in RNA but not DNA?",
+    "correct_answer": "Uracil (U)",
+    "incorrect_answers": [
+      "Adenine (A)",
+      "Guanine (G)",
+      "Cytosine (C)",
+      "Thymine (T)",
+      "Ribose",
+      "Deoxyribose",
+      "Phosphate"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Biology",
+    "difficulty": "medium",
+    "id": "23b7224d-dff9-49f0-bcc6-60591243270c",
+    "created_at": "2025-04-13T21:30:04.538Z",
+    "backupTimestamp": "2025-04-13T21:30:04.539Z",
+    "localBackupTimestamp": "2025-04-13T15:30:04.539Z"
+  },
+  {
+    "question": "What is the liquid component of blood called?",
+    "correct_answer": "Plasma",
+    "incorrect_answers": [
+      "Serum",
+      "Lymph",
+      "Hemoglobin",
+      "Cytosol",
+      "Interstitial fluid",
+      "Synovial fluid",
+      "Cerebrospinal fluid"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Biology",
+    "difficulty": "medium",
+    "id": "d24c7c18-a7e8-4219-9db8-996dd353dca6",
+    "created_at": "2025-04-13T21:30:04.540Z",
+    "backupTimestamp": "2025-04-13T21:30:04.540Z",
+    "localBackupTimestamp": "2025-04-13T15:30:04.540Z"
+  },
+  {
+    "question": "What structure controls the passage of substances into and out of the cell?",
+    "correct_answer": "Cell membrane",
+    "incorrect_answers": [
+      "Cell wall",
+      "Nuclear envelope",
+      "Cytoplasm",
+      "Vacuole membrane",
+      "Endoplasmic reticulum",
+      "Golgi apparatus",
+      "Cytoskeleton"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Biology",
+    "difficulty": "medium",
+    "id": "210142c7-443c-421c-a61a-6dbe2f64c8a8",
+    "created_at": "2025-04-13T21:30:04.541Z",
+    "backupTimestamp": "2025-04-13T21:30:04.541Z",
+    "localBackupTimestamp": "2025-04-13T15:30:04.541Z"
+  },
+  {
+    "question": "What is the study of insects called?",
+    "correct_answer": "Entomology",
+    "incorrect_answers": [
+      "Ornithology",
+      "Herpetology",
+      "Ichthyology",
+      "Mammalogy",
+      "Arachnology",
+      "Mycology",
+      "Ethology"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Biology",
+    "difficulty": "medium",
+    "id": "ad5b7e74-469b-483f-b42b-108fb76bfc9d",
+    "created_at": "2025-04-13T21:30:04.542Z",
+    "backupTimestamp": "2025-04-13T21:30:04.542Z",
+    "localBackupTimestamp": "2025-04-13T15:30:04.542Z"
+  },
+  {
+    "question": "What is the main function of the large intestine?",
+    "correct_answer": "Absorption of water",
+    "incorrect_answers": [
+      "Digestion of proteins",
+      "Absorption of nutrients",
+      "Production of bile",
+      "Storage of food",
+      "Secretion of enzymes",
+      "Absorption of fats",
+      "Neutralizing stomach acid"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Biology",
+    "difficulty": "medium",
+    "id": "c6b2b5dc-c3c8-4dee-84a1-cbb4813759d6",
+    "created_at": "2025-04-13T21:30:04.543Z",
+    "backupTimestamp": "2025-04-13T21:30:04.544Z",
+    "localBackupTimestamp": "2025-04-13T15:30:04.544Z"
+  },
+  {
+    "question": "What type of fat is typically solid at room temperature and found in animal products?",
+    "correct_answer": "Saturated fat",
+    "incorrect_answers": [
+      "Unsaturated fat",
+      "Monounsaturated fat",
+      "Polyunsaturated fat",
+      "Trans fat",
+      "Omega-3 fatty acid",
+      "Cholesterol",
+      "Triglyceride"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Biology",
+    "difficulty": "medium",
+    "id": "510e62bf-d19a-4ef2-bb42-5cc726d2bbee",
+    "created_at": "2025-04-13T21:30:04.544Z",
+    "backupTimestamp": "2025-04-13T21:30:04.545Z",
+    "localBackupTimestamp": "2025-04-13T15:30:04.545Z"
+  },
+  {
+    "question": "What is the difference between diploid and haploid cells?",
+    "correct_answer": "Diploid have two sets of chromosomes, haploid have one set",
+    "incorrect_answers": [
+      "Diploid are animal cells, haploid are plant cells",
+      "Diploid undergo mitosis, haploid undergo meiosis",
+      "Diploid have a nucleus, haploid do not",
+      "Diploid are larger than haploid cells",
+      "Diploid form tissues, haploid are gametes",
+      "Diploid are somatic cells, haploid are germ cells",
+      "Diploid reproduce sexually, haploid reproduce asexually"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Biology",
+    "difficulty": "medium",
+    "id": "a106d2cd-7019-4acb-8183-47a740bed569",
+    "created_at": "2025-04-13T21:30:04.545Z",
+    "backupTimestamp": "2025-04-13T21:30:04.546Z",
+    "localBackupTimestamp": "2025-04-13T15:30:04.546Z"
+  },
+  {
+    "question": "What is the biological term for programmed cell death?",
+    "correct_answer": "Apoptosis",
+    "incorrect_answers": [
+      "Necrosis",
+      "Mitosis",
+      "Meiosis",
+      "Autophagy",
+      "Lysis",
+      "Senescence",
+      "Oncosis"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Biology",
+    "difficulty": "medium",
+    "id": "c68ca066-3d29-4721-8692-b03fb47e1788",
+    "created_at": "2025-04-13T21:30:04.546Z",
+    "backupTimestamp": "2025-04-13T21:30:04.547Z",
+    "localBackupTimestamp": "2025-04-13T15:30:04.547Z"
+  },
+  {
+    "question": "What plant hormone promotes stem elongation and growth?",
+    "correct_answer": "Auxin",
+    "incorrect_answers": [
+      "Gibberellin",
+      "Cytokinin",
+      "Ethylene",
+      "Abscisic acid",
+      "Jasmonate",
+      "Salicylic acid",
+      "Brassinosteroid"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Biology",
+    "difficulty": "medium",
+    "id": "0fcd551c-6354-4831-b4b3-fdb6029e7ea1",
+    "created_at": "2025-04-13T21:30:04.548Z",
+    "backupTimestamp": "2025-04-13T21:30:04.548Z",
+    "localBackupTimestamp": "2025-04-13T15:30:04.548Z"
+  },
+  {
+    "question": "Which kingdom do single-celled eukaryotic organisms like amoebas and paramecia belong to?",
+    "correct_answer": "Protista",
+    "incorrect_answers": [
+      "Monera",
+      "Fungi",
+      "Plantae",
+      "Animalia",
+      "Archaea",
+      "Bacteria",
+      "Chromista"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Biology",
+    "difficulty": "medium",
+    "id": "1eeabd31-bce6-4475-baf3-e872a0179495",
+    "created_at": "2025-04-13T21:30:04.549Z",
+    "backupTimestamp": "2025-04-13T21:30:04.549Z",
+    "localBackupTimestamp": "2025-04-13T15:30:04.549Z"
+  },
+  {
+    "question": "What is the primary function of the cerebellum?",
+    "correct_answer": "Coordination of movement and balance",
+    "incorrect_answers": [
+      "Processing sensory information",
+      "Higher cognitive functions (thinking, memory)",
+      "Regulating heart rate and breathing",
+      "Controlling hormone release",
+      "Processing emotions",
+      "Generating speech",
+      "Filtering blood"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Biology",
+    "difficulty": "medium",
+    "id": "d7574260-bdd6-4ea1-b060-62ae22d573b6",
+    "created_at": "2025-04-13T21:30:04.550Z",
+    "backupTimestamp": "2025-04-13T21:30:04.550Z",
+    "localBackupTimestamp": "2025-04-13T15:30:04.550Z"
+  },
+  {
+    "question": "What is the name of the cycle that describes the flow of carbon through the Earth's ecosystems?",
+    "correct_answer": "Carbon Cycle",
+    "incorrect_answers": [
+      "Nitrogen Cycle",
+      "Water Cycle",
+      "Phosphorus Cycle",
+      "Sulfur Cycle",
+      "Krebs Cycle",
+      "Calvin Cycle",
+      "Rock Cycle"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Biology",
+    "difficulty": "medium",
+    "id": "074c3b2c-8c47-4ed2-8610-e6b6f592a15b",
+    "created_at": "2025-04-13T21:30:04.551Z",
+    "backupTimestamp": "2025-04-13T21:30:04.552Z",
+    "localBackupTimestamp": "2025-04-13T15:30:04.552Z"
+  },
+  {
+    "question": "What is the function of the myelin sheath on nerve axons?",
+    "correct_answer": "Insulate the axon and speed up nerve impulse transmission",
+    "incorrect_answers": [
+      "Produce neurotransmitters",
+      "Receive signals from other neurons",
+      "Provide structural support to the neuron body",
+      "Regulate ion flow across the membrane",
+      "Synthesize proteins for the neuron",
+      "Protect the neuron from physical damage",
+      "Store energy for the neuron"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Biology",
+    "difficulty": "medium",
+    "id": "b1756484-ff5a-4706-8233-380a2fb76ad4",
+    "created_at": "2025-04-13T21:30:04.552Z",
+    "backupTimestamp": "2025-04-13T21:30:04.553Z",
+    "localBackupTimestamp": "2025-04-13T15:30:04.553Z"
+  },
+  {
+    "question": "What is the study of heredity and the variation of inherited characteristics?",
+    "correct_answer": "Genetics",
+    "incorrect_answers": [
+      "Evolution",
+      "Ecology",
+      "Taxonomy",
+      "Physiology",
+      "Anatomy",
+      "Cytology",
+      "Molecular Biology"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Biology",
+    "difficulty": "medium",
+    "id": "1bae0d19-e4d6-4e0b-95e2-612c3cca9adb",
+    "created_at": "2025-04-13T21:30:04.553Z",
+    "backupTimestamp": "2025-04-13T21:30:04.554Z",
+    "localBackupTimestamp": "2025-04-13T15:30:04.554Z"
+  },
+  {
+    "question": "What type of plant lacks true roots, stems, and leaves, such as mosses?",
+    "correct_answer": "Bryophyte",
+    "incorrect_answers": [
+      "Angiosperm",
+      "Gymnosperm",
+      "Fern",
+      "Lycophyte",
+      "Algae",
+      "Fungus",
+      "Lichen"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Biology",
+    "difficulty": "medium",
+    "id": "67d9078d-7cfa-4b19-adec-e6a5424dd627",
+    "created_at": "2025-04-13T21:30:04.555Z",
+    "backupTimestamp": "2025-04-13T21:30:04.555Z",
+    "localBackupTimestamp": "2025-04-13T15:30:04.555Z"
+  },
+  {
+    "question": "What are the structures within the nucleus that contain the genetic material (DNA)?",
+    "correct_answer": "Chromosomes",
+    "incorrect_answers": [
+      "Ribosomes",
+      "Mitochondria",
+      "Nucleolus",
+      "Genes",
+      "Alleles",
+      "Histones",
+      "Centrioles"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Biology",
+    "difficulty": "medium",
+    "id": "df2dff0d-3d52-46b9-9b93-98842eacbcf0",
+    "created_at": "2025-04-13T21:30:04.556Z",
+    "backupTimestamp": "2025-04-13T21:30:04.556Z",
+    "localBackupTimestamp": "2025-04-13T15:30:04.556Z"
+  },
+  {
+    "question": "What is the process where an organism changes form during its life cycle, like a tadpole becoming a frog?",
+    "correct_answer": "Metamorphosis",
+    "incorrect_answers": [
+      "Evolution",
+      "Adaptation",
+      "Growth",
+      "Development",
+      "Molting",
+      "Regeneration",
+      "Asexual reproduction"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Biology",
+    "difficulty": "medium",
+    "id": "27ee183b-2a76-4415-94ab-d4bdc1b5addf",
+    "created_at": "2025-04-13T21:30:04.557Z",
+    "backupTimestamp": "2025-04-13T21:30:04.557Z",
+    "localBackupTimestamp": "2025-04-13T15:30:04.557Z"
+  },
+  {
+    "question": "Which biome is characterized by very low temperatures, little precipitation, and permafrost?",
+    "correct_answer": "Tundra",
+    "incorrect_answers": [
+      "Desert",
+      "Taiga (Boreal Forest)",
+      "Temperate Grassland",
+      "Tropical Rainforest",
+      "Savanna",
+      "Chaparral",
+      "Temperate Deciduous Forest"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Biology",
+    "difficulty": "medium",
+    "id": "710faca7-f60e-415f-920f-d7201faeb40f",
+    "created_at": "2025-04-13T21:30:04.558Z",
+    "backupTimestamp": "2025-04-13T21:30:04.558Z",
+    "localBackupTimestamp": "2025-04-13T15:30:04.558Z"
+  },
+  {
+    "question": "What are viruses primarily composed of?",
+    "correct_answer": "Genetic material (DNA or RNA) and a protein coat (capsid)",
+    "incorrect_answers": [
+      "Cells",
+      "Proteins and lipids",
+      "Carbohydrates and nucleic acids",
+      "A nucleus and cytoplasm",
+      "Mitochondria and ribosomes",
+      "Only proteins",
+      "Only genetic material"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Biology",
+    "difficulty": "medium",
+    "id": "34e5f8a5-6d8d-4f10-aca2-b729cdcf3d5f",
+    "created_at": "2025-04-13T21:30:04.559Z",
+    "backupTimestamp": "2025-04-13T21:30:04.559Z",
+    "localBackupTimestamp": "2025-04-13T15:30:04.559Z"
+  },
+  {
+    "question": "Which light-independent reactions in photosynthesis use ATP and NADPH to convert CO2 into sugar?",
+    "correct_answer": "Calvin Cycle",
+    "incorrect_answers": [
+      "Krebs Cycle",
+      "Electron Transport Chain",
+      "Glycolysis",
+      "Light-dependent reactions",
+      "Photophosphorylation",
+      "Citric Acid Cycle",
+      "Fermentation"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Biology",
+    "difficulty": "hard",
+    "id": "718a0530-3312-492f-85a4-1e7d1fb6985f",
+    "created_at": "2025-04-13T21:30:04.560Z",
+    "backupTimestamp": "2025-04-13T21:30:04.561Z",
+    "localBackupTimestamp": "2025-04-13T15:30:04.561Z"
+  },
+  {
+    "question": "What specific type of bond links amino acids together to form proteins?",
+    "correct_answer": "Peptide bond",
+    "incorrect_answers": [
+      "Glycosidic bond",
+      "Ester bond",
+      "Hydrogen bond",
+      "Ionic bond",
+      "Covalent bond (general)",
+      "Phosphodiester bond",
+      "Disulfide bridge"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Biology",
+    "difficulty": "hard",
+    "id": "d5e88eb1-a5e1-4cdd-94d6-393c579cfa27",
+    "created_at": "2025-04-13T21:30:04.562Z",
+    "backupTimestamp": "2025-04-13T21:30:04.562Z",
+    "localBackupTimestamp": "2025-04-13T15:30:04.562Z"
+  },
+  {
+    "question": "What cellular organelle is responsible for modifying, sorting, and packaging proteins and lipids for secretion or delivery?",
+    "correct_answer": "Golgi Apparatus (Golgi complex)",
+    "incorrect_answers": [
+      "Endoplasmic Reticulum",
+      "Ribosome",
+      "Lysosome",
+      "Mitochondrion",
+      "Nucleus",
+      "Peroxisome",
+      "Vacuole"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Biology",
+    "difficulty": "hard",
+    "id": "be9b0ffe-3c18-4026-a21e-64109ceff2d3",
+    "created_at": "2025-04-13T21:30:04.563Z",
+    "backupTimestamp": "2025-04-13T21:30:04.563Z",
+    "localBackupTimestamp": "2025-04-13T15:30:04.563Z"
+  },
+  {
+    "question": "What is the term for the process by which new species arise?",
+    "correct_answer": "Speciation",
+    "incorrect_answers": [
+      "Evolution",
+      "Adaptation",
+      "Natural Selection",
+      "Genetic Drift",
+      "Mutation",
+      "Hybridization",
+      "Extinction"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Biology",
+    "difficulty": "hard",
+    "id": "8bb71096-5d2b-4cc3-8f65-1cad5ff86217",
+    "created_at": "2025-04-13T21:30:04.564Z",
+    "backupTimestamp": "2025-04-13T21:30:04.564Z",
+    "localBackupTimestamp": "2025-04-13T15:30:04.564Z"
+  },
+  {
+    "question": "Which enzyme is responsible for unwinding the DNA double helix during replication?",
+    "correct_answer": "Helicase",
+    "incorrect_answers": [
+      "DNA Polymerase",
+      "Ligase",
+      "Primase",
+      "Topoisomerase",
+      "RNA Polymerase",
+      "Nuclease",
+      "Telomerase"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Biology",
+    "difficulty": "hard",
+    "id": "0c6b95ef-0d9e-49ec-865d-1edd0355f3db",
+    "created_at": "2025-04-13T21:30:04.565Z",
+    "backupTimestamp": "2025-04-13T21:30:04.565Z",
+    "localBackupTimestamp": "2025-04-13T15:30:04.565Z"
+  },
+  {
+    "question": "What stage of cellular respiration produces the most ATP?",
+    "correct_answer": "Oxidative Phosphorylation (Electron Transport Chain)",
+    "incorrect_answers": [
+      "Glycolysis",
+      "Krebs Cycle (Citric Acid Cycle)",
+      "Fermentation",
+      "Pyruvate Oxidation",
+      "Substrate-level phosphorylation",
+      "Light-dependent reactions",
+      "Calvin Cycle"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Biology",
+    "difficulty": "hard",
+    "id": "4781574e-2fa8-4698-a88a-a69aeecb85e1",
+    "created_at": "2025-04-13T21:30:04.566Z",
+    "backupTimestamp": "2025-04-13T21:30:04.567Z",
+    "localBackupTimestamp": "2025-04-13T15:30:04.567Z"
+  },
+  {
+    "question": "What type of RNA molecule carries amino acids to the ribosome during protein synthesis?",
+    "correct_answer": "tRNA (Transfer RNA)",
+    "incorrect_answers": [
+      "mRNA (Messenger RNA)",
+      "rRNA (Ribosomal RNA)",
+      "snRNA (Small nuclear RNA)",
+      "miRNA (MicroRNA)",
+      "siRNA (Small interfering RNA)",
+      "lncRNA (Long non-coding RNA)",
+      "dsRNA (Double-stranded RNA)"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Biology",
+    "difficulty": "hard",
+    "id": "1ddfc84b-2397-4b9e-964c-d4b975d06832",
+    "created_at": "2025-04-13T21:30:04.567Z",
+    "backupTimestamp": "2025-04-13T21:30:04.568Z",
+    "localBackupTimestamp": "2025-04-13T15:30:04.568Z"
+  },
+  {
+    "question": "What term describes the movement of genes between populations?",
+    "correct_answer": "Gene Flow",
+    "incorrect_answers": [
+      "Genetic Drift",
+      "Natural Selection",
+      "Mutation",
+      "Speciation",
+      "Founder Effect",
+      "Bottleneck Effect",
+      "Horizontal Gene Transfer"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Biology",
+    "difficulty": "hard",
+    "id": "759d2f6a-8b37-42e5-ba59-56f1daf21302",
+    "created_at": "2025-04-13T21:30:04.568Z",
+    "backupTimestamp": "2025-04-13T21:30:04.569Z",
+    "localBackupTimestamp": "2025-04-13T15:30:04.569Z"
+  },
+  {
+    "question": "What is the fluid-filled space inside the inner membrane of a mitochondrion called?",
+    "correct_answer": "Mitochondrial Matrix",
+    "incorrect_answers": [
+      "Cytosol",
+      "Stroma",
+      "Thylakoid Lumen",
+      "Intermembrane Space",
+      "Cristae",
+      "Nucleoplasm",
+      "Cytoplasm"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Biology",
+    "difficulty": "hard",
+    "id": "7b9c0647-c8d5-42d7-8ad1-54ac2ae0717e",
+    "created_at": "2025-04-13T21:30:04.570Z",
+    "backupTimestamp": "2025-04-13T21:30:04.570Z",
+    "localBackupTimestamp": "2025-04-13T15:30:04.570Z"
+  },
+  {
+    "question": "What specialized cells in the pancreas produce insulin?",
+    "correct_answer": "Beta cells (in Islets of Langerhans)",
+    "incorrect_answers": [
+      "Alpha cells",
+      "Delta cells",
+      "PP cells (Gamma cells)",
+      "Acinar cells",
+      "Duct cells",
+      "Hepatocytes",
+      "Adipocytes"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Biology",
+    "difficulty": "hard",
+    "id": "ec6c2367-8c05-46bf-aeca-87a9a0980ed0",
+    "created_at": "2025-04-13T21:30:04.571Z",
+    "backupTimestamp": "2025-04-13T21:30:04.571Z",
+    "localBackupTimestamp": "2025-04-13T15:30:04.571Z"
+  },
+  {
+    "question": "What is the name for the three-nucleotide sequence on mRNA that codes for a specific amino acid?",
+    "correct_answer": "Codon",
+    "incorrect_answers": [
+      "Anticodon",
+      "Gene",
+      "Allele",
+      "Exon",
+      "Intron",
+      "Promoter",
+      "Operator"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Biology",
+    "difficulty": "hard",
+    "id": "45c73db1-269c-4875-a5b5-6e8a9fa2ce8d",
+    "created_at": "2025-04-13T21:30:04.572Z",
+    "backupTimestamp": "2025-04-13T21:30:04.572Z",
+    "localBackupTimestamp": "2025-04-13T15:30:04.572Z"
+  },
+  {
+    "question": "Which immune cells are primarily responsible for producing antibodies?",
+    "correct_answer": "B cells (Plasma cells)",
+    "incorrect_answers": [
+      "T cells (Helper)",
+      "T cells (Cytotoxic)",
+      "Macrophages",
+      "Neutrophils",
+      "Natural Killer (NK) cells",
+      "Dendritic cells",
+      "Mast cells"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Biology",
+    "difficulty": "hard",
+    "id": "4a00e5c4-a8b3-44c7-9036-c8b51a445f88",
+    "created_at": "2025-04-13T21:30:04.573Z",
+    "backupTimestamp": "2025-04-13T21:30:04.573Z",
+    "localBackupTimestamp": "2025-04-13T15:30:04.573Z"
+  },
+  {
+    "question": "What is the developmental process by which a less specialized cell becomes a more specialized cell type?",
+    "correct_answer": "Cellular Differentiation",
+    "incorrect_answers": [
+      "Mitosis",
+      "Meiosis",
+      "Apoptosis",
+      "Morphogenesis",
+      "Gastrulation",
+      "Cleavage",
+      "Determination"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Biology",
+    "difficulty": "hard",
+    "id": "403f9484-348b-4a72-b559-faee02aec89e",
+    "created_at": "2025-04-13T21:30:04.574Z",
+    "backupTimestamp": "2025-04-13T21:30:04.574Z",
+    "localBackupTimestamp": "2025-04-13T15:30:04.574Z"
+  },
+  {
+    "question": "Which part of the brain is primarily involved in regulating basic life functions like breathing, heart rate, and blood pressure?",
+    "correct_answer": "Brainstem (Medulla Oblongata)",
+    "incorrect_answers": [
+      "Cerebrum",
+      "Cerebellum",
+      "Hypothalamus",
+      "Thalamus",
+      "Hippocampus",
+      "Amygdala",
+      "Frontal Lobe"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Biology",
+    "difficulty": "hard",
+    "id": "652167a3-2f1c-4d05-9c92-7834c48107e8",
+    "created_at": "2025-04-13T21:30:04.575Z",
+    "backupTimestamp": "2025-04-13T21:30:04.575Z",
+    "localBackupTimestamp": "2025-04-13T15:30:04.575Z"
+  },
+  {
+    "question": "What type of plant vascular tissue transports sugars produced during photosynthesis?",
+    "correct_answer": "Phloem",
+    "incorrect_answers": [
+      "Xylem",
+      "Cambium",
+      "Epidermis",
+      "Cortex",
+      "Pith",
+      "Sieve tubes",
+      "Companion cells"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Biology",
+    "difficulty": "hard",
+    "id": "f24c07be-ee1f-4870-b600-37ccdbd61299",
+    "created_at": "2025-04-13T21:30:04.576Z",
+    "backupTimestamp": "2025-04-13T21:30:04.576Z",
+    "localBackupTimestamp": "2025-04-13T15:30:04.576Z"
+  },
+  {
+    "question": "What is the term for the study of the evolutionary history and relationships among organisms?",
+    "correct_answer": "Phylogenetics",
+    "incorrect_answers": [
+      "Taxonomy",
+      "Systematics",
+      "Cladistics",
+      "Paleontology",
+      "Ontogeny",
+      "Biogeography",
+      "Morphology"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Biology",
+    "difficulty": "hard",
+    "id": "95d44e3e-ad56-4513-8f96-f8ecbb5e335b",
+    "created_at": "2025-04-13T21:30:04.577Z",
+    "backupTimestamp": "2025-04-13T21:30:04.578Z",
+    "localBackupTimestamp": "2025-04-13T15:30:04.578Z"
+  },
+  {
+    "question": "What is the initial metabolic pathway that breaks down glucose into pyruvate?",
+    "correct_answer": "Glycolysis",
+    "incorrect_answers": [
+      "Krebs Cycle (Citric Acid Cycle)",
+      "Electron Transport Chain",
+      "Fermentation",
+      "Gluconeogenesis",
+      "Calvin Cycle",
+      "Pentose Phosphate Pathway",
+      "Beta-oxidation"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Biology",
+    "difficulty": "hard",
+    "id": "6c8cbe7d-1029-47f0-bd6d-5f786fd995e5",
+    "created_at": "2025-04-13T21:30:04.579Z",
+    "backupTimestamp": "2025-04-13T21:30:04.579Z",
+    "localBackupTimestamp": "2025-04-13T15:30:04.579Z"
+  },
+  {
+    "question": "What protein complex acts like a 'molecular motor' to synthesize ATP using a proton gradient?",
+    "correct_answer": "ATP synthase",
+    "incorrect_answers": [
+      "Cytochrome c oxidase",
+      "NADH dehydrogenase",
+      "Succinate dehydrogenase",
+      "Ribosome",
+      "DNA Polymerase",
+      "ATPase (general)",
+      "Rubisco"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Biology",
+    "difficulty": "hard",
+    "id": "74b58028-431b-4dfe-9fc1-965370a89839",
+    "created_at": "2025-04-13T21:30:04.580Z",
+    "backupTimestamp": "2025-04-13T21:30:04.580Z",
+    "localBackupTimestamp": "2025-04-13T15:30:04.580Z"
+  },
+  {
+    "question": "What is the Hardy-Weinberg principle used for in population genetics?",
+    "correct_answer": "To describe a hypothetical non-evolving population's genetic equilibrium",
+    "incorrect_answers": [
+      "To calculate mutation rates",
+      "To measure gene flow between populations",
+      "To determine the age of fossils",
+      "To predict the outcome of specific genetic crosses",
+      "To map gene locations on chromosomes",
+      "To quantify the strength of natural selection",
+      "To analyze phylogenetic relationships"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Biology",
+    "difficulty": "hard",
+    "id": "2321e095-3876-45c4-9cef-7ff0c20588eb",
+    "created_at": "2025-04-13T21:30:04.581Z",
+    "backupTimestamp": "2025-04-13T21:30:04.582Z",
+    "localBackupTimestamp": "2025-04-13T15:30:04.582Z"
+  },
+  {
+    "question": "What enzyme is crucial for carbon fixation in the Calvin Cycle?",
+    "correct_answer": "RuBisCO (Ribulose-1,5-bisphosphate carboxylase/oxygenase)",
+    "incorrect_answers": [
+      "ATP synthase",
+      "PEP carboxylase",
+      "Hexokinase",
+      "DNA Polymerase",
+      "Amylase",
+      "Catalase",
+      "Pyruvate kinase"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Biology",
+    "difficulty": "hard",
+    "id": "e542c170-6b3a-4712-a4d3-6f657b45632b",
+    "created_at": "2025-04-13T21:30:04.582Z",
+    "backupTimestamp": "2025-04-13T21:30:04.583Z",
+    "localBackupTimestamp": "2025-04-13T15:30:04.583Z"
+  },
+  {
+    "question": "What is the name for the segments of DNA that are transcribed but later removed from the mRNA molecule before translation?",
+    "correct_answer": "Introns",
+    "incorrect_answers": [
+      "Exons",
+      "Codons",
+      "Promoters",
+      "Enhancers",
+      "Terminators",
+      "Alleles",
+      "Telomeres"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Biology",
+    "difficulty": "hard",
+    "id": "f6b3d443-1b5c-4904-8357-8d5b43f13336",
+    "created_at": "2025-04-13T21:30:04.583Z",
+    "backupTimestamp": "2025-04-13T21:30:04.584Z",
+    "localBackupTimestamp": "2025-04-13T15:30:04.584Z"
+  },
+  {
+    "question": "Which geological era is known as the 'Age of Reptiles'?",
+    "correct_answer": "Mesozoic Era",
+    "incorrect_answers": [
+      "Paleozoic Era",
+      "Cenozoic Era",
+      "Precambrian Time",
+      "Jurassic Period",
+      "Cretaceous Period",
+      "Triassic Period",
+      "Phanerozoic Eon"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Biology",
+    "difficulty": "hard",
+    "id": "4de8a8a5-ba30-4651-a43e-56be578549ad",
+    "created_at": "2025-04-13T21:30:04.584Z",
+    "backupTimestamp": "2025-04-13T21:30:04.585Z",
+    "localBackupTimestamp": "2025-04-13T15:30:04.585Z"
+  },
+  {
+    "question": "What is the mechanism called where the binding of a molecule at one site on a protein affects the binding properties of another site?",
+    "correct_answer": "Allosteric regulation",
+    "incorrect_answers": [
+      "Competitive inhibition",
+      "Non-competitive inhibition",
+      "Feedback inhibition",
+      "Covalent modification",
+      "Cooperativity",
+      "Substrate binding",
+      "Denaturation"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Biology",
+    "difficulty": "hard",
+    "id": "18b74409-b0c3-4023-b298-6d1a94f05478",
+    "created_at": "2025-04-13T21:30:04.586Z",
+    "backupTimestamp": "2025-04-13T21:30:04.588Z",
+    "localBackupTimestamp": "2025-04-13T15:30:04.588Z"
+  },
+  {
+    "question": "What are prions?",
+    "correct_answer": "Misfolded proteins that can transmit their misfolded shape to normal proteins",
+    "incorrect_answers": [
+      "Viruses with RNA genomes",
+      "Single-celled infectious fungi",
+      "Bacteria lacking a cell wall",
+      "Subviral particles composed only of RNA",
+      "Extracellular genetic elements",
+      "Parasitic protozoa",
+      "Bacteriophages"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Biology",
+    "difficulty": "hard",
+    "id": "273ca1c2-fde9-4328-ad01-07fefce4e99e",
+    "created_at": "2025-04-13T21:30:04.589Z",
+    "backupTimestamp": "2025-04-13T21:30:04.590Z",
+    "localBackupTimestamp": "2025-04-13T15:30:04.590Z"
+  },
+  {
+    "question": "What is the function of the Cas9 enzyme in the CRISPR-Cas9 system?",
+    "correct_answer": "To cut DNA at a specific location guided by RNA",
+    "incorrect_answers": [
+      "To synthesize DNA",
+      "To repair DNA breaks",
+      "To unwind the DNA helix",
+      "To methylate DNA",
+      "To transcribe DNA into RNA",
+      "To insert new genes",
+      "To detect specific DNA sequences"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Biology",
+    "difficulty": "hard",
+    "id": "c8a78972-992b-45e1-a88d-55f7e78e310f",
+    "created_at": "2025-04-13T21:30:04.590Z",
+    "backupTimestamp": "2025-04-13T21:30:04.591Z",
+    "localBackupTimestamp": "2025-04-13T15:30:04.591Z"
+  },
+  {
+    "question": "What process involves the formation of the three primary germ layers (ectoderm, mesoderm, endoderm) during embryonic development?",
+    "correct_answer": "Gastrulation",
+    "incorrect_answers": [
+      "Cleavage",
+      "Blastulation",
+      "Neurulation",
+      "Organogenesis",
+      "Fertilization",
+      "Differentiation",
+      "Morphogenesis"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Biology",
+    "difficulty": "hard",
+    "id": "c87f8390-f547-4931-b573-15f836bee58f",
+    "created_at": "2025-04-13T21:30:04.591Z",
+    "backupTimestamp": "2025-04-13T21:30:04.592Z",
+    "localBackupTimestamp": "2025-04-13T15:30:04.592Z"
+  },
+  {
+    "question": "What are telomeres?",
+    "correct_answer": "Repetitive DNA sequences at the ends of chromosomes protecting them from deterioration",
+    "incorrect_answers": [
+      "Regions where sister chromatids are joined",
+      "Genes that regulate cell division",
+      "The protein structures chromosomes coil around",
+      "Sequences indicating the start of a gene",
+      "Mobile genetic elements",
+      "The structures that pull chromosomes apart during mitosis",
+      "Non-coding RNA molecules"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Biology",
+    "difficulty": "hard",
+    "id": "b4eeb2e8-5a6b-469f-84be-f0988bc0bd4a",
+    "created_at": "2025-04-13T21:30:04.592Z",
+    "backupTimestamp": "2025-04-13T21:30:04.593Z",
+    "localBackupTimestamp": "2025-04-13T15:30:04.593Z"
+  },
+  {
+    "question": "Which type of horizontal gene transfer involves the uptake of free DNA from the environment by bacteria?",
+    "correct_answer": "Transformation",
+    "incorrect_answers": [
+      "Transduction",
+      "Conjugation",
+      "Binary Fission",
+      "Viral infection",
+      "Protoplast fusion",
+      "Electroporation",
+      "Gene gun method"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Biology",
+    "difficulty": "hard",
+    "id": "f6745e7f-507e-46bb-913a-f6f1655316d5",
+    "created_at": "2025-04-13T21:30:04.594Z",
+    "backupTimestamp": "2025-04-13T21:30:04.594Z",
+    "localBackupTimestamp": "2025-04-13T15:30:04.594Z"
+  },
+  {
+    "question": "What signalling molecule is critical for muscle contraction by binding to troponin?",
+    "correct_answer": "Calcium ions (Ca2+)",
+    "incorrect_answers": [
+      "ATP",
+      "Acetylcholine",
+      "Sodium ions (Na+)",
+      "Potassium ions (K+)",
+      "Myosin",
+      "Actin",
+      "Troponin"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Biology",
+    "difficulty": "hard",
+    "id": "774639cb-f38c-47b7-925a-b65421f63454",
+    "created_at": "2025-04-13T21:30:04.596Z",
+    "backupTimestamp": "2025-04-13T21:30:04.596Z",
+    "localBackupTimestamp": "2025-04-13T15:30:04.596Z"
+  },
+  {
+    "question": "What is the function of the lac operon in E. coli?",
+    "correct_answer": "To regulate the metabolism of lactose",
+    "incorrect_answers": [
+      "To regulate tryptophan synthesis",
+      "To control DNA replication",
+      "To manage cell division",
+      "To respond to heat shock",
+      "To repair DNA damage",
+      "To synthesize flagella",
+      "To control antibiotic resistance"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Biology",
+    "difficulty": "hard",
+    "id": "4778f45d-48ac-479b-a1c7-6e03998b30fa",
+    "created_at": "2025-04-13T21:30:04.597Z",
+    "backupTimestamp": "2025-04-13T21:30:04.597Z",
+    "localBackupTimestamp": "2025-04-13T15:30:04.597Z"
+  },
+  {
+    "question": "What is the name for the pores on the surface of plant leaves that regulate gas exchange?",
+    "correct_answer": "Stomata",
+    "incorrect_answers": [
+      "Lenticels",
+      "Guard cells",
+      "Cuticle",
+      "Epidermis",
+      "Mesophyll",
+      "Trichomes",
+      "Hydathodes"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Biology",
+    "difficulty": "hard",
+    "id": "7a95debc-7c29-4fb7-b714-e0b806f29943",
+    "created_at": "2025-04-13T21:30:04.598Z",
+    "backupTimestamp": "2025-04-13T21:30:04.598Z",
+    "localBackupTimestamp": "2025-04-13T15:30:04.598Z"
+  },
+  {
+    "question": "Which division of the autonomic nervous system is responsible for the 'fight-or-flight' response?",
+    "correct_answer": "Sympathetic Nervous System",
+    "incorrect_answers": [
+      "Parasympathetic Nervous System",
+      "Somatic Nervous System",
+      "Central Nervous System",
+      "Enteric Nervous System",
+      "Peripheral Nervous System",
+      "Sensory Division",
+      "Motor Division"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Biology",
+    "difficulty": "hard",
+    "id": "717a2e32-1d03-4376-9676-a6088a12d14b",
+    "created_at": "2025-04-13T21:30:04.599Z",
+    "backupTimestamp": "2025-04-13T21:30:04.599Z",
+    "localBackupTimestamp": "2025-04-13T15:30:04.599Z"
+  },
+  {
+    "question": "What is the Michaelis-Menten constant (Km) in enzyme kinetics?",
+    "correct_answer": "The substrate concentration at which the reaction rate is half of Vmax",
+    "incorrect_answers": [
+      "The maximum reaction rate",
+      "The enzyme's turnover number",
+      "The enzyme concentration",
+      "The activation energy",
+      "The equilibrium constant",
+      "The dissociation constant",
+      "The optimal pH for the enzyme"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Biology",
+    "difficulty": "hard",
+    "id": "d44fe5dc-0ea9-4e20-bc5e-05b35f3b6ebd",
+    "created_at": "2025-04-13T21:30:04.600Z",
+    "backupTimestamp": "2025-04-13T21:30:04.600Z",
+    "localBackupTimestamp": "2025-04-13T15:30:04.600Z"
+  },
+  {
+    "question": "What are CAM plants adapted to do?",
+    "correct_answer": "Minimize water loss by opening stomata only at night for CO2 uptake",
+    "incorrect_answers": [
+      "Fix carbon dioxide into a 4-carbon compound initially (C4)",
+      "Grow entirely underwater",
+      "Survive in extremely cold temperatures",
+      "Perform photosynthesis without chlorophyll",
+      "Reproduce asexually via spores",
+      "Thrive in high-salinity environments",
+      "Fix atmospheric nitrogen directly"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Biology",
+    "difficulty": "hard",
+    "id": "52a0dd6a-bedd-4a89-94fd-0a78a1a70647",
+    "created_at": "2025-04-13T21:30:04.602Z",
+    "backupTimestamp": "2025-04-13T21:30:04.602Z",
+    "localBackupTimestamp": "2025-04-13T15:30:04.602Z"
+  },
+  {
+    "question": "Which type of T cell is primarily responsible for killing infected host cells?",
+    "correct_answer": "Cytotoxic T cells (Killer T cells / CD8+)",
+    "incorrect_answers": [
+      "Helper T cells (CD4+)",
+      "Regulatory T cells (Tregs)",
+      "Memory T cells",
+      "B cells",
+      "Natural Killer (NK) cells",
+      "Macrophages",
+      "Dendritic cells"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Biology",
+    "difficulty": "hard",
+    "id": "4617ed23-c79c-4d40-8e85-a75e273ef478",
+    "created_at": "2025-04-13T21:30:04.603Z",
+    "backupTimestamp": "2025-04-13T21:30:04.603Z",
+    "localBackupTimestamp": "2025-04-13T15:30:04.603Z"
+  },
+  {
+    "question": "What is the phenomenon where one gene influences multiple phenotypic traits?",
+    "correct_answer": "Pleiotropy",
+    "incorrect_answers": [
+      "Epistasis",
+      "Polygenic inheritance",
+      "Incomplete dominance",
+      "Codominance",
+      "Linkage",
+      "Penetrance",
+      "Expressivity"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Biology",
+    "difficulty": "hard",
+    "id": "27146b76-d36f-45c1-8b5a-e4ceb34285fc",
+    "created_at": "2025-04-13T21:30:04.604Z",
+    "backupTimestamp": "2025-04-13T21:30:04.604Z",
+    "localBackupTimestamp": "2025-04-13T15:30:04.604Z"
+  },
+  {
+    "question": "What protein forms the primary structural component of hair, nails, and feathers?",
+    "correct_answer": "Keratin",
+    "incorrect_answers": [
+      "Collagen",
+      "Elastin",
+      "Actin",
+      "Myosin",
+      "Fibrin",
+      "Chitin",
+      "Tubulin"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Biology",
+    "difficulty": "hard",
+    "id": "ba1d678c-9d49-48ca-a291-50741e6d3999",
+    "created_at": "2025-04-13T21:30:04.605Z",
+    "backupTimestamp": "2025-04-13T21:30:04.605Z",
+    "localBackupTimestamp": "2025-04-13T15:30:04.605Z"
+  },
+  {
+    "question": "What is the role of restriction enzymes in molecular biology?",
+    "correct_answer": "To cut DNA at specific recognition nucleotide sequences",
+    "incorrect_answers": [
+      "To join DNA fragments together",
+      "To synthesize DNA copies",
+      "To separate DNA fragments by size",
+      "To unwind the DNA double helix",
+      "To add methyl groups to DNA",
+      "To transcribe DNA into RNA",
+      "To repair damaged DNA"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Biology",
+    "difficulty": "hard",
+    "id": "e1e92c5b-6181-4259-8fbb-e32e7b5cda0b",
+    "created_at": "2025-04-13T21:30:04.606Z",
+    "backupTimestamp": "2025-04-13T21:30:04.606Z",
+    "localBackupTimestamp": "2025-04-13T15:30:04.606Z"
+  },
+  {
+    "question": "What is the main function of the lymphatic system?",
+    "correct_answer": "Return fluid to the blood and aid in immune responses",
+    "incorrect_answers": [
+      "Transport oxygen",
+      "Digest food",
+      "Transmit nerve impulses",
+      "Produce hormones",
+      "Filter blood",
+      "Regulate body temperature",
+      "Store minerals"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Biology",
+    "difficulty": "hard",
+    "id": "0fd858ac-fbca-4b73-86e3-e7beb42be046",
+    "created_at": "2025-04-13T21:30:04.607Z",
+    "backupTimestamp": "2025-04-13T21:30:04.607Z",
+    "localBackupTimestamp": "2025-04-13T15:30:04.607Z"
+  },
+  {
+    "question": "What is the process of converting the genetic information from mRNA into a protein sequence?",
+    "correct_answer": "Translation",
+    "incorrect_answers": [
+      "Transcription",
+      "Replication",
+      "Reverse transcription",
+      "Splicing",
+      "Post-translational modification",
+      "DNA repair",
+      "Mutation"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Biology",
+    "difficulty": "hard",
+    "id": "4513ddd4-58f2-4715-8efc-96ea8c96b11c",
+    "created_at": "2025-04-13T21:30:04.608Z",
+    "backupTimestamp": "2025-04-13T21:30:04.608Z",
+    "localBackupTimestamp": "2025-04-13T15:30:04.608Z"
+  },
+  {
+    "question": "Which group of extinct marine arthropods, characterized by their three-lobed bodies, were dominant during the Paleozoic Era?",
+    "correct_answer": "Trilobites",
+    "incorrect_answers": [
+      "Ammonites",
+      "Eurypterids (Sea Scorpions)",
+      "Graptolites",
+      "Brachiopods",
+      "Crinoids",
+      "Archaeocyathids",
+      "Anomalocaris"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Biology",
+    "difficulty": "hard",
+    "id": "56025876-edd0-4408-a7c7-b651f773e024",
+    "created_at": "2025-04-13T21:30:04.609Z",
+    "backupTimestamp": "2025-04-13T21:30:04.609Z",
+    "localBackupTimestamp": "2025-04-13T15:30:04.609Z"
+  },
+  {
+    "question": "What are Hox genes responsible for?",
+    "correct_answer": "Determining the basic structure or body plan of an organism during development",
+    "incorrect_answers": [
+      "Regulating metabolic pathways",
+      "Controlling cell division rates",
+      "Synthesizing specific proteins like hemoglobin",
+      "Repairing DNA damage",
+      "Producing antibodies",
+      "Facilitating nerve impulse transmission",
+      "Breaking down toxins"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Biology",
+    "difficulty": "hard",
+    "id": "632d9a81-4057-4695-a094-c8ef6af143ad",
+    "created_at": "2025-04-13T21:30:04.610Z",
+    "backupTimestamp": "2025-04-13T21:30:04.611Z",
+    "localBackupTimestamp": "2025-04-13T15:30:04.611Z"
+  },
+  {
+    "question": "What type of chemical bond holds the two strands of the DNA double helix together?",
+    "correct_answer": "Hydrogen bonds",
+    "incorrect_answers": [
+      "Covalent bonds",
+      "Ionic bonds",
+      "Peptide bonds",
+      "Phosphodiester bonds",
+      "Glycosidic bonds",
+      "Ester bonds",
+      "Metallic bonds"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Biology",
+    "difficulty": "hard",
+    "id": "e8b3fd6b-585d-499f-9653-1d44c32f0c7e",
+    "created_at": "2025-04-13T21:30:04.611Z",
+    "backupTimestamp": "2025-04-13T21:30:04.612Z",
+    "localBackupTimestamp": "2025-04-13T15:30:04.612Z"
+  },
+  {
+    "question": "What is the corpus luteum?",
+    "correct_answer": "A temporary endocrine structure in the ovary involved in producing progesterone",
+    "incorrect_answers": [
+      "The fluid-filled sac containing the egg",
+      "The lining of the uterus",
+      "A structure connecting the fetus to the placenta",
+      "A part of the brain regulating hormones",
+      "The tube transporting eggs to the uterus",
+      "The external female genitalia",
+      "A gland producing lubricating fluid"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Biology",
+    "difficulty": "hard",
+    "id": "5606aafb-eabd-4371-b0da-b45dc0a60f80",
+    "created_at": "2025-04-13T21:30:04.613Z",
+    "backupTimestamp": "2025-04-13T21:30:04.613Z",
+    "localBackupTimestamp": "2025-04-13T15:30:04.613Z"
+  },
+  {
+    "question": "What is the difference between C3 and C4 photosynthesis?",
+    "correct_answer": "C4 plants initially fix CO2 into a 4-carbon compound to minimize photorespiration",
+    "incorrect_answers": [
+      "C3 plants use chlorophyll, C4 plants use bacteriochlorophyll",
+      "C4 plants occur only in aquatic environments",
+      "C3 plants open stomata at night, C4 plants during the day",
+      "C4 plants do not perform the Calvin Cycle",
+      "C3 plants produce 3 ATP per cycle, C4 produce 4 ATP",
+      "C4 plants lack RuBisCO enzyme",
+      "C3 plants are typically monocots, C4 are dicots"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Biology",
+    "difficulty": "hard",
+    "id": "45c871fc-bfe4-4ad1-ba67-e0de74759e2d",
+    "created_at": "2025-04-13T21:30:04.614Z",
+    "backupTimestamp": "2025-04-13T21:30:04.614Z",
+    "localBackupTimestamp": "2025-04-13T15:30:04.614Z"
+  },
+  {
+    "question": "What is the primary component of fungal cell walls?",
+    "correct_answer": "Chitin",
+    "incorrect_answers": [
+      "Cellulose",
+      "Peptidoglycan",
+      "Keratin",
+      "Collagen",
+      "Lignin",
+      "Pectin",
+      "Silica"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Biology",
+    "difficulty": "hard",
+    "id": "a2dea131-d655-4a63-8509-85858ae141e5",
+    "created_at": "2025-04-13T21:30:04.615Z",
+    "backupTimestamp": "2025-04-13T21:30:04.616Z",
+    "localBackupTimestamp": "2025-04-13T15:30:04.616Z"
+  },
+  {
+    "question": "What is the function of reverse transcriptase?",
+    "correct_answer": "To synthesize DNA from an RNA template",
+    "incorrect_answers": [
+      "To synthesize RNA from a DNA template",
+      "To replicate DNA",
+      "To repair damaged DNA",
+      "To cut DNA at specific sites",
+      "To join DNA fragments",
+      "To translate RNA into protein",
+      "To unwind DNA"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Biology",
+    "difficulty": "hard",
+    "id": "6e7057a2-23f5-48e6-a8c7-87112d1ebc17",
+    "created_at": "2025-04-13T21:30:04.616Z",
+    "backupTimestamp": "2025-04-13T21:30:04.617Z",
+    "localBackupTimestamp": "2025-04-13T15:30:04.617Z"
+  },
+  {
+    "question": "What is the Warburg effect in cancer biology?",
+    "correct_answer": "Cancer cells preferentially use glycolysis for energy even in the presence of oxygen",
+    "incorrect_answers": [
+      "The ability of cancer cells to induce blood vessel growth (angiogenesis)",
+      "The evasion of programmed cell death (apoptosis) by cancer cells",
+      "The unlimited replicative potential of cancer cells (immortality)",
+      "The ability of cancer cells to invade tissues and metastasize",
+      "The genetic instability characteristic of cancer cells",
+      "The resistance of cancer cells to chemotherapy",
+      "The suppression of the immune system by tumors"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Biology",
+    "difficulty": "hard",
+    "id": "0c306e56-b1c1-43eb-b577-dc5fca9db9ee",
+    "created_at": "2025-04-13T21:30:04.618Z",
+    "backupTimestamp": "2025-04-13T21:30:04.618Z",
+    "localBackupTimestamp": "2025-04-13T15:30:04.618Z"
+  },
+  {
+    "question": "What are chaperone proteins involved in?",
+    "correct_answer": "Assisting in the proper folding of other proteins",
+    "incorrect_answers": [
+      "Transporting molecules across membranes",
+      "Synthesizing ATP",
+      "Replicating DNA",
+      "Breaking down damaged organelles",
+      "Carrying oxygen in the blood",
+      "Catalyzing metabolic reactions",
+      "Regulating gene expression"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Biology",
+    "difficulty": "hard",
+    "id": "a80793c4-b020-4d4c-a385-56679ec8a67b",
+    "created_at": "2025-04-13T21:30:04.619Z",
+    "backupTimestamp": "2025-04-13T21:30:04.619Z",
+    "localBackupTimestamp": "2025-04-13T15:30:04.619Z"
+  },
+  {
+    "question": "Which neurotransmitter is primarily involved in mood regulation, sleep, and appetite, often targeted by SSRI antidepressants?",
+    "correct_answer": "Serotonin",
+    "incorrect_answers": [
+      "Dopamine",
+      "Acetylcholine",
+      "Norepinephrine",
+      "GABA",
+      "Glutamate",
+      "Endorphins",
+      "Adrenaline"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Biology",
+    "difficulty": "hard",
+    "id": "2355836a-a4f8-4b65-9b8d-a2a6e23a57b2",
+    "created_at": "2025-04-13T21:30:04.621Z",
+    "backupTimestamp": "2025-04-13T21:30:04.621Z",
+    "localBackupTimestamp": "2025-04-13T15:30:04.621Z"
+  },
+  {
+    "question": "What is the biological definition of fitness?",
+    "correct_answer": "An organism's reproductive success in a particular environment",
+    "incorrect_answers": [
+      "Physical strength and endurance",
+      "Longevity or lifespan",
+      "Intelligence or problem-solving ability",
+      "Ability to adapt to changing conditions",
+      "Resistance to disease",
+      "Complexity of biological systems",
+      "Dominance in social hierarchies"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Biology",
+    "difficulty": "hard",
+    "id": "c43c14a3-9a21-4804-8b3d-b84d13ea99f5",
+    "created_at": "2025-04-13T21:30:04.622Z",
+    "backupTimestamp": "2025-04-13T21:30:04.622Z",
+    "localBackupTimestamp": "2025-04-13T15:30:04.622Z"
+  },
+  {
+    "question": "What is the function of the spliceosome?",
+    "correct_answer": "To remove introns from pre-mRNA",
+    "incorrect_answers": [
+      "To synthesize mRNA from DNA",
+      "To replicate DNA",
+      "To translate mRNA into protein",
+      "To add a poly-A tail to mRNA",
+      "To add a 5' cap to mRNA",
+      "To repair damaged DNA",
+      "To fold proteins correctly"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Biology",
+    "difficulty": "hard",
+    "id": "789ffc69-8370-4e95-8475-285cccc83383",
+    "created_at": "2025-04-13T21:30:04.623Z",
+    "backupTimestamp": "2025-04-13T21:30:04.623Z",
+    "localBackupTimestamp": "2025-04-13T15:30:04.623Z"
+  },
+  {
+    "question": "What is meant by 'alternation of generations' in plant life cycles?",
+    "correct_answer": "A life cycle alternating between multicellular haploid (gametophyte) and diploid (sporophyte) phases",
+    "incorrect_answers": [
+      "Alternating between sexual and asexual reproduction",
+      "Having distinct juvenile and adult forms",
+      "Producing seeds in alternating years",
+      "Switching between photosynthetic and parasitic modes",
+      "Having both male and female reproductive organs",
+      "Alternating between terrestrial and aquatic habitats",
+      "Cycles of growth and dormancy based on seasons"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Biology",
+    "difficulty": "hard",
+    "id": "f8c71804-df24-4d42-a0a8-4e34e28420b7",
+    "created_at": "2025-04-13T21:30:04.624Z",
+    "backupTimestamp": "2025-04-13T21:30:04.624Z",
+    "localBackupTimestamp": "2025-04-13T15:30:04.624Z"
+  },
+  {
+    "question": "What does the acronym PCR stand for in molecular biology?",
+    "correct_answer": "Polymerase Chain Reaction",
+    "incorrect_answers": [
+      "Protein Confirmation Resonance",
+      "Polynucleotide Cleavage Repair",
+      "Photosynthetic Carbon Reduction",
+      "Programmed Cell Response",
+      "Poly-Cytosine Region",
+      "Peptide Chain Release",
+      "Principal Component Regression"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Biology",
+    "difficulty": "hard",
+    "id": "11ef2375-b2bb-41e5-92b5-5204e360edf9",
+    "created_at": "2025-04-13T21:30:04.626Z",
+    "backupTimestamp": "2025-04-13T21:30:04.626Z",
+    "localBackupTimestamp": "2025-04-13T15:30:04.626Z"
+  },
+  {
+    "question": "What is the primary role of the endoplasmic reticulum (ER) in a eukaryotic cell?",
+    "correct_answer": "Protein and lipid synthesis and modification",
+    "incorrect_answers": [
+      "ATP production",
+      "Genetic information storage",
+      "Waste breakdown and recycling",
+      "Packaging and shipping of molecules",
+      "Photosynthesis",
+      "Cell division",
+      "Maintaining cell shape"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Biology",
+    "difficulty": "hard",
+    "id": "7c6a9cba-276a-4e89-935c-0eceb5489d1b",
+    "created_at": "2025-04-13T21:30:04.627Z",
+    "backupTimestamp": "2025-04-13T21:30:04.627Z",
+    "localBackupTimestamp": "2025-04-13T15:30:04.627Z"
+  },
+  {
+    "question": "What is Liebig's Law of the Minimum?",
+    "correct_answer": "Growth is dictated not by total resources available, but by the scarcest resource (limiting factor)",
+    "incorrect_answers": [
+      "Energy cannot be created or destroyed (1st Law Thermodynamics)",
+      "Every energy transfer increases entropy (2nd Law Thermodynamics)",
+      "Species diversity increases ecosystem stability",
+      "Organisms evolve through natural selection",
+      "All living things are composed of cells",
+      "Genetic information flows from DNA to RNA to protein",
+      "Population growth is limited by carrying capacity"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Biology",
+    "difficulty": "hard",
+    "id": "164d5e1c-40b3-4ece-87ef-a80b363ed0f6",
+    "created_at": "2025-04-13T21:30:04.628Z",
+    "backupTimestamp": "2025-04-13T21:30:04.628Z",
+    "localBackupTimestamp": "2025-04-13T15:30:04.628Z"
+  },
+  {
+    "question": "Which vitamin is essential for blood clotting?",
+    "correct_answer": "Vitamin K",
+    "incorrect_answers": [
+      "Vitamin A",
+      "Vitamin C",
+      "Vitamin D",
+      "Vitamin E",
+      "Vitamin B12",
+      "Folic Acid (B9)",
+      "Niacin (B3)"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Biology",
+    "difficulty": "hard",
+    "id": "b1865bdc-5e95-4d8f-81c2-4a1337bd9202",
+    "created_at": "2025-04-13T21:30:04.629Z",
+    "backupTimestamp": "2025-04-13T21:30:04.629Z",
+    "localBackupTimestamp": "2025-04-13T15:30:04.629Z"
+  }
+]

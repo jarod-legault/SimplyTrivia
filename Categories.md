@@ -13,7 +13,6 @@
 - Comics
 - Books & Literature
 - Celebrities
-- Internet Culture, Memes, & Viral Content
 
 ## Science & Nature
 - Biology
