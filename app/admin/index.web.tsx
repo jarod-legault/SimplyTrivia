@@ -329,7 +329,8 @@ export default function AdminPage() {
                 <View style={styles.questionTextContainer}>
                   <Text style={styles.questionText}>{question.question}</Text>
                   <Text style={styles.questionMeta}>
-                    Category: {question.category} | Difficulty: {question.difficulty}
+                    Category: {question.mainCategory} - {question.subcategory} | Difficulty:{' '}
+                    {question.difficulty}
                   </Text>
                 </View>
                 <View style={styles.questionActions}>
