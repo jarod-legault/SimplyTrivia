@@ -6258,5 +6258,3145 @@
     "created_at": "2025-04-13T01:43:59.455Z",
     "backupTimestamp": "2025-04-13T01:43:59.456Z",
     "localBackupTimestamp": "2025-04-12T19:43:59.456Z"
+  },
+  {
+    "question": "Which artist is known as the 'King of Pop'?",
+    "correct_answer": "Michael Jackson",
+    "incorrect_answers": [
+      "Elvis Presley",
+      "Prince",
+      "Madonna",
+      "Stevie Wonder",
+      "James Brown",
+      "Freddie Mercury",
+      "David Bowie"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Music",
+    "difficulty": "easy",
+    "id": "c8f4c14e-7b56-4a9e-b2e5-908e59788a90",
+    "created_at": "2025-04-13T01:52:26.956Z",
+    "backupTimestamp": "2025-04-13T01:52:26.958Z",
+    "localBackupTimestamp": "2025-04-12T19:52:26.958Z"
+  },
+  {
+    "question": "Which iconic British band performed 'Hey Jude' and 'Let It Be'?",
+    "correct_answer": "The Beatles",
+    "incorrect_answers": [
+      "The Rolling Stones",
+      "Queen",
+      "Led Zeppelin",
+      "Pink Floyd",
+      "The Who",
+      "Oasis",
+      "Coldplay"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Music",
+    "difficulty": "easy",
+    "id": "e6cd12b1-d581-4c4c-b573-e73f13e08db5",
+    "created_at": "2025-04-13T01:52:26.971Z",
+    "backupTimestamp": "2025-04-13T01:52:26.975Z",
+    "localBackupTimestamp": "2025-04-12T19:52:26.975Z"
+  },
+  {
+    "question": "Who is the lead singer of the band Queen?",
+    "correct_answer": "Freddie Mercury",
+    "incorrect_answers": [
+      "Brian May",
+      "Roger Taylor",
+      "John Deacon",
+      "Mick Jagger",
+      "Robert Plant",
+      "David Bowie",
+      "Elton John"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Music",
+    "difficulty": "easy",
+    "id": "71fa6a09-88bb-443e-968e-77a1e979d70a",
+    "created_at": "2025-04-13T01:52:26.980Z",
+    "backupTimestamp": "2025-04-13T01:52:26.981Z",
+    "localBackupTimestamp": "2025-04-12T19:52:26.981Z"
+  },
+  {
+    "question": "What pop star famously sang '...Baby One More Time'?",
+    "correct_answer": "Britney Spears",
+    "incorrect_answers": [
+      "Christina Aguilera",
+      "Madonna",
+      "Lady Gaga",
+      "Beyoncé",
+      "Rihanna",
+      "Taylor Swift",
+      "Katy Perry"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Music",
+    "difficulty": "easy",
+    "id": "47326593-2168-47e4-9388-3ae1dabace3e",
+    "created_at": "2025-04-13T01:52:26.984Z",
+    "backupTimestamp": "2025-04-13T01:52:26.985Z",
+    "localBackupTimestamp": "2025-04-12T19:52:26.985Z"
+  },
+  {
+    "question": "Which female artist is known as the 'Queen of Pop'?",
+    "correct_answer": "Madonna",
+    "incorrect_answers": [
+      "Beyoncé",
+      "Lady Gaga",
+      "Janet Jackson",
+      "Whitney Houston",
+      "Mariah Carey",
+      "Taylor Swift",
+      "Aretha Franklin"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Music",
+    "difficulty": "easy",
+    "id": "4826b6aa-a7fb-4564-8b33-f967d2def2be",
+    "created_at": "2025-04-13T01:52:26.987Z",
+    "backupTimestamp": "2025-04-13T01:52:26.988Z",
+    "localBackupTimestamp": "2025-04-12T19:52:26.988Z"
+  },
+  {
+    "question": "What instrument is famously associated with Jimi Hendrix?",
+    "correct_answer": "Electric Guitar",
+    "incorrect_answers": [
+      "Drums",
+      "Bass Guitar",
+      "Piano",
+      "Saxophone",
+      "Trumpet",
+      "Violin",
+      "Harmonica"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Music",
+    "difficulty": "easy",
+    "id": "5af9beaa-282e-4814-928d-83187cb95132",
+    "created_at": "2025-04-13T01:52:26.990Z",
+    "backupTimestamp": "2025-04-13T01:52:26.990Z",
+    "localBackupTimestamp": "2025-04-12T19:52:26.990Z"
+  },
+  {
+    "question": "Which rapper released the album 'The Marshall Mathers LP'?",
+    "correct_answer": "Eminem",
+    "incorrect_answers": [
+      "Jay-Z",
+      "Kanye West",
+      "Dr. Dre",
+      "Snoop Dogg",
+      "Tupac Shakur",
+      "Nas",
+      "Kendrick Lamar"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Music",
+    "difficulty": "easy",
+    "id": "2e052151-679a-4b45-8481-1433c6c6b93c",
+    "created_at": "2025-04-13T01:52:26.993Z",
+    "backupTimestamp": "2025-04-13T01:52:26.993Z",
+    "localBackupTimestamp": "2025-04-12T19:52:26.993Z"
+  },
+  {
+    "question": "What country music legend sang 'I Walk the Line' and 'Ring of Fire'?",
+    "correct_answer": "Johnny Cash",
+    "incorrect_answers": [
+      "Willie Nelson",
+      "Waylon Jennings",
+      "Merle Haggard",
+      "Hank Williams",
+      "George Jones",
+      "Kenny Rogers",
+      "Garth Brooks"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Music",
+    "difficulty": "easy",
+    "id": "3cd9ae72-881f-4356-9f4c-204c9b04dc3b",
+    "created_at": "2025-04-13T01:52:26.997Z",
+    "backupTimestamp": "2025-04-13T01:52:26.997Z",
+    "localBackupTimestamp": "2025-04-12T19:52:26.997Z"
+  },
+  {
+    "question": "Who is the lead vocalist of the rock band U2?",
+    "correct_answer": "Bono",
+    "incorrect_answers": [
+      "The Edge",
+      "Adam Clayton",
+      "Larry Mullen Jr.",
+      "Chris Martin",
+      "Bruce Springsteen",
+      "Sting",
+      "Eddie Vedder"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Music",
+    "difficulty": "easy",
+    "id": "ab28ce8b-f286-4f33-8a57-925c1693ac3a",
+    "created_at": "2025-04-13T01:52:26.999Z",
+    "backupTimestamp": "2025-04-13T01:52:26.999Z",
+    "localBackupTimestamp": "2025-04-12T19:52:26.999Z"
+  },
+  {
+    "question": "Which pop singer is known for hits like 'Shake It Off' and 'Blank Space'?",
+    "correct_answer": "Taylor Swift",
+    "incorrect_answers": [
+      "Katy Perry",
+      "Lady Gaga",
+      "Rihanna",
+      "Adele",
+      "Ariana Grande",
+      "Selena Gomez",
+      "Miley Cyrus"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Music",
+    "difficulty": "easy",
+    "id": "6b3334bc-8f04-4dd9-aa1b-37d48ca3e4ee",
+    "created_at": "2025-04-13T01:52:27.001Z",
+    "backupTimestamp": "2025-04-13T01:52:27.002Z",
+    "localBackupTimestamp": "2025-04-12T19:52:27.002Z"
+  },
+  {
+    "question": "What genre of music is Bob Marley most associated with?",
+    "correct_answer": "Reggae",
+    "incorrect_answers": [
+      "Rock",
+      "Pop",
+      "Hip Hop",
+      "Jazz",
+      "Blues",
+      "Country",
+      "Funk"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Music",
+    "difficulty": "easy",
+    "id": "f8f91d78-bb20-4c01-8552-5c3256627c89",
+    "created_at": "2025-04-13T01:52:27.005Z",
+    "backupTimestamp": "2025-04-13T01:52:27.006Z",
+    "localBackupTimestamp": "2025-04-12T19:52:27.006Z"
+  },
+  {
+    "question": "Which band performed the classic hit 'Bohemian Rhapsody'?",
+    "correct_answer": "Queen",
+    "incorrect_answers": [
+      "The Beatles",
+      "Led Zeppelin",
+      "Pink Floyd",
+      "The Rolling Stones",
+      "AC/DC",
+      "Guns N' Roses",
+      "U2"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Music",
+    "difficulty": "easy",
+    "id": "7e9a2f96-058c-46ac-afb2-65798b801988",
+    "created_at": "2025-04-13T01:52:27.007Z",
+    "backupTimestamp": "2025-04-13T01:52:27.008Z",
+    "localBackupTimestamp": "2025-04-12T19:52:27.008Z"
+  },
+  {
+    "question": "Who sang the hit song 'Like a Prayer'?",
+    "correct_answer": "Madonna",
+    "incorrect_answers": [
+      "Cyndi Lauper",
+      "Whitney Houston",
+      "Janet Jackson",
+      "Paula Abdul",
+      "Cher",
+      "Stevie Nicks",
+      "Tina Turner"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Music",
+    "difficulty": "easy",
+    "id": "8cb2539d-cc57-4b27-abd6-96f4f4ae832a",
+    "created_at": "2025-04-13T01:52:27.009Z",
+    "backupTimestamp": "2025-04-13T01:52:27.010Z",
+    "localBackupTimestamp": "2025-04-12T19:52:27.010Z"
+  },
+  {
+    "question": "What instrument does Yo-Yo Ma famously play?",
+    "correct_answer": "Cello",
+    "incorrect_answers": [
+      "Violin",
+      "Piano",
+      "Flute",
+      "Trumpet",
+      "Double Bass",
+      "Viola",
+      "Clarinet"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Music",
+    "difficulty": "easy",
+    "id": "dd60ec7a-c7ca-4a78-bef2-ad70840ae3e2",
+    "created_at": "2025-04-13T01:52:27.012Z",
+    "backupTimestamp": "2025-04-13T01:52:27.012Z",
+    "localBackupTimestamp": "2025-04-12T19:52:27.012Z"
+  },
+  {
+    "question": "Which member of The Beatles was known as 'the quiet Beatle'?",
+    "correct_answer": "George Harrison",
+    "incorrect_answers": [
+      "John Lennon",
+      "Paul McCartney",
+      "Ringo Starr",
+      "Pete Best",
+      "Stuart Sutcliffe",
+      "Brian Epstein",
+      "George Martin"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Music",
+    "difficulty": "easy",
+    "id": "2bfd2296-c1b3-4167-9583-c4ef1e824c8f",
+    "created_at": "2025-04-13T01:52:27.014Z",
+    "backupTimestamp": "2025-04-13T01:52:27.014Z",
+    "localBackupTimestamp": "2025-04-12T19:52:27.014Z"
+  },
+  {
+    "question": "Who sang the powerful ballad 'I Will Always Love You' for the movie 'The Bodyguard'?",
+    "correct_answer": "Whitney Houston",
+    "incorrect_answers": [
+      "Mariah Carey",
+      "Celine Dion",
+      "Aretha Franklin",
+      "Dolly Parton (original writer/singer)",
+      "Toni Braxton",
+      "Gladys Knight",
+      "Patti LaBelle"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Music",
+    "difficulty": "easy",
+    "id": "23ac16dc-5e28-48e1-aa7a-93855b843017",
+    "created_at": "2025-04-13T01:52:27.019Z",
+    "backupTimestamp": "2025-04-13T01:52:27.020Z",
+    "localBackupTimestamp": "2025-04-12T19:52:27.020Z"
+  },
+  {
+    "question": "Which rapper is known for the album 'Graduation' and 'My Beautiful Dark Twisted Fantasy'?",
+    "correct_answer": "Kanye West (Ye)",
+    "incorrect_answers": [
+      "Jay-Z",
+      "Drake",
+      "Kendrick Lamar",
+      "Eminem",
+      "Lil Wayne",
+      "Nas",
+      "Travis Scott"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Music",
+    "difficulty": "easy",
+    "id": "34d855fd-9fa9-4826-8fbb-bb743511167a",
+    "created_at": "2025-04-13T01:52:27.023Z",
+    "backupTimestamp": "2025-04-13T01:52:27.024Z",
+    "localBackupTimestamp": "2025-04-12T19:52:27.024Z"
+  },
+  {
+    "question": "What famous music festival took place in 1969 in upstate New York?",
+    "correct_answer": "Woodstock",
+    "incorrect_answers": [
+      "Coachella",
+      "Lollapalooza",
+      "Glastonbury",
+      "Monterey Pop Festival",
+      "Isle of Wight Festival",
+      "Altamont Free Concert",
+      "Burning Man"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Music",
+    "difficulty": "easy",
+    "id": "0eae0b0a-2bdb-4857-987e-7d18366ce84f",
+    "created_at": "2025-04-13T01:52:27.027Z",
+    "backupTimestamp": "2025-04-13T01:52:27.028Z",
+    "localBackupTimestamp": "2025-04-12T19:52:27.028Z"
+  },
+  {
+    "question": "Which band includes members Anthony Kiedis and Flea?",
+    "correct_answer": "Red Hot Chili Peppers",
+    "incorrect_answers": [
+      "Foo Fighters",
+      "Pearl Jam",
+      "Nirvana",
+      "Green Day",
+      "Metallica",
+      "Jane's Addiction",
+      "Rage Against the Machine"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Music",
+    "difficulty": "easy",
+    "id": "b412b482-64bc-4baa-a608-651e1f27fcf8",
+    "created_at": "2025-04-13T01:52:27.031Z",
+    "backupTimestamp": "2025-04-13T01:52:27.032Z",
+    "localBackupTimestamp": "2025-04-12T19:52:27.032Z"
+  },
+  {
+    "question": "Who is the lead singer of the Rolling Stones?",
+    "correct_answer": "Mick Jagger",
+    "incorrect_answers": [
+      "Keith Richards",
+      "Ronnie Wood",
+      "Charlie Watts",
+      "Robert Plant",
+      "Roger Daltrey",
+      "Paul McCartney",
+      "Freddie Mercury"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Music",
+    "difficulty": "easy",
+    "id": "6d9829f7-0153-4d69-bd2c-d18bb122ae01",
+    "created_at": "2025-04-13T01:52:27.034Z",
+    "backupTimestamp": "2025-04-13T01:52:27.034Z",
+    "localBackupTimestamp": "2025-04-12T19:52:27.034Z"
+  },
+  {
+    "question": "What genre is typically associated with artists like Louis Armstrong and Duke Ellington?",
+    "correct_answer": "Jazz",
+    "incorrect_answers": [
+      "Blues",
+      "Rock and Roll",
+      "Classical",
+      "Country",
+      "Hip Hop",
+      "Reggae",
+      "Funk"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Music",
+    "difficulty": "easy",
+    "id": "de95ff85-f656-4861-9ea8-6c613250e983",
+    "created_at": "2025-04-13T01:52:27.036Z",
+    "backupTimestamp": "2025-04-13T01:52:27.036Z",
+    "localBackupTimestamp": "2025-04-12T19:52:27.036Z"
+  },
+  {
+    "question": "Which pop group consisted of five members nicknamed Sporty, Scary, Baby, Ginger, and Posh?",
+    "correct_answer": "Spice Girls",
+    "incorrect_answers": [
+      "Destiny's Child",
+      "TLC",
+      "The Pussycat Dolls",
+      "Girls Aloud",
+      "Sugababes",
+      "All Saints",
+      "Bananarama"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Music",
+    "difficulty": "easy",
+    "id": "115daa6a-0688-4f50-9a53-85f93d93b0ab",
+    "created_at": "2025-04-13T01:52:27.038Z",
+    "backupTimestamp": "2025-04-13T01:52:27.038Z",
+    "localBackupTimestamp": "2025-04-12T19:52:27.038Z"
+  },
+  {
+    "question": "What instrument does Slash, famous for playing with Guns N' Roses, primarily play?",
+    "correct_answer": "Lead Guitar",
+    "incorrect_answers": [
+      "Rhythm Guitar",
+      "Bass Guitar",
+      "Drums",
+      "Vocals",
+      "Keyboard",
+      "Saxophone",
+      "Harmonica"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Music",
+    "difficulty": "easy",
+    "id": "7ce84ac9-01ba-4cd6-be79-a839b2a58269",
+    "created_at": "2025-04-13T01:52:27.040Z",
+    "backupTimestamp": "2025-04-13T01:52:27.040Z",
+    "localBackupTimestamp": "2025-04-12T19:52:27.040Z"
+  },
+  {
+    "question": "Who sang the hit song 'Billie Jean'?",
+    "correct_answer": "Michael Jackson",
+    "incorrect_answers": [
+      "Prince",
+      "Stevie Wonder",
+      "Marvin Gaye",
+      "James Brown",
+      "Lionel Richie",
+      "George Michael",
+      "Justin Timberlake"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Music",
+    "difficulty": "easy",
+    "id": "6696f1b3-3d2f-49a9-adce-0f0ba7f2a097",
+    "created_at": "2025-04-13T01:52:27.042Z",
+    "backupTimestamp": "2025-04-13T01:52:27.042Z",
+    "localBackupTimestamp": "2025-04-12T19:52:27.042Z"
+  },
+  {
+    "question": "Which artist released the groundbreaking album 'Purple Rain'?",
+    "correct_answer": "Prince",
+    "incorrect_answers": [
+      "Michael Jackson",
+      "David Bowie",
+      "Stevie Wonder",
+      "Marvin Gaye",
+      "Rick James",
+      "George Clinton",
+      "Sly Stone"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Music",
+    "difficulty": "easy",
+    "id": "a52313bb-eeca-49c0-939d-a7f37590a536",
+    "created_at": "2025-04-13T01:52:27.043Z",
+    "backupTimestamp": "2025-04-13T01:52:27.044Z",
+    "localBackupTimestamp": "2025-04-12T19:52:27.044Z"
+  },
+  {
+    "question": "What does 'DJ' typically stand for in music?",
+    "correct_answer": "Disc Jockey",
+    "incorrect_answers": [
+      "Digital Jammer",
+      "Drum Juggler",
+      "Dynamic Jukebox",
+      "Data Jockey",
+      "Direct Joint",
+      "Disco Jumper",
+      "Daft Jive"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Music",
+    "difficulty": "easy",
+    "id": "45a2fdf0-68af-4fe2-8d03-08346852eec3",
+    "created_at": "2025-04-13T01:52:27.045Z",
+    "backupTimestamp": "2025-04-13T01:52:27.045Z",
+    "localBackupTimestamp": "2025-04-12T19:52:27.045Z"
+  },
+  {
+    "question": "Who is known as the 'Godfather of Soul'?",
+    "correct_answer": "James Brown",
+    "incorrect_answers": [
+      "Ray Charles",
+      "Sam Cooke",
+      "Otis Redding",
+      "Marvin Gaye",
+      "Stevie Wonder",
+      "Aretha Franklin",
+      "Al Green"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Music",
+    "difficulty": "easy",
+    "id": "30d87a23-0cd9-420a-abbe-cdb607399da3",
+    "created_at": "2025-04-13T01:52:27.047Z",
+    "backupTimestamp": "2025-04-13T01:52:27.047Z",
+    "localBackupTimestamp": "2025-04-12T19:52:27.047Z"
+  },
+  {
+    "question": "Which singer starred in the movie 'A Star is Born' alongside Bradley Cooper?",
+    "correct_answer": "Lady Gaga",
+    "incorrect_answers": [
+      "Beyoncé",
+      "Rihanna",
+      "Adele",
+      "Taylor Swift",
+      "Katy Perry",
+      "Ariana Grande",
+      "Jennifer Lopez"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Music",
+    "difficulty": "easy",
+    "id": "2ead2d9a-3aa3-4578-bd91-6415441f4fd8",
+    "created_at": "2025-04-13T01:52:27.048Z",
+    "backupTimestamp": "2025-04-13T01:52:27.048Z",
+    "localBackupTimestamp": "2025-04-12T19:52:27.048Z"
+  },
+  {
+    "question": "What is the name of the lead singer of Nirvana?",
+    "correct_answer": "Kurt Cobain",
+    "incorrect_answers": [
+      "Dave Grohl",
+      "Krist Novoselic",
+      "Eddie Vedder",
+      "Chris Cornell",
+      "Layne Staley",
+      "Scott Weiland",
+      "Billy Corgan"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Music",
+    "difficulty": "easy",
+    "id": "1ec68ef6-1e2d-4ec1-8305-a2918526ebbf",
+    "created_at": "2025-04-13T01:52:27.050Z",
+    "backupTimestamp": "2025-04-13T01:52:27.050Z",
+    "localBackupTimestamp": "2025-04-12T19:52:27.050Z"
+  },
+  {
+    "question": "Which American singer is known as 'The Boss'?",
+    "correct_answer": "Bruce Springsteen",
+    "incorrect_answers": [
+      "Bob Dylan",
+      "Tom Petty",
+      "Neil Young",
+      "John Mellencamp",
+      "Billy Joel",
+      "Bon Jovi",
+      "Meat Loaf"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Music",
+    "difficulty": "easy",
+    "id": "6f3fedbc-0908-4370-94c3-8e43ea8c6d6e",
+    "created_at": "2025-04-13T01:52:27.051Z",
+    "backupTimestamp": "2025-04-13T01:52:27.052Z",
+    "localBackupTimestamp": "2025-04-12T19:52:27.052Z"
+  },
+  {
+    "question": "What genre of electronic music often features heavy bass drops and originated in the UK?",
+    "correct_answer": "Dubstep",
+    "incorrect_answers": [
+      "House",
+      "Techno",
+      "Trance",
+      "Drum and Bass",
+      "Ambient",
+      "Disco",
+      "Synth-pop"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Music",
+    "difficulty": "easy",
+    "id": "440e5989-d9b7-41f7-a5a6-c3907b5ea661",
+    "created_at": "2025-04-13T01:52:27.053Z",
+    "backupTimestamp": "2025-04-13T01:52:27.053Z",
+    "localBackupTimestamp": "2025-04-12T19:52:27.053Z"
+  },
+  {
+    "question": "Which female singer released the album 'Lemonade'?",
+    "correct_answer": "Beyoncé",
+    "incorrect_answers": [
+      "Rihanna",
+      "Adele",
+      "Taylor Swift",
+      "Lady Gaga",
+      "Alicia Keys",
+      "Solange",
+      "Janelle Monáe"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Music",
+    "difficulty": "easy",
+    "id": "f4108b11-44fd-46bd-a4d3-29f0954b6871",
+    "created_at": "2025-04-13T01:52:27.055Z",
+    "backupTimestamp": "2025-04-13T01:52:27.055Z",
+    "localBackupTimestamp": "2025-04-12T19:52:27.055Z"
+  },
+  {
+    "question": "What annual award show honors achievements in the music industry?",
+    "correct_answer": "Grammy Awards",
+    "incorrect_answers": [
+      "Academy Awards (Oscars)",
+      "Emmy Awards",
+      "Tony Awards",
+      "MTV Video Music Awards (VMAs)",
+      "Billboard Music Awards",
+      "American Music Awards (AMAs)",
+      "Golden Globe Awards"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Music",
+    "difficulty": "easy",
+    "id": "87e3a72c-1d09-4243-87e9-cc0a46f7fddf",
+    "created_at": "2025-04-13T01:52:27.056Z",
+    "backupTimestamp": "2025-04-13T01:52:27.057Z",
+    "localBackupTimestamp": "2025-04-12T19:52:27.057Z"
+  },
+  {
+    "question": "Who sang the classic rock anthem 'Stairway to Heaven'?",
+    "correct_answer": "Led Zeppelin",
+    "incorrect_answers": [
+      "Pink Floyd",
+      "The Who",
+      "Deep Purple",
+      "Black Sabbath",
+      "Queen",
+      "The Rolling Stones",
+      "AC/DC"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Music",
+    "difficulty": "easy",
+    "id": "525e110f-ae07-4cc9-a645-8ded5d00c343",
+    "created_at": "2025-04-13T01:52:27.058Z",
+    "backupTimestamp": "2025-04-13T01:52:27.058Z",
+    "localBackupTimestamp": "2025-04-12T19:52:27.058Z"
+  },
+  {
+    "question": "What is the name of the band fronted by Chris Martin?",
+    "correct_answer": "Coldplay",
+    "incorrect_answers": [
+      "U2",
+      "Muse",
+      "Radiohead",
+      "Keane",
+      "Snow Patrol",
+      "Travis",
+      "The Killers"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Music",
+    "difficulty": "easy",
+    "id": "d21278d0-cd00-495f-bdf0-0b64e0a106bf",
+    "created_at": "2025-04-13T01:52:27.059Z",
+    "backupTimestamp": "2025-04-13T01:52:27.060Z",
+    "localBackupTimestamp": "2025-04-12T19:52:27.060Z"
+  },
+  {
+    "question": "Which Canadian singer is known for hits like 'Baby' and 'Sorry'?",
+    "correct_answer": "Justin Bieber",
+    "incorrect_answers": [
+      "Drake",
+      "Shawn Mendes",
+      "The Weeknd",
+      "Michael Bublé",
+      "Bryan Adams",
+      "Avril Lavigne",
+      "Celine Dion"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Music",
+    "difficulty": "easy",
+    "id": "9dfbc737-ef16-4586-965f-991baedd94b4",
+    "created_at": "2025-04-13T01:52:27.061Z",
+    "backupTimestamp": "2025-04-13T01:52:27.062Z",
+    "localBackupTimestamp": "2025-04-12T19:52:27.062Z"
+  },
+  {
+    "question": "What legendary guitarist was known for playing his guitar upside down and left-handed?",
+    "correct_answer": "Jimi Hendrix",
+    "incorrect_answers": [
+      "Eric Clapton",
+      "Jimmy Page",
+      "Jeff Beck",
+      "Stevie Ray Vaughan",
+      "B.B. King",
+      "Chuck Berry",
+      "Keith Richards"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Music",
+    "difficulty": "easy",
+    "id": "b20db27a-21e0-41fd-86ef-40b6f50c21a7",
+    "created_at": "2025-04-13T01:52:27.064Z",
+    "backupTimestamp": "2025-04-13T01:52:27.064Z",
+    "localBackupTimestamp": "2025-04-12T19:52:27.064Z"
+  },
+  {
+    "question": "What does the 'B' in B.B. King stand for?",
+    "correct_answer": "Blues Boy",
+    "incorrect_answers": [
+      "Big",
+      "Bad",
+      "Bobby",
+      "Benjamin",
+      "Booker",
+      "Blind",
+      "Billy"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Music",
+    "difficulty": "easy",
+    "id": "553acbb6-a648-45a7-9384-715763777202",
+    "created_at": "2025-04-13T01:52:27.065Z",
+    "backupTimestamp": "2025-04-13T01:52:27.066Z",
+    "localBackupTimestamp": "2025-04-12T19:52:27.066Z"
+  },
+  {
+    "question": "Who is the singer known for the song 'Rolling in the Deep'?",
+    "correct_answer": "Adele",
+    "incorrect_answers": [
+      "Amy Winehouse",
+      "Florence Welch",
+      "Duffy",
+      "Sia",
+      "Jessie J",
+      "Leona Lewis",
+      "Lady Gaga"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Music",
+    "difficulty": "easy",
+    "id": "f5c7cbb9-bd32-4da2-8ddd-9772ec6a1099",
+    "created_at": "2025-04-13T01:52:27.068Z",
+    "backupTimestamp": "2025-04-13T01:52:27.068Z",
+    "localBackupTimestamp": "2025-04-12T19:52:27.068Z"
+  },
+  {
+    "question": "What famous rapper's real name is Shawn Carter?",
+    "correct_answer": "Jay-Z",
+    "incorrect_answers": [
+      "Kanye West",
+      "Eminem",
+      "Drake",
+      "Snoop Dogg",
+      "Dr. Dre",
+      "Nas",
+      "50 Cent"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Music",
+    "difficulty": "easy",
+    "id": "111e4bb5-883b-429e-bab5-e98bfa6b4dd6",
+    "created_at": "2025-04-13T01:52:27.070Z",
+    "backupTimestamp": "2025-04-13T01:52:27.071Z",
+    "localBackupTimestamp": "2025-04-12T19:52:27.071Z"
+  },
+  {
+    "question": "Which rock band released the influential album 'Appetite for Destruction'?",
+    "correct_answer": "Guns N' Roses",
+    "incorrect_answers": [
+      "Metallica",
+      "Bon Jovi",
+      "Mötley Crüe",
+      "Aerosmith",
+      "Def Leppard",
+      "AC/DC",
+      "Van Halen"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Music",
+    "difficulty": "easy",
+    "id": "b572052c-6618-49ef-a7eb-0d8116cdc3f1",
+    "created_at": "2025-04-13T01:52:27.072Z",
+    "backupTimestamp": "2025-04-13T01:52:27.072Z",
+    "localBackupTimestamp": "2025-04-12T19:52:27.072Z"
+  },
+  {
+    "question": "Who sang the hit song 'Material Girl'?",
+    "correct_answer": "Madonna",
+    "incorrect_answers": [
+      "Janet Jackson",
+      "Cyndi Lauper",
+      "Whitney Houston",
+      "Mariah Carey",
+      "Cher",
+      "Tina Turner",
+      "Blondie"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Music",
+    "difficulty": "easy",
+    "id": "fdd5e0ae-b34f-4300-b15a-5bd9cd1eb446",
+    "created_at": "2025-04-13T01:52:27.073Z",
+    "backupTimestamp": "2025-04-13T01:52:27.074Z",
+    "localBackupTimestamp": "2025-04-12T19:52:27.074Z"
+  },
+  {
+    "question": "What is the name of the drummer for The Beatles?",
+    "correct_answer": "Ringo Starr",
+    "incorrect_answers": [
+      "John Lennon",
+      "Paul McCartney",
+      "George Harrison",
+      "Pete Best",
+      "Keith Moon",
+      "John Bonham",
+      "Charlie Watts"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Music",
+    "difficulty": "easy",
+    "id": "4d329873-4264-4c26-b7e4-183e7fff2e07",
+    "created_at": "2025-04-13T01:52:27.075Z",
+    "backupTimestamp": "2025-04-13T01:52:27.076Z",
+    "localBackupTimestamp": "2025-04-12T19:52:27.076Z"
+  },
+  {
+    "question": "Which genre is characterized by improvisation, syncopation, and often features brass instruments?",
+    "correct_answer": "Jazz",
+    "incorrect_answers": [
+      "Classical",
+      "Blues",
+      "Country",
+      "Folk",
+      "Reggae",
+      "Hip Hop",
+      "Heavy Metal"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Music",
+    "difficulty": "easy",
+    "id": "fe233789-5d85-4e8b-a603-6937a06fb337",
+    "created_at": "2025-04-13T01:52:27.077Z",
+    "backupTimestamp": "2025-04-13T01:52:27.077Z",
+    "localBackupTimestamp": "2025-04-12T19:52:27.077Z"
+  },
+  {
+    "question": "Who is the lead singer of the band Aerosmith?",
+    "correct_answer": "Steven Tyler",
+    "incorrect_answers": [
+      "Joe Perry",
+      "Jon Bon Jovi",
+      "Axl Rose",
+      "Vince Neil",
+      "David Lee Roth",
+      "Ozzy Osbourne",
+      "Alice Cooper"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Music",
+    "difficulty": "easy",
+    "id": "656f0da9-cefb-4207-ae67-82e96d372d2c",
+    "created_at": "2025-04-13T01:52:27.078Z",
+    "backupTimestamp": "2025-04-13T01:52:27.079Z",
+    "localBackupTimestamp": "2025-04-12T19:52:27.079Z"
+  },
+  {
+    "question": "What is the title of Elvis Presley's famous estate in Memphis, Tennessee?",
+    "correct_answer": "Graceland",
+    "incorrect_answers": [
+      "Neverland Ranch",
+      "Paisley Park",
+      "Abbey Road",
+      "Sun Studio",
+      "Dollywood",
+      "Heartbreak Hotel",
+      "The Cavern Club"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Music",
+    "difficulty": "easy",
+    "id": "9427c38a-e72e-41a4-8020-c001a65bb978",
+    "created_at": "2025-04-13T01:52:27.080Z",
+    "backupTimestamp": "2025-04-13T01:52:27.080Z",
+    "localBackupTimestamp": "2025-04-12T19:52:27.080Z"
+  },
+  {
+    "question": "Which pop star refers to her fanbase as the 'BeyHive'?",
+    "correct_answer": "Beyoncé",
+    "incorrect_answers": [
+      "Taylor Swift (Swifties)",
+      "Lady Gaga (Little Monsters)",
+      "Rihanna (Navy)",
+      "Katy Perry (KatyCats)",
+      "Ariana Grande (Arianators)",
+      "Justin Bieber (Beliebers)",
+      "Nicki Minaj (Barbz)"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Music",
+    "difficulty": "easy",
+    "id": "d77613ee-a461-4df1-b3de-bab6ac4c3b50",
+    "created_at": "2025-04-13T01:52:27.082Z",
+    "backupTimestamp": "2025-04-13T01:52:27.082Z",
+    "localBackupTimestamp": "2025-04-12T19:52:27.082Z"
+  },
+  {
+    "question": "What type of music venue was CBGB in New York City famous for hosting?",
+    "correct_answer": "Punk Rock and New Wave",
+    "incorrect_answers": [
+      "Jazz",
+      "Classical",
+      "Country",
+      "Disco",
+      "Hip Hop",
+      "Blues",
+      "Opera"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Music",
+    "difficulty": "easy",
+    "id": "b4f77099-e8d8-4cdb-bffa-5305fe74aea3",
+    "created_at": "2025-04-13T01:52:27.084Z",
+    "backupTimestamp": "2025-04-13T01:52:27.084Z",
+    "localBackupTimestamp": "2025-04-12T19:52:27.084Z"
+  },
+  {
+    "question": "Who sang 'What's Love Got to Do with It'?",
+    "correct_answer": "Tina Turner",
+    "incorrect_answers": [
+      "Aretha Franklin",
+      "Diana Ross",
+      "Whitney Houston",
+      "Chaka Khan",
+      "Gladys Knight",
+      "Patti LaBelle",
+      "Donna Summer"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Music",
+    "difficulty": "easy",
+    "id": "2a8ae4a1-f50b-4ba0-a455-88e47961c361",
+    "created_at": "2025-04-13T01:52:27.086Z",
+    "backupTimestamp": "2025-04-13T01:52:27.086Z",
+    "localBackupTimestamp": "2025-04-12T19:52:27.086Z"
+  },
+  {
+    "question": "Which band released the iconic album 'Dark Side of the Moon'?",
+    "correct_answer": "Pink Floyd",
+    "incorrect_answers": [
+      "Led Zeppelin",
+      "The Beatles",
+      "Queen",
+      "The Rolling Stones",
+      "Genesis",
+      "Yes",
+      "King Crimson"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Music",
+    "difficulty": "easy",
+    "id": "a485f5c1-e150-4940-9818-83f44ac5e64e",
+    "created_at": "2025-04-13T01:52:27.088Z",
+    "backupTimestamp": "2025-04-13T01:52:27.088Z",
+    "localBackupTimestamp": "2025-04-12T19:52:27.088Z"
+  },
+  {
+    "question": "What is the main instrument played by Angus Young of AC/DC?",
+    "correct_answer": "Lead Guitar (Gibson SG)",
+    "incorrect_answers": [
+      "Bass Guitar",
+      "Drums",
+      "Vocals",
+      "Rhythm Guitar",
+      "Keyboard",
+      "Bagpipes",
+      "Saxophone"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Music",
+    "difficulty": "easy",
+    "id": "369eed20-0cf2-4d9c-847a-b75407783c94",
+    "created_at": "2025-04-13T01:52:27.090Z",
+    "backupTimestamp": "2025-04-13T01:52:27.090Z",
+    "localBackupTimestamp": "2025-04-12T19:52:27.090Z"
+  },
+  {
+    "question": "What city is widely considered the birthplace of jazz music?",
+    "correct_answer": "New Orleans",
+    "incorrect_answers": [
+      "New York City",
+      "Chicago",
+      "St. Louis",
+      "Kansas City",
+      "Memphis",
+      "Detroit",
+      "Los Angeles"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Music",
+    "difficulty": "easy",
+    "id": "a9b62bf0-0f92-4ad5-9ede-c7cdf525bfb2",
+    "created_at": "2025-04-13T01:52:27.091Z",
+    "backupTimestamp": "2025-04-13T01:52:27.092Z",
+    "localBackupTimestamp": "2025-04-12T19:52:27.092Z"
+  },
+  {
+    "question": "Who is the lead singer of the Foo Fighters?",
+    "correct_answer": "Dave Grohl",
+    "incorrect_answers": [
+      "Kurt Cobain",
+      "Eddie Vedder",
+      "Chris Cornell",
+      "Taylor Hawkins",
+      "Nate Mendel",
+      "Pat Smear",
+      "Josh Homme"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Music",
+    "difficulty": "easy",
+    "id": "e45ecb75-ed2b-40a4-b51f-8cd8e17984f9",
+    "created_at": "2025-04-13T01:52:27.093Z",
+    "backupTimestamp": "2025-04-13T01:52:27.094Z",
+    "localBackupTimestamp": "2025-04-12T19:52:27.094Z"
+  },
+  {
+    "question": "Which British singer released the album '21' featuring hits like 'Rolling in the Deep' and 'Someone Like You'?",
+    "correct_answer": "Adele",
+    "incorrect_answers": [
+      "Amy Winehouse",
+      "Florence Welch",
+      "Lily Allen",
+      "Dua Lipa",
+      "Jessie J",
+      "Leona Lewis",
+      "Ellie Goulding"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Music",
+    "difficulty": "easy",
+    "id": "2817861a-6211-433f-95de-cdc41342436e",
+    "created_at": "2025-04-13T01:52:27.096Z",
+    "backupTimestamp": "2025-04-13T01:52:27.096Z",
+    "localBackupTimestamp": "2025-04-12T19:52:27.096Z"
+  },
+  {
+    "question": "What band was formerly fronted by Ozzy Osbourne before his solo career?",
+    "correct_answer": "Black Sabbath",
+    "incorrect_answers": [
+      "Led Zeppelin",
+      "Deep Purple",
+      "Judas Priest",
+      "Motörhead",
+      "Iron Maiden",
+      "AC/DC",
+      "Van Halen"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Music",
+    "difficulty": "medium",
+    "id": "5522b3a8-4bcb-4781-8b00-0a6226dd8212",
+    "created_at": "2025-04-13T01:52:27.097Z",
+    "backupTimestamp": "2025-04-13T01:52:27.097Z",
+    "localBackupTimestamp": "2025-04-12T19:52:27.097Z"
+  },
+  {
+    "question": "Which grunge band from Seattle released the influential album 'Nevermind' in 1991?",
+    "correct_answer": "Nirvana",
+    "incorrect_answers": [
+      "Pearl Jam",
+      "Soundgarden",
+      "Alice in Chains",
+      "Stone Temple Pilots",
+      "Foo Fighters",
+      "Smashing Pumpkins",
+      "Mudhoney"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Music",
+    "difficulty": "medium",
+    "id": "e4491b37-efcf-48fb-b732-41542990af87",
+    "created_at": "2025-04-13T01:52:27.099Z",
+    "backupTimestamp": "2025-04-13T01:52:27.100Z",
+    "localBackupTimestamp": "2025-04-12T19:52:27.100Z"
+  },
+  {
+    "question": "What record label, founded by Berry Gordy Jr., was central to the Motown sound?",
+    "correct_answer": "Motown Records (Tamla Records)",
+    "incorrect_answers": [
+      "Stax Records",
+      "Atlantic Records",
+      "Chess Records",
+      "Sun Records",
+      "Capitol Records",
+      "Def Jam Recordings",
+      "Philadelphia International Records"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Music",
+    "difficulty": "medium",
+    "id": "7b9c7327-e7ca-40b7-a0c9-9240a6839608",
+    "created_at": "2025-04-13T01:52:27.101Z",
+    "backupTimestamp": "2025-04-13T01:52:27.102Z",
+    "localBackupTimestamp": "2025-04-12T19:52:27.102Z"
+  },
+  {
+    "question": "Who wrote the song 'Hallelujah', famously covered by Jeff Buckley and Leonard Cohen?",
+    "correct_answer": "Leonard Cohen",
+    "incorrect_answers": [
+      "Jeff Buckley",
+      "Bob Dylan",
+      "Joni Mitchell",
+      "Neil Young",
+      "Paul Simon",
+      "Van Morrison",
+      "John Cale"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Music",
+    "difficulty": "medium",
+    "id": "55caad70-3fa0-4793-93cb-a37fbb58a466",
+    "created_at": "2025-04-13T01:52:27.103Z",
+    "backupTimestamp": "2025-04-13T01:52:27.103Z",
+    "localBackupTimestamp": "2025-04-12T19:52:27.103Z"
+  },
+  {
+    "question": "What was the name of the Beatles' final studio album, released in 1970?",
+    "correct_answer": "Let It Be",
+    "incorrect_answers": [
+      "Abbey Road",
+      "The White Album",
+      "Sgt. Pepper's Lonely Hearts Club Band",
+      "Revolver",
+      "Rubber Soul",
+      "Magical Mystery Tour",
+      "Help!"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Music",
+    "difficulty": "medium",
+    "id": "56e441c2-2561-48b8-9f08-1479fb4ce0de",
+    "created_at": "2025-04-13T01:52:27.104Z",
+    "backupTimestamp": "2025-04-13T01:52:27.105Z",
+    "localBackupTimestamp": "2025-04-12T19:52:27.105Z"
+  },
+  {
+    "question": "Which artist created the alter ego Ziggy Stardust?",
+    "correct_answer": "David Bowie",
+    "incorrect_answers": [
+      "Elton John",
+      "Freddie Mercury",
+      "Prince",
+      "Alice Cooper",
+      "Iggy Pop",
+      "Lou Reed",
+      "Marc Bolan"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Music",
+    "difficulty": "medium",
+    "id": "a805c64e-b08b-4359-b72b-ddc1a405efb2",
+    "created_at": "2025-04-13T01:52:27.107Z",
+    "backupTimestamp": "2025-04-13T01:52:27.107Z",
+    "localBackupTimestamp": "2025-04-12T19:52:27.107Z"
+  },
+  {
+    "question": "What musical movement, originating in the late 1970s, featured bands like The Ramones, Sex Pistols, and The Clash?",
+    "correct_answer": "Punk Rock",
+    "incorrect_answers": [
+      "New Wave",
+      "Grunge",
+      "Heavy Metal",
+      "Glam Rock",
+      "Progressive Rock",
+      "Disco",
+      "Post-Punk"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Music",
+    "difficulty": "medium",
+    "id": "a56e968c-1bc7-4a2c-9984-3fdb8949aa3e",
+    "created_at": "2025-04-13T01:52:27.108Z",
+    "backupTimestamp": "2025-04-13T01:52:27.109Z",
+    "localBackupTimestamp": "2025-04-12T19:52:27.109Z"
+  },
+  {
+    "question": "Which electronic music duo is known for wearing distinctive robot helmets?",
+    "correct_answer": "Daft Punk",
+    "incorrect_answers": [
+      "Kraftwerk",
+      "The Chemical Brothers",
+      "Justice",
+      "Deadmau5",
+      "Aphex Twin",
+      "Orbital",
+      "Underworld"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Music",
+    "difficulty": "medium",
+    "id": "4a08d0bf-8f27-4176-8ef4-47b8056f111c",
+    "created_at": "2025-04-13T01:52:27.110Z",
+    "backupTimestamp": "2025-04-13T01:52:27.110Z",
+    "localBackupTimestamp": "2025-04-12T19:52:27.110Z"
+  },
+  {
+    "question": "What landmark Beach Boys album is considered one of the most influential in pop music history?",
+    "correct_answer": "Pet Sounds",
+    "incorrect_answers": [
+      "Surfin' USA",
+      "Smile (unreleased/reconstructed)",
+      "Sunflower",
+      "Today!",
+      "Summer Days (And Summer Nights!!)",
+      "Wild Honey",
+      "Surf's Up"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Music",
+    "difficulty": "medium",
+    "id": "6cfc0025-9521-4691-9f8a-131ef936466f",
+    "created_at": "2025-04-13T01:52:27.112Z",
+    "backupTimestamp": "2025-04-13T01:52:27.112Z",
+    "localBackupTimestamp": "2025-04-12T19:52:27.112Z"
+  },
+  {
+    "question": "Which female rapper won the Grammy for Best Rap Album for 'The Miseducation of Lauryn Hill'?",
+    "correct_answer": "Lauryn Hill",
+    "incorrect_answers": [
+      "Missy Elliott",
+      "Queen Latifah",
+      "Lil' Kim",
+      "Cardi B",
+      "Nicki Minaj",
+      "Salt-N-Pepa",
+      "Eve"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Music",
+    "difficulty": "medium",
+    "id": "8c78ac60-9574-4fef-aca8-050345b4bb51",
+    "created_at": "2025-04-13T01:52:27.113Z",
+    "backupTimestamp": "2025-04-13T01:52:27.114Z",
+    "localBackupTimestamp": "2025-04-12T19:52:27.114Z"
+  },
+  {
+    "question": "What instrument did jazz legend Miles Davis primarily play?",
+    "correct_answer": "Trumpet",
+    "incorrect_answers": [
+      "Saxophone",
+      "Piano",
+      "Trombone",
+      "Clarinet",
+      "Double Bass",
+      "Drums",
+      "Guitar"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Music",
+    "difficulty": "medium",
+    "id": "dc8b6204-6e7b-4232-b1c7-1b6a21337d60",
+    "created_at": "2025-04-13T01:52:27.115Z",
+    "backupTimestamp": "2025-04-13T01:52:27.115Z",
+    "localBackupTimestamp": "2025-04-12T19:52:27.115Z"
+  },
+  {
+    "question": "Which band's hits include 'Smells Like Teen Spirit' and 'Come As You Are'?",
+    "correct_answer": "Nirvana",
+    "incorrect_answers": [
+      "Pearl Jam",
+      "Soundgarden",
+      "Alice in Chains",
+      "Foo Fighters",
+      "Stone Temple Pilots",
+      "Red Hot Chili Peppers",
+      "Green Day"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Music",
+    "difficulty": "medium",
+    "id": "2b7dbb4c-5103-48f3-b3a5-f81a83959f00",
+    "created_at": "2025-04-13T01:52:27.116Z",
+    "backupTimestamp": "2025-04-13T01:52:27.116Z",
+    "localBackupTimestamp": "2025-04-12T19:52:27.116Z"
+  },
+  {
+    "question": "What year did MTV (Music Television) launch?",
+    "correct_answer": "1981",
+    "incorrect_answers": [
+      "1979",
+      "1980",
+      "1982",
+      "1983",
+      "1984",
+      "1985",
+      "1977"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Music",
+    "difficulty": "medium",
+    "id": "aec5fe32-1542-4b4c-9cb5-c8383b12243c",
+    "created_at": "2025-04-13T01:52:27.117Z",
+    "backupTimestamp": "2025-04-13T01:52:27.118Z",
+    "localBackupTimestamp": "2025-04-12T19:52:27.118Z"
+  },
+  {
+    "question": "Who is the lead singer of the band The Cure, known for his distinctive Goth look?",
+    "correct_answer": "Robert Smith",
+    "incorrect_answers": [
+      "Morrissey",
+      "Siouxsie Sioux",
+      "Ian Curtis",
+      "Peter Murphy",
+      "Andrew Eldritch",
+      "Dave Gahan",
+      "Bono"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Music",
+    "difficulty": "medium",
+    "id": "d4678a21-f6e7-4398-9edc-f62ff5e8aaa5",
+    "created_at": "2025-04-13T01:52:27.119Z",
+    "backupTimestamp": "2025-04-13T01:52:27.119Z",
+    "localBackupTimestamp": "2025-04-12T19:52:27.119Z"
+  },
+  {
+    "question": "Which artist released the concept album 'The Wall'?",
+    "correct_answer": "Pink Floyd",
+    "incorrect_answers": [
+      "Queen",
+      "The Who",
+      "Genesis",
+      "Yes",
+      "David Bowie",
+      "Led Zeppelin",
+      "Jethro Tull"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Music",
+    "difficulty": "medium",
+    "id": "4806fe58-4401-4d18-8cae-47022ea28271",
+    "created_at": "2025-04-13T01:52:27.120Z",
+    "backupTimestamp": "2025-04-13T01:52:27.120Z",
+    "localBackupTimestamp": "2025-04-12T19:52:27.120Z"
+  },
+  {
+    "question": "What rapper, known for his complex lyricism, released the album 'To Pimp a Butterfly'?",
+    "correct_answer": "Kendrick Lamar",
+    "incorrect_answers": [
+      "J. Cole",
+      "Drake",
+      "Kanye West",
+      "Nas",
+      "Jay-Z",
+      "Eminem",
+      "Chance the Rapper"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Music",
+    "difficulty": "medium",
+    "id": "55e785c4-2dbd-4e1e-a634-5ecd81c54eb2",
+    "created_at": "2025-04-13T01:52:27.122Z",
+    "backupTimestamp": "2025-04-13T01:52:27.122Z",
+    "localBackupTimestamp": "2025-04-12T19:52:27.122Z"
+  },
+  {
+    "question": "Which folk singer wrote and performed 'Blowin' in the Wind' and 'The Times They Are a-Changin''?",
+    "correct_answer": "Bob Dylan",
+    "incorrect_answers": [
+      "Woody Guthrie",
+      "Pete Seeger",
+      "Joan Baez",
+      "Joni Mitchell",
+      "Neil Young",
+      "Paul Simon",
+      "James Taylor"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Music",
+    "difficulty": "medium",
+    "id": "e295d803-f38d-4a7c-aa1e-3fc7abe24685",
+    "created_at": "2025-04-13T01:52:27.124Z",
+    "backupTimestamp": "2025-04-13T01:52:27.124Z",
+    "localBackupTimestamp": "2025-04-12T19:52:27.124Z"
+  },
+  {
+    "question": "What is the name of the lead singer of the band Blondie?",
+    "correct_answer": "Debbie Harry",
+    "incorrect_answers": [
+      "Chrissie Hynde",
+      "Patti Smith",
+      "Siouxsie Sioux",
+      "Joan Jett",
+      "Annie Lennox",
+      "Pat Benatar",
+      "Stevie Nicks"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Music",
+    "difficulty": "medium",
+    "id": "56028a83-e9ce-4352-b4d7-f39a6882dc22",
+    "created_at": "2025-04-13T01:52:27.125Z",
+    "backupTimestamp": "2025-04-13T01:52:27.126Z",
+    "localBackupTimestamp": "2025-04-12T19:52:27.126Z"
+  },
+  {
+    "question": "Which heavy metal band is known for the song 'Enter Sandman'?",
+    "correct_answer": "Metallica",
+    "incorrect_answers": [
+      "Iron Maiden",
+      "Black Sabbath",
+      "Judas Priest",
+      "Slayer",
+      "Megadeth",
+      "Pantera",
+      "Guns N' Roses"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Music",
+    "difficulty": "medium",
+    "id": "ea105cdd-5634-450d-8973-6d27550bb41a",
+    "created_at": "2025-04-13T01:52:27.127Z",
+    "backupTimestamp": "2025-04-13T01:52:27.127Z",
+    "localBackupTimestamp": "2025-04-12T19:52:27.127Z"
+  },
+  {
+    "question": "What was the first music video ever played on MTV?",
+    "correct_answer": "Video Killed the Radio Star by The Buggles",
+    "incorrect_answers": [
+      "Billie Jean by Michael Jackson",
+      "Money for Nothing by Dire Straits",
+      "Like a Virgin by Madonna",
+      "You Might Think by The Cars",
+      "Rapper's Delight by The Sugarhill Gang",
+      "Bohemian Rhapsody by Queen",
+      "Thriller by Michael Jackson"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Music",
+    "difficulty": "medium",
+    "id": "b42447bd-3f75-4356-b4e9-92633c089aa3",
+    "created_at": "2025-04-13T01:52:27.128Z",
+    "backupTimestamp": "2025-04-13T01:52:27.128Z",
+    "localBackupTimestamp": "2025-04-12T19:52:27.128Z"
+  },
+  {
+    "question": "Who is the guitarist often credited with pioneering the 'duckwalk' on stage?",
+    "correct_answer": "Chuck Berry",
+    "incorrect_answers": [
+      "Elvis Presley",
+      "Jimi Hendrix",
+      "Angus Young",
+      "Pete Townshend",
+      "Bo Diddley",
+      "Buddy Holly",
+      "Little Richard"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Music",
+    "difficulty": "medium",
+    "id": "38a1ed9d-f1d5-4676-8839-e5baae7a5a8e",
+    "created_at": "2025-04-13T01:52:27.130Z",
+    "backupTimestamp": "2025-04-13T01:52:27.130Z",
+    "localBackupTimestamp": "2025-04-12T19:52:27.130Z"
+  },
+  {
+    "question": "Which Icelandic artist is known for her experimental music and unique fashion?",
+    "correct_answer": "Björk",
+    "incorrect_answers": [
+      "Sigur Rós (band)",
+      "Of Monsters and Men (band)",
+      "Emilíana Torrini",
+      "Kaleo (band)",
+      "Ásgeir",
+      "Múm (band)",
+      "Seabear (band)"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Music",
+    "difficulty": "medium",
+    "id": "fff4a29f-7d1e-4a9e-b85c-81b433788d59",
+    "created_at": "2025-04-13T01:52:27.131Z",
+    "backupTimestamp": "2025-04-13T01:52:27.132Z",
+    "localBackupTimestamp": "2025-04-12T19:52:27.132Z"
+  },
+  {
+    "question": "What is the name of the legendary blues guitarist known for his guitar 'Lucille'?",
+    "correct_answer": "B.B. King",
+    "incorrect_answers": [
+      "Muddy Waters",
+      "Robert Johnson",
+      "Eric Clapton",
+      "Stevie Ray Vaughan",
+      "Buddy Guy",
+      "John Lee Hooker",
+      "Albert King"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Music",
+    "difficulty": "medium",
+    "id": "7589dd11-00b4-4bc0-b291-3ca5dcf9ef18",
+    "created_at": "2025-04-13T01:52:27.133Z",
+    "backupTimestamp": "2025-04-13T01:52:27.133Z",
+    "localBackupTimestamp": "2025-04-12T19:52:27.133Z"
+  },
+  {
+    "question": "Which member of the Wu-Tang Clan is also known as 'The Genius'?",
+    "correct_answer": "GZA",
+    "incorrect_answers": [
+      "RZA",
+      "Method Man",
+      "Ghostface Killah",
+      "Raekwon",
+      "Ol' Dirty Bastard",
+      "Inspectah Deck",
+      "U-God"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Music",
+    "difficulty": "medium",
+    "id": "1deeee8c-3401-4b0e-b6e4-4886d460f515",
+    "created_at": "2025-04-13T01:52:27.134Z",
+    "backupTimestamp": "2025-04-13T01:52:27.135Z",
+    "localBackupTimestamp": "2025-04-12T19:52:27.135Z"
+  },
+  {
+    "question": "What rock opera album by The Who tells the story of a 'deaf, dumb and blind kid'?",
+    "correct_answer": "Tommy",
+    "incorrect_answers": [
+      "Quadrophenia",
+      "Who's Next",
+      "My Generation",
+      "The Who Sell Out",
+      "A Quick One",
+      "Who Are You",
+      "Face Dances"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Music",
+    "difficulty": "medium",
+    "id": "58e8a516-12f4-4085-8ce6-2a5dad96ab11",
+    "created_at": "2025-04-13T01:52:27.136Z",
+    "backupTimestamp": "2025-04-13T01:52:27.136Z",
+    "localBackupTimestamp": "2025-04-12T19:52:27.136Z"
+  },
+  {
+    "question": "Which British band, known for their synth-pop sound, released the album 'Violator'?",
+    "correct_answer": "Depeche Mode",
+    "incorrect_answers": [
+      "The Cure",
+      "New Order",
+      "Duran Duran",
+      "Pet Shop Boys",
+      "Eurythmics",
+      "Tears for Fears",
+      "Simple Minds"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Music",
+    "difficulty": "medium",
+    "id": "9ff23f91-d88e-4419-bf46-ced76d35a5d0",
+    "created_at": "2025-04-13T01:52:27.137Z",
+    "backupTimestamp": "2025-04-13T01:52:27.138Z",
+    "localBackupTimestamp": "2025-04-12T19:52:27.138Z"
+  },
+  {
+    "question": "What is the name of the music software that popularized MP3 sharing in the late 90s and early 2000s?",
+    "correct_answer": "Napster",
+    "incorrect_answers": [
+      "Limewire",
+      "Kazaa",
+      "Winamp",
+      "iTunes",
+      "Spotify",
+      "Audiogalaxy",
+      "Gnutella"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Music",
+    "difficulty": "medium",
+    "id": "5d84df6c-8b3e-4506-bbc6-bbc70e4bff36",
+    "created_at": "2025-04-13T01:52:27.139Z",
+    "backupTimestamp": "2025-04-13T01:52:27.139Z",
+    "localBackupTimestamp": "2025-04-12T19:52:27.139Z"
+  },
+  {
+    "question": "Which artist's album 'Thriller' is one of the best-selling albums of all time?",
+    "correct_answer": "Michael Jackson",
+    "incorrect_answers": [
+      "Eagles (Their Greatest Hits)",
+      "AC/DC (Back in Black)",
+      "Pink Floyd (Dark Side of the Moon)",
+      "Whitney Houston (The Bodyguard Soundtrack)",
+      "Meat Loaf (Bat Out of Hell)",
+      "Fleetwood Mac (Rumours)",
+      "Shania Twain (Come On Over)"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Music",
+    "difficulty": "medium",
+    "id": "25844c46-cade-452d-aea2-b8e1ee0ad83b",
+    "created_at": "2025-04-13T01:52:27.141Z",
+    "backupTimestamp": "2025-04-13T01:52:27.142Z",
+    "localBackupTimestamp": "2025-04-12T19:52:27.142Z"
+  },
+  {
+    "question": "What musical term describes the speed at which a piece of music is played?",
+    "correct_answer": "Tempo",
+    "incorrect_answers": [
+      "Rhythm",
+      "Melody",
+      "Harmony",
+      "Dynamics",
+      "Pitch",
+      "Timbre",
+      "Meter"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Music",
+    "difficulty": "medium",
+    "id": "2c0223c1-67a9-41c2-b02a-271c7c8f2cf8",
+    "created_at": "2025-04-13T01:52:27.143Z",
+    "backupTimestamp": "2025-04-13T01:52:27.144Z",
+    "localBackupTimestamp": "2025-04-12T19:52:27.144Z"
+  },
+  {
+    "question": "Which hip-hop group released the influential album 'Straight Outta Compton'?",
+    "correct_answer": "N.W.A.",
+    "incorrect_answers": [
+      "Public Enemy",
+      "Run-D.M.C.",
+      "Beastie Boys",
+      "A Tribe Called Quest",
+      "Wu-Tang Clan",
+      "Geto Boys",
+      "EPMD"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Music",
+    "difficulty": "medium",
+    "id": "22c58186-e96f-4556-a459-6c3f72114427",
+    "created_at": "2025-04-13T01:52:27.145Z",
+    "backupTimestamp": "2025-04-13T01:52:27.145Z",
+    "localBackupTimestamp": "2025-04-12T19:52:27.145Z"
+  },
+  {
+    "question": "What is the name of the lead singer of the band Pearl Jam?",
+    "correct_answer": "Eddie Vedder",
+    "incorrect_answers": [
+      "Kurt Cobain",
+      "Chris Cornell",
+      "Layne Staley",
+      "Scott Weiland",
+      "Dave Grohl",
+      "Billy Corgan",
+      "Anthony Kiedis"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Music",
+    "difficulty": "medium",
+    "id": "5db8e763-b71c-4702-afaa-40b3618e72bb",
+    "created_at": "2025-04-13T01:52:27.146Z",
+    "backupTimestamp": "2025-04-13T01:52:27.147Z",
+    "localBackupTimestamp": "2025-04-12T19:52:27.147Z"
+  },
+  {
+    "question": "Which female artist is often called the 'Queen of Soul'?",
+    "correct_answer": "Aretha Franklin",
+    "incorrect_answers": [
+      "Etta James",
+      "Gladys Knight",
+      "Patti LaBelle",
+      "Diana Ross",
+      "Tina Turner",
+      "Chaka Khan",
+      "Whitney Houston"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Music",
+    "difficulty": "medium",
+    "id": "4133aa6e-2c59-4650-b168-c75aedf294cb",
+    "created_at": "2025-04-13T01:52:27.148Z",
+    "backupTimestamp": "2025-04-13T01:52:27.148Z",
+    "localBackupTimestamp": "2025-04-12T19:52:27.148Z"
+  },
+  {
+    "question": "What famous concert event, organized by Bob Geldof in 1985, aimed to raise funds for famine relief in Ethiopia?",
+    "correct_answer": "Live Aid",
+    "incorrect_answers": [
+      "Woodstock",
+      "Monterey Pop Festival",
+      "Farm Aid",
+      "The Concert for Bangladesh",
+      "Us Festival",
+      "NetAid",
+      "Hope for Haiti Now"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Music",
+    "difficulty": "medium",
+    "id": "2bcd4136-dc25-4287-a325-015099fc9c22",
+    "created_at": "2025-04-13T01:52:27.150Z",
+    "backupTimestamp": "2025-04-13T01:52:27.150Z",
+    "localBackupTimestamp": "2025-04-12T19:52:27.150Z"
+  },
+  {
+    "question": "Which country singer tragically died in a plane crash in 1963?",
+    "correct_answer": "Patsy Cline",
+    "incorrect_answers": [
+      "Hank Williams",
+      "Johnny Cash",
+      "Loretta Lynn",
+      "Tammy Wynette",
+      "Jim Reeves (died in plane crash 1964)",
+      "Buddy Holly (died in plane crash 1959)",
+      "George Jones"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Music",
+    "difficulty": "medium",
+    "id": "b34a212f-d02f-4f04-a302-31b0a1528737",
+    "created_at": "2025-04-13T01:52:27.151Z",
+    "backupTimestamp": "2025-04-13T01:52:27.152Z",
+    "localBackupTimestamp": "2025-04-12T19:52:27.152Z"
+  },
+  {
+    "question": "What alternative rock band, known for hits like 'Losing My Religion', was fronted by Michael Stipe?",
+    "correct_answer": "R.E.M.",
+    "incorrect_answers": [
+      "U2",
+      "The Smiths",
+      "Pixies",
+      "Sonic Youth",
+      "The Cure",
+      "Radiohead",
+      "Nirvana"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Music",
+    "difficulty": "medium",
+    "id": "0d9c7871-34f9-4c9f-87b8-656cd3894184",
+    "created_at": "2025-04-13T01:52:27.153Z",
+    "backupTimestamp": "2025-04-13T01:52:27.153Z",
+    "localBackupTimestamp": "2025-04-12T19:52:27.153Z"
+  },
+  {
+    "question": "What is the name of the legendary New York City nightclub that was central to the disco era?",
+    "correct_answer": "Studio 54",
+    "incorrect_answers": [
+      "CBGB",
+      "The Cotton Club",
+      "The Fillmore East",
+      "Max's Kansas City",
+      "Paradise Garage",
+      "The Palladium",
+      "Copacabana"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Music",
+    "difficulty": "medium",
+    "id": "bc3db7d9-3f7e-483d-a391-f8832468f0a9",
+    "created_at": "2025-04-13T01:52:27.154Z",
+    "backupTimestamp": "2025-04-13T01:52:27.155Z",
+    "localBackupTimestamp": "2025-04-12T19:52:27.155Z"
+  },
+  {
+    "question": "Which British band pioneered the 'Madchester' sound, blending alternative rock with acid house?",
+    "correct_answer": "Happy Mondays",
+    "incorrect_answers": [
+      "The Stone Roses",
+      "Oasis",
+      "Blur",
+      "New Order",
+      "Inspiral Carpets",
+      "James",
+      "Primal Scream"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Music",
+    "difficulty": "medium",
+    "id": "2f757e99-a3a0-400d-ba83-6c8f7b7b0cfb",
+    "created_at": "2025-04-13T01:52:27.156Z",
+    "backupTimestamp": "2025-04-13T01:52:27.156Z",
+    "localBackupTimestamp": "2025-04-12T19:52:27.156Z"
+  },
+  {
+    "question": "Who is the lead singer of the band No Doubt?",
+    "correct_answer": "Gwen Stefani",
+    "incorrect_answers": [
+      "Shirley Manson",
+      "Alanis Morissette",
+      "Dolores O'Riordan",
+      "Courtney Love",
+      "Skin (Skunk Anansie)",
+      "Hayley Williams",
+      "Amy Lee"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Music",
+    "difficulty": "medium",
+    "id": "7433264c-7ee4-4341-99db-0dedcc636a5c",
+    "created_at": "2025-04-13T01:52:27.158Z",
+    "backupTimestamp": "2025-04-13T01:52:27.158Z",
+    "localBackupTimestamp": "2025-04-12T19:52:27.158Z"
+  },
+  {
+    "question": "Which rapper founded the record label Shady Records?",
+    "correct_answer": "Eminem",
+    "incorrect_answers": [
+      "Dr. Dre (Aftermath)",
+      "Jay-Z (Roc-A-Fella/Roc Nation)",
+      "50 Cent (G-Unit Records)",
+      "P. Diddy (Bad Boy Records)",
+      "Snoop Dogg (Death Row/Doggy Style Records)",
+      "Suge Knight (Death Row)",
+      "Kanye West (GOOD Music)"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Music",
+    "difficulty": "medium",
+    "id": "91d04de3-8949-40a0-a06c-779570dd9515",
+    "created_at": "2025-04-13T01:52:27.159Z",
+    "backupTimestamp": "2025-04-13T01:52:27.159Z",
+    "localBackupTimestamp": "2025-04-12T19:52:27.159Z"
+  },
+  {
+    "question": "What instrument is associated with the jazz musician John Coltrane?",
+    "correct_answer": "Saxophone (Tenor and Soprano)",
+    "incorrect_answers": [
+      "Trumpet",
+      "Piano",
+      "Drums",
+      "Trombone",
+      "Clarinet",
+      "Double Bass",
+      "Guitar"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Music",
+    "difficulty": "medium",
+    "id": "f65db09f-ea84-48ac-a7a1-fd25800d8d3b",
+    "created_at": "2025-04-13T01:52:27.161Z",
+    "backupTimestamp": "2025-04-13T01:52:27.161Z",
+    "localBackupTimestamp": "2025-04-12T19:52:27.161Z"
+  },
+  {
+    "question": "Which song by Journey is often considered one of the most popular rock anthems?",
+    "correct_answer": "Don't Stop Believin'",
+    "incorrect_answers": [
+      "Any Way You Want It",
+      "Separate Ways (Worlds Apart)",
+      "Faithfully",
+      "Open Arms",
+      "Wheel in the Sky",
+      "Lovin', Touchin', Squeezin'",
+      "Lights"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Music",
+    "difficulty": "medium",
+    "id": "6ff7bc17-f667-4adf-820c-0d7773a139d7",
+    "created_at": "2025-04-13T01:52:27.163Z",
+    "backupTimestamp": "2025-04-13T01:52:27.163Z",
+    "localBackupTimestamp": "2025-04-12T19:52:27.163Z"
+  },
+  {
+    "question": "What legendary soul singer tragically died in a plane crash in 1967?",
+    "correct_answer": "Otis Redding",
+    "incorrect_answers": [
+      "Sam Cooke (Shot)",
+      "Marvin Gaye (Shot)",
+      "Ray Charles",
+      "James Brown",
+      "Jackie Wilson",
+      "Percy Sledge",
+      "Wilson Pickett"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Music",
+    "difficulty": "medium",
+    "id": "e37824f8-cbc2-4f03-8249-a5bbdcf1d318",
+    "created_at": "2025-04-13T01:52:27.164Z",
+    "backupTimestamp": "2025-04-13T01:52:27.164Z",
+    "localBackupTimestamp": "2025-04-12T19:52:27.164Z"
+  },
+  {
+    "question": "What genre did Bill Monroe primarily influence, often called the 'Father' of?",
+    "correct_answer": "Bluegrass",
+    "incorrect_answers": [
+      "Country",
+      "Rockabilly",
+      "Blues",
+      "Folk",
+      "Western Swing",
+      "Gospel",
+      "Honky Tonk"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Music",
+    "difficulty": "medium",
+    "id": "95ceeb13-6c19-4d4a-9529-1409533153d8",
+    "created_at": "2025-04-13T01:52:27.166Z",
+    "backupTimestamp": "2025-04-13T01:52:27.166Z",
+    "localBackupTimestamp": "2025-04-12T19:52:27.166Z"
+  },
+  {
+    "question": "Which British rock band featured brothers Noel and Liam Gallagher?",
+    "correct_answer": "Oasis",
+    "incorrect_answers": [
+      "Blur",
+      "Pulp",
+      "The Verve",
+      "Radiohead",
+      "Suede",
+      "Manic Street Preachers",
+      "Coldplay"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Music",
+    "difficulty": "medium",
+    "id": "172d1e9f-f10e-46c0-8f2f-b3e4ad849b24",
+    "created_at": "2025-04-13T01:52:27.167Z",
+    "backupTimestamp": "2025-04-13T01:52:27.168Z",
+    "localBackupTimestamp": "2025-04-12T19:52:27.168Z"
+  },
+  {
+    "question": "What is the stage name of the singer born Stefani Joanne Angelina Germanotta?",
+    "correct_answer": "Lady Gaga",
+    "incorrect_answers": [
+      "Katy Perry",
+      "Lana Del Rey",
+      "Pink",
+      "Madonna",
+      "Rihanna",
+      "Adele",
+      "Lorde"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Music",
+    "difficulty": "medium",
+    "id": "45e2178c-9a74-439d-9849-74f84b030e89",
+    "created_at": "2025-04-13T01:52:27.169Z",
+    "backupTimestamp": "2025-04-13T01:52:27.169Z",
+    "localBackupTimestamp": "2025-04-12T19:52:27.169Z"
+  },
+  {
+    "question": "Which artist's album 'Rumours' is famed for chronicling the band members' relationship turmoil?",
+    "correct_answer": "Fleetwood Mac",
+    "incorrect_answers": [
+      "Eagles",
+      "The Rolling Stones",
+      "Led Zeppelin",
+      "ABBA",
+      "Blondie",
+      "The Beatles",
+      "Queen"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Music",
+    "difficulty": "medium",
+    "id": "1bf511c0-c928-4b62-954f-ee40a066691e",
+    "created_at": "2025-04-13T01:52:27.170Z",
+    "backupTimestamp": "2025-04-13T01:52:27.171Z",
+    "localBackupTimestamp": "2025-04-12T19:52:27.171Z"
+  },
+  {
+    "question": "What American music festival, held annually in the California desert, is known for its celebrity sightings and fashion?",
+    "correct_answer": "Coachella Valley Music and Arts Festival",
+    "incorrect_answers": [
+      "Lollapalooza",
+      "Bonnaroo",
+      "Austin City Limits",
+      "Burning Man",
+      "South by Southwest (SXSW)",
+      "Electric Daisy Carnival (EDC)",
+      "Woodstock"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Music",
+    "difficulty": "medium",
+    "id": "64d97018-b369-43a4-a9d1-20f198606484",
+    "created_at": "2025-04-13T01:52:27.172Z",
+    "backupTimestamp": "2025-04-13T01:52:27.173Z",
+    "localBackupTimestamp": "2025-04-12T19:52:27.173Z"
+  },
+  {
+    "question": "What 1977 disco movie soundtrack, featuring the Bee Gees, became one of the best-selling albums ever?",
+    "correct_answer": "Saturday Night Fever",
+    "incorrect_answers": [
+      "Grease",
+      "Footloose",
+      "Dirty Dancing",
+      "Flashdance",
+      "Staying Alive",
+      "Thank God It's Friday",
+      "Xanadu"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Music",
+    "difficulty": "medium",
+    "id": "2675db76-241e-452d-9be6-4d3c960ea007",
+    "created_at": "2025-04-13T01:52:27.174Z",
+    "backupTimestamp": "2025-04-13T01:52:27.174Z",
+    "localBackupTimestamp": "2025-04-12T19:52:27.174Z"
+  },
+  {
+    "question": "Which Canadian artist released the critically acclaimed album 'Blue' in 1971?",
+    "correct_answer": "Joni Mitchell",
+    "incorrect_answers": [
+      "Carole King",
+      "Joan Baez",
+      "Neil Young",
+      "James Taylor",
+      "Carly Simon",
+      "Linda Ronstadt",
+      "Buffy Sainte-Marie"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Music",
+    "difficulty": "medium",
+    "id": "29ba70b1-f57a-4ea2-9f59-d14aab958b95",
+    "created_at": "2025-04-13T01:52:27.176Z",
+    "backupTimestamp": "2025-04-13T01:52:27.176Z",
+    "localBackupTimestamp": "2025-04-12T19:52:27.176Z"
+  },
+  {
+    "question": "What does the term 'A cappella' mean in music?",
+    "correct_answer": "Singing without instrumental accompaniment",
+    "incorrect_answers": [
+      "Singing very loudly",
+      "Singing in a chapel",
+      "Singing with a large choir",
+      "Singing off-key",
+      "Singing in a round",
+      "Singing with a small ensemble",
+      "Singing in a high pitch"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Music",
+    "difficulty": "medium",
+    "id": "ef7cdda1-fe52-4c25-a57c-179bc2b5b5c9",
+    "created_at": "2025-04-13T01:52:27.178Z",
+    "backupTimestamp": "2025-04-13T01:52:27.178Z",
+    "localBackupTimestamp": "2025-04-12T19:52:27.178Z"
+  },
+  {
+    "question": "Which legendary blues musician was rumored to have sold his soul to the devil at a crossroads?",
+    "correct_answer": "Robert Johnson",
+    "incorrect_answers": [
+      "Muddy Waters",
+      "B.B. King",
+      "Howlin' Wolf",
+      "John Lee Hooker",
+      "Lead Belly",
+      "Son House",
+      "Blind Willie McTell"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Music",
+    "difficulty": "hard",
+    "id": "7d3299ec-4f74-43f9-8e80-021814980254",
+    "created_at": "2025-04-13T01:52:27.180Z",
+    "backupTimestamp": "2025-04-13T01:52:27.180Z",
+    "localBackupTimestamp": "2025-04-12T19:52:27.180Z"
+  },
+  {
+    "question": "What experimental German band is considered a pioneer of electronic music and Krautrock?",
+    "correct_answer": "Kraftwerk",
+    "incorrect_answers": [
+      "Can",
+      "Neu!",
+      "Tangerine Dream",
+      "Faust",
+      "Amon Düül II",
+      "Popol Vuh",
+      "Cluster"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Music",
+    "difficulty": "hard",
+    "id": "fb025659-355c-470c-8a0c-ed64872ee25b",
+    "created_at": "2025-04-13T01:52:27.181Z",
+    "backupTimestamp": "2025-04-13T01:52:27.181Z",
+    "localBackupTimestamp": "2025-04-12T19:52:27.181Z"
+  },
+  {
+    "question": "Which composer is famous for the '4'33\"' piece, consisting of silence?",
+    "correct_answer": "John Cage",
+    "incorrect_answers": [
+      "Philip Glass",
+      "Steve Reich",
+      "Terry Riley",
+      "Karlheinz Stockhausen",
+      "Igor Stravinsky",
+      "Arnold Schoenberg",
+      "Erik Satie"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Music",
+    "difficulty": "hard",
+    "id": "4a63f7c7-238a-418f-9a98-69d0ba55fab9",
+    "created_at": "2025-04-13T01:52:27.183Z",
+    "backupTimestamp": "2025-04-13T01:52:27.184Z",
+    "localBackupTimestamp": "2025-04-12T19:52:27.184Z"
+  },
+  {
+    "question": "What record label was founded by Frank Zappa?",
+    "correct_answer": "Bizarre Records / Straight Records",
+    "incorrect_answers": [
+      "Apple Records",
+      "Reprise Records",
+      "Island Records",
+      "Elektra Records",
+      "Harvest Records",
+      "Charisma Records",
+      "Third Man Records"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Music",
+    "difficulty": "hard",
+    "id": "1542e118-d1dd-4025-b356-0867f7d16748",
+    "created_at": "2025-04-13T01:52:27.185Z",
+    "backupTimestamp": "2025-04-13T01:52:27.185Z",
+    "localBackupTimestamp": "2025-04-12T19:52:27.185Z"
+  },
+  {
+    "question": "Which artist released the highly influential, sample-heavy album 'Paul's Boutique'?",
+    "correct_answer": "Beastie Boys",
+    "incorrect_answers": [
+      "Public Enemy",
+      "De La Soul",
+      "A Tribe Called Quest",
+      "DJ Shadow",
+      "Run-D.M.C.",
+      "N.W.A.",
+      "The Avalanches"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Music",
+    "difficulty": "hard",
+    "id": "665f4b53-6590-44d0-afab-2706a0a9eda0",
+    "created_at": "2025-04-13T01:52:27.186Z",
+    "backupTimestamp": "2025-04-13T01:52:27.187Z",
+    "localBackupTimestamp": "2025-04-12T19:52:27.187Z"
+  },
+  {
+    "question": "What is the name of the musical scale consisting of five notes per octave, common in folk music?",
+    "correct_answer": "Pentatonic scale",
+    "incorrect_answers": [
+      "Diatonic scale",
+      "Chromatic scale",
+      "Whole tone scale",
+      "Octatonic scale",
+      "Blues scale",
+      "Major scale",
+      "Minor scale"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Music",
+    "difficulty": "hard",
+    "id": "119b1abd-04c2-4fdc-b21b-dc51b70ba7e6",
+    "created_at": "2025-04-13T01:52:27.188Z",
+    "backupTimestamp": "2025-04-13T01:52:27.189Z",
+    "localBackupTimestamp": "2025-04-12T19:52:27.189Z"
+  },
+  {
+    "question": "Which avant-garde artist was married to John Lennon and often collaborated with him?",
+    "correct_answer": "Yoko Ono",
+    "incorrect_answers": [
+      "Patti Smith",
+      "Laurie Anderson",
+      "Marianne Faithfull",
+      "Nico",
+      "Carolee Schneemann",
+      "Marina Abramović",
+      "Linda McCartney"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Music",
+    "difficulty": "hard",
+    "id": "91fa6908-9a3a-4b34-94e1-5205e7a62343",
+    "created_at": "2025-04-13T01:52:27.190Z",
+    "backupTimestamp": "2025-04-13T01:52:27.190Z",
+    "localBackupTimestamp": "2025-04-12T19:52:27.190Z"
+  },
+  {
+    "question": "What influential post-punk band featured singer Ian Curtis, who tragically died in 1980?",
+    "correct_answer": "Joy Division",
+    "incorrect_answers": [
+      "New Order (formed by remaining members)",
+      "The Cure",
+      "The Smiths",
+      "Bauhaus",
+      "Siouxsie and the Banshees",
+      "Echo & the Bunnymen",
+      "Gang of Four"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Music",
+    "difficulty": "hard",
+    "id": "ee2228a9-f7ee-4161-9758-78f0ec85b973",
+    "created_at": "2025-04-13T01:52:27.192Z",
+    "backupTimestamp": "2025-04-13T01:52:27.192Z",
+    "localBackupTimestamp": "2025-04-12T19:52:27.192Z"
+  },
+  {
+    "question": "Which Miles Davis album is considered a landmark of modal jazz?",
+    "correct_answer": "Kind of Blue",
+    "incorrect_answers": [
+      "Bitches Brew",
+      "Sketches of Spain",
+      "In a Silent Way",
+      "Birth of the Cool",
+      "Milestones",
+      "Round About Midnight",
+      "Tutu"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Music",
+    "difficulty": "hard",
+    "id": "8cce5482-ddf7-4246-9321-e759113395b7",
+    "created_at": "2025-04-13T01:52:27.194Z",
+    "backupTimestamp": "2025-04-13T01:52:27.194Z",
+    "localBackupTimestamp": "2025-04-12T19:52:27.194Z"
+  },
+  {
+    "question": "What is the name of the record producer famous for his 'Wall of Sound' technique?",
+    "correct_answer": "Phil Spector",
+    "incorrect_answers": [
+      "George Martin",
+      "Brian Wilson",
+      "Rick Rubin",
+      "Quincy Jones",
+      "Sam Phillips",
+      "Berry Gordy Jr.",
+      "Brian Eno"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Music",
+    "difficulty": "hard",
+    "id": "5534592f-d820-42a7-87a8-7bb49952ddb6",
+    "created_at": "2025-04-13T01:52:27.195Z",
+    "backupTimestamp": "2025-04-13T01:52:27.195Z",
+    "localBackupTimestamp": "2025-04-12T19:52:27.195Z"
+  },
+  {
+    "question": "Which Velvet Underground album features a distinctive banana cover designed by Andy Warhol?",
+    "correct_answer": "The Velvet Underground & Nico",
+    "incorrect_answers": [
+      "White Light/White Heat",
+      "The Velvet Underground (self-titled)",
+      "Loaded",
+      "Transformer (Lou Reed solo)",
+      "Chelsea Girl (Nico solo)",
+      "Songs for Drella",
+      "Horses (Patti Smith)"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Music",
+    "difficulty": "hard",
+    "id": "b8e051a5-cd30-414a-a37e-9010ad94e318",
+    "created_at": "2025-04-13T01:52:27.197Z",
+    "backupTimestamp": "2025-04-13T01:52:27.197Z",
+    "localBackupTimestamp": "2025-04-12T19:52:27.197Z"
+  },
+  {
+    "question": "What is the term for a musical composition, typically instrumental, characterized by improvisation and a free-form structure?",
+    "correct_answer": "Fantasia or Rhapsody",
+    "incorrect_answers": [
+      "Sonata",
+      "Concerto",
+      "Symphony",
+      "Fugue",
+      "Etude",
+      "Nocturne",
+      "Prelude"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Music",
+    "difficulty": "hard",
+    "id": "11324adb-4afd-4e09-80b1-d1c4e75b1196",
+    "created_at": "2025-04-13T01:52:27.199Z",
+    "backupTimestamp": "2025-04-13T01:52:27.199Z",
+    "localBackupTimestamp": "2025-04-12T19:52:27.199Z"
+  },
+  {
+    "question": "Which experimental hip-hop group released the album 'The Money Store'?",
+    "correct_answer": "Death Grips",
+    "incorrect_answers": [
+      "Run The Jewels",
+      "JPEGMAFIA",
+      "Clipping.",
+      "Odd Future",
+      "Brockhampton",
+      "Injury Reserve",
+      "Shabazz Palaces"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Music",
+    "difficulty": "hard",
+    "id": "8054cfb2-f338-4959-8290-2b5b96d8d395",
+    "created_at": "2025-04-13T01:52:27.201Z",
+    "backupTimestamp": "2025-04-13T01:52:27.202Z",
+    "localBackupTimestamp": "2025-04-12T19:52:27.202Z"
+  },
+  {
+    "question": "What year did the infamous Altamont Free Concert, marked by violence, take place?",
+    "correct_answer": "1969",
+    "incorrect_answers": [
+      "1967",
+      "1968",
+      "1970",
+      "1971",
+      "1966",
+      "1972",
+      "1965"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Music",
+    "difficulty": "hard",
+    "id": "5750df42-cc7f-4db4-854d-389a7e715513",
+    "created_at": "2025-04-13T01:52:27.203Z",
+    "backupTimestamp": "2025-04-13T01:52:27.204Z",
+    "localBackupTimestamp": "2025-04-12T19:52:27.204Z"
+  },
+  {
+    "question": "Which British musician co-founded Roxy Music and later became a pioneer of ambient music?",
+    "correct_answer": "Brian Eno",
+    "incorrect_answers": [
+      "Bryan Ferry",
+      "Phil Manzanera",
+      "Andy Mackay",
+      "David Byrne",
+      "Robert Fripp",
+      "Peter Gabriel",
+      "John Cale"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Music",
+    "difficulty": "hard",
+    "id": "d0b32b8a-640b-4e1f-9dd0-46c8934cd372",
+    "created_at": "2025-04-13T01:52:27.205Z",
+    "backupTimestamp": "2025-04-13T01:52:27.205Z",
+    "localBackupTimestamp": "2025-04-12T19:52:27.205Z"
+  },
+  {
+    "question": "What is the title of Captain Beefheart's notoriously avant-garde and experimental album from 1969?",
+    "correct_answer": "Trout Mask Replica",
+    "incorrect_answers": [
+      "Safe as Milk",
+      "Lick My Decals Off, Baby",
+      "Clear Spot",
+      "The Spotlight Kid",
+      "Strictly Personal",
+      "Mirror Man",
+      "Doc at the Radar Station"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Music",
+    "difficulty": "hard",
+    "id": "8ebde9ce-d7a0-4ea4-a0ba-04eb141cd636",
+    "created_at": "2025-04-13T01:52:27.207Z",
+    "backupTimestamp": "2025-04-13T01:52:27.207Z",
+    "localBackupTimestamp": "2025-04-12T19:52:27.207Z"
+  },
+  {
+    "question": "Which composer wrote the minimalist opera 'Einstein on the Beach'?",
+    "correct_answer": "Philip Glass",
+    "incorrect_answers": [
+      "Steve Reich",
+      "John Adams",
+      "Terry Riley",
+      "La Monte Young",
+      "Meredith Monk",
+      "John Cage",
+      "Michael Nyman"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Music",
+    "difficulty": "hard",
+    "id": "3f2137d0-b15f-4321-8fa1-b243cb079d49",
+    "created_at": "2025-04-13T01:52:27.209Z",
+    "backupTimestamp": "2025-04-13T01:52:27.210Z",
+    "localBackupTimestamp": "2025-04-12T19:52:27.210Z"
+  },
+  {
+    "question": "What is 'Mbira' music traditionally associated with which African country?",
+    "correct_answer": "Zimbabwe (Shona people)",
+    "incorrect_answers": [
+      "Nigeria",
+      "Ghana",
+      "South Africa",
+      "Mali",
+      "Senegal",
+      "Ethiopia",
+      "Kenya"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Music",
+    "difficulty": "hard",
+    "id": "72287474-ec83-4e52-b85a-ba6871a465c0",
+    "created_at": "2025-04-13T01:52:27.211Z",
+    "backupTimestamp": "2025-04-13T01:52:27.211Z",
+    "localBackupTimestamp": "2025-04-12T19:52:27.211Z"
+  },
+  {
+    "question": "Which early electronic instrument used vacuum tubes and was controlled by moving hands near two antennas?",
+    "correct_answer": "Theremin",
+    "incorrect_answers": [
+      "Moog Synthesizer",
+      "Ondes Martenot",
+      "Mellotron",
+      "Hammond Organ",
+      "Fairlight CMI",
+      "Buchla Synthesizer",
+      "Telharmonium"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Music",
+    "difficulty": "hard",
+    "id": "35e69a80-bb5b-493f-8c58-cd198162b268",
+    "created_at": "2025-04-13T01:52:27.213Z",
+    "backupTimestamp": "2025-04-13T01:52:27.213Z",
+    "localBackupTimestamp": "2025-04-12T19:52:27.213Z"
+  },
+  {
+    "question": "What landmark court case significantly impacted digital music sampling by ruling against Biz Markie?",
+    "correct_answer": "Grand Upright Music, Ltd. v. Warner Bros. Records Inc.",
+    "incorrect_answers": [
+      "Bridgeport Music, Inc. v. Dimension Films",
+      "Campbell v. Acuff-Rose Music, Inc.",
+      "A&M Records, Inc. v. Napster, Inc.",
+      "Sony Corp. of America v. Universal City Studios, Inc.",
+      "Feist Publications, Inc., v. Rural Telephone Service Co.",
+      "Fogerty v. Fantasy, Inc.",
+      "Capitol Records, LLC v. ReDigi Inc."
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Music",
+    "difficulty": "hard",
+    "id": "96148a39-0530-4c23-bf49-7cb2ef82949d",
+    "created_at": "2025-04-13T01:52:27.215Z",
+    "backupTimestamp": "2025-04-13T01:52:27.215Z",
+    "localBackupTimestamp": "2025-04-12T19:52:27.215Z"
+  },
+  {
+    "question": "Which alternative band released the album 'Siamese Dream', known for its layered guitar sounds?",
+    "correct_answer": "The Smashing Pumpkins",
+    "incorrect_answers": [
+      "Nirvana",
+      "Pearl Jam",
+      "Soundgarden",
+      "Alice in Chains",
+      "Pixies",
+      "Sonic Youth",
+      "Jane's Addiction"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Music",
+    "difficulty": "hard",
+    "id": "3f29afc8-ff16-4576-a708-8c52a0b38683",
+    "created_at": "2025-04-13T01:52:27.218Z",
+    "backupTimestamp": "2025-04-13T01:52:27.218Z",
+    "localBackupTimestamp": "2025-04-12T19:52:27.218Z"
+  },
+  {
+    "question": "What is the name of the collective associated with artists like Aphex Twin and Autechre?",
+    "correct_answer": "Warp Records (Label)",
+    "incorrect_answers": [
+      "Ninja Tune",
+      "Rephlex Records",
+      "Planet Mu",
+      "Mo' Wax",
+      "R&S Records",
+      "XL Recordings",
+      "Hyperdub"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Music",
+    "difficulty": "hard",
+    "id": "3f40cf30-c1c8-4186-ba70-96821289a1ed",
+    "created_at": "2025-04-13T01:52:27.220Z",
+    "backupTimestamp": "2025-04-13T01:52:27.220Z",
+    "localBackupTimestamp": "2025-04-12T19:52:27.220Z"
+  },
+  {
+    "question": "Who is the composer of the minimalist piece 'In C'?",
+    "correct_answer": "Terry Riley",
+    "incorrect_answers": [
+      "Steve Reich",
+      "Philip Glass",
+      "John Cage",
+      "La Monte Young",
+      "Arvo Pärt",
+      "Morton Feldman",
+      "Gavin Bryars"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Music",
+    "difficulty": "hard",
+    "id": "ea2fb0e4-a6e0-42f1-b811-41220e59c8eb",
+    "created_at": "2025-04-13T01:52:27.222Z",
+    "backupTimestamp": "2025-04-13T01:52:27.222Z",
+    "localBackupTimestamp": "2025-04-12T19:52:27.222Z"
+  },
+  {
+    "question": "What is the subject matter of the song 'Strange Fruit', famously performed by Billie Holiday?",
+    "correct_answer": "Lynching of African Americans",
+    "incorrect_answers": [
+      "Love and heartbreak",
+      "Drug addiction",
+      "The Great Depression",
+      "World War II",
+      "Exotic travel",
+      "A forbidden romance",
+      "The beauty of nature"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Music",
+    "difficulty": "hard",
+    "id": "3f831135-9995-4322-9ff0-1998654bb5cb",
+    "created_at": "2025-04-13T01:52:27.224Z",
+    "backupTimestamp": "2025-04-13T01:52:27.224Z",
+    "localBackupTimestamp": "2025-04-12T19:52:27.224Z"
+  },
+  {
+    "question": "Which Radiohead album is often cited for its shift towards electronic influences and experimentalism?",
+    "correct_answer": "Kid A",
+    "incorrect_answers": [
+      "OK Computer",
+      "The Bends",
+      "Pablo Honey",
+      "Amnesiac",
+      "Hail to the Thief",
+      "In Rainbows",
+      "A Moon Shaped Pool"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Music",
+    "difficulty": "hard",
+    "id": "1877c4d9-cfc0-4be4-a729-36386a6b2f10",
+    "created_at": "2025-04-13T01:52:27.226Z",
+    "backupTimestamp": "2025-04-13T01:52:27.226Z",
+    "localBackupTimestamp": "2025-04-12T19:52:27.226Z"
+  },
+  {
+    "question": "What is the significance of the '27 Club' in music history?",
+    "correct_answer": "A group of influential musicians who died at age 27",
+    "incorrect_answers": [
+      "A famous recording studio",
+      "A secret society of artists",
+      "The first 27 members of the Rock and Roll Hall of Fame",
+      "A song by the band Fall Out Boy",
+      "A documentary about early rock pioneers",
+      "A specific guitar tuning",
+      "A club in London frequented by musicians"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Music",
+    "difficulty": "hard",
+    "id": "b6d617a0-223a-4c4d-a487-afd962f579b8",
+    "created_at": "2025-04-13T01:52:27.228Z",
+    "backupTimestamp": "2025-04-13T01:52:27.228Z",
+    "localBackupTimestamp": "2025-04-12T19:52:27.228Z"
+  },
+  {
+    "question": "Which Fela Kuti album, released in 1976, is a critique of the Nigerian military government?",
+    "correct_answer": "Zombie",
+    "incorrect_answers": [
+      "Expensive Shit",
+      "Gentleman",
+      "Shakara",
+      "Water No Get Enemy",
+      "Confusion",
+      "Roforofo Fight",
+      "Open & Close"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Music",
+    "difficulty": "hard",
+    "id": "37af7d77-66b7-4e7a-9e1b-38d0e975107b",
+    "created_at": "2025-04-13T01:52:27.230Z",
+    "backupTimestamp": "2025-04-13T01:52:27.230Z",
+    "localBackupTimestamp": "2025-04-12T19:52:27.230Z"
+  },
+  {
+    "question": "What is the name of the Brazilian music genre that blends samba with jazz, popularized in the late 1950s and 1960s?",
+    "correct_answer": "Bossa Nova",
+    "incorrect_answers": [
+      "Tango",
+      "Salsa",
+      "Reggaeton",
+      "MPB (Música popular brasileira)",
+      "Tropicalia",
+      "Choro",
+      "Forró"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Music",
+    "difficulty": "hard",
+    "id": "2e3a4376-0058-4800-95af-f37c246e2e25",
+    "created_at": "2025-04-13T01:52:27.232Z",
+    "backupTimestamp": "2025-04-13T01:52:27.233Z",
+    "localBackupTimestamp": "2025-04-12T19:52:27.233Z"
+  },
+  {
+    "question": "Which record producer is associated with the 'Sun Sound' and discovered Elvis Presley, Johnny Cash, and Jerry Lee Lewis?",
+    "correct_answer": "Sam Phillips",
+    "incorrect_answers": [
+      "Phil Spector",
+      "George Martin",
+      "Berry Gordy Jr.",
+      "Ahmet Ertegun",
+      "Leonard Chess",
+      "Tom Dowd",
+      "Jerry Wexler"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Music",
+    "difficulty": "hard",
+    "id": "da007534-4c33-4f90-b429-c0c9fe1ec47c",
+    "created_at": "2025-04-13T01:52:27.234Z",
+    "backupTimestamp": "2025-04-13T01:52:27.235Z",
+    "localBackupTimestamp": "2025-04-12T19:52:27.235Z"
+  },
+  {
+    "question": "What is the typical time signature for a standard waltz?",
+    "correct_answer": "3/4",
+    "incorrect_answers": [
+      "4/4 (Common time)",
+      "2/4",
+      "6/8",
+      "5/4",
+      "7/8",
+      "12/8",
+      "2/2 (Cut time)"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Music",
+    "difficulty": "hard",
+    "id": "a2fb3408-db03-47b7-94aa-3bca87ec6758",
+    "created_at": "2025-04-13T01:52:27.236Z",
+    "backupTimestamp": "2025-04-13T01:52:27.237Z",
+    "localBackupTimestamp": "2025-04-12T19:52:27.237Z"
+  },
+  {
+    "question": "Which Nick Drake album, released in 1972, gained significant posthumous acclaim?",
+    "correct_answer": "Pink Moon",
+    "incorrect_answers": [
+      "Five Leaves Left",
+      "Bryter Layter",
+      "Time of No Reply (Compilation)",
+      "Made to Love Magic (Compilation)",
+      "Way to Blue (Compilation)",
+      "Fruit Tree (Box Set)",
+      "A Treasury (Compilation)"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Music",
+    "difficulty": "hard",
+    "id": "c891041c-47ec-4388-aee5-046097c15211",
+    "created_at": "2025-04-13T01:52:27.238Z",
+    "backupTimestamp": "2025-04-13T01:52:27.238Z",
+    "localBackupTimestamp": "2025-04-12T19:52:27.238Z"
+  },
+  {
+    "question": "What does the 'wah-wah' pedal primarily alter in an electric guitar's sound?",
+    "correct_answer": "Tone / Frequency spectrum",
+    "incorrect_answers": [
+      "Volume",
+      "Pitch",
+      "Distortion level",
+      "Reverb amount",
+      "Delay time",
+      "Chorus depth",
+      "Sustain length"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Music",
+    "difficulty": "hard",
+    "id": "9a038587-0583-48e6-8039-dd532abca41c",
+    "created_at": "2025-04-13T01:52:27.240Z",
+    "backupTimestamp": "2025-04-13T01:52:27.240Z",
+    "localBackupTimestamp": "2025-04-12T19:52:27.240Z"
+  },
+  {
+    "question": "Which composer pioneered the twelve-tone technique (serialism)?",
+    "correct_answer": "Arnold Schoenberg",
+    "incorrect_answers": [
+      "Igor Stravinsky",
+      "Béla Bartók",
+      "Anton Webern",
+      "Alban Berg",
+      "Claude Debussy",
+      "Erik Satie",
+      "Dmitri Shostakovich"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Music",
+    "difficulty": "hard",
+    "id": "ebc55069-1af7-49f0-bcdc-9880a223047c",
+    "created_at": "2025-04-13T01:52:27.242Z",
+    "backupTimestamp": "2025-04-13T01:52:27.242Z",
+    "localBackupTimestamp": "2025-04-12T19:52:27.242Z"
+  },
+  {
+    "question": "What is the TR-808?",
+    "correct_answer": "An influential Roland drum machine",
+    "incorrect_answers": [
+      "A Moog synthesizer",
+      "A Fender guitar model",
+      "A digital audio workstation (DAW)",
+      "A vocal effects processor",
+      "A MIDI controller",
+      "A type of microphone",
+      "A Yamaha keyboard"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Music",
+    "difficulty": "hard",
+    "id": "fad0ce56-44b4-4b9f-871b-595caabd1d75",
+    "created_at": "2025-04-13T01:52:27.244Z",
+    "backupTimestamp": "2025-04-13T01:52:27.244Z",
+    "localBackupTimestamp": "2025-04-12T19:52:27.244Z"
+  },
+  {
+    "question": "Which Tom Waits album features the song 'Tom Traubert's Blues (Four Sheets to the Wind in Copenhagen)', often known as 'Waltzing Matilda'?",
+    "correct_answer": "Small Change",
+    "incorrect_answers": [
+      "Rain Dogs",
+      "Closing Time",
+      "Swordfishtrombones",
+      "Blue Valentine",
+      "Heartattack and Vine",
+      "Nighthawks at the Diner",
+      "Frank's Wild Years"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Music",
+    "difficulty": "hard",
+    "id": "9460c9f6-dae1-45cd-93b4-a86f9e3dd22e",
+    "created_at": "2025-04-13T01:52:27.246Z",
+    "backupTimestamp": "2025-04-13T01:52:27.246Z",
+    "localBackupTimestamp": "2025-04-12T19:52:27.246Z"
+  },
+  {
+    "question": "What is the name of the sampling drum machine heavily used in early hip hop, known for its gritty sound?",
+    "correct_answer": "E-mu SP-1200",
+    "incorrect_answers": [
+      "Akai MPC60",
+      "Linn LM-1",
+      "Roland TR-808",
+      "Oberheim DMX",
+      "Roland TR-909",
+      "Akai S950",
+      "Yamaha DX7 (Synthesizer)"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Music",
+    "difficulty": "hard",
+    "id": "be57d431-45fc-4bcc-8ec6-a4d50f7ef5c5",
+    "created_at": "2025-04-13T01:52:27.248Z",
+    "backupTimestamp": "2025-04-13T01:52:27.248Z",
+    "localBackupTimestamp": "2025-04-12T19:52:27.248Z"
+  },
+  {
+    "question": "Who performed the experimental piece 'Organ²/ASLSP (As Slow as Possible)', intended to last 639 years?",
+    "correct_answer": "John Cage",
+    "incorrect_answers": [
+      "La Monte Young",
+      "Morton Feldman",
+      "Karlheinz Stockhausen",
+      "Steve Reich",
+      "Philip Glass",
+      "Terry Riley",
+      "Gavin Bryars"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Music",
+    "difficulty": "hard",
+    "id": "cc4699b3-d78c-40df-9cb8-1eee2d9f9a89",
+    "created_at": "2025-04-13T01:52:27.250Z",
+    "backupTimestamp": "2025-04-13T01:52:27.250Z",
+    "localBackupTimestamp": "2025-04-12T19:52:27.250Z"
+  },
+  {
+    "question": "Which band's lead singer was Bon Scott before his death in 1980?",
+    "correct_answer": "AC/DC",
+    "incorrect_answers": [
+      "Led Zeppelin",
+      "Black Sabbath",
+      "Motörhead",
+      "Thin Lizzy",
+      "Judas Priest",
+      "Lynyrd Skynyrd",
+      "Deep Purple"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Music",
+    "difficulty": "hard",
+    "id": "41dd7eba-0118-41ce-9cd9-513928db79aa",
+    "created_at": "2025-04-13T01:52:27.252Z",
+    "backupTimestamp": "2025-04-13T01:52:27.252Z",
+    "localBackupTimestamp": "2025-04-12T19:52:27.252Z"
+  },
+  {
+    "question": "What is the 'Amen Break'?",
+    "correct_answer": "A famous drum break sampled extensively in electronic music",
+    "incorrect_answers": [
+      "A guitar solo by Eric Clapton",
+      "A synthesizer preset",
+      "A chord progression used in gospel music",
+      "A vocal sample from James Brown",
+      "A specific microphone technique",
+      "A bassline from a funk song",
+      "A musical scale"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Music",
+    "difficulty": "hard",
+    "id": "1df41fc9-a66b-4bae-89b9-b91cc7777a31",
+    "created_at": "2025-04-13T01:52:27.253Z",
+    "backupTimestamp": "2025-04-13T01:52:27.254Z",
+    "localBackupTimestamp": "2025-04-12T19:52:27.254Z"
+  },
+  {
+    "question": "Which krautrock band featured the highly influential drummer Jaki Liebezeit?",
+    "correct_answer": "Can",
+    "incorrect_answers": [
+      "Kraftwerk",
+      "Neu!",
+      "Faust",
+      "Tangerine Dream",
+      "Amon Düül II",
+      "Guru Guru",
+      "Cluster"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Music",
+    "difficulty": "hard",
+    "id": "3dc6297f-0438-437d-9118-fd715192fe8f",
+    "created_at": "2025-04-13T01:52:27.255Z",
+    "backupTimestamp": "2025-04-13T01:52:27.256Z",
+    "localBackupTimestamp": "2025-04-12T19:52:27.256Z"
+  },
+  {
+    "question": "What does 'Mbube' mean in Zulu, the title of the song that became 'The Lion Sleeps Tonight'?",
+    "correct_answer": "Lion",
+    "incorrect_answers": [
+      "Jungle",
+      "Sleep",
+      "Tonight",
+      "Mighty",
+      "Hunter",
+      "King",
+      "Song"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Music",
+    "difficulty": "hard",
+    "id": "a7a4cd13-bf0a-4002-a6ee-3c6ab596d7c3",
+    "created_at": "2025-04-13T01:52:27.257Z",
+    "backupTimestamp": "2025-04-13T01:52:27.257Z",
+    "localBackupTimestamp": "2025-04-12T19:52:27.257Z"
+  },
+  {
+    "question": "Which electronic music pioneer created the 'Music for Airports' album?",
+    "correct_answer": "Brian Eno",
+    "incorrect_answers": [
+      "Aphex Twin",
+      "Kraftwerk",
+      "Jean-Michel Jarre",
+      "Vangelis",
+      "Tangerine Dream",
+      "Ryuichi Sakamoto",
+      "Wendy Carlos"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Music",
+    "difficulty": "hard",
+    "id": "5d404ef4-fbd7-4d71-ba65-2412b635212d",
+    "created_at": "2025-04-13T01:52:27.259Z",
+    "backupTimestamp": "2025-04-13T01:52:27.260Z",
+    "localBackupTimestamp": "2025-04-12T19:52:27.260Z"
+  },
+  {
+    "question": "What is the technique of singing multiple pitches simultaneously, often associated with Tuvan throat singing?",
+    "correct_answer": "Overtone singing / Throat singing",
+    "incorrect_answers": [
+      "Yodeling",
+      "Scat singing",
+      "Falsetto",
+      "Vibrato",
+      "Belting",
+      "Sprechgesang",
+      "Melisma"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Music",
+    "difficulty": "hard",
+    "id": "e56a79b3-09bd-4a13-988e-b79814a5315d",
+    "created_at": "2025-04-13T01:52:27.261Z",
+    "backupTimestamp": "2025-04-13T01:52:27.261Z",
+    "localBackupTimestamp": "2025-04-12T19:52:27.261Z"
+  },
+  {
+    "question": "Which Scott Walker album from 1995 marked a significant shift towards avant-garde and experimental sound?",
+    "correct_answer": "Tilt",
+    "incorrect_answers": [
+      "Scott 4",
+      "The Drift",
+      "Bish Bosch",
+      "Climate of Hunter",
+      "Nite Flights (The Walker Brothers)",
+      "Scott 3",
+      "Soused (with Sunn O)))"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Music",
+    "difficulty": "hard",
+    "id": "4ecbd25c-1b38-4884-844a-6274ee8885d6",
+    "created_at": "2025-04-13T01:52:27.263Z",
+    "backupTimestamp": "2025-04-13T01:52:27.264Z",
+    "localBackupTimestamp": "2025-04-12T19:52:27.264Z"
+  },
+  {
+    "question": "What is 'prepared piano'?",
+    "correct_answer": "A piano with objects placed on or between the strings to alter the sound",
+    "incorrect_answers": [
+      "A player piano",
+      "A piano tuned to a non-standard scale",
+      "A specially reinforced concert grand piano",
+      "A digitally sampled piano sound",
+      "A piano played using only the pedals",
+      "A piano that has been meticulously tuned",
+      "A miniature toy piano"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Music",
+    "difficulty": "hard",
+    "id": "142e9e2d-6d66-4c99-87ca-52edd0293f3d",
+    "created_at": "2025-04-13T01:52:27.265Z",
+    "backupTimestamp": "2025-04-13T01:52:27.265Z",
+    "localBackupTimestamp": "2025-04-12T19:52:27.265Z"
+  },
+  {
+    "question": "Which reggae artist founded the Tuff Gong record label?",
+    "correct_answer": "Bob Marley",
+    "incorrect_answers": [
+      "Peter Tosh",
+      "Bunny Wailer",
+      "Lee 'Scratch' Perry",
+      "Jimmy Cliff",
+      "Toots Hibbert",
+      "Burning Spear",
+      "King Tubby"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Music",
+    "difficulty": "hard",
+    "id": "318444e0-ae9e-4bad-9f0b-3ba893bd4f45",
+    "created_at": "2025-04-13T01:52:27.267Z",
+    "backupTimestamp": "2025-04-13T01:52:27.268Z",
+    "localBackupTimestamp": "2025-04-12T19:52:27.268Z"
+  },
+  {
+    "question": "What does 'BPM' stand for in music?",
+    "correct_answer": "Beats Per Minute",
+    "incorrect_answers": [
+      "Bass Precision Modulator",
+      "Bar Pattern Marker",
+      "Bridge Progression Metronome",
+      "Basic Pitch Measurement",
+      "Binary Pulse Module",
+      "Broad Phase Modulator",
+      "Beat Phase Meter"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Music",
+    "difficulty": "hard",
+    "id": "a14332f6-708e-4b30-9617-f006089e6226",
+    "created_at": "2025-04-13T01:52:27.269Z",
+    "backupTimestamp": "2025-04-13T01:52:27.269Z",
+    "localBackupTimestamp": "2025-04-12T19:52:27.269Z"
+  },
+  {
+    "question": "Which Throbbing Gristle album is often cited as a foundational work of industrial music?",
+    "correct_answer": "The Second Annual Report",
+    "incorrect_answers": [
+      "D.o.A: The Third and Final Report",
+      "20 Jazz Funk Greats",
+      "Heathen Earth",
+      "Mission of Dead Souls",
+      "Journey Through a Body",
+      "Greatest Hits",
+      "Part Two: The Endless Not"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Music",
+    "difficulty": "hard",
+    "id": "0662b63f-c5cb-4050-b270-37fb01239866",
+    "created_at": "2025-04-13T01:52:27.271Z",
+    "backupTimestamp": "2025-04-13T01:52:27.271Z",
+    "localBackupTimestamp": "2025-04-12T19:52:27.271Z"
+  },
+  {
+    "question": "What city's musical movement in the late 1980s/early 1990s included bands like Nirvana, Pearl Jam, and Soundgarden?",
+    "correct_answer": "Seattle",
+    "incorrect_answers": [
+      "Los Angeles",
+      "Chicago",
+      "New York City",
+      "Athens, Georgia",
+      "Minneapolis",
+      "Portland",
+      "San Francisco"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Music",
+    "difficulty": "hard",
+    "id": "7005bcf4-2700-42bd-8c6b-64de035bf729",
+    "created_at": "2025-04-13T01:52:27.274Z",
+    "backupTimestamp": "2025-04-13T01:52:27.274Z",
+    "localBackupTimestamp": "2025-04-12T19:52:27.274Z"
+  },
+  {
+    "question": "Which Kate Bush album features the song 'Running Up That Hill (A Deal with God)'?",
+    "correct_answer": "Hounds of Love",
+    "incorrect_answers": [
+      "The Kick Inside",
+      "Never for Ever",
+      "The Dreaming",
+      "The Sensual World",
+      "Aerial",
+      "50 Words for Snow",
+      "Lionheart"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Music",
+    "difficulty": "hard",
+    "id": "98b59e83-2dc2-450d-940b-dabfe3fe5b10",
+    "created_at": "2025-04-13T01:52:27.276Z",
+    "backupTimestamp": "2025-04-13T01:52:27.276Z",
+    "localBackupTimestamp": "2025-04-12T19:52:27.276Z"
+  },
+  {
+    "question": "What is the name of the musical interval that spans eight notes in a diatonic scale?",
+    "correct_answer": "Octave",
+    "incorrect_answers": [
+      "Fifth",
+      "Fourth",
+      "Third",
+      "Tritone",
+      "Second",
+      "Seventh",
+      "Unison"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Music",
+    "difficulty": "hard",
+    "id": "da578346-641b-4783-8f80-582257019df7",
+    "created_at": "2025-04-13T01:52:27.278Z",
+    "backupTimestamp": "2025-04-13T01:52:27.278Z",
+    "localBackupTimestamp": "2025-04-12T19:52:27.278Z"
+  },
+  {
+    "question": "Which jazz saxophonist released the groundbreaking free jazz album 'The Shape of Jazz to Come'?",
+    "correct_answer": "Ornette Coleman",
+    "incorrect_answers": [
+      "John Coltrane",
+      "Albert Ayler",
+      "Pharoah Sanders",
+      "Eric Dolphy",
+      "Cecil Taylor (Pianist)",
+      "Sun Ra",
+      "Archie Shepp"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Music",
+    "difficulty": "hard",
+    "id": "8f880d59-5703-4bbe-a323-0e307b46491b",
+    "created_at": "2025-04-13T01:52:27.280Z",
+    "backupTimestamp": "2025-04-13T01:52:27.280Z",
+    "localBackupTimestamp": "2025-04-12T19:52:27.280Z"
+  },
+  {
+    "question": "What is the literal meaning of the Italian musical term 'pianissimo' (pp)?",
+    "correct_answer": "Very soft",
+    "incorrect_answers": [
+      "Soft (piano)",
+      "Moderately soft (mezzo piano)",
+      "Loud (forte)",
+      "Very loud (fortissimo)",
+      "Gradually getting softer (diminuendo)",
+      "Gradually getting louder (crescendo)",
+      "With force (sforzando)"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Music",
+    "difficulty": "hard",
+    "id": "ba0de5a5-5ce8-44e8-bdb4-11b657fc08e8",
+    "created_at": "2025-04-13T01:52:27.282Z",
+    "backupTimestamp": "2025-04-13T01:52:27.282Z",
+    "localBackupTimestamp": "2025-04-12T19:52:27.282Z"
   }
 ]
