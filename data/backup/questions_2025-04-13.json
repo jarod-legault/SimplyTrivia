@@ -9038,5 +9038,2585 @@
     "created_at": "2025-04-13T22:07:39.377Z",
     "backupTimestamp": "2025-04-13T22:07:39.377Z",
     "localBackupTimestamp": "2025-04-13T16:07:39.377Z"
+  },
+  {
+    "question": "What is the name of the planet closest to the Sun?",
+    "correct_answer": "Mercury",
+    "incorrect_answers": [
+      "Venus",
+      "Earth",
+      "Mars",
+      "Jupiter",
+      "Saturn",
+      "Uranus",
+      "Neptune"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Astronomy & Space",
+    "difficulty": "easy",
+    "id": "e37bc661-719f-41c6-b839-a9ee0b6d5c25",
+    "created_at": "2025-04-13T22:12:06.236Z",
+    "backupTimestamp": "2025-04-13T22:12:06.242Z",
+    "localBackupTimestamp": "2025-04-13T16:12:06.242Z"
+  },
+  {
+    "question": "What is the natural satellite that orbits the Earth?",
+    "correct_answer": "The Moon",
+    "incorrect_answers": [
+      "The Sun",
+      "Mars",
+      "Phobos",
+      "Europa",
+      "Titan",
+      "Ganymede",
+      "Io"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Astronomy & Space",
+    "difficulty": "easy",
+    "id": "7afda3d2-a431-48cc-bf9e-4c886b51dd52",
+    "created_at": "2025-04-13T22:12:06.259Z",
+    "backupTimestamp": "2025-04-13T22:12:06.261Z",
+    "localBackupTimestamp": "2025-04-13T16:12:06.261Z"
+  },
+  {
+    "question": "What is the name of the star at the center of our Solar System?",
+    "correct_answer": "The Sun",
+    "incorrect_answers": [
+      "Alpha Centauri",
+      "Sirius",
+      "Betelgeuse",
+      "Polaris",
+      "Proxima Centauri",
+      "Vega",
+      "Jupiter"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Astronomy & Space",
+    "difficulty": "easy",
+    "id": "6449cb2e-2ce4-40da-9d84-7d29728a4d36",
+    "created_at": "2025-04-13T22:12:06.269Z",
+    "backupTimestamp": "2025-04-13T22:12:06.270Z",
+    "localBackupTimestamp": "2025-04-13T16:12:06.270Z"
+  },
+  {
+    "question": "Which planet is known as the 'Red Planet'?",
+    "correct_answer": "Mars",
+    "incorrect_answers": [
+      "Jupiter",
+      "Venus",
+      "Saturn",
+      "Mercury",
+      "Neptune",
+      "Earth",
+      "Uranus"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Astronomy & Space",
+    "difficulty": "easy",
+    "id": "0938f748-e1bf-4676-b86e-be47443aac66",
+    "created_at": "2025-04-13T22:12:06.281Z",
+    "backupTimestamp": "2025-04-13T22:12:06.283Z",
+    "localBackupTimestamp": "2025-04-13T16:12:06.283Z"
+  },
+  {
+    "question": "What is the largest planet in our Solar System?",
+    "correct_answer": "Jupiter",
+    "incorrect_answers": [
+      "Saturn",
+      "Neptune",
+      "Uranus",
+      "Earth",
+      "Venus",
+      "Mars",
+      "Mercury"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Astronomy & Space",
+    "difficulty": "easy",
+    "id": "0cbe7260-afa5-4d97-bc25-c9f8c366542d",
+    "created_at": "2025-04-13T22:12:06.301Z",
+    "backupTimestamp": "2025-04-13T22:12:06.306Z",
+    "localBackupTimestamp": "2025-04-13T16:12:06.306Z"
+  },
+  {
+    "question": "What force keeps planets in orbit around the Sun?",
+    "correct_answer": "Gravity",
+    "incorrect_answers": [
+      "Magnetism",
+      "Friction",
+      "Nuclear Force",
+      "Tension",
+      "Air Resistance",
+      "Centrifugal Force",
+      "Electromagnetic Force"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Astronomy & Space",
+    "difficulty": "easy",
+    "id": "6f5074b1-9c54-4a49-8216-08dcacf7a829",
+    "created_at": "2025-04-13T22:12:06.319Z",
+    "backupTimestamp": "2025-04-13T22:12:06.320Z",
+    "localBackupTimestamp": "2025-04-13T16:12:06.320Z"
+  },
+  {
+    "question": "What pattern of stars is often recognized by a name, like the Big Dipper?",
+    "correct_answer": "Constellation / Asterism",
+    "incorrect_answers": [
+      "Galaxy",
+      "Nebula",
+      "Planet",
+      "Solar System",
+      "Cluster",
+      "Meteor Shower",
+      "Comet"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Astronomy & Space",
+    "difficulty": "easy",
+    "id": "4139333b-1feb-4e7c-996d-52534383a0ee",
+    "created_at": "2025-04-13T22:12:06.324Z",
+    "backupTimestamp": "2025-04-13T22:12:06.331Z",
+    "localBackupTimestamp": "2025-04-13T16:12:06.331Z"
+  },
+  {
+    "question": "What term describes a large celestial body that orbits a star?",
+    "correct_answer": "Planet",
+    "incorrect_answers": [
+      "Moon",
+      "Asteroid",
+      "Comet",
+      "Star",
+      "Galaxy",
+      "Nebula",
+      "Meteoroid"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Astronomy & Space",
+    "difficulty": "easy",
+    "id": "1c06ac3a-233d-437c-bf96-3fbf569bee66",
+    "created_at": "2025-04-13T22:12:06.334Z",
+    "backupTimestamp": "2025-04-13T22:12:06.335Z",
+    "localBackupTimestamp": "2025-04-13T16:12:06.335Z"
+  },
+  {
+    "question": "Which planet is famous for its prominent rings?",
+    "correct_answer": "Saturn",
+    "incorrect_answers": [
+      "Jupiter",
+      "Uranus",
+      "Neptune",
+      "Mars",
+      "Earth",
+      "Venus",
+      "Mercury"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Astronomy & Space",
+    "difficulty": "easy",
+    "id": "30eac4e0-8951-4369-8934-654182761797",
+    "created_at": "2025-04-13T22:12:06.344Z",
+    "backupTimestamp": "2025-04-13T22:12:06.345Z",
+    "localBackupTimestamp": "2025-04-13T16:12:06.345Z"
+  },
+  {
+    "question": "What tool do astronomers use to view distant objects in space?",
+    "correct_answer": "Telescope",
+    "incorrect_answers": [
+      "Microscope",
+      "Binoculars",
+      "Periscope",
+      "Spectroscope",
+      "Compass",
+      "Sextant",
+      "Radar"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Astronomy & Space",
+    "difficulty": "easy",
+    "id": "8e9b3c10-6348-4db5-bc62-26e1d351d930",
+    "created_at": "2025-04-13T22:12:06.349Z",
+    "backupTimestamp": "2025-04-13T22:12:06.350Z",
+    "localBackupTimestamp": "2025-04-13T16:12:06.350Z"
+  },
+  {
+    "question": "What is the name of the galaxy that contains our Solar System?",
+    "correct_answer": "Milky Way",
+    "incorrect_answers": [
+      "Andromeda",
+      "Triangulum",
+      "Whirlpool",
+      "Sombrero",
+      "Pinwheel",
+      "Large Magellanic Cloud",
+      "Small Magellanic Cloud"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Astronomy & Space",
+    "difficulty": "easy",
+    "id": "b919817a-7954-4900-a6e7-e299dfdef1e8",
+    "created_at": "2025-04-13T22:12:06.353Z",
+    "backupTimestamp": "2025-04-13T22:12:06.353Z",
+    "localBackupTimestamp": "2025-04-13T16:12:06.353Z"
+  },
+  {
+    "question": "Who was the first human to walk on the Moon?",
+    "correct_answer": "Neil Armstrong",
+    "incorrect_answers": [
+      "Buzz Aldrin",
+      "Yuri Gagarin",
+      "John Glenn",
+      "Alan Shepard",
+      "Michael Collins",
+      "Pete Conrad",
+      "Gene Cernan"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Astronomy & Space",
+    "difficulty": "easy",
+    "id": "75535d9b-29cf-4aca-b935-b39943dbe057",
+    "created_at": "2025-04-13T22:12:06.356Z",
+    "backupTimestamp": "2025-04-13T22:12:06.356Z",
+    "localBackupTimestamp": "2025-04-13T16:12:06.356Z"
+  },
+  {
+    "question": "What is the name of the spacecraft mission that first landed humans on the Moon?",
+    "correct_answer": "Apollo 11",
+    "incorrect_answers": [
+      "Apollo 8",
+      "Apollo 13",
+      "Gemini 4",
+      "Mercury-Redstone 3",
+      "Voyager 1",
+      "Hubble Space Telescope",
+      "Sputnik 1"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Astronomy & Space",
+    "difficulty": "easy",
+    "id": "8b1ff47f-4dc4-4157-803d-31d1a73d8130",
+    "created_at": "2025-04-13T22:12:06.359Z",
+    "backupTimestamp": "2025-04-13T22:12:06.359Z",
+    "localBackupTimestamp": "2025-04-13T16:12:06.359Z"
+  },
+  {
+    "question": "What phase of the Moon occurs when it is fully illuminated by the Sun as seen from Earth?",
+    "correct_answer": "Full Moon",
+    "incorrect_answers": [
+      "New Moon",
+      "First Quarter",
+      "Third Quarter (Last Quarter)",
+      "Waxing Crescent",
+      "Waning Gibbous",
+      "Waxing Gibbous",
+      "Waning Crescent"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Astronomy & Space",
+    "difficulty": "easy",
+    "id": "2a48bbed-e968-49b0-aafe-8f009f43a521",
+    "created_at": "2025-04-13T22:12:06.362Z",
+    "backupTimestamp": "2025-04-13T22:12:06.362Z",
+    "localBackupTimestamp": "2025-04-13T16:12:06.362Z"
+  },
+  {
+    "question": "What are small, rocky objects that orbit the Sun, mostly found between Mars and Jupiter?",
+    "correct_answer": "Asteroids",
+    "incorrect_answers": [
+      "Comets",
+      "Meteors",
+      "Meteoroids",
+      "Planets",
+      "Moons",
+      "Dwarf Planets",
+      "Stars"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Astronomy & Space",
+    "difficulty": "easy",
+    "id": "a275e405-4302-4431-926f-207d0ca96c27",
+    "created_at": "2025-04-13T22:12:06.365Z",
+    "backupTimestamp": "2025-04-13T22:12:06.365Z",
+    "localBackupTimestamp": "2025-04-13T16:12:06.365Z"
+  },
+  {
+    "question": "What is the third planet from the Sun?",
+    "correct_answer": "Earth",
+    "incorrect_answers": [
+      "Mercury",
+      "Venus",
+      "Mars",
+      "Jupiter",
+      "Saturn",
+      "Uranus",
+      "Neptune"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Astronomy & Space",
+    "difficulty": "easy",
+    "id": "c46a0263-d04b-43f1-ae23-c8ce81fc7665",
+    "created_at": "2025-04-13T22:12:06.368Z",
+    "backupTimestamp": "2025-04-13T22:12:06.368Z",
+    "localBackupTimestamp": "2025-04-13T16:12:06.368Z"
+  },
+  {
+    "question": "What is the term for a person who travels into space?",
+    "correct_answer": "Astronaut / Cosmonaut",
+    "incorrect_answers": [
+      "Astronomer",
+      "Pilot",
+      "Scientist",
+      "Explorer",
+      "Geologist",
+      "Engineer",
+      "Navigator"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Astronomy & Space",
+    "difficulty": "easy",
+    "id": "74781c81-6591-4fbd-b5b0-9c570e477da1",
+    "created_at": "2025-04-13T22:12:06.370Z",
+    "backupTimestamp": "2025-04-13T22:12:06.371Z",
+    "localBackupTimestamp": "2025-04-13T16:12:06.371Z"
+  },
+  {
+    "question": "Which planet is second from the Sun?",
+    "correct_answer": "Venus",
+    "incorrect_answers": [
+      "Mercury",
+      "Earth",
+      "Mars",
+      "Jupiter",
+      "Saturn",
+      "Uranus",
+      "Neptune"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Astronomy & Space",
+    "difficulty": "easy",
+    "id": "6bc9450a-fac7-46a9-9ac3-37184077149d",
+    "created_at": "2025-04-13T22:12:06.373Z",
+    "backupTimestamp": "2025-04-13T22:12:06.373Z",
+    "localBackupTimestamp": "2025-04-13T16:12:06.373Z"
+  },
+  {
+    "question": "What celestial body is primarily composed of ice and dust, and develops a tail when near the Sun?",
+    "correct_answer": "Comet",
+    "incorrect_answers": [
+      "Asteroid",
+      "Meteoroid",
+      "Planet",
+      "Moon",
+      "Star",
+      "Nebula",
+      "Galaxy"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Astronomy & Space",
+    "difficulty": "easy",
+    "id": "94075db5-e018-43c9-b30f-449b3d915c44",
+    "created_at": "2025-04-13T22:12:06.376Z",
+    "backupTimestamp": "2025-04-13T22:12:06.376Z",
+    "localBackupTimestamp": "2025-04-13T16:12:06.376Z"
+  },
+  {
+    "question": "What is the study of stars, planets, and the universe called?",
+    "correct_answer": "Astronomy",
+    "incorrect_answers": [
+      "Astrology",
+      "Geology",
+      "Biology",
+      "Physics",
+      "Chemistry",
+      "Meteorology",
+      "Cosmetology"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Astronomy & Space",
+    "difficulty": "easy",
+    "id": "03563281-9330-4f28-a5b9-64ad8a83a0d6",
+    "created_at": "2025-04-13T22:12:06.379Z",
+    "backupTimestamp": "2025-04-13T22:12:06.381Z",
+    "localBackupTimestamp": "2025-04-13T16:12:06.381Z"
+  },
+  {
+    "question": "How many planets are there in our Solar System?",
+    "correct_answer": "8",
+    "incorrect_answers": [
+      "7",
+      "9",
+      "10",
+      "6",
+      "11",
+      "12",
+      "5"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Astronomy & Space",
+    "difficulty": "easy",
+    "id": "efa6d9de-8342-4b8b-bf6a-3ba73105cf11",
+    "created_at": "2025-04-13T22:12:06.384Z",
+    "backupTimestamp": "2025-04-13T22:12:06.384Z",
+    "localBackupTimestamp": "2025-04-13T16:12:06.384Z"
+  },
+  {
+    "question": "What does NASA stand for?",
+    "correct_answer": "National Aeronautics and Space Administration",
+    "incorrect_answers": [
+      "North American Space Agency",
+      "National Aerospace Science Association",
+      "Naval Aviation and Space Authority",
+      "Network of Aeronautics and Space Administrators",
+      "National Association of Space Astronauts",
+      "New Aeronautics and Stellar Administration",
+      "Northern Alliance for Space Advancement"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Astronomy & Space",
+    "difficulty": "easy",
+    "id": "20d4ae4e-a67d-4874-aa6e-82790560e524",
+    "created_at": "2025-04-13T22:12:06.386Z",
+    "backupTimestamp": "2025-04-13T22:12:06.387Z",
+    "localBackupTimestamp": "2025-04-13T16:12:06.387Z"
+  },
+  {
+    "question": "What celestial phenomenon occurs when the Moon passes between the Sun and Earth?",
+    "correct_answer": "Solar Eclipse",
+    "incorrect_answers": [
+      "Lunar Eclipse",
+      "Meteor Shower",
+      "Aurora",
+      "Supernova",
+      "Transit",
+      "Occultation",
+      "Conjunction"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Astronomy & Space",
+    "difficulty": "easy",
+    "id": "c3fd9e56-8719-4f18-980e-3f4357675e3f",
+    "created_at": "2025-04-13T22:12:06.389Z",
+    "backupTimestamp": "2025-04-13T22:12:06.389Z",
+    "localBackupTimestamp": "2025-04-13T16:12:06.389Z"
+  },
+  {
+    "question": "What is the name of the vehicle used to travel to space?",
+    "correct_answer": "Spacecraft / Rocket",
+    "incorrect_answers": [
+      "Airplane",
+      "Submarine",
+      "Car",
+      "Train",
+      "Satellite",
+      "Drone",
+      "Helicopter"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Astronomy & Space",
+    "difficulty": "easy",
+    "id": "c0a07491-dc10-4cf4-a4c3-152d79299d0c",
+    "created_at": "2025-04-13T22:12:06.392Z",
+    "backupTimestamp": "2025-04-13T22:12:06.392Z",
+    "localBackupTimestamp": "2025-04-13T16:12:06.392Z"
+  },
+  {
+    "question": "What gives Mars its reddish appearance?",
+    "correct_answer": "Iron oxide (rust) in the soil",
+    "incorrect_answers": [
+      "High concentration of methane",
+      "Red vegetation",
+      "Atmospheric composition",
+      "Volcanic activity",
+      "Reflection from its moons",
+      "Scattering of sunlight",
+      "Heat radiation"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Astronomy & Space",
+    "difficulty": "easy",
+    "id": "42be919d-20f4-4484-b07a-e48ef46c456d",
+    "created_at": "2025-04-13T22:12:06.394Z",
+    "backupTimestamp": "2025-04-13T22:12:06.395Z",
+    "localBackupTimestamp": "2025-04-13T16:12:06.395Z"
+  },
+  {
+    "question": "What is the term for a large cloud of gas and dust in space?",
+    "correct_answer": "Nebula",
+    "incorrect_answers": [
+      "Galaxy",
+      "Star Cluster",
+      "Black Hole",
+      "Supernova Remnant",
+      "Planet",
+      "Asteroid Belt",
+      "Comet Tail"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Astronomy & Space",
+    "difficulty": "easy",
+    "id": "2413cd42-d558-4e6c-83fe-76c166aa06ad",
+    "created_at": "2025-04-13T22:12:06.397Z",
+    "backupTimestamp": "2025-04-13T22:12:06.398Z",
+    "localBackupTimestamp": "2025-04-13T16:12:06.398Z"
+  },
+  {
+    "question": "Which planet is known for having the Great Red Spot, a giant storm?",
+    "correct_answer": "Jupiter",
+    "incorrect_answers": [
+      "Saturn",
+      "Mars",
+      "Venus",
+      "Neptune",
+      "Uranus",
+      "Earth",
+      "Mercury"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Astronomy & Space",
+    "difficulty": "easy",
+    "id": "d25c7934-6315-40be-aa65-4790e99368e1",
+    "created_at": "2025-04-13T22:12:06.400Z",
+    "backupTimestamp": "2025-04-13T22:12:06.401Z",
+    "localBackupTimestamp": "2025-04-13T16:12:06.401Z"
+  },
+  {
+    "question": "What is the path an object takes as it revolves around another object in space called?",
+    "correct_answer": "Orbit",
+    "incorrect_answers": [
+      "Trajectory",
+      "Rotation",
+      "Axis",
+      "Ellipse",
+      "Revolution",
+      "Cycle",
+      "Circuit"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Astronomy & Space",
+    "difficulty": "easy",
+    "id": "97581afe-13a2-45fb-8be7-2c3329089c25",
+    "created_at": "2025-04-13T22:12:06.403Z",
+    "backupTimestamp": "2025-04-13T22:12:06.403Z",
+    "localBackupTimestamp": "2025-04-13T16:12:06.403Z"
+  },
+  {
+    "question": "What unit is commonly used to measure vast distances in space?",
+    "correct_answer": "Light-year",
+    "incorrect_answers": [
+      "Kilometer",
+      "Mile",
+      "Astronomical Unit (AU)",
+      "Parsec",
+      "Nautical Mile",
+      "Megameter",
+      "Gigaparsec"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Astronomy & Space",
+    "difficulty": "easy",
+    "id": "8e7c7f6d-cc93-4a77-ad1b-64ddd3c8900a",
+    "created_at": "2025-04-13T22:12:06.405Z",
+    "backupTimestamp": "2025-04-13T22:12:06.406Z",
+    "localBackupTimestamp": "2025-04-13T16:12:06.406Z"
+  },
+  {
+    "question": "What is the seventh planet from the Sun?",
+    "correct_answer": "Uranus",
+    "incorrect_answers": [
+      "Neptune",
+      "Saturn",
+      "Jupiter",
+      "Mars",
+      "Earth",
+      "Venus",
+      "Mercury"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Astronomy & Space",
+    "difficulty": "easy",
+    "id": "379e4de0-2d51-46fd-a204-102ada6a8c5c",
+    "created_at": "2025-04-13T22:12:06.408Z",
+    "backupTimestamp": "2025-04-13T22:12:06.408Z",
+    "localBackupTimestamp": "2025-04-13T16:12:06.408Z"
+  },
+  {
+    "question": "What phenomenon creates colorful light displays in the sky near the Earth's poles?",
+    "correct_answer": "Aurora (Borealis/Australis)",
+    "incorrect_answers": [
+      "Rainbow",
+      "Lightning",
+      "Meteor Shower",
+      "Solar Flare",
+      "Eclipse",
+      "Halo",
+      "Noctilucent Clouds"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Astronomy & Space",
+    "difficulty": "easy",
+    "id": "43afd331-e909-4200-b203-ffd944a517e1",
+    "created_at": "2025-04-13T22:12:06.410Z",
+    "backupTimestamp": "2025-04-13T22:12:06.411Z",
+    "localBackupTimestamp": "2025-04-13T16:12:06.411Z"
+  },
+  {
+    "question": "What is the outermost planet in our Solar System?",
+    "correct_answer": "Neptune",
+    "incorrect_answers": [
+      "Uranus",
+      "Saturn",
+      "Jupiter",
+      "Pluto (Dwarf Planet)",
+      "Mars",
+      "Eris (Dwarf Planet)",
+      "Mercury"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Astronomy & Space",
+    "difficulty": "easy",
+    "id": "2ba644c1-9a6c-4010-a3a4-c02cd4d2bf5e",
+    "created_at": "2025-04-13T22:12:06.414Z",
+    "backupTimestamp": "2025-04-13T22:12:06.415Z",
+    "localBackupTimestamp": "2025-04-13T16:12:06.415Z"
+  },
+  {
+    "question": "What is the name for a chunk of rock or metal from space that strikes the Earth's surface?",
+    "correct_answer": "Meteorite",
+    "incorrect_answers": [
+      "Meteor",
+      "Meteoroid",
+      "Asteroid",
+      "Comet",
+      "Shooting Star",
+      "Bolide",
+      "Tektite"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Astronomy & Space",
+    "difficulty": "easy",
+    "id": "d39cc4df-9398-4392-bd4e-7849fcd8dbcd",
+    "created_at": "2025-04-13T22:12:06.421Z",
+    "backupTimestamp": "2025-04-13T22:12:06.423Z",
+    "localBackupTimestamp": "2025-04-13T16:12:06.423Z"
+  },
+  {
+    "question": "Which US space agency launched the Hubble Space Telescope?",
+    "correct_answer": "NASA",
+    "incorrect_answers": [
+      "ESA (European Space Agency)",
+      "Roscosmos (Russian Space Agency)",
+      "JAXA (Japan Aerospace Exploration Agency)",
+      "CNSA (China National Space Administration)",
+      "ISRO (Indian Space Research Organisation)",
+      "SpaceX",
+      "Blue Origin"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Astronomy & Space",
+    "difficulty": "easy",
+    "id": "13fc8377-ed68-4a4d-9886-1ef2e98fd18a",
+    "created_at": "2025-04-13T22:12:06.427Z",
+    "backupTimestamp": "2025-04-13T22:12:06.427Z",
+    "localBackupTimestamp": "2025-04-13T16:12:06.427Z"
+  },
+  {
+    "question": "What object is formed when a massive star collapses under its own gravity, becoming incredibly dense?",
+    "correct_answer": "Black Hole / Neutron Star",
+    "incorrect_answers": [
+      "White Dwarf",
+      "Red Giant",
+      "Supernova",
+      "Planetary Nebula",
+      "Brown Dwarf",
+      "Protostar",
+      "Galaxy"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Astronomy & Space",
+    "difficulty": "easy",
+    "id": "7ebccaa9-3f96-42a1-b2e0-ac8d6310e78b",
+    "created_at": "2025-04-13T22:12:06.429Z",
+    "backupTimestamp": "2025-04-13T22:12:06.430Z",
+    "localBackupTimestamp": "2025-04-13T16:12:06.430Z"
+  },
+  {
+    "question": "Which constellation contains the stars that form the Big Dipper asterism?",
+    "correct_answer": "Ursa Major (The Great Bear)",
+    "incorrect_answers": [
+      "Ursa Minor (The Little Bear)",
+      "Orion",
+      "Cassiopeia",
+      "Leo",
+      "Draco",
+      "Canis Major",
+      "Taurus"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Astronomy & Space",
+    "difficulty": "easy",
+    "id": "daa274dd-dcc5-43dd-a2d8-d87c6200df79",
+    "created_at": "2025-04-13T22:12:06.433Z",
+    "backupTimestamp": "2025-04-13T22:12:06.433Z",
+    "localBackupTimestamp": "2025-04-13T16:12:06.433Z"
+  },
+  {
+    "question": "What is the name of the vehicle used to explore the surface of Mars?",
+    "correct_answer": "Mars Rover",
+    "incorrect_answers": [
+      "Lunar Module",
+      "Space Shuttle",
+      "Satellite",
+      "Space Station",
+      "Hubble Telescope",
+      "Voyager Probe",
+      "Mars Orbiter"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Astronomy & Space",
+    "difficulty": "easy",
+    "id": "550545df-cbf4-4699-b06e-a8005ab99186",
+    "created_at": "2025-04-13T22:12:06.435Z",
+    "backupTimestamp": "2025-04-13T22:12:06.435Z",
+    "localBackupTimestamp": "2025-04-13T16:12:06.435Z"
+  },
+  {
+    "question": "What causes the seasons on Earth?",
+    "correct_answer": "The tilt of Earth's axis",
+    "incorrect_answers": [
+      "Earth's distance from the Sun",
+      "The Moon's gravitational pull",
+      "Changes in solar activity",
+      "Ocean currents",
+      "Volcanic eruptions",
+      "The shape of Earth's orbit",
+      "Precession of the equinoxes"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Astronomy & Space",
+    "difficulty": "easy",
+    "id": "51250ec2-6b3a-41fd-8cde-4cd3b671194d",
+    "created_at": "2025-04-13T22:12:06.437Z",
+    "backupTimestamp": "2025-04-13T22:12:06.438Z",
+    "localBackupTimestamp": "2025-04-13T16:12:06.438Z"
+  },
+  {
+    "question": "What is the name of the North Star?",
+    "correct_answer": "Polaris",
+    "incorrect_answers": [
+      "Sirius",
+      "Vega",
+      "Betelgeuse",
+      "Alpha Centauri",
+      "Regulus",
+      "Arcturus",
+      "Aldebaran"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Astronomy & Space",
+    "difficulty": "easy",
+    "id": "58b25e78-049c-4346-bac2-4cf597e20605",
+    "created_at": "2025-04-13T22:12:06.440Z",
+    "backupTimestamp": "2025-04-13T22:12:06.440Z",
+    "localBackupTimestamp": "2025-04-13T16:12:06.440Z"
+  },
+  {
+    "question": "What event marks the beginning of the universe according to the prevailing cosmological model?",
+    "correct_answer": "The Big Bang",
+    "incorrect_answers": [
+      "The formation of the Sun",
+      "The formation of Earth",
+      "The first supernova",
+      "The Great Inflation",
+      "The Steady State Theory",
+      "The Oscillating Universe Theory",
+      "The formation of galaxies"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Astronomy & Space",
+    "difficulty": "easy",
+    "id": "0bdcd162-3dbe-4fd8-b873-c096fcf43779",
+    "created_at": "2025-04-13T22:12:06.442Z",
+    "backupTimestamp": "2025-04-13T22:12:06.442Z",
+    "localBackupTimestamp": "2025-04-13T16:12:06.442Z"
+  },
+  {
+    "question": "What is the name of the first artificial satellite launched into Earth orbit?",
+    "correct_answer": "Sputnik 1",
+    "incorrect_answers": [
+      "Explorer 1",
+      "Vanguard 1",
+      "Hubble Space Telescope",
+      "International Space Station",
+      "Mir Space Station",
+      "Telstar 1",
+      "Luna 1"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Astronomy & Space",
+    "difficulty": "easy",
+    "id": "094aa17c-eaa9-4398-98f0-887df225da32",
+    "created_at": "2025-04-13T22:12:06.444Z",
+    "backupTimestamp": "2025-04-13T22:12:06.444Z",
+    "localBackupTimestamp": "2025-04-13T16:12:06.444Z"
+  },
+  {
+    "question": "Which planet has the shortest orbital period around the Sun?",
+    "correct_answer": "Mercury",
+    "incorrect_answers": [
+      "Venus",
+      "Earth",
+      "Mars",
+      "Jupiter",
+      "Saturn",
+      "Uranus",
+      "Neptune"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Astronomy & Space",
+    "difficulty": "easy",
+    "id": "79c0a18d-b169-462c-9770-cf2fb058995e",
+    "created_at": "2025-04-13T22:12:06.447Z",
+    "backupTimestamp": "2025-04-13T22:12:06.447Z",
+    "localBackupTimestamp": "2025-04-13T16:12:06.447Z"
+  },
+  {
+    "question": "What term describes the spinning of a planet on its axis?",
+    "correct_answer": "Rotation",
+    "incorrect_answers": [
+      "Orbit",
+      "Revolution",
+      "Tilt",
+      "Precession",
+      "Nutation",
+      "Libration",
+      "Circulation"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Astronomy & Space",
+    "difficulty": "easy",
+    "id": "465511fa-f48d-4733-b409-2e206a7214e1",
+    "created_at": "2025-04-13T22:12:06.449Z",
+    "backupTimestamp": "2025-04-13T22:12:06.449Z",
+    "localBackupTimestamp": "2025-04-13T16:12:06.449Z"
+  },
+  {
+    "question": "What is the hottest planet in our Solar System, known for its thick atmosphere?",
+    "correct_answer": "Venus",
+    "incorrect_answers": [
+      "Mercury",
+      "Mars",
+      "Jupiter",
+      "Sun (a star)",
+      "Earth",
+      "Saturn",
+      "Neptune"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Astronomy & Space",
+    "difficulty": "easy",
+    "id": "3314b226-bd59-4d18-a88a-529e686d7197",
+    "created_at": "2025-04-13T22:12:06.451Z",
+    "backupTimestamp": "2025-04-13T22:12:06.452Z",
+    "localBackupTimestamp": "2025-04-13T16:12:06.452Z"
+  },
+  {
+    "question": "What is the approximate age of the universe?",
+    "correct_answer": "13.8 billion years",
+    "incorrect_answers": [
+      "4.6 billion years",
+      "1 million years",
+      "100 billion years",
+      "6,000 years",
+      "20 billion years",
+      "1 trillion years",
+      "500 million years"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Astronomy & Space",
+    "difficulty": "medium",
+    "id": "aeaada0c-35ba-48d6-a73b-8a33e475de00",
+    "created_at": "2025-04-13T22:12:06.454Z",
+    "backupTimestamp": "2025-04-13T22:12:06.454Z",
+    "localBackupTimestamp": "2025-04-13T16:12:06.454Z"
+  },
+  {
+    "question": "What is the Oort Cloud?",
+    "correct_answer": "A theoretical spherical cloud of icy bodies surrounding the Solar System",
+    "incorrect_answers": [
+      "The region between Mars and Jupiter containing asteroids",
+      "A large nebula where stars are born",
+      "The collection of moons orbiting Jupiter",
+      "A ring system around Neptune",
+      "A region beyond Neptune containing dwarf planets",
+      "A globular cluster of stars",
+      "The outermost layer of the Sun's atmosphere"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Astronomy & Space",
+    "difficulty": "medium",
+    "id": "ec8a0183-6112-42aa-a7df-10f03f4ab6c0",
+    "created_at": "2025-04-13T22:12:06.456Z",
+    "backupTimestamp": "2025-04-13T22:12:06.457Z",
+    "localBackupTimestamp": "2025-04-13T16:12:06.457Z"
+  },
+  {
+    "question": "Which moon of Jupiter is known for its intense volcanic activity?",
+    "correct_answer": "Io",
+    "incorrect_answers": [
+      "Europa",
+      "Ganymede",
+      "Callisto",
+      "Titan (Saturn)",
+      "Triton (Neptune)",
+      "Enceladus (Saturn)",
+      "The Moon (Earth)"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Astronomy & Space",
+    "difficulty": "medium",
+    "id": "6b3a28cc-2ab1-4f1f-a5d6-46584c06791e",
+    "created_at": "2025-04-13T22:12:06.459Z",
+    "backupTimestamp": "2025-04-13T22:12:06.459Z",
+    "localBackupTimestamp": "2025-04-13T16:12:06.459Z"
+  },
+  {
+    "question": "What is the name of the effect where light from distant galaxies is shifted towards longer wavelengths due to the expansion of the universe?",
+    "correct_answer": "Redshift",
+    "incorrect_answers": [
+      "Blueshift",
+      "Doppler Effect (general)",
+      "Gravitational Lensing",
+      "Aberration of Light",
+      "Atmospheric Refraction",
+      "Scattering",
+      "Parallax"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Astronomy & Space",
+    "difficulty": "medium",
+    "id": "504ea7b3-c1e3-4189-a0e2-6f3cfb8e7cc5",
+    "created_at": "2025-04-13T22:12:06.461Z",
+    "backupTimestamp": "2025-04-13T22:12:06.462Z",
+    "localBackupTimestamp": "2025-04-13T16:12:06.462Z"
+  },
+  {
+    "question": "Which spacecraft were the first to fly past Jupiter, Saturn, Uranus, and Neptune?",
+    "correct_answer": "Voyager 1 and Voyager 2",
+    "incorrect_answers": [
+      "Pioneer 10 and 11",
+      "Galileo",
+      "Cassini-Huygens",
+      "New Horizons",
+      "Juno",
+      "Mariner Program",
+      "Viking Program"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Astronomy & Space",
+    "difficulty": "medium",
+    "id": "d100c2b8-e0dc-4261-8042-7f26d3c7d683",
+    "created_at": "2025-04-13T22:12:06.464Z",
+    "backupTimestamp": "2025-04-13T22:12:06.464Z",
+    "localBackupTimestamp": "2025-04-13T16:12:06.464Z"
+  },
+  {
+    "question": "What process powers stars like our Sun?",
+    "correct_answer": "Nuclear Fusion",
+    "incorrect_answers": [
+      "Nuclear Fission",
+      "Chemical Combustion",
+      "Gravitational Collapse",
+      "Radioactive Decay",
+      "Accretion",
+      "Dark Matter Annihilation",
+      "Geothermal Energy"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Astronomy & Space",
+    "difficulty": "medium",
+    "id": "ac8d93ed-ae7e-4fa9-9919-36eb4ccb11f1",
+    "created_at": "2025-04-13T22:12:06.467Z",
+    "backupTimestamp": "2025-04-13T22:12:06.467Z",
+    "localBackupTimestamp": "2025-04-13T16:12:06.467Z"
+  },
+  {
+    "question": "What is the Chandrasekhar limit related to?",
+    "correct_answer": "The maximum mass of a stable white dwarf star",
+    "incorrect_answers": [
+      "The minimum mass required for a star to ignite fusion",
+      "The maximum mass of a neutron star",
+      "The event horizon radius of a black hole",
+      "The distance at which a moon will be torn apart by tidal forces",
+      "The critical density for a flat universe",
+      "The escape velocity of a planet",
+      "The lifespan of a main-sequence star"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Astronomy & Space",
+    "difficulty": "medium",
+    "id": "1a5c332b-8397-4388-884e-345a94c5eb9c",
+    "created_at": "2025-04-13T22:12:06.469Z",
+    "backupTimestamp": "2025-04-13T22:12:06.470Z",
+    "localBackupTimestamp": "2025-04-13T16:12:06.470Z"
+  },
+  {
+    "question": "What is the main difference between a meteor and a meteorite?",
+    "correct_answer": "A meteorite survives passage through the atmosphere and lands on Earth",
+    "incorrect_answers": [
+      "Meteors are larger than meteorites",
+      "Meteorites orbit the Sun, meteors do not",
+      "Meteors are made of ice, meteorites are rock/metal",
+      "Meteorites burn up completely, meteors do not",
+      "Meteors originate from comets, meteorites from asteroids",
+      "They are the same thing",
+      "Meteorites are seen in the sky, meteors are found on the ground"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Astronomy & Space",
+    "difficulty": "medium",
+    "id": "3b478469-097a-4ec1-9774-44ed31ba000f",
+    "created_at": "2025-04-13T22:12:06.471Z",
+    "backupTimestamp": "2025-04-13T22:12:06.472Z",
+    "localBackupTimestamp": "2025-04-13T16:12:06.472Z"
+  },
+  {
+    "question": "Which constellation is known as 'The Hunter'?",
+    "correct_answer": "Orion",
+    "incorrect_answers": [
+      "Ursa Major",
+      "Leo",
+      "Taurus",
+      "Hercules",
+      "Scorpius",
+      "Canis Major",
+      "Sagittarius"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Astronomy & Space",
+    "difficulty": "medium",
+    "id": "e813d9bf-63cc-433f-abd7-1a30b9e13a79",
+    "created_at": "2025-04-13T22:12:06.474Z",
+    "backupTimestamp": "2025-04-13T22:12:06.474Z",
+    "localBackupTimestamp": "2025-04-13T16:12:06.474Z"
+  },
+  {
+    "question": "What is the average distance between the Earth and the Sun called?",
+    "correct_answer": "Astronomical Unit (AU)",
+    "incorrect_answers": [
+      "Light-year",
+      "Parsec",
+      "Kilometer",
+      "Mile",
+      "Solar Radius",
+      "Lunar Distance",
+      "Hubble Length"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Astronomy & Space",
+    "difficulty": "medium",
+    "id": "6b201763-6ca3-459d-a3ae-44bc351edc6b",
+    "created_at": "2025-04-13T22:12:06.477Z",
+    "backupTimestamp": "2025-04-13T22:12:06.477Z",
+    "localBackupTimestamp": "2025-04-13T16:12:06.477Z"
+  },
+  {
+    "question": "What type of galaxy is the Milky Way?",
+    "correct_answer": "Barred Spiral Galaxy",
+    "incorrect_answers": [
+      "Elliptical Galaxy",
+      "Irregular Galaxy",
+      "Lenticular Galaxy",
+      "Spiral Galaxy (Unbarred)",
+      "Peculiar Galaxy",
+      "Dwarf Galaxy",
+      "Quasar"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Astronomy & Space",
+    "difficulty": "medium",
+    "id": "82460f27-28c7-4c54-b5f8-ad2186058ae5",
+    "created_at": "2025-04-13T22:12:06.479Z",
+    "backupTimestamp": "2025-04-13T22:12:06.479Z",
+    "localBackupTimestamp": "2025-04-13T16:12:06.479Z"
+  },
+  {
+    "question": "What moon of Saturn has a thick nitrogen-rich atmosphere and lakes of liquid methane?",
+    "correct_answer": "Titan",
+    "incorrect_answers": [
+      "Enceladus",
+      "Rhea",
+      "Iapetus",
+      "Dione",
+      "Tethys",
+      "Mimas",
+      "Europa (Jupiter)"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Astronomy & Space",
+    "difficulty": "medium",
+    "id": "8ae95051-c503-46cf-914b-c95a985d5ce7",
+    "created_at": "2025-04-13T22:12:06.481Z",
+    "backupTimestamp": "2025-04-13T22:12:06.482Z",
+    "localBackupTimestamp": "2025-04-13T16:12:06.482Z"
+  },
+  {
+    "question": "What theoretical entity is thought to make up the majority of the universe's energy density and cause accelerated expansion?",
+    "correct_answer": "Dark Energy",
+    "incorrect_answers": [
+      "Dark Matter",
+      "Black Holes",
+      "Neutrinos",
+      "Antimatter",
+      "Vacuum Energy",
+      "Cosmic Microwave Background",
+      "Quintessence"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Astronomy & Space",
+    "difficulty": "medium",
+    "id": "7aa39252-5206-44cf-b04b-a4586317f11c",
+    "created_at": "2025-04-13T22:12:06.484Z",
+    "backupTimestamp": "2025-04-13T22:12:06.484Z",
+    "localBackupTimestamp": "2025-04-13T16:12:06.484Z"
+  },
+  {
+    "question": "What is the term for the explosion of a massive star at the end of its life?",
+    "correct_answer": "Supernova",
+    "incorrect_answers": [
+      "Nova",
+      "Planetary Nebula",
+      "Black Hole Formation",
+      "Neutron Star Collision",
+      "White Dwarf",
+      "Red Giant Phase",
+      "Protostar Collapse"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Astronomy & Space",
+    "difficulty": "medium",
+    "id": "c8658b78-f124-4f6b-9c45-9e86a1d988a0",
+    "created_at": "2025-04-13T22:12:06.486Z",
+    "backupTimestamp": "2025-04-13T22:12:06.487Z",
+    "localBackupTimestamp": "2025-04-13T16:12:06.487Z"
+  },
+  {
+    "question": "What layer of the Sun's atmosphere is visible during a total solar eclipse?",
+    "correct_answer": "Corona",
+    "incorrect_answers": [
+      "Photosphere",
+      "Chromosphere",
+      "Radiative Zone",
+      "Convective Zone",
+      "Core",
+      "Sunspots",
+      "Solar Flares"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Astronomy & Space",
+    "difficulty": "medium",
+    "id": "b3a4f97e-24ad-4a67-ab70-c2b528f5db50",
+    "created_at": "2025-04-13T22:12:06.488Z",
+    "backupTimestamp": "2025-04-13T22:12:06.489Z",
+    "localBackupTimestamp": "2025-04-13T16:12:06.489Z"
+  },
+  {
+    "question": "Which planet spins on its side relative to its orbital plane?",
+    "correct_answer": "Uranus",
+    "incorrect_answers": [
+      "Neptune",
+      "Saturn",
+      "Jupiter",
+      "Venus",
+      "Mars",
+      "Earth",
+      "Mercury"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Astronomy & Space",
+    "difficulty": "medium",
+    "id": "a419ce57-0eb9-4508-a865-7d7a0abd2587",
+    "created_at": "2025-04-13T22:12:06.491Z",
+    "backupTimestamp": "2025-04-13T22:12:06.492Z",
+    "localBackupTimestamp": "2025-04-13T16:12:06.492Z"
+  },
+  {
+    "question": "What is the point in an object's orbit around the Earth where it is closest to Earth?",
+    "correct_answer": "Perigee",
+    "incorrect_answers": [
+      "Apogee",
+      "Perihelion",
+      "Aphelion",
+      "Periastron",
+      "Apoastron",
+      "Zenith",
+      "Nadir"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Astronomy & Space",
+    "difficulty": "medium",
+    "id": "e6bdab4d-d698-412d-97a1-359e88883a89",
+    "created_at": "2025-04-13T22:12:06.494Z",
+    "backupTimestamp": "2025-04-13T22:12:06.494Z",
+    "localBackupTimestamp": "2025-04-13T16:12:06.494Z"
+  },
+  {
+    "question": "What is the apparent shift in the position of a nearby star against distant background stars as observed from Earth at different times of the year?",
+    "correct_answer": "Stellar Parallax",
+    "incorrect_answers": [
+      "Proper Motion",
+      "Aberration of Light",
+      "Redshift",
+      "Gravitational Lensing",
+      "Precession",
+      "Nutation",
+      "Atmospheric Refraction"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Astronomy & Space",
+    "difficulty": "medium",
+    "id": "c93ecce9-6a7b-4604-a0ce-1ba3c246a75d",
+    "created_at": "2025-04-13T22:12:06.496Z",
+    "backupTimestamp": "2025-04-13T22:12:06.497Z",
+    "localBackupTimestamp": "2025-04-13T16:12:06.497Z"
+  },
+  {
+    "question": "Which dwarf planet, formerly considered the ninth planet, resides in the Kuiper Belt?",
+    "correct_answer": "Pluto",
+    "incorrect_answers": [
+      "Eris",
+      "Ceres",
+      "Makemake",
+      "Haumea",
+      "Sedna",
+      "Charon",
+      "Vesta"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Astronomy & Space",
+    "difficulty": "medium",
+    "id": "5dee509f-7eac-4c66-8a1b-35f019f8ff36",
+    "created_at": "2025-04-13T22:12:06.499Z",
+    "backupTimestamp": "2025-04-13T22:12:06.499Z",
+    "localBackupTimestamp": "2025-04-13T16:12:06.499Z"
+  },
+  {
+    "question": "What term describes the alignment of three celestial bodies in a straight line?",
+    "correct_answer": "Syzygy",
+    "incorrect_answers": [
+      "Conjunction",
+      "Opposition",
+      "Eclipse",
+      "Transit",
+      "Occultation",
+      "Apse Line",
+      "Quadrature"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Astronomy & Space",
+    "difficulty": "medium",
+    "id": "514c2a85-58de-4549-b920-b1ac252609de",
+    "created_at": "2025-04-13T22:12:06.501Z",
+    "backupTimestamp": "2025-04-13T22:12:06.502Z",
+    "localBackupTimestamp": "2025-04-13T16:12:06.502Z"
+  },
+  {
+    "question": "What are the Van Allen belts?",
+    "correct_answer": "Zones of energetic charged particles held in place by Earth's magnetic field",
+    "incorrect_answers": [
+      "Regions of asteroids between Mars and Jupiter",
+      "Layers in the Earth's atmosphere",
+      "Radiation zones around Jupiter",
+      "Gaps in Saturn's rings",
+      "Theoretical structures near black holes",
+      "Currents in the Earth's mantle",
+      "Areas of increased solar wind density"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Astronomy & Space",
+    "difficulty": "medium",
+    "id": "5b7e7e61-f65d-4b21-9b8e-4ba0690b44ef",
+    "created_at": "2025-04-13T22:12:06.504Z",
+    "backupTimestamp": "2025-04-13T22:12:06.505Z",
+    "localBackupTimestamp": "2025-04-13T16:12:06.505Z"
+  },
+  {
+    "question": "What is the name of the largest volcano in the Solar System, located on Mars?",
+    "correct_answer": "Olympus Mons",
+    "incorrect_answers": [
+      "Mauna Kea (Earth)",
+      "Valles Marineris (Mars)",
+      "Maxwell Montes (Venus)",
+      "Io Mons (Io)",
+      "Elysium Mons (Mars)",
+      "Arsia Mons (Mars)",
+      "Tharsis Montes (Mars)"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Astronomy & Space",
+    "difficulty": "medium",
+    "id": "184097bb-1405-4ce4-8bf5-54a61d22a917",
+    "created_at": "2025-04-13T22:12:06.507Z",
+    "backupTimestamp": "2025-04-13T22:12:06.508Z",
+    "localBackupTimestamp": "2025-04-13T16:12:06.508Z"
+  },
+  {
+    "question": "What term describes planets located outside our Solar System?",
+    "correct_answer": "Exoplanets",
+    "incorrect_answers": [
+      "Dwarf Planets",
+      "Minor Planets",
+      "Gas Giants",
+      "Terrestrial Planets",
+      "Rogue Planets",
+      "Protoplanets",
+      "Planetesimals"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Astronomy & Space",
+    "difficulty": "medium",
+    "id": "9a7e2662-2a0c-4817-8966-7a8afe60f818",
+    "created_at": "2025-04-13T22:12:06.510Z",
+    "backupTimestamp": "2025-04-13T22:12:06.510Z",
+    "localBackupTimestamp": "2025-04-13T16:12:06.510Z"
+  },
+  {
+    "question": "What is the measure of a star's brightness as seen from Earth?",
+    "correct_answer": "Apparent Magnitude",
+    "incorrect_answers": [
+      "Absolute Magnitude",
+      "Luminosity",
+      "Spectral Type",
+      "Temperature",
+      "Distance",
+      "Radius",
+      "Color Index"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Astronomy & Space",
+    "difficulty": "medium",
+    "id": "346cbb1e-80dc-4588-970e-7e520af90c1f",
+    "created_at": "2025-04-13T22:12:06.512Z",
+    "backupTimestamp": "2025-04-13T22:12:06.513Z",
+    "localBackupTimestamp": "2025-04-13T16:12:06.513Z"
+  },
+  {
+    "question": "What is the process by which elements heavier than iron are primarily formed in the universe?",
+    "correct_answer": "Supernova explosions / Neutron star mergers",
+    "incorrect_answers": [
+      "Stellar nucleosynthesis (fusion in stars)",
+      "Big Bang nucleosynthesis",
+      "Cosmic ray spallation",
+      "Radioactive decay",
+      "Planetary formation",
+      "Chemical reactions",
+      "Black hole accretion"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Astronomy & Space",
+    "difficulty": "medium",
+    "id": "2fd06352-b5c6-44af-8c41-f8ac4b075c57",
+    "created_at": "2025-04-13T22:12:06.515Z",
+    "backupTimestamp": "2025-04-13T22:12:06.515Z",
+    "localBackupTimestamp": "2025-04-13T16:12:06.515Z"
+  },
+  {
+    "question": "Which space telescope, launched in 1990, has provided many iconic images of the universe?",
+    "correct_answer": "Hubble Space Telescope",
+    "incorrect_answers": [
+      "James Webb Space Telescope",
+      "Spitzer Space Telescope",
+      "Chandra X-ray Observatory",
+      "Kepler Space Telescope",
+      "Compton Gamma Ray Observatory",
+      "Gaia Space Observatory",
+      "Herschel Space Observatory"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Astronomy & Space",
+    "difficulty": "medium",
+    "id": "4cc92182-f6ef-4819-a617-39a210ca0e0a",
+    "created_at": "2025-04-13T22:12:06.518Z",
+    "backupTimestamp": "2025-04-13T22:12:06.518Z",
+    "localBackupTimestamp": "2025-04-13T16:12:06.518Z"
+  },
+  {
+    "question": "What is the name for the boundary around a black hole beyond which nothing, not even light, can escape?",
+    "correct_answer": "Event Horizon",
+    "incorrect_answers": [
+      "Singularity",
+      "Accretion Disk",
+      "Ergosphere",
+      "Photon Sphere",
+      "Schwarzschild Radius",
+      "Roche Limit",
+      "Light Cone"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Astronomy & Space",
+    "difficulty": "medium",
+    "id": "ffab2ca1-db67-42cd-86fd-a85d81514be0",
+    "created_at": "2025-04-13T22:12:06.520Z",
+    "backupTimestamp": "2025-04-13T22:12:06.521Z",
+    "localBackupTimestamp": "2025-04-13T16:12:06.521Z"
+  },
+  {
+    "question": "What are the large, dark, basaltic plains on Earth's Moon called?",
+    "correct_answer": "Maria (singular: Mare)",
+    "incorrect_answers": [
+      "Highlands",
+      "Craters",
+      "Rilles",
+      "Regolith",
+      "Mountains",
+      "Valleys",
+      "Seas (obsolete term, though Maria means 'seas')"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Astronomy & Space",
+    "difficulty": "medium",
+    "id": "faeab64a-e2dd-4210-8474-c0f48fa19d3c",
+    "created_at": "2025-04-13T22:12:06.523Z",
+    "backupTimestamp": "2025-04-13T22:12:06.523Z",
+    "localBackupTimestamp": "2025-04-13T16:12:06.523Z"
+  },
+  {
+    "question": "What is the name of the current geological epoch, characterized by significant human impact on Earth's geology and ecosystems?",
+    "correct_answer": "Anthropocene (proposed)",
+    "incorrect_answers": [
+      "Holocene",
+      "Pleistocene",
+      "Pliocene",
+      "Miocene",
+      "Oligocene",
+      "Eocene",
+      "Paleocene"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Astronomy & Space",
+    "difficulty": "medium",
+    "id": "8ca8462b-f3a1-4c4b-af98-8bb67ad37266",
+    "created_at": "2025-04-13T22:12:06.525Z",
+    "backupTimestamp": "2025-04-13T22:12:06.525Z",
+    "localBackupTimestamp": "2025-04-13T16:12:06.525Z"
+  },
+  {
+    "question": "What is the name of the NASA Mars rover that landed in 2012 and is nicknamed 'Curiosity'?",
+    "correct_answer": "Mars Science Laboratory (MSL)",
+    "incorrect_answers": [
+      "Spirit",
+      "Opportunity",
+      "Sojourner",
+      "Perseverance",
+      "Insight",
+      "Phoenix",
+      "Viking 1"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Astronomy & Space",
+    "difficulty": "medium",
+    "id": "a1fb695f-dfc8-47aa-b474-1d0f2ddf0e25",
+    "created_at": "2025-04-13T22:12:06.528Z",
+    "backupTimestamp": "2025-04-13T22:12:06.528Z",
+    "localBackupTimestamp": "2025-04-13T16:12:06.528Z"
+  },
+  {
+    "question": "What astronomical event occurs when the Earth passes directly between the Sun and the Moon?",
+    "correct_answer": "Lunar Eclipse",
+    "incorrect_answers": [
+      "Solar Eclipse",
+      "Transit of Venus",
+      "Meteor Shower",
+      "Full Moon",
+      "New Moon",
+      "Opposition",
+      "Occultation"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Astronomy & Space",
+    "difficulty": "medium",
+    "id": "9411c255-48e6-4472-8a3a-c8971731efe6",
+    "created_at": "2025-04-13T22:12:06.530Z",
+    "backupTimestamp": "2025-04-13T22:12:06.530Z",
+    "localBackupTimestamp": "2025-04-13T16:12:06.530Z"
+  },
+  {
+    "question": "What type of star is our Sun classified as?",
+    "correct_answer": "G-type main-sequence star (G2V)",
+    "incorrect_answers": [
+      "Red Giant",
+      "White Dwarf",
+      "Blue Supergiant",
+      "Red Dwarf",
+      "Neutron Star",
+      "Protostar",
+      "Yellow Supergiant"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Astronomy & Space",
+    "difficulty": "medium",
+    "id": "3bbf35c3-b723-45cf-a51b-85fc0c784d34",
+    "created_at": "2025-04-13T22:12:06.533Z",
+    "backupTimestamp": "2025-04-13T22:12:06.533Z",
+    "localBackupTimestamp": "2025-04-13T16:12:06.533Z"
+  },
+  {
+    "question": "What is the term for the wobble in Earth's rotational axis?",
+    "correct_answer": "Precession",
+    "incorrect_answers": [
+      "Nutation",
+      "Rotation",
+      "Revolution",
+      "Tilt (Obliquity)",
+      "Libration",
+      "Chandler Wobble",
+      "Axial Spin"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Astronomy & Space",
+    "difficulty": "medium",
+    "id": "68e44015-57b0-4f10-8a29-e1c7f71b75c9",
+    "created_at": "2025-04-13T22:12:06.535Z",
+    "backupTimestamp": "2025-04-13T22:12:06.535Z",
+    "localBackupTimestamp": "2025-04-13T16:12:06.535Z"
+  },
+  {
+    "question": "Which large asteroid, also classified as a dwarf planet, resides in the main asteroid belt?",
+    "correct_answer": "Ceres",
+    "incorrect_answers": [
+      "Vesta",
+      "Pallas",
+      "Hygiea",
+      "Eros",
+      "Ida",
+      "Juno",
+      "Psyche"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Astronomy & Space",
+    "difficulty": "medium",
+    "id": "6fb40785-7641-48f4-be6a-3654455cbf7a",
+    "created_at": "2025-04-13T22:12:06.538Z",
+    "backupTimestamp": "2025-04-13T22:12:06.538Z",
+    "localBackupTimestamp": "2025-04-13T16:12:06.538Z"
+  },
+  {
+    "question": "What hypothetical type of matter does not interact with light but exerts gravitational force?",
+    "correct_answer": "Dark Matter",
+    "incorrect_answers": [
+      "Dark Energy",
+      "Antimatter",
+      "Neutrinos",
+      "Strange Matter",
+      "Exotic Matter",
+      "Plasma",
+      "Baryonic Matter"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Astronomy & Space",
+    "difficulty": "medium",
+    "id": "6ee4dcf5-ff0d-4d05-ae25-6a3362ceb0c0",
+    "created_at": "2025-04-13T22:12:06.540Z",
+    "backupTimestamp": "2025-04-13T22:12:06.540Z",
+    "localBackupTimestamp": "2025-04-13T16:12:06.540Z"
+  },
+  {
+    "question": "What diagram plots stars according to their luminosity and temperature (or spectral type)?",
+    "correct_answer": "Hertzsprung-Russell (H-R) Diagram",
+    "incorrect_answers": [
+      "Phase Diagram",
+      "Periodic Table",
+      "Hubble Diagram",
+      "Feynman Diagram",
+      "Smith Chart",
+      "Psychrometric Chart",
+      "Color-Magnitude Diagram"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Astronomy & Space",
+    "difficulty": "medium",
+    "id": "3c02d959-34f0-4e21-9f57-158b1e9e4503",
+    "created_at": "2025-04-13T22:12:06.542Z",
+    "backupTimestamp": "2025-04-13T22:12:06.543Z",
+    "localBackupTimestamp": "2025-04-13T16:12:06.543Z"
+  },
+  {
+    "question": "What is the name of the large impact crater on the Yucatan Peninsula associated with the extinction of the dinosaurs?",
+    "correct_answer": "Chicxulub Crater",
+    "incorrect_answers": [
+      "Vredefort Crater",
+      "Sudbury Basin",
+      "Meteor Crater (Barringer Crater)",
+      "Manicouagan Crater",
+      "Popigai Crater",
+      "Acraman Crater",
+      "Kara Crater"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Astronomy & Space",
+    "difficulty": "medium",
+    "id": "ed7ddfb8-c62a-438c-82a9-60c3da92d76e",
+    "created_at": "2025-04-13T22:12:06.545Z",
+    "backupTimestamp": "2025-04-13T22:12:06.545Z",
+    "localBackupTimestamp": "2025-04-13T16:12:06.545Z"
+  },
+  {
+    "question": "What is the term for the apparent backward motion of a planet in the sky as seen from Earth?",
+    "correct_answer": "Retrograde Motion",
+    "incorrect_answers": [
+      "Prograde Motion",
+      "Precession",
+      "Parallax",
+      "Proper Motion",
+      "Orbital Resonance",
+      "Epicycle",
+      "Aberration"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Astronomy & Space",
+    "difficulty": "medium",
+    "id": "1168d116-fe59-4691-95aa-58cbbcb3493b",
+    "created_at": "2025-04-13T22:12:06.548Z",
+    "backupTimestamp": "2025-04-13T22:12:06.548Z",
+    "localBackupTimestamp": "2025-04-13T16:12:06.548Z"
+  },
+  {
+    "question": "What is the Roche limit?",
+    "correct_answer": "The minimum distance a celestial body held by its own gravity can approach another massive body without being torn apart by tidal forces",
+    "incorrect_answers": [
+      "The maximum mass of a white dwarf star",
+      "The boundary of a black hole's event horizon",
+      "The point where gravitational forces between two bodies balance",
+      "The edge of the observable universe",
+      "The distance light travels in one year",
+      "The region where planetary rings typically form",
+      "The stable orbit radius for a geosynchronous satellite"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Astronomy & Space",
+    "difficulty": "hard",
+    "id": "dc3029a2-b16e-434e-997d-21d611574e8f",
+    "created_at": "2025-04-13T22:12:06.551Z",
+    "backupTimestamp": "2025-04-13T22:12:06.551Z",
+    "localBackupTimestamp": "2025-04-13T16:12:06.551Z"
+  },
+  {
+    "question": "What type of celestial object is a rapidly rotating neutron star emitting beams of electromagnetic radiation?",
+    "correct_answer": "Pulsar",
+    "incorrect_answers": [
+      "Quasar",
+      "Magnetar",
+      "Blazar",
+      "White Dwarf",
+      "Black Hole",
+      "Supernova",
+      "Cepheid Variable"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Astronomy & Space",
+    "difficulty": "hard",
+    "id": "8126154a-1037-4bbb-a041-07095615d4f1",
+    "created_at": "2025-04-13T22:12:06.554Z",
+    "backupTimestamp": "2025-04-13T22:12:06.554Z",
+    "localBackupTimestamp": "2025-04-13T16:12:06.554Z"
+  },
+  {
+    "question": "What does the Drake Equation attempt to estimate?",
+    "correct_answer": "The number of active, communicative extraterrestrial civilizations in the Milky Way galaxy",
+    "incorrect_answers": [
+      "The age of the universe",
+      "The expansion rate of the universe",
+      "The probability of life arising on a planet",
+      "The distance to the nearest star",
+      "The mass of a black hole",
+      "The number of potentially habitable exoplanets",
+      "The escape velocity from a celestial body"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Astronomy & Space",
+    "difficulty": "hard",
+    "id": "75ee5ec3-5668-4198-8fdd-5a7800e15e5b",
+    "created_at": "2025-04-13T22:12:06.556Z",
+    "backupTimestamp": "2025-04-13T22:12:06.557Z",
+    "localBackupTimestamp": "2025-04-13T16:12:06.557Z"
+  },
+  {
+    "question": "What is the process called where hydrogen fuses into helium in the core of main-sequence stars?",
+    "correct_answer": "Proton-Proton Chain Reaction / CNO Cycle",
+    "incorrect_answers": [
+      "Triple-Alpha Process",
+      "Nuclear Fission",
+      "Beta Decay",
+      "Electron Capture",
+      "Helium Flash",
+      "Carbon Burning",
+      "Photodisintegration"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Astronomy & Space",
+    "difficulty": "hard",
+    "id": "84cd93f4-6e8a-48fb-aebc-617ea9e93510",
+    "created_at": "2025-04-13T22:12:06.559Z",
+    "backupTimestamp": "2025-04-13T22:12:06.559Z",
+    "localBackupTimestamp": "2025-04-13T16:12:06.559Z"
+  },
+  {
+    "question": "What is the name of the hypothetical sphere surrounding a star where liquid water could exist on a planet's surface?",
+    "correct_answer": "Habitable Zone (or Goldilocks Zone)",
+    "incorrect_answers": [
+      "Oort Cloud",
+      "Kuiper Belt",
+      "Frost Line",
+      "Roche Limit",
+      "Event Horizon",
+      "Hill Sphere",
+      "Biosphere"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Astronomy & Space",
+    "difficulty": "hard",
+    "id": "e63aa756-5b7e-4e2b-885f-93bb76d8f3ce",
+    "created_at": "2025-04-13T22:12:06.561Z",
+    "backupTimestamp": "2025-04-13T22:12:06.561Z",
+    "localBackupTimestamp": "2025-04-13T16:12:06.561Z"
+  },
+  {
+    "question": "What spectral classification sequence correctly orders stars from hottest to coolest?",
+    "correct_answer": "O, B, A, F, G, K, M",
+    "incorrect_answers": [
+      "M, K, G, F, A, B, O",
+      "A, B, C, D, E, F, G",
+      "G, K, M, F, O, B, A",
+      "O, F, K, M, G, B, A",
+      "I, II, III, IV, V, VI, VII",
+      "Red, Orange, Yellow, Green, Blue, Indigo, Violet",
+      "Alpha, Beta, Gamma, Delta, Epsilon, Zeta, Eta"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Astronomy & Space",
+    "difficulty": "hard",
+    "id": "b77d000a-2d23-4d1b-95bf-4fe50c5a2e47",
+    "created_at": "2025-04-13T22:12:06.564Z",
+    "backupTimestamp": "2025-04-13T22:12:06.564Z",
+    "localBackupTimestamp": "2025-04-13T16:12:06.564Z"
+  },
+  {
+    "question": "What is the Albedo effect?",
+    "correct_answer": "The measure of how much light that hits a surface is reflected without being absorbed",
+    "incorrect_answers": [
+      "The bending of light around massive objects",
+      "The scattering of light by atmospheric particles",
+      "The absorption of light by interstellar dust",
+      "The redshift of light from distant galaxies",
+      "The polarization of light upon reflection",
+      "The emission of light from a heated object",
+      "The change in frequency of light due to motion"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Astronomy & Space",
+    "difficulty": "hard",
+    "id": "b228e695-1e27-436e-9e36-e473654b9afe",
+    "created_at": "2025-04-13T22:12:06.566Z",
+    "backupTimestamp": "2025-04-13T22:12:06.566Z",
+    "localBackupTimestamp": "2025-04-13T16:12:06.566Z"
+  },
+  {
+    "question": "What are Lagrange points?",
+    "correct_answer": "Positions in space where the gravitational forces of two large bodies produce enhanced regions of attraction and repulsion",
+    "incorrect_answers": [
+      "Points of zero gravity between planets",
+      "Regions where asteroids commonly collect",
+      "Stable locations for planetary rings",
+      "Points where escape velocity equals the speed of light",
+      "Locations used for gravitational slingshots",
+      "Areas of intense magnetic fields",
+      "Hypothetical wormhole entrances"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Astronomy & Space",
+    "difficulty": "hard",
+    "id": "015a70b2-3c8f-4a5a-9e0b-a615a8871429",
+    "created_at": "2025-04-13T22:12:06.569Z",
+    "backupTimestamp": "2025-04-13T22:12:06.569Z",
+    "localBackupTimestamp": "2025-04-13T16:12:06.569Z"
+  },
+  {
+    "question": "What is the term for the apparent brightening of a distant object when a massive object passes between it and the observer, bending its light?",
+    "correct_answer": "Gravitational Lensing (Microlensing)",
+    "incorrect_answers": [
+      "Stellar Parallax",
+      "Doppler Boosting",
+      "Reflection Nebula",
+      "Atmospheric Scintillation",
+      "Occultation",
+      "Inverse Square Law",
+      "Synchrotron Emission"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Astronomy & Space",
+    "difficulty": "hard",
+    "id": "eb529014-b581-493d-9fc8-024f7ea8fdf1",
+    "created_at": "2025-04-13T22:12:06.571Z",
+    "backupTimestamp": "2025-04-13T22:12:06.571Z",
+    "localBackupTimestamp": "2025-04-13T16:12:06.571Z"
+  },
+  {
+    "question": "Which mission successfully landed the Huygens probe on Saturn's moon Titan?",
+    "correct_answer": "Cassini-Huygens",
+    "incorrect_answers": [
+      "Voyager 1",
+      "Voyager 2",
+      "Galileo",
+      "Pioneer 11",
+      "Juno",
+      "Dragonfly (Planned)",
+      "New Horizons"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Astronomy & Space",
+    "difficulty": "hard",
+    "id": "901b67fa-1d92-4fdd-b17b-1994a4f6c999",
+    "created_at": "2025-04-13T22:12:06.574Z",
+    "backupTimestamp": "2025-04-13T22:12:06.574Z",
+    "localBackupTimestamp": "2025-04-13T16:12:06.574Z"
+  },
+  {
+    "question": "What is baryonic matter?",
+    "correct_answer": "Ordinary matter composed of protons and neutrons (baryons) and electrons",
+    "incorrect_answers": [
+      "Dark Matter",
+      "Dark Energy",
+      "Antimatter",
+      "Neutrinos",
+      "Plasma",
+      "Degenerate Matter",
+      "Exotic Matter"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Astronomy & Space",
+    "difficulty": "hard",
+    "id": "24d2f08e-32be-4576-853a-043c2f515765",
+    "created_at": "2025-04-13T22:12:06.576Z",
+    "backupTimestamp": "2025-04-13T22:12:06.577Z",
+    "localBackupTimestamp": "2025-04-13T16:12:06.577Z"
+  },
+  {
+    "question": "What phenomenon involves the alignment of Earth, the Sun, and an outer planet, with the planet on the opposite side of Earth from the Sun?",
+    "correct_answer": "Opposition",
+    "incorrect_answers": [
+      "Conjunction",
+      "Syzygy",
+      "Quadrature",
+      "Perihelion",
+      "Aphelion",
+      "Eclipse",
+      "Transit"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Astronomy & Space",
+    "difficulty": "hard",
+    "id": "700733c3-5845-4a81-ab62-119445392a41",
+    "created_at": "2025-04-13T22:12:06.579Z",
+    "backupTimestamp": "2025-04-13T22:12:06.579Z",
+    "localBackupTimestamp": "2025-04-13T16:12:06.579Z"
+  },
+  {
+    "question": "What type of variable star pulsates radially, exhibiting a strong relationship between its period and luminosity, making it a standard candle?",
+    "correct_answer": "Cepheid Variable",
+    "incorrect_answers": [
+      "RR Lyrae Variable",
+      "Mira Variable",
+      "Eclipsing Binary",
+      "Cataclysmic Variable",
+      "T Tauri Star",
+      "Wolf-Rayet Star",
+      "Type Ia Supernova"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Astronomy & Space",
+    "difficulty": "hard",
+    "id": "eed972bf-b061-4d86-bdec-d35cc8a177b2",
+    "created_at": "2025-04-13T22:12:06.582Z",
+    "backupTimestamp": "2025-04-13T22:12:06.582Z",
+    "localBackupTimestamp": "2025-04-13T16:12:06.582Z"
+  },
+  {
+    "question": "What is the Jeans instability related to?",
+    "correct_answer": "The conditions under which interstellar clouds collapse to form stars",
+    "incorrect_answers": [
+      "The stability of planetary orbits",
+      "The maximum mass of a neutron star",
+      "The formation of galactic spiral arms",
+      "The mechanism behind supernova explosions",
+      "The expansion rate of the universe",
+      "The behavior of plasma in magnetic fields",
+      "The tidal disruption of objects near black holes"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Astronomy & Space",
+    "difficulty": "hard",
+    "id": "a6403090-02f9-40af-849c-cdae43c913eb",
+    "created_at": "2025-04-13T22:12:06.584Z",
+    "backupTimestamp": "2025-04-13T22:12:06.584Z",
+    "localBackupTimestamp": "2025-04-13T16:12:06.584Z"
+  },
+  {
+    "question": "What is the term for the hypothetical process where black holes slowly lose mass via quantum effects?",
+    "correct_answer": "Hawking Radiation",
+    "incorrect_answers": [
+      "Accretion",
+      "Spaghettification",
+      "Penrose Process",
+      "Frame-dragging",
+      "Gravitational Collapse",
+      "Black Hole Evaporation",
+      "Quantum Tunneling"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Astronomy & Space",
+    "difficulty": "hard",
+    "id": "a931052a-f31b-4b4c-93e7-56568cfe607e",
+    "created_at": "2025-04-13T22:12:06.587Z",
+    "backupTimestamp": "2025-04-13T22:12:06.587Z",
+    "localBackupTimestamp": "2025-04-13T16:12:06.587Z"
+  },
+  {
+    "question": "Which fundamental force has the shortest range?",
+    "correct_answer": "Weak Nuclear Force",
+    "incorrect_answers": [
+      "Strong Nuclear Force",
+      "Electromagnetic Force",
+      "Gravitational Force",
+      "Nuclear Binding Force",
+      "Van der Waals Force",
+      "Casimir Force",
+      "Yukawa Interaction"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Astronomy & Space",
+    "difficulty": "hard",
+    "id": "82856161-88bb-4d6e-a79e-89cb1bdaa8f3",
+    "created_at": "2025-04-13T22:12:06.589Z",
+    "backupTimestamp": "2025-04-13T22:12:06.590Z",
+    "localBackupTimestamp": "2025-04-13T16:12:06.590Z"
+  },
+  {
+    "question": "What is the Poynting-Robertson effect?",
+    "correct_answer": "A process where solar radiation causes small dust particles orbiting a star to slowly spiral inward",
+    "incorrect_answers": [
+      "The scattering of light by dust particles",
+      "The pressure exerted by sunlight",
+      "The gravitational influence of planets on dust",
+      "The effect of magnetic fields on charged dust",
+      "The sublimation of ices from dust particles",
+      "The Yarkovsky effect (thermal radiation)",
+      "The formation of protoplanetary disks"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Astronomy & Space",
+    "difficulty": "hard",
+    "id": "2ead5738-46cd-4f68-afda-86bbdeb0f3da",
+    "created_at": "2025-04-13T22:12:06.592Z",
+    "backupTimestamp": "2025-04-13T22:12:06.592Z",
+    "localBackupTimestamp": "2025-04-13T16:12:06.592Z"
+  },
+  {
+    "question": "What process occurs in the cores of massive stars after helium fusion, fusing carbon into heavier elements?",
+    "correct_answer": "Carbon Burning",
+    "incorrect_answers": [
+      "Helium Flash",
+      "Triple-Alpha Process",
+      "Proton-Proton Chain",
+      "CNO Cycle",
+      "Silicon Burning",
+      "Neon Burning",
+      "Oxygen Burning"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Astronomy & Space",
+    "difficulty": "hard",
+    "id": "aa4a9786-3a6a-46b5-b87b-8222f3f74d7c",
+    "created_at": "2025-04-13T22:12:06.595Z",
+    "backupTimestamp": "2025-04-13T22:12:06.595Z",
+    "localBackupTimestamp": "2025-04-13T16:12:06.595Z"
+  },
+  {
+    "question": "What is the name for the deflection of starlight caused by the Sun's gravity, a key prediction of General Relativity?",
+    "correct_answer": "Gravitational Deflection / Gravitational Lensing",
+    "incorrect_answers": [
+      "Aberration of Light",
+      "Stellar Parallax",
+      "Atmospheric Refraction",
+      "Doppler Shift",
+      "Precession of Mercury's Orbit",
+      "Shapiro Delay",
+      "Frame-dragging"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Astronomy & Space",
+    "difficulty": "hard",
+    "id": "f30880b6-8072-4d92-9178-eb9627022bf1",
+    "created_at": "2025-04-13T22:12:06.597Z",
+    "backupTimestamp": "2025-04-13T22:12:06.597Z",
+    "localBackupTimestamp": "2025-04-13T16:12:06.597Z"
+  },
+  {
+    "question": "What is the approximate value of the Hubble Constant, representing the expansion rate of the universe?",
+    "correct_answer": "~70 km/s/Mpc",
+    "incorrect_answers": [
+      "300,000 km/s",
+      "9.8 m/s²",
+      "1 AU/year",
+      "1 light-year/century",
+      "10⁻³⁴ J·s",
+      "13.8 billion years",
+      "2.7 Kelvin"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Astronomy & Space",
+    "difficulty": "hard",
+    "id": "223e4375-3250-4181-aaa7-433e69b4da45",
+    "created_at": "2025-04-13T22:12:06.600Z",
+    "backupTimestamp": "2025-04-13T22:12:06.600Z",
+    "localBackupTimestamp": "2025-04-13T16:12:06.600Z"
+  },
+  {
+    "question": "Which NASA mission studied Jupiter and its moons, deploying an atmospheric probe into Jupiter?",
+    "correct_answer": "Galileo",
+    "incorrect_answers": [
+      "Voyager 1/2",
+      "Pioneer 10/11",
+      "Cassini",
+      "Juno",
+      "New Horizons",
+      "Ulysses",
+      "Hubble"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Astronomy & Space",
+    "difficulty": "hard",
+    "id": "76f4648c-c44e-4bae-b3ad-283d449ec485",
+    "created_at": "2025-04-13T22:12:06.602Z",
+    "backupTimestamp": "2025-04-13T22:12:06.603Z",
+    "localBackupTimestamp": "2025-04-13T16:12:06.603Z"
+  },
+  {
+    "question": "What is the term for the alignment of celestial bodies where an inner planet passes directly between Earth and the Sun?",
+    "correct_answer": "Transit",
+    "incorrect_answers": [
+      "Occultation",
+      "Eclipse",
+      "Conjunction (Inferior)",
+      "Opposition",
+      "Syzygy",
+      "Elongation",
+      "Quadrature"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Astronomy & Space",
+    "difficulty": "hard",
+    "id": "8cb0406b-334a-4b9f-8d20-055702d724f9",
+    "created_at": "2025-04-13T22:12:06.605Z",
+    "backupTimestamp": "2025-04-13T22:12:06.605Z",
+    "localBackupTimestamp": "2025-04-13T16:12:06.605Z"
+  },
+  {
+    "question": "What is the Milankovitch cycle theory used to explain?",
+    "correct_answer": "Long-term climate changes and ice ages based on variations in Earth's orbit and axial tilt",
+    "incorrect_answers": [
+      "The formation of the Solar System",
+      "The source of Earth's magnetic field",
+      "The mechanism of plate tectonics",
+      "The evolution of stars",
+      "The expansion of the universe",
+      "The occurrence of meteor showers",
+      "The phases of the Moon"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Astronomy & Space",
+    "difficulty": "hard",
+    "id": "6ff63531-c006-4cf7-ba66-3b38b7da4f90",
+    "created_at": "2025-04-13T22:12:06.608Z",
+    "backupTimestamp": "2025-04-13T22:12:06.608Z",
+    "localBackupTimestamp": "2025-04-13T16:12:06.608Z"
+  },
+  {
+    "question": "What is the Eddington luminosity limit?",
+    "correct_answer": "The maximum luminosity a celestial body can achieve when radiation pressure counteracts gravitational force",
+    "incorrect_answers": [
+      "The maximum mass of a white dwarf star",
+      "The escape velocity from a black hole",
+      "The energy released in a supernova",
+      "The brightness of a standard candle star",
+      "The rate at which a black hole accretes matter",
+      "The minimum temperature for nuclear fusion",
+      "The density of a neutron star"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Astronomy & Space",
+    "difficulty": "hard",
+    "id": "37d72f18-b823-45e8-884e-7fa4c9e0ae9c",
+    "created_at": "2025-04-13T22:12:06.610Z",
+    "backupTimestamp": "2025-04-13T22:12:06.611Z",
+    "localBackupTimestamp": "2025-04-13T16:12:06.611Z"
+  },
+  {
+    "question": "Which moon of Neptune orbits in a retrograde direction and is thought to be a captured Kuiper Belt Object?",
+    "correct_answer": "Triton",
+    "incorrect_answers": [
+      "Nereid",
+      "Proteus",
+      "Larissa",
+      "Titan (Saturn)",
+      "Europa (Jupiter)",
+      "Io (Jupiter)",
+      "Charon (Pluto)"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Astronomy & Space",
+    "difficulty": "hard",
+    "id": "bd2d32a1-f7a3-4409-bf76-29eaa829973e",
+    "created_at": "2025-04-13T22:12:06.613Z",
+    "backupTimestamp": "2025-04-13T22:12:06.613Z",
+    "localBackupTimestamp": "2025-04-13T16:12:06.613Z"
+  },
+  {
+    "question": "What is the Hartle-Hawking state?",
+    "correct_answer": "A theoretical concept in quantum cosmology describing the wavefunction of the universe without initial boundaries",
+    "incorrect_answers": [
+      "The final state of an evaporating black hole",
+      "A stable configuration for a neutron star",
+      "The ground state energy of the quantum vacuum",
+      "An excited state of the Higgs field",
+      "A specific type of quantum entanglement",
+      "The theoretical state before the Big Bang",
+      "A proposed solution to the information paradox"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Astronomy & Space",
+    "difficulty": "hard",
+    "id": "fba0534d-cd2d-459f-be88-1ef12c15b8e0",
+    "created_at": "2025-04-13T22:12:06.616Z",
+    "backupTimestamp": "2025-04-13T22:12:06.616Z",
+    "localBackupTimestamp": "2025-04-13T16:12:06.616Z"
+  },
+  {
+    "question": "What are Type Ia supernovae believed to result from?",
+    "correct_answer": "The thermonuclear explosion of a white dwarf star exceeding the Chandrasekhar limit in a binary system",
+    "incorrect_answers": [
+      "The core collapse of a massive star",
+      "The merger of two neutron stars",
+      "The collision of galaxies",
+      "The accretion disk instability around a black hole",
+      "A nova eruption on a white dwarf",
+      "The end state of a very low-mass star",
+      "Pair-instability in extremely massive stars"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Astronomy & Space",
+    "difficulty": "hard",
+    "id": "6611a38b-e86e-4718-8c5f-39cfe88f63ce",
+    "created_at": "2025-04-13T22:12:06.618Z",
+    "backupTimestamp": "2025-04-13T22:12:06.619Z",
+    "localBackupTimestamp": "2025-04-13T16:12:06.619Z"
+  },
+  {
+    "question": "What is the significance of the 'Wow!' signal detected in 1977?",
+    "correct_answer": "A strong, unexplained narrowband radio signal detected by SETI, considered a potential extraterrestrial candidate",
+    "incorrect_answers": [
+      "The first detection of a pulsar",
+      "Confirmation of the Cosmic Microwave Background",
+      "Detection of gravitational waves",
+      "Discovery of the first exoplanet",
+      "Radio emission from Jupiter",
+      "A signal from the Voyager spacecraft",
+      "A known terrestrial interference source"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Astronomy & Space",
+    "difficulty": "hard",
+    "id": "3f533875-86e6-4e2d-b8c7-92c301e13437",
+    "created_at": "2025-04-13T22:12:06.621Z",
+    "backupTimestamp": "2025-04-13T22:12:06.622Z",
+    "localBackupTimestamp": "2025-04-13T16:12:06.622Z"
+  },
+  {
+    "question": "What is the name for the region of spacetime from which gravity is so strong that nothing can escape?",
+    "correct_answer": "Black Hole",
+    "incorrect_answers": [
+      "Neutron Star",
+      "White Dwarf",
+      "Wormhole",
+      "Event Horizon",
+      "Singularity",
+      "Dark Star",
+      "Gravastar"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Astronomy & Space",
+    "difficulty": "hard",
+    "id": "e8448ada-ab19-410c-8663-fbec0b85374c",
+    "created_at": "2025-04-13T22:12:06.624Z",
+    "backupTimestamp": "2025-04-13T22:12:06.624Z",
+    "localBackupTimestamp": "2025-04-13T16:12:06.624Z"
+  },
+  {
+    "question": "What is the Kessler syndrome?",
+    "correct_answer": "A scenario where the density of objects in low Earth orbit becomes high enough that collisions create a cascade of debris, rendering space unusable",
+    "incorrect_answers": [
+      "The psychological effects of long-duration spaceflight",
+      "A type of radiation sickness from cosmic rays",
+      "The bending of spacetime near massive objects",
+      "The gradual decay of satellite orbits due to atmospheric drag",
+      "A theoretical limit on spacecraft speed",
+      "The accumulation of dark matter in galaxies",
+      "A failure mode in rocket propulsion systems"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Astronomy & Space",
+    "difficulty": "hard",
+    "id": "288fd2c7-07ab-4475-b538-c02c1fe37900",
+    "created_at": "2025-04-13T22:12:06.626Z",
+    "backupTimestamp": "2025-04-13T22:12:06.626Z",
+    "localBackupTimestamp": "2025-04-13T16:12:06.626Z"
+  },
+  {
+    "question": "Which theoretical physicist proposed the concept of 'imaginary time' in cosmology?",
+    "correct_answer": "Stephen Hawking",
+    "incorrect_answers": [
+      "Albert Einstein",
+      "Richard Feynman",
+      "Roger Penrose",
+      "Kip Thorne",
+      "Alan Guth",
+      "Andrei Linde",
+      "James Hartle"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Astronomy & Space",
+    "difficulty": "hard",
+    "id": "d1d8922c-212b-40a2-9098-78118458e9da",
+    "created_at": "2025-04-13T22:12:06.629Z",
+    "backupTimestamp": "2025-04-13T22:12:06.629Z",
+    "localBackupTimestamp": "2025-04-13T16:12:06.629Z"
+  },
+  {
+    "question": "What is the Tully-Fisher relation used for in astronomy?",
+    "correct_answer": "To estimate the distance to spiral galaxies based on the relationship between their luminosity and rotation speed",
+    "incorrect_answers": [
+      "To classify star spectral types",
+      "To determine the age of star clusters",
+      "To measure the mass of black holes",
+      "To calculate the expansion rate of the universe",
+      "To predict the occurrence of supernovae",
+      "To map the distribution of dark matter",
+      "To measure the distances to Cepheid variables"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Astronomy & Space",
+    "difficulty": "hard",
+    "id": "3c0bc25c-1e5e-4bc2-8994-71a01948b590",
+    "created_at": "2025-04-13T22:12:06.631Z",
+    "backupTimestamp": "2025-04-13T22:12:06.632Z",
+    "localBackupTimestamp": "2025-04-13T16:12:06.632Z"
+  },
+  {
+    "question": "What are Fraunhofer lines?",
+    "correct_answer": "Dark absorption lines in the Sun's spectrum caused by elements in its cooler outer layers",
+    "incorrect_answers": [
+      "Bright emission lines from nebulae",
+      "Spectral lines shifted due to the Doppler effect",
+      "Lines caused by Earth's atmospheric absorption",
+      "Broad spectral features from quasars",
+      "Forbidden lines from low-density gas",
+      "Lines split by magnetic fields (Zeeman effect)",
+      "Radio signals from pulsars"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Astronomy & Space",
+    "difficulty": "hard",
+    "id": "882fd3a2-de19-4406-be84-13d9f3a09276",
+    "created_at": "2025-04-13T22:12:06.634Z",
+    "backupTimestamp": "2025-04-13T22:12:06.635Z",
+    "localBackupTimestamp": "2025-04-13T16:12:06.635Z"
+  },
+  {
+    "question": "What is the 'Great Attractor'?",
+    "correct_answer": "A gravitational anomaly indicating a large concentration of mass that galaxies in our region, including the Milky Way, are moving towards",
+    "incorrect_answers": [
+      "The supermassive black hole at the center of the Milky Way",
+      "The Andromeda Galaxy",
+      "The Virgo Supercluster",
+      "A large void empty of galaxies",
+      "The source of the Cosmic Microwave Background",
+      "A hypothetical massive particle",
+      "The point of the Big Bang singularity"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Astronomy & Space",
+    "difficulty": "hard",
+    "id": "d356d709-aeb1-48ec-a3e2-338e194c95b8",
+    "created_at": "2025-04-13T22:12:06.637Z",
+    "backupTimestamp": "2025-04-13T22:12:06.637Z",
+    "localBackupTimestamp": "2025-04-13T16:12:06.637Z"
+  },
+  {
+    "question": "What mechanism is responsible for generating Earth's magnetic field?",
+    "correct_answer": "Geodynamo (convection currents in the liquid outer core)",
+    "incorrect_answers": [
+      "Permanent magnetism of the solid inner core",
+      "Interaction with the solar wind",
+      "Radioactive decay in the mantle",
+      "Tidal forces from the Moon",
+      "Rotation of the atmosphere",
+      "Accumulation of charged particles in the Van Allen belts",
+      "Remnant magnetism from Earth's formation"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Astronomy & Space",
+    "difficulty": "hard",
+    "id": "466687c5-065b-4729-b6a4-3b64410dd238",
+    "created_at": "2025-04-13T22:12:06.640Z",
+    "backupTimestamp": "2025-04-13T22:12:06.640Z",
+    "localBackupTimestamp": "2025-04-13T16:12:06.640Z"
+  },
+  {
+    "question": "What is the process where differentiation leads to distinct layers within a planet, like Earth's core, mantle, and crust?",
+    "correct_answer": "Planetary Differentiation",
+    "incorrect_answers": [
+      "Accretion",
+      "Plate Tectonics",
+      "Volcanism",
+      "Erosion",
+      "Sedimentation",
+      "Impact Cratering",
+      "Isostatic Adjustment"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Astronomy & Space",
+    "difficulty": "hard",
+    "id": "93bbffb9-0c97-4bfc-8f97-faa2be0fde81",
+    "created_at": "2025-04-13T22:12:06.642Z",
+    "backupTimestamp": "2025-04-13T22:12:06.642Z",
+    "localBackupTimestamp": "2025-04-13T16:12:06.642Z"
+  },
+  {
+    "question": "What is the name for the model describing the large-scale structure of the universe, with galaxies arranged in filaments and voids?",
+    "correct_answer": "Cosmic Web",
+    "incorrect_answers": [
+      "Hubble Sequence",
+      "Lambda-CDM Model",
+      "Friedmann Equations",
+      "Hertzsprung-Russell Diagram",
+      "Standard Model of Cosmology",
+      "Cellular Automaton Model",
+      "Fractal Universe Theory"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Astronomy & Space",
+    "difficulty": "hard",
+    "id": "f0ba84cd-e15a-4732-a422-5284fa3983b6",
+    "created_at": "2025-04-13T22:12:06.644Z",
+    "backupTimestamp": "2025-04-13T22:12:06.645Z",
+    "localBackupTimestamp": "2025-04-13T16:12:06.645Z"
+  },
+  {
+    "question": "Which type of active galactic nucleus (AGN) is characterized by strong, broad emission lines and high luminosity, powered by a supermassive black hole?",
+    "correct_answer": "Quasar",
+    "incorrect_answers": [
+      "Seyfert Galaxy",
+      "Blazar",
+      "Radio Galaxy",
+      "LINER (Low-Ionization Nuclear Emission-line Region)",
+      "Starburst Galaxy",
+      "Globular Cluster",
+      "Supernova Remnant"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Astronomy & Space",
+    "difficulty": "hard",
+    "id": "1a017b7a-2969-4f8c-b249-c9d2df1fc726",
+    "created_at": "2025-04-13T22:12:06.647Z",
+    "backupTimestamp": "2025-04-13T22:12:06.647Z",
+    "localBackupTimestamp": "2025-04-13T16:12:06.647Z"
+  },
+  {
+    "question": "What is the 'Fermi paradox' concerned with?",
+    "correct_answer": "The apparent contradiction between the high probability of extraterrestrial civilizations and the lack of evidence for them",
+    "incorrect_answers": [
+      "The nature of dark matter",
+      "The flatness problem in cosmology",
+      "The information loss paradox for black holes",
+      "The measurement problem in quantum mechanics",
+      "The origin of cosmic rays",
+      "The stability of the proton",
+      "The hierarchy problem in particle physics"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Astronomy & Space",
+    "difficulty": "hard",
+    "id": "98300341-991d-488f-8fbe-ed6b181a77fe",
+    "created_at": "2025-04-13T22:12:06.650Z",
+    "backupTimestamp": "2025-04-13T22:12:06.650Z",
+    "localBackupTimestamp": "2025-04-13T16:12:06.650Z"
+  },
+  {
+    "question": "What is the Chandrasekhar-Schönberg limit related to?",
+    "correct_answer": "The maximum fraction of a star's mass that can be in an isothermal core before it must collapse",
+    "incorrect_answers": [
+      "The maximum mass of a stable white dwarf",
+      "The condition for convection to occur in a star",
+      "The minimum temperature for hydrogen fusion",
+      "The boundary of a star's Roche lobe",
+      "The point where radiation pressure balances gravity",
+      "The opacity of stellar material",
+      "The rate of energy transport in a star"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Astronomy & Space",
+    "difficulty": "hard",
+    "id": "df696eea-0df4-481c-8347-33a4419b1834",
+    "created_at": "2025-04-13T22:12:06.652Z",
+    "backupTimestamp": "2025-04-13T22:12:06.653Z",
+    "localBackupTimestamp": "2025-04-13T16:12:06.653Z"
+  },
+  {
+    "question": "What are T Tauri stars?",
+    "correct_answer": "Young, pre-main-sequence stars still undergoing gravitational contraction",
+    "incorrect_answers": [
+      "White dwarf stars",
+      "Red giant stars",
+      "Neutron stars",
+      "Cepheid variable stars",
+      "Wolf-Rayet stars",
+      "Blue straggler stars",
+      "Planetary nebulae central stars"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Astronomy & Space",
+    "difficulty": "hard",
+    "id": "f05cc687-b1b6-4b0f-8758-4e4a2a0a6fab",
+    "created_at": "2025-04-13T22:12:06.655Z",
+    "backupTimestamp": "2025-04-13T22:12:06.655Z",
+    "localBackupTimestamp": "2025-04-13T16:12:06.655Z"
+  },
+  {
+    "question": "What phenomenon explains the alignment of interstellar dust grains by magnetic fields, causing polarization of starlight?",
+    "correct_answer": "Davis-Greenstein mechanism",
+    "incorrect_answers": [
+      "Rayleigh scattering",
+      "Mie scattering",
+      "Faraday rotation",
+      "Synchrotron emission",
+      "Inverse Compton scattering",
+      "Zeeman effect",
+      "Paschen-Back effect"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Astronomy & Space",
+    "difficulty": "hard",
+    "id": "4df4c4dd-27d9-4af4-917a-577a368ff54f",
+    "created_at": "2025-04-13T22:12:06.657Z",
+    "backupTimestamp": "2025-04-13T22:12:06.658Z",
+    "localBackupTimestamp": "2025-04-13T16:12:06.658Z"
+  },
+  {
+    "question": "What is the name of the proposed fifth fundamental force, sometimes invoked to explain anomalies like the muon g-2 experiment?",
+    "correct_answer": "Currently unnamed/hypothetical (e.g., linked to new gauge boson like Z')",
+    "incorrect_answers": [
+      "Strong Nuclear Force",
+      "Weak Nuclear Force",
+      "Electromagnetic Force",
+      "Gravitational Force",
+      "Dark Energy",
+      "Higgs Field Interaction",
+      "Yukawa Interaction"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Astronomy & Space",
+    "difficulty": "hard",
+    "id": "7b8d7178-29c1-42bf-b245-ead4eb759306",
+    "created_at": "2025-04-13T22:12:06.660Z",
+    "backupTimestamp": "2025-04-13T22:12:06.660Z",
+    "localBackupTimestamp": "2025-04-13T16:12:06.660Z"
+  },
+  {
+    "question": "What is the 'Lyman-alpha forest' observed in the spectra of distant quasars?",
+    "correct_answer": "A series of absorption lines caused by neutral hydrogen clouds along the line of sight",
+    "incorrect_answers": [
+      "Emission lines from the quasar itself",
+      "Absorption lines from heavy elements in the quasar's host galaxy",
+      "Scattering effects from the intergalactic medium",
+      "Gravitational lensing effects",
+      "Redshifted 21-cm hydrogen line emission",
+      "Absorption by Earth's atmosphere",
+      "Instrumental artifacts"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Astronomy & Space",
+    "difficulty": "hard",
+    "id": "75c59ce7-1236-4383-a0f4-b43ba878de3b",
+    "created_at": "2025-04-13T22:12:06.662Z",
+    "backupTimestamp": "2025-04-13T22:12:06.663Z",
+    "localBackupTimestamp": "2025-04-13T16:12:06.663Z"
+  },
+  {
+    "question": "Which space probe performed the first flyby of Pluto in 2015?",
+    "correct_answer": "New Horizons",
+    "incorrect_answers": [
+      "Voyager 1",
+      "Voyager 2",
+      "Pioneer 10",
+      "Pioneer 11",
+      "Cassini",
+      "Galileo",
+      "Hubble"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Astronomy & Space",
+    "difficulty": "hard",
+    "id": "bae7b406-939f-4638-808f-6ad2a74a3713",
+    "created_at": "2025-04-13T22:12:06.666Z",
+    "backupTimestamp": "2025-04-13T22:12:06.666Z",
+    "localBackupTimestamp": "2025-04-13T16:12:06.666Z"
+  },
+  {
+    "question": "What is the leading hypothesis for the formation of Earth's Moon?",
+    "correct_answer": "Giant-impact hypothesis",
+    "incorrect_answers": [
+      "Capture theory",
+      "Co-formation theory",
+      "Fission theory",
+      "Volcanic eruption theory",
+      "Multiple impact theory",
+      "Accretion disk model",
+      "Artificial construction theory"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Astronomy & Space",
+    "difficulty": "hard",
+    "id": "bc7ba1a9-0821-443d-bf23-51d95bd40be8",
+    "created_at": "2025-04-13T22:12:06.669Z",
+    "backupTimestamp": "2025-04-13T22:12:06.669Z",
+    "localBackupTimestamp": "2025-04-13T16:12:06.669Z"
+  },
+  {
+    "question": "What is the name of the effect describing the slowing of time in strong gravitational fields?",
+    "correct_answer": "Gravitational Time Dilation",
+    "incorrect_answers": [
+      "Special Relativistic Time Dilation",
+      "Length Contraction",
+      "Frame-dragging",
+      "Gravitational Redshift",
+      "Shapiro Delay",
+      "Equivalence Principle",
+      "Twin Paradox"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Astronomy & Space",
+    "difficulty": "hard",
+    "id": "75990995-4c23-4719-88ab-bf01a903a2ec",
+    "created_at": "2025-04-13T22:12:06.671Z",
+    "backupTimestamp": "2025-04-13T22:12:06.671Z",
+    "localBackupTimestamp": "2025-04-13T16:12:06.671Z"
   }
 ]
