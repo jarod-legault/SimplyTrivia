@@ -6218,5 +6218,2825 @@
     "created_at": "2025-04-13T22:01:49.520Z",
     "backupTimestamp": "2025-04-13T22:01:49.522Z",
     "localBackupTimestamp": "2025-04-13T16:01:49.522Z"
+  },
+  {
+    "question": "What force pulls objects towards the center of the Earth?",
+    "correct_answer": "Gravity",
+    "incorrect_answers": [
+      "Magnetism",
+      "Friction",
+      "Air Resistance",
+      "Tension",
+      "Normal Force",
+      "Buoyancy",
+      "Centrifugal Force"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Physics",
+    "difficulty": "easy",
+    "id": "fc4f9e08-68e8-490e-86ba-a0323ed69074",
+    "created_at": "2025-04-13T22:07:38.946Z",
+    "backupTimestamp": "2025-04-13T22:07:38.963Z",
+    "localBackupTimestamp": "2025-04-13T16:07:38.963Z"
+  },
+  {
+    "question": "What is the unit used to measure force?",
+    "correct_answer": "Newton",
+    "incorrect_answers": [
+      "Joule",
+      "Watt",
+      "Kilogram",
+      "Meter",
+      "Pascal",
+      "Volt",
+      "Ampere"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Physics",
+    "difficulty": "easy",
+    "id": "d0d6cad4-0c8a-4c29-9cb0-77821cdd0d3f",
+    "created_at": "2025-04-13T22:07:38.997Z",
+    "backupTimestamp": "2025-04-13T22:07:38.999Z",
+    "localBackupTimestamp": "2025-04-13T16:07:38.999Z"
+  },
+  {
+    "question": "What type of energy does a moving object possess?",
+    "correct_answer": "Kinetic Energy",
+    "incorrect_answers": [
+      "Potential Energy",
+      "Chemical Energy",
+      "Thermal Energy",
+      "Nuclear Energy",
+      "Elastic Energy",
+      "Gravitational Energy",
+      "Sound Energy"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Physics",
+    "difficulty": "easy",
+    "id": "296d31ba-2cb7-4b38-b468-1c025f839b0a",
+    "created_at": "2025-04-13T22:07:39.009Z",
+    "backupTimestamp": "2025-04-13T22:07:39.012Z",
+    "localBackupTimestamp": "2025-04-13T16:07:39.012Z"
+  },
+  {
+    "question": "What phenomenon occurs when light bounces off a surface?",
+    "correct_answer": "Reflection",
+    "incorrect_answers": [
+      "Refraction",
+      "Diffraction",
+      "Absorption",
+      "Transmission",
+      "Scattering",
+      "Interference",
+      "Polarization"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Physics",
+    "difficulty": "easy",
+    "id": "f0e5095b-1076-455b-b0e8-30fd67f8ed28",
+    "created_at": "2025-04-13T22:07:39.019Z",
+    "backupTimestamp": "2025-04-13T22:07:39.019Z",
+    "localBackupTimestamp": "2025-04-13T16:07:39.019Z"
+  },
+  {
+    "question": "What is the rate of change of velocity called?",
+    "correct_answer": "Acceleration",
+    "incorrect_answers": [
+      "Speed",
+      "Velocity",
+      "Momentum",
+      "Force",
+      "Jerk",
+      "Displacement",
+      "Work"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Physics",
+    "difficulty": "easy",
+    "id": "c59c048c-3fbc-42e8-b4b7-9b0b246fefe8",
+    "created_at": "2025-04-13T22:07:39.025Z",
+    "backupTimestamp": "2025-04-13T22:07:39.026Z",
+    "localBackupTimestamp": "2025-04-13T16:07:39.026Z"
+  },
+  {
+    "question": "What form of energy is associated with heat?",
+    "correct_answer": "Thermal Energy",
+    "incorrect_answers": [
+      "Kinetic Energy",
+      "Potential Energy",
+      "Chemical Energy",
+      "Nuclear Energy",
+      "Radiant Energy",
+      "Electrical Energy",
+      "Mechanical Energy"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Physics",
+    "difficulty": "easy",
+    "id": "7582e09d-8c48-4fb5-9abd-9f80debf8103",
+    "created_at": "2025-04-13T22:07:39.030Z",
+    "backupTimestamp": "2025-04-13T22:07:39.031Z",
+    "localBackupTimestamp": "2025-04-13T16:07:39.031Z"
+  },
+  {
+    "question": "What simple machine consists of a wheel and rope used to lift heavy objects?",
+    "correct_answer": "Pulley",
+    "incorrect_answers": [
+      "Lever",
+      "Inclined Plane",
+      "Wedge",
+      "Screw",
+      "Wheel and Axle",
+      "Gear",
+      "Spring"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Physics",
+    "difficulty": "easy",
+    "id": "8c7e824a-e2ff-4bd8-a892-23ac16a116a1",
+    "created_at": "2025-04-13T22:07:39.033Z",
+    "backupTimestamp": "2025-04-13T22:07:39.034Z",
+    "localBackupTimestamp": "2025-04-13T16:07:39.034Z"
+  },
+  {
+    "question": "What state of matter has particles packed closely together in a fixed arrangement?",
+    "correct_answer": "Solid",
+    "incorrect_answers": [
+      "Liquid",
+      "Gas",
+      "Plasma",
+      "Superfluid",
+      "Colloid",
+      "Suspension",
+      "Gel"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Physics",
+    "difficulty": "easy",
+    "id": "297c640a-6496-43a6-b924-f9c6de6ce37c",
+    "created_at": "2025-04-13T22:07:39.036Z",
+    "backupTimestamp": "2025-04-13T22:07:39.037Z",
+    "localBackupTimestamp": "2025-04-13T16:07:39.037Z"
+  },
+  {
+    "question": "What property of matter resists changes in motion?",
+    "correct_answer": "Inertia",
+    "incorrect_answers": [
+      "Mass",
+      "Weight",
+      "Momentum",
+      "Friction",
+      "Gravity",
+      "Density",
+      "Volume"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Physics",
+    "difficulty": "easy",
+    "id": "eb83a822-1d7b-442f-ab02-d7b356a605bb",
+    "created_at": "2025-04-13T22:07:39.040Z",
+    "backupTimestamp": "2025-04-13T22:07:39.041Z",
+    "localBackupTimestamp": "2025-04-13T16:07:39.041Z"
+  },
+  {
+    "question": "What type of energy is stored due to an object's position or configuration?",
+    "correct_answer": "Potential Energy",
+    "incorrect_answers": [
+      "Kinetic Energy",
+      "Thermal Energy",
+      "Chemical Energy",
+      "Radiant Energy",
+      "Nuclear Energy",
+      "Sound Energy",
+      "Electrical Energy"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Physics",
+    "difficulty": "easy",
+    "id": "a846f526-b6f4-4bfe-8036-2b53e297ba8c",
+    "created_at": "2025-04-13T22:07:39.044Z",
+    "backupTimestamp": "2025-04-13T22:07:39.044Z",
+    "localBackupTimestamp": "2025-04-13T16:07:39.044Z"
+  },
+  {
+    "question": "What are the two opposite ends of a magnet called?",
+    "correct_answer": "Poles (North and South)",
+    "incorrect_answers": [
+      "Ends",
+      "Sides",
+      "Terminals",
+      "Charges",
+      "Points",
+      "Edges",
+      "Fields"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Physics",
+    "difficulty": "easy",
+    "id": "6a293b79-0d8f-41c7-ba56-ba205c1bf920",
+    "created_at": "2025-04-13T22:07:39.047Z",
+    "backupTimestamp": "2025-04-13T22:07:39.048Z",
+    "localBackupTimestamp": "2025-04-13T16:07:39.048Z"
+  },
+  {
+    "question": "What is the bending of light as it passes from one medium to another called?",
+    "correct_answer": "Refraction",
+    "incorrect_answers": [
+      "Reflection",
+      "Diffraction",
+      "Dispersion",
+      "Absorption",
+      "Interference",
+      "Polarization",
+      "Scattering"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Physics",
+    "difficulty": "easy",
+    "id": "3fc6147a-db70-4b62-aebd-ca00b123529e",
+    "created_at": "2025-04-13T22:07:39.050Z",
+    "backupTimestamp": "2025-04-13T22:07:39.051Z",
+    "localBackupTimestamp": "2025-04-13T16:07:39.051Z"
+  },
+  {
+    "question": "What is the flow of electric charge called?",
+    "correct_answer": "Current",
+    "incorrect_answers": [
+      "Voltage",
+      "Resistance",
+      "Power",
+      "Energy",
+      "Field",
+      "Potential",
+      "Capacitance"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Physics",
+    "difficulty": "easy",
+    "id": "bb07d3b3-9ae7-4a5c-9ba6-cd29285e5c87",
+    "created_at": "2025-04-13T22:07:39.056Z",
+    "backupTimestamp": "2025-04-13T22:07:39.057Z",
+    "localBackupTimestamp": "2025-04-13T16:07:39.057Z"
+  },
+  {
+    "question": "What type of force opposes motion between surfaces in contact?",
+    "correct_answer": "Friction",
+    "incorrect_answers": [
+      "Gravity",
+      "Normal Force",
+      "Tension",
+      "Air Resistance",
+      "Applied Force",
+      "Magnetic Force",
+      "Buoyancy"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Physics",
+    "difficulty": "easy",
+    "id": "25e5f691-a425-4c27-85a4-cabc2e6d5007",
+    "created_at": "2025-04-13T22:07:39.061Z",
+    "backupTimestamp": "2025-04-13T22:07:39.062Z",
+    "localBackupTimestamp": "2025-04-13T16:07:39.062Z"
+  },
+  {
+    "question": "What form of energy travels in waves, like light or radio waves?",
+    "correct_answer": "Radiant Energy (Electromagnetic Radiation)",
+    "incorrect_answers": [
+      "Kinetic Energy",
+      "Potential Energy",
+      "Thermal Energy",
+      "Sound Energy",
+      "Chemical Energy",
+      "Nuclear Energy",
+      "Mechanical Energy"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Physics",
+    "difficulty": "easy",
+    "id": "b969e23a-4bb8-4273-8238-60a3648abe16",
+    "created_at": "2025-04-13T22:07:39.066Z",
+    "backupTimestamp": "2025-04-13T22:07:39.066Z",
+    "localBackupTimestamp": "2025-04-13T16:07:39.066Z"
+  },
+  {
+    "question": "What unit measures electrical resistance?",
+    "correct_answer": "Ohm",
+    "incorrect_answers": [
+      "Volt",
+      "Ampere",
+      "Watt",
+      "Coulomb",
+      "Farad",
+      "Henry",
+      "Siemens"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Physics",
+    "difficulty": "easy",
+    "id": "53951e25-c17a-4045-a594-267e9a8ccb79",
+    "created_at": "2025-04-13T22:07:39.069Z",
+    "backupTimestamp": "2025-04-13T22:07:39.069Z",
+    "localBackupTimestamp": "2025-04-13T16:07:39.069Z"
+  },
+  {
+    "question": "What is the measure of how fast an object is moving, regardless of direction?",
+    "correct_answer": "Speed",
+    "incorrect_answers": [
+      "Velocity",
+      "Acceleration",
+      "Momentum",
+      "Displacement",
+      "Force",
+      "Jerk",
+      "Distance"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Physics",
+    "difficulty": "easy",
+    "id": "41fce80c-ae02-4f73-8629-eb9277c801a2",
+    "created_at": "2025-04-13T22:07:39.072Z",
+    "backupTimestamp": "2025-04-13T22:07:39.074Z",
+    "localBackupTimestamp": "2025-04-13T16:07:39.074Z"
+  },
+  {
+    "question": "What famous scientist formulated the laws of motion and universal gravitation?",
+    "correct_answer": "Isaac Newton",
+    "incorrect_answers": [
+      "Albert Einstein",
+      "Galileo Galilei",
+      "Nikola Tesla",
+      "Marie Curie",
+      "Michael Faraday",
+      "James Clerk Maxwell",
+      "Archimedes"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Physics",
+    "difficulty": "easy",
+    "id": "d2675b36-d6a8-41d7-8d1b-cacb5a692921",
+    "created_at": "2025-04-13T22:07:39.076Z",
+    "backupTimestamp": "2025-04-13T22:07:39.077Z",
+    "localBackupTimestamp": "2025-04-13T16:07:39.077Z"
+  },
+  {
+    "question": "What type of wave requires a medium to travel through, like sound?",
+    "correct_answer": "Mechanical Wave",
+    "incorrect_answers": [
+      "Electromagnetic Wave",
+      "Transverse Wave",
+      "Longitudinal Wave",
+      "Light Wave",
+      "Radio Wave",
+      "Standing Wave",
+      "Surface Wave"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Physics",
+    "difficulty": "easy",
+    "id": "55c1a95c-9d97-4fe0-b522-4602cf61d545",
+    "created_at": "2025-04-13T22:07:39.079Z",
+    "backupTimestamp": "2025-04-13T22:07:39.079Z",
+    "localBackupTimestamp": "2025-04-13T16:07:39.079Z"
+  },
+  {
+    "question": "What is the standard unit of mass in the International System (SI)?",
+    "correct_answer": "Kilogram",
+    "incorrect_answers": [
+      "Gram",
+      "Pound",
+      "Ounce",
+      "Newton",
+      "Slug",
+      "Stone",
+      "Tonne"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Physics",
+    "difficulty": "easy",
+    "id": "18efac3b-938f-48d9-b230-e318a2d137c2",
+    "created_at": "2025-04-13T22:07:39.081Z",
+    "backupTimestamp": "2025-04-13T22:07:39.082Z",
+    "localBackupTimestamp": "2025-04-13T16:07:39.082Z"
+  },
+  {
+    "question": "What instrument is used to measure temperature?",
+    "correct_answer": "Thermometer",
+    "incorrect_answers": [
+      "Barometer",
+      "Anemometer",
+      "Hygrometer",
+      "Spectrometer",
+      "Calorimeter",
+      "Manometer",
+      "Psychrometer"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Physics",
+    "difficulty": "easy",
+    "id": "7623b0d8-6d1a-4442-b1ad-34c878d4e8c9",
+    "created_at": "2025-04-13T22:07:39.084Z",
+    "backupTimestamp": "2025-04-13T22:07:39.084Z",
+    "localBackupTimestamp": "2025-04-13T16:07:39.084Z"
+  },
+  {
+    "question": "What occurs when an object blocks light, forming a dark area behind it?",
+    "correct_answer": "Shadow",
+    "incorrect_answers": [
+      "Reflection",
+      "Refraction",
+      "Eclipse",
+      "Diffraction",
+      "Penumbra",
+      "Umbra",
+      "Silhouette"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Physics",
+    "difficulty": "easy",
+    "id": "888361ba-4283-414a-a08f-29c9cdb938a0",
+    "created_at": "2025-04-13T22:07:39.088Z",
+    "backupTimestamp": "2025-04-13T22:07:39.089Z",
+    "localBackupTimestamp": "2025-04-13T16:07:39.089Z"
+  },
+  {
+    "question": "What type of simple machine is a rigid bar that pivots around a fixed point (fulcrum)?",
+    "correct_answer": "Lever",
+    "incorrect_answers": [
+      "Pulley",
+      "Wheel and Axle",
+      "Inclined Plane",
+      "Wedge",
+      "Screw",
+      "Gear",
+      "Cam"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Physics",
+    "difficulty": "easy",
+    "id": "486369c9-19fe-40a6-959f-37ebb246b372",
+    "created_at": "2025-04-13T22:07:39.092Z",
+    "backupTimestamp": "2025-04-13T22:07:39.092Z",
+    "localBackupTimestamp": "2025-04-13T16:07:39.092Z"
+  },
+  {
+    "question": "What is the path an electric current follows called?",
+    "correct_answer": "Circuit",
+    "incorrect_answers": [
+      "Voltage",
+      "Resistance",
+      "Switch",
+      "Battery",
+      "Wire",
+      "Network",
+      "Loop"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Physics",
+    "difficulty": "easy",
+    "id": "4cc907dc-17f4-4d64-8b5a-200b057d9507",
+    "created_at": "2025-04-13T22:07:39.094Z",
+    "backupTimestamp": "2025-04-13T22:07:39.094Z",
+    "localBackupTimestamp": "2025-04-13T16:07:39.094Z"
+  },
+  {
+    "question": "What is the energy transformation when you rub your hands together quickly?",
+    "correct_answer": "Mechanical energy to thermal energy",
+    "incorrect_answers": [
+      "Chemical energy to thermal energy",
+      "Thermal energy to mechanical energy",
+      "Potential energy to kinetic energy",
+      "Electrical energy to thermal energy",
+      "Radiant energy to thermal energy",
+      "Kinetic energy to potential energy",
+      "Nuclear energy to thermal energy"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Physics",
+    "difficulty": "easy",
+    "id": "887207fd-50d6-4f54-98a5-7c05a2e3c324",
+    "created_at": "2025-04-13T22:07:39.096Z",
+    "backupTimestamp": "2025-04-13T22:07:39.096Z",
+    "localBackupTimestamp": "2025-04-13T16:07:39.096Z"
+  },
+  {
+    "question": "What natural phenomenon is caused by the buildup and discharge of static electricity in the atmosphere?",
+    "correct_answer": "Lightning",
+    "incorrect_answers": [
+      "Thunder",
+      "Rainbow",
+      "Aurora Borealis",
+      "Hurricane",
+      "Tornado",
+      "Earthquake",
+      "Volcano"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Physics",
+    "difficulty": "easy",
+    "id": "9cab45b8-0178-4528-a197-60ef4a4cb81d",
+    "created_at": "2025-04-13T22:07:39.098Z",
+    "backupTimestamp": "2025-04-13T22:07:39.098Z",
+    "localBackupTimestamp": "2025-04-13T16:07:39.098Z"
+  },
+  {
+    "question": "What is the standard unit of time?",
+    "correct_answer": "Second",
+    "incorrect_answers": [
+      "Minute",
+      "Hour",
+      "Day",
+      "Hertz",
+      "Meter",
+      "Kilogram",
+      "Year"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Physics",
+    "difficulty": "easy",
+    "id": "2dadb598-e29d-4c2d-a16e-c97ded62ef7b",
+    "created_at": "2025-04-13T22:07:39.100Z",
+    "backupTimestamp": "2025-04-13T22:07:39.101Z",
+    "localBackupTimestamp": "2025-04-13T16:07:39.101Z"
+  },
+  {
+    "question": "What is the property that allows certain materials to attract iron?",
+    "correct_answer": "Magnetism",
+    "incorrect_answers": [
+      "Electricity",
+      "Gravity",
+      "Adhesion",
+      "Cohesion",
+      "Conductivity",
+      "Radioactivity",
+      "Density"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Physics",
+    "difficulty": "easy",
+    "id": "ce96331b-5ef1-45f6-b5f8-703ad15759c8",
+    "created_at": "2025-04-13T22:07:39.102Z",
+    "backupTimestamp": "2025-04-13T22:07:39.103Z",
+    "localBackupTimestamp": "2025-04-13T16:07:39.103Z"
+  },
+  {
+    "question": "What type of lens converges parallel light rays to a single point?",
+    "correct_answer": "Convex Lens",
+    "incorrect_answers": [
+      "Concave Lens",
+      "Plane Mirror",
+      "Concave Mirror",
+      "Convex Mirror",
+      "Prism",
+      "Diffraction Grating",
+      "Fresnel Lens"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Physics",
+    "difficulty": "easy",
+    "id": "2a7ae792-9dc7-4a24-b890-95e5a08fba0b",
+    "created_at": "2025-04-13T22:07:39.104Z",
+    "backupTimestamp": "2025-04-13T22:07:39.104Z",
+    "localBackupTimestamp": "2025-04-13T16:07:39.104Z"
+  },
+  {
+    "question": "What is the process where heat is transferred through direct contact?",
+    "correct_answer": "Conduction",
+    "incorrect_answers": [
+      "Convection",
+      "Radiation",
+      "Evaporation",
+      "Condensation",
+      "Absorption",
+      "Advection",
+      "Insulation"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Physics",
+    "difficulty": "easy",
+    "id": "c98850f2-e5d9-42f1-aef1-c4388f804428",
+    "created_at": "2025-04-13T22:07:39.107Z",
+    "backupTimestamp": "2025-04-13T22:07:39.107Z",
+    "localBackupTimestamp": "2025-04-13T16:07:39.107Z"
+  },
+  {
+    "question": "What device converts electrical energy into mechanical energy?",
+    "correct_answer": "Electric Motor",
+    "incorrect_answers": [
+      "Generator",
+      "Battery",
+      "Transformer",
+      "Resistor",
+      "Capacitor",
+      "Solar Panel",
+      "Light Bulb"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Physics",
+    "difficulty": "easy",
+    "id": "a405d411-9a41-4131-b295-d592f025d975",
+    "created_at": "2025-04-13T22:07:39.110Z",
+    "backupTimestamp": "2025-04-13T22:07:39.110Z",
+    "localBackupTimestamp": "2025-04-13T16:07:39.110Z"
+  },
+  {
+    "question": "What color is produced when all colors of visible light are combined?",
+    "correct_answer": "White",
+    "incorrect_answers": [
+      "Black",
+      "Red",
+      "Blue",
+      "Green",
+      "Yellow",
+      "Grey",
+      "Rainbow"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Physics",
+    "difficulty": "easy",
+    "id": "99b49098-7846-44d3-80b4-f47883b0435a",
+    "created_at": "2025-04-13T22:07:39.112Z",
+    "backupTimestamp": "2025-04-13T22:07:39.112Z",
+    "localBackupTimestamp": "2025-04-13T16:07:39.112Z"
+  },
+  {
+    "question": "What is the tendency of a liquid surface to shrink into the minimum surface area possible?",
+    "correct_answer": "Surface Tension",
+    "incorrect_answers": [
+      "Viscosity",
+      "Buoyancy",
+      "Adhesion",
+      "Cohesion",
+      "Capillary Action",
+      "Density",
+      "Pressure"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Physics",
+    "difficulty": "easy",
+    "id": "d66519e1-0adc-4d8a-b079-5eb49ce4ef65",
+    "created_at": "2025-04-13T22:07:39.114Z",
+    "backupTimestamp": "2025-04-13T22:07:39.114Z",
+    "localBackupTimestamp": "2025-04-13T16:07:39.114Z"
+  },
+  {
+    "question": "What is measured in units of Hertz (Hz)?",
+    "correct_answer": "Frequency",
+    "incorrect_answers": [
+      "Wavelength",
+      "Amplitude",
+      "Speed",
+      "Energy",
+      "Period",
+      "Power",
+      "Intensity"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Physics",
+    "difficulty": "easy",
+    "id": "6ffda647-43a5-415e-abc6-e72b207a0be7",
+    "created_at": "2025-04-13T22:07:39.116Z",
+    "backupTimestamp": "2025-04-13T22:07:39.116Z",
+    "localBackupTimestamp": "2025-04-13T16:07:39.116Z"
+  },
+  {
+    "question": "What is the force exerted per unit area called?",
+    "correct_answer": "Pressure",
+    "incorrect_answers": [
+      "Force",
+      "Work",
+      "Energy",
+      "Density",
+      "Stress",
+      "Strain",
+      "Power"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Physics",
+    "difficulty": "easy",
+    "id": "c688dccc-222f-40ec-9df1-3965fd15cb2b",
+    "created_at": "2025-04-13T22:07:39.117Z",
+    "backupTimestamp": "2025-04-13T22:07:39.118Z",
+    "localBackupTimestamp": "2025-04-13T16:07:39.118Z"
+  },
+  {
+    "question": "What physical quantity is conserved in a closed system according to the First Law of Thermodynamics?",
+    "correct_answer": "Energy",
+    "incorrect_answers": [
+      "Mass",
+      "Momentum",
+      "Charge",
+      "Entropy",
+      "Temperature",
+      "Volume",
+      "Pressure"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Physics",
+    "difficulty": "easy",
+    "id": "249a58b4-6086-44f7-8690-8b2075ace3f0",
+    "created_at": "2025-04-13T22:07:39.120Z",
+    "backupTimestamp": "2025-04-13T22:07:39.120Z",
+    "localBackupTimestamp": "2025-04-13T16:07:39.120Z"
+  },
+  {
+    "question": "What simple machine is essentially a double inclined plane?",
+    "correct_answer": "Wedge",
+    "incorrect_answers": [
+      "Lever",
+      "Pulley",
+      "Screw",
+      "Wheel and Axle",
+      "Inclined Plane",
+      "Gear",
+      "Ramp"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Physics",
+    "difficulty": "easy",
+    "id": "d3e16cf6-a3c6-4718-ac8e-f2196c7931ad",
+    "created_at": "2025-04-13T22:07:39.122Z",
+    "backupTimestamp": "2025-04-13T22:07:39.123Z",
+    "localBackupTimestamp": "2025-04-13T16:07:39.123Z"
+  },
+  {
+    "question": "What is the term for the distance between two consecutive crests or troughs of a wave?",
+    "correct_answer": "Wavelength",
+    "incorrect_answers": [
+      "Frequency",
+      "Amplitude",
+      "Period",
+      "Speed",
+      "Phase",
+      "Intensity",
+      "Node"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Physics",
+    "difficulty": "easy",
+    "id": "3e21414e-7d08-4a81-a2bf-38c91094c097",
+    "created_at": "2025-04-13T22:07:39.125Z",
+    "backupTimestamp": "2025-04-13T22:07:39.125Z",
+    "localBackupTimestamp": "2025-04-13T16:07:39.125Z"
+  },
+  {
+    "question": "What is the upward force exerted by a fluid that opposes the weight of an immersed object?",
+    "correct_answer": "Buoyancy",
+    "incorrect_answers": [
+      "Gravity",
+      "Drag",
+      "Lift",
+      "Tension",
+      "Normal Force",
+      "Friction",
+      "Weight"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Physics",
+    "difficulty": "easy",
+    "id": "169788da-bfe2-4544-8866-151f55183827",
+    "created_at": "2025-04-13T22:07:39.127Z",
+    "backupTimestamp": "2025-04-13T22:07:39.128Z",
+    "localBackupTimestamp": "2025-04-13T16:07:39.128Z"
+  },
+  {
+    "question": "What is the SI unit of energy?",
+    "correct_answer": "Joule",
+    "incorrect_answers": [
+      "Watt",
+      "Newton",
+      "Pascal",
+      "Kilogram",
+      "Calorie",
+      "Volt",
+      "Hertz"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Physics",
+    "difficulty": "easy",
+    "id": "15c5414e-f1e1-4e68-9cdd-5dd2f4356bd6",
+    "created_at": "2025-04-13T22:07:39.131Z",
+    "backupTimestamp": "2025-04-13T22:07:39.131Z",
+    "localBackupTimestamp": "2025-04-13T16:07:39.131Z"
+  },
+  {
+    "question": "What type of wave has oscillations perpendicular to the direction of energy transfer?",
+    "correct_answer": "Transverse Wave",
+    "incorrect_answers": [
+      "Longitudinal Wave",
+      "Sound Wave",
+      "Pressure Wave",
+      "Standing Wave",
+      "Shock Wave",
+      "Surface Wave",
+      "Mechanical Wave"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Physics",
+    "difficulty": "easy",
+    "id": "5c9258cb-24a7-4286-ae5f-fe168938d5c6",
+    "created_at": "2025-04-13T22:07:39.133Z",
+    "backupTimestamp": "2025-04-13T22:07:39.133Z",
+    "localBackupTimestamp": "2025-04-13T16:07:39.133Z"
+  },
+  {
+    "question": "What is the product of an object's mass and velocity?",
+    "correct_answer": "Momentum",
+    "incorrect_answers": [
+      "Force",
+      "Energy",
+      "Work",
+      "Power",
+      "Impulse",
+      "Acceleration",
+      "Inertia"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Physics",
+    "difficulty": "easy",
+    "id": "c260ebf2-ece1-43e9-80b9-3a32205c484d",
+    "created_at": "2025-04-13T22:07:39.135Z",
+    "backupTimestamp": "2025-04-13T22:07:39.135Z",
+    "localBackupTimestamp": "2025-04-13T16:07:39.135Z"
+  },
+  {
+    "question": "What phenomenon causes a prism to separate white light into its constituent colors?",
+    "correct_answer": "Dispersion",
+    "incorrect_answers": [
+      "Reflection",
+      "Refraction",
+      "Diffraction",
+      "Interference",
+      "Polarization",
+      "Scattering",
+      "Absorption"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Physics",
+    "difficulty": "easy",
+    "id": "269784aa-5d84-4a40-8e67-a41f9640c641",
+    "created_at": "2025-04-13T22:07:39.137Z",
+    "backupTimestamp": "2025-04-13T22:07:39.138Z",
+    "localBackupTimestamp": "2025-04-13T16:07:39.138Z"
+  },
+  {
+    "question": "What is the transfer of heat by the movement of fluids (liquids or gases)?",
+    "correct_answer": "Convection",
+    "incorrect_answers": [
+      "Conduction",
+      "Radiation",
+      "Advection",
+      "Diffusion",
+      "Osmosis",
+      "Evaporation",
+      "Insulation"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Physics",
+    "difficulty": "easy",
+    "id": "da3321dd-a653-4fe5-ab0c-0a350b9dff26",
+    "created_at": "2025-04-13T22:07:39.140Z",
+    "backupTimestamp": "2025-04-13T22:07:39.141Z",
+    "localBackupTimestamp": "2025-04-13T16:07:39.141Z"
+  },
+  {
+    "question": "What is the measure of the 'push' or 'pull' on an object?",
+    "correct_answer": "Force",
+    "incorrect_answers": [
+      "Mass",
+      "Weight",
+      "Energy",
+      "Work",
+      "Power",
+      "Pressure",
+      "Momentum"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Physics",
+    "difficulty": "easy",
+    "id": "8bcecf22-ef6d-448c-aed3-5d8bcaad2828",
+    "created_at": "2025-04-13T22:07:39.144Z",
+    "backupTimestamp": "2025-04-13T22:07:39.144Z",
+    "localBackupTimestamp": "2025-04-13T16:07:39.144Z"
+  },
+  {
+    "question": "What device uses lenses or mirrors to make distant objects appear closer?",
+    "correct_answer": "Telescope",
+    "incorrect_answers": [
+      "Microscope",
+      "Periscope",
+      "Kaleidoscope",
+      "Magnifying Glass",
+      "Camera",
+      "Binoculars",
+      "Spectroscope"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Physics",
+    "difficulty": "easy",
+    "id": "cb4be22c-334c-4424-971c-ade402ea65f4",
+    "created_at": "2025-04-13T22:07:39.146Z",
+    "backupTimestamp": "2025-04-13T22:07:39.146Z",
+    "localBackupTimestamp": "2025-04-13T16:07:39.146Z"
+  },
+  {
+    "question": "What type of energy is stored in the bonds of chemical compounds?",
+    "correct_answer": "Chemical Energy",
+    "incorrect_answers": [
+      "Kinetic Energy",
+      "Potential Energy",
+      "Thermal Energy",
+      "Nuclear Energy",
+      "Radiant Energy",
+      "Electrical Energy",
+      "Mechanical Energy"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Physics",
+    "difficulty": "easy",
+    "id": "687a93e0-d656-406d-91c4-01020da803a9",
+    "created_at": "2025-04-13T22:07:39.148Z",
+    "backupTimestamp": "2025-04-13T22:07:39.148Z",
+    "localBackupTimestamp": "2025-04-13T16:07:39.148Z"
+  },
+  {
+    "question": "What is the speed of light in a vacuum (approximately)?",
+    "correct_answer": "300,000 kilometers per second (or 186,000 miles per second)",
+    "incorrect_answers": [
+      "300 kilometers per second",
+      "3,000 kilometers per second",
+      "30,000 kilometers per second",
+      "3,000,000 kilometers per second",
+      "Speed of sound",
+      "1 light-year per year",
+      "Infinite"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Physics",
+    "difficulty": "easy",
+    "id": "b58ccf51-00f7-475c-8ddb-f0439974d860",
+    "created_at": "2025-04-13T22:07:39.150Z",
+    "backupTimestamp": "2025-04-13T22:07:39.150Z",
+    "localBackupTimestamp": "2025-04-13T16:07:39.150Z"
+  },
+  {
+    "question": "What is the standard unit of electric potential difference?",
+    "correct_answer": "Volt",
+    "incorrect_answers": [
+      "Ampere",
+      "Ohm",
+      "Watt",
+      "Coulomb",
+      "Joule",
+      "Farad",
+      "Tesla"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Physics",
+    "difficulty": "easy",
+    "id": "226773fc-9d72-4b5c-abe1-b1a25202a770",
+    "created_at": "2025-04-13T22:07:39.153Z",
+    "backupTimestamp": "2025-04-13T22:07:39.153Z",
+    "localBackupTimestamp": "2025-04-13T16:07:39.153Z"
+  },
+  {
+    "question": "What is the relationship described by Ohm's Law?",
+    "correct_answer": "Voltage = Current × Resistance (V=IR)",
+    "incorrect_answers": [
+      "Force = Mass × Acceleration (F=ma)",
+      "Energy = Mass × Speed of Light² (E=mc²)",
+      "Work = Force × Distance (W=Fd)",
+      "Power = Work / Time (P=W/t)",
+      "Pressure = Force / Area (P=F/A)",
+      "Frequency = 1 / Period (f=1/T)",
+      "Density = Mass / Volume (ρ=m/V)"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Physics",
+    "difficulty": "medium",
+    "id": "296a877d-1162-454b-88e1-751d902e7f73",
+    "created_at": "2025-04-13T22:07:39.156Z",
+    "backupTimestamp": "2025-04-13T22:07:39.157Z",
+    "localBackupTimestamp": "2025-04-13T16:07:39.157Z"
+  },
+  {
+    "question": "What principle states that for every action, there is an equal and opposite reaction?",
+    "correct_answer": "Newton's Third Law of Motion",
+    "incorrect_answers": [
+      "Newton's First Law of Motion",
+      "Newton's Second Law of Motion",
+      "Law of Conservation of Energy",
+      "Law of Universal Gravitation",
+      "Archimedes' Principle",
+      "Pascal's Principle",
+      "Bernoulli's Principle"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Physics",
+    "difficulty": "medium",
+    "id": "a4733b0e-b05a-444d-b626-76cf7f3a1a92",
+    "created_at": "2025-04-13T22:07:39.161Z",
+    "backupTimestamp": "2025-04-13T22:07:39.165Z",
+    "localBackupTimestamp": "2025-04-13T16:07:39.165Z"
+  },
+  {
+    "question": "What type of energy is transferred by electromagnetic waves?",
+    "correct_answer": "Radiant Energy",
+    "incorrect_answers": [
+      "Thermal Energy",
+      "Kinetic Energy",
+      "Potential Energy",
+      "Sound Energy",
+      "Chemical Energy",
+      "Nuclear Energy",
+      "Elastic Energy"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Physics",
+    "difficulty": "medium",
+    "id": "3c7cfe64-75c4-42cb-9839-3e1b97e0849f",
+    "created_at": "2025-04-13T22:07:39.167Z",
+    "backupTimestamp": "2025-04-13T22:07:39.167Z",
+    "localBackupTimestamp": "2025-04-13T16:07:39.167Z"
+  },
+  {
+    "question": "What is the change in momentum of an object called?",
+    "correct_answer": "Impulse",
+    "incorrect_answers": [
+      "Force",
+      "Work",
+      "Power",
+      "Acceleration",
+      "Kinetic Energy Change",
+      "Jerk",
+      "Torque"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Physics",
+    "difficulty": "medium",
+    "id": "fcc35775-33c3-4ce8-828b-774fda472246",
+    "created_at": "2025-04-13T22:07:39.168Z",
+    "backupTimestamp": "2025-04-13T22:07:39.169Z",
+    "localBackupTimestamp": "2025-04-13T16:07:39.169Z"
+  },
+  {
+    "question": "What is the SI unit of power?",
+    "correct_answer": "Watt",
+    "incorrect_answers": [
+      "Joule",
+      "Newton",
+      "Pascal",
+      "Volt",
+      "Ampere",
+      "Ohm",
+      "Hertz"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Physics",
+    "difficulty": "medium",
+    "id": "b25001f6-8bc3-4342-bf20-c801797a8c5a",
+    "created_at": "2025-04-13T22:07:39.171Z",
+    "backupTimestamp": "2025-04-13T22:07:39.171Z",
+    "localBackupTimestamp": "2025-04-13T16:07:39.171Z"
+  },
+  {
+    "question": "What phenomenon occurs when waves bend around obstacles or spread out after passing through narrow openings?",
+    "correct_answer": "Diffraction",
+    "incorrect_answers": [
+      "Reflection",
+      "Refraction",
+      "Interference",
+      "Polarization",
+      "Dispersion",
+      "Doppler Effect",
+      "Resonance"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Physics",
+    "difficulty": "medium",
+    "id": "28af5daf-0832-436e-8b2c-995279829a26",
+    "created_at": "2025-04-13T22:07:39.173Z",
+    "backupTimestamp": "2025-04-13T22:07:39.174Z",
+    "localBackupTimestamp": "2025-04-13T16:07:39.174Z"
+  },
+  {
+    "question": "What fundamental force is responsible for holding atomic nuclei together?",
+    "correct_answer": "Strong Nuclear Force",
+    "incorrect_answers": [
+      "Weak Nuclear Force",
+      "Electromagnetic Force",
+      "Gravitational Force",
+      "Centripetal Force",
+      "Frictional Force",
+      "Tension Force",
+      "Normal Force"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Physics",
+    "difficulty": "medium",
+    "id": "a87bc4bb-ddc8-4b5b-8247-73f283850522",
+    "created_at": "2025-04-13T22:07:39.175Z",
+    "backupTimestamp": "2025-04-13T22:07:39.176Z",
+    "localBackupTimestamp": "2025-04-13T16:07:39.176Z"
+  },
+  {
+    "question": "What temperature scale has its zero point at absolute zero?",
+    "correct_answer": "Kelvin",
+    "incorrect_answers": [
+      "Celsius",
+      "Fahrenheit",
+      "Rankine",
+      "Reaumur",
+      "Delisle",
+      "Newton Scale",
+      "Rømer Scale"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Physics",
+    "difficulty": "medium",
+    "id": "9f37522f-68f1-4a05-b959-26f5770e9155",
+    "created_at": "2025-04-13T22:07:39.177Z",
+    "backupTimestamp": "2025-04-13T22:07:39.177Z",
+    "localBackupTimestamp": "2025-04-13T16:07:39.177Z"
+  },
+  {
+    "question": "What law describes the relationship between the pressure and temperature of a gas at constant volume?",
+    "correct_answer": "Gay-Lussac's Law",
+    "incorrect_answers": [
+      "Boyle's Law",
+      "Charles's Law",
+      "Avogadro's Law",
+      "Ideal Gas Law",
+      "Dalton's Law",
+      "Henry's Law",
+      "Combined Gas Law"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Physics",
+    "difficulty": "medium",
+    "id": "39f69a32-8e43-4f1a-b81b-cb770c22d977",
+    "created_at": "2025-04-13T22:07:39.180Z",
+    "backupTimestamp": "2025-04-13T22:07:39.180Z",
+    "localBackupTimestamp": "2025-04-13T16:07:39.180Z"
+  },
+  {
+    "question": "What is the SI unit of electric charge?",
+    "correct_answer": "Coulomb",
+    "incorrect_answers": [
+      "Ampere",
+      "Volt",
+      "Ohm",
+      "Watt",
+      "Farad",
+      "Henry",
+      "Tesla"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Physics",
+    "difficulty": "medium",
+    "id": "95d34e9b-a54c-40a1-9837-ee054d4727e8",
+    "created_at": "2025-04-13T22:07:39.181Z",
+    "backupTimestamp": "2025-04-13T22:07:39.182Z",
+    "localBackupTimestamp": "2025-04-13T16:07:39.182Z"
+  },
+  {
+    "question": "What type of simple harmonic motion is exhibited by a pendulum (for small angles)?",
+    "correct_answer": "Oscillation / Periodic Motion",
+    "incorrect_answers": [
+      "Linear Motion",
+      "Projectile Motion",
+      "Circular Motion",
+      "Brownian Motion",
+      "Rotational Motion",
+      "Forced Vibration",
+      "Damped Oscillation"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Physics",
+    "difficulty": "medium",
+    "id": "82c26c01-7fa8-4ace-afd7-254740ceca59",
+    "created_at": "2025-04-13T22:07:39.183Z",
+    "backupTimestamp": "2025-04-13T22:07:39.184Z",
+    "localBackupTimestamp": "2025-04-13T16:07:39.184Z"
+  },
+  {
+    "question": "What term describes the maximum displacement of a point on a wave from its equilibrium position?",
+    "correct_answer": "Amplitude",
+    "incorrect_answers": [
+      "Wavelength",
+      "Frequency",
+      "Period",
+      "Speed",
+      "Phase",
+      "Intensity",
+      "Crest"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Physics",
+    "difficulty": "medium",
+    "id": "e8c968b2-dd60-4c50-8e38-a75391a3922d",
+    "created_at": "2025-04-13T22:07:39.185Z",
+    "backupTimestamp": "2025-04-13T22:07:39.185Z",
+    "localBackupTimestamp": "2025-04-13T16:07:39.185Z"
+  },
+  {
+    "question": "What is the property of a material that describes how easily it allows heat to flow through it?",
+    "correct_answer": "Thermal Conductivity",
+    "incorrect_answers": [
+      "Specific Heat Capacity",
+      "Thermal Expansion",
+      "Resistivity",
+      "Density",
+      "Viscosity",
+      "Insulation",
+      "Reflectivity"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Physics",
+    "difficulty": "medium",
+    "id": "e21de8a0-dd56-4b0d-8265-dc8703f069ac",
+    "created_at": "2025-04-13T22:07:39.188Z",
+    "backupTimestamp": "2025-04-13T22:07:39.188Z",
+    "localBackupTimestamp": "2025-04-13T16:07:39.188Z"
+  },
+  {
+    "question": "What principle explains why a boat floats?",
+    "correct_answer": "Archimedes' Principle",
+    "incorrect_answers": [
+      "Bernoulli's Principle",
+      "Pascal's Principle",
+      "Newton's Third Law",
+      "Torricelli's Law",
+      "Law of Conservation of Mass",
+      "Buoyancy Force",
+      "Hydrostatic Pressure"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Physics",
+    "difficulty": "medium",
+    "id": "f166643d-104b-492c-9c9f-5d3a1b016f58",
+    "created_at": "2025-04-13T22:07:39.190Z",
+    "backupTimestamp": "2025-04-13T22:07:39.190Z",
+    "localBackupTimestamp": "2025-04-13T16:07:39.190Z"
+  },
+  {
+    "question": "What type of nuclear reaction powers the Sun?",
+    "correct_answer": "Nuclear Fusion",
+    "incorrect_answers": [
+      "Nuclear Fission",
+      "Radioactive Decay",
+      "Alpha Decay",
+      "Beta Decay",
+      "Chain Reaction",
+      "Combustion",
+      "Chemical Reaction"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Physics",
+    "difficulty": "medium",
+    "id": "5d0246ea-7f83-495b-bb47-b8619cc7ccb7",
+    "created_at": "2025-04-13T22:07:39.192Z",
+    "backupTimestamp": "2025-04-13T22:07:39.192Z",
+    "localBackupTimestamp": "2025-04-13T16:07:39.192Z"
+  },
+  {
+    "question": "What device increases or decreases alternating current voltage?",
+    "correct_answer": "Transformer",
+    "incorrect_answers": [
+      "Resistor",
+      "Capacitor",
+      "Inductor",
+      "Diode",
+      "Transistor",
+      "Generator",
+      "Rectifier"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Physics",
+    "difficulty": "medium",
+    "id": "492bd8d6-80ee-427f-8896-752d86af671f",
+    "created_at": "2025-04-13T22:07:39.194Z",
+    "backupTimestamp": "2025-04-13T22:07:39.194Z",
+    "localBackupTimestamp": "2025-04-13T16:07:39.194Z"
+  },
+  {
+    "question": "What is the term for the energy required to change a substance from a solid to a liquid at its melting point?",
+    "correct_answer": "Heat of Fusion (Latent Heat of Fusion)",
+    "incorrect_answers": [
+      "Heat of Vaporization",
+      "Specific Heat Capacity",
+      "Melting Point",
+      "Boiling Point",
+      "Enthalpy Change",
+      "Internal Energy",
+      "Thermal Energy"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Physics",
+    "difficulty": "medium",
+    "id": "7656bd1e-fc57-44c9-8b64-e647219ad55b",
+    "created_at": "2025-04-13T22:07:39.196Z",
+    "backupTimestamp": "2025-04-13T22:07:39.197Z",
+    "localBackupTimestamp": "2025-04-13T16:07:39.197Z"
+  },
+  {
+    "question": "What phenomenon describes the apparent change in frequency of a wave in relation to an observer moving relative to the wave source?",
+    "correct_answer": "Doppler Effect",
+    "incorrect_answers": [
+      "Diffraction",
+      "Interference",
+      "Refraction",
+      "Resonance",
+      "Redshift",
+      "Blueshift",
+      "Sonic Boom"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Physics",
+    "difficulty": "medium",
+    "id": "26bbf4dc-29ce-4e93-bd21-48cd2e2bedfe",
+    "created_at": "2025-04-13T22:07:39.199Z",
+    "backupTimestamp": "2025-04-13T22:07:39.199Z",
+    "localBackupTimestamp": "2025-04-13T16:07:39.199Z"
+  },
+  {
+    "question": "What is the resistance of an ideal voltmeter?",
+    "correct_answer": "Infinite",
+    "incorrect_answers": [
+      "Zero",
+      "Very low",
+      "Equal to the circuit resistance",
+      "1 Ohm",
+      "1 Megaohm",
+      "Negative",
+      "Variable"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Physics",
+    "difficulty": "medium",
+    "id": "76d2f788-f0fa-40c7-8cfc-fc0cf8eb18b4",
+    "created_at": "2025-04-13T22:07:39.201Z",
+    "backupTimestamp": "2025-04-13T22:07:39.202Z",
+    "localBackupTimestamp": "2025-04-13T16:07:39.202Z"
+  },
+  {
+    "question": "What is the measure of the amount of matter in an object?",
+    "correct_answer": "Mass",
+    "incorrect_answers": [
+      "Weight",
+      "Volume",
+      "Density",
+      "Inertia",
+      "Size",
+      "Mole",
+      "Specific Gravity"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Physics",
+    "difficulty": "medium",
+    "id": "795375f2-6db2-4481-8520-f1d73032db1e",
+    "created_at": "2025-04-13T22:07:39.203Z",
+    "backupTimestamp": "2025-04-13T22:07:39.204Z",
+    "localBackupTimestamp": "2025-04-13T16:07:39.204Z"
+  },
+  {
+    "question": "What type of radioactive decay involves the emission of an electron or positron?",
+    "correct_answer": "Beta Decay",
+    "incorrect_answers": [
+      "Alpha Decay",
+      "Gamma Emission",
+      "Electron Capture",
+      "Neutron Emission",
+      "Proton Emission",
+      "Nuclear Fission",
+      "Nuclear Fusion"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Physics",
+    "difficulty": "medium",
+    "id": "95144a95-aeac-4951-8a38-cb50f00e224c",
+    "created_at": "2025-04-13T22:07:39.205Z",
+    "backupTimestamp": "2025-04-13T22:07:39.206Z",
+    "localBackupTimestamp": "2025-04-13T16:07:39.206Z"
+  },
+  {
+    "question": "What is the unit of measurement for capacitance?",
+    "correct_answer": "Farad",
+    "incorrect_answers": [
+      "Henry",
+      "Tesla",
+      "Weber",
+      "Coulomb",
+      "Volt",
+      "Ohm",
+      "Siemens"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Physics",
+    "difficulty": "medium",
+    "id": "0cb35e39-b301-4b78-bab8-f34f41d5e8af",
+    "created_at": "2025-04-13T22:07:39.208Z",
+    "backupTimestamp": "2025-04-13T22:07:39.209Z",
+    "localBackupTimestamp": "2025-04-13T16:07:39.209Z"
+  },
+  {
+    "question": "What concept describes the bending of spacetime due to mass and energy?",
+    "correct_answer": "General Relativity",
+    "incorrect_answers": [
+      "Special Relativity",
+      "Newtonian Gravity",
+      "Quantum Mechanics",
+      "String Theory",
+      "Loop Quantum Gravity",
+      "Electromagnetism",
+      "Thermodynamics"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Physics",
+    "difficulty": "medium",
+    "id": "df5f585e-5093-4e67-85e7-2aa4c7b50b17",
+    "created_at": "2025-04-13T22:07:39.211Z",
+    "backupTimestamp": "2025-04-13T22:07:39.211Z",
+    "localBackupTimestamp": "2025-04-13T16:07:39.211Z"
+  },
+  {
+    "question": "What physical quantity is measured in Pascals (Pa)?",
+    "correct_answer": "Pressure",
+    "incorrect_answers": [
+      "Force",
+      "Energy",
+      "Power",
+      "Density",
+      "Frequency",
+      "Viscosity",
+      "Stress"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Physics",
+    "difficulty": "medium",
+    "id": "4dacaca7-e14a-4eaf-8cc6-c0962fa68aec",
+    "created_at": "2025-04-13T22:07:39.213Z",
+    "backupTimestamp": "2025-04-13T22:07:39.213Z",
+    "localBackupTimestamp": "2025-04-13T16:07:39.213Z"
+  },
+  {
+    "question": "What is the formula E=mc² related to?",
+    "correct_answer": "Mass-energy equivalence",
+    "incorrect_answers": [
+      "Kinetic energy",
+      "Potential energy",
+      "Newton's second law",
+      "Ohm's law",
+      "Universal gravitation",
+      "Photoelectric effect",
+      "Ideal gas law"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Physics",
+    "difficulty": "medium",
+    "id": "62d742ce-0a48-4655-a2f8-5b30437d23aa",
+    "created_at": "2025-04-13T22:07:39.215Z",
+    "backupTimestamp": "2025-04-13T22:07:39.215Z",
+    "localBackupTimestamp": "2025-04-13T16:07:39.215Z"
+  },
+  {
+    "question": "What principle states that the buoyant force on an object submerged in a fluid is equal to the weight of the fluid displaced by the object?",
+    "correct_answer": "Archimedes' Principle",
+    "incorrect_answers": [
+      "Pascal's Principle",
+      "Bernoulli's Principle",
+      "Torricelli's Law",
+      "Newton's Law of Viscosity",
+      "Hooke's Law",
+      "Boyle's Law",
+      "Charles's Law"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Physics",
+    "difficulty": "medium",
+    "id": "f6d26660-ce58-4821-903a-a928e63d6029",
+    "created_at": "2025-04-13T22:07:39.217Z",
+    "backupTimestamp": "2025-04-13T22:07:39.217Z",
+    "localBackupTimestamp": "2025-04-13T16:07:39.217Z"
+  },
+  {
+    "question": "What type of wave has oscillations parallel to the direction of energy transfer?",
+    "correct_answer": "Longitudinal Wave",
+    "incorrect_answers": [
+      "Transverse Wave",
+      "Electromagnetic Wave",
+      "Light Wave",
+      "Surface Wave",
+      "Shear Wave",
+      "Standing Wave",
+      "Circular Wave"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Physics",
+    "difficulty": "medium",
+    "id": "7bd27c3d-4622-40da-aced-d39d3395d572",
+    "created_at": "2025-04-13T22:07:39.219Z",
+    "backupTimestamp": "2025-04-13T22:07:39.219Z",
+    "localBackupTimestamp": "2025-04-13T16:07:39.219Z"
+  },
+  {
+    "question": "What fundamental particle mediates the electromagnetic force?",
+    "correct_answer": "Photon",
+    "incorrect_answers": [
+      "Gluon",
+      "W boson",
+      "Z boson",
+      "Graviton",
+      "Higgs boson",
+      "Electron",
+      "Neutrino"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Physics",
+    "difficulty": "medium",
+    "id": "205a1fe4-820c-47d9-abb4-fd453a52063f",
+    "created_at": "2025-04-13T22:07:39.221Z",
+    "backupTimestamp": "2025-04-13T22:07:39.222Z",
+    "localBackupTimestamp": "2025-04-13T16:07:39.222Z"
+  },
+  {
+    "question": "What is the term for the time it takes for one complete cycle of a wave to occur?",
+    "correct_answer": "Period",
+    "incorrect_answers": [
+      "Frequency",
+      "Wavelength",
+      "Amplitude",
+      "Speed",
+      "Phase",
+      "Hertz",
+      "Cycle"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Physics",
+    "difficulty": "medium",
+    "id": "5871d64a-f210-4ac3-8fc5-ed424c978a5c",
+    "created_at": "2025-04-13T22:07:39.226Z",
+    "backupTimestamp": "2025-04-13T22:07:39.226Z",
+    "localBackupTimestamp": "2025-04-13T16:07:39.226Z"
+  },
+  {
+    "question": "What law states that the total electric flux out of a closed surface is equal to the charge enclosed divided by the permittivity?",
+    "correct_answer": "Gauss's Law (for electricity)",
+    "incorrect_answers": [
+      "Ampère's Law",
+      "Faraday's Law of Induction",
+      "Gauss's Law for Magnetism",
+      "Ohm's Law",
+      "Coulomb's Law",
+      "Biot-Savart Law",
+      "Lenz's Law"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Physics",
+    "difficulty": "medium",
+    "id": "5aec25f2-fe65-4281-8e23-c7902c85c5cc",
+    "created_at": "2025-04-13T22:07:39.229Z",
+    "backupTimestamp": "2025-04-13T22:07:39.229Z",
+    "localBackupTimestamp": "2025-04-13T16:07:39.229Z"
+  },
+  {
+    "question": "What effect causes electrons to be emitted from a material when light shines on it?",
+    "correct_answer": "Photoelectric Effect",
+    "incorrect_answers": [
+      "Compton Effect",
+      "Doppler Effect",
+      "Zeeman Effect",
+      "Stark Effect",
+      "Hall Effect",
+      "Thermoelectric Effect",
+      "Seebeck Effect"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Physics",
+    "difficulty": "medium",
+    "id": "04846002-e4e5-49ab-89a9-80d387d9636c",
+    "created_at": "2025-04-13T22:07:39.231Z",
+    "backupTimestamp": "2025-04-13T22:07:39.231Z",
+    "localBackupTimestamp": "2025-04-13T16:07:39.231Z"
+  },
+  {
+    "question": "What type of circuit has components connected in a single path?",
+    "correct_answer": "Series Circuit",
+    "incorrect_answers": [
+      "Parallel Circuit",
+      "Open Circuit",
+      "Closed Circuit",
+      "Short Circuit",
+      "Integrated Circuit",
+      "Complex Circuit",
+      "Bridge Circuit"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Physics",
+    "difficulty": "medium",
+    "id": "2b5dd853-be06-4644-8370-fea366918752",
+    "created_at": "2025-04-13T22:07:39.233Z",
+    "backupTimestamp": "2025-04-13T22:07:39.233Z",
+    "localBackupTimestamp": "2025-04-13T16:07:39.233Z"
+  },
+  {
+    "question": "What is the rotational equivalent of force?",
+    "correct_answer": "Torque",
+    "incorrect_answers": [
+      "Momentum",
+      "Angular Momentum",
+      "Inertia",
+      "Moment of Inertia",
+      "Work",
+      "Power",
+      "Centripetal Force"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Physics",
+    "difficulty": "medium",
+    "id": "87559424-4d0b-4dcd-a8e6-433fb58446d8",
+    "created_at": "2025-04-13T22:07:39.235Z",
+    "backupTimestamp": "2025-04-13T22:07:39.235Z",
+    "localBackupTimestamp": "2025-04-13T16:07:39.235Z"
+  },
+  {
+    "question": "What term describes the number of protons plus neutrons in an atomic nucleus?",
+    "correct_answer": "Mass Number",
+    "incorrect_answers": [
+      "Atomic Number",
+      "Atomic Mass",
+      "Isotope Number",
+      "Charge Number",
+      "Neutron Number",
+      "Valence Number",
+      "Avogadro's Number"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Physics",
+    "difficulty": "medium",
+    "id": "b0d9a919-1453-4a72-9cfc-55041d076b62",
+    "created_at": "2025-04-13T22:07:39.237Z",
+    "backupTimestamp": "2025-04-13T22:07:39.238Z",
+    "localBackupTimestamp": "2025-04-13T16:07:39.238Z"
+  },
+  {
+    "question": "What is the transfer of heat through electromagnetic waves called?",
+    "correct_answer": "Radiation",
+    "incorrect_answers": [
+      "Conduction",
+      "Convection",
+      "Advection",
+      "Absorption",
+      "Emission",
+      "Reflection",
+      "Transmission"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Physics",
+    "difficulty": "medium",
+    "id": "46aa22da-5287-466e-b260-7571fea6c53e",
+    "created_at": "2025-04-13T22:07:39.240Z",
+    "backupTimestamp": "2025-04-13T22:07:39.240Z",
+    "localBackupTimestamp": "2025-04-13T16:07:39.240Z"
+  },
+  {
+    "question": "What is the tendency of an object to return to its original shape after being deformed?",
+    "correct_answer": "Elasticity",
+    "incorrect_answers": [
+      "Plasticity",
+      "Brittleness",
+      "Hardness",
+      "Tensile Strength",
+      "Ductility",
+      "Malleability",
+      "Stiffness"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Physics",
+    "difficulty": "medium",
+    "id": "e2c32e1d-0c2f-4678-893c-bb6dcfacf229",
+    "created_at": "2025-04-13T22:07:39.242Z",
+    "backupTimestamp": "2025-04-13T22:07:39.243Z",
+    "localBackupTimestamp": "2025-04-13T16:07:39.243Z"
+  },
+  {
+    "question": "What fundamental constant relates the energy of a photon to its frequency?",
+    "correct_answer": "Planck's Constant (h)",
+    "incorrect_answers": [
+      "Speed of Light (c)",
+      "Gravitational Constant (G)",
+      "Boltzmann Constant (k)",
+      "Avogadro's Number (Nₐ)",
+      "Gas Constant (R)",
+      "Elementary Charge (e)",
+      "Fine-structure Constant (α)"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Physics",
+    "difficulty": "medium",
+    "id": "e0d5b126-587a-4990-94b8-5a0002548297",
+    "created_at": "2025-04-13T22:07:39.244Z",
+    "backupTimestamp": "2025-04-13T22:07:39.245Z",
+    "localBackupTimestamp": "2025-04-13T16:07:39.245Z"
+  },
+  {
+    "question": "What device stores electrical energy in an electric field?",
+    "correct_answer": "Capacitor",
+    "incorrect_answers": [
+      "Resistor",
+      "Inductor",
+      "Battery",
+      "Transistor",
+      "Diode",
+      "Generator",
+      "Motor"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Physics",
+    "difficulty": "medium",
+    "id": "95b0ecdd-625c-4d23-9252-9a7716db08a2",
+    "created_at": "2025-04-13T22:07:39.247Z",
+    "backupTimestamp": "2025-04-13T22:07:39.248Z",
+    "localBackupTimestamp": "2025-04-13T16:07:39.248Z"
+  },
+  {
+    "question": "What is the study of the properties of light called?",
+    "correct_answer": "Optics",
+    "incorrect_answers": [
+      "Acoustics",
+      "Thermodynamics",
+      "Mechanics",
+      "Electromagnetism",
+      "Quantum Physics",
+      "Spectroscopy",
+      "Photonics"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Physics",
+    "difficulty": "medium",
+    "id": "0c089503-661a-4d8e-977a-3aa230113b63",
+    "created_at": "2025-04-13T22:07:39.249Z",
+    "backupTimestamp": "2025-04-13T22:07:39.251Z",
+    "localBackupTimestamp": "2025-04-13T16:07:39.251Z"
+  },
+  {
+    "question": "What is the vector quantity representing the rate of change of position?",
+    "correct_answer": "Velocity",
+    "incorrect_answers": [
+      "Speed",
+      "Acceleration",
+      "Displacement",
+      "Distance",
+      "Momentum",
+      "Force",
+      "Jerk"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Physics",
+    "difficulty": "medium",
+    "id": "bc738e76-5e32-414e-9852-87bc3a48f902",
+    "created_at": "2025-04-13T22:07:39.252Z",
+    "backupTimestamp": "2025-04-13T22:07:39.253Z",
+    "localBackupTimestamp": "2025-04-13T16:07:39.253Z"
+  },
+  {
+    "question": "What is the SI unit of magnetic flux density?",
+    "correct_answer": "Tesla (T)",
+    "incorrect_answers": [
+      "Weber (Wb)",
+      "Gauss (G)",
+      "Henry (H)",
+      "Ampere per meter (A/m)",
+      "Oersted (Oe)",
+      "Maxwell (Mx)",
+      "Volt (V)"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Physics",
+    "difficulty": "medium",
+    "id": "d82ac52d-d3f5-499b-9ede-ae88d816d402",
+    "created_at": "2025-04-13T22:07:39.254Z",
+    "backupTimestamp": "2025-04-13T22:07:39.255Z",
+    "localBackupTimestamp": "2025-04-13T16:07:39.255Z"
+  },
+  {
+    "question": "What type of circuit allows current to flow along multiple paths?",
+    "correct_answer": "Parallel Circuit",
+    "incorrect_answers": [
+      "Series Circuit",
+      "Open Circuit",
+      "Closed Circuit",
+      "Short Circuit",
+      "Linear Circuit",
+      "Resistive Circuit",
+      "RLC Circuit"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Physics",
+    "difficulty": "medium",
+    "id": "a14fd16f-ffcc-47b6-822f-1291b653601a",
+    "created_at": "2025-04-13T22:07:39.257Z",
+    "backupTimestamp": "2025-04-13T22:07:39.258Z",
+    "localBackupTimestamp": "2025-04-13T16:07:39.258Z"
+  },
+  {
+    "question": "What is the phenomenon where two waves superpose to form a resultant wave of greater, lower, or the same amplitude?",
+    "correct_answer": "Interference",
+    "incorrect_answers": [
+      "Diffraction",
+      "Refraction",
+      "Reflection",
+      "Polarization",
+      "Dispersion",
+      "Resonance",
+      "Doppler Effect"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Physics",
+    "difficulty": "medium",
+    "id": "93e4b2b0-5960-4f96-9cc5-f0771858a649",
+    "created_at": "2025-04-13T22:07:39.260Z",
+    "backupTimestamp": "2025-04-13T22:07:39.260Z",
+    "localBackupTimestamp": "2025-04-13T16:07:39.260Z"
+  },
+  {
+    "question": "What does the Heisenberg Uncertainty Principle state?",
+    "correct_answer": "It is impossible to simultaneously know the exact position and momentum of a particle",
+    "incorrect_answers": [
+      "Energy levels in atoms are quantized",
+      "Particles can behave as waves",
+      "No two electrons can have the same set of quantum numbers",
+      "Energy is conserved in quantum interactions",
+      "The speed of light is constant for all observers",
+      "Gravity is caused by the curvature of spacetime",
+      "Entropy always increases in an isolated system"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Physics",
+    "difficulty": "hard",
+    "id": "fde60526-56d3-4e6d-b978-d9dfafbc0ca5",
+    "created_at": "2025-04-13T22:07:39.262Z",
+    "backupTimestamp": "2025-04-13T22:07:39.263Z",
+    "localBackupTimestamp": "2025-04-13T16:07:39.263Z"
+  },
+  {
+    "question": "What set of four equations forms the foundation of classical electromagnetism?",
+    "correct_answer": "Maxwell's Equations",
+    "incorrect_answers": [
+      "Newton's Laws of Motion",
+      "Laws of Thermodynamics",
+      "Einstein's Field Equations",
+      "Schrödinger Equation",
+      "Ideal Gas Laws",
+      "Kirchhoff's Circuit Laws",
+      "Navier-Stokes Equations"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Physics",
+    "difficulty": "hard",
+    "id": "c6a8e883-c2bc-43e8-97f7-0e7cb5108bcc",
+    "created_at": "2025-04-13T22:07:39.265Z",
+    "backupTimestamp": "2025-04-13T22:07:39.266Z",
+    "localBackupTimestamp": "2025-04-13T16:07:39.266Z"
+  },
+  {
+    "question": "What is the name for the hypothetical particles that travel faster than light?",
+    "correct_answer": "Tachyons",
+    "incorrect_answers": [
+      "Tardions",
+      "Luxons",
+      "Neutrinos",
+      "Axions",
+      "WIMPs",
+      "Gravitons",
+      "Monopoles"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Physics",
+    "difficulty": "hard",
+    "id": "595d0f28-9aa7-4e43-89f5-53c4f0c0e4d9",
+    "created_at": "2025-04-13T22:07:39.269Z",
+    "backupTimestamp": "2025-04-13T22:07:39.269Z",
+    "localBackupTimestamp": "2025-04-13T16:07:39.269Z"
+  },
+  {
+    "question": "What principle states that the pressure of a fluid decreases as its speed increases?",
+    "correct_answer": "Bernoulli's Principle",
+    "incorrect_answers": [
+      "Archimedes' Principle",
+      "Pascal's Principle",
+      "Torricelli's Law",
+      "Poiseuille's Law",
+      "Venturi Effect",
+      "Continuity Equation",
+      "Ideal Gas Law"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Physics",
+    "difficulty": "hard",
+    "id": "3cc906c4-0180-4859-b684-9ab22238996c",
+    "created_at": "2025-04-13T22:07:39.271Z",
+    "backupTimestamp": "2025-04-13T22:07:39.272Z",
+    "localBackupTimestamp": "2025-04-13T16:07:39.272Z"
+  },
+  {
+    "question": "What phenomenon describes the quantization of electron energy levels in atoms?",
+    "correct_answer": "Atomic Spectra / Bohr Model Postulates",
+    "incorrect_answers": [
+      "Photoelectric Effect",
+      "Compton Scattering",
+      "Blackbody Radiation",
+      "Wave-Particle Duality",
+      "Uncertainty Principle",
+      "Zeeman Effect",
+      "Rutherford Scattering"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Physics",
+    "difficulty": "hard",
+    "id": "f3528369-bf0a-4a25-9d64-f65e903a68f5",
+    "created_at": "2025-04-13T22:07:39.274Z",
+    "backupTimestamp": "2025-04-13T22:07:39.274Z",
+    "localBackupTimestamp": "2025-04-13T16:07:39.274Z"
+  },
+  {
+    "question": "What is the term for the time required for half of the radioactive nuclei in a sample to decay?",
+    "correct_answer": "Half-life",
+    "incorrect_answers": [
+      "Mean Lifetime",
+      "Decay Constant",
+      "Activity",
+      "Decay Rate",
+      "Exposure Time",
+      "Critical Mass",
+      "Binding Energy"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Physics",
+    "difficulty": "hard",
+    "id": "cc1c1bd6-0496-4af8-bfe8-7285dbdbcd50",
+    "created_at": "2025-04-13T22:07:39.276Z",
+    "backupTimestamp": "2025-04-13T22:07:39.276Z",
+    "localBackupTimestamp": "2025-04-13T16:07:39.276Z"
+  },
+  {
+    "question": "What type of fundamental particle includes electrons, muons, taus, and their associated neutrinos?",
+    "correct_answer": "Leptons",
+    "incorrect_answers": [
+      "Quarks",
+      "Bosons",
+      "Hadrons",
+      "Baryons",
+      "Mesons",
+      "Fermions (broader)",
+      "Gauge Bosons"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Physics",
+    "difficulty": "hard",
+    "id": "9714666a-0bef-4ec9-89b4-c4b2c54298ac",
+    "created_at": "2025-04-13T22:07:39.278Z",
+    "backupTimestamp": "2025-04-13T22:07:39.279Z",
+    "localBackupTimestamp": "2025-04-13T16:07:39.279Z"
+  },
+  {
+    "question": "What law describes the induced electromotive force (voltage) in a circuit due to a changing magnetic flux?",
+    "correct_answer": "Faraday's Law of Induction",
+    "incorrect_answers": [
+      "Lenz's Law",
+      "Ampère's Law",
+      "Gauss's Law for Magnetism",
+      "Ohm's Law",
+      "Biot-Savart Law",
+      "Lorentz Force Law",
+      "Maxwell-Faraday Equation"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Physics",
+    "difficulty": "hard",
+    "id": "df77ead1-4450-4dae-80f8-7d3f0114f07d",
+    "created_at": "2025-04-13T22:07:39.281Z",
+    "backupTimestamp": "2025-04-13T22:07:39.281Z",
+    "localBackupTimestamp": "2025-04-13T16:07:39.281Z"
+  },
+  {
+    "question": "What is the property of a lens or mirror that causes different colors of light to focus at different points?",
+    "correct_answer": "Chromatic Aberration",
+    "incorrect_answers": [
+      "Spherical Aberration",
+      "Coma",
+      "Astigmatism",
+      "Field Curvature",
+      "Distortion",
+      "Dispersion",
+      "Diffraction Limit"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Physics",
+    "difficulty": "hard",
+    "id": "c49d674a-4df5-49a9-a8b3-fa2f37a148ed",
+    "created_at": "2025-04-13T22:07:39.283Z",
+    "backupTimestamp": "2025-04-13T22:07:39.283Z",
+    "localBackupTimestamp": "2025-04-13T16:07:39.283Z"
+  },
+  {
+    "question": "What theoretical framework attempts to unify quantum mechanics and general relativity?",
+    "correct_answer": "Quantum Gravity (e.g., String Theory, Loop Quantum Gravity)",
+    "incorrect_answers": [
+      "Standard Model of Particle Physics",
+      "Grand Unified Theory (GUT)",
+      "Theory of Everything (TOE)",
+      "Special Relativity",
+      "General Relativity",
+      "Quantum Field Theory",
+      "Supersymmetry"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Physics",
+    "difficulty": "hard",
+    "id": "1b287a56-91f2-474c-9d66-0991e88bffba",
+    "created_at": "2025-04-13T22:07:39.285Z",
+    "backupTimestamp": "2025-04-13T22:07:39.285Z",
+    "localBackupTimestamp": "2025-04-13T16:07:39.285Z"
+  },
+  {
+    "question": "What is the phenomenon where a superconductor expels magnetic fields from its interior?",
+    "correct_answer": "Meissner Effect",
+    "incorrect_answers": [
+      "Hall Effect",
+      "Josephson Effect",
+      "Quantum Tunneling",
+      "Zero Resistance",
+      "Cooper Pairing",
+      "Flux Quantization",
+      "BCS Theory"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Physics",
+    "difficulty": "hard",
+    "id": "b960db52-6c91-4931-ac20-402e0c2c3520",
+    "created_at": "2025-04-13T22:07:39.288Z",
+    "backupTimestamp": "2025-04-13T22:07:39.288Z",
+    "localBackupTimestamp": "2025-04-13T16:07:39.288Z"
+  },
+  {
+    "question": "What is the Lagrangian function used for in classical mechanics?",
+    "correct_answer": "To derive the equations of motion using the principle of least action (L = T - V)",
+    "incorrect_answers": [
+      "To calculate the total energy of a system",
+      "To determine the momentum of a system",
+      "To describe the potential energy landscape",
+      "To model dissipative forces like friction",
+      "To calculate thermodynamic properties",
+      "To solve for quantum mechanical wavefunctions",
+      "To analyze chaotic systems"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Physics",
+    "difficulty": "hard",
+    "id": "ca720c75-1c94-4b2d-9d50-a46360bcc1b9",
+    "created_at": "2025-04-13T22:07:39.290Z",
+    "backupTimestamp": "2025-04-13T22:07:39.291Z",
+    "localBackupTimestamp": "2025-04-13T16:07:39.291Z"
+  },
+  {
+    "question": "What type of particle are quarks and leptons classified as, according to their spin?",
+    "correct_answer": "Fermions",
+    "incorrect_answers": [
+      "Bosons",
+      "Hadrons",
+      "Mesons",
+      "Baryons",
+      "Gauge Bosons",
+      "Scalar Bosons",
+      "Anyons"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Physics",
+    "difficulty": "hard",
+    "id": "b4593d12-7093-4d82-8ceb-ffe662518fad",
+    "created_at": "2025-04-13T22:07:39.293Z",
+    "backupTimestamp": "2025-04-13T22:07:39.293Z",
+    "localBackupTimestamp": "2025-04-13T16:07:39.293Z"
+  },
+  {
+    "question": "What is the name for the faint microwave radiation filling the universe, believed to be leftover from the Big Bang?",
+    "correct_answer": "Cosmic Microwave Background (CMB)",
+    "incorrect_answers": [
+      "Dark Energy",
+      "Dark Matter",
+      "Neutrino Background",
+      "Gravitational Wave Background",
+      "Hawking Radiation",
+      "Synchrotron Radiation",
+      "Zodiacal Light"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Physics",
+    "difficulty": "hard",
+    "id": "624f2eaa-3255-4666-bc47-a9ad41b27e45",
+    "created_at": "2025-04-13T22:07:39.295Z",
+    "backupTimestamp": "2025-04-13T22:07:39.295Z",
+    "localBackupTimestamp": "2025-04-13T16:07:39.295Z"
+  },
+  {
+    "question": "What principle states that no two identical fermions can occupy the same quantum state simultaneously?",
+    "correct_answer": "Pauli Exclusion Principle",
+    "incorrect_answers": [
+      "Heisenberg Uncertainty Principle",
+      "Aufbau Principle",
+      "Hund's Rule",
+      "Bohr Model Postulates",
+      "Correspondence Principle",
+      "Principle of Superposition",
+      "Conservation of Lepton Number"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Physics",
+    "difficulty": "hard",
+    "id": "a3d4a271-6cfd-4a3e-b29a-59bb9c54331f",
+    "created_at": "2025-04-13T22:07:39.297Z",
+    "backupTimestamp": "2025-04-13T22:07:39.297Z",
+    "localBackupTimestamp": "2025-04-13T16:07:39.297Z"
+  },
+  {
+    "question": "What effect describes the splitting of spectral lines when an atom is placed in a magnetic field?",
+    "correct_answer": "Zeeman Effect",
+    "incorrect_answers": [
+      "Stark Effect",
+      "Photoelectric Effect",
+      "Compton Effect",
+      "Doppler Effect",
+      "Raman Effect",
+      "Auger Effect",
+      "Paschen-Back Effect"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Physics",
+    "difficulty": "hard",
+    "id": "0dc1b0de-ce76-4ab9-b95a-3d1cfd457770",
+    "created_at": "2025-04-13T22:07:39.299Z",
+    "backupTimestamp": "2025-04-13T22:07:39.300Z",
+    "localBackupTimestamp": "2025-04-13T16:07:39.300Z"
+  },
+  {
+    "question": "In thermodynamics, what is a process that occurs at constant temperature called?",
+    "correct_answer": "Isothermal Process",
+    "incorrect_answers": [
+      "Adiabatic Process",
+      "Isobaric Process",
+      "Isochoric (Isovolumetric) Process",
+      "Isentropic Process",
+      "Polytropic Process",
+      "Cyclic Process",
+      "Reversible Process"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Physics",
+    "difficulty": "hard",
+    "id": "7380cd90-0fe5-4f23-85fb-737d4b6f2260",
+    "created_at": "2025-04-13T22:07:39.302Z",
+    "backupTimestamp": "2025-04-13T22:07:39.302Z",
+    "localBackupTimestamp": "2025-04-13T16:07:39.302Z"
+  },
+  {
+    "question": "What is the name for the point beyond which a supermassive star collapses under its own gravity, forming a black hole?",
+    "correct_answer": "Schwarzschild Radius / Event Horizon",
+    "incorrect_answers": [
+      "Chandrasekhar Limit",
+      "Tolman-Oppenheimer-Volkoff Limit",
+      "Roche Limit",
+      "Lagrangian Point",
+      "Singularity",
+      "Accretion Disk",
+      "Photon Sphere"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Physics",
+    "difficulty": "hard",
+    "id": "4dc8613a-6a03-478a-8cb9-ff83043f7c18",
+    "created_at": "2025-04-13T22:07:39.304Z",
+    "backupTimestamp": "2025-04-13T22:07:39.304Z",
+    "localBackupTimestamp": "2025-04-13T16:07:39.304Z"
+  },
+  {
+    "question": "What fundamental interaction is responsible for beta decay?",
+    "correct_answer": "Weak Nuclear Force",
+    "incorrect_answers": [
+      "Strong Nuclear Force",
+      "Electromagnetic Force",
+      "Gravitational Force",
+      "Nuclear Fission",
+      "Nuclear Fusion",
+      "Radioactivity (general)",
+      "Pair Production"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Physics",
+    "difficulty": "hard",
+    "id": "d81d608b-a131-4bed-9c0a-b2ccacc8a31d",
+    "created_at": "2025-04-13T22:07:39.307Z",
+    "backupTimestamp": "2025-04-13T22:07:39.307Z",
+    "localBackupTimestamp": "2025-04-13T16:07:39.307Z"
+  },
+  {
+    "question": "What term describes the flow of a fluid in which the velocity at any given point varies erratically?",
+    "correct_answer": "Turbulent Flow",
+    "incorrect_answers": [
+      "Laminar Flow",
+      "Inviscid Flow",
+      "Compressible Flow",
+      "Potential Flow",
+      "Steady Flow",
+      "Irrotational Flow",
+      "Viscous Flow"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Physics",
+    "difficulty": "hard",
+    "id": "f93f9329-2712-4d3e-9faa-1b052864bad4",
+    "created_at": "2025-04-13T22:07:39.309Z",
+    "backupTimestamp": "2025-04-13T22:07:39.309Z",
+    "localBackupTimestamp": "2025-04-13T16:07:39.309Z"
+  },
+  {
+    "question": "What is the Hamiltonian function used for in classical and quantum mechanics?",
+    "correct_answer": "To represent the total energy of a system (H = T + V) and generate time evolution",
+    "incorrect_answers": [
+      "To describe the kinetic energy only",
+      "To describe the potential energy only",
+      "To calculate the entropy of a system",
+      "To derive equations of motion via least action (Lagrangian)",
+      "To determine the momentum conservation",
+      "To model frictional forces",
+      "To calculate partition functions"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Physics",
+    "difficulty": "hard",
+    "id": "5eca58cf-c7db-4d9e-bc3b-4dea05d8e849",
+    "created_at": "2025-04-13T22:07:39.311Z",
+    "backupTimestamp": "2025-04-13T22:07:39.311Z",
+    "localBackupTimestamp": "2025-04-13T16:07:39.311Z"
+  },
+  {
+    "question": "What phenomenon allows particles to pass through potential energy barriers even if they don't have enough energy to overcome them classically?",
+    "correct_answer": "Quantum Tunneling",
+    "incorrect_answers": [
+      "Photoelectric Effect",
+      "Uncertainty Principle",
+      "Wave-Particle Duality",
+      "Superposition",
+      "Quantum Entanglement",
+      "Zero-Point Energy",
+      "Compton Scattering"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Physics",
+    "difficulty": "hard",
+    "id": "304a4972-68f9-42a8-8d4a-2d32b3c32456",
+    "created_at": "2025-04-13T22:07:39.313Z",
+    "backupTimestamp": "2025-04-13T22:07:39.313Z",
+    "localBackupTimestamp": "2025-04-13T16:07:39.313Z"
+  },
+  {
+    "question": "What is the Casimir effect?",
+    "correct_answer": "A physical force arising from quantum vacuum fluctuations between closely spaced surfaces",
+    "incorrect_answers": [
+      "The emission of electrons from heated materials",
+      "The bending of light around massive objects",
+      "The change in resistance of a material in a magnetic field",
+      "The generation of voltage due to temperature differences",
+      "The expulsion of magnetic fields by superconductors",
+      "The creation of particle-antiparticle pairs from energy",
+      "The quantization of magnetic flux"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Physics",
+    "difficulty": "hard",
+    "id": "244c63fc-f70c-431d-bc8f-e474423892a0",
+    "created_at": "2025-04-13T22:07:39.315Z",
+    "backupTimestamp": "2025-04-13T22:07:39.316Z",
+    "localBackupTimestamp": "2025-04-13T16:07:39.316Z"
+  },
+  {
+    "question": "What type of elementary particle is responsible for carrying the weak nuclear force?",
+    "correct_answer": "W and Z bosons",
+    "incorrect_answers": [
+      "Gluons",
+      "Photons",
+      "Gravitons",
+      "Higgs boson",
+      "Leptons",
+      "Quarks",
+      "Mesons"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Physics",
+    "difficulty": "hard",
+    "id": "9b40dca1-0e47-4342-a587-0d1b9c7184cf",
+    "created_at": "2025-04-13T22:07:39.317Z",
+    "backupTimestamp": "2025-04-13T22:07:39.318Z",
+    "localBackupTimestamp": "2025-04-13T16:07:39.318Z"
+  },
+  {
+    "question": "What equation relates the change in internal energy of a system to the heat added and the work done?",
+    "correct_answer": "First Law of Thermodynamics (ΔU = Q - W or ΔU = Q + W depending on convention)",
+    "incorrect_answers": [
+      "Ideal Gas Law (PV=nRT)",
+      "Carnot Efficiency Formula",
+      "Boltzmann Entropy Formula (S=k ln W)",
+      "Clausius-Clapeyron Equation",
+      "Maxwell Relations",
+      "Stefan-Boltzmann Law",
+      "Wien's Displacement Law"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Physics",
+    "difficulty": "hard",
+    "id": "51eac238-577f-4ea3-9f9f-acd6633b8d6d",
+    "created_at": "2025-04-13T22:07:39.320Z",
+    "backupTimestamp": "2025-04-13T22:07:39.320Z",
+    "localBackupTimestamp": "2025-04-13T16:07:39.320Z"
+  },
+  {
+    "question": "What is the term for the alignment of the oscillation direction of light waves?",
+    "correct_answer": "Polarization",
+    "incorrect_answers": [
+      "Interference",
+      "Diffraction",
+      "Refraction",
+      "Dispersion",
+      "Coherence",
+      "Monochromaticity",
+      "Collimation"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Physics",
+    "difficulty": "hard",
+    "id": "bd18b932-9df5-470a-81b6-22db2b9a2943",
+    "created_at": "2025-04-13T22:07:39.323Z",
+    "backupTimestamp": "2025-04-13T22:07:39.323Z",
+    "localBackupTimestamp": "2025-04-13T16:07:39.323Z"
+  },
+  {
+    "question": "What is Hawking radiation?",
+    "correct_answer": "Theoretical thermal radiation predicted to be emitted by black holes due to quantum effects near the event horizon",
+    "incorrect_answers": [
+      "Cosmic Microwave Background radiation",
+      "Synchrotron radiation from charged particles",
+      "Radiation emitted during radioactive decay",
+      "Electromagnetic waves from the Sun",
+      "Neutrino oscillations",
+      "Gravitational waves from merging black holes",
+      "Cherenkov radiation"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Physics",
+    "difficulty": "hard",
+    "id": "e42c64e1-d620-44e7-8537-5c2ea6337a21",
+    "created_at": "2025-04-13T22:07:39.325Z",
+    "backupTimestamp": "2025-04-13T22:07:39.325Z",
+    "localBackupTimestamp": "2025-04-13T16:07:39.325Z"
+  },
+  {
+    "question": "What does the term 'spintronics' refer to?",
+    "correct_answer": "The study and exploitation of electron spin in addition to its charge in solid-state devices",
+    "incorrect_answers": [
+      "The study of nuclear spin resonance",
+      "Electronics based on superconductors",
+      "The physics of spinning celestial bodies",
+      "Technology using optical fibers",
+      "Quantum computing based on trapped ions",
+      "Miniaturization of electronic components",
+      "Thermal management in electronics"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Physics",
+    "difficulty": "hard",
+    "id": "7478a09b-603e-486e-ba0f-9080e4c4a413",
+    "created_at": "2025-04-13T22:07:39.327Z",
+    "backupTimestamp": "2025-04-13T22:07:39.327Z",
+    "localBackupTimestamp": "2025-04-13T16:07:39.327Z"
+  },
+  {
+    "question": "What is the Chandrasekhar limit?",
+    "correct_answer": "The maximum mass of a stable white dwarf star",
+    "incorrect_answers": [
+      "The minimum mass for a star to ignite fusion",
+      "The maximum mass of a neutron star",
+      "The radius of a black hole's event horizon",
+      "The distance within which a celestial body will disintegrate due to tidal forces",
+      "The critical density required for the universe to be flat",
+      "The upper limit on the speed of information transfer",
+      "The minimum energy of a quantum harmonic oscillator"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Physics",
+    "difficulty": "hard",
+    "id": "12447d2a-b368-46d5-ae73-3d23dd38ef0c",
+    "created_at": "2025-04-13T22:07:39.329Z",
+    "backupTimestamp": "2025-04-13T22:07:39.329Z",
+    "localBackupTimestamp": "2025-04-13T16:07:39.329Z"
+  },
+  {
+    "question": "What is Cherenkov radiation?",
+    "correct_answer": "Electromagnetic radiation emitted when a charged particle passes through a dielectric medium faster than the phase velocity of light in that medium",
+    "incorrect_answers": [
+      "Radiation from accelerating charged particles (synchrotron)",
+      "Blackbody radiation from a heated object",
+      "Radiation from radioactive decay",
+      "Thermal radiation from black holes (Hawking)",
+      "Scattered radiation with a change in wavelength (Raman)",
+      "Light emitted during chemical reactions (chemiluminescence)",
+      "Microwave radiation leftover from the Big Bang (CMB)"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Physics",
+    "difficulty": "hard",
+    "id": "031f88fd-5800-4040-8e0b-3a1d0e0a0944",
+    "created_at": "2025-04-13T22:07:39.331Z",
+    "backupTimestamp": "2025-04-13T22:07:39.332Z",
+    "localBackupTimestamp": "2025-04-13T16:07:39.332Z"
+  },
+  {
+    "question": "What quantity is conserved according to Noether's theorem if a system has time translation symmetry?",
+    "correct_answer": "Energy",
+    "incorrect_answers": [
+      "Linear Momentum",
+      "Angular Momentum",
+      "Electric Charge",
+      "Baryon Number",
+      "Lepton Number",
+      "Parity",
+      "Entropy"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Physics",
+    "difficulty": "hard",
+    "id": "d279620b-f8c4-45b9-9f0c-63fe92f84d38",
+    "created_at": "2025-04-13T22:07:39.333Z",
+    "backupTimestamp": "2025-04-13T22:07:39.334Z",
+    "localBackupTimestamp": "2025-04-13T16:07:39.334Z"
+  },
+  {
+    "question": "What is the term for a material that can conduct electricity with zero resistance below a certain critical temperature?",
+    "correct_answer": "Superconductor",
+    "incorrect_answers": [
+      "Semiconductor",
+      "Insulator",
+      "Conductor",
+      "Perfect Conductor",
+      "Topological Insulator",
+      "Thermoelectric Material",
+      "Piezoelectric Material"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Physics",
+    "difficulty": "hard",
+    "id": "2c4d10cf-f2ea-4554-be38-cd88ab091642",
+    "created_at": "2025-04-13T22:07:39.335Z",
+    "backupTimestamp": "2025-04-13T22:07:39.336Z",
+    "localBackupTimestamp": "2025-04-13T16:07:39.336Z"
+  },
+  {
+    "question": "What is the name of the effect where the resistance of some materials changes when exposed to a magnetic field?",
+    "correct_answer": "Magnetoresistance (including GMR, TMR, etc.)",
+    "incorrect_answers": [
+      "Hall Effect",
+      "Seebeck Effect",
+      "Peltier Effect",
+      "Photoelectric Effect",
+      "Piezoelectric Effect",
+      "Meissner Effect",
+      "Shubnikov–de Haas effect"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Physics",
+    "difficulty": "hard",
+    "id": "b5484b24-d118-43f7-a47e-189788925a09",
+    "created_at": "2025-04-13T22:07:39.338Z",
+    "backupTimestamp": "2025-04-13T22:07:39.338Z",
+    "localBackupTimestamp": "2025-04-13T16:07:39.338Z"
+  },
+  {
+    "question": "What hypothetical state of matter is thought to exist at extremely high temperatures and densities, where quarks and gluons are deconfined?",
+    "correct_answer": "Quark-Gluon Plasma",
+    "incorrect_answers": [
+      "Bose-Einstein Condensate",
+      "Neutron Degenerate Matter",
+      "Electron Degenerate Matter",
+      "Superfluid",
+      "Supersolid",
+      "Liquid Crystal",
+      "Strange Matter"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Physics",
+    "difficulty": "hard",
+    "id": "82f37893-72c9-4bdd-97d7-19ed70a3896f",
+    "created_at": "2025-04-13T22:07:39.341Z",
+    "backupTimestamp": "2025-04-13T22:07:39.341Z",
+    "localBackupTimestamp": "2025-04-13T16:07:39.341Z"
+  },
+  {
+    "question": "What is the study of the behavior of matter and energy at atomic and subatomic levels called?",
+    "correct_answer": "Quantum Mechanics / Quantum Physics",
+    "incorrect_answers": [
+      "Classical Mechanics",
+      "Statistical Mechanics",
+      "Thermodynamics",
+      "Electromagnetism",
+      "Relativity",
+      "Nuclear Physics",
+      "Particle Physics"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Physics",
+    "difficulty": "hard",
+    "id": "2b53ec3e-ed5a-4282-b886-d6e742ce81c9",
+    "created_at": "2025-04-13T22:07:39.343Z",
+    "backupTimestamp": "2025-04-13T22:07:39.343Z",
+    "localBackupTimestamp": "2025-04-13T16:07:39.343Z"
+  },
+  {
+    "question": "What is the name for the dimensionless quantity that characterizes the strength of the electromagnetic interaction?",
+    "correct_answer": "Fine-structure constant (α)",
+    "incorrect_answers": [
+      "Planck constant (h)",
+      "Elementary charge (e)",
+      "Speed of light (c)",
+      "Boltzmann constant (k)",
+      "Gravitational constant (G)",
+      "Avogadro's number (Nₐ)",
+      "Rydberg constant (R∞)"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Physics",
+    "difficulty": "hard",
+    "id": "aa094ece-ef2c-4ec7-9ad7-cf5e80575f5f",
+    "created_at": "2025-04-13T22:07:39.345Z",
+    "backupTimestamp": "2025-04-13T22:07:39.345Z",
+    "localBackupTimestamp": "2025-04-13T16:07:39.345Z"
+  },
+  {
+    "question": "What law relates the voltage across an inductor to the rate of change of current through it?",
+    "correct_answer": "Faraday's Law (as applied to inductors, V = L di/dt)",
+    "incorrect_answers": [
+      "Ohm's Law",
+      "Lenz's Law",
+      "Ampère's Law",
+      "Kirchhoff's Voltage Law",
+      "Thevenin's Theorem",
+      "Norton's Theorem",
+      "Capacitor Law (I = C dv/dt)"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Physics",
+    "difficulty": "hard",
+    "id": "af92f8dd-0c27-4325-8a75-830cf34c25b5",
+    "created_at": "2025-04-13T22:07:39.347Z",
+    "backupTimestamp": "2025-04-13T22:07:39.347Z",
+    "localBackupTimestamp": "2025-04-13T16:07:39.347Z"
+  },
+  {
+    "question": "What is the name of the effect that causes a rotating object (like Earth) to deflect moving objects (like air currents) sideways?",
+    "correct_answer": "Coriolis Effect",
+    "incorrect_answers": [
+      "Centrifugal Force",
+      "Centripetal Force",
+      "Magnus Effect",
+      "Doppler Effect",
+      "Precession",
+      "Nutation",
+      "Frame-dragging"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Physics",
+    "difficulty": "hard",
+    "id": "58cd8a45-dcb2-465a-b4ab-c970ca5863be",
+    "created_at": "2025-04-13T22:07:39.349Z",
+    "backupTimestamp": "2025-04-13T22:07:39.350Z",
+    "localBackupTimestamp": "2025-04-13T16:07:39.350Z"
+  },
+  {
+    "question": "What is Brownian motion?",
+    "correct_answer": "The random movement of particles suspended in a fluid resulting from their collision with fast-moving molecules",
+    "incorrect_answers": [
+      "The tendency of systems to increase entropy",
+      "The flow of heat from hotter to colder objects",
+      "The diffusion of particles from high to low concentration",
+      "The oscillation of particles in a wave",
+      "The movement of electrons in a conductor",
+      "The rotation of polarized light",
+      "The orbital motion of planets"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Physics",
+    "difficulty": "hard",
+    "id": "a1cf1bb5-c145-4bcd-a29c-f985addec795",
+    "created_at": "2025-04-13T22:07:39.351Z",
+    "backupTimestamp": "2025-04-13T22:07:39.352Z",
+    "localBackupTimestamp": "2025-04-13T16:07:39.352Z"
+  },
+  {
+    "question": "What is the process responsible for the 'twinkling' of stars as seen from Earth?",
+    "correct_answer": "Atmospheric Scintillation (caused by turbulence/refraction)",
+    "incorrect_answers": [
+      "Stellar Aberration",
+      "Doppler Shift",
+      "Gravitational Lensing",
+      "Interstellar Dust Absorption",
+      "Intrinsic Stellar Variability",
+      "Atmospheric Dispersion",
+      "Light Pollution"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Physics",
+    "difficulty": "hard",
+    "id": "26c9674b-f637-47ad-b9d6-3978b94d9edb",
+    "created_at": "2025-04-13T22:07:39.354Z",
+    "backupTimestamp": "2025-04-13T22:07:39.354Z",
+    "localBackupTimestamp": "2025-04-13T16:07:39.354Z"
+  },
+  {
+    "question": "What type of force holds quarks together within protons and neutrons?",
+    "correct_answer": "Strong Nuclear Force (via gluons)",
+    "incorrect_answers": [
+      "Weak Nuclear Force",
+      "Electromagnetic Force",
+      "Gravitational Force",
+      "Color Force",
+      "Van der Waals Force",
+      "Nuclear Binding Energy",
+      "Residual Strong Force"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Physics",
+    "difficulty": "hard",
+    "id": "df1b6577-78a2-4612-ae56-c04033d8bbc5",
+    "created_at": "2025-04-13T22:07:39.357Z",
+    "backupTimestamp": "2025-04-13T22:07:39.357Z",
+    "localBackupTimestamp": "2025-04-13T16:07:39.357Z"
+  },
+  {
+    "question": "What is the phenomenon where the measured properties of entangled particles remain correlated even when separated by large distances?",
+    "correct_answer": "Quantum Entanglement",
+    "incorrect_answers": [
+      "Quantum Superposition",
+      "Quantum Tunneling",
+      "Wave-Particle Duality",
+      "Heisenberg Uncertainty Principle",
+      "Quantum Decoherence",
+      "Bell's Theorem Violation",
+      "Quantum Teleportation"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Physics",
+    "difficulty": "hard",
+    "id": "44def375-38bb-434f-a50e-7833b7a634c4",
+    "created_at": "2025-04-13T22:07:39.359Z",
+    "backupTimestamp": "2025-04-13T22:07:39.359Z",
+    "localBackupTimestamp": "2025-04-13T16:07:39.359Z"
+  },
+  {
+    "question": "What is the term for the theoretical temperature at which all classical molecular motion ceases?",
+    "correct_answer": "Absolute Zero (0 Kelvin)",
+    "incorrect_answers": [
+      "Freezing Point of Water (0 Celsius)",
+      "Boiling Point of Water (100 Celsius)",
+      "Triple Point of Water",
+      "Critical Temperature",
+      "Planck Temperature",
+      "Room Temperature",
+      "-273.15 Fahrenheit"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Physics",
+    "difficulty": "hard",
+    "id": "1d9ca631-05a3-4d0e-8ace-375fe31598b6",
+    "created_at": "2025-04-13T22:07:39.361Z",
+    "backupTimestamp": "2025-04-13T22:07:39.361Z",
+    "localBackupTimestamp": "2025-04-13T16:07:39.361Z"
+  },
+  {
+    "question": "What is the definition of Mach number?",
+    "correct_answer": "The ratio of an object's speed to the speed of sound in the surrounding medium",
+    "incorrect_answers": [
+      "The ratio of fluid density to a reference density",
+      "The ratio of inertial forces to viscous forces (Reynolds number)",
+      "The ratio of kinetic energy to potential energy",
+      "The measure of a fluid's compressibility",
+      "The speed required to escape a gravitational field",
+      "A unit of frequency",
+      "The strength of a shock wave"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Physics",
+    "difficulty": "hard",
+    "id": "a149b8fd-3aab-41fa-b5a5-1d666a1c01b0",
+    "created_at": "2025-04-13T22:07:39.363Z",
+    "backupTimestamp": "2025-04-13T22:07:39.364Z",
+    "localBackupTimestamp": "2025-04-13T16:07:39.364Z"
+  },
+  {
+    "question": "What is the Stefan-Boltzmann law related to?",
+    "correct_answer": "The total radiant heat energy emitted from a surface is proportional to the fourth power of its absolute temperature",
+    "incorrect_answers": [
+      "The relationship between pressure and volume of a gas",
+      "The peak wavelength of blackbody radiation",
+      "The quantization of energy",
+      "The probability distribution of particle speeds in a gas",
+      "The increase of entropy in isolated systems",
+      "The conservation of energy",
+      "The diffusion of particles"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Physics",
+    "difficulty": "hard",
+    "id": "a0dc15a9-ad3f-426a-8b3d-c4c2f0ae1d38",
+    "created_at": "2025-04-13T22:07:39.365Z",
+    "backupTimestamp": "2025-04-13T22:07:39.366Z",
+    "localBackupTimestamp": "2025-04-13T16:07:39.366Z"
+  },
+  {
+    "question": "Which particle is its own antiparticle?",
+    "correct_answer": "Photon / Z boson / Majorana Fermion (hypothetical)",
+    "incorrect_answers": [
+      "Electron",
+      "Proton",
+      "Neutron",
+      "Neutrino",
+      "Positron",
+      "Antiproton",
+      "Muon"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Physics",
+    "difficulty": "hard",
+    "id": "055679d5-7e8f-41ca-a6a3-84c59b5455d3",
+    "created_at": "2025-04-13T22:07:39.368Z",
+    "backupTimestamp": "2025-04-13T22:07:39.369Z",
+    "localBackupTimestamp": "2025-04-13T16:07:39.369Z"
+  },
+  {
+    "question": "What does the term 'adiabatic process' mean in thermodynamics?",
+    "correct_answer": "A process occurring without transfer of heat or mass between the system and its surroundings",
+    "incorrect_answers": [
+      "A process occurring at constant temperature (isothermal)",
+      "A process occurring at constant pressure (isobaric)",
+      "A process occurring at constant volume (isochoric)",
+      "A process occurring at constant entropy (isentropic)",
+      "A process that is reversible",
+      "A process that returns to its initial state (cyclic)",
+      "A process involving phase change"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Physics",
+    "difficulty": "hard",
+    "id": "e926c639-b9b5-4aee-b29b-279536299c69",
+    "created_at": "2025-04-13T22:07:39.371Z",
+    "backupTimestamp": "2025-04-13T22:07:39.372Z",
+    "localBackupTimestamp": "2025-04-13T16:07:39.372Z"
+  },
+  {
+    "question": "What physical law governs the force between two stationary electrically charged particles?",
+    "correct_answer": "Coulomb's Law",
+    "incorrect_answers": [
+      "Newton's Law of Universal Gravitation",
+      "Ohm's Law",
+      "Ampère's Law",
+      "Gauss's Law",
+      "Lorentz Force Law",
+      "Biot-Savart Law",
+      "Faraday's Law of Induction"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Physics",
+    "difficulty": "hard",
+    "id": "d3b7a550-cc64-4669-9ee3-efbf57d75414",
+    "created_at": "2025-04-13T22:07:39.375Z",
+    "backupTimestamp": "2025-04-13T22:07:39.375Z",
+    "localBackupTimestamp": "2025-04-13T16:07:39.375Z"
+  },
+  {
+    "question": "What is the name for the resistance encountered by an object moving through a fluid (like air or water)?",
+    "correct_answer": "Drag",
+    "incorrect_answers": [
+      "Lift",
+      "Thrust",
+      "Weight",
+      "Friction",
+      "Buoyancy",
+      "Viscosity",
+      "Inertia"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Physics",
+    "difficulty": "hard",
+    "id": "21cafc51-5535-42f4-9772-f882dda93ca4",
+    "created_at": "2025-04-13T22:07:39.377Z",
+    "backupTimestamp": "2025-04-13T22:07:39.377Z",
+    "localBackupTimestamp": "2025-04-13T16:07:39.377Z"
   }
 ]
