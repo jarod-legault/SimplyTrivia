@@ -33,14 +33,13 @@ interface ErrorData {
 }
 
 interface AnswerInQuestion {
-  question: {
-    id: string;
+  newQuestion: {
     question: string;
-    mainCategory: string;
+    main_category: string;
     subcategory: string;
     difficulty: string;
-    correctAnswer: string;
-    incorrectAnswers: string[];
+    correct_answer: string;
+    incorrect_answers: string[] | string;
   };
   reason: string;
   answer: string;
@@ -300,7 +299,7 @@ export default function QuestionsPage() {
 
       if (result.success) {
         setAnswersInQuestions((prev) =>
-          prev.filter((q) => q.question.question !== question.question)
+          prev.filter((q) => q.newQuestion.question !== question.question)
         );
 
         if (answersInQuestions.length <= 1) {
@@ -585,8 +584,8 @@ export default function QuestionsPage() {
 
             <ScrollView style={styles.duplicatesContainer}>
               {answersInQuestions.map((item, index) => {
-                // Skip rendering if item or question is undefined
-                if (!item?.question) {
+                // Skip rendering if item or newQuestion is undefined
+                if (!item?.newQuestion) {
                   console.warn(`Invalid item at index ${index}:`, item);
                   return null;
                 }
@@ -596,23 +595,23 @@ export default function QuestionsPage() {
                     <View style={styles.questionComparison}>
                       <View style={styles.questionBox}>
                         <Text style={styles.questionLabel}>Question:</Text>
-                        <Text style={styles.questionText}>{item.question.question}</Text>
+                        <Text style={styles.questionText}>{item.newQuestion.question}</Text>
                         <Text style={styles.questionMeta}>
-                          Category: {item.question.mainCategory || 'N/A'}-
-                          {item.question.subcategory || 'N/A'} | Difficulty:{' '}
-                          {item.question.difficulty || 'N/A'}
+                          Category: {item.newQuestion.main_category || 'N/A'}-
+                          {item.newQuestion.subcategory || 'N/A'} | Difficulty:{' '}
+                          {item.newQuestion.difficulty || 'N/A'}
                         </Text>
                         <View style={styles.answersContainer}>
                           <Text style={styles.answerLabel}>Answers:</Text>
                           <Text style={styles.correctAnswerText}>
-                            ✓ Correct: {item.question.correctAnswer || 'N/A'}
+                            ✓ Correct: {item.newQuestion.correct_answer || 'N/A'}
                           </Text>
                           {(() => {
                             try {
                               const incorrectAnswers =
-                                typeof item.question.incorrectAnswers === 'string'
-                                  ? JSON.parse(item.question.incorrectAnswers)
-                                  : item.question.incorrectAnswers || [];
+                                typeof item.newQuestion.incorrect_answers === 'string'
+                                  ? JSON.parse(item.newQuestion.incorrect_answers)
+                                  : item.newQuestion.incorrect_answers || [];
 
                               return incorrectAnswers.map((answer: string, idx: number) => (
                                 <Text key={idx} style={styles.incorrectAnswerText}>
@@ -635,7 +634,7 @@ export default function QuestionsPage() {
 
                     <View style={styles.duplicateActions}>
                       <Pressable
-                        onPress={() => handleAnswerInQuestionApproval(item.question, true)}
+                        onPress={() => handleAnswerInQuestionApproval(item.newQuestion, true)}
                         style={({ pressed }) => [
                           styles.button,
                           styles.approveButton,
@@ -645,7 +644,7 @@ export default function QuestionsPage() {
                       </Pressable>
                       <View style={styles.buttonSpacing} />
                       <Pressable
-                        onPress={() => handleAnswerInQuestionApproval(item.question, false)}
+                        onPress={() => handleAnswerInQuestionApproval(item.newQuestion, false)}
                         style={({ pressed }) => [
                           styles.button,
                           styles.rejectButton,
