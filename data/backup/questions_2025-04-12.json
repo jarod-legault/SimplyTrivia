@@ -9398,5 +9398,3205 @@
     "created_at": "2025-04-13T01:52:27.282Z",
     "backupTimestamp": "2025-04-13T01:52:27.282Z",
     "localBackupTimestamp": "2025-04-12T19:52:27.282Z"
+  },
+  {
+    "question": "What Broadway musical tells the story of Alexander Hamilton using hip-hop, jazz, R&B, and Broadway show tunes?",
+    "correct_answer": "Hamilton",
+    "incorrect_answers": [
+      "Wicked",
+      "Les Misérables",
+      "The Phantom of the Opera",
+      "Rent",
+      "Cats",
+      "Dear Evan Hansen",
+      "Book of Mormon"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Broadway musicals",
+    "difficulty": "easy",
+    "id": "84629ccc-de1d-4f1c-9c46-a847467439dd",
+    "created_at": "2025-04-13T02:03:07.390Z",
+    "backupTimestamp": "2025-04-13T02:03:07.393Z",
+    "localBackupTimestamp": "2025-04-12T20:03:07.393Z"
+  },
+  {
+    "question": "Which musical features the iconic song 'Defying Gravity' sung by Elphaba?",
+    "correct_answer": "Wicked",
+    "incorrect_answers": [
+      "Frozen",
+      "Rent",
+      "The Lion King",
+      "Phantom of the Opera",
+      "Les Misérables",
+      "Hamilton",
+      "Chicago"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Broadway musicals",
+    "difficulty": "easy",
+    "id": "bec93d2b-963e-46d9-8b1e-b1719b41c705",
+    "created_at": "2025-04-13T02:03:07.407Z",
+    "backupTimestamp": "2025-04-13T02:03:07.408Z",
+    "localBackupTimestamp": "2025-04-12T20:03:07.408Z"
+  },
+  {
+    "question": "What long-running musical features a masked figure haunting the Paris Opera House?",
+    "correct_answer": "The Phantom of the Opera",
+    "incorrect_answers": [
+      "Les Misérables",
+      "Wicked",
+      "Cats",
+      "Chicago",
+      "Moulin Rouge!",
+      "Sweeney Todd",
+      "Jekyll & Hyde"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Broadway musicals",
+    "difficulty": "easy",
+    "id": "9b8a198d-e445-450d-baaa-5a1143518f98",
+    "created_at": "2025-04-13T02:03:07.411Z",
+    "backupTimestamp": "2025-04-13T02:03:07.412Z",
+    "localBackupTimestamp": "2025-04-12T20:03:07.412Z"
+  },
+  {
+    "question": "Which Disney movie was adapted into a hugely successful Broadway musical featuring puppetry and African rhythms?",
+    "correct_answer": "The Lion King",
+    "incorrect_answers": [
+      "Aladdin",
+      "Beauty and the Beast",
+      "The Little Mermaid",
+      "Frozen",
+      "Tarzan",
+      "Mary Poppins",
+      "Hercules"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Broadway musicals",
+    "difficulty": "easy",
+    "id": "5a95e69c-b5ac-4df8-ad23-dd7d11e56ca9",
+    "created_at": "2025-04-13T02:03:07.416Z",
+    "backupTimestamp": "2025-04-13T02:03:07.416Z",
+    "localBackupTimestamp": "2025-04-12T20:03:07.416Z"
+  },
+  {
+    "question": "What musical, based on a Victor Hugo novel, includes songs like 'I Dreamed a Dream' and 'One Day More'?",
+    "correct_answer": "Les Misérables",
+    "incorrect_answers": [
+      "The Hunchback of Notre Dame",
+      "Phantom of the Opera",
+      "Miss Saigon",
+      "Evita",
+      "Sweeney Todd",
+      "Into the Woods",
+      "Wicked"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Broadway musicals",
+    "difficulty": "easy",
+    "id": "9e1f66bc-3ede-4209-9653-bf1a33d30a07",
+    "created_at": "2025-04-13T02:03:07.420Z",
+    "backupTimestamp": "2025-04-13T02:03:07.421Z",
+    "localBackupTimestamp": "2025-04-12T20:03:07.421Z"
+  },
+  {
+    "question": "Which musical is centered around the lives of struggling artists in New York City's East Village during the AIDS epidemic?",
+    "correct_answer": "Rent",
+    "incorrect_answers": [
+      "Hair",
+      "A Chorus Line",
+      "Company",
+      "West Side Story",
+      "In the Heights",
+      "Spring Awakening",
+      "Tick, Tick... Boom!"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Broadway musicals",
+    "difficulty": "easy",
+    "id": "2508ce0b-bfdb-4fd1-894b-7b407bb89c24",
+    "created_at": "2025-04-13T02:03:07.424Z",
+    "backupTimestamp": "2025-04-13T02:03:07.424Z",
+    "localBackupTimestamp": "2025-04-12T20:03:07.424Z"
+  },
+  {
+    "question": "What Andrew Lloyd Webber musical features felines competing to ascend to the 'Heaviside Layer'?",
+    "correct_answer": "Cats",
+    "incorrect_answers": [
+      "The Phantom of the Opera",
+      "Evita",
+      "Jesus Christ Superstar",
+      "Joseph and the Amazing Technicolor Dreamcoat",
+      "Sunset Boulevard",
+      "Starlight Express",
+      "School of Rock"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Broadway musicals",
+    "difficulty": "easy",
+    "id": "d7fb7ec6-7215-4cca-b788-6cb9e1503e92",
+    "created_at": "2025-04-13T02:03:07.427Z",
+    "backupTimestamp": "2025-04-13T02:03:07.427Z",
+    "localBackupTimestamp": "2025-04-12T20:03:07.427Z"
+  },
+  {
+    "question": "Which musical is set in 1920s Chicago and features characters like Roxie Hart and Velma Kelly?",
+    "correct_answer": "Chicago",
+    "incorrect_answers": [
+      "Cabaret",
+      "Guys and Dolls",
+      "Anything Goes",
+      "42nd Street",
+      "Thoroughly Modern Millie",
+      "Annie",
+      "Ragtime"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Broadway musicals",
+    "difficulty": "easy",
+    "id": "724e7d02-209f-4276-afc1-965ea872f9f6",
+    "created_at": "2025-04-13T02:03:07.430Z",
+    "backupTimestamp": "2025-04-13T02:03:07.431Z",
+    "localBackupTimestamp": "2025-04-12T20:03:07.431Z"
+  },
+  {
+    "question": "What musical tells the story of two Mormon missionaries sent to Uganda?",
+    "correct_answer": "The Book of Mormon",
+    "incorrect_answers": [
+      "Avenue Q",
+      "Spamalot",
+      "Hamilton",
+      "Rent",
+      "Wicked",
+      "Kinky Boots",
+      "Dear Evan Hansen"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Broadway musicals",
+    "difficulty": "easy",
+    "id": "6774a048-2c74-44f0-9103-ad70a80a9b31",
+    "created_at": "2025-04-13T02:03:07.433Z",
+    "backupTimestamp": "2025-04-13T02:03:07.433Z",
+    "localBackupTimestamp": "2025-04-12T20:03:07.433Z"
+  },
+  {
+    "question": "Which musical is based on the story of 'The Wizard of Oz' but told from the perspective of the witches?",
+    "correct_answer": "Wicked",
+    "incorrect_answers": [
+      "The Wiz",
+      "Into the Woods",
+      "Once Upon a Mattress",
+      "Camelot",
+      "Shrek The Musical",
+      "Beauty and the Beast",
+      "Spamalot"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Broadway musicals",
+    "difficulty": "easy",
+    "id": "b750dca7-d2d1-4ead-8ae8-de10306c8963",
+    "created_at": "2025-04-13T02:03:07.436Z",
+    "backupTimestamp": "2025-04-13T02:03:07.436Z",
+    "localBackupTimestamp": "2025-04-12T20:03:07.436Z"
+  },
+  {
+    "question": "What musical follows the story of Tracy Turnblad, a plump teenager who dreams of dancing on a local TV show in 1960s Baltimore?",
+    "correct_answer": "Hairspray",
+    "incorrect_answers": [
+      "Grease",
+      "Footloose",
+      "Bye Bye Birdie",
+      "West Side Story",
+      "Dreamgirls",
+      "Memphis",
+      "Jersey Boys"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Broadway musicals",
+    "difficulty": "easy",
+    "id": "f7b4e23f-6569-46e0-b9fc-d264548f0823",
+    "created_at": "2025-04-13T02:03:07.438Z",
+    "backupTimestamp": "2025-04-13T02:03:07.439Z",
+    "localBackupTimestamp": "2025-04-12T20:03:07.439Z"
+  },
+  {
+    "question": "Which ABBA jukebox musical is set on a Greek island and centers around a daughter's quest to find her father?",
+    "correct_answer": "Mamma Mia!",
+    "incorrect_answers": [
+      "Jersey Boys",
+      "Rock of Ages",
+      "Movin' Out",
+      "American Idiot",
+      "We Will Rock You",
+      "All Shook Up",
+      "& Juliet"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Broadway musicals",
+    "difficulty": "easy",
+    "id": "b85ca082-a122-4bd2-819e-c19030204756",
+    "created_at": "2025-04-13T02:03:07.441Z",
+    "backupTimestamp": "2025-04-13T02:03:07.441Z",
+    "localBackupTimestamp": "2025-04-12T20:03:07.441Z"
+  },
+  {
+    "question": "What musical features the song 'Tomorrow' sung by a hopeful red-headed orphan?",
+    "correct_answer": "Annie",
+    "incorrect_answers": [
+      "Oliver!",
+      "The Sound of Music",
+      "Matilda the Musical",
+      "Billy Elliot the Musical",
+      "Newsies",
+      "Mary Poppins",
+      "Into the Woods"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Broadway musicals",
+    "difficulty": "easy",
+    "id": "12f340b5-7073-4277-a2db-2b5d72081bce",
+    "created_at": "2025-04-13T02:03:07.443Z",
+    "backupTimestamp": "2025-04-13T02:03:07.444Z",
+    "localBackupTimestamp": "2025-04-12T20:03:07.444Z"
+  },
+  {
+    "question": "Which musical is based on the 1952 film of the same name and features iconic songs like 'Make 'Em Laugh' and the title number performed in the rain?",
+    "correct_answer": "Singin' in the Rain",
+    "incorrect_answers": [
+      "An American in Paris",
+      "42nd Street",
+      "Crazy for You",
+      "White Christmas",
+      "Meet Me in St. Louis",
+      "Top Hat",
+      "The Band Wagon"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Broadway musicals",
+    "difficulty": "easy",
+    "id": "72cb51b5-b229-4870-bf9d-12a0054b8c58",
+    "created_at": "2025-04-13T02:03:07.447Z",
+    "backupTimestamp": "2025-04-13T02:03:07.447Z",
+    "localBackupTimestamp": "2025-04-12T20:03:07.447Z"
+  },
+  {
+    "question": "What Stephen Sondheim musical intertwines the plots of several Brothers Grimm fairy tales?",
+    "correct_answer": "Into the Woods",
+    "incorrect_answers": [
+      "Sweeney Todd",
+      "Company",
+      "Sunday in the Park with George",
+      "A Little Night Music",
+      "Follies",
+      "Passion",
+      "Assassins"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Broadway musicals",
+    "difficulty": "easy",
+    "id": "64e838f1-e5c4-4311-91d2-f8d153ab407b",
+    "created_at": "2025-04-13T02:03:07.449Z",
+    "backupTimestamp": "2025-04-13T02:03:07.449Z",
+    "localBackupTimestamp": "2025-04-12T20:03:07.449Z"
+  },
+  {
+    "question": "Which musical tells the story of the von Trapp family singers and their escape from Austria during World War II?",
+    "correct_answer": "The Sound of Music",
+    "incorrect_answers": [
+      "Cabaret",
+      "Fiddler on the Roof",
+      "Evita",
+      "Les Misérables",
+      "Miss Saigon",
+      "South Pacific",
+      "The King and I"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Broadway musicals",
+    "difficulty": "easy",
+    "id": "ddc50687-877c-45c1-bdd2-5bd9edd4e57b",
+    "created_at": "2025-04-13T02:03:07.451Z",
+    "backupTimestamp": "2025-04-13T02:03:07.451Z",
+    "localBackupTimestamp": "2025-04-12T20:03:07.451Z"
+  },
+  {
+    "question": "What musical, with music by Andrew Lloyd Webber, tells the story of Eva Perón?",
+    "correct_answer": "Evita",
+    "incorrect_answers": [
+      "Cats",
+      "The Phantom of the Opera",
+      "Jesus Christ Superstar",
+      "Sunset Boulevard",
+      "Joseph and the Amazing Technicolor Dreamcoat",
+      "Aspects of Love",
+      "Starlight Express"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Broadway musicals",
+    "difficulty": "easy",
+    "id": "d443e40c-a60d-43b5-abdf-2021bf6a603a",
+    "created_at": "2025-04-13T02:03:07.453Z",
+    "backupTimestamp": "2025-04-13T02:03:07.454Z",
+    "localBackupTimestamp": "2025-04-12T20:03:07.454Z"
+  },
+  {
+    "question": "Which musical updates the story of Romeo and Juliet to 1950s New York City, featuring rival gangs, the Jets and the Sharks?",
+    "correct_answer": "West Side Story",
+    "incorrect_answers": [
+      "Grease",
+      "Guys and Dolls",
+      "Hair",
+      "Rent",
+      "In the Heights",
+      "Bye Bye Birdie",
+      "On the Town"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Broadway musicals",
+    "difficulty": "easy",
+    "id": "aed51c32-da1d-4743-b21b-92428390f728",
+    "created_at": "2025-04-13T02:03:07.456Z",
+    "backupTimestamp": "2025-04-13T02:03:07.456Z",
+    "localBackupTimestamp": "2025-04-12T20:03:07.456Z"
+  },
+  {
+    "question": "What musical, featuring songs like 'Seasons of Love', won the Pulitzer Prize for Drama?",
+    "correct_answer": "Rent",
+    "incorrect_answers": [
+      "Hamilton",
+      "Next to Normal",
+      "A Chorus Line",
+      "Sunday in the Park with George",
+      "How to Succeed in Business Without Really Trying",
+      "South Pacific",
+      "Of Thee I Sing"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Broadway musicals",
+    "difficulty": "easy",
+    "id": "4a9931c8-7d83-4867-b8da-9805bfe33c0d",
+    "created_at": "2025-04-13T02:03:07.458Z",
+    "backupTimestamp": "2025-04-13T02:03:07.458Z",
+    "localBackupTimestamp": "2025-04-12T20:03:07.458Z"
+  },
+  {
+    "question": "Which musical features a high school student caught in a web of lies after a classmate's suicide?",
+    "correct_answer": "Dear Evan Hansen",
+    "incorrect_answers": [
+      "Mean Girls",
+      "Heathers: The Musical",
+      "Spring Awakening",
+      "Be More Chill",
+      "Next to Normal",
+      "Bare: A Pop Opera",
+      "Carrie: The Musical"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Broadway musicals",
+    "difficulty": "easy",
+    "id": "8ca9f3fb-49f7-4258-940e-2d60bbb5d521",
+    "created_at": "2025-04-13T02:03:07.460Z",
+    "backupTimestamp": "2025-04-13T02:03:07.460Z",
+    "localBackupTimestamp": "2025-04-12T20:03:07.460Z"
+  },
+  {
+    "question": "What rock musical tells the story of Jesus Christ's final days, with music by Andrew Lloyd Webber and lyrics by Tim Rice?",
+    "correct_answer": "Jesus Christ Superstar",
+    "incorrect_answers": [
+      "Godspell",
+      "Joseph and the Amazing Technicolor Dreamcoat",
+      "Evita",
+      "Hair",
+      "Rent",
+      "Tommy",
+      "Children of Eden"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Broadway musicals",
+    "difficulty": "easy",
+    "id": "a81cd55e-a708-4883-880f-f853d01a0ab1",
+    "created_at": "2025-04-13T02:03:07.462Z",
+    "backupTimestamp": "2025-04-13T02:03:07.462Z",
+    "localBackupTimestamp": "2025-04-12T20:03:07.462Z"
+  },
+  {
+    "question": "Which musical is based on the life and music of Frankie Valli and The Four Seasons?",
+    "correct_answer": "Jersey Boys",
+    "incorrect_answers": [
+      "Mamma Mia!",
+      "Beautiful: The Carole King Musical",
+      "Ain't Too Proud",
+      "Motown: The Musical",
+      "All Shook Up",
+      "Buddy – The Buddy Holly Story",
+      "Tina: The Tina Turner Musical"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Broadway musicals",
+    "difficulty": "easy",
+    "id": "14f9a433-c7d1-4e7e-b0bc-7c18801d68b5",
+    "created_at": "2025-04-13T02:03:07.464Z",
+    "backupTimestamp": "2025-04-13T02:03:07.465Z",
+    "localBackupTimestamp": "2025-04-12T20:03:07.465Z"
+  },
+  {
+    "question": "What musical features puppets interacting with human actors and includes songs like 'Everyone's a Little Bit Racist'?",
+    "correct_answer": "Avenue Q",
+    "incorrect_answers": [
+      "The Lion King",
+      "Sesame Street Live",
+      "War Horse (Play)",
+      "Little Shop of Horrors",
+      "Spamalot",
+      "Book of Mormon",
+      "Shrek The Musical"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Broadway musicals",
+    "difficulty": "easy",
+    "id": "0adcce24-d8ad-4f7a-bc47-7535f7e53b0d",
+    "created_at": "2025-04-13T02:03:07.467Z",
+    "backupTimestamp": "2025-04-13T02:03:07.468Z",
+    "localBackupTimestamp": "2025-04-12T20:03:07.468Z"
+  },
+  {
+    "question": "Which musical comedy is a parody of the Arthurian legend, based on the film 'Monty Python and the Holy Grail'?",
+    "correct_answer": "Spamalot",
+    "incorrect_answers": [
+      "Camelot",
+      "Something Rotten!",
+      "A Funny Thing Happened on the Way to the Forum",
+      "The Producers",
+      "Book of Mormon",
+      "Shrek The Musical",
+      "Into the Woods"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Broadway musicals",
+    "difficulty": "easy",
+    "id": "2d3a3c19-33bd-47cd-912e-84345a3d92e8",
+    "created_at": "2025-04-13T02:03:07.470Z",
+    "backupTimestamp": "2025-04-13T02:03:07.470Z",
+    "localBackupTimestamp": "2025-04-12T20:03:07.470Z"
+  },
+  {
+    "question": "What musical tells the story of Tevye, a Jewish milkman dealing with tradition and change in early 20th-century Russia?",
+    "correct_answer": "Fiddler on the Roof",
+    "incorrect_answers": [
+      "Les Misérables",
+      "Ragtime",
+      "The Sound of Music",
+      "Cabaret",
+      "Yentl",
+      "Milk and Honey",
+      "Rags"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Broadway musicals",
+    "difficulty": "easy",
+    "id": "ffa4e33c-54a5-44a6-a5b3-9b5de6e97468",
+    "created_at": "2025-04-13T02:03:07.472Z",
+    "backupTimestamp": "2025-04-13T02:03:07.472Z",
+    "localBackupTimestamp": "2025-04-12T20:03:07.472Z"
+  },
+  {
+    "question": "Which musical features the song 'Memory', sung by the character Grizabella?",
+    "correct_answer": "Cats",
+    "incorrect_answers": [
+      "Evita",
+      "The Phantom of the Opera",
+      "Sunset Boulevard",
+      "Les Misérables",
+      "Miss Saigon",
+      "Aspects of Love",
+      "Chess"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Broadway musicals",
+    "difficulty": "easy",
+    "id": "399a7cc7-b12a-4ede-b375-3ce07944e1e2",
+    "created_at": "2025-04-13T02:03:07.474Z",
+    "backupTimestamp": "2025-04-13T02:03:07.474Z",
+    "localBackupTimestamp": "2025-04-12T20:03:07.474Z"
+  },
+  {
+    "question": "What musical is set in the Kit Kat Klub in Berlin during the rise of the Nazi party?",
+    "correct_answer": "Cabaret",
+    "incorrect_answers": [
+      "Chicago",
+      "The Sound of Music",
+      "Evita",
+      "Fiddler on the Roof",
+      "Bent (Play)",
+      "Grand Hotel",
+      "Swing Time"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Broadway musicals",
+    "difficulty": "easy",
+    "id": "a3803f92-aaa2-4df0-89a3-596290af734e",
+    "created_at": "2025-04-13T02:03:07.477Z",
+    "backupTimestamp": "2025-04-13T02:03:07.478Z",
+    "localBackupTimestamp": "2025-04-12T20:03:07.478Z"
+  },
+  {
+    "question": "Which musical features a barber seeking revenge in Victorian London and includes the character Mrs. Lovett?",
+    "correct_answer": "Sweeney Todd: The Demon Barber of Fleet Street",
+    "incorrect_answers": [
+      "Oliver!",
+      "Les Misérables",
+      "Jekyll & Hyde",
+      "The Mystery of Edwin Drood",
+      "My Fair Lady",
+      "A Tale of Two Cities",
+      "Jack the Ripper: The Musical"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Broadway musicals",
+    "difficulty": "easy",
+    "id": "27894ff9-0be2-41b0-84b9-2a158e91bcd4",
+    "created_at": "2025-04-13T02:03:07.480Z",
+    "backupTimestamp": "2025-04-13T02:03:07.480Z",
+    "localBackupTimestamp": "2025-04-12T20:03:07.480Z"
+  },
+  {
+    "question": "What musical is based on George Bernard Shaw's play 'Pygmalion' and features Professor Henry Higgins teaching Eliza Doolittle?",
+    "correct_answer": "My Fair Lady",
+    "incorrect_answers": [
+      "Camelot",
+      "Gigi",
+      "The King and I",
+      "Oliver!",
+      "Hello, Dolly!",
+      "Funny Girl",
+      "She Loves Me"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Broadway musicals",
+    "difficulty": "easy",
+    "id": "067ad46f-c109-4a16-b44f-c50afe9077c7",
+    "created_at": "2025-04-13T02:03:07.482Z",
+    "backupTimestamp": "2025-04-13T02:03:07.483Z",
+    "localBackupTimestamp": "2025-04-12T20:03:07.483Z"
+  },
+  {
+    "question": "Which musical tells the story of P.T. Barnum and the creation of his famous circus?",
+    "correct_answer": "Barnum (Though The Greatest Showman is a more recent film musical)",
+    "incorrect_answers": [
+      "The Greatest Showman (Film)",
+      "Carnival!",
+      "Side Show",
+      "Pippin",
+      "Water for Elephants",
+      "Annie Get Your Gun",
+      "Jumbo"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Broadway musicals",
+    "difficulty": "easy",
+    "id": "f00b0d99-b650-44da-b6e4-518c977682b1",
+    "created_at": "2025-04-13T02:03:07.485Z",
+    "backupTimestamp": "2025-04-13T02:03:07.485Z",
+    "localBackupTimestamp": "2025-04-12T20:03:07.485Z"
+  },
+  {
+    "question": "What Disney musical features a princess with ice powers who sings 'Let It Go'?",
+    "correct_answer": "Frozen",
+    "incorrect_answers": [
+      "Wicked",
+      "The Little Mermaid",
+      "Beauty and the Beast",
+      "Tangled (Stage)",
+      "Anastasia",
+      "Thumbelina (Stage)",
+      "The Snow Queen (Stage)"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Broadway musicals",
+    "difficulty": "easy",
+    "id": "ef4c502b-621a-4df7-adae-0f19cabb2f76",
+    "created_at": "2025-04-13T02:03:07.487Z",
+    "backupTimestamp": "2025-04-13T02:03:07.487Z",
+    "localBackupTimestamp": "2025-04-12T20:03:07.487Z"
+  },
+  {
+    "question": "Which musical follows the story of young newspaper sellers in New York City at the turn of the 20th century?",
+    "correct_answer": "Newsies",
+    "incorrect_answers": [
+      "Oliver!",
+      "Annie",
+      "Ragtime",
+      "Billy Elliot the Musical",
+      "Les Misérables",
+      "Matilda the Musical",
+      "The Music Man"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Broadway musicals",
+    "difficulty": "easy",
+    "id": "cc8d3727-d13a-4fba-a798-1cc286bfbc4c",
+    "created_at": "2025-04-13T02:03:07.490Z",
+    "backupTimestamp": "2025-04-13T02:03:07.490Z",
+    "localBackupTimestamp": "2025-04-12T20:03:07.490Z"
+  },
+  {
+    "question": "What musical features the song 'All That Jazz'?",
+    "correct_answer": "Chicago",
+    "incorrect_answers": [
+      "Cabaret",
+      "Guys and Dolls",
+      "Kiss Me, Kate",
+      "Anything Goes",
+      "Fosse",
+      "Sweet Charity",
+      "Damn Yankees"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Broadway musicals",
+    "difficulty": "easy",
+    "id": "42d43d80-0757-4594-b2d1-69b5eafea9ac",
+    "created_at": "2025-04-13T02:03:07.495Z",
+    "backupTimestamp": "2025-04-13T02:03:07.495Z",
+    "localBackupTimestamp": "2025-04-12T20:03:07.495Z"
+  },
+  {
+    "question": "Which musical is a modern retelling of La Bohème?",
+    "correct_answer": "Rent",
+    "incorrect_answers": [
+      "Miss Saigon (Madama Butterfly)",
+      "West Side Story (Romeo and Juliet)",
+      "Aida (Opera Aida)",
+      "Moulin Rouge! (La Traviata/La Bohème elements)",
+      "My Fair Lady (Pygmalion)",
+      "Kiss Me, Kate (The Taming of the Shrew)",
+      "The Lion King (Hamlet)"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Broadway musicals",
+    "difficulty": "easy",
+    "id": "3660e00d-0613-4498-81ae-b7b7c3abbf5a",
+    "created_at": "2025-04-13T02:03:07.505Z",
+    "backupTimestamp": "2025-04-13T02:03:07.505Z",
+    "localBackupTimestamp": "2025-04-12T20:03:07.505Z"
+  },
+  {
+    "question": "What musical is based on the movie about a man who helps a struggling shoe factory by producing footwear for drag queens?",
+    "correct_answer": "Kinky Boots",
+    "incorrect_answers": [
+      "Priscilla, Queen of the Desert",
+      "La Cage aux Folles",
+      "Rent",
+      "Hedwig and the Angry Inch",
+      "Everybody's Talking About Jamie",
+      "Billy Elliot the Musical",
+      "The Full Monty"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Broadway musicals",
+    "difficulty": "easy",
+    "id": "3ab6b546-1c02-4d21-8cf8-220d491c0bf3",
+    "created_at": "2025-04-13T02:03:07.516Z",
+    "backupTimestamp": "2025-04-13T02:03:07.516Z",
+    "localBackupTimestamp": "2025-04-12T20:03:07.516Z"
+  },
+  {
+    "question": "Which musical features the high school cliques the Plastics and the character Regina George?",
+    "correct_answer": "Mean Girls",
+    "incorrect_answers": [
+      "Heathers: The Musical",
+      "Hairspray",
+      "Grease",
+      "Dear Evan Hansen",
+      "Bring It On: The Musical",
+      "Legally Blonde",
+      "Clueless: The Musical"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Broadway musicals",
+    "difficulty": "easy",
+    "id": "d21bef69-a92a-42fe-abdc-2673fe90f6d3",
+    "created_at": "2025-04-13T02:03:07.524Z",
+    "backupTimestamp": "2025-04-13T02:03:07.524Z",
+    "localBackupTimestamp": "2025-04-12T20:03:07.524Z"
+  },
+  {
+    "question": "What musical follows Elle Woods, a sorority girl who enrolls in Harvard Law School?",
+    "correct_answer": "Legally Blonde",
+    "incorrect_answers": [
+      "Mean Girls",
+      "Wicked",
+      "Bring It On: The Musical",
+      "Heathers: The Musical",
+      "Hairspray",
+      "Clueless: The Musical",
+      "Mamma Mia!"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Broadway musicals",
+    "difficulty": "easy",
+    "id": "498ec140-6021-4f9f-9ca2-a6cff5857fe2",
+    "created_at": "2025-04-13T02:03:07.536Z",
+    "backupTimestamp": "2025-04-13T02:03:07.536Z",
+    "localBackupTimestamp": "2025-04-12T20:03:07.536Z"
+  },
+  {
+    "question": "Which Lin-Manuel Miranda musical, predating Hamilton, is set in the Washington Heights neighborhood of New York City?",
+    "correct_answer": "In the Heights",
+    "incorrect_answers": [
+      "Rent",
+      "West Side Story",
+      "Bring It On: The Musical",
+      "Hamilton",
+      "On Your Feet!",
+      "21 Chump Street",
+      "Tick, Tick... Boom!"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Broadway musicals",
+    "difficulty": "easy",
+    "id": "3dcaf445-6b8d-4d63-a04b-4770aba9e116",
+    "created_at": "2025-04-13T02:03:07.550Z",
+    "backupTimestamp": "2025-04-13T02:03:07.551Z",
+    "localBackupTimestamp": "2025-04-12T20:03:07.551Z"
+  },
+  {
+    "question": "What musical, based on Roald Dahl's book, features a young girl with telekinetic powers?",
+    "correct_answer": "Matilda the Musical",
+    "incorrect_answers": [
+      "Annie",
+      "Charlie and the Chocolate Factory",
+      "James and the Giant Peach",
+      "Wicked",
+      "Carrie: The Musical",
+      "The Secret Garden",
+      "Chitty Chitty Bang Bang"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Broadway musicals",
+    "difficulty": "easy",
+    "id": "2c28da51-94a1-43df-8d7d-00c269b50a3f",
+    "created_at": "2025-04-13T02:03:07.557Z",
+    "backupTimestamp": "2025-04-13T02:03:07.558Z",
+    "localBackupTimestamp": "2025-04-12T20:03:07.558Z"
+  },
+  {
+    "question": "Which musical tells the story of Belle, a young woman imprisoned in a castle by a monstrous prince?",
+    "correct_answer": "Beauty and the Beast",
+    "incorrect_answers": [
+      "The Phantom of the Opera",
+      "Cinderella",
+      "Into the Woods",
+      "Shrek The Musical",
+      "Wicked",
+      "The Little Mermaid",
+      "Camelot"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Broadway musicals",
+    "difficulty": "easy",
+    "id": "c642d775-bea2-4e55-9cf2-badf1f27d069",
+    "created_at": "2025-04-13T02:03:07.564Z",
+    "backupTimestamp": "2025-04-13T02:03:07.565Z",
+    "localBackupTimestamp": "2025-04-12T20:03:07.565Z"
+  },
+  {
+    "question": "What Cole Porter musical is set aboard an ocean liner and features songs like 'Anything Goes' and 'I Get a Kick Out of You'?",
+    "correct_answer": "Anything Goes",
+    "incorrect_answers": [
+      "Kiss Me, Kate",
+      "Guys and Dolls",
+      "South Pacific",
+      "On the Town",
+      "Damn Yankees",
+      "Can-Can",
+      "High Society"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Broadway musicals",
+    "difficulty": "easy",
+    "id": "c9d83d55-48d7-44e6-9cd9-434c714e099a",
+    "created_at": "2025-04-13T02:03:07.570Z",
+    "backupTimestamp": "2025-04-13T02:03:07.570Z",
+    "localBackupTimestamp": "2025-04-12T20:03:07.570Z"
+  },
+  {
+    "question": "Which musical features the song 'Send in the Clowns'?",
+    "correct_answer": "A Little Night Music",
+    "incorrect_answers": [
+      "Company",
+      "Follies",
+      "Sweeney Todd",
+      "Gypsy",
+      "Sunday in the Park with George",
+      "Into the Woods",
+      "Passion"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Broadway musicals",
+    "difficulty": "easy",
+    "id": "671bae77-8815-4d1d-a1f2-635117db58d7",
+    "created_at": "2025-04-13T02:03:07.577Z",
+    "backupTimestamp": "2025-04-13T02:03:07.578Z",
+    "localBackupTimestamp": "2025-04-12T20:03:07.578Z"
+  },
+  {
+    "question": "What rock musical is based on Green Day's album of the same name?",
+    "correct_answer": "American Idiot",
+    "incorrect_answers": [
+      "Rock of Ages",
+      "Rent",
+      "Hair",
+      "Spring Awakening",
+      "Tommy",
+      "Jagged Little Pill",
+      "We Will Rock You"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Broadway musicals",
+    "difficulty": "easy",
+    "id": "6813ffd4-224f-493d-bbee-645fb1052a58",
+    "created_at": "2025-04-13T02:03:07.583Z",
+    "backupTimestamp": "2025-04-13T02:03:07.584Z",
+    "localBackupTimestamp": "2025-04-12T20:03:07.584Z"
+  },
+  {
+    "question": "Which musical features the song 'The Music of the Night'?",
+    "correct_answer": "The Phantom of the Opera",
+    "incorrect_answers": [
+      "Les Misérables",
+      "Cats",
+      "Evita",
+      "Sunset Boulevard",
+      "Jesus Christ Superstar",
+      "Miss Saigon",
+      "Aspects of Love"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Broadway musicals",
+    "difficulty": "easy",
+    "id": "d03e3e3b-50db-4447-8ce5-d417b712d50c",
+    "created_at": "2025-04-13T02:03:07.594Z",
+    "backupTimestamp": "2025-04-13T02:03:07.595Z",
+    "localBackupTimestamp": "2025-04-12T20:03:07.595Z"
+  },
+  {
+    "question": "What Rodgers and Hammerstein musical tells the story of a British governess in Siam?",
+    "correct_answer": "The King and I",
+    "incorrect_answers": [
+      "South Pacific",
+      "Oklahoma!",
+      "Carousel",
+      "The Sound of Music",
+      "Flower Drum Song",
+      "Cinderella",
+      "State Fair"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Broadway musicals",
+    "difficulty": "easy",
+    "id": "7e7cb8f9-4962-49b0-bc59-61ebf0f422c1",
+    "created_at": "2025-04-13T02:03:07.599Z",
+    "backupTimestamp": "2025-04-13T02:03:07.599Z",
+    "localBackupTimestamp": "2025-04-12T20:03:07.599Z"
+  },
+  {
+    "question": "Which musical is about a group of dancers auditioning for a Broadway show?",
+    "correct_answer": "A Chorus Line",
+    "incorrect_answers": [
+      "Fame",
+      "42nd Street",
+      "Chicago",
+      "Cabaret",
+      "Rent",
+      "Company",
+      "Applause"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Broadway musicals",
+    "difficulty": "easy",
+    "id": "5b1dc50d-de9e-4e8a-9f38-4cc2e3301895",
+    "created_at": "2025-04-13T02:03:07.604Z",
+    "backupTimestamp": "2025-04-13T02:03:07.605Z",
+    "localBackupTimestamp": "2025-04-12T20:03:07.605Z"
+  },
+  {
+    "question": "What Frank Loesser musical features gamblers, missionaries, and songs like 'Luck Be a Lady'?",
+    "correct_answer": "Guys and Dolls",
+    "incorrect_answers": [
+      "How to Succeed in Business Without Really Trying",
+      "The Most Happy Fella",
+      "Where's Charley?",
+      "Damn Yankees",
+      "Chicago",
+      "Anything Goes",
+      "Kiss Me, Kate"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Broadway musicals",
+    "difficulty": "easy",
+    "id": "a44afc4f-9d1b-47af-8024-4b7cdef86e52",
+    "created_at": "2025-04-13T02:03:07.611Z",
+    "backupTimestamp": "2025-04-13T02:03:07.611Z",
+    "localBackupTimestamp": "2025-04-12T20:03:07.611Z"
+  },
+  {
+    "question": "Which musical follows the historical figure Fanny Brice?",
+    "correct_answer": "Funny Girl",
+    "incorrect_answers": [
+      "Gypsy",
+      "Evita",
+      "Hello, Dolly!",
+      "Mame",
+      "Annie Get Your Gun",
+      "Sunset Boulevard",
+      "Victor/Victoria"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Broadway musicals",
+    "difficulty": "easy",
+    "id": "1ff4fac6-fade-47d2-883e-826e10870d15",
+    "created_at": "2025-04-13T02:03:07.616Z",
+    "backupTimestamp": "2025-04-13T02:03:07.618Z",
+    "localBackupTimestamp": "2025-04-12T20:03:07.618Z"
+  },
+  {
+    "question": "What musical features the song 'If I Were a Rich Man'?",
+    "correct_answer": "Fiddler on the Roof",
+    "incorrect_answers": [
+      "Les Misérables",
+      "Oliver!",
+      "My Fair Lady",
+      "Annie",
+      "Ragtime",
+      "The Producers",
+      "Camelot"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Broadway musicals",
+    "difficulty": "easy",
+    "id": "47a1caea-994c-4c6b-8c2e-6fb7382fcca4",
+    "created_at": "2025-04-13T02:03:07.628Z",
+    "backupTimestamp": "2025-04-13T02:03:07.630Z",
+    "localBackupTimestamp": "2025-04-12T20:03:07.630Z"
+  },
+  {
+    "question": "Which musical tells the story of a magical nanny who comes to work for the Banks family?",
+    "correct_answer": "Mary Poppins",
+    "incorrect_answers": [
+      "The Sound of Music",
+      "Nanny McPhee (Stage adaptation)",
+      "Chitty Chitty Bang Bang",
+      "Bedknobs and Broomsticks (Stage adaptation)",
+      "Annie",
+      "Matilda the Musical",
+      "Oliver!"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Broadway musicals",
+    "difficulty": "easy",
+    "id": "a1f8f8c3-dd2e-48c4-af77-150f7943fd1a",
+    "created_at": "2025-04-13T02:03:07.638Z",
+    "backupTimestamp": "2025-04-13T02:03:07.639Z",
+    "localBackupTimestamp": "2025-04-12T20:03:07.639Z"
+  },
+  {
+    "question": "What Tim Rice and Andrew Lloyd Webber musical is based on the biblical story of Joseph?",
+    "correct_answer": "Joseph and the Amazing Technicolor Dreamcoat",
+    "incorrect_answers": [
+      "Jesus Christ Superstar",
+      "Evita",
+      "Godspell",
+      "Children of Eden",
+      "The Prince of Egypt",
+      "Two by Two",
+      "Moses the Musical"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Broadway musicals",
+    "difficulty": "easy",
+    "id": "2dc70e96-2455-4da7-b839-e747756c3f25",
+    "created_at": "2025-04-13T02:03:07.644Z",
+    "backupTimestamp": "2025-04-13T02:03:07.645Z",
+    "localBackupTimestamp": "2025-04-12T20:03:07.645Z"
+  },
+  {
+    "question": "Which musical features the song 'You Will Be Found'?",
+    "correct_answer": "Dear Evan Hansen",
+    "incorrect_answers": [
+      "Hamilton",
+      "Wicked",
+      "Rent",
+      "Next to Normal",
+      "Be More Chill",
+      "Come From Away",
+      "Hadestown"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Broadway musicals",
+    "difficulty": "easy",
+    "id": "d85b3d3a-0b7c-4edd-b3e5-741034701960",
+    "created_at": "2025-04-13T02:03:07.648Z",
+    "backupTimestamp": "2025-04-13T02:03:07.648Z",
+    "localBackupTimestamp": "2025-04-12T20:03:07.648Z"
+  },
+  {
+    "question": "What musical is based on the songs of Queen?",
+    "correct_answer": "We Will Rock You",
+    "incorrect_answers": [
+      "Mamma Mia!",
+      "Rock of Ages",
+      "Jersey Boys",
+      "American Idiot",
+      "Movin' Out",
+      "Bohemian Rhapsody (Film)",
+      "Across the Universe (Film)"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Broadway musicals",
+    "difficulty": "easy",
+    "id": "6be4f8ba-e266-4c56-8037-28bd7f8643c7",
+    "created_at": "2025-04-13T02:03:07.654Z",
+    "backupTimestamp": "2025-04-13T02:03:07.655Z",
+    "localBackupTimestamp": "2025-04-12T20:03:07.655Z"
+  },
+  {
+    "question": "Which musical is set during the Vietnam War era and tells the story of a young American GI and a Vietnamese bar girl?",
+    "correct_answer": "Miss Saigon",
+    "incorrect_answers": [
+      "Hair",
+      "South Pacific",
+      "Les Misérables",
+      "Rent",
+      "Evita",
+      "Flower Drum Song",
+      "Dogfight"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Broadway musicals",
+    "difficulty": "easy",
+    "id": "e7895437-1ad8-4579-bb29-b6c70775ff22",
+    "created_at": "2025-04-13T02:03:07.658Z",
+    "backupTimestamp": "2025-04-13T02:03:07.658Z",
+    "localBackupTimestamp": "2025-04-12T20:03:07.658Z"
+  },
+  {
+    "question": "What musical features the song 'And I Am Telling You I'm Not Going'?",
+    "correct_answer": "Dreamgirls",
+    "incorrect_answers": [
+      "The Color Purple",
+      "Hairspray",
+      "Memphis",
+      "Motown: The Musical",
+      "Ain't Too Proud",
+      "Porgy and Bess",
+      "Show Boat"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Broadway musicals",
+    "difficulty": "easy",
+    "id": "2fd70acf-1b82-4258-a1e3-d1a795cb36b7",
+    "created_at": "2025-04-13T02:03:07.661Z",
+    "backupTimestamp": "2025-04-13T02:03:07.661Z",
+    "localBackupTimestamp": "2025-04-12T20:03:07.661Z"
+  },
+  {
+    "question": "What is the subtitle of the musical 'Sweeney Todd'?",
+    "correct_answer": "The Demon Barber of Fleet Street",
+    "incorrect_answers": [
+      "A Musical Thriller",
+      "The String of Pearls",
+      "A Dark Comedy",
+      "An Opera Macabre",
+      "Revenge on the Menu",
+      "The Tale of Benjamin Barker",
+      "London's Dark Secret"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Broadway musicals",
+    "difficulty": "medium",
+    "id": "7780adb6-ba92-4390-b68e-9efe0a3af973",
+    "created_at": "2025-04-13T02:03:07.663Z",
+    "backupTimestamp": "2025-04-13T02:03:07.664Z",
+    "localBackupTimestamp": "2025-04-12T20:03:07.664Z"
+  },
+  {
+    "question": "In 'Hamilton', which historical figure sings the song 'You'll Be Back'?",
+    "correct_answer": "King George III",
+    "incorrect_answers": [
+      "George Washington",
+      "Thomas Jefferson",
+      "Aaron Burr",
+      "Marquis de Lafayette",
+      "Hercules Mulligan",
+      "John Adams",
+      "Samuel Seabury"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Broadway musicals",
+    "difficulty": "medium",
+    "id": "d90cd9fc-f98b-45df-88d3-af5a997e327d",
+    "created_at": "2025-04-13T02:03:07.665Z",
+    "backupTimestamp": "2025-04-13T02:03:07.666Z",
+    "localBackupTimestamp": "2025-04-12T20:03:07.666Z"
+  },
+  {
+    "question": "What is the name of the plant that Seymour Krelborn cares for in 'Little Shop of Horrors'?",
+    "correct_answer": "Audrey II",
+    "incorrect_answers": [
+      "Audrey",
+      "Seymour Jr.",
+      "Twoey",
+      "Venus Flytrap",
+      "Mean Green Mother",
+      "Orin",
+      "Mushnik"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Broadway musicals",
+    "difficulty": "medium",
+    "id": "e78d31c1-a065-493a-be25-a0216898008f",
+    "created_at": "2025-04-13T02:03:07.669Z",
+    "backupTimestamp": "2025-04-13T02:03:07.669Z",
+    "localBackupTimestamp": "2025-04-12T20:03:07.669Z"
+  },
+  {
+    "question": "Which musical, with music and lyrics by Stephen Sondheim, explores the complexities of modern relationships through a series of vignettes centered around a bachelor named Bobby?",
+    "correct_answer": "Company",
+    "incorrect_answers": [
+      "Follies",
+      "A Little Night Music",
+      "Sunday in the Park with George",
+      "Into the Woods",
+      "Sweeney Todd",
+      "Merrily We Roll Along",
+      "Passion"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Broadway musicals",
+    "difficulty": "medium",
+    "id": "547df9a2-d5bc-410d-bcdb-8bce755bfa22",
+    "created_at": "2025-04-13T02:03:07.671Z",
+    "backupTimestamp": "2025-04-13T02:03:07.672Z",
+    "localBackupTimestamp": "2025-04-12T20:03:07.672Z"
+  },
+  {
+    "question": "In 'Wicked', what is the name of the wizard?",
+    "correct_answer": "The Wonderful Wizard of Oz (often just 'The Wizard')",
+    "incorrect_answers": [
+      "Doctor Dillamond",
+      "Fiyero Tigelaar",
+      "Boq",
+      "Elphaba Thropp",
+      "Nessarose Thropp",
+      "Madame Morrible",
+      "Frexspar Thropp"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Broadway musicals",
+    "difficulty": "medium",
+    "id": "b13c7dc1-573a-48d9-a544-e5335f27156b",
+    "created_at": "2025-04-13T02:03:07.674Z",
+    "backupTimestamp": "2025-04-13T02:03:07.674Z",
+    "localBackupTimestamp": "2025-04-12T20:03:07.674Z"
+  },
+  {
+    "question": "Which Rodgers and Hammerstein musical features the song 'Oh, What a Beautiful Mornin'' and is set in Oklahoma territory?",
+    "correct_answer": "Oklahoma!",
+    "incorrect_answers": [
+      "Carousel",
+      "South Pacific",
+      "The King and I",
+      "The Sound of Music",
+      "State Fair",
+      "Flower Drum Song",
+      "Pipe Dream"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Broadway musicals",
+    "difficulty": "medium",
+    "id": "e944e359-b145-4769-a8af-a58960871575",
+    "created_at": "2025-04-13T02:03:07.676Z",
+    "backupTimestamp": "2025-04-13T02:03:07.676Z",
+    "localBackupTimestamp": "2025-04-12T20:03:07.676Z"
+  },
+  {
+    "question": "What is the name of the character who sings 'On My Own' in 'Les Misérables'?",
+    "correct_answer": "Éponine",
+    "incorrect_answers": [
+      "Cosette",
+      "Fantine",
+      "Madame Thénardier",
+      "Javert",
+      "Marius Pontmercy",
+      "Jean Valjean",
+      "Enjolras"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Broadway musicals",
+    "difficulty": "medium",
+    "id": "66935427-24f2-4ae8-a519-127395327c5d",
+    "created_at": "2025-04-13T02:03:07.678Z",
+    "backupTimestamp": "2025-04-13T02:03:07.678Z",
+    "localBackupTimestamp": "2025-04-12T20:03:07.678Z"
+  },
+  {
+    "question": "Which musical is based on T.S. Eliot's poetry collection 'Old Possum's Book of Practical Cats'?",
+    "correct_answer": "Cats",
+    "incorrect_answers": [
+      "The Lion King",
+      "Into the Woods",
+      "Shrek The Musical",
+      "A Year with Frog and Toad",
+      "Seussical",
+      "The Wind in the Willows",
+      "Honk!"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Broadway musicals",
+    "difficulty": "medium",
+    "id": "5b8bbf19-cf3b-4298-b3b4-b0069c24db37",
+    "created_at": "2025-04-13T02:03:07.681Z",
+    "backupTimestamp": "2025-04-13T02:03:07.681Z",
+    "localBackupTimestamp": "2025-04-12T20:03:07.681Z"
+  },
+  {
+    "question": "In 'Chicago', what crime did Roxie Hart commit?",
+    "correct_answer": "Murdering her lover, Fred Casely",
+    "incorrect_answers": [
+      "Murdering her husband, Amos Hart",
+      "Bank robbery",
+      "Bootlegging",
+      "Perjury",
+      "Embezzlement",
+      "Assaulting Velma Kelly",
+      "Blackmail"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Broadway musicals",
+    "difficulty": "medium",
+    "id": "3b0f6efd-c097-4b50-9c4b-d2d5fb34e348",
+    "created_at": "2025-04-13T02:03:07.683Z",
+    "backupTimestamp": "2025-04-13T02:03:07.683Z",
+    "localBackupTimestamp": "2025-04-12T20:03:07.683Z"
+  },
+  {
+    "question": "What is the central theme explored in the musical 'Next to Normal'?",
+    "correct_answer": "Mental illness (specifically bipolar disorder) and its effect on a family",
+    "incorrect_answers": [
+      "Teenage suicide",
+      "Drug addiction",
+      "The AIDS epidemic",
+      "Racial injustice",
+      "Immigration",
+      "Climate change",
+      "Political corruption"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Broadway musicals",
+    "difficulty": "medium",
+    "id": "372092f0-dc60-4f6c-b908-33356aa2ddeb",
+    "created_at": "2025-04-13T02:03:07.685Z",
+    "backupTimestamp": "2025-04-13T02:03:07.686Z",
+    "localBackupTimestamp": "2025-04-12T20:03:07.686Z"
+  },
+  {
+    "question": "Which character sings 'The Room Where It Happens' in 'Hamilton'?",
+    "correct_answer": "Aaron Burr",
+    "incorrect_answers": [
+      "Alexander Hamilton",
+      "Thomas Jefferson",
+      "George Washington",
+      "James Madison",
+      "Angelica Schuyler",
+      "Eliza Hamilton",
+      "Marquis de Lafayette"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Broadway musicals",
+    "difficulty": "medium",
+    "id": "37e05e77-aa66-411a-b91e-6e31d0d2aef3",
+    "created_at": "2025-04-13T02:03:07.688Z",
+    "backupTimestamp": "2025-04-13T02:03:07.688Z",
+    "localBackupTimestamp": "2025-04-12T20:03:07.688Z"
+  },
+  {
+    "question": "What is the name of the composer of 'Rent' who tragically died before the show's first Off-Broadway preview?",
+    "correct_answer": "Jonathan Larson",
+    "incorrect_answers": [
+      "Stephen Sondheim",
+      "Andrew Lloyd Webber",
+      "Lin-Manuel Miranda",
+      "Stephen Schwartz",
+      "Marvin Hamlisch",
+      "Frank Loesser",
+      "Jason Robert Brown"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Broadway musicals",
+    "difficulty": "medium",
+    "id": "16841a04-9855-46ae-a9f7-ce100ec2224f",
+    "created_at": "2025-04-13T02:03:07.690Z",
+    "backupTimestamp": "2025-04-13T02:03:07.691Z",
+    "localBackupTimestamp": "2025-04-12T20:03:07.691Z"
+  },
+  {
+    "question": "In 'Fiddler on the Roof', what are the names of Tevye's three eldest daughters?",
+    "correct_answer": "Tzeitel, Hodel, and Chava",
+    "incorrect_answers": [
+      "Golde, Yente, and Fruma-Sarah",
+      "Shprintze, Bielke, and Motel",
+      "Leah, Rachel, and Rebecca",
+      "Esther, Judith, and Miriam",
+      "Sarah, Rivka, and Hannah",
+      "Anna, Elsa, and Olga",
+      "Maria, Liesl, and Louisa"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Broadway musicals",
+    "difficulty": "medium",
+    "id": "a901a7be-d460-4c19-95a2-3620dbd8049d",
+    "created_at": "2025-04-13T02:03:07.693Z",
+    "backupTimestamp": "2025-04-13T02:03:07.693Z",
+    "localBackupTimestamp": "2025-04-12T20:03:07.693Z"
+  },
+  {
+    "question": "Which musical tells the true story of how residents of Gander, Newfoundland, welcomed stranded airline passengers on 9/11?",
+    "correct_answer": "Come From Away",
+    "incorrect_answers": [
+      "Rent",
+      "Ragtime",
+      "Dear Evan Hansen",
+      "Next to Normal",
+      "Hamilton",
+      "Fun Home",
+      "Parade"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Broadway musicals",
+    "difficulty": "medium",
+    "id": "f7acb567-76fa-48e3-9326-b1c547b107e5",
+    "created_at": "2025-04-13T02:03:07.695Z",
+    "backupTimestamp": "2025-04-13T02:03:07.695Z",
+    "localBackupTimestamp": "2025-04-12T20:03:07.695Z"
+  },
+  {
+    "question": "What is the source material for the musical 'Hadestown'?",
+    "correct_answer": "Greek mythology (Orpheus and Eurydice, Hades and Persephone)",
+    "incorrect_answers": [
+      "A novel by Anaïs Mitchell",
+      "A Shakespearean play",
+      "The Bible",
+      "A historical event",
+      "A collection of poems",
+      "A children's book",
+      "An original concept album by Anaïs Mitchell"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Broadway musicals",
+    "difficulty": "medium",
+    "id": "66768f98-f4b7-459e-9ae5-a26727243097",
+    "created_at": "2025-04-13T02:03:07.697Z",
+    "backupTimestamp": "2025-04-13T02:03:07.698Z",
+    "localBackupTimestamp": "2025-04-12T20:03:07.698Z"
+  },
+  {
+    "question": "Which Bob Fosse choreographed musical features the songs 'Big Spender' and 'If My Friends Could See Me Now'?",
+    "correct_answer": "Sweet Charity",
+    "incorrect_answers": [
+      "Chicago",
+      "Cabaret",
+      "Pippin",
+      "Damn Yankees",
+      "The Pajama Game",
+      "All That Jazz (Film)",
+      "Dancin'"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Broadway musicals",
+    "difficulty": "medium",
+    "id": "5f4abea3-bb1b-4d07-8d73-ebcb08c60deb",
+    "created_at": "2025-04-13T02:03:07.699Z",
+    "backupTimestamp": "2025-04-13T02:03:07.700Z",
+    "localBackupTimestamp": "2025-04-12T20:03:07.700Z"
+  },
+  {
+    "question": "What is the occupation of the protagonist, Billy Flynn, in 'Chicago'?",
+    "correct_answer": "Lawyer",
+    "incorrect_answers": [
+      "Journalist",
+      "Prison Warden",
+      "Nightclub Owner",
+      "Police Detective",
+      "Private Investigator",
+      "Politician",
+      "Doctor"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Broadway musicals",
+    "difficulty": "medium",
+    "id": "883936a1-1aa6-4b3f-be05-16c78ec5da6a",
+    "created_at": "2025-04-13T02:03:07.703Z",
+    "backupTimestamp": "2025-04-13T02:03:07.703Z",
+    "localBackupTimestamp": "2025-04-12T20:03:07.703Z"
+  },
+  {
+    "question": "Which musical features a group of British miners who decide to become strippers?",
+    "correct_answer": "The Full Monty",
+    "incorrect_answers": [
+      "Billy Elliot the Musical",
+      "Kinky Boots",
+      "Brassed Off (Play/Film)",
+      "Made in Dagenham",
+      "Calendar Girls",
+      "Blood Brothers",
+      "Everybody's Talking About Jamie"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Broadway musicals",
+    "difficulty": "medium",
+    "id": "1ed93d6a-6f47-4348-b8ab-4f429072a8bb",
+    "created_at": "2025-04-13T02:03:07.705Z",
+    "backupTimestamp": "2025-04-13T02:03:07.706Z",
+    "localBackupTimestamp": "2025-04-12T20:03:07.706Z"
+  },
+  {
+    "question": "In 'My Fair Lady', what song does Eliza Doolittle sing about her desire for a comfortable life?",
+    "correct_answer": "Wouldn't It Be Loverly?",
+    "incorrect_answers": [
+      "I Could Have Danced All Night",
+      "The Rain in Spain",
+      "Just You Wait",
+      "Show Me",
+      "Without You",
+      "I've Grown Accustomed to Her Face",
+      "Get Me to the Church on Time"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Broadway musicals",
+    "difficulty": "medium",
+    "id": "a70af8ae-6b5f-4f5e-8d91-00eb2c6a2512",
+    "created_at": "2025-04-13T02:03:07.708Z",
+    "backupTimestamp": "2025-04-13T02:03:07.708Z",
+    "localBackupTimestamp": "2025-04-12T20:03:07.708Z"
+  },
+  {
+    "question": "Which musical, based on an opera by Giacomo Puccini, updates the story to the final days of the Vietnam War?",
+    "correct_answer": "Miss Saigon (based on Madama Butterfly)",
+    "incorrect_answers": [
+      "Rent (based on La Bohème)",
+      "Aida (based on Aida)",
+      "Carmen Jones (based on Carmen)",
+      "Porgy and Bess (original opera)",
+      "West Side Story (inspired by Romeo & Juliet)",
+      "Les Misérables (based on novel)",
+      "Chess (original story)"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Broadway musicals",
+    "difficulty": "medium",
+    "id": "e991b2c4-ded5-43ea-85f7-60521d6766ad",
+    "created_at": "2025-04-13T02:03:07.710Z",
+    "backupTimestamp": "2025-04-13T02:03:07.711Z",
+    "localBackupTimestamp": "2025-04-12T20:03:07.711Z"
+  },
+  {
+    "question": "What Alanis Morissette album serves as the basis for the jukebox musical 'Jagged Little Pill'?",
+    "correct_answer": "Jagged Little Pill",
+    "incorrect_answers": [
+      "Supposed Former Infatuation Junkie",
+      "MTV Unplugged",
+      "Under Rug Swept",
+      "Flavors of Entanglement",
+      "Havoc and Bright Lights",
+      "Such Pretty Forks in the Road",
+      "Jagged Little Pill Acoustic"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Broadway musicals",
+    "difficulty": "medium",
+    "id": "26efa41b-0d86-4ca9-896b-3264f76cec1e",
+    "created_at": "2025-04-13T02:03:07.713Z",
+    "backupTimestamp": "2025-04-13T02:03:07.714Z",
+    "localBackupTimestamp": "2025-04-12T20:03:07.714Z"
+  },
+  {
+    "question": "Which musical features the characters Angel Dumott Schunard and Tom Collins singing the duet 'I'll Cover You'?",
+    "correct_answer": "Rent",
+    "incorrect_answers": [
+      "Kinky Boots",
+      "La Cage aux Folles",
+      "Falsettos",
+      "Hair",
+      "Bare: A Pop Opera",
+      "Tick, Tick... Boom!",
+      "Hedwig and the Angry Inch"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Broadway musicals",
+    "difficulty": "medium",
+    "id": "37a41488-677e-4b4b-9f73-f92206738cca",
+    "created_at": "2025-04-13T02:03:07.716Z",
+    "backupTimestamp": "2025-04-13T02:03:07.716Z",
+    "localBackupTimestamp": "2025-04-12T20:03:07.716Z"
+  },
+  {
+    "question": "What is the name of the high school in the musical 'Grease'?",
+    "correct_answer": "Rydell High School",
+    "incorrect_answers": [
+      "Bayside High",
+      "West Beverly High",
+      "McKinley High",
+      "Sunnydale High",
+      "Shermer High",
+      "North Shore High",
+      "Westerberg High"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Broadway musicals",
+    "difficulty": "medium",
+    "id": "90ed4cd4-d63d-45d4-a043-366b2d6c1862",
+    "created_at": "2025-04-13T02:03:07.718Z",
+    "backupTimestamp": "2025-04-13T02:03:07.719Z",
+    "localBackupTimestamp": "2025-04-12T20:03:07.719Z"
+  },
+  {
+    "question": "Which character sings 'The Schuyler Sisters' along with Angelica and Eliza in 'Hamilton'?",
+    "correct_answer": "Peggy Schuyler / Maria Reynolds (Same actress)",
+    "incorrect_answers": [
+      "Aaron Burr",
+      "Marquis de Lafayette",
+      "Hercules Mulligan",
+      "John Laurens",
+      "Thomas Jefferson",
+      "George Washington",
+      "King George III"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Broadway musicals",
+    "difficulty": "medium",
+    "id": "b3b0856f-6265-485b-8bb0-29740a564eb6",
+    "created_at": "2025-04-13T02:03:07.721Z",
+    "backupTimestamp": "2025-04-13T02:03:07.721Z",
+    "localBackupTimestamp": "2025-04-12T20:03:07.721Z"
+  },
+  {
+    "question": "What Stephen Sondheim musical is set in 19th-century Japan during its opening to the West?",
+    "correct_answer": "Pacific Overtures",
+    "incorrect_answers": [
+      "Sweeney Todd",
+      "Sunday in the Park with George",
+      "Into the Woods",
+      "Assassins",
+      "A Little Night Music",
+      "Company",
+      "Follies"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Broadway musicals",
+    "difficulty": "medium",
+    "id": "9af49470-1956-4639-a82c-9601d7131237",
+    "created_at": "2025-04-13T02:03:07.723Z",
+    "backupTimestamp": "2025-04-13T02:03:07.723Z",
+    "localBackupTimestamp": "2025-04-12T20:03:07.723Z"
+  },
+  {
+    "question": "In 'The Phantom of the Opera', what is the name of the Phantom's human protege?",
+    "correct_answer": "Christine Daaé",
+    "incorrect_answers": [
+      "Meg Giry",
+      "Carlotta Giudicelli",
+      "Madame Giry",
+      "Raoul, Vicomte de Chagny",
+      "Erik (The Phantom)",
+      "Ubaldo Piangi",
+      "Joseph Buquet"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Broadway musicals",
+    "difficulty": "medium",
+    "id": "ee404c85-250f-4167-87f0-73ca06c7666b",
+    "created_at": "2025-04-13T02:03:07.725Z",
+    "backupTimestamp": "2025-04-13T02:03:07.725Z",
+    "localBackupTimestamp": "2025-04-12T20:03:07.725Z"
+  },
+  {
+    "question": "Which musical features the song 'Seventy-Six Trombones'?",
+    "correct_answer": "The Music Man",
+    "incorrect_answers": [
+      "Oklahoma!",
+      "Guys and Dolls",
+      "Annie Get Your Gun",
+      "Hello, Dolly!",
+      "Barnum",
+      "42nd Street",
+      "Gypsy"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Broadway musicals",
+    "difficulty": "medium",
+    "id": "92cf61b4-b282-4a61-959a-9b68d1dc31f0",
+    "created_at": "2025-04-13T02:03:07.727Z",
+    "backupTimestamp": "2025-04-13T02:03:07.728Z",
+    "localBackupTimestamp": "2025-04-12T20:03:07.728Z"
+  },
+  {
+    "question": "What musical comedy duo wrote the music and lyrics for 'The Book of Mormon'?",
+    "correct_answer": "Trey Parker and Matt Stone (with Robert Lopez)",
+    "incorrect_answers": [
+      "Andrew Lloyd Webber and Tim Rice",
+      "Rodgers and Hammerstein",
+      "Stephen Sondheim",
+      "Lin-Manuel Miranda",
+      "Stephen Schwartz",
+      "Kander and Ebb",
+      "Lerner and Loewe"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Broadway musicals",
+    "difficulty": "medium",
+    "id": "a10cc6c3-2529-46cd-8836-d50b1ad8f543",
+    "created_at": "2025-04-13T02:03:07.730Z",
+    "backupTimestamp": "2025-04-13T02:03:07.730Z",
+    "localBackupTimestamp": "2025-04-12T20:03:07.730Z"
+  },
+  {
+    "question": "In 'Into the Woods', what item does Jack trade for magic beans?",
+    "correct_answer": "His cow (Milky White)",
+    "incorrect_answers": [
+      "His mother's locket",
+      "A bag of gold",
+      "His shoes",
+      "His harp",
+      "A loaf of bread",
+      "His cloak",
+      "The deeds to his house"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Broadway musicals",
+    "difficulty": "medium",
+    "id": "333e1168-0a7a-4aa7-a44e-9b86750f422f",
+    "created_at": "2025-04-13T02:03:07.733Z",
+    "backupTimestamp": "2025-04-13T02:03:07.733Z",
+    "localBackupTimestamp": "2025-04-12T20:03:07.733Z"
+  },
+  {
+    "question": "Which musical, based on a film, features the song 'Electricity' sung by a young boy discovering his passion for dance?",
+    "correct_answer": "Billy Elliot the Musical",
+    "incorrect_answers": [
+      "Newsies",
+      "Footloose",
+      "Oliver!",
+      "Matilda the Musical",
+      "Annie",
+      "Fame",
+      "Hairspray"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Broadway musicals",
+    "difficulty": "medium",
+    "id": "a823e997-212a-43b0-aac4-5d804b9ff78b",
+    "created_at": "2025-04-13T02:03:07.735Z",
+    "backupTimestamp": "2025-04-13T02:03:07.736Z",
+    "localBackupTimestamp": "2025-04-12T20:03:07.736Z"
+  },
+  {
+    "question": "What is the name of the stage mother character in the musical 'Gypsy'?",
+    "correct_answer": "Mama Rose (Rose Hovick)",
+    "incorrect_answers": [
+      "Gypsy Rose Lee",
+      "Louise Hovick",
+      "June Hovick",
+      "Tessie Tura",
+      "Mazeppa",
+      "Electra",
+      "Herbie"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Broadway musicals",
+    "difficulty": "medium",
+    "id": "4dd7e65b-e232-44e8-827c-094f63e86c2a",
+    "created_at": "2025-04-13T02:03:07.740Z",
+    "backupTimestamp": "2025-04-13T02:03:07.740Z",
+    "localBackupTimestamp": "2025-04-12T20:03:07.740Z"
+  },
+  {
+    "question": "Which Andrew Lloyd Webber musical involves characters competing in races on roller skates?",
+    "correct_answer": "Starlight Express",
+    "incorrect_answers": [
+      "Cats",
+      "Joseph and the Amazing Technicolor Dreamcoat",
+      "Jesus Christ Superstar",
+      "The Phantom of the Opera",
+      "Evita",
+      "Sunset Boulevard",
+      "Xanadu (Not Lloyd Webber)"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Broadway musicals",
+    "difficulty": "medium",
+    "id": "3ef75668-2e81-46c9-a4db-edf58db65509",
+    "created_at": "2025-04-13T02:03:07.742Z",
+    "backupTimestamp": "2025-04-13T02:03:07.742Z",
+    "localBackupTimestamp": "2025-04-12T20:03:07.742Z"
+  },
+  {
+    "question": "In 'Annie', what is the name of Daddy Warbucks' secretary?",
+    "correct_answer": "Grace Farrell",
+    "incorrect_answers": [
+      "Miss Hannigan",
+      "Lily St. Regis",
+      "Pepper",
+      "Duffy",
+      "July",
+      "Kate",
+      "Tessie"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Broadway musicals",
+    "difficulty": "medium",
+    "id": "d5c8b81b-a77a-4bea-bb03-693660891583",
+    "created_at": "2025-04-13T02:03:07.745Z",
+    "backupTimestamp": "2025-04-13T02:03:07.745Z",
+    "localBackupTimestamp": "2025-04-12T20:03:07.745Z"
+  },
+  {
+    "question": "Which Cy Coleman musical follows the life of prostitute Charity Hope Valentine?",
+    "correct_answer": "Sweet Charity",
+    "incorrect_answers": [
+      "City of Angels",
+      "Barnum",
+      "The Will Rogers Follies",
+      "On the Twentieth Century",
+      "I Love My Wife",
+      "Seesaw",
+      "Little Me"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Broadway musicals",
+    "difficulty": "medium",
+    "id": "e19b51a2-7504-4861-a488-296cf52cc328",
+    "created_at": "2025-04-13T02:03:07.747Z",
+    "backupTimestamp": "2025-04-13T02:03:07.747Z",
+    "localBackupTimestamp": "2025-04-12T20:03:07.747Z"
+  },
+  {
+    "question": "What is the opening number of 'A Chorus Line'?",
+    "correct_answer": "I Hope I Get It",
+    "incorrect_answers": [
+      "One",
+      "At the Ballet",
+      "What I Did for Love",
+      "Dance: Ten; Looks: Three",
+      "The Music and the Mirror",
+      "Nothing",
+      "Hello Twelve, Hello Thirteen, Hello Love"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Broadway musicals",
+    "difficulty": "medium",
+    "id": "e3a92e4d-7ced-4a1a-8101-5347424381df",
+    "created_at": "2025-04-13T02:03:07.749Z",
+    "backupTimestamp": "2025-04-13T02:03:07.750Z",
+    "localBackupTimestamp": "2025-04-12T20:03:07.750Z"
+  },
+  {
+    "question": "Which musical adaptation of a classic novel features the song 'Do You Hear the People Sing?'",
+    "correct_answer": "Les Misérables",
+    "incorrect_answers": [
+      "Oliver!",
+      "My Fair Lady",
+      "Camelot",
+      "Man of La Mancha",
+      "The Phantom of the Opera",
+      "Jane Eyre",
+      "A Tale of Two Cities"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Broadway musicals",
+    "difficulty": "medium",
+    "id": "d4ec8f0e-4c87-476e-a9a5-ed9d8ffd827e",
+    "created_at": "2025-04-13T02:03:07.752Z",
+    "backupTimestamp": "2025-04-13T02:03:07.752Z",
+    "localBackupTimestamp": "2025-04-12T20:03:07.752Z"
+  },
+  {
+    "question": "What is the name of the composer/lyricist team behind 'Cabaret' and 'Chicago'?",
+    "correct_answer": "Kander and Ebb (John Kander and Fred Ebb)",
+    "incorrect_answers": [
+      "Rodgers and Hammerstein",
+      "Lerner and Loewe",
+      "Bock and Harnick",
+      "Styne and Sondheim",
+      "Ahrens and Flaherty",
+      "Coleman and Fields",
+      "Schmidt and Jones"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Broadway musicals",
+    "difficulty": "medium",
+    "id": "99e5bdf2-8552-4489-98e2-c47fc5568f5d",
+    "created_at": "2025-04-13T02:03:07.754Z",
+    "backupTimestamp": "2025-04-13T02:03:07.754Z",
+    "localBackupTimestamp": "2025-04-12T20:03:07.754Z"
+  },
+  {
+    "question": "In 'The Sound of Music', what song do the children perform for the Baroness using curtains as costumes?",
+    "correct_answer": "The Lonely Goatherd",
+    "incorrect_answers": [
+      "Do-Re-Mi",
+      "My Favorite Things",
+      "So Long, Farewell",
+      "Edelweiss",
+      "Sixteen Going on Seventeen",
+      "Climb Ev'ry Mountain",
+      "The Sound of Music"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Broadway musicals",
+    "difficulty": "medium",
+    "id": "bbe93195-36a5-45af-b388-a9bb6a7f846b",
+    "created_at": "2025-04-13T02:03:07.757Z",
+    "backupTimestamp": "2025-04-13T02:03:07.757Z",
+    "localBackupTimestamp": "2025-04-12T20:03:07.757Z"
+  },
+  {
+    "question": "Which musical, set in Washington Heights, won the Tony Award for Best Musical in 2008?",
+    "correct_answer": "In the Heights",
+    "incorrect_answers": [
+      "Spring Awakening",
+      "Passing Strange",
+      "Xanadu",
+      "Cry-Baby",
+      "Legally Blonde",
+      "Billy Elliot the Musical",
+      "Next to Normal"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Broadway musicals",
+    "difficulty": "medium",
+    "id": "fdd74386-d347-499d-a427-07191e7acf46",
+    "created_at": "2025-04-13T02:03:07.760Z",
+    "backupTimestamp": "2025-04-13T02:03:07.760Z",
+    "localBackupTimestamp": "2025-04-12T20:03:07.760Z"
+  },
+  {
+    "question": "What Jason Robert Brown musical explores a five-year relationship told from both chronological and reverse-chronological perspectives?",
+    "correct_answer": "The Last Five Years",
+    "incorrect_answers": [
+      "Parade",
+      "Songs for a New World",
+      "The Bridges of Madison County",
+      "13",
+      "Honeymoon in Vegas",
+      "Mr. Saturday Night",
+      "Urban Cowboy"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Broadway musicals",
+    "difficulty": "medium",
+    "id": "aa53a5a6-cc06-414e-9eea-57035e2bb3b1",
+    "created_at": "2025-04-13T02:03:07.763Z",
+    "backupTimestamp": "2025-04-13T02:03:07.763Z",
+    "localBackupTimestamp": "2025-04-12T20:03:07.763Z"
+  },
+  {
+    "question": "Which musical features the 'Cell Block Tango'?",
+    "correct_answer": "Chicago",
+    "incorrect_answers": [
+      "Cabaret",
+      "Kiss of the Spider Woman",
+      "Rent",
+      "Les Misérables",
+      "West Side Story",
+      "Sweet Charity",
+      "Nine"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Broadway musicals",
+    "difficulty": "medium",
+    "id": "d783251f-7c23-42cd-8a2b-b8f601827de3",
+    "created_at": "2025-04-13T02:03:07.766Z",
+    "backupTimestamp": "2025-04-13T02:03:07.766Z",
+    "localBackupTimestamp": "2025-04-12T20:03:07.766Z"
+  },
+  {
+    "question": "What is the primary setting for the musical 'Hair'?",
+    "correct_answer": "New York City during the Vietnam War era (specifically the East Village)",
+    "incorrect_answers": [
+      "San Francisco during the Summer of Love",
+      "London during the Blitz",
+      "Paris during the 1832 June Rebellion",
+      "Chicago during the Roaring Twenties",
+      "Rural Oklahoma Territory",
+      "Berlin during the Weimar Republic",
+      "Ancient Rome"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Broadway musicals",
+    "difficulty": "medium",
+    "id": "49604067-4f52-4973-a1b3-a6647643e618",
+    "created_at": "2025-04-13T02:03:07.768Z",
+    "backupTimestamp": "2025-04-13T02:03:07.769Z",
+    "localBackupTimestamp": "2025-04-12T20:03:07.769Z"
+  },
+  {
+    "question": "Which Stephen Sondheim musical is based on the films of Ingmar Bergman?",
+    "correct_answer": "A Little Night Music",
+    "incorrect_answers": [
+      "Sunday in the Park with George",
+      "Passion",
+      "Follies",
+      "Sweeney Todd",
+      "Company",
+      "Into the Woods",
+      "Pacific Overtures"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Broadway musicals",
+    "difficulty": "medium",
+    "id": "29515686-d444-484b-b683-faf6a5c3f697",
+    "created_at": "2025-04-13T02:03:07.771Z",
+    "backupTimestamp": "2025-04-13T02:03:07.771Z",
+    "localBackupTimestamp": "2025-04-12T20:03:07.771Z"
+  },
+  {
+    "question": "What is the name of the character who sings 'Rose's Turn' at the end of 'Gypsy'?",
+    "correct_answer": "Mama Rose",
+    "incorrect_answers": [
+      "Gypsy Rose Lee",
+      "Louise",
+      "June",
+      "Herbie",
+      "Tessie Tura",
+      "Mazeppa",
+      "Electra"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Broadway musicals",
+    "difficulty": "medium",
+    "id": "61fa9b59-6ea3-4b52-8a60-70086dba4376",
+    "created_at": "2025-04-13T02:03:07.773Z",
+    "backupTimestamp": "2025-04-13T02:03:07.774Z",
+    "localBackupTimestamp": "2025-04-12T20:03:07.774Z"
+  },
+  {
+    "question": "Which musical features the song 'Sit Down, You're Rockin' the Boat'?",
+    "correct_answer": "Guys and Dolls",
+    "incorrect_answers": [
+      "Damn Yankees",
+      "Bye Bye Birdie",
+      "How to Succeed in Business Without Really Trying",
+      "Fiorello!",
+      "The Pajama Game",
+      "Finian's Rainbow",
+      "Li'l Abner"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Broadway musicals",
+    "difficulty": "medium",
+    "id": "e78f09b5-e5c6-430c-8954-bbacd831534c",
+    "created_at": "2025-04-13T02:03:07.776Z",
+    "backupTimestamp": "2025-04-13T02:03:07.776Z",
+    "localBackupTimestamp": "2025-04-12T20:03:07.776Z"
+  },
+  {
+    "question": "In 'Annie Get Your Gun', who is Annie Oakley's rival and love interest?",
+    "correct_answer": "Frank Butler",
+    "incorrect_answers": [
+      "Buffalo Bill Cody",
+      "Sitting Bull",
+      "Charlie Davenport",
+      "Pawnee Bill",
+      "Tommy Keeler",
+      "Wild Horse",
+      "Chief Crazy Horse"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Broadway musicals",
+    "difficulty": "medium",
+    "id": "8a0e3e78-9fda-4850-8f1d-9e21e0236b76",
+    "created_at": "2025-04-13T02:03:07.779Z",
+    "backupTimestamp": "2025-04-13T02:03:07.780Z",
+    "localBackupTimestamp": "2025-04-12T20:03:07.780Z"
+  },
+  {
+    "question": "What musical tells the story of two brothers writing a musical during the Renaissance, competing with Shakespeare?",
+    "correct_answer": "Something Rotten!",
+    "incorrect_answers": [
+      "Spamalot",
+      "The Producers",
+      "Kiss Me, Kate",
+      "A Funny Thing Happened on the Way to the Forum",
+      "Man of La Mancha",
+      "The Mystery of Edwin Drood",
+      "Camelot"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Broadway musicals",
+    "difficulty": "medium",
+    "id": "98d81f91-56a7-4b10-94fc-42abe99da48a",
+    "created_at": "2025-04-13T02:03:07.782Z",
+    "backupTimestamp": "2025-04-13T02:03:07.783Z",
+    "localBackupTimestamp": "2025-04-12T20:03:07.783Z"
+  },
+  {
+    "question": "Which musical centers around the lives and trial of Leo Frank, a factory superintendent wrongly accused of murder in 1913 Atlanta?",
+    "correct_answer": "Parade",
+    "incorrect_answers": [
+      "Ragtime",
+      "Scottsboro Boys",
+      "Assassins",
+      "Floyd Collins",
+      "Caroline, or Change",
+      "Bloody Bloody Andrew Jackson",
+      "The Civil War"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Broadway musicals",
+    "difficulty": "medium",
+    "id": "75df1c3c-7749-4f9e-872a-136c43d5345e",
+    "created_at": "2025-04-13T02:03:07.785Z",
+    "backupTimestamp": "2025-04-13T02:03:07.785Z",
+    "localBackupTimestamp": "2025-04-12T20:03:07.785Z"
+  },
+  {
+    "question": "In 'Spring Awakening', what is the name of the protagonist who questions the repressive society around him?",
+    "correct_answer": "Melchior Gabor",
+    "incorrect_answers": [
+      "Moritz Stiefel",
+      "Wendla Bergmann",
+      "Hanschen Rilow",
+      "Ernst Robel",
+      "Georg Zirschnitz",
+      "Otto Lämmermeier",
+      "Ilse Neumann"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Broadway musicals",
+    "difficulty": "medium",
+    "id": "4d09d99a-a92b-4353-b120-43227796a927",
+    "created_at": "2025-04-13T02:03:07.787Z",
+    "backupTimestamp": "2025-04-13T02:03:07.788Z",
+    "localBackupTimestamp": "2025-04-12T20:03:07.788Z"
+  },
+  {
+    "question": "Which Disney musical adaptation features the song 'Friend Like Me'?",
+    "correct_answer": "Aladdin",
+    "incorrect_answers": [
+      "The Lion King",
+      "Beauty and the Beast",
+      "Hercules",
+      "The Little Mermaid",
+      "Tarzan",
+      "Frozen",
+      "Mary Poppins"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Broadway musicals",
+    "difficulty": "medium",
+    "id": "54fb8343-5162-4d90-8656-43b4dfdd483f",
+    "created_at": "2025-04-13T02:03:07.790Z",
+    "backupTimestamp": "2025-04-13T02:03:07.790Z",
+    "localBackupTimestamp": "2025-04-12T20:03:07.790Z"
+  },
+  {
+    "question": "What is the name of the street featured in the title of 'Avenue Q'?",
+    "correct_answer": "Avenue Q",
+    "incorrect_answers": [
+      "Sesame Street",
+      "Electric Avenue",
+      "Baker Street",
+      "Fleet Street",
+      "Memory Lane",
+      "Penny Lane",
+      "Easy Street"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Broadway musicals",
+    "difficulty": "medium",
+    "id": "178d3279-e761-419f-a133-ba555697ebde",
+    "created_at": "2025-04-13T02:03:07.792Z",
+    "backupTimestamp": "2025-04-13T02:03:07.793Z",
+    "localBackupTimestamp": "2025-04-12T20:03:07.793Z"
+  },
+  {
+    "question": "Which musical, based on a novel by Alice Walker, tells the story of Celie, an African American woman living in the South during the early 20th century?",
+    "correct_answer": "The Color Purple",
+    "incorrect_answers": [
+      "Dreamgirls",
+      "Ragtime",
+      "Show Boat",
+      "Porgy and Bess",
+      "Caroline, or Change",
+      "Once on This Island",
+      "Shuffle Along"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Broadway musicals",
+    "difficulty": "medium",
+    "id": "186c4386-6d50-4a90-b605-7cb9b6e0a69e",
+    "created_at": "2025-04-13T02:03:07.795Z",
+    "backupTimestamp": "2025-04-13T02:03:07.795Z",
+    "localBackupTimestamp": "2025-04-12T20:03:07.795Z"
+  },
+  {
+    "question": "What Stephen Sondheim musical won the Pulitzer Prize for Drama and depicts the creation of a pointillist painting?",
+    "correct_answer": "Sunday in the Park with George",
+    "incorrect_answers": [
+      "Sweeney Todd: The Demon Barber of Fleet Street",
+      "Into the Woods",
+      "Company",
+      "Follies",
+      "A Little Night Music",
+      "Assassins",
+      "Passion"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Broadway musicals",
+    "difficulty": "hard",
+    "id": "204cd244-1d49-40f1-98ad-dc87aceabbe9",
+    "created_at": "2025-04-13T02:03:07.797Z",
+    "backupTimestamp": "2025-04-13T02:03:07.798Z",
+    "localBackupTimestamp": "2025-04-12T20:03:07.798Z"
+  },
+  {
+    "question": "In 'Rent', which character sings the rock anthem 'One Song Glory'?",
+    "correct_answer": "Roger Davis",
+    "incorrect_answers": [
+      "Mark Cohen",
+      "Tom Collins",
+      "Angel Dumott Schunard",
+      "Benjamin Coffin III",
+      "Mimi Marquez",
+      "Maureen Johnson",
+      "Joanne Jefferson"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Broadway musicals",
+    "difficulty": "hard",
+    "id": "57e6f8a1-9aae-42b0-a1dc-3dd767e344e2",
+    "created_at": "2025-04-13T02:03:07.800Z",
+    "backupTimestamp": "2025-04-13T02:03:07.801Z",
+    "localBackupTimestamp": "2025-04-12T20:03:07.801Z"
+  },
+  {
+    "question": "Which musical, with a book by James Lapine and music/lyrics by Stephen Sondheim, tells its story in reverse chronological order?",
+    "correct_answer": "Merrily We Roll Along",
+    "incorrect_answers": [
+      "Follies",
+      "Company",
+      "A Little Night Music",
+      "Sunday in the Park with George",
+      "Into the Woods",
+      "Passion",
+      "The Last Five Years (Partially reverse)"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Broadway musicals",
+    "difficulty": "hard",
+    "id": "c7cf59ae-8b1d-4726-99d4-e9791867973d",
+    "created_at": "2025-04-13T02:03:07.803Z",
+    "backupTimestamp": "2025-04-13T02:03:07.803Z",
+    "localBackupTimestamp": "2025-04-12T20:03:07.803Z"
+  },
+  {
+    "question": "What is the name of the fictional musical within the musical 'The Producers'?",
+    "correct_answer": "Springtime for Hitler: A Gay Romp With Adolf and Eva at Berchtesgaden",
+    "incorrect_answers": [
+      "Funny Boy",
+      "Prisoners of Love",
+      "Keep It Gay",
+      "King of Broadway",
+      "The Hitler Follies",
+      "When You Got It, Flaunt It",
+      "That Face"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Broadway musicals",
+    "difficulty": "hard",
+    "id": "59da087d-f20d-471f-a089-77b859b1986e",
+    "created_at": "2025-04-13T02:03:07.805Z",
+    "backupTimestamp": "2025-04-13T02:03:07.806Z",
+    "localBackupTimestamp": "2025-04-12T20:03:07.806Z"
+  },
+  {
+    "question": "Which Marvin Hamlisch musical won the Pulitzer Prize for Drama and depicts Broadway dancers auditioning?",
+    "correct_answer": "A Chorus Line",
+    "incorrect_answers": [
+      "Rent",
+      "Hamilton",
+      "Sunday in the Park with George",
+      "Next to Normal",
+      "How to Succeed in Business Without Really Trying",
+      "South Pacific",
+      "Of Thee I Sing"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Broadway musicals",
+    "difficulty": "hard",
+    "id": "25f34a54-5a8d-46a8-a6ca-ce97ab947b01",
+    "created_at": "2025-04-13T02:03:07.808Z",
+    "backupTimestamp": "2025-04-13T02:03:07.809Z",
+    "localBackupTimestamp": "2025-04-12T20:03:07.809Z"
+  },
+  {
+    "question": "In 'Chess', the musical with lyrics by Tim Rice and music by ABBA's Björn Ulvaeus and Benny Andersson, what are the nationalities of the two main chess players?",
+    "correct_answer": "American and Soviet/Russian",
+    "incorrect_answers": [
+      "British and French",
+      "Hungarian and Norwegian",
+      "Italian and German",
+      "Canadian and Australian",
+      "Indian and Chinese",
+      "Israeli and Egyptian",
+      "Cuban and Spanish"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Broadway musicals",
+    "difficulty": "hard",
+    "id": "b9769cd5-798e-4e07-921b-3f443d2ed784",
+    "created_at": "2025-04-13T02:03:07.811Z",
+    "backupTimestamp": "2025-04-13T02:03:07.811Z",
+    "localBackupTimestamp": "2025-04-12T20:03:07.811Z"
+  },
+  {
+    "question": "What is the source material for the musical 'Ragtime'?",
+    "correct_answer": "The novel 'Ragtime' by E.L. Doctorow",
+    "incorrect_answers": [
+      "A series of historical events",
+      "A collection of Scott Joplin compositions",
+      "An original story by Terrence McNally",
+      "A play by August Wilson",
+      "The life story of Harry Houdini",
+      "A documentary film about early 20th century New York",
+      "Based on the music of the era"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Broadway musicals",
+    "difficulty": "hard",
+    "id": "fa20a2a5-66d7-4ea1-9b38-95eb5a290afc",
+    "created_at": "2025-04-13T02:03:07.813Z",
+    "backupTimestamp": "2025-04-13T02:03:07.814Z",
+    "localBackupTimestamp": "2025-04-12T20:03:07.814Z"
+  },
+  {
+    "question": "Which Tony Award-winning musical is based on Alison Bechdel's graphic memoir about her relationship with her closeted father?",
+    "correct_answer": "Fun Home",
+    "incorrect_answers": [
+      "Next to Normal",
+      "Dear Evan Hansen",
+      "Spring Awakening",
+      "Falsettos",
+      "Caroline, or Change",
+      "Grey Gardens",
+      "The Light in the Piazza"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Broadway musicals",
+    "difficulty": "hard",
+    "id": "67440df9-8a2c-4ca2-92d7-df023ec8db20",
+    "created_at": "2025-04-13T02:03:07.815Z",
+    "backupTimestamp": "2025-04-13T02:03:07.816Z",
+    "localBackupTimestamp": "2025-04-12T20:03:07.816Z"
+  },
+  {
+    "question": "What is the name of the Andrew Lloyd Webber musical based on the Billy Wilder film about a faded silent film star?",
+    "correct_answer": "Sunset Boulevard",
+    "incorrect_answers": [
+      "Evita",
+      "Aspects of Love",
+      "The Phantom of the Opera",
+      "Cats",
+      "Woman in White",
+      "Stephen Ward The Musical",
+      "Whistle Down the Wind"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Broadway musicals",
+    "difficulty": "hard",
+    "id": "0b1891bb-3225-49ac-a48c-251293911b62",
+    "created_at": "2025-04-13T02:03:07.818Z",
+    "backupTimestamp": "2025-04-13T02:03:07.819Z",
+    "localBackupTimestamp": "2025-04-12T20:03:07.819Z"
+  },
+  {
+    "question": "Which musical features the song 'You Can't Stop the Beat' as its finale?",
+    "correct_answer": "Hairspray",
+    "incorrect_answers": [
+      "Mamma Mia!",
+      "Grease",
+      "Legally Blonde",
+      "Footloose",
+      "Kinky Boots",
+      "Rent",
+      "Wicked"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Broadway musicals",
+    "difficulty": "hard",
+    "id": "83c21992-a3ea-4718-90e7-be262f0116c6",
+    "created_at": "2025-04-13T02:03:07.821Z",
+    "backupTimestamp": "2025-04-13T02:03:07.822Z",
+    "localBackupTimestamp": "2025-04-12T20:03:07.822Z"
+  },
+  {
+    "question": "In 'La Cage aux Folles', what is the name of the drag nightclub owned by Georges and Albin?",
+    "correct_answer": "La Cage aux Folles",
+    "incorrect_answers": [
+      "The Birdcage",
+      "Chez Georges",
+      "Zaza's Place",
+      "St. Tropez",
+      "The Blue Angel",
+      "Le Chat Noir",
+      "Moulin Rouge"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Broadway musicals",
+    "difficulty": "hard",
+    "id": "5c61ebfb-6b7e-4fe1-b7b5-d6741ab911af",
+    "created_at": "2025-04-13T02:03:07.824Z",
+    "backupTimestamp": "2025-04-13T02:03:07.824Z",
+    "localBackupTimestamp": "2025-04-12T20:03:07.824Z"
+  },
+  {
+    "question": "Which Sondheim musical depicts various historical figures who attempted (successfully or not) to assassinate Presidents of the United States?",
+    "correct_answer": "Assassins",
+    "incorrect_answers": [
+      "Pacific Overtures",
+      "Sweeney Todd",
+      "Sunday in the Park with George",
+      "Company",
+      "Follies",
+      "Parade (Jason Robert Brown)",
+      "Bloody Bloody Andrew Jackson"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Broadway musicals",
+    "difficulty": "hard",
+    "id": "ef69366b-38cf-4691-ab53-6dd2f9ca5849",
+    "created_at": "2025-04-13T02:03:07.826Z",
+    "backupTimestamp": "2025-04-13T02:03:07.826Z",
+    "localBackupTimestamp": "2025-04-12T20:03:07.826Z"
+  },
+  {
+    "question": "What type of animal narrates the musical 'Joseph and the Amazing Technicolor Dreamcoat' in some productions?",
+    "correct_answer": "A Narrator (human, though sometimes portrayed whimsically)",
+    "incorrect_answers": [
+      "Camel",
+      "Sheep",
+      "Donkey",
+      "Goat",
+      "Lion",
+      "Scarab Beetle",
+      "Dove"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Broadway musicals",
+    "difficulty": "hard",
+    "id": "e108ab9d-dcd1-4cb8-b8a8-988704df9f44",
+    "created_at": "2025-04-13T02:03:07.829Z",
+    "backupTimestamp": "2025-04-13T02:03:07.829Z",
+    "localBackupTimestamp": "2025-04-12T20:03:07.829Z"
+  },
+  {
+    "question": "Which Flaherty and Ahrens musical tells the story of Ti Moune, a peasant girl on a Caribbean island who falls in love with a wealthy boy?",
+    "correct_answer": "Once on This Island",
+    "incorrect_answers": [
+      "Ragtime",
+      "Seussical",
+      "Anastasia",
+      "Rocky",
+      "My Favorite Year",
+      "A Man of No Importance",
+      "Dessa Rose"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Broadway musicals",
+    "difficulty": "hard",
+    "id": "8e5bf590-5ae0-45e2-9fb9-34bc39a7beb1",
+    "created_at": "2025-04-13T02:03:07.831Z",
+    "backupTimestamp": "2025-04-13T02:03:07.831Z",
+    "localBackupTimestamp": "2025-04-12T20:03:07.831Z"
+  },
+  {
+    "question": "What is the name of the musical based on the life of Carole King?",
+    "correct_answer": "Beautiful: The Carole King Musical",
+    "incorrect_answers": [
+      "Jersey Boys",
+      "Ain't Too Proud",
+      "Tina: The Tina Turner Musical",
+      "On Your Feet!",
+      "Summer: The Donna Summer Musical",
+      "The Cher Show",
+      "Motown: The Musical"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Broadway musicals",
+    "difficulty": "hard",
+    "id": "927a3eaa-4df1-4413-90da-4d84956ae083",
+    "created_at": "2025-04-13T02:03:07.833Z",
+    "backupTimestamp": "2025-04-13T02:03:07.834Z",
+    "localBackupTimestamp": "2025-04-12T20:03:07.834Z"
+  },
+  {
+    "question": "Which musical, with music by Claude-Michel Schönberg and Alain Boublil, is based on Victor Hugo's novel?",
+    "correct_answer": "Les Misérables",
+    "incorrect_answers": [
+      "Miss Saigon",
+      "Martin Guerre",
+      "The Pirate Queen",
+      "The Phantom of the Opera",
+      "Notre-Dame de Paris",
+      "Marguerite",
+      "The Hunchback of Notre Dame (Disney)"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Broadway musicals",
+    "difficulty": "hard",
+    "id": "f437ab90-47eb-4104-ab18-42ede799cb57",
+    "created_at": "2025-04-13T02:03:07.836Z",
+    "backupTimestamp": "2025-04-13T02:03:07.836Z",
+    "localBackupTimestamp": "2025-04-12T20:03:07.836Z"
+  },
+  {
+    "question": "In 'Pippin', what is the name of the mysterious lead performer who guides Pippin?",
+    "correct_answer": "Leading Player",
+    "incorrect_answers": [
+      "Pippin",
+      "Charlemagne",
+      "Catherine",
+      "Fastrada",
+      "Berthe",
+      "Lewis",
+      "Theo"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Broadway musicals",
+    "difficulty": "hard",
+    "id": "2ae18bf3-50ac-49e5-8003-d44fa84d6ba7",
+    "created_at": "2025-04-13T02:03:07.839Z",
+    "backupTimestamp": "2025-04-13T02:03:07.839Z",
+    "localBackupTimestamp": "2025-04-12T20:03:07.839Z"
+  },
+  {
+    "question": "What is the 'eleven o'clock number' in a Broadway musical?",
+    "correct_answer": "A big, show-stopping song occurring late in the second act",
+    "incorrect_answers": [
+      "The opening number of Act II",
+      "The song performed exactly at 11 PM",
+      "The final song before intermission",
+      "A song performed by 11 cast members",
+      "The quietest song in the show",
+      "The first song written for the show",
+      "A song added after opening night"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Broadway musicals",
+    "difficulty": "hard",
+    "id": "4d883b44-68f8-49fc-8e77-2ce8bd8490f7",
+    "created_at": "2025-04-13T02:03:07.842Z",
+    "backupTimestamp": "2025-04-13T02:03:07.843Z",
+    "localBackupTimestamp": "2025-04-12T20:03:07.843Z"
+  },
+  {
+    "question": "Which controversial musical depicts the trial of nine African American teenagers falsely accused of rape in Alabama in the 1930s?",
+    "correct_answer": "The Scottsboro Boys",
+    "incorrect_answers": [
+      "Parade",
+      "Ragtime",
+      "Caroline, or Change",
+      "The Color Purple",
+      "Show Boat",
+      "Shuffle Along",
+      "Porgy and Bess"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Broadway musicals",
+    "difficulty": "hard",
+    "id": "16fb38f9-c712-44ea-ac49-7161adfca760",
+    "created_at": "2025-04-13T02:03:07.846Z",
+    "backupTimestamp": "2025-04-13T02:03:07.847Z",
+    "localBackupTimestamp": "2025-04-12T20:03:07.847Z"
+  },
+  {
+    "question": "What Duncan Sheik and Steven Sater musical, based on a Frank Wedekind play, deals with teenage sexuality in late 19th-century Germany?",
+    "correct_answer": "Spring Awakening",
+    "incorrect_answers": [
+      "Rent",
+      "Next to Normal",
+      "Bare: A Pop Opera",
+      "Hedwig and the Angry Inch",
+      "American Idiot",
+      "Hair",
+      "Passing Strange"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Broadway musicals",
+    "difficulty": "hard",
+    "id": "68e13342-8e4c-4a64-8d6a-a9a4117ecb2c",
+    "created_at": "2025-04-13T02:03:07.849Z",
+    "backupTimestamp": "2025-04-13T02:03:07.849Z",
+    "localBackupTimestamp": "2025-04-12T20:03:07.849Z"
+  },
+  {
+    "question": "Which musical features the song 'Gethsemane (I Only Want to Say)' sung by Jesus?",
+    "correct_answer": "Jesus Christ Superstar",
+    "incorrect_answers": [
+      "Godspell",
+      "Joseph and the Amazing Technicolor Dreamcoat",
+      "Children of Eden",
+      "Ben-Hur: The Musical",
+      "The Prince of Egypt",
+      "Two by Two",
+      "Cotton Patch Gospel"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Broadway musicals",
+    "difficulty": "hard",
+    "id": "06b6eda4-17f0-4da4-8ceb-ae7fd2a7a54e",
+    "created_at": "2025-04-13T02:03:07.852Z",
+    "backupTimestamp": "2025-04-13T02:03:07.852Z",
+    "localBackupTimestamp": "2025-04-12T20:03:07.852Z"
+  },
+  {
+    "question": "In 'Falsettos', what is the name of Marvin's male lover?",
+    "correct_answer": "Whizzer Brown",
+    "incorrect_answers": [
+      "Mendel",
+      "Jason",
+      "Trina",
+      "Dr. Charlotte",
+      "Cordelia",
+      "Marvin",
+      "Archie"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Broadway musicals",
+    "difficulty": "hard",
+    "id": "cf1c6a9c-bbf1-45d6-b454-7e2515f93cab",
+    "created_at": "2025-04-13T02:03:07.854Z",
+    "backupTimestamp": "2025-04-13T02:03:07.855Z",
+    "localBackupTimestamp": "2025-04-12T20:03:07.855Z"
+  },
+  {
+    "question": "Which Jerry Herman musical features the meddling matchmaker Dolly Gallagher Levi?",
+    "correct_answer": "Hello, Dolly!",
+    "incorrect_answers": [
+      "Mame",
+      "La Cage aux Folles",
+      "Mack & Mabel",
+      "Dear World",
+      "The Grand Tour",
+      "Milk and Honey",
+      "A Day in Hollywood / A Night in the Ukraine"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Broadway musicals",
+    "difficulty": "hard",
+    "id": "abc4f1b5-1114-421c-82e6-b40c4ae614ab",
+    "created_at": "2025-04-13T02:03:07.857Z",
+    "backupTimestamp": "2025-04-13T02:03:07.859Z",
+    "localBackupTimestamp": "2025-04-12T20:03:07.859Z"
+  },
+  {
+    "question": "What is the name of the director and choreographer known for his signature style seen in 'Chicago', 'Cabaret', and 'Pippin'?",
+    "correct_answer": "Bob Fosse",
+    "incorrect_answers": [
+      "Jerome Robbins",
+      "Michael Bennett",
+      "Gower Champion",
+      "Tommy Tune",
+      "Susan Stroman",
+      "Casey Nicholaw",
+      "Andy Blankenbuehler"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Broadway musicals",
+    "difficulty": "hard",
+    "id": "2ce18d0c-8943-4be1-a7a1-d2954b69342a",
+    "created_at": "2025-04-13T02:03:07.861Z",
+    "backupTimestamp": "2025-04-13T02:03:07.861Z",
+    "localBackupTimestamp": "2025-04-12T20:03:07.861Z"
+  },
+  {
+    "question": "Which Bock and Harnick musical features the song 'Matchmaker, Matchmaker'?",
+    "correct_answer": "Fiddler on the Roof",
+    "incorrect_answers": [
+      "She Loves Me",
+      "Fiorello!",
+      "The Apple Tree",
+      "The Rothschilds",
+      "Tenderloin",
+      "Rex",
+      "Baker Street"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Broadway musicals",
+    "difficulty": "hard",
+    "id": "2397f1fd-bebe-4e6e-8630-70547b51e526",
+    "created_at": "2025-04-13T02:03:07.864Z",
+    "backupTimestamp": "2025-04-13T02:03:07.865Z",
+    "localBackupTimestamp": "2025-04-12T20:03:07.865Z"
+  },
+  {
+    "question": "What Cole Porter musical is a backstage romantic comedy based on Shakespeare's 'The Taming of the Shrew'?",
+    "correct_answer": "Kiss Me, Kate",
+    "incorrect_answers": [
+      "Anything Goes",
+      "Can-Can",
+      "High Society",
+      "Silk Stockings",
+      "Out of This World",
+      "DuBarry Was a Lady",
+      "Leave It to Me!"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Broadway musicals",
+    "difficulty": "hard",
+    "id": "f944d681-d1ee-4ff7-aa8d-4cb4ed935189",
+    "created_at": "2025-04-13T02:03:07.867Z",
+    "backupTimestamp": "2025-04-13T02:03:07.868Z",
+    "localBackupTimestamp": "2025-04-12T20:03:07.868Z"
+  },
+  {
+    "question": "In 'South Pacific', what is the controversial song that addresses racial prejudice, often cut from productions?",
+    "correct_answer": "You've Got to Be Carefully Taught",
+    "incorrect_answers": [
+      "Some Enchanted Evening",
+      "Bali Ha'i",
+      "There Is Nothin' Like a Dame",
+      "I'm Gonna Wash That Man Right Outa My Hair",
+      "Younger Than Springtime",
+      "Happy Talk",
+      "This Nearly Was Mine"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Broadway musicals",
+    "difficulty": "hard",
+    "id": "a685fe3f-0bf4-4cd4-adb1-680b3a8d2328",
+    "created_at": "2025-04-13T02:03:07.870Z",
+    "backupTimestamp": "2025-04-13T02:03:07.870Z",
+    "localBackupTimestamp": "2025-04-12T20:03:07.870Z"
+  },
+  {
+    "question": "Which musical features a character named Hedwig Robinson, an East German rock singer?",
+    "correct_answer": "Hedwig and the Angry Inch",
+    "incorrect_answers": [
+      "Rent",
+      "Hair",
+      "Rock of Ages",
+      "Spring Awakening",
+      "Tommy",
+      "American Idiot",
+      "Passing Strange"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Broadway musicals",
+    "difficulty": "hard",
+    "id": "c093e451-d3ac-4734-a550-6e620d0afb65",
+    "created_at": "2025-04-13T02:03:07.872Z",
+    "backupTimestamp": "2025-04-13T02:03:07.873Z",
+    "localBackupTimestamp": "2025-04-12T20:03:07.873Z"
+  },
+  {
+    "question": "What is the term for the book or script of a musical, separate from the music and lyrics?",
+    "correct_answer": "Libretto",
+    "incorrect_answers": [
+      "Score",
+      "Lyrics",
+      "Choreography",
+      "Orchestration",
+      "Synopsis",
+      "Program",
+      "Prompt book"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Broadway musicals",
+    "difficulty": "hard",
+    "id": "bce48801-4c8e-42c4-850b-1618eeee5aa7",
+    "created_at": "2025-04-13T02:03:07.876Z",
+    "backupTimestamp": "2025-04-13T02:03:07.876Z",
+    "localBackupTimestamp": "2025-04-12T20:03:07.876Z"
+  },
+  {
+    "question": "Which Gilbert and Sullivan operetta features the song 'I Am the Very Model of a Modern Major-General'?",
+    "correct_answer": "The Pirates of Penzance",
+    "incorrect_answers": [
+      "H.M.S. Pinafore",
+      "The Mikado",
+      "Iolanthe",
+      "Trial by Jury",
+      "The Gondoliers",
+      "Patience",
+      "Ruddigore"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Broadway musicals",
+    "difficulty": "hard",
+    "id": "cbbe27a8-d792-4463-b1af-a0e408ea6d3b",
+    "created_at": "2025-04-13T02:03:07.878Z",
+    "backupTimestamp": "2025-04-13T02:03:07.878Z",
+    "localBackupTimestamp": "2025-04-12T20:03:07.878Z"
+  },
+  {
+    "question": "What musical, featuring music by Elton John, is based on Verdi's opera 'Aida'?",
+    "correct_answer": "Aida",
+    "incorrect_answers": [
+      "The Lion King",
+      "Billy Elliot the Musical",
+      "Lestat",
+      "Tommy (The Who)",
+      "Miss Saigon (Puccini)",
+      "Rent (Puccini)",
+      "Carmen Jones (Bizet)"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Broadway musicals",
+    "difficulty": "hard",
+    "id": "21a26301-e500-4ecb-b1e7-7764128cd9d0",
+    "created_at": "2025-04-13T02:03:07.880Z",
+    "backupTimestamp": "2025-04-13T02:03:07.881Z",
+    "localBackupTimestamp": "2025-04-12T20:03:07.881Z"
+  },
+  {
+    "question": "Which Jason Robert Brown musical deals with the relationship between a Jewish man from Brooklyn and a Catholic girl from Georgia?",
+    "correct_answer": "The Last Five Years",
+    "incorrect_answers": [
+      "Parade",
+      "Songs for a New World",
+      "13",
+      "Honeymoon in Vegas",
+      "The Bridges of Madison County",
+      "Mr. Saturday Night",
+      "Wearing Someone Else's Clothes (Album)"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Broadway musicals",
+    "difficulty": "hard",
+    "id": "5902c4d3-5836-4fc3-948b-b1ad98a4ce9b",
+    "created_at": "2025-04-13T02:03:07.883Z",
+    "backupTimestamp": "2025-04-13T02:03:07.883Z",
+    "localBackupTimestamp": "2025-04-12T20:03:07.883Z"
+  },
+  {
+    "question": "What is the name of the composer who wrote the music for 'Wicked', 'Godspell', and 'Pippin'?",
+    "correct_answer": "Stephen Schwartz",
+    "incorrect_answers": [
+      "Stephen Sondheim",
+      "Andrew Lloyd Webber",
+      "Marvin Hamlisch",
+      "Alan Menken",
+      "Cy Coleman",
+      "Jerry Herman",
+      "Lin-Manuel Miranda"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Broadway musicals",
+    "difficulty": "hard",
+    "id": "577ae161-9ec7-46c3-8b5c-f4c08ddc628c",
+    "created_at": "2025-04-13T02:03:07.885Z",
+    "backupTimestamp": "2025-04-13T02:03:07.886Z",
+    "localBackupTimestamp": "2025-04-12T20:03:07.886Z"
+  },
+  {
+    "question": "Which musical is set in the fictional town of River City, Iowa, and features the con man Harold Hill?",
+    "correct_answer": "The Music Man",
+    "incorrect_answers": [
+      "Oklahoma!",
+      "State Fair",
+      "Bye Bye Birdie",
+      "Annie Get Your Gun",
+      "Carousel",
+      "Paint Your Wagon",
+      "Li'l Abner"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Broadway musicals",
+    "difficulty": "hard",
+    "id": "165a82d2-b330-46d4-988d-7e816d82a394",
+    "created_at": "2025-04-13T02:03:07.889Z",
+    "backupTimestamp": "2025-04-13T02:03:07.889Z",
+    "localBackupTimestamp": "2025-04-12T20:03:07.889Z"
+  },
+  {
+    "question": "What is 'Sprechgesang', a vocal technique used in some musicals like 'Cabaret'?",
+    "correct_answer": "A style of vocal performance halfway between speaking and singing",
+    "incorrect_answers": [
+      "A type of yodeling",
+      "Very rapid singing",
+      "Singing extremely high notes (falsetto)",
+      "Singing multiple notes on one syllable (melisma)",
+      "Harmonizing below the melody",
+      "A specific German dialect",
+      "Improvisational scat singing"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Broadway musicals",
+    "difficulty": "hard",
+    "id": "e91223da-646f-4b28-89d3-5f24a217b215",
+    "created_at": "2025-04-13T02:03:07.891Z",
+    "backupTimestamp": "2025-04-13T02:03:07.891Z",
+    "localBackupTimestamp": "2025-04-12T20:03:07.891Z"
+  },
+  {
+    "question": "Which Sondheim musical takes place over a weekend in the country and features the song 'Weekend in the Country'?",
+    "correct_answer": "A Little Night Music",
+    "incorrect_answers": [
+      "Sunday in the Park with George",
+      "Into the Woods",
+      "Passion",
+      "Company",
+      "Follies",
+      "Anyone Can Whistle",
+      "Merrily We Roll Along"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Broadway musicals",
+    "difficulty": "hard",
+    "id": "c8501240-9449-456e-abf6-216f0b31f40e",
+    "created_at": "2025-04-13T02:03:07.893Z",
+    "backupTimestamp": "2025-04-13T02:03:07.893Z",
+    "localBackupTimestamp": "2025-04-12T20:03:07.893Z"
+  },
+  {
+    "question": "What is the term for a recurring musical theme associated with a particular character, place, or idea in a musical or opera?",
+    "correct_answer": "Leitmotif",
+    "incorrect_answers": [
+      "Aria",
+      "Recitative",
+      "Overture",
+      "Entr'acte",
+      "Underscore",
+      "Vamp",
+      "Coda"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Broadway musicals",
+    "difficulty": "hard",
+    "id": "6fbb35cc-48a4-4b52-8e26-aeb78da3bbf4",
+    "created_at": "2025-04-13T02:03:07.896Z",
+    "backupTimestamp": "2025-04-13T02:03:07.896Z",
+    "localBackupTimestamp": "2025-04-12T20:03:07.896Z"
+  },
+  {
+    "question": "Which Adam Guettel musical, based on a novella by Elizabeth Spencer, won the Tony Award for Best Score?",
+    "correct_answer": "The Light in the Piazza",
+    "incorrect_answers": [
+      "Floyd Collins",
+      "Myths and Hymns",
+      "Was (Musical)",
+      "South Pacific (Revival score changes)",
+      "Dirty Rotten Scoundrels",
+      "Spamalot",
+      "The 25th Annual Putnam County Spelling Bee"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Broadway musicals",
+    "difficulty": "hard",
+    "id": "46bfad41-010a-4534-ab1c-d947b4d21b88",
+    "created_at": "2025-04-13T02:03:07.898Z",
+    "backupTimestamp": "2025-04-13T02:03:07.899Z",
+    "localBackupTimestamp": "2025-04-12T20:03:07.899Z"
+  },
+  {
+    "question": "What is the name of the fictional high school where 'Heathers: The Musical' takes place?",
+    "correct_answer": "Westerberg High",
+    "incorrect_answers": [
+      "Rydell High",
+      "North Shore High",
+      "Shermer High",
+      "Sunnydale High",
+      "Bayside High",
+      "McKinley High",
+      "Capeside High"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Broadway musicals",
+    "difficulty": "hard",
+    "id": "f52b7051-6048-4ff3-a526-13a726dc44f2",
+    "created_at": "2025-04-13T02:03:07.902Z",
+    "backupTimestamp": "2025-04-13T02:03:07.902Z",
+    "localBackupTimestamp": "2025-04-12T20:03:07.902Z"
+  },
+  {
+    "question": "Which Rodgers and Hammerstein musical features the tragic character Jud Fry?",
+    "correct_answer": "Oklahoma!",
+    "incorrect_answers": [
+      "Carousel",
+      "South Pacific",
+      "The King and I",
+      "Flower Drum Song",
+      "Pipe Dream",
+      "Allegro",
+      "Me and Juliet"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Broadway musicals",
+    "difficulty": "hard",
+    "id": "e254823b-9909-4a0a-9f22-ce33e19b5c1a",
+    "created_at": "2025-04-13T02:03:07.904Z",
+    "backupTimestamp": "2025-04-13T02:03:07.904Z",
+    "localBackupTimestamp": "2025-04-12T20:03:07.904Z"
+  },
+  {
+    "question": "What does the 'Jellicle' in 'Jellicle Cats' (from the musical 'Cats') likely mean?",
+    "correct_answer": "A corruption of 'dear little cats' (according to T.S. Eliot)",
+    "incorrect_answers": [
+      "A specific breed of magical cat",
+      "Cats who live in jelly factories",
+      "The name of their leader",
+      "A type of dance they perform",
+      "Jumping, lyrical cats",
+      "Cats belonging to the Jellicle tribe",
+      "It has no specific meaning"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Broadway musicals",
+    "difficulty": "hard",
+    "id": "31b88bdd-b360-4a79-81f9-27c167af4c28",
+    "created_at": "2025-04-13T02:03:07.907Z",
+    "backupTimestamp": "2025-04-13T02:03:07.907Z",
+    "localBackupTimestamp": "2025-04-12T20:03:07.907Z"
+  },
+  {
+    "question": "Which musical features the song 'Sit Down, John!', depicting the Continental Congress?",
+    "correct_answer": "1776",
+    "incorrect_answers": [
+      "Hamilton",
+      "Assassins",
+      "Bloody Bloody Andrew Jackson",
+      "Ben Franklin in Paris",
+      "The Civil War",
+      "Something Rotten!",
+      "Camelot"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Broadway musicals",
+    "difficulty": "hard",
+    "id": "2a9bef46-84fa-4424-b2ba-d6db02349596",
+    "created_at": "2025-04-13T02:03:07.909Z",
+    "backupTimestamp": "2025-04-13T02:03:07.910Z",
+    "localBackupTimestamp": "2025-04-12T20:03:07.910Z"
+  },
+  {
+    "question": "In 'A Funny Thing Happened on the Way to the Forum', what is Pseudolus trying to gain?",
+    "correct_answer": "His freedom",
+    "incorrect_answers": [
+      "The love of Philia",
+      "A large sum of money",
+      "A position in the Senate",
+      "A rare artifact",
+      "Revenge against Miles Gloriosus",
+      "Citizenship in Rome",
+      "A bigger house"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Broadway musicals",
+    "difficulty": "hard",
+    "id": "80d1e92e-b3a3-46b6-957b-b4848220f62f",
+    "created_at": "2025-04-13T02:03:07.912Z",
+    "backupTimestamp": "2025-04-13T02:03:07.913Z",
+    "localBackupTimestamp": "2025-04-12T20:03:07.913Z"
+  },
+  {
+    "question": "Which composer/lyricist wrote 'Anyone Can Whistle', a notable Broadway flop that later gained a cult following?",
+    "correct_answer": "Stephen Sondheim",
+    "incorrect_answers": [
+      "Andrew Lloyd Webber",
+      "Jerry Herman",
+      "Cy Coleman",
+      "Jule Styne",
+      "Leonard Bernstein",
+      "Frank Loesser",
+      "Marvin Hamlisch"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Broadway musicals",
+    "difficulty": "hard",
+    "id": "e27c2035-3009-4cc0-a6ed-959b1767ae38",
+    "created_at": "2025-04-13T02:03:07.915Z",
+    "backupTimestamp": "2025-04-13T02:03:07.915Z",
+    "localBackupTimestamp": "2025-04-12T20:03:07.915Z"
+  },
+  {
+    "question": "What is the 'Triple Threat' in musical theatre?",
+    "correct_answer": "A performer who excels at acting, singing, and dancing",
+    "incorrect_answers": [
+      "A show that wins the Tony for Best Musical, Best Score, and Best Book",
+      "A performer who plays three different roles",
+      "A song with three distinct sections",
+      "A character who has three main objectives",
+      "A creative team of three people (e.g., composer, lyricist, book writer)",
+      "A type of stage lighting setup",
+      "A musical with three acts"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Broadway musicals",
+    "difficulty": "hard",
+    "id": "aae702c5-90cb-402b-9b30-9d9299765c5a",
+    "created_at": "2025-04-13T02:03:07.917Z",
+    "backupTimestamp": "2025-04-13T02:03:07.918Z",
+    "localBackupTimestamp": "2025-04-12T20:03:07.918Z"
+  },
+  {
+    "question": "Which musical by Michael John LaChiusa is based on a 1928 poem by Joseph Moncure March about a destructive relationship?",
+    "correct_answer": "The Wild Party",
+    "incorrect_answers": [
+      "Marie Christine",
+      "Hello Again",
+      "See What I Wanna See",
+      "Giant",
+      "First Lady Suite",
+      "Bernarda Alba",
+      "Queen of the Mist"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Broadway musicals",
+    "difficulty": "hard",
+    "id": "0255fbf5-bdd8-4fc5-904f-deeb1c8bb76c",
+    "created_at": "2025-04-13T02:03:07.920Z",
+    "backupTimestamp": "2025-04-13T02:03:07.920Z",
+    "localBackupTimestamp": "2025-04-12T20:03:07.920Z"
+  },
+  {
+    "question": "What is the name of the musical based on the life of conjoined twins Violet and Daisy Hilton?",
+    "correct_answer": "Side Show",
+    "incorrect_answers": [
+      "Barnum",
+      "Carnival!",
+      "The Elephant Man (Play)",
+      "Freak Show",
+      "Wonderland",
+      "Big Fish",
+      "Two's Company"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Broadway musicals",
+    "difficulty": "hard",
+    "id": "25d960fb-b12e-4ffe-87c7-c5ea918fb1e8",
+    "created_at": "2025-04-13T02:03:07.922Z",
+    "backupTimestamp": "2025-04-13T02:03:07.922Z",
+    "localBackupTimestamp": "2025-04-12T20:03:07.922Z"
+  },
+  {
+    "question": "Which experimental musical, directed and choreographed by George C. Wolfe, used tap dancing to explore African American history?",
+    "correct_answer": "Bring in 'da Noise, Bring in 'da Funk",
+    "incorrect_answers": [
+      "Shuffle Along",
+      "Jelly's Last Jam",
+      "The Tap Dance Kid",
+      "Sophisticated Ladies",
+      "Eubie!",
+      "Black and Blue",
+      "Hot Feet"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Broadway musicals",
+    "difficulty": "hard",
+    "id": "1112edbf-d26f-476b-8193-13a2f362d99b",
+    "created_at": "2025-04-13T02:03:07.924Z",
+    "backupTimestamp": "2025-04-13T02:03:07.925Z",
+    "localBackupTimestamp": "2025-04-12T20:03:07.925Z"
+  },
+  {
+    "question": "What is 'Urinetown: The Musical' a satire of?",
+    "correct_answer": "Legal systems, capitalism, bureaucracy, and musical theatre conventions",
+    "incorrect_answers": [
+      "Environmentalism",
+      "The healthcare industry",
+      "Romantic comedies",
+      "Reality television",
+      "High school dramas",
+      "Political campaigns",
+      "Organized religion"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Broadway musicals",
+    "difficulty": "hard",
+    "id": "d7a3c842-92cf-4dca-94ef-32baa9fdc77b",
+    "created_at": "2025-04-13T02:03:07.928Z",
+    "backupTimestamp": "2025-04-13T02:03:07.928Z",
+    "localBackupTimestamp": "2025-04-12T20:03:07.928Z"
+  },
+  {
+    "question": "Which composer wrote the music for 'Candide', with various lyricists contributing over the years?",
+    "correct_answer": "Leonard Bernstein",
+    "incorrect_answers": [
+      "Stephen Sondheim",
+      "Kurt Weill",
+      "Richard Rodgers",
+      "George Gershwin",
+      "Marc Blitzstein",
+      "Frank Loesser",
+      "Cole Porter"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Broadway musicals",
+    "difficulty": "hard",
+    "id": "72c636be-c19e-4bd8-8687-99aefd447c4c",
+    "created_at": "2025-04-13T02:03:07.930Z",
+    "backupTimestamp": "2025-04-13T02:03:07.931Z",
+    "localBackupTimestamp": "2025-04-12T20:03:07.931Z"
+  },
+  {
+    "question": "What musical, based on a Puccini opera, is set in the world of Japanese Sumo wrestling in a specific London production?",
+    "correct_answer": "This specific adaptation concept is not widely known/produced; Miss Saigon is based on Madama Butterfly.",
+    "incorrect_answers": [
+      "Miss Saigon",
+      "Pacific Overtures",
+      "The King and I",
+      "Flower Drum Song",
+      "Chu Chem",
+      "Allegiance",
+      "Hot Mikado"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Broadway musicals",
+    "difficulty": "hard",
+    "id": "089af01f-8657-4492-a2a0-4740ddf86dab",
+    "created_at": "2025-04-13T02:03:07.933Z",
+    "backupTimestamp": "2025-04-13T02:03:07.934Z",
+    "localBackupTimestamp": "2025-04-12T20:03:07.934Z"
+  },
+  {
+    "question": "Which musical, telling the story of John Adams and the signing of the Declaration of Independence, has virtually no music during its lengthy dialogue scenes?",
+    "correct_answer": "1776",
+    "incorrect_answers": [
+      "Hamilton",
+      "Assassins",
+      "Bloody Bloody Andrew Jackson",
+      "Camelot",
+      "Les Misérables",
+      "Ragtime",
+      "Pacific Overtures"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Broadway musicals",
+    "difficulty": "hard",
+    "id": "61d43fa7-acac-4738-b328-3f4a83b6d459",
+    "created_at": "2025-04-13T02:03:07.936Z",
+    "backupTimestamp": "2025-04-13T02:03:07.936Z",
+    "localBackupTimestamp": "2025-04-12T20:03:07.936Z"
+  },
+  {
+    "question": "What is the Brechtian concept of 'Verfremdungseffekt', sometimes translated as 'alienation effect', often used in political theatre and musicals like 'Cabaret' or 'The Threepenny Opera'?",
+    "correct_answer": "Techniques used to distance the audience from emotional involvement to encourage critical thought",
+    "incorrect_answers": [
+      "Using only minimalist set design",
+      "Having actors break character frequently",
+      "Incorporating dance throughout the narrative",
+      "A specific style of projection design",
+      "Singing directly to the audience",
+      "Ending the show abruptly without resolution",
+      "Employing non-professional actors"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Broadway musicals",
+    "difficulty": "hard",
+    "id": "122a265c-7587-40f7-830d-b13181338f5d",
+    "created_at": "2025-04-13T02:03:07.938Z",
+    "backupTimestamp": "2025-04-13T02:03:07.939Z",
+    "localBackupTimestamp": "2025-04-12T20:03:07.939Z"
   }
 ]
