@@ -19,7 +19,6 @@
 - Chemistry
 - Physics
 - Astronomy & Space
-- Earth Science
 - Animals & Wildlife
 - Plants & Botany
 
