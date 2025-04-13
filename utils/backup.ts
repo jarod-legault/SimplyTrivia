@@ -10,7 +10,11 @@ export const saveQuestionToBackupFile = (question: any) => {
   }
 
   try {
-    const timestamp = new Date().toISOString().split('T')[0]; // Get YYYY-MM-DD
+    // Get current date in local timezone
+    const now = new Date();
+    const localDate = new Date(now.getTime() - now.getTimezoneOffset() * 60000);
+    const timestamp = localDate.toISOString().split('T')[0]; // YYYY-MM-DD in local timezone
+    
     const backupDir = path.join(process.cwd(), 'data', 'backup');
     if (!fs.existsSync(backupDir)) {
       fs.mkdirSync(backupDir, { recursive: true });
@@ -30,10 +34,11 @@ export const saveQuestionToBackupFile = (question: any) => {
       }
     }
 
-    // Add the new question
+    // Add the new question with both UTC and local timestamps
     questions.push({
       ...question,
-      backupTimestamp: new Date().toISOString(),
+      backupTimestamp: now.toISOString(),
+      localBackupTimestamp: localDate.toISOString(),
     });
 
     // Write back to the file
