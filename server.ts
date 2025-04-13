@@ -13,6 +13,7 @@ import {
   getAllCategories,
   getSubcategories,
   validateCategory,
+  checkQuestionContainsAnswer,
 } from './utils/server-db';
 import { generateUUID } from './utils/uuid';
 
@@ -85,6 +86,7 @@ app.post('/api/questions', (async (
 
     const added = [];
     const duplicates = [];
+    const answersInQuestions = [];
     const errors = [];
 
     for (const data of questionsData) {
@@ -124,6 +126,17 @@ app.post('/api/questions', (async (
           errors.push({
             question: data.question,
             error: `Invalid category combination: ${data.main_category}/${data.subcategory}`,
+          });
+          continue;
+        }
+
+        // Check if answer is in question
+        if (checkQuestionContainsAnswer(data.question, data.correct_answer)) {
+          console.log('Found answer in question');
+          answersInQuestions.push({
+            newQuestion: data,
+            reason: 'Answer appears in question text',
+            answer: data.correct_answer,
           });
           continue;
         }
@@ -173,6 +186,7 @@ app.post('/api/questions', (async (
     console.log('Request complete:', {
       added: added.length,
       duplicates: duplicates.length,
+      answersInQuestions: answersInQuestions.length,
       errors: errors.length,
     });
 
@@ -180,9 +194,11 @@ app.post('/api/questions', (async (
       success: true,
       added: added.length,
       duplicates: duplicates.length,
+      answersInQuestions: answersInQuestions.length,
       errors: errors.length,
       addedData: added,
       duplicatesData: duplicates,
+      answersInQuestionsData: answersInQuestions,
       errorsData: errors,
     });
   } catch (error) {
@@ -297,6 +313,85 @@ app.post('/api/questions/handle-duplicate', (async (req: Request, res: Response)
     res.status(500).json({
       success: false,
       error: 'Internal server error',
+    });
+  }
+}) as RequestHandler);
+
+// Handle answer-in-question approval/rejection
+app.post('/api/questions/handle-answer-in-question', (async (req: Request, res: Response) => {
+  try {
+    const { question, approved } = req.body;
+    const db = getDB();
+
+    if (!question) {
+      res.status(400).json({
+        success: false,
+        error: 'Question data is required',
+      });
+      return;
+    }
+
+    if (typeof approved !== 'boolean') {
+      res.status(400).json({
+        success: false,
+        error: 'Approved status must be a boolean',
+      });
+      return;
+    }
+
+    if (approved) {
+      // If approved, add the question despite containing its answer
+      try {
+        const incorrectAnswers = Array.isArray(question.incorrect_answers)
+          ? question.incorrect_answers
+          : JSON.parse(question.incorrect_answers);
+
+        const newQuestion = {
+          id: generateUUID(),
+          question: question.question,
+          correctAnswer: question.correct_answer,
+          incorrectAnswers: JSON.stringify(incorrectAnswers),
+          mainCategory: question.main_category,
+          subcategory: question.subcategory,
+          difficulty: question.difficulty,
+          createdAt: new Date(),
+        };
+
+        // Insert into database
+        await db.insert(schema.questions).values(newQuestion);
+
+        // Save to backup
+        await saveQuestionToBackupFile({
+          ...question,
+          id: newQuestion.id,
+          created_at: newQuestion.createdAt,
+        });
+
+        res.json({
+          success: true,
+          message: 'Question approved and added despite containing answer',
+        });
+        return;
+      } catch (error) {
+        console.error('Error adding approved question:', error);
+        res.status(500).json({
+          success: false,
+          error: 'Failed to add approved question',
+        });
+        return;
+      }
+    }
+
+    // If not approved (rejected), just return success
+    res.json({
+      success: true,
+      message: 'Question rejected',
+    });
+  } catch (error) {
+    console.error('Error handling answer-in-question:', error);
+    res.status(500).json({
+      success: false,
+      error: error instanceof Error ? error.message : String(error),
     });
   }
 }) as RequestHandler);

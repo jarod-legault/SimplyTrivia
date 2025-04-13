@@ -348,3 +348,41 @@ export const saveQuestionToBackupFile = (question: any) => {
     return false;
   }
 };
+
+/**
+ * Check if a question contains its answer
+ */
+export const checkQuestionContainsAnswer = (question: string, answer: string): boolean => {
+  // Convert both to lowercase for case-insensitive comparison
+  const normalizedQuestion = question.toLowerCase();
+  const normalizedAnswer = answer.toLowerCase();
+
+  // Clean up the strings by removing punctuation and extra spaces
+  const cleanQuestion = normalizedQuestion
+    .replace(/[.,/#!$%^&*;:{}=\-_`~()]/g, ' ')
+    .replace(/\s+/g, ' ')
+    .trim();
+  const cleanAnswer = normalizedAnswer
+    .replace(/[.,/#!$%^&*;:{}=\-_`~()]/g, ' ')
+    .replace(/\s+/g, ' ')
+    .trim();
+
+  // Split answer into words
+  const answerWords = cleanAnswer.split(' ');
+
+  // For very short answers (1-2 words), check if the exact phrase appears
+  if (answerWords.length <= 2) {
+    return cleanQuestion.includes(cleanAnswer);
+  }
+
+  // For longer answers, check if a significant portion of the answer appears in sequence
+  const significantLength = Math.ceil(answerWords.length * 0.75); // 75% of the answer words
+  for (let i = 0; i <= answerWords.length - significantLength; i++) {
+    const phrase = answerWords.slice(i, i + significantLength).join(' ');
+    if (cleanQuestion.includes(phrase)) {
+      return true;
+    }
+  }
+
+  return false;
+};

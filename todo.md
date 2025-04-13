@@ -64,6 +64,7 @@
   - [ ] Create question screen
   - [ ] Create statistics screen where user can see how they have performed in different categories and difficulties.
   - [ ] Handle the case when the user has answered all available questions.
+  - [ ] Add a way for a user to report questions in the mobile app. Email simplytrivia@gmail.com?
   - [ ] Test in dark mode and light mode.
 
 ## Future updates

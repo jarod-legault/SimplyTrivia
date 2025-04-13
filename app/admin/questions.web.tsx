@@ -32,6 +32,12 @@ interface ErrorData {
   error: string;
 }
 
+interface AnswerInQuestion {
+  newQuestion: any;
+  reason: string;
+  answer: string;
+}
+
 export default function QuestionsPage() {
   const [jsonInput, setJsonInput] = useState('');
   const [questions, setQuestions] = useState<any[]>([]);
@@ -45,7 +51,9 @@ export default function QuestionsPage() {
       similarQuestions: DuplicateQuestion[];
     }[]
   >([]);
+  const [answersInQuestions, setAnswersInQuestions] = useState<AnswerInQuestion[]>([]);
   const [showDuplicatesModal, setShowDuplicatesModal] = useState(false);
+  const [showAnswersInQuestionsModal, setShowAnswersInQuestionsModal] = useState(false);
   const [currentPage, setCurrentPage] = useState(1);
   const [pagination, setPagination] = useState<PaginationData>({
     page: 1,
@@ -87,9 +95,9 @@ export default function QuestionsPage() {
     }
   };
 
-  const handleImport = async () => {
+  const handleQuestionsImport = async () => {
     if (!jsonInput.trim()) {
-      setError('Please enter some JSON data');
+      setError('Please enter or upload some questions first');
       return;
     }
 
@@ -97,29 +105,16 @@ export default function QuestionsPage() {
     setError(null);
 
     try {
-      // Parse JSON input to validate it first
-      try {
-        const parsed = JSON.parse(jsonInput);
-        if (!Array.isArray(parsed) && typeof parsed === 'object') {
-          // We're good, it's either an array or a single object
-        }
-      } catch {
-        setError('Invalid JSON format. Please check your input.');
-        setIsLoading(false);
-        return;
-      }
-
-      // Send to API
+      const questions = JSON.parse(jsonInput);
       const response = await fetch(`${API_BASE_URL}/questions`, {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
-        body: jsonInput,
+        body: JSON.stringify(questions),
       });
 
       const result = await response.json();
 
       if (result.success) {
-        // If there are any errors, show them even if some questions were added
         if (result.errors > 0) {
           const errorMessages = result.errorsData
             .map((error: ErrorData) => `Question "${error.question}": ${error.error}`)
@@ -138,8 +133,14 @@ export default function QuestionsPage() {
           setShowDuplicatesModal(true);
         }
 
+        // If there are answers in questions, show them in the modal
+        if (result.answersInQuestions > 0 && result.answersInQuestionsData) {
+          setAnswersInQuestions(result.answersInQuestionsData);
+          setShowAnswersInQuestionsModal(true);
+        }
+
         // Only clear input if everything was successful
-        if (result.errors === 0 && result.duplicates === 0) {
+        if (result.errors === 0 && result.duplicates === 0 && result.answersInQuestions === 0) {
           setJsonInput('');
         }
 
@@ -152,7 +153,11 @@ export default function QuestionsPage() {
       }
     } catch (err) {
       console.error('Error importing questions:', err);
-      setError('Network error: Failed to import questions');
+      if (err instanceof SyntaxError) {
+        setError('Invalid JSON format. Please check your input.');
+      } else {
+        setError('Network error: Failed to import questions');
+      }
     } finally {
       setIsLoading(false);
     }
@@ -244,6 +249,43 @@ export default function QuestionsPage() {
     }
   };
 
+  const handleAnswerInQuestionApproval = async (question: any, approved: boolean) => {
+    try {
+      const response = await fetch(`${API_BASE_URL}/questions/handle-answer-in-question`, {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({
+          question,
+          approved,
+        }),
+      });
+
+      const result = await response.json();
+
+      if (result.success) {
+        // Remove this question from the list
+        setAnswersInQuestions((prev) =>
+          prev.filter((q) => q.newQuestion.question !== question.question)
+        );
+
+        // Close modal if no more questions
+        if (answersInQuestions.length <= 1) {
+          setShowAnswersInQuestionsModal(false);
+        }
+
+        // Refresh questions list if approved
+        if (approved) {
+          fetchQuestions();
+        }
+      } else {
+        setError(result.error || 'Failed to handle answer-in-question');
+      }
+    } catch (err) {
+      console.error('Error handling answer-in-question:', err);
+      setError('Network error: Failed to handle answer-in-question');
+    }
+  };
+
   const handlePageChange = (newPage: number) => {
     if (newPage >= 1 && newPage <= pagination.totalPages) {
       setCurrentPage(newPage);
@@ -274,7 +316,7 @@ export default function QuestionsPage() {
 
       <View style={styles.buttonContainerCentered}>
         <Pressable
-          onPress={handleImport}
+          onPress={handleQuestionsImport}
           disabled={isLoading}
           style={({ pressed }) => [
             styles.button,
@@ -467,6 +509,74 @@ export default function QuestionsPage() {
 
             <Pressable
               onPress={() => setShowDuplicatesModal(false)}
+              style={({ pressed }) => [
+                styles.button,
+                styles.closeButton,
+                pressed && { opacity: 0.7 },
+              ]}>
+              <Text style={styles.buttonText}>Close</Text>
+            </Pressable>
+          </View>
+        </View>
+      </Modal>
+
+      {/* Answer in Question Modal */}
+      <Modal
+        visible={showAnswersInQuestionsModal}
+        transparent
+        animationType="fade"
+        onRequestClose={() => setShowAnswersInQuestionsModal(false)}>
+        <View style={styles.modalOverlay}>
+          <View style={styles.modalContent}>
+            <Text style={styles.modalTitle}>Review Questions with Answers</Text>
+            <Text style={styles.modalSubtitle}>
+              {answersInQuestions.length} question{answersInQuestions.length !== 1 ? 's' : ''}
+              contain{answersInQuestions.length === 1 ? 's' : ''} their answer
+            </Text>
+
+            <ScrollView style={styles.duplicatesContainer}>
+              {answersInQuestions.map((item, index) => (
+                <View key={index} style={styles.duplicateItem}>
+                  <View style={styles.questionComparison}>
+                    <View style={styles.questionBox}>
+                      <Text style={styles.questionLabel}>Question:</Text>
+                      <Text style={styles.questionText}>{item.newQuestion.question}</Text>
+                      <Text style={styles.questionMeta}>
+                        Category: {item.newQuestion.main_category} | Difficulty:{' '}
+                        {item.newQuestion.difficulty}
+                      </Text>
+                      <Text style={styles.answerText}>Answer: {item.answer}</Text>
+                      <Text style={styles.reasonText}>Reason: {item.reason}</Text>
+                    </View>
+                  </View>
+
+                  <View style={styles.duplicateActions}>
+                    <Pressable
+                      onPress={() => handleAnswerInQuestionApproval(item.newQuestion, true)}
+                      style={({ pressed }) => [
+                        styles.button,
+                        styles.approveButton,
+                        pressed && { opacity: 0.7 },
+                      ]}>
+                      <Text style={styles.buttonText}>Add Anyway</Text>
+                    </Pressable>
+                    <View style={styles.buttonSpacing} />
+                    <Pressable
+                      onPress={() => handleAnswerInQuestionApproval(item.newQuestion, false)}
+                      style={({ pressed }) => [
+                        styles.button,
+                        styles.rejectButton,
+                        pressed && { opacity: 0.7 },
+                      ]}>
+                      <Text style={styles.buttonText}>Skip</Text>
+                    </Pressable>
+                  </View>
+                </View>
+              ))}
+            </ScrollView>
+
+            <Pressable
+              onPress={() => setShowAnswersInQuestionsModal(false)}
               style={({ pressed }) => [
                 styles.button,
                 styles.closeButton,
@@ -690,5 +800,16 @@ const styles = StyleSheet.create({
   paginationText: {
     fontSize: 14,
     marginHorizontal: 10,
+  },
+  answerText: {
+    fontSize: 14,
+    color: '#e65100',
+    marginTop: 8,
+  },
+  reasonText: {
+    fontSize: 14,
+    color: '#666',
+    marginTop: 4,
+    fontStyle: 'italic',
   },
 });
