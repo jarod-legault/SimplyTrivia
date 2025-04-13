@@ -25838,5 +25838,3105 @@
     "created_at": "2025-04-13T02:22:02.761Z",
     "backupTimestamp": "2025-04-13T02:22:02.761Z",
     "localBackupTimestamp": "2025-04-12T20:22:02.761Z"
+  },
+  {
+    "question": "Which actor plays Tony Stark / Iron Man in the Marvel Cinematic Universe?",
+    "correct_answer": "Robert Downey Jr.",
+    "incorrect_answers": [
+      "Chris Evans",
+      "Chris Hemsworth",
+      "Mark Ruffalo",
+      "Chris Pratt",
+      "Tom Hiddleston",
+      "Benedict Cumberbatch",
+      "Samuel L. Jackson"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Celebrities",
+    "difficulty": "easy",
+    "id": "7ff7bedc-9484-4b5e-8ec8-e0da4f52b041",
+    "created_at": "2025-04-13T04:04:54.604Z",
+    "backupTimestamp": "2025-04-13T04:04:54.612Z",
+    "localBackupTimestamp": "2025-04-12T22:04:54.612Z"
+  },
+  {
+    "question": "Who is known as the 'Queen of Pop'?",
+    "correct_answer": "Madonna",
+    "incorrect_answers": [
+      "Beyoncé",
+      "Lady Gaga",
+      "Taylor Swift",
+      "Britney Spears",
+      "Rihanna",
+      "Katy Perry",
+      "Janet Jackson"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Celebrities",
+    "difficulty": "easy",
+    "id": "74db9bb0-fd6c-4f44-b9a7-b74b973146d5",
+    "created_at": "2025-04-13T04:04:54.626Z",
+    "backupTimestamp": "2025-04-13T04:04:54.637Z",
+    "localBackupTimestamp": "2025-04-12T22:04:54.637Z"
+  },
+  {
+    "question": "Which actor portrayed Jack Sparrow in the 'Pirates of the Caribbean' film series?",
+    "correct_answer": "Johnny Depp",
+    "incorrect_answers": [
+      "Orlando Bloom",
+      "Leonardo DiCaprio",
+      "Brad Pitt",
+      "Tom Cruise",
+      "Keanu Reeves",
+      "Hugh Jackman",
+      "Robert Downey Jr."
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Celebrities",
+    "difficulty": "easy",
+    "id": "079cd1f2-4d09-49b4-aa55-0b3d362e7b28",
+    "created_at": "2025-04-13T04:04:54.653Z",
+    "backupTimestamp": "2025-04-13T04:04:54.654Z",
+    "localBackupTimestamp": "2025-04-12T22:04:54.654Z"
+  },
+  {
+    "question": "Which singer famously performed 'Thriller' and is known as the 'King of Pop'?",
+    "correct_answer": "Michael Jackson",
+    "incorrect_answers": [
+      "Prince",
+      "Stevie Wonder",
+      "Elvis Presley",
+      "James Brown",
+      "Freddie Mercury",
+      "Elton John",
+      "David Bowie"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Celebrities",
+    "difficulty": "easy",
+    "id": "c1151368-b32b-4bac-9ab8-3ed8f52a9e44",
+    "created_at": "2025-04-13T04:04:54.666Z",
+    "backupTimestamp": "2025-04-13T04:04:54.667Z",
+    "localBackupTimestamp": "2025-04-12T22:04:54.667Z"
+  },
+  {
+    "question": "Which actress played Hermione Granger in the 'Harry Potter' films?",
+    "correct_answer": "Emma Watson",
+    "incorrect_answers": [
+      "Kristen Stewart",
+      "Jennifer Lawrence",
+      "Scarlett Johansson",
+      "Keira Knightley",
+      "Natalie Portman",
+      "Bonnie Wright",
+      "Evanna Lynch"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Celebrities",
+    "difficulty": "easy",
+    "id": "373f5c66-6245-4686-b372-c81f008fa6f4",
+    "created_at": "2025-04-13T04:04:54.673Z",
+    "backupTimestamp": "2025-04-13T04:04:54.673Z",
+    "localBackupTimestamp": "2025-04-12T22:04:54.673Z"
+  },
+  {
+    "question": "What celebrity couple was famously known as 'Brangelina'?",
+    "correct_answer": "Brad Pitt and Angelina Jolie",
+    "incorrect_answers": [
+      "Tom Cruise and Katie Holmes",
+      "Ben Affleck and Jennifer Lopez",
+      "Justin Timberlake and Britney Spears",
+      "Kanye West and Kim Kardashian",
+      "David and Victoria Beckham",
+      "Ryan Reynolds and Blake Lively",
+      "Jay-Z and Beyoncé"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Celebrities",
+    "difficulty": "easy",
+    "id": "9bd52f0e-29d3-40ac-8176-d1659f32a541",
+    "created_at": "2025-04-13T04:04:54.691Z",
+    "backupTimestamp": "2025-04-13T04:04:54.692Z",
+    "localBackupTimestamp": "2025-04-12T22:04:54.692Z"
+  },
+  {
+    "question": "Who played Katniss Everdeen in 'The Hunger Games' films?",
+    "correct_answer": "Jennifer Lawrence",
+    "incorrect_answers": [
+      "Emma Watson",
+      "Shailene Woodley",
+      "Kristen Stewart",
+      "Saoirse Ronan",
+      "Brie Larson",
+      "Margot Robbie",
+      "Elizabeth Olsen"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Celebrities",
+    "difficulty": "easy",
+    "id": "152399db-18d2-4ac3-8180-10960554a77b",
+    "created_at": "2025-04-13T04:04:54.699Z",
+    "backupTimestamp": "2025-04-13T04:04:54.699Z",
+    "localBackupTimestamp": "2025-04-12T22:04:54.699Z"
+  },
+  {
+    "question": "Which famous actor starred in 'Forrest Gump', 'Cast Away', and 'Toy Story'?",
+    "correct_answer": "Tom Hanks",
+    "incorrect_answers": [
+      "Tom Cruise",
+      "Brad Pitt",
+      "Leonardo DiCaprio",
+      "Johnny Depp",
+      "Harrison Ford",
+      "Robin Williams",
+      "Denzel Washington"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Celebrities",
+    "difficulty": "easy",
+    "id": "23cb1b87-af4c-4757-acf0-8c918e8a6678",
+    "created_at": "2025-04-13T04:04:54.706Z",
+    "backupTimestamp": "2025-04-13T04:04:54.706Z",
+    "localBackupTimestamp": "2025-04-12T22:04:54.706Z"
+  },
+  {
+    "question": "Who is the lead singer of the band Coldplay?",
+    "correct_answer": "Chris Martin",
+    "incorrect_answers": [
+      "Bono",
+      "Thom Yorke",
+      "Eddie Vedder",
+      "Dave Grohl",
+      "Adam Levine",
+      "Brandon Flowers",
+      "Alex Turner"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Celebrities",
+    "difficulty": "easy",
+    "id": "868af2cb-96e2-4760-9da3-564302a5d4bc",
+    "created_at": "2025-04-13T04:04:54.712Z",
+    "backupTimestamp": "2025-04-13T04:04:54.712Z",
+    "localBackupTimestamp": "2025-04-12T22:04:54.712Z"
+  },
+  {
+    "question": "Which actress is famous for her role as Elle Woods in 'Legally Blonde'?",
+    "correct_answer": "Reese Witherspoon",
+    "incorrect_answers": [
+      "Cameron Diaz",
+      "Kate Hudson",
+      "Jennifer Aniston",
+      "Anne Hathaway",
+      "Drew Barrymore",
+      "Jessica Alba",
+      "Amanda Seyfried"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Celebrities",
+    "difficulty": "easy",
+    "id": "f1c1f1ab-d2bf-468e-9173-a8318cc2f385",
+    "created_at": "2025-04-13T04:04:54.722Z",
+    "backupTimestamp": "2025-04-13T04:04:54.723Z",
+    "localBackupTimestamp": "2025-04-12T22:04:54.723Z"
+  },
+  {
+    "question": "Which rapper is known for albums like 'The Marshall Mathers LP' and 'Recovery'?",
+    "correct_answer": "Eminem",
+    "incorrect_answers": [
+      "Jay-Z",
+      "Kanye West",
+      "Drake",
+      "Snoop Dogg",
+      "Dr. Dre",
+      "Kendrick Lamar",
+      "50 Cent"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Celebrities",
+    "difficulty": "easy",
+    "id": "9b44065a-53d0-428f-b93d-99a5fd5c32f5",
+    "created_at": "2025-04-13T04:04:54.734Z",
+    "backupTimestamp": "2025-04-13T04:04:54.735Z",
+    "localBackupTimestamp": "2025-04-12T22:04:54.735Z"
+  },
+  {
+    "question": "Which actor plays Captain America in the Marvel Cinematic Universe?",
+    "correct_answer": "Chris Evans",
+    "incorrect_answers": [
+      "Robert Downey Jr.",
+      "Chris Hemsworth",
+      "Mark Ruffalo",
+      "Chris Pratt",
+      "Sebastian Stan",
+      "Anthony Mackie",
+      "Jeremy Renner"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Celebrities",
+    "difficulty": "easy",
+    "id": "11ce6251-f8ef-4f6f-b633-04b544d04528",
+    "created_at": "2025-04-13T04:04:54.746Z",
+    "backupTimestamp": "2025-04-13T04:04:54.747Z",
+    "localBackupTimestamp": "2025-04-12T22:04:54.747Z"
+  },
+  {
+    "question": "Which pop star sang '...Baby One More Time' and 'Toxic'?",
+    "correct_answer": "Britney Spears",
+    "incorrect_answers": [
+      "Christina Aguilera",
+      "Madonna",
+      "Lady Gaga",
+      "Katy Perry",
+      "Rihanna",
+      "Beyoncé",
+      "Taylor Swift"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Celebrities",
+    "difficulty": "easy",
+    "id": "82e2d746-b038-496e-9f3d-5525acc741a4",
+    "created_at": "2025-04-13T04:04:54.753Z",
+    "backupTimestamp": "2025-04-13T04:04:54.754Z",
+    "localBackupTimestamp": "2025-04-12T22:04:54.754Z"
+  },
+  {
+    "question": "Which actor is known for playing Wolverine in the X-Men films?",
+    "correct_answer": "Hugh Jackman",
+    "incorrect_answers": [
+      "Patrick Stewart",
+      "Ian McKellen",
+      "Ryan Reynolds",
+      "Michael Fassbender",
+      "James McAvoy",
+      "Liev Schreiber",
+      "Halle Berry"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Celebrities",
+    "difficulty": "easy",
+    "id": "8959e0a0-a84b-4e50-8571-a97ce203ed34",
+    "created_at": "2025-04-13T04:04:54.759Z",
+    "backupTimestamp": "2025-04-13T04:04:54.760Z",
+    "localBackupTimestamp": "2025-04-12T22:04:54.760Z"
+  },
+  {
+    "question": "Which singer-songwriter released the albums '1989' and 'Folklore'?",
+    "correct_answer": "Taylor Swift",
+    "incorrect_answers": [
+      "Adele",
+      "Katy Perry",
+      "Lady Gaga",
+      "Beyoncé",
+      "Ariana Grande",
+      "Rihanna",
+      "Selena Gomez"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Celebrities",
+    "difficulty": "easy",
+    "id": "bf250193-07e1-43b4-aa35-2fce8e371308",
+    "created_at": "2025-04-13T04:04:54.765Z",
+    "backupTimestamp": "2025-04-13T04:04:54.765Z",
+    "localBackupTimestamp": "2025-04-12T22:04:54.765Z"
+  },
+  {
+    "question": "Which actor is known for his roles in 'Titanic' and 'Inception'?",
+    "correct_answer": "Leonardo DiCaprio",
+    "incorrect_answers": [
+      "Brad Pitt",
+      "Johnny Depp",
+      "Matt Damon",
+      "Tom Hardy",
+      "Christian Bale",
+      "Joseph Gordon-Levitt",
+      "Matthew McConaughey"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Celebrities",
+    "difficulty": "easy",
+    "id": "3835f0b7-2e71-4cc5-acc5-5f6a5ef3a075",
+    "created_at": "2025-04-13T04:04:54.773Z",
+    "backupTimestamp": "2025-04-13T04:04:54.773Z",
+    "localBackupTimestamp": "2025-04-12T22:04:54.773Z"
+  },
+  {
+    "question": "Who played Rachel Green in the popular TV show 'Friends'?",
+    "correct_answer": "Jennifer Aniston",
+    "incorrect_answers": [
+      "Courteney Cox",
+      "Lisa Kudrow",
+      "Reese Witherspoon",
+      "Sarah Jessica Parker",
+      "Julia Roberts",
+      "Sandra Bullock",
+      "Meg Ryan"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Celebrities",
+    "difficulty": "easy",
+    "id": "c09fbcc3-a0f6-4251-bbcc-3716c5477334",
+    "created_at": "2025-04-13T04:04:54.787Z",
+    "backupTimestamp": "2025-04-13T04:04:54.788Z",
+    "localBackupTimestamp": "2025-04-12T22:04:54.788Z"
+  },
+  {
+    "question": "Which singer performed 'Single Ladies (Put a Ring on It)' and 'Crazy in Love'?",
+    "correct_answer": "Beyoncé",
+    "incorrect_answers": [
+      "Rihanna",
+      "Alicia Keys",
+      "Mariah Carey",
+      "Whitney Houston",
+      "Janet Jackson",
+      "Jennifer Lopez",
+      "Ciara"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Celebrities",
+    "difficulty": "easy",
+    "id": "ce301fb2-7172-49cc-8fd7-1aba39f29490",
+    "created_at": "2025-04-13T04:04:54.792Z",
+    "backupTimestamp": "2025-04-13T04:04:54.792Z",
+    "localBackupTimestamp": "2025-04-12T22:04:54.792Z"
+  },
+  {
+    "question": "Which actor starred as the Terminator?",
+    "correct_answer": "Arnold Schwarzenegger",
+    "incorrect_answers": [
+      "Sylvester Stallone",
+      "Bruce Willis",
+      "Jean-Claude Van Damme",
+      "Dwayne Johnson",
+      "Vin Diesel",
+      "Mel Gibson",
+      "Kurt Russell"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Celebrities",
+    "difficulty": "easy",
+    "id": "18ecfcd4-3d40-4718-94d0-09ecb052c8b4",
+    "created_at": "2025-04-13T04:04:54.800Z",
+    "backupTimestamp": "2025-04-13T04:04:54.800Z",
+    "localBackupTimestamp": "2025-04-12T22:04:54.800Z"
+  },
+  {
+    "question": "What is the stage name of the singer born Stefani Germanotta?",
+    "correct_answer": "Lady Gaga",
+    "incorrect_answers": [
+      "Katy Perry",
+      "Pink",
+      "Madonna",
+      "Lana Del Rey",
+      "Lorde",
+      "Sia",
+      "Charli XCX"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Celebrities",
+    "difficulty": "easy",
+    "id": "9cc27e12-685a-4f14-b8ea-0377a5ff7745",
+    "created_at": "2025-04-13T04:04:54.806Z",
+    "backupTimestamp": "2025-04-13T04:04:54.806Z",
+    "localBackupTimestamp": "2025-04-12T22:04:54.806Z"
+  },
+  {
+    "question": "Which comedian created and starred in the TV show 'Seinfeld'?",
+    "correct_answer": "Jerry Seinfeld",
+    "incorrect_answers": [
+      "Larry David",
+      "Chris Rock",
+      "Dave Chappelle",
+      "Ricky Gervais",
+      "Louis C.K.",
+      "Bill Burr",
+      "George Carlin"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Celebrities",
+    "difficulty": "easy",
+    "id": "a8c59a16-e8d4-4b4b-96e9-16fa979fa96d",
+    "created_at": "2025-04-13T04:04:54.812Z",
+    "backupTimestamp": "2025-04-13T04:04:54.812Z",
+    "localBackupTimestamp": "2025-04-12T22:04:54.812Z"
+  },
+  {
+    "question": "Which British singer is known for powerful ballads like 'Hello' and 'Someone Like You'?",
+    "correct_answer": "Adele",
+    "incorrect_answers": [
+      "Amy Winehouse",
+      "Dua Lipa",
+      "Florence Welch",
+      "Jessie J",
+      "Ellie Goulding",
+      "Leona Lewis",
+      "Lily Allen"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Celebrities",
+    "difficulty": "easy",
+    "id": "c34332e2-6cd2-4852-bdb4-10ae60501a5d",
+    "created_at": "2025-04-13T04:04:54.818Z",
+    "backupTimestamp": "2025-04-13T04:04:54.818Z",
+    "localBackupTimestamp": "2025-04-12T22:04:54.818Z"
+  },
+  {
+    "question": "Which actor plays Thor in the Marvel Cinematic Universe?",
+    "correct_answer": "Chris Hemsworth",
+    "incorrect_answers": [
+      "Chris Evans",
+      "Robert Downey Jr.",
+      "Tom Hiddleston",
+      "Mark Ruffalo",
+      "Liam Hemsworth",
+      "Chris Pratt",
+      "Anthony Hopkins"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Celebrities",
+    "difficulty": "easy",
+    "id": "cf9cd32e-18af-47c3-a470-4c46de2bafbb",
+    "created_at": "2025-04-13T04:04:54.824Z",
+    "backupTimestamp": "2025-04-13T04:04:54.825Z",
+    "localBackupTimestamp": "2025-04-12T22:04:54.825Z"
+  },
+  {
+    "question": "Which celebrity is famous for her reality TV show 'Keeping Up with the Kardashians'?",
+    "correct_answer": "Kim Kardashian",
+    "incorrect_answers": [
+      "Paris Hilton",
+      "Nicole Richie",
+      "Kylie Jenner",
+      "Khloé Kardashian",
+      "Kourtney Kardashian",
+      "Kendall Jenner",
+      "Kris Jenner"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Celebrities",
+    "difficulty": "easy",
+    "id": "f0fca6df-91c2-4ad8-a517-921c905f4c2a",
+    "created_at": "2025-04-13T04:04:54.829Z",
+    "backupTimestamp": "2025-04-13T04:04:54.830Z",
+    "localBackupTimestamp": "2025-04-12T22:04:54.830Z"
+  },
+  {
+    "question": "Which actor portrayed Han Solo in the original 'Star Wars' trilogy?",
+    "correct_answer": "Harrison Ford",
+    "incorrect_answers": [
+      "Mark Hamill",
+      "Carrie Fisher",
+      "Alec Guinness",
+      "Billy Dee Williams",
+      "Peter Mayhew",
+      "Anthony Daniels",
+      "Alden Ehrenreich"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Celebrities",
+    "difficulty": "easy",
+    "id": "684a9341-b94d-43ed-85d3-e330cf76ad80",
+    "created_at": "2025-04-13T04:04:54.837Z",
+    "backupTimestamp": "2025-04-13T04:04:54.837Z",
+    "localBackupTimestamp": "2025-04-12T22:04:54.837Z"
+  },
+  {
+    "question": "Which rapper starred in the TV show 'The Fresh Prince of Bel-Air'?",
+    "correct_answer": "Will Smith",
+    "incorrect_answers": [
+      "Ice Cube",
+      "LL Cool J",
+      "Queen Latifah",
+      "Snoop Dogg",
+      "Dr. Dre",
+      "Tupac Shakur",
+      "Jay-Z"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Celebrities",
+    "difficulty": "easy",
+    "id": "2b7e1c0c-9c1b-4f73-b08f-1ec37d2b8366",
+    "created_at": "2025-04-13T04:04:54.841Z",
+    "backupTimestamp": "2025-04-13T04:04:54.842Z",
+    "localBackupTimestamp": "2025-04-12T22:04:54.842Z"
+  },
+  {
+    "question": "Who is the lead singer of the band U2?",
+    "correct_answer": "Bono",
+    "incorrect_answers": [
+      "The Edge",
+      "Sting",
+      "Chris Martin",
+      "Bruce Springsteen",
+      "Mick Jagger",
+      "Robert Plant",
+      "Freddie Mercury"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Celebrities",
+    "difficulty": "easy",
+    "id": "67c47697-5434-4d0c-b638-ad8f8ed768e9",
+    "created_at": "2025-04-13T04:04:54.847Z",
+    "backupTimestamp": "2025-04-13T04:04:54.848Z",
+    "localBackupTimestamp": "2025-04-12T22:04:54.848Z"
+  },
+  {
+    "question": "Which actress played Black Widow in the Marvel Cinematic Universe?",
+    "correct_answer": "Scarlett Johansson",
+    "incorrect_answers": [
+      "Elizabeth Olsen",
+      "Brie Larson",
+      "Gwyneth Paltrow",
+      "Zoe Saldana",
+      "Cobie Smulders",
+      "Florence Pugh",
+      "Natalie Portman"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Celebrities",
+    "difficulty": "easy",
+    "id": "4c502fab-68c5-4780-abdc-f43cd82cfc66",
+    "created_at": "2025-04-13T04:04:54.852Z",
+    "backupTimestamp": "2025-04-13T04:04:54.852Z",
+    "localBackupTimestamp": "2025-04-12T22:04:54.852Z"
+  },
+  {
+    "question": "Which actor starred in the 'Rocky' and 'Rambo' film series?",
+    "correct_answer": "Sylvester Stallone",
+    "incorrect_answers": [
+      "Arnold Schwarzenegger",
+      "Bruce Willis",
+      "Jean-Claude Van Damme",
+      "Dolph Lundgren",
+      "Chuck Norris",
+      "Steven Seagal",
+      "Mel Gibson"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Celebrities",
+    "difficulty": "easy",
+    "id": "2147afa6-e4e4-4ff2-bcce-3416f011b08d",
+    "created_at": "2025-04-13T04:04:54.856Z",
+    "backupTimestamp": "2025-04-13T04:04:54.857Z",
+    "localBackupTimestamp": "2025-04-12T22:04:54.857Z"
+  },
+  {
+    "question": "Which female artist released the album 'Lemonade'?",
+    "correct_answer": "Beyoncé",
+    "incorrect_answers": [
+      "Rihanna",
+      "Adele",
+      "Taylor Swift",
+      "Lady Gaga",
+      "Solange Knowles",
+      "Alicia Keys",
+      "SZA"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Celebrities",
+    "difficulty": "easy",
+    "id": "7d2e9641-5d67-4ec3-8aaa-c7f4b891fefd",
+    "created_at": "2025-04-13T04:04:54.861Z",
+    "backupTimestamp": "2025-04-13T04:04:54.861Z",
+    "localBackupTimestamp": "2025-04-12T22:04:54.861Z"
+  },
+  {
+    "question": "Who played Indiana Jones?",
+    "correct_answer": "Harrison Ford",
+    "incorrect_answers": [
+      "Sean Connery",
+      "Tom Selleck",
+      "George Lucas",
+      "Steven Spielberg",
+      "River Phoenix",
+      "John Rhys-Davies",
+      "Chris Pratt"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Celebrities",
+    "difficulty": "easy",
+    "id": "975fd59e-84b4-45a2-9337-3a770dab1a8d",
+    "created_at": "2025-04-13T04:04:54.866Z",
+    "backupTimestamp": "2025-04-13T04:04:54.867Z",
+    "localBackupTimestamp": "2025-04-12T22:04:54.867Z"
+  },
+  {
+    "question": "Which singer from Barbados is known for hits like 'Umbrella' and 'Diamonds'?",
+    "correct_answer": "Rihanna",
+    "incorrect_answers": [
+      "Beyoncé",
+      "Nicki Minaj",
+      "Cardi B",
+      "Alicia Keys",
+      "Shakira",
+      "Jennifer Lopez",
+      "Ciara"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Celebrities",
+    "difficulty": "easy",
+    "id": "48a56ab1-1b83-45f5-9bc7-b263aecefa4a",
+    "created_at": "2025-04-13T04:04:54.873Z",
+    "backupTimestamp": "2025-04-13T04:04:54.873Z",
+    "localBackupTimestamp": "2025-04-12T22:04:54.873Z"
+  },
+  {
+    "question": "Which actor is known for playing James Bond in films like 'Casino Royale' and 'Skyfall'?",
+    "correct_answer": "Daniel Craig",
+    "incorrect_answers": [
+      "Sean Connery",
+      "Roger Moore",
+      "Pierce Brosnan",
+      "Timothy Dalton",
+      "George Lazenby",
+      "David Niven",
+      "Idris Elba"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Celebrities",
+    "difficulty": "easy",
+    "id": "b62effa0-7e59-4541-b909-1c284eb04468",
+    "created_at": "2025-04-13T04:04:54.878Z",
+    "backupTimestamp": "2025-04-13T04:04:54.878Z",
+    "localBackupTimestamp": "2025-04-12T22:04:54.878Z"
+  },
+  {
+    "question": "Which celebrity chef is known for the show 'Hell's Kitchen'?",
+    "correct_answer": "Gordon Ramsay",
+    "incorrect_answers": [
+      "Jamie Oliver",
+      "Anthony Bourdain",
+      "Bobby Flay",
+      "Wolfgang Puck",
+      "Emeril Lagasse",
+      "Guy Fieri",
+      "Marco Pierre White"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Celebrities",
+    "difficulty": "easy",
+    "id": "8afe990e-27c1-4ee8-a07d-17a01b2c03a2",
+    "created_at": "2025-04-13T04:04:54.886Z",
+    "backupTimestamp": "2025-04-13T04:04:54.886Z",
+    "localBackupTimestamp": "2025-04-12T22:04:54.886Z"
+  },
+  {
+    "question": "Who played the character of Forrest Gump?",
+    "correct_answer": "Tom Hanks",
+    "incorrect_answers": [
+      "Robin Williams",
+      "Bill Murray",
+      "John Travolta",
+      "Kevin Costner",
+      "Mel Gibson",
+      "Gary Sinise",
+      "Tim Allen"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Celebrities",
+    "difficulty": "easy",
+    "id": "9b209ded-bce8-4424-9ac9-7529cab2231b",
+    "created_at": "2025-04-13T04:04:54.894Z",
+    "backupTimestamp": "2025-04-13T04:04:54.895Z",
+    "localBackupTimestamp": "2025-04-12T22:04:54.895Z"
+  },
+  {
+    "question": "Which actress starred as Mary Poppins in the original 1964 film?",
+    "correct_answer": "Julie Andrews",
+    "incorrect_answers": [
+      "Emily Blunt",
+      "Audrey Hepburn",
+      "Meryl Streep",
+      "Angela Lansbury",
+      "Debbie Reynolds",
+      "Mary Martin",
+      "Shirley Temple"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Celebrities",
+    "difficulty": "easy",
+    "id": "cd8f0af4-d232-486b-8511-50efdb3f7493",
+    "created_at": "2025-04-13T04:04:54.902Z",
+    "backupTimestamp": "2025-04-13T04:04:54.902Z",
+    "localBackupTimestamp": "2025-04-12T22:04:54.902Z"
+  },
+  {
+    "question": "What is the real name of the rapper Drake?",
+    "correct_answer": "Aubrey Graham",
+    "incorrect_answers": [
+      "Shawn Carter",
+      "Marshall Mathers",
+      "Curtis Jackson",
+      "Dwayne Carter Jr.",
+      "Calvin Broadus Jr.",
+      "Abel Tesfaye",
+      "Christopher Wallace"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Celebrities",
+    "difficulty": "easy",
+    "id": "9deab845-8457-42d4-975a-9daf206be4b1",
+    "created_at": "2025-04-13T04:04:54.907Z",
+    "backupTimestamp": "2025-04-13T04:04:54.907Z",
+    "localBackupTimestamp": "2025-04-12T22:04:54.907Z"
+  },
+  {
+    "question": "Which actor is famous for his role as Deadpool?",
+    "correct_answer": "Ryan Reynolds",
+    "incorrect_answers": [
+      "Hugh Jackman",
+      "Chris Pratt",
+      "Paul Rudd",
+      "Jake Gyllenhaal",
+      "Mark Wahlberg",
+      "Channing Tatum",
+      "Tom Hardy"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Celebrities",
+    "difficulty": "easy",
+    "id": "1d1ce502-1abb-47b6-b8b2-a734966ebd77",
+    "created_at": "2025-04-13T04:04:54.911Z",
+    "backupTimestamp": "2025-04-13T04:04:54.912Z",
+    "localBackupTimestamp": "2025-04-12T22:04:54.912Z"
+  },
+  {
+    "question": "Which actor starred in 'Pulp Fiction', 'Saturday Night Fever', and 'Grease'?",
+    "correct_answer": "John Travolta",
+    "incorrect_answers": [
+      "Samuel L. Jackson",
+      "Bruce Willis",
+      "Tom Cruise",
+      "Patrick Swayze",
+      "Richard Gere",
+      "Al Pacino",
+      "Robert De Niro"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Celebrities",
+    "difficulty": "easy",
+    "id": "f651b70b-df53-477b-834d-3f96a272e833",
+    "created_at": "2025-04-13T04:04:54.916Z",
+    "backupTimestamp": "2025-04-13T04:04:54.917Z",
+    "localBackupTimestamp": "2025-04-12T22:04:54.917Z"
+  },
+  {
+    "question": "Which famous talk show host ended her show in 2011 after 25 seasons?",
+    "correct_answer": "Oprah Winfrey",
+    "incorrect_answers": [
+      "Ellen DeGeneres",
+      "Barbara Walters",
+      "Rosie O'Donnell",
+      "Tyra Banks",
+      "Wendy Williams",
+      "Sally Jessy Raphael",
+      "Ricki Lake"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Celebrities",
+    "difficulty": "easy",
+    "id": "695a5e6f-6466-4791-9036-c6fe50f75ba5",
+    "created_at": "2025-04-13T04:04:54.921Z",
+    "backupTimestamp": "2025-04-13T04:04:54.921Z",
+    "localBackupTimestamp": "2025-04-12T22:04:54.921Z"
+  },
+  {
+    "question": "Who played Luke Skywalker in the original 'Star Wars' trilogy?",
+    "correct_answer": "Mark Hamill",
+    "incorrect_answers": [
+      "Harrison Ford",
+      "Carrie Fisher",
+      "Alec Guinness",
+      "Ewan McGregor",
+      "Hayden Christensen",
+      "Adam Driver",
+      "Oscar Isaac"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Celebrities",
+    "difficulty": "easy",
+    "id": "cbc6c511-6d95-49f2-a3cb-e4a4ac7daac1",
+    "created_at": "2025-04-13T04:04:54.926Z",
+    "backupTimestamp": "2025-04-13T04:04:54.926Z",
+    "localBackupTimestamp": "2025-04-12T22:04:54.926Z"
+  },
+  {
+    "question": "Which pop singer is known for her elaborate costumes and music videos like 'Bad Romance'?",
+    "correct_answer": "Lady Gaga",
+    "incorrect_answers": [
+      "Katy Perry",
+      "Rihanna",
+      "Madonna",
+      "Björk",
+      "Sia",
+      "Nicki Minaj",
+      "Grimes"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Celebrities",
+    "difficulty": "easy",
+    "id": "0603f273-8b79-4bf9-809c-5081dd553a84",
+    "created_at": "2025-04-13T04:04:54.930Z",
+    "backupTimestamp": "2025-04-13T04:04:54.931Z",
+    "localBackupTimestamp": "2025-04-12T22:04:54.931Z"
+  },
+  {
+    "question": "Which actor played the Joker in the 2008 film 'The Dark Knight'?",
+    "correct_answer": "Heath Ledger",
+    "incorrect_answers": [
+      "Jack Nicholson",
+      "Joaquin Phoenix",
+      "Jared Leto",
+      "Cesar Romero",
+      "Mark Hamill (voice)",
+      "Cameron Monaghan",
+      "Christian Bale"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Celebrities",
+    "difficulty": "easy",
+    "id": "13ff2f14-2596-45fb-92bd-6d4f74d057b7",
+    "created_at": "2025-04-13T04:04:54.935Z",
+    "backupTimestamp": "2025-04-13T04:04:54.935Z",
+    "localBackupTimestamp": "2025-04-12T22:04:54.935Z"
+  },
+  {
+    "question": "Who is the frontman of the rock band Foo Fighters?",
+    "correct_answer": "Dave Grohl",
+    "incorrect_answers": [
+      "Kurt Cobain",
+      "Eddie Vedder",
+      "Chris Cornell",
+      "Billie Joe Armstrong",
+      "Anthony Kiedis",
+      "Thom Yorke",
+      "Jack White"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Celebrities",
+    "difficulty": "easy",
+    "id": "a6596a67-a998-4956-b148-e55b4c60ec38",
+    "created_at": "2025-04-13T04:04:54.940Z",
+    "backupTimestamp": "2025-04-13T04:04:54.940Z",
+    "localBackupTimestamp": "2025-04-12T22:04:54.940Z"
+  },
+  {
+    "question": "Which actor is known for his role as Michael Scott in 'The Office' (US)?",
+    "correct_answer": "Steve Carell",
+    "incorrect_answers": [
+      "John Krasinski",
+      "Rainn Wilson",
+      "Ricky Gervais",
+      "Jason Bateman",
+      "Will Ferrell",
+      "Ed Helms",
+      "Paul Rudd"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Celebrities",
+    "difficulty": "easy",
+    "id": "df150b71-b4a0-487a-8f90-64aa77791b08",
+    "created_at": "2025-04-13T04:04:54.946Z",
+    "backupTimestamp": "2025-04-13T04:04:54.946Z",
+    "localBackupTimestamp": "2025-04-12T22:04:54.946Z"
+  },
+  {
+    "question": "Which basketball player starred in the movie 'Space Jam'?",
+    "correct_answer": "Michael Jordan",
+    "incorrect_answers": [
+      "LeBron James",
+      "Kobe Bryant",
+      "Shaquille O'Neal",
+      "Larry Bird",
+      "Magic Johnson",
+      "Charles Barkley",
+      "Patrick Ewing"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Celebrities",
+    "difficulty": "easy",
+    "id": "1c17579c-45f1-4185-8c70-581f11d7f720",
+    "created_at": "2025-04-13T04:04:54.950Z",
+    "backupTimestamp": "2025-04-13T04:04:54.951Z",
+    "localBackupTimestamp": "2025-04-12T22:04:54.951Z"
+  },
+  {
+    "question": "Which actor won an Oscar for playing Ray Charles in the biopic 'Ray'?",
+    "correct_answer": "Jamie Foxx",
+    "incorrect_answers": [
+      "Denzel Washington",
+      "Will Smith",
+      "Forest Whitaker",
+      "Eddie Murphy",
+      "Samuel L. Jackson",
+      "Morgan Freeman",
+      "Terrence Howard"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Celebrities",
+    "difficulty": "easy",
+    "id": "d58e199a-12f7-4b42-8787-c051d4a79fa9",
+    "created_at": "2025-04-13T04:04:54.955Z",
+    "backupTimestamp": "2025-04-13T04:04:54.955Z",
+    "localBackupTimestamp": "2025-04-12T22:04:54.955Z"
+  },
+  {
+    "question": "Which actress is married to Ryan Reynolds?",
+    "correct_answer": "Blake Lively",
+    "incorrect_answers": [
+      "Scarlett Johansson",
+      "Sandra Bullock",
+      "Emma Stone",
+      "Jennifer Aniston",
+      "Gwyneth Paltrow",
+      "Jessica Biel",
+      "Emily Blunt"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Celebrities",
+    "difficulty": "easy",
+    "id": "38620687-5c6b-4710-a1a9-73fdf205bb41",
+    "created_at": "2025-04-13T04:04:54.960Z",
+    "backupTimestamp": "2025-04-13T04:04:54.960Z",
+    "localBackupTimestamp": "2025-04-12T22:04:54.960Z"
+  },
+  {
+    "question": "Which actor is known for his roles in 'Good Will Hunting', the 'Bourne' series, and 'The Martian'?",
+    "correct_answer": "Matt Damon",
+    "incorrect_answers": [
+      "Ben Affleck",
+      "Leonardo DiCaprio",
+      "Brad Pitt",
+      "Mark Wahlberg",
+      "Jeremy Renner",
+      "Christian Bale",
+      "George Clooney"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Celebrities",
+    "difficulty": "easy",
+    "id": "89beea55-f4e0-46e0-807b-76ffd7efed25",
+    "created_at": "2025-04-13T04:04:54.964Z",
+    "backupTimestamp": "2025-04-13T04:04:54.964Z",
+    "localBackupTimestamp": "2025-04-12T22:04:54.964Z"
+  },
+  {
+    "question": "Which actress won an Oscar for her role as Mia in 'La La Land'?",
+    "correct_answer": "Emma Stone",
+    "incorrect_answers": [
+      "Natalie Portman",
+      "Meryl Streep",
+      "Isabelle Huppert",
+      "Ruth Negga",
+      "Jennifer Lawrence",
+      "Brie Larson",
+      "Amy Adams"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Celebrities",
+    "difficulty": "medium",
+    "id": "5befaf9d-d18a-4721-a4a6-3670041f9454",
+    "created_at": "2025-04-13T04:04:54.970Z",
+    "backupTimestamp": "2025-04-13T04:04:54.971Z",
+    "localBackupTimestamp": "2025-04-12T22:04:54.971Z"
+  },
+  {
+    "question": "What actor voiced the character Maui in Disney's 'Moana'?",
+    "correct_answer": "Dwayne Johnson",
+    "incorrect_answers": [
+      "Lin-Manuel Miranda",
+      "Auli'i Cravalho",
+      "Jemaine Clement",
+      "Temuera Morrison",
+      "Alan Tudyk",
+      "Jason Momoa",
+      "Vin Diesel"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Celebrities",
+    "difficulty": "medium",
+    "id": "bcfdd4b9-3f1a-4137-912f-404aa3c3142e",
+    "created_at": "2025-04-13T04:04:54.975Z",
+    "backupTimestamp": "2025-04-13T04:04:54.975Z",
+    "localBackupTimestamp": "2025-04-12T22:04:54.975Z"
+  },
+  {
+    "question": "Which singer collaborated with Daft Punk on the hit song 'Get Lucky'?",
+    "correct_answer": "Pharrell Williams",
+    "incorrect_answers": [
+      "The Weeknd",
+      "Kanye West",
+      "Julian Casablancas",
+      "Stevie Wonder",
+      "Nile Rodgers",
+      "Giorgio Moroder",
+      "Todd Edwards"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Celebrities",
+    "difficulty": "medium",
+    "id": "8e04d76f-1d01-46e9-9ada-bb3da5b42b7f",
+    "created_at": "2025-04-13T04:04:54.979Z",
+    "backupTimestamp": "2025-04-13T04:04:54.980Z",
+    "localBackupTimestamp": "2025-04-12T22:04:54.980Z"
+  },
+  {
+    "question": "What is the name of the actress who played Wonder Woman in the DC Extended Universe?",
+    "correct_answer": "Gal Gadot",
+    "incorrect_answers": [
+      "Lynda Carter",
+      "Scarlett Johansson",
+      "Brie Larson",
+      "Margot Robbie",
+      "Zoe Saldana",
+      "Adrianne Palicki",
+      "Jaimie Alexander"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Celebrities",
+    "difficulty": "medium",
+    "id": "c6def887-3872-48a2-ad11-1ec63e734422",
+    "created_at": "2025-04-13T04:04:54.984Z",
+    "backupTimestamp": "2025-04-13T04:04:54.984Z",
+    "localBackupTimestamp": "2025-04-12T22:04:54.984Z"
+  },
+  {
+    "question": "Which comedian wrote and starred in the TV show 'Master of None'?",
+    "correct_answer": "Aziz Ansari",
+    "incorrect_answers": [
+      "Kumail Nanjiani",
+      "Donald Glover",
+      "Hasan Minhaj",
+      "Nick Kroll",
+      "John Mulaney",
+      "Bo Burnham",
+      "Pete Davidson"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Celebrities",
+    "difficulty": "medium",
+    "id": "1d11004d-fe13-49c2-a3b3-5f49ced2ad4e",
+    "created_at": "2025-04-13T04:04:54.989Z",
+    "backupTimestamp": "2025-04-13T04:04:54.990Z",
+    "localBackupTimestamp": "2025-04-12T22:04:54.990Z"
+  },
+  {
+    "question": "Which actor played Legolas in 'The Lord of the Rings' film trilogy?",
+    "correct_answer": "Orlando Bloom",
+    "incorrect_answers": [
+      "Elijah Wood",
+      "Viggo Mortensen",
+      "Sean Astin",
+      "Dominic Monaghan",
+      "Billy Boyd",
+      "Ian McKellen",
+      "Sean Bean"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Celebrities",
+    "difficulty": "medium",
+    "id": "d86ea1b8-2473-4bd1-848b-684262a4af13",
+    "created_at": "2025-04-13T04:04:54.994Z",
+    "backupTimestamp": "2025-04-13T04:04:54.994Z",
+    "localBackupTimestamp": "2025-04-12T22:04:54.994Z"
+  },
+  {
+    "question": "What is the birth name of the singer Pink?",
+    "correct_answer": "Alecia Beth Moore",
+    "incorrect_answers": [
+      "Katheryn Hudson",
+      "Stefani Germanotta",
+      "Robyn Fenty",
+      "Ella Yelich-O'Connor",
+      "Regine Chassagne",
+      "Elizabeth Grant",
+      "Gwen Stefani"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Celebrities",
+    "difficulty": "medium",
+    "id": "c88f463c-343f-4d22-8546-717028547e0a",
+    "created_at": "2025-04-13T04:04:54.999Z",
+    "backupTimestamp": "2025-04-13T04:04:54.999Z",
+    "localBackupTimestamp": "2025-04-12T22:04:54.999Z"
+  },
+  {
+    "question": "Which director is known for films like 'Pulp Fiction', 'Kill Bill', and 'Inglourious Basterds'?",
+    "correct_answer": "Quentin Tarantino",
+    "incorrect_answers": [
+      "Martin Scorsese",
+      "Christopher Nolan",
+      "Steven Spielberg",
+      "David Fincher",
+      "Wes Anderson",
+      "Paul Thomas Anderson",
+      "Coen Brothers"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Celebrities",
+    "difficulty": "medium",
+    "id": "7e8d2c44-82b7-4d11-8cf8-2010baf60cf6",
+    "created_at": "2025-04-13T04:04:55.003Z",
+    "backupTimestamp": "2025-04-13T04:04:55.004Z",
+    "localBackupTimestamp": "2025-04-12T22:04:55.004Z"
+  },
+  {
+    "question": "Who played James Bond before Daniel Craig, starring in films like 'GoldenEye'?",
+    "correct_answer": "Pierce Brosnan",
+    "incorrect_answers": [
+      "Sean Connery",
+      "Roger Moore",
+      "Timothy Dalton",
+      "George Lazenby",
+      "David Niven",
+      "Barry Nelson",
+      "Christopher Lee"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Celebrities",
+    "difficulty": "medium",
+    "id": "21a270b4-90ae-42d1-ace1-83e7ebe3781f",
+    "created_at": "2025-04-13T04:04:55.008Z",
+    "backupTimestamp": "2025-04-13T04:04:55.008Z",
+    "localBackupTimestamp": "2025-04-12T22:04:55.008Z"
+  },
+  {
+    "question": "Which musician is the lead guitarist for the band Guns N' Roses, famous for his top hat?",
+    "correct_answer": "Slash",
+    "incorrect_answers": [
+      "Axl Rose",
+      "Duff McKagan",
+      "Izzy Stradlin",
+      "Steven Adler",
+      "Angus Young",
+      "Jimmy Page",
+      "Keith Richards"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Celebrities",
+    "difficulty": "medium",
+    "id": "e0b9e976-b619-4611-aabf-105ebaaf1208",
+    "created_at": "2025-04-13T04:04:55.013Z",
+    "backupTimestamp": "2025-04-13T04:04:55.013Z",
+    "localBackupTimestamp": "2025-04-12T22:04:55.013Z"
+  },
+  {
+    "question": "Which actress played Princess Leia in the original 'Star Wars' trilogy?",
+    "correct_answer": "Carrie Fisher",
+    "incorrect_answers": [
+      "Natalie Portman",
+      "Daisy Ridley",
+      "Sigourney Weaver",
+      "Linda Hamilton",
+      "Geena Davis",
+      "Mark Hamill",
+      "Harrison Ford"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Celebrities",
+    "difficulty": "medium",
+    "id": "f13ff6e4-b087-4e9c-8483-06d4283741fd",
+    "created_at": "2025-04-13T04:04:55.017Z",
+    "backupTimestamp": "2025-04-13T04:04:55.017Z",
+    "localBackupTimestamp": "2025-04-12T22:04:55.017Z"
+  },
+  {
+    "question": "Which actor is famous for his role as Ron Burgundy in 'Anchorman'?",
+    "correct_answer": "Will Ferrell",
+    "incorrect_answers": [
+      "Steve Carell",
+      "Paul Rudd",
+      "Adam Sandler",
+      "Ben Stiller",
+      "Vince Vaughn",
+      "Owen Wilson",
+      "Jack Black"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Celebrities",
+    "difficulty": "medium",
+    "id": "fa1627fb-9c2b-4b84-96be-161e674d36e3",
+    "created_at": "2025-04-13T04:04:55.022Z",
+    "backupTimestamp": "2025-04-13T04:04:55.022Z",
+    "localBackupTimestamp": "2025-04-12T22:04:55.022Z"
+  },
+  {
+    "question": "Which Canadian artist released the album 'Starboy'?",
+    "correct_answer": "The Weeknd",
+    "incorrect_answers": [
+      "Drake",
+      "Justin Bieber",
+      "Shawn Mendes",
+      "Michael Bublé",
+      "Daniel Caesar",
+      "Nav",
+      "PartyNextDoor"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Celebrities",
+    "difficulty": "medium",
+    "id": "c19ecd71-8d9b-41df-a2d8-bcdbbc4ec8ad",
+    "created_at": "2025-04-13T04:04:55.026Z",
+    "backupTimestamp": "2025-04-13T04:04:55.027Z",
+    "localBackupTimestamp": "2025-04-12T22:04:55.027Z"
+  },
+  {
+    "question": "Who played the character of Walter White in the TV series 'Breaking Bad'?",
+    "correct_answer": "Bryan Cranston",
+    "incorrect_answers": [
+      "Aaron Paul",
+      "Bob Odenkirk",
+      "Dean Norris",
+      "Giancarlo Esposito",
+      "Jonathan Banks",
+      "Vince Gilligan",
+      "Matthew McConaughey"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Celebrities",
+    "difficulty": "medium",
+    "id": "143df9ff-2433-4fb0-9b71-29336b2ceebd",
+    "created_at": "2025-04-13T04:04:55.032Z",
+    "backupTimestamp": "2025-04-13T04:04:55.032Z",
+    "localBackupTimestamp": "2025-04-12T22:04:55.032Z"
+  },
+  {
+    "question": "Which actress starred as Lara Croft in the early 2000s 'Tomb Raider' films?",
+    "correct_answer": "Angelina Jolie",
+    "incorrect_answers": [
+      "Alicia Vikander",
+      "Milla Jovovich",
+      "Jennifer Garner",
+      "Kate Beckinsale",
+      "Charlize Theron",
+      "Jessica Alba",
+      "Megan Fox"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Celebrities",
+    "difficulty": "medium",
+    "id": "631a6bb7-46b0-426f-8d83-ad7c8617f4b2",
+    "created_at": "2025-04-13T04:04:55.036Z",
+    "backupTimestamp": "2025-04-13T04:04:55.036Z",
+    "localBackupTimestamp": "2025-04-12T22:04:55.036Z"
+  },
+  {
+    "question": "Which rapper is known for the album 'Good Kid, M.A.A.D City'?",
+    "correct_answer": "Kendrick Lamar",
+    "incorrect_answers": [
+      "Drake",
+      "J. Cole",
+      "Kanye West",
+      "Travis Scott",
+      "Chance the Rapper",
+      "Tyler, the Creator",
+      "ASAP Rocky"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Celebrities",
+    "difficulty": "medium",
+    "id": "c9612997-2dd4-4a02-ba98-3475d9cb1218",
+    "created_at": "2025-04-13T04:04:55.041Z",
+    "backupTimestamp": "2025-04-13T04:04:55.041Z",
+    "localBackupTimestamp": "2025-04-12T22:04:55.041Z"
+  },
+  {
+    "question": "Which actor plays the Grinch in the 2000 live-action film 'How the Grinch Stole Christmas'?",
+    "correct_answer": "Jim Carrey",
+    "incorrect_answers": [
+      "Mike Myers",
+      "Robin Williams",
+      "Eddie Murphy",
+      "Will Ferrell",
+      "Jack Black",
+      "Adam Sandler",
+      "Ben Stiller"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Celebrities",
+    "difficulty": "medium",
+    "id": "a37c99ca-76f2-4591-934b-09edabecfbc9",
+    "created_at": "2025-04-13T04:04:55.045Z",
+    "backupTimestamp": "2025-04-13T04:04:55.046Z",
+    "localBackupTimestamp": "2025-04-12T22:04:55.046Z"
+  },
+  {
+    "question": "Which former One Direction member released the hit single 'Watermelon Sugar'?",
+    "correct_answer": "Harry Styles",
+    "incorrect_answers": [
+      "Zayn Malik",
+      "Niall Horan",
+      "Louis Tomlinson",
+      "Liam Payne",
+      "Justin Bieber",
+      "Shawn Mendes",
+      "Ed Sheeran"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Celebrities",
+    "difficulty": "medium",
+    "id": "05e2ed89-7a96-467f-8170-b6c309b9adb5",
+    "created_at": "2025-04-13T04:04:55.050Z",
+    "backupTimestamp": "2025-04-13T04:04:55.050Z",
+    "localBackupTimestamp": "2025-04-12T22:04:55.050Z"
+  },
+  {
+    "question": "Which actress is known for her roles in 'Pretty Woman' and 'Erin Brockovich'?",
+    "correct_answer": "Julia Roberts",
+    "incorrect_answers": [
+      "Sandra Bullock",
+      "Meryl Streep",
+      "Meg Ryan",
+      "Nicole Kidman",
+      "Reese Witherspoon",
+      "Cameron Diaz",
+      "Jennifer Aniston"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Celebrities",
+    "difficulty": "medium",
+    "id": "2fb62360-e96d-4e5c-b139-35fa2153d971",
+    "created_at": "2025-04-13T04:04:55.055Z",
+    "backupTimestamp": "2025-04-13T04:04:55.055Z",
+    "localBackupTimestamp": "2025-04-12T22:04:55.055Z"
+  },
+  {
+    "question": "Who directed the 'Lord of the Rings' film trilogy?",
+    "correct_answer": "Peter Jackson",
+    "incorrect_answers": [
+      "Steven Spielberg",
+      "George Lucas",
+      "Christopher Nolan",
+      "James Cameron",
+      "Ridley Scott",
+      "Guillermo del Toro",
+      "Tim Burton"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Celebrities",
+    "difficulty": "medium",
+    "id": "a414f65f-3f7c-4616-bca6-138af3f7e8ff",
+    "created_at": "2025-04-13T04:04:55.060Z",
+    "backupTimestamp": "2025-04-13T04:04:55.060Z",
+    "localBackupTimestamp": "2025-04-12T22:04:55.060Z"
+  },
+  {
+    "question": "Which actress played Buffy Summers in the TV series 'Buffy the Vampire Slayer'?",
+    "correct_answer": "Sarah Michelle Gellar",
+    "incorrect_answers": [
+      "Alyson Hannigan",
+      "Michelle Trachtenberg",
+      "Eliza Dushku",
+      "Kristy Swanson",
+      "Jennifer Love Hewitt",
+      "Neve Campbell",
+      "Charisma Carpenter"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Celebrities",
+    "difficulty": "medium",
+    "id": "ed434560-e15e-4a4a-b5bc-e43c3e5c7b09",
+    "created_at": "2025-04-13T04:04:55.064Z",
+    "backupTimestamp": "2025-04-13T04:04:55.064Z",
+    "localBackupTimestamp": "2025-04-12T22:04:55.064Z"
+  },
+  {
+    "question": "What is the stage name of the rapper born Marshall Mathers?",
+    "correct_answer": "Eminem",
+    "incorrect_answers": [
+      "Slim Shady",
+      "Dr. Dre",
+      "50 Cent",
+      "Snoop Dogg",
+      "Ice Cube",
+      "Proof",
+      "Vanilla Ice"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Celebrities",
+    "difficulty": "medium",
+    "id": "e50c1eb7-89d7-4c5c-8e3f-6e85640cafd6",
+    "created_at": "2025-04-13T04:04:55.069Z",
+    "backupTimestamp": "2025-04-13T04:04:55.069Z",
+    "localBackupTimestamp": "2025-04-12T22:04:55.069Z"
+  },
+  {
+    "question": "Which actor portrayed Hannibal Lecter in the film 'The Silence of the Lambs'?",
+    "correct_answer": "Anthony Hopkins",
+    "incorrect_answers": [
+      "Mads Mikkelsen",
+      "Brian Cox",
+      "Jodie Foster",
+      "Ted Levine",
+      "Scott Glenn",
+      "Jack Crawford",
+      "Robert De Niro"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Celebrities",
+    "difficulty": "medium",
+    "id": "7381c5b1-292e-4e2a-92f5-d79d9071e75a",
+    "created_at": "2025-04-13T04:04:55.074Z",
+    "backupTimestamp": "2025-04-13T04:04:55.074Z",
+    "localBackupTimestamp": "2025-04-12T22:04:55.074Z"
+  },
+  {
+    "question": "Which female singer had a massive hit with 'I Will Always Love You' from 'The Bodyguard' soundtrack?",
+    "correct_answer": "Whitney Houston",
+    "incorrect_answers": [
+      "Mariah Carey",
+      "Celine Dion",
+      "Dolly Parton (original writer/singer)",
+      "Aretha Franklin",
+      "Tina Turner",
+      "Janet Jackson",
+      "Toni Braxton"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Celebrities",
+    "difficulty": "medium",
+    "id": "43f87773-4e0d-4b91-9789-382daccdb6c0",
+    "created_at": "2025-04-13T04:04:55.078Z",
+    "backupTimestamp": "2025-04-13T04:04:55.079Z",
+    "localBackupTimestamp": "2025-04-12T22:04:55.079Z"
+  },
+  {
+    "question": "Who played the title character in the 'Austin Powers' film series?",
+    "correct_answer": "Mike Myers",
+    "incorrect_answers": [
+      "Jim Carrey",
+      "Adam Sandler",
+      "Will Ferrell",
+      "Ben Stiller",
+      "Eddie Murphy",
+      "Dana Carvey",
+      "Rob Lowe"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Celebrities",
+    "difficulty": "medium",
+    "id": "b58e7c32-673b-4ffc-8b2d-bfe3e36f92fb",
+    "created_at": "2025-04-13T04:04:55.083Z",
+    "backupTimestamp": "2025-04-13T04:04:55.083Z",
+    "localBackupTimestamp": "2025-04-12T22:04:55.083Z"
+  },
+  {
+    "question": "Which actor starred as Spider-Man in the trilogy directed by Sam Raimi?",
+    "correct_answer": "Tobey Maguire",
+    "incorrect_answers": [
+      "Andrew Garfield",
+      "Tom Holland",
+      "Kirsten Dunst",
+      "Willem Dafoe",
+      "James Franco",
+      "Jake Gyllenhaal",
+      "Alfred Molina"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Celebrities",
+    "difficulty": "medium",
+    "id": "efbd8af4-97bf-4ac3-a5e5-b0742589f57f",
+    "created_at": "2025-04-13T04:04:55.088Z",
+    "backupTimestamp": "2025-04-13T04:04:55.088Z",
+    "localBackupTimestamp": "2025-04-12T22:04:55.088Z"
+  },
+  {
+    "question": "Which legendary guitarist known for playing with his teeth and setting his guitar on fire?",
+    "correct_answer": "Jimi Hendrix",
+    "incorrect_answers": [
+      "Eric Clapton",
+      "Jimmy Page",
+      "Jeff Beck",
+      "Pete Townshend",
+      "Keith Richards",
+      "Stevie Ray Vaughan",
+      "B.B. King"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Celebrities",
+    "difficulty": "medium",
+    "id": "2d4d0f84-ca35-4c6f-bf37-1ec3b06c8ab1",
+    "created_at": "2025-04-13T04:04:55.092Z",
+    "backupTimestamp": "2025-04-13T04:04:55.093Z",
+    "localBackupTimestamp": "2025-04-12T22:04:55.093Z"
+  },
+  {
+    "question": "Who won the Best Actor Oscar for his role in 'The Revenant'?",
+    "correct_answer": "Leonardo DiCaprio",
+    "incorrect_answers": [
+      "Tom Hardy",
+      "Matt Damon",
+      "Eddie Redmayne",
+      "Michael Fassbender",
+      "Bryan Cranston",
+      "Matthew McConaughey",
+      "Christian Bale"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Celebrities",
+    "difficulty": "medium",
+    "id": "0d0f47d7-529b-4dc8-87ce-9e8b79728e12",
+    "created_at": "2025-04-13T04:04:55.098Z",
+    "backupTimestamp": "2025-04-13T04:04:55.098Z",
+    "localBackupTimestamp": "2025-04-12T22:04:55.098Z"
+  },
+  {
+    "question": "Which celebrity couple, known for their humanitarian work, adopted multiple children from different countries?",
+    "correct_answer": "Angelina Jolie and Brad Pitt",
+    "incorrect_answers": [
+      "Madonna and Guy Ritchie",
+      "Tom Cruise and Nicole Kidman",
+      "Hugh Jackman and Deborra-Lee Furness",
+      "Sandra Bullock",
+      "Charlize Theron",
+      "Viola Davis and Julius Tennon",
+      "Katherine Heigl and Josh Kelley"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Celebrities",
+    "difficulty": "medium",
+    "id": "84639d71-6beb-45c9-9e8f-c6d4ba022281",
+    "created_at": "2025-04-13T04:04:55.102Z",
+    "backupTimestamp": "2025-04-13T04:04:55.102Z",
+    "localBackupTimestamp": "2025-04-12T22:04:55.102Z"
+  },
+  {
+    "question": "Which talk show host is known for 'Carpool Karaoke'?",
+    "correct_answer": "James Corden",
+    "incorrect_answers": [
+      "Jimmy Fallon",
+      "Jimmy Kimmel",
+      "Stephen Colbert",
+      "Conan O'Brien",
+      "Seth Meyers",
+      "Ellen DeGeneres",
+      "Graham Norton"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Celebrities",
+    "difficulty": "medium",
+    "id": "5a1cb416-3c65-4b2e-bb55-9ad16f54fd2e",
+    "created_at": "2025-04-13T04:04:55.107Z",
+    "backupTimestamp": "2025-04-13T04:04:55.107Z",
+    "localBackupTimestamp": "2025-04-12T22:04:55.107Z"
+  },
+  {
+    "question": "Who played the lead role of Don Draper in the TV series 'Mad Men'?",
+    "correct_answer": "Jon Hamm",
+    "incorrect_answers": [
+      "John Slattery",
+      "Vincent Kartheiser",
+      "Aaron Staton",
+      "Bryan Cranston",
+      "Matthew Weiner",
+      "Michael C. Hall",
+      "Kevin Spacey"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Celebrities",
+    "difficulty": "medium",
+    "id": "c4178b6e-bf34-4bab-aee5-06d392fbdd55",
+    "created_at": "2025-04-13T04:04:55.111Z",
+    "backupTimestamp": "2025-04-13T04:04:55.112Z",
+    "localBackupTimestamp": "2025-04-12T22:04:55.112Z"
+  },
+  {
+    "question": "Which musician famously bit the head off a bat during a concert?",
+    "correct_answer": "Ozzy Osbourne",
+    "incorrect_answers": [
+      "Alice Cooper",
+      "Marilyn Manson",
+      "Gene Simmons",
+      "Iggy Pop",
+      "Rob Zombie",
+      "GG Allin",
+      "Dave Mustaine"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Celebrities",
+    "difficulty": "medium",
+    "id": "d087a81d-28d6-48fc-8bf1-2ab61da6fe3f",
+    "created_at": "2025-04-13T04:04:55.117Z",
+    "backupTimestamp": "2025-04-13T04:04:55.117Z",
+    "localBackupTimestamp": "2025-04-12T22:04:55.117Z"
+  },
+  {
+    "question": "Which actress portrayed Eleven in the Netflix series 'Stranger Things'?",
+    "correct_answer": "Millie Bobby Brown",
+    "incorrect_answers": [
+      "Sadie Sink",
+      "Natalia Dyer",
+      "Winona Ryder",
+      "Maya Hawke",
+      "Priah Ferguson",
+      "Cara Buono",
+      "Shannon Purser"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Celebrities",
+    "difficulty": "medium",
+    "id": "37002963-de4d-40a3-b900-6c5c8835a29e",
+    "created_at": "2025-04-13T04:04:55.121Z",
+    "backupTimestamp": "2025-04-13T04:04:55.122Z",
+    "localBackupTimestamp": "2025-04-12T22:04:55.122Z"
+  },
+  {
+    "question": "Which director is known for his stop-motion animated films like 'The Nightmare Before Christmas' and 'Corpse Bride'?",
+    "correct_answer": "Tim Burton",
+    "incorrect_answers": [
+      "Henry Selick (Director of Nightmare/Coraline)",
+      "Wes Anderson",
+      "Laika Studios",
+      "Guillermo del Toro",
+      "Nick Park",
+      "Hayao Miyazaki",
+      "Brad Bird"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Celebrities",
+    "difficulty": "medium",
+    "id": "fd14e5be-7f6a-48d9-a3f7-dd41be7e221c",
+    "created_at": "2025-04-13T04:04:55.126Z",
+    "backupTimestamp": "2025-04-13T04:04:55.127Z",
+    "localBackupTimestamp": "2025-04-12T22:04:55.127Z"
+  },
+  {
+    "question": "Which actor played Aragorn in 'The Lord of the Rings' film trilogy?",
+    "correct_answer": "Viggo Mortensen",
+    "incorrect_answers": [
+      "Orlando Bloom",
+      "Sean Bean",
+      "Elijah Wood",
+      "Ian McKellen",
+      "Stuart Townsend",
+      "Karl Urban",
+      "David Wenham"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Celebrities",
+    "difficulty": "medium",
+    "id": "ef56f182-48ab-4e2f-9803-61d681df1a83",
+    "created_at": "2025-04-13T04:04:55.131Z",
+    "backupTimestamp": "2025-04-13T04:04:55.131Z",
+    "localBackupTimestamp": "2025-04-12T22:04:55.131Z"
+  },
+  {
+    "question": "Which female rapper released the album 'The Miseducation of Lauryn Hill'?",
+    "correct_answer": "Lauryn Hill",
+    "incorrect_answers": [
+      "Missy Elliott",
+      "Queen Latifah",
+      "Lil' Kim",
+      "Foxy Brown",
+      "Eve",
+      "MC Lyte",
+      "Salt-N-Pepa"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Celebrities",
+    "difficulty": "medium",
+    "id": "3d7e213c-9244-4eaa-8296-15f25b61515b",
+    "created_at": "2025-04-13T04:04:55.136Z",
+    "backupTimestamp": "2025-04-13T04:04:55.136Z",
+    "localBackupTimestamp": "2025-04-12T22:04:55.136Z"
+  },
+  {
+    "question": "Which comedian is known for his observational humor and specials like 'I'm Telling You for the Last Time'?",
+    "correct_answer": "Jerry Seinfeld",
+    "incorrect_answers": [
+      "Chris Rock",
+      "Dave Chappelle",
+      "George Carlin",
+      "Richard Pryor",
+      "Bill Hicks",
+      "Louis C.K.",
+      "Ricky Gervais"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Celebrities",
+    "difficulty": "medium",
+    "id": "20f166cd-b5b5-4dc8-93d6-4cc6211ee606",
+    "created_at": "2025-04-13T04:04:55.141Z",
+    "backupTimestamp": "2025-04-13T04:04:55.142Z",
+    "localBackupTimestamp": "2025-04-12T22:04:55.142Z"
+  },
+  {
+    "question": "Which actress played Catwoman in the 1992 film 'Batman Returns'?",
+    "correct_answer": "Michelle Pfeiffer",
+    "incorrect_answers": [
+      "Halle Berry",
+      "Anne Hathaway",
+      "Zoë Kravitz",
+      "Julie Newmar",
+      "Eartha Kitt",
+      "Lee Meriwether",
+      "Kim Basinger"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Celebrities",
+    "difficulty": "medium",
+    "id": "cafecedd-19e0-4e09-ad17-685c89ab99eb",
+    "created_at": "2025-04-13T04:04:55.146Z",
+    "backupTimestamp": "2025-04-13T04:04:55.147Z",
+    "localBackupTimestamp": "2025-04-12T22:04:55.147Z"
+  },
+  {
+    "question": "Which rock band features Anthony Kiedis as the lead vocalist?",
+    "correct_answer": "Red Hot Chili Peppers",
+    "incorrect_answers": [
+      "Pearl Jam",
+      "Foo Fighters",
+      "Nirvana",
+      "Jane's Addiction",
+      "Rage Against the Machine",
+      "Incubus",
+      "Audioslave"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Celebrities",
+    "difficulty": "medium",
+    "id": "9409ca07-50eb-4d83-8fcc-ccf27cdaa091",
+    "created_at": "2025-04-13T04:04:55.152Z",
+    "backupTimestamp": "2025-04-13T04:04:55.152Z",
+    "localBackupTimestamp": "2025-04-12T22:04:55.152Z"
+  },
+  {
+    "question": "Which actor starred as Edward Scissorhands?",
+    "correct_answer": "Johnny Depp",
+    "incorrect_answers": [
+      "Tom Cruise",
+      "Robert Downey Jr.",
+      "Jim Carrey",
+      "Tim Burton",
+      "Winona Ryder",
+      "Vincent Price",
+      "Christian Slater"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Celebrities",
+    "difficulty": "medium",
+    "id": "70b7fa68-6123-4002-90ac-1c97706041bb",
+    "created_at": "2025-04-13T04:04:55.156Z",
+    "backupTimestamp": "2025-04-13T04:04:55.157Z",
+    "localBackupTimestamp": "2025-04-12T22:04:55.157Z"
+  },
+  {
+    "question": "Which singer released the album 'Purple Rain'?",
+    "correct_answer": "Prince",
+    "incorrect_answers": [
+      "Michael Jackson",
+      "David Bowie",
+      "Stevie Wonder",
+      "Bruce Springsteen",
+      "Rick James",
+      "George Michael",
+      "Lenny Kravitz"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Celebrities",
+    "difficulty": "medium",
+    "id": "32259ce2-4df6-4d7c-9248-346cadeaa800",
+    "created_at": "2025-04-13T04:04:55.162Z",
+    "backupTimestamp": "2025-04-13T04:04:55.162Z",
+    "localBackupTimestamp": "2025-04-12T22:04:55.162Z"
+  },
+  {
+    "question": "Who directed the film 'Parasite', which won the Academy Award for Best Picture?",
+    "correct_answer": "Bong Joon-ho",
+    "incorrect_answers": [
+      "Park Chan-wook",
+      "Kim Jee-woon",
+      "Quentin Tarantino",
+      "Taika Waititi",
+      "Denis Villeneuve",
+      "Alfonso Cuarón",
+      "Hirokazu Kore-eda"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Celebrities",
+    "difficulty": "medium",
+    "id": "725054d6-f826-486e-9f7f-f7ed4fb40a02",
+    "created_at": "2025-04-13T04:04:55.166Z",
+    "backupTimestamp": "2025-04-13T04:04:55.167Z",
+    "localBackupTimestamp": "2025-04-12T22:04:55.167Z"
+  },
+  {
+    "question": "Which actress played Effie Trinket in 'The Hunger Games' films?",
+    "correct_answer": "Elizabeth Banks",
+    "incorrect_answers": [
+      "Jennifer Lawrence",
+      "Julianne Moore",
+      "Woody Harrelson",
+      "Stanley Tucci",
+      "Paula Malcomson",
+      "Willow Shields",
+      "Jena Malone"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Celebrities",
+    "difficulty": "medium",
+    "id": "b0662bfb-0860-4cb4-9e92-8c66bff7389d",
+    "created_at": "2025-04-13T04:04:55.171Z",
+    "backupTimestamp": "2025-04-13T04:04:55.172Z",
+    "localBackupTimestamp": "2025-04-12T22:04:55.172Z"
+  },
+  {
+    "question": "What is the name of the British theoretical physicist known for his work on black holes and the author of 'A Brief History of Time'?",
+    "correct_answer": "Stephen Hawking",
+    "incorrect_answers": [
+      "Albert Einstein",
+      "Isaac Newton",
+      "Richard Feynman",
+      "Carl Sagan",
+      "Neil deGrasse Tyson",
+      "Roger Penrose",
+      "Kip Thorne"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Celebrities",
+    "difficulty": "medium",
+    "id": "c31ee4c3-19c3-4cb2-9f46-4360bfb619b6",
+    "created_at": "2025-04-13T04:04:55.176Z",
+    "backupTimestamp": "2025-04-13T04:04:55.176Z",
+    "localBackupTimestamp": "2025-04-12T22:04:55.176Z"
+  },
+  {
+    "question": "Which actor is known for playing both Obi-Wan Kenobi (younger) and Halcyon Renard?",
+    "correct_answer": "Ewan McGregor",
+    "incorrect_answers": [
+      "Alec Guinness",
+      "Liam Neeson",
+      "Hayden Christensen",
+      "Mark Hamill",
+      "James Arnold Taylor (voice)",
+      "Stephen Stanton (voice)",
+      "Ian McDiarmid"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Celebrities",
+    "difficulty": "medium",
+    "id": "a5d51fdd-1fe6-4add-8555-37fd5e4c0001",
+    "created_at": "2025-04-13T04:04:55.181Z",
+    "backupTimestamp": "2025-04-13T04:04:55.181Z",
+    "localBackupTimestamp": "2025-04-12T22:04:55.181Z"
+  },
+  {
+    "question": "Which Nirvana song features the lyrics 'Here we are now, entertain us'?",
+    "correct_answer": "Smells Like Teen Spirit",
+    "incorrect_answers": [
+      "Come As You Are",
+      "Lithium",
+      "In Bloom",
+      "Heart-Shaped Box",
+      "Rape Me",
+      "All Apologies",
+      "About a Girl"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Celebrities",
+    "difficulty": "medium",
+    "id": "24b414d6-c6a8-490b-b56f-9a58c8b7fb5e",
+    "created_at": "2025-04-13T04:04:55.188Z",
+    "backupTimestamp": "2025-04-13T04:04:55.188Z",
+    "localBackupTimestamp": "2025-04-12T22:04:55.188Z"
+  },
+  {
+    "question": "Who won the Best Director Oscar for the film 'The Shape of Water'?",
+    "correct_answer": "Guillermo del Toro",
+    "incorrect_answers": [
+      "Alfonso Cuarón",
+      "Alejandro G. Iñárritu",
+      "Christopher Nolan",
+      "Greta Gerwig",
+      "Jordan Peele",
+      "Paul Thomas Anderson",
+      "Denis Villeneuve"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Celebrities",
+    "difficulty": "medium",
+    "id": "b2ba3c3d-9816-4c5b-87e2-fd674f3ae4e3",
+    "created_at": "2025-04-13T04:04:55.192Z",
+    "backupTimestamp": "2025-04-13T04:04:55.192Z",
+    "localBackupTimestamp": "2025-04-12T22:04:55.192Z"
+  },
+  {
+    "question": "Which actor played the vampire Lestat in the 1994 film 'Interview with the Vampire'?",
+    "correct_answer": "Tom Cruise",
+    "incorrect_answers": [
+      "Brad Pitt",
+      "Antonio Banderas",
+      "Christian Slater",
+      "Stuart Townsend",
+      "Gary Oldman",
+      "Kiefer Sutherland",
+      "Johnny Depp"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Celebrities",
+    "difficulty": "medium",
+    "id": "5e6109ff-d6d5-45c2-adb7-d0a9ed7d30d9",
+    "created_at": "2025-04-13T04:04:55.198Z",
+    "backupTimestamp": "2025-04-13T04:04:55.199Z",
+    "localBackupTimestamp": "2025-04-12T22:04:55.199Z"
+  },
+  {
+    "question": "Which comedian and actress created and starred in the TV show 'Fleabag'?",
+    "correct_answer": "Phoebe Waller-Bridge",
+    "incorrect_answers": [
+      "Michaela Coel",
+      "Sharon Horgan",
+      "Issa Rae",
+      "Lena Dunham",
+      "Tina Fey",
+      "Amy Poehler",
+      "Natasha Lyonne"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Celebrities",
+    "difficulty": "medium",
+    "id": "9cc86c67-92e6-4f84-87b5-636d70bcd961",
+    "created_at": "2025-04-13T04:04:55.203Z",
+    "backupTimestamp": "2025-04-13T04:04:55.203Z",
+    "localBackupTimestamp": "2025-04-12T22:04:55.203Z"
+  },
+  {
+    "question": "Which member of the Wu-Tang Clan directed the film 'The Man with the Iron Fists'?",
+    "correct_answer": "RZA",
+    "incorrect_answers": [
+      "GZA",
+      "Method Man",
+      "Ghostface Killah",
+      "Raekwon",
+      "Ol' Dirty Bastard",
+      "Inspectah Deck",
+      "U-God"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Celebrities",
+    "difficulty": "medium",
+    "id": "6f400a06-3da7-4209-bd76-d279757909cf",
+    "created_at": "2025-04-13T04:04:55.208Z",
+    "backupTimestamp": "2025-04-13T04:04:55.209Z",
+    "localBackupTimestamp": "2025-04-12T22:04:55.209Z"
+  },
+  {
+    "question": "Who played Lisbeth Salander in the Swedish film adaptations of 'The Girl with the Dragon Tattoo'?",
+    "correct_answer": "Noomi Rapace",
+    "incorrect_answers": [
+      "Rooney Mara",
+      "Claire Foy",
+      "Alicia Vikander",
+      "Stellan Skarsgård",
+      "Michael Nyqvist",
+      "Lena Endre",
+      "Sofia Helin"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Celebrities",
+    "difficulty": "medium",
+    "id": "ffc6865d-2430-4ec4-aa2c-c198bcbd10cf",
+    "created_at": "2025-04-13T04:04:55.213Z",
+    "backupTimestamp": "2025-04-13T04:04:55.213Z",
+    "localBackupTimestamp": "2025-04-12T22:04:55.213Z"
+  },
+  {
+    "question": "Which fashion designer was famously the creative director of Chanel for over 30 years until his death in 2019?",
+    "correct_answer": "Karl Lagerfeld",
+    "incorrect_answers": [
+      "Coco Chanel",
+      "Yves Saint Laurent",
+      "Christian Dior",
+      "Giorgio Armani",
+      "Gianni Versace",
+      "Tom Ford",
+      "Alexander McQueen"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Celebrities",
+    "difficulty": "medium",
+    "id": "568c8926-a92c-4ed9-88a9-949b7c41835d",
+    "created_at": "2025-04-13T04:04:55.218Z",
+    "backupTimestamp": "2025-04-13T04:04:55.218Z",
+    "localBackupTimestamp": "2025-04-12T22:04:55.218Z"
+  },
+  {
+    "question": "Which actor is known for his intense method acting in roles like Daniel Plainview in 'There Will Be Blood'?",
+    "correct_answer": "Daniel Day-Lewis",
+    "incorrect_answers": [
+      "Christian Bale",
+      "Joaquin Phoenix",
+      "Robert De Niro",
+      "Marlon Brando",
+      "Jared Leto",
+      "Heath Ledger",
+      "Dustin Hoffman"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Celebrities",
+    "difficulty": "medium",
+    "id": "d56fd8b9-686a-461b-b826-33de7b3faec8",
+    "created_at": "2025-04-13T04:04:55.223Z",
+    "backupTimestamp": "2025-04-13T04:04:55.223Z",
+    "localBackupTimestamp": "2025-04-12T22:04:55.223Z"
+  },
+  {
+    "question": "What is the real name of the musician known as David Bowie?",
+    "correct_answer": "David Robert Jones",
+    "incorrect_answers": [
+      "Ziggy Stardust",
+      "Thomas Jerome Newton",
+      "Reginald Kenneth Dwight (Elton John)",
+      "Farrokh Bulsara (Freddie Mercury)",
+      "Declan Patrick MacManus (Elvis Costello)",
+      "Robert Allen Zimmerman (Bob Dylan)",
+      "Gordon Matthew Thomas Sumner (Sting)"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Celebrities",
+    "difficulty": "hard",
+    "id": "dbae48b2-a4ab-4b50-93e6-4f335e96f006",
+    "created_at": "2025-04-13T04:04:55.229Z",
+    "backupTimestamp": "2025-04-13T04:04:55.229Z",
+    "localBackupTimestamp": "2025-04-12T22:04:55.229Z"
+  },
+  {
+    "question": "Which experimental musician released the influential album 'Music for Airports'?",
+    "correct_answer": "Brian Eno",
+    "incorrect_answers": [
+      "Aphex Twin",
+      "Philip Glass",
+      "Steve Reich",
+      "John Cage",
+      "Kraftwerk",
+      "Ryuichi Sakamoto",
+      "Vangelis"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Celebrities",
+    "difficulty": "hard",
+    "id": "c0bba160-ab1d-4b2e-8e96-f515c75ca603",
+    "created_at": "2025-04-13T04:04:55.236Z",
+    "backupTimestamp": "2025-04-13T04:04:55.237Z",
+    "localBackupTimestamp": "2025-04-12T22:04:55.237Z"
+  },
+  {
+    "question": "Which actress won a Best Supporting Actress Oscar for playing Nurse Ratched in 'One Flew Over the Cuckoo's Nest'?",
+    "correct_answer": "Louise Fletcher",
+    "incorrect_answers": [
+      "Faye Dunaway",
+      "Ellen Burstyn",
+      "Sissy Spacek",
+      "Diane Keaton",
+      "Piper Laurie",
+      "Lee Grant",
+      "Ronee Blakley"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Celebrities",
+    "difficulty": "hard",
+    "id": "013a8ffa-a58a-4e25-8152-677bcceb7715",
+    "created_at": "2025-04-13T04:04:55.243Z",
+    "backupTimestamp": "2025-04-13T04:04:55.244Z",
+    "localBackupTimestamp": "2025-04-12T22:04:55.244Z"
+  },
+  {
+    "question": "Which filmmaker directed the surrealist film 'Eraserhead'?",
+    "correct_answer": "David Lynch",
+    "incorrect_answers": [
+      "David Cronenberg",
+      "Terry Gilliam",
+      "Luis Buñuel",
+      "Alejandro Jodorowsky",
+      "Stanley Kubrick",
+      "Andrei Tarkovsky",
+      "Ingmar Bergman"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Celebrities",
+    "difficulty": "hard",
+    "id": "f591eff4-2064-461e-97c6-3f0754cdabb8",
+    "created_at": "2025-04-13T04:04:55.250Z",
+    "backupTimestamp": "2025-04-13T04:04:55.251Z",
+    "localBackupTimestamp": "2025-04-12T22:04:55.251Z"
+  },
+  {
+    "question": "Which Icelandic alternative rock band, known for the hit 'Birthday', featured Björk as a vocalist before her solo success?",
+    "correct_answer": "The Sugarcubes",
+    "incorrect_answers": [
+      "Sigur Rós",
+      "Múm",
+      "Of Monsters and Men",
+      "KUKL",
+      "Tappi Tíkarrass",
+      "HAM",
+      "Reptilicus"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Celebrities",
+    "difficulty": "hard",
+    "id": "b22dbb08-14ac-4f6d-8fb8-6a45ae1ea81b",
+    "created_at": "2025-04-13T04:04:55.257Z",
+    "backupTimestamp": "2025-04-13T04:04:55.257Z",
+    "localBackupTimestamp": "2025-04-12T22:04:55.257Z"
+  },
+  {
+    "question": "Who played the character 'The Dude' in the film 'The Big Lebowski'?",
+    "correct_answer": "Jeff Bridges",
+    "incorrect_answers": [
+      "John Goodman",
+      "Steve Buscemi",
+      "Julianne Moore",
+      "Philip Seymour Hoffman",
+      "Sam Elliott",
+      "John Turturro",
+      "Joel Coen"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Celebrities",
+    "difficulty": "hard",
+    "id": "ec9191da-3975-4887-a807-155b9119b33c",
+    "created_at": "2025-04-13T04:04:55.266Z",
+    "backupTimestamp": "2025-04-13T04:04:55.266Z",
+    "localBackupTimestamp": "2025-04-12T22:04:55.266Z"
+  },
+  {
+    "question": "Which French actress starred in Jean-Luc Godard's 'Breathless' and became an icon of the French New Wave?",
+    "correct_answer": "Jean Seberg",
+    "incorrect_answers": [
+      "Brigitte Bardot",
+      "Catherine Deneuve",
+      "Anna Karina",
+      "Jeanne Moreau",
+      "Anouk Aimée",
+      "Simone Signoret",
+      "Isabelle Huppert"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Celebrities",
+    "difficulty": "hard",
+    "id": "24215a46-cb16-4693-b41a-c02355c4c320",
+    "created_at": "2025-04-13T04:04:55.272Z",
+    "backupTimestamp": "2025-04-13T04:04:55.272Z",
+    "localBackupTimestamp": "2025-04-12T22:04:55.272Z"
+  },
+  {
+    "question": "Which avant-garde performance artist famously sat silently across from museum visitors for 'The Artist Is Present'?",
+    "correct_answer": "Marina Abramović",
+    "incorrect_answers": [
+      "Yoko Ono",
+      "Laurie Anderson",
+      "Carolee Schneemann",
+      "Joseph Beuys",
+      "Chris Burden",
+      "Gilbert & George",
+      "Vito Acconci"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Celebrities",
+    "difficulty": "hard",
+    "id": "74920afc-0950-4a47-ab00-91a9309a232a",
+    "created_at": "2025-04-13T04:04:55.277Z",
+    "backupTimestamp": "2025-04-13T04:04:55.277Z",
+    "localBackupTimestamp": "2025-04-12T22:04:55.277Z"
+  },
+  {
+    "question": "Which influential comedian co-created 'Monty Python's Flying Circus' and directed 'Brazil'?",
+    "correct_answer": "Terry Gilliam",
+    "incorrect_answers": [
+      "John Cleese",
+      "Eric Idle",
+      "Michael Palin",
+      "Terry Jones",
+      "Graham Chapman",
+      "Mel Brooks",
+      "Peter Sellers"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Celebrities",
+    "difficulty": "hard",
+    "id": "e61eb765-6ca1-4946-945f-0d71dd658d3a",
+    "created_at": "2025-04-13T04:04:55.283Z",
+    "backupTimestamp": "2025-04-13T04:04:55.284Z",
+    "localBackupTimestamp": "2025-04-12T22:04:55.284Z"
+  },
+  {
+    "question": "Who composed the score for the original 'Psycho' film, including the famous 'shower scene' music?",
+    "correct_answer": "Bernard Herrmann",
+    "incorrect_answers": [
+      "John Williams",
+      "Ennio Morricone",
+      "Jerry Goldsmith",
+      "Alfred Hitchcock",
+      "Max Steiner",
+      "Hans Zimmer",
+      "Danny Elfman"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Celebrities",
+    "difficulty": "hard",
+    "id": "2505e5bf-ca61-4e5b-be7e-c368a596b7e3",
+    "created_at": "2025-04-13T04:04:55.289Z",
+    "backupTimestamp": "2025-04-13T04:04:55.290Z",
+    "localBackupTimestamp": "2025-04-12T22:04:55.290Z"
+  },
+  {
+    "question": "Which actor played the iconic role of Travis Bickle in Martin Scorsese's 'Taxi Driver'?",
+    "correct_answer": "Robert De Niro",
+    "incorrect_answers": [
+      "Al Pacino",
+      "Jack Nicholson",
+      "Dustin Hoffman",
+      "Harvey Keitel",
+      "Marlon Brando",
+      "Gene Hackman",
+      "Paul Newman"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Celebrities",
+    "difficulty": "hard",
+    "id": "07f2c99d-05b0-4e5f-84ce-f240e6ca3a31",
+    "created_at": "2025-04-13T04:04:55.297Z",
+    "backupTimestamp": "2025-04-13T04:04:55.298Z",
+    "localBackupTimestamp": "2025-04-12T22:04:55.298Z"
+  },
+  {
+    "question": "Which German filmmaker directed 'Aguirre, the Wrath of God' and 'Fitzcarraldo'?",
+    "correct_answer": "Werner Herzog",
+    "incorrect_answers": [
+      "Rainer Werner Fassbinder",
+      "Wim Wenders",
+      "Volker Schlöndorff",
+      "Fritz Lang",
+      "F. W. Murnau",
+      "Michael Haneke",
+      "Lars von Trier"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Celebrities",
+    "difficulty": "hard",
+    "id": "c1fe13d5-e43e-4fba-8b6c-86ae7ad92fc6",
+    "created_at": "2025-04-13T04:04:55.304Z",
+    "backupTimestamp": "2025-04-13T04:04:55.306Z",
+    "localBackupTimestamp": "2025-04-12T22:04:55.306Z"
+  },
+  {
+    "question": "Which silent film star was known as 'The Tramp'?",
+    "correct_answer": "Charlie Chaplin",
+    "incorrect_answers": [
+      "Buster Keaton",
+      "Harold Lloyd",
+      "Lon Chaney",
+      "Rudolph Valentino",
+      "Douglas Fairbanks",
+      "Stan Laurel",
+      "Oliver Hardy"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Celebrities",
+    "difficulty": "hard",
+    "id": "cb4bcdbf-2236-4046-9140-23fc569ec1c7",
+    "created_at": "2025-04-13T04:04:55.314Z",
+    "backupTimestamp": "2025-04-13T04:04:55.314Z",
+    "localBackupTimestamp": "2025-04-12T22:04:55.314Z"
+  },
+  {
+    "question": "Which musician released the critically acclaimed album 'To Pimp a Butterfly'?",
+    "correct_answer": "Kendrick Lamar",
+    "incorrect_answers": [
+      "Kanye West",
+      "Frank Ocean",
+      "Childish Gambino",
+      "Tyler, the Creator",
+      "J. Cole",
+      "Drake",
+      "Chance the Rapper"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Celebrities",
+    "difficulty": "hard",
+    "id": "ad5a7ac7-b9c6-4de0-a92a-ea2495ea38e9",
+    "created_at": "2025-04-13T04:04:55.322Z",
+    "backupTimestamp": "2025-04-13T04:04:55.322Z",
+    "localBackupTimestamp": "2025-04-12T22:04:55.322Z"
+  },
+  {
+    "question": "Which actress starred as 'Annie Hall' in the film of the same name, directed by Woody Allen?",
+    "correct_answer": "Diane Keaton",
+    "incorrect_answers": [
+      "Meryl Streep",
+      "Mia Farrow",
+      "Goldie Hawn",
+      "Jane Fonda",
+      "Barbra Streisand",
+      "Shelley Duvall",
+      "Anjelica Huston"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Celebrities",
+    "difficulty": "hard",
+    "id": "e3bb5a0f-c94d-4dac-8970-e641acd72203",
+    "created_at": "2025-04-13T04:04:55.331Z",
+    "backupTimestamp": "2025-04-13T04:04:55.331Z",
+    "localBackupTimestamp": "2025-04-12T22:04:55.331Z"
+  },
+  {
+    "question": "Which singer-songwriter wrote and performed the song 'Hallelujah', later famously covered by Jeff Buckley and others?",
+    "correct_answer": "Leonard Cohen",
+    "incorrect_answers": [
+      "Bob Dylan",
+      "Neil Young",
+      "Jeff Buckley",
+      "Van Morrison",
+      "Joni Mitchell",
+      "Paul Simon",
+      "Nick Drake"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Celebrities",
+    "difficulty": "hard",
+    "id": "cc81b2c6-d637-4783-99bf-ddc48f44ed79",
+    "created_at": "2025-04-13T04:04:55.336Z",
+    "backupTimestamp": "2025-04-13T04:04:55.336Z",
+    "localBackupTimestamp": "2025-04-12T22:04:55.336Z"
+  },
+  {
+    "question": "Which Japanese filmmaker directed 'Seven Samurai' and 'Rashomon'?",
+    "correct_answer": "Akira Kurosawa",
+    "incorrect_answers": [
+      "Yasujirō Ozu",
+      "Kenji Mizoguchi",
+      "Hayao Miyazaki",
+      "Takeshi Kitano",
+      "Satoshi Kon",
+      "Masaki Kobayashi",
+      "Shohei Imamura"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Celebrities",
+    "difficulty": "hard",
+    "id": "f828c26b-07ff-458b-8f24-d879ce6beaa8",
+    "created_at": "2025-04-13T04:04:55.340Z",
+    "backupTimestamp": "2025-04-13T04:04:55.341Z",
+    "localBackupTimestamp": "2025-04-12T22:04:55.341Z"
+  },
+  {
+    "question": "Which actor played Norman Bates in Alfred Hitchcock's 'Psycho'?",
+    "correct_answer": "Anthony Perkins",
+    "incorrect_answers": [
+      "John Gavin",
+      "Martin Balsam",
+      "Vince Vaughn",
+      "Janet Leigh",
+      "Vera Miles",
+      "Alfred Hitchcock",
+      "James Stewart"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Celebrities",
+    "difficulty": "hard",
+    "id": "a232c99f-07b0-4a8e-a5e0-054c350a91a6",
+    "created_at": "2025-04-13T04:04:55.345Z",
+    "backupTimestamp": "2025-04-13T04:04:55.346Z",
+    "localBackupTimestamp": "2025-04-12T22:04:55.346Z"
+  },
+  {
+    "question": "Which influential electronic music duo consists of Thomas Bangalter and Guy-Manuel de Homem-Christo?",
+    "correct_answer": "Daft Punk",
+    "incorrect_answers": [
+      "Justice",
+      "The Chemical Brothers",
+      "Kraftwerk",
+      "Air",
+      "Aphex Twin",
+      "Boards of Canada",
+      "Underworld"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Celebrities",
+    "difficulty": "hard",
+    "id": "543f0374-53d5-4cf9-a3b0-b69a9714ec6a",
+    "created_at": "2025-04-13T04:04:55.351Z",
+    "backupTimestamp": "2025-04-13T04:04:55.351Z",
+    "localBackupTimestamp": "2025-04-12T22:04:55.351Z"
+  },
+  {
+    "question": "Which author created the character Lisbeth Salander?",
+    "correct_answer": "Stieg Larsson",
+    "incorrect_answers": [
+      "Jo Nesbø",
+      "Henning Mankell",
+      "David Lagercrantz",
+      "Camilla Läckberg",
+      "Karin Fossum",
+      "Åsa Larsson",
+      "Håkan Nesser"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Celebrities",
+    "difficulty": "hard",
+    "id": "c96fd2d0-8ca9-4c60-9df1-ae338edb773a",
+    "created_at": "2025-04-13T04:04:55.357Z",
+    "backupTimestamp": "2025-04-13T04:04:55.357Z",
+    "localBackupTimestamp": "2025-04-12T22:04:55.357Z"
+  },
+  {
+    "question": "Which American playwright wrote 'A Streetcar Named Desire' and 'Cat on a Hot Tin Roof'?",
+    "correct_answer": "Tennessee Williams",
+    "incorrect_answers": [
+      "Arthur Miller",
+      "Eugene O'Neill",
+      "Edward Albee",
+      "August Wilson",
+      "Thornton Wilder",
+      "Lillian Hellman",
+      "William Inge"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Celebrities",
+    "difficulty": "hard",
+    "id": "3d4e1c91-5e59-4739-82c4-ec4c2fedbbbf",
+    "created_at": "2025-04-13T04:04:55.362Z",
+    "backupTimestamp": "2025-04-13T04:04:55.362Z",
+    "localBackupTimestamp": "2025-04-12T22:04:55.362Z"
+  },
+  {
+    "question": "Which actor starred as Rick Blaine in the classic film 'Casablanca'?",
+    "correct_answer": "Humphrey Bogart",
+    "incorrect_answers": [
+      "Cary Grant",
+      "James Stewart",
+      "Clark Gable",
+      "Ingrid Bergman",
+      "Paul Henreid",
+      "Claude Rains",
+      "Peter Lorre"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Celebrities",
+    "difficulty": "hard",
+    "id": "4e444962-1331-4938-9a55-922fc9721f03",
+    "created_at": "2025-04-13T04:04:55.366Z",
+    "backupTimestamp": "2025-04-13T04:04:55.367Z",
+    "localBackupTimestamp": "2025-04-12T22:04:55.367Z"
+  },
+  {
+    "question": "Which musician is known for pioneering the ambient music genre?",
+    "correct_answer": "Brian Eno",
+    "incorrect_answers": [
+      "Erik Satie",
+      "John Cage",
+      "Tangerine Dream",
+      "Aphex Twin",
+      "Steve Roach",
+      "Harold Budd",
+      "Robert Fripp"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Celebrities",
+    "difficulty": "hard",
+    "id": "1c7336fe-139a-44b1-9473-8b7e771b9047",
+    "created_at": "2025-04-13T04:04:55.371Z",
+    "backupTimestamp": "2025-04-13T04:04:55.371Z",
+    "localBackupTimestamp": "2025-04-12T22:04:55.371Z"
+  },
+  {
+    "question": "Which actor played Colonel Kurtz in Francis Ford Coppola's 'Apocalypse Now'?",
+    "correct_answer": "Marlon Brando",
+    "incorrect_answers": [
+      "Martin Sheen",
+      "Robert Duvall",
+      "Dennis Hopper",
+      "Harrison Ford",
+      "Laurence Fishburne",
+      "Jack Nicholson",
+      "Francis Ford Coppola"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Celebrities",
+    "difficulty": "hard",
+    "id": "8a65b989-0804-4f6b-ab08-b92e33412174",
+    "created_at": "2025-04-13T04:04:55.377Z",
+    "backupTimestamp": "2025-04-13T04:04:55.377Z",
+    "localBackupTimestamp": "2025-04-12T22:04:55.377Z"
+  },
+  {
+    "question": "Which groundbreaking female comedian hosted 'Saturday Night Live' multiple times and starred in 'Bridesmaids'?",
+    "correct_answer": "Kristen Wiig",
+    "incorrect_answers": [
+      "Tina Fey",
+      "Amy Poehler",
+      "Melissa McCarthy",
+      "Maya Rudolph",
+      "Kate McKinnon",
+      "Gilda Radner",
+      "Molly Shannon"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Celebrities",
+    "difficulty": "hard",
+    "id": "fe1bd92e-49da-42fa-b367-d8be8ba74a4c",
+    "created_at": "2025-04-13T04:04:55.382Z",
+    "backupTimestamp": "2025-04-13T04:04:55.382Z",
+    "localBackupTimestamp": "2025-04-12T22:04:55.382Z"
+  },
+  {
+    "question": "Which jazz trumpeter released the influential album 'Kind of Blue'?",
+    "correct_answer": "Miles Davis",
+    "incorrect_answers": [
+      "Louis Armstrong",
+      "John Coltrane",
+      "Dizzy Gillespie",
+      "Charlie Parker",
+      "Thelonious Monk",
+      "Duke Ellington",
+      "Chet Baker"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Celebrities",
+    "difficulty": "hard",
+    "id": "f0d9010e-46fb-400c-81db-599481400814",
+    "created_at": "2025-04-13T04:04:55.386Z",
+    "backupTimestamp": "2025-04-13T04:04:55.387Z",
+    "localBackupTimestamp": "2025-04-12T22:04:55.387Z"
+  },
+  {
+    "question": "Which director is known for the 'Three Colours' trilogy (Blue, White, Red)?",
+    "correct_answer": "Krzysztof Kieślowski",
+    "incorrect_answers": [
+      "Andrzej Wajda",
+      "Roman Polanski",
+      "Jean-Luc Godard",
+      "François Truffaut",
+      "Ingmar Bergman",
+      "Michael Haneke",
+      "Agnieszka Holland"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Celebrities",
+    "difficulty": "hard",
+    "id": "0a5dbd0a-eb06-4d88-ac0c-cd3187b9b000",
+    "created_at": "2025-04-13T04:04:55.391Z",
+    "backupTimestamp": "2025-04-13T04:04:55.391Z",
+    "localBackupTimestamp": "2025-04-12T22:04:55.391Z"
+  },
+  {
+    "question": "Which actor voiced the Genie in the original 1992 Disney animated film 'Aladdin'?",
+    "correct_answer": "Robin Williams",
+    "incorrect_answers": [
+      "Dan Castellaneta",
+      "Will Smith",
+      "Eddie Murphy",
+      "Gilbert Gottfried",
+      "Jim Cummings",
+      "Scott Weinger",
+      "Jonathan Freeman"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Celebrities",
+    "difficulty": "hard",
+    "id": "39644816-d8f9-4cc0-8e09-03e6e630375d",
+    "created_at": "2025-04-13T04:04:55.396Z",
+    "backupTimestamp": "2025-04-13T04:04:55.396Z",
+    "localBackupTimestamp": "2025-04-12T22:04:55.396Z"
+  },
+  {
+    "question": "Which influential hip-hop group released the album 'Straight Outta Compton'?",
+    "correct_answer": "N.W.A",
+    "incorrect_answers": [
+      "Public Enemy",
+      "Run-DMC",
+      "Beastie Boys",
+      "A Tribe Called Quest",
+      "Wu-Tang Clan",
+      "De La Soul",
+      "EPMD"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Celebrities",
+    "difficulty": "hard",
+    "id": "9670e24e-79f2-47b2-b075-f0c511675556",
+    "created_at": "2025-04-13T04:04:55.401Z",
+    "backupTimestamp": "2025-04-13T04:04:55.402Z",
+    "localBackupTimestamp": "2025-04-12T22:04:55.402Z"
+  },
+  {
+    "question": "Who played Alex DeLarge in Stanley Kubrick's 'A Clockwork Orange'?",
+    "correct_answer": "Malcolm McDowell",
+    "incorrect_answers": [
+      "Jack Nicholson",
+      "Keir Dullea",
+      "Ryan O'Neal",
+      "Patrick Magee",
+      "Michael Bates",
+      "Anthony Burgess",
+      "Stanley Kubrick"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Celebrities",
+    "difficulty": "hard",
+    "id": "a84b6bb2-e731-4ceb-9943-6d2f9343bb67",
+    "created_at": "2025-04-13T04:04:55.406Z",
+    "backupTimestamp": "2025-04-13T04:04:55.407Z",
+    "localBackupTimestamp": "2025-04-12T22:04:55.407Z"
+  },
+  {
+    "question": "Which artist is known for creating 'Campbell's Soup Cans' and paintings of Marilyn Monroe?",
+    "correct_answer": "Andy Warhol",
+    "incorrect_answers": [
+      "Roy Lichtenstein",
+      "Jasper Johns",
+      "Robert Rauschenberg",
+      "Jean-Michel Basquiat",
+      "Keith Haring",
+      "Claes Oldenburg",
+      "Jackson Pollock"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Celebrities",
+    "difficulty": "hard",
+    "id": "28155db4-25c0-4c3a-bcab-c3e468f0bec3",
+    "created_at": "2025-04-13T04:04:55.411Z",
+    "backupTimestamp": "2025-04-13T04:04:55.412Z",
+    "localBackupTimestamp": "2025-04-12T22:04:55.412Z"
+  },
+  {
+    "question": "Which actor is famous for playing Tyler Durden in 'Fight Club'?",
+    "correct_answer": "Brad Pitt",
+    "incorrect_answers": [
+      "Edward Norton",
+      "Jared Leto",
+      "Meat Loaf",
+      "Helena Bonham Carter",
+      "David Fincher",
+      "Chuck Palahniuk",
+      "Christian Bale"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Celebrities",
+    "difficulty": "hard",
+    "id": "8eb73392-2c17-43fb-99c9-85c211cc896c",
+    "created_at": "2025-04-13T04:04:55.418Z",
+    "backupTimestamp": "2025-04-13T04:04:55.419Z",
+    "localBackupTimestamp": "2025-04-12T22:04:55.419Z"
+  },
+  {
+    "question": "Which folk singer wrote 'Blowin' in the Wind' and 'The Times They Are a-Changin''?",
+    "correct_answer": "Bob Dylan",
+    "incorrect_answers": [
+      "Woody Guthrie",
+      "Pete Seeger",
+      "Joan Baez",
+      "Joni Mitchell",
+      "Neil Young",
+      "Paul Simon",
+      "Leonard Cohen"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Celebrities",
+    "difficulty": "hard",
+    "id": "fe82da1a-9515-4758-a7d7-f14ac37fc8f5",
+    "created_at": "2025-04-13T04:04:55.424Z",
+    "backupTimestamp": "2025-04-13T04:04:55.424Z",
+    "localBackupTimestamp": "2025-04-12T22:04:55.424Z"
+  },
+  {
+    "question": "Which Italian filmmaker directed '8½' and 'La Dolce Vita'?",
+    "correct_answer": "Federico Fellini",
+    "incorrect_answers": [
+      "Michelangelo Antonioni",
+      "Vittorio De Sica",
+      "Roberto Rossellini",
+      "Luchino Visconti",
+      "Pier Paolo Pasolini",
+      "Bernardo Bertolucci",
+      "Sergio Leone"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Celebrities",
+    "difficulty": "hard",
+    "id": "13965f43-1427-421d-87a9-eaf8f6ad45c6",
+    "created_at": "2025-04-13T04:04:55.429Z",
+    "backupTimestamp": "2025-04-13T04:04:55.429Z",
+    "localBackupTimestamp": "2025-04-12T22:04:55.429Z"
+  },
+  {
+    "question": "Which actress is known for her collaborations with director David Lynch, starring in 'Blue Velvet' and 'Wild at Heart'?",
+    "correct_answer": "Laura Dern",
+    "incorrect_answers": [
+      "Isabella Rossellini",
+      "Naomi Watts",
+      "Sheryl Lee",
+      "Patricia Arquette",
+      "Kyle MacLachlan",
+      "Grace Zabriskie",
+      "Peggy Lipton"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Celebrities",
+    "difficulty": "hard",
+    "id": "f165c369-2565-460a-aa6a-616ca3abd5ba",
+    "created_at": "2025-04-13T04:04:55.434Z",
+    "backupTimestamp": "2025-04-13T04:04:55.434Z",
+    "localBackupTimestamp": "2025-04-12T22:04:55.434Z"
+  },
+  {
+    "question": "Which pioneering electronic musician composed the theme for 'Doctor Who'?",
+    "correct_answer": "Delia Derbyshire (realized Ron Grainer's composition)",
+    "incorrect_answers": [
+      "Ron Grainer (Composer)",
+      "Wendy Carlos",
+      "Jean-Michel Jarre",
+      "Vangelis",
+      "Giorgio Moroder",
+      "Kraftwerk",
+      "Brian Eno"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Celebrities",
+    "difficulty": "hard",
+    "id": "5e4c0ae8-2d9b-4e2b-a516-bf47e4664964",
+    "created_at": "2025-04-13T04:04:55.439Z",
+    "backupTimestamp": "2025-04-13T04:04:55.439Z",
+    "localBackupTimestamp": "2025-04-12T22:04:55.439Z"
+  },
+  {
+    "question": "Which actor, known for his distinctive voice, narrated 'March of the Penguins'?",
+    "correct_answer": "Morgan Freeman",
+    "incorrect_answers": [
+      "David Attenborough",
+      "James Earl Jones",
+      "Patrick Stewart",
+      "Ian McKellen",
+      "Jeremy Irons",
+      "Sam Elliott",
+      "Werner Herzog"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Celebrities",
+    "difficulty": "hard",
+    "id": "b57c0c6c-e788-4643-a1ff-5477c498ca2b",
+    "created_at": "2025-04-13T04:04:55.444Z",
+    "backupTimestamp": "2025-04-13T04:04:55.444Z",
+    "localBackupTimestamp": "2025-04-12T22:04:55.444Z"
+  },
+  {
+    "question": "Which musician founded the band Parliament-Funkadelic?",
+    "correct_answer": "George Clinton",
+    "incorrect_answers": [
+      "James Brown",
+      "Sly Stone",
+      "Bootsy Collins",
+      "Prince",
+      "Rick James",
+      "Herbie Hancock",
+      "Stevie Wonder"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Celebrities",
+    "difficulty": "hard",
+    "id": "4fd123f7-a50f-4909-bf09-8aa6bf26f4d4",
+    "created_at": "2025-04-13T04:04:55.450Z",
+    "backupTimestamp": "2025-04-13T04:04:55.450Z",
+    "localBackupTimestamp": "2025-04-12T22:04:55.450Z"
+  },
+  {
+    "question": "Which actor played HAL 9000 (voice) in '2001: A Space Odyssey'?",
+    "correct_answer": "Douglas Rain",
+    "incorrect_answers": [
+      "Keir Dullea",
+      "Gary Lockwood",
+      "Stanley Kubrick",
+      "Arthur C. Clarke",
+      "James Earl Jones",
+      "William Sylvester",
+      "Leonard Rossiter"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Celebrities",
+    "difficulty": "hard",
+    "id": "e48d32a0-a018-4234-8169-02512fab00db",
+    "created_at": "2025-04-13T04:04:55.455Z",
+    "backupTimestamp": "2025-04-13T04:04:55.455Z",
+    "localBackupTimestamp": "2025-04-12T22:04:55.455Z"
+  },
+  {
+    "question": "Which influential reggae artist sang 'No Woman, No Cry' and 'Redemption Song'?",
+    "correct_answer": "Bob Marley",
+    "incorrect_answers": [
+      "Peter Tosh",
+      "Bunny Wailer",
+      "Jimmy Cliff",
+      "Toots Hibbert",
+      "Burning Spear",
+      "Gregory Isaacs",
+      "Dennis Brown"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Celebrities",
+    "difficulty": "hard",
+    "id": "36da5a19-8815-4519-928d-5dd5f5bbd42b",
+    "created_at": "2025-04-13T04:04:55.460Z",
+    "backupTimestamp": "2025-04-13T04:04:55.460Z",
+    "localBackupTimestamp": "2025-04-12T22:04:55.460Z"
+  },
+  {
+    "question": "Which filmmaker is known for directing the 'Dollars Trilogy' starring Clint Eastwood?",
+    "correct_answer": "Sergio Leone",
+    "incorrect_answers": [
+      "Clint Eastwood",
+      "Sam Peckinpah",
+      "John Ford",
+      "Howard Hawks",
+      "Ennio Morricone (Composer)",
+      "Quentin Tarantino",
+      "Akira Kurosawa"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Celebrities",
+    "difficulty": "hard",
+    "id": "32e02b5a-00a4-495d-8b64-7c2639728b17",
+    "created_at": "2025-04-13T04:04:55.465Z",
+    "backupTimestamp": "2025-04-13T04:04:55.465Z",
+    "localBackupTimestamp": "2025-04-12T22:04:55.465Z"
+  },
+  {
+    "question": "Which actress played Ripley in the 'Alien' film series?",
+    "correct_answer": "Sigourney Weaver",
+    "incorrect_answers": [
+      "Linda Hamilton",
+      "Jamie Lee Curtis",
+      "Milla Jovovich",
+      "Carrie Henn",
+      "Winona Ryder",
+      "Veronica Cartwright",
+      "Noomi Rapace"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Celebrities",
+    "difficulty": "hard",
+    "id": "4d4c5443-15eb-4fae-a055-1467431fae52",
+    "created_at": "2025-04-13T04:04:55.470Z",
+    "backupTimestamp": "2025-04-13T04:04:55.470Z",
+    "localBackupTimestamp": "2025-04-12T22:04:55.470Z"
+  },
+  {
+    "question": "Which punk rock icon fronted the band The Ramones?",
+    "correct_answer": "Joey Ramone",
+    "incorrect_answers": [
+      "Johnny Ramone",
+      "Dee Dee Ramone",
+      "Tommy Ramone",
+      "Iggy Pop",
+      "Johnny Rotten",
+      "Joe Strummer",
+      "Henry Rollins"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Celebrities",
+    "difficulty": "hard",
+    "id": "f43c8c98-db01-4a1b-aae1-8ed315f29d1b",
+    "created_at": "2025-04-13T04:04:55.475Z",
+    "backupTimestamp": "2025-04-13T04:04:55.476Z",
+    "localBackupTimestamp": "2025-04-12T22:04:55.476Z"
+  },
+  {
+    "question": "Which comedian is known for his 'Seven Words You Can Never Say on Television' routine?",
+    "correct_answer": "George Carlin",
+    "incorrect_answers": [
+      "Richard Pryor",
+      "Lenny Bruce",
+      "Bill Hicks",
+      "Sam Kinison",
+      "Andrew Dice Clay",
+      "Eddie Murphy",
+      "Chris Rock"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Celebrities",
+    "difficulty": "hard",
+    "id": "4ba08cd3-0313-4b10-9374-aabaecc9885f",
+    "created_at": "2025-04-13T04:04:55.480Z",
+    "backupTimestamp": "2025-04-13T04:04:55.480Z",
+    "localBackupTimestamp": "2025-04-12T22:04:55.480Z"
+  },
+  {
+    "question": "Which Swedish actress was a frequent collaborator with director Ingmar Bergman, starring in films like 'Persona'?",
+    "correct_answer": "Liv Ullmann / Bibi Andersson",
+    "incorrect_answers": [
+      "Ingrid Bergman",
+      "Greta Garbo",
+      "Harriet Andersson",
+      "Max von Sydow",
+      "Erland Josephson",
+      "Gunnel Lindblom",
+      "Ingrid Thulin"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Celebrities",
+    "difficulty": "hard",
+    "id": "d666b93a-ea4b-472a-8f54-046ad237b702",
+    "created_at": "2025-04-13T04:04:55.485Z",
+    "backupTimestamp": "2025-04-13T04:04:55.485Z",
+    "localBackupTimestamp": "2025-04-12T22:04:55.485Z"
+  },
+  {
+    "question": "Which musician released the experimental double album 'Tusk' following the massive success of 'Rumours'?",
+    "correct_answer": "Fleetwood Mac",
+    "incorrect_answers": [
+      "The Eagles",
+      "Led Zeppelin",
+      "Pink Floyd",
+      "Stevie Nicks (Solo)",
+      "Lindsey Buckingham (Solo)",
+      "The Beatles",
+      "The Rolling Stones"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Celebrities",
+    "difficulty": "hard",
+    "id": "d6a0a7ba-8687-429c-93d0-249b755bdc15",
+    "created_at": "2025-04-13T04:04:55.490Z",
+    "backupTimestamp": "2025-04-13T04:04:55.490Z",
+    "localBackupTimestamp": "2025-04-12T22:04:55.490Z"
+  },
+  {
+    "question": "Which French mime artist created the character 'Bip the Clown'?",
+    "correct_answer": "Marcel Marceau",
+    "incorrect_answers": [
+      "Charlie Chaplin",
+      "Jacques Tati",
+      "Buster Keaton",
+      "Jean-Louis Barrault",
+      "Red Skelton",
+      "Bill Irwin",
+      "Philippe Gaulier"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Celebrities",
+    "difficulty": "hard",
+    "id": "0427fc13-40da-49c8-9355-783ff201c50b",
+    "created_at": "2025-04-13T04:04:55.495Z",
+    "backupTimestamp": "2025-04-13T04:04:55.495Z",
+    "localBackupTimestamp": "2025-04-12T22:04:55.495Z"
+  },
+  {
+    "question": "Which actor played the title role in the film 'Lawrence of Arabia'?",
+    "correct_answer": "Peter O'Toole",
+    "incorrect_answers": [
+      "Alec Guinness",
+      "Anthony Quinn",
+      "Omar Sharif",
+      "Richard Burton",
+      "David Lean (Director)",
+      "T.E. Lawrence",
+      "Jack Hawkins"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Celebrities",
+    "difficulty": "hard",
+    "id": "78378108-a879-4af5-ad96-3126bd86fdb3",
+    "created_at": "2025-04-13T04:04:55.500Z",
+    "backupTimestamp": "2025-04-13T04:04:55.500Z",
+    "localBackupTimestamp": "2025-04-12T22:04:55.500Z"
+  },
+  {
+    "question": "Which singer, known as the 'Godmother of Punk', released the album 'Horses'?",
+    "correct_answer": "Patti Smith",
+    "incorrect_answers": [
+      "Debbie Harry",
+      "Chrissie Hynde",
+      "Siouxsie Sioux",
+      "Joan Jett",
+      "Kim Gordon",
+      "Poly Styrene",
+      "Nina Hagen"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Celebrities",
+    "difficulty": "hard",
+    "id": "e927eb5d-3cd4-4061-9edd-a92b11e29f43",
+    "created_at": "2025-04-13T04:04:55.505Z",
+    "backupTimestamp": "2025-04-13T04:04:55.505Z",
+    "localBackupTimestamp": "2025-04-12T22:04:55.505Z"
+  },
+  {
+    "question": "Which actor and director starred in and directed the silent film classic 'The General'?",
+    "correct_answer": "Buster Keaton",
+    "incorrect_answers": [
+      "Charlie Chaplin",
+      "Harold Lloyd",
+      "D.W. Griffith",
+      "Lon Chaney",
+      "Mack Sennett",
+      "Harry Langdon",
+      "Roscoe 'Fatty' Arbuckle"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Celebrities",
+    "difficulty": "hard",
+    "id": "5edeec57-38fa-4b30-907b-858db7941f4c",
+    "created_at": "2025-04-13T04:04:55.511Z",
+    "backupTimestamp": "2025-04-13T04:04:55.511Z",
+    "localBackupTimestamp": "2025-04-12T22:04:55.511Z"
+  },
+  {
+    "question": "Which author and counter-culture figure wrote 'Fear and Loathing in Las Vegas'?",
+    "correct_answer": "Hunter S. Thompson",
+    "incorrect_answers": [
+      "Ken Kesey",
+      "Tom Wolfe",
+      "Jack Kerouac",
+      "William S. Burroughs",
+      "Charles Bukowski",
+      "Kurt Vonnegut",
+      "Norman Mailer"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Celebrities",
+    "difficulty": "hard",
+    "id": "af9029e8-7708-44c3-80e9-aa88eb9bbebc",
+    "created_at": "2025-04-13T04:04:55.516Z",
+    "backupTimestamp": "2025-04-13T04:04:55.517Z",
+    "localBackupTimestamp": "2025-04-12T22:04:55.517Z"
+  },
+  {
+    "question": "Which actress won the Academy Award for Best Actress for her role in 'Fargo'?",
+    "correct_answer": "Frances McDormand",
+    "incorrect_answers": [
+      "Meryl Streep",
+      "Holly Hunter",
+      "Jodie Foster",
+      "Susan Sarandon",
+      "William H. Macy",
+      "Steve Buscemi",
+      "Coen Brothers"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Celebrities",
+    "difficulty": "hard",
+    "id": "50782564-fa9d-44d8-9288-84e146118658",
+    "created_at": "2025-04-13T04:04:55.521Z",
+    "backupTimestamp": "2025-04-13T04:04:55.521Z",
+    "localBackupTimestamp": "2025-04-12T22:04:55.521Z"
+  },
+  {
+    "question": "Which influential blues guitarist was rumored to have sold his soul to the devil at a crossroads?",
+    "correct_answer": "Robert Johnson",
+    "incorrect_answers": [
+      "B.B. King",
+      "Muddy Waters",
+      "Howlin' Wolf",
+      "John Lee Hooker",
+      "Lead Belly",
+      "Son House",
+      "Blind Willie McTell"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Celebrities",
+    "difficulty": "hard",
+    "id": "5f9f067e-6808-4367-8683-a31f741267c5",
+    "created_at": "2025-04-13T04:04:55.526Z",
+    "backupTimestamp": "2025-04-13T04:04:55.527Z",
+    "localBackupTimestamp": "2025-04-12T22:04:55.527Z"
   }
 ]
