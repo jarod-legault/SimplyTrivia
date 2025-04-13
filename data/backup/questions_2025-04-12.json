@@ -40,26 +40,6 @@
     "localBackupTimestamp": "2025-04-12T19:34:28.548Z"
   },
   {
-    "question": "In 'The Matrix', does Neo take the blue pill or the red pill?",
-    "correct_answer": "Red pill",
-    "incorrect_answers": [
-      "Blue pill",
-      "Green pill",
-      "Yellow pill",
-      "Purple pill",
-      "Orange pill",
-      "Black pill",
-      "White pill"
-    ],
-    "main_category": "Pop Culture",
-    "subcategory": "Movies",
-    "difficulty": "easy",
-    "id": "3e6fc91a-5b68-439c-bf6f-71ce68677c61",
-    "created_at": "2025-04-13T01:34:28.549Z",
-    "backupTimestamp": "2025-04-13T01:34:28.550Z",
-    "localBackupTimestamp": "2025-04-12T19:34:28.550Z"
-  },
-  {
     "question": "What is the name of the young wizard who attends Hogwarts School of Witchcraft and Wizardry?",
     "correct_answer": "Harry Potter",
     "incorrect_answers": [
@@ -2420,26 +2400,6 @@
     "localBackupTimestamp": "2025-04-12T19:34:28.649Z"
   },
   {
-    "question": "What does the 'T' in Thomas 'Neo' Anderson stand for in 'The Matrix'?",
-    "correct_answer": "It's never revealed what the 'T' stands for.",
-    "incorrect_answers": [
-      "Thomas",
-      "Tyler",
-      "Theodore",
-      "Timothy",
-      "Trevor",
-      "Tobias",
-      "Tristan"
-    ],
-    "main_category": "Pop Culture",
-    "subcategory": "Movies",
-    "difficulty": "hard",
-    "id": "fe18b3e9-5ee2-4b54-a97b-5a919a2cdda1",
-    "created_at": "2025-04-13T01:34:28.650Z",
-    "backupTimestamp": "2025-04-13T01:34:28.650Z",
-    "localBackupTimestamp": "2025-04-12T19:34:28.650Z"
-  },
-  {
     "question": "What is the name of the German Expressionist film directed by Robert Wiene, known for its distorted sets and psychological horror?",
     "correct_answer": "The Cabinet of Dr. Caligari (1920)",
     "incorrect_answers": [
@@ -2558,26 +2518,6 @@
     "created_at": "2025-04-13T01:34:28.655Z",
     "backupTimestamp": "2025-04-13T01:34:28.656Z",
     "localBackupTimestamp": "2025-04-12T19:34:28.656Z"
-  },
-  {
-    "question": "In David Cronenberg's 'Videodrome', what is the name of the television signal causing hallucinations and physical transformations?",
-    "correct_answer": "Videodrome",
-    "incorrect_answers": [
-      "Scanners",
-      "Ephemerol",
-      "The New Flesh",
-      "Cathode Ray Mission",
-      "Spectacular Optical",
-      "Telefactor",
-      "Sublimina"
-    ],
-    "main_category": "Pop Culture",
-    "subcategory": "Movies",
-    "difficulty": "hard",
-    "id": "9269e8c9-2eac-47e1-8082-07d798ff7bce",
-    "created_at": "2025-04-13T01:34:28.656Z",
-    "backupTimestamp": "2025-04-13T01:34:28.657Z",
-    "localBackupTimestamp": "2025-04-12T19:34:28.657Z"
   },
   {
     "question": "What filmmaking technique, involving filming actors against a projected background, was largely replaced by bluescreen/greenscreen?",
@@ -3380,26 +3320,6 @@
     "localBackupTimestamp": "2025-04-12T19:43:59.206Z"
   },
   {
-    "question": "What medical drama is set in Seattle Grace Hospital (later Grey Sloan Memorial)?",
-    "correct_answer": "Grey's Anatomy",
-    "incorrect_answers": [
-      "ER",
-      "House",
-      "Scrubs",
-      "The Good Doctor",
-      "Chicago Med",
-      "New Amsterdam",
-      "St. Elsewhere"
-    ],
-    "main_category": "Pop Culture",
-    "subcategory": "Television",
-    "difficulty": "easy",
-    "id": "e933f88d-66e4-49e0-a979-d7dffc5db8e8",
-    "created_at": "2025-04-13T01:43:59.207Z",
-    "backupTimestamp": "2025-04-13T01:43:59.207Z",
-    "localBackupTimestamp": "2025-04-12T19:43:59.207Z"
-  },
-  {
     "question": "What show features Ted Mosby telling his children the long story of how he met their mother?",
     "correct_answer": "How I Met Your Mother",
     "incorrect_answers": [
@@ -3478,26 +3398,6 @@
     "created_at": "2025-04-13T01:43:59.212Z",
     "backupTimestamp": "2025-04-13T01:43:59.213Z",
     "localBackupTimestamp": "2025-04-12T19:43:59.213Z"
-  },
-  {
-    "question": "What animated show features the adventures of SpongeBob SquarePants in Bikini Bottom?",
-    "correct_answer": "SpongeBob SquarePants",
-    "incorrect_answers": [
-      "The Fairly OddParents",
-      "Rugrats",
-      "Adventure Time",
-      "Regular Show",
-      "Phineas and Ferb",
-      "Dexter's Laboratory",
-      "The Powerpuff Girls"
-    ],
-    "main_category": "Pop Culture",
-    "subcategory": "Television",
-    "difficulty": "easy",
-    "id": "fb54dd70-04d6-4df8-a3cd-e076af70a2b5",
-    "created_at": "2025-04-13T01:43:59.214Z",
-    "backupTimestamp": "2025-04-13T01:43:59.215Z",
-    "localBackupTimestamp": "2025-04-12T19:43:59.215Z"
   },
   {
     "question": "What long-running sketch comedy show airs live from New York on Saturday nights?",
@@ -3720,26 +3620,6 @@
     "localBackupTimestamp": "2025-04-12T19:43:59.232Z"
   },
   {
-    "question": "What animated show features four young boys in the fictional town of South Park, Colorado?",
-    "correct_answer": "South Park",
-    "incorrect_answers": [
-      "The Simpsons",
-      "Family Guy",
-      "Beavis and Butt-Head",
-      "King of the Hill",
-      "Bob's Burgers",
-      "Rick and Morty",
-      "American Dad!"
-    ],
-    "main_category": "Pop Culture",
-    "subcategory": "Television",
-    "difficulty": "easy",
-    "id": "9d5727a5-6360-4b17-9409-a73ae0582519",
-    "created_at": "2025-04-13T01:43:59.233Z",
-    "backupTimestamp": "2025-04-13T01:43:59.234Z",
-    "localBackupTimestamp": "2025-04-12T19:43:59.234Z"
-  },
-  {
     "question": "What TV show features a chemistry teacher named Walter White?",
     "correct_answer": "Breaking Bad",
     "incorrect_answers": [
@@ -3778,26 +3658,6 @@
     "created_at": "2025-04-13T01:43:59.236Z",
     "backupTimestamp": "2025-04-13T01:43:59.237Z",
     "localBackupTimestamp": "2025-04-12T19:43:59.237Z"
-  },
-  {
-    "question": "What government department does Ron Swanson work for in 'Parks and Recreation'?",
-    "correct_answer": "Parks and Recreation Department",
-    "incorrect_answers": [
-      "Police Department",
-      "Fire Department",
-      "Public Works Department",
-      "City Manager's Office",
-      "Library Department",
-      "Planning Department",
-      "Animal Control"
-    ],
-    "main_category": "Pop Culture",
-    "subcategory": "Television",
-    "difficulty": "easy",
-    "id": "9acba5d4-4b52-4f32-bbf9-6018d5e17c33",
-    "created_at": "2025-04-13T01:43:59.239Z",
-    "backupTimestamp": "2025-04-13T01:43:59.239Z",
-    "localBackupTimestamp": "2025-04-12T19:43:59.239Z"
   },
   {
     "question": "What is the name of the main character, a brooding advertising executive, in 'Mad Men'?",
@@ -3958,26 +3818,6 @@
     "created_at": "2025-04-13T01:43:59.249Z",
     "backupTimestamp": "2025-04-13T01:43:59.249Z",
     "localBackupTimestamp": "2025-04-12T19:43:59.249Z"
-  },
-  {
-    "question": "What is the name of the bar where Sam Malone works in 'Cheers'?",
-    "correct_answer": "Cheers",
-    "incorrect_answers": [
-      "The Drunken Clam",
-      "Paddy's Pub",
-      "MacLaren's Pub",
-      "Moe's Tavern",
-      "The Regal Beagle",
-      "Monk's Cafe",
-      "Central Perk"
-    ],
-    "main_category": "Pop Culture",
-    "subcategory": "Television",
-    "difficulty": "easy",
-    "id": "742e4d88-1003-4ea1-8e46-d5d42106561b",
-    "created_at": "2025-04-13T01:43:59.250Z",
-    "backupTimestamp": "2025-04-13T01:43:59.250Z",
-    "localBackupTimestamp": "2025-04-12T19:43:59.250Z"
   },
   {
     "question": "What character does Steve Carell play in 'The Office' (US)?",
@@ -5420,26 +5260,6 @@
     "localBackupTimestamp": "2025-04-12T19:43:59.379Z"
   },
   {
-    "question": "What is the name of the spaceship used by the Bebop crew in the anime 'Cowboy Bebop'?",
-    "correct_answer": "Bebop",
-    "incorrect_answers": [
-      "Serenity",
-      "Swordfish II (Spike's ship)",
-      "Red Tail (Faye's ship)",
-      "Hammerhead (Jet's ship)",
-      "Outlaw Star",
-      "Yamato",
-      "Macross"
-    ],
-    "main_category": "Pop Culture",
-    "subcategory": "Television",
-    "difficulty": "hard",
-    "id": "7ac86a5d-18ad-46b4-8def-2412ffe43484",
-    "created_at": "2025-04-13T01:43:59.380Z",
-    "backupTimestamp": "2025-04-13T01:43:59.381Z",
-    "localBackupTimestamp": "2025-04-12T19:43:59.381Z"
-  },
-  {
     "question": "What is the full name of the 'Numbers' sequence that Hurley is obsessed with in 'Lost'?",
     "correct_answer": "4, 8, 15, 16, 23, 42",
     "incorrect_answers": [
@@ -5478,26 +5298,6 @@
     "created_at": "2025-04-13T01:43:59.384Z",
     "backupTimestamp": "2025-04-13T01:43:59.385Z",
     "localBackupTimestamp": "2025-04-12T19:43:59.385Z"
-  },
-  {
-    "question": "What fictional consulting detective agency is run by Shawn Spencer in 'Psych'?",
-    "correct_answer": "Psych",
-    "incorrect_answers": [
-      "Spencer & Guster Investigations",
-      "The Blueberry",
-      "Santa Barbara Consulting Detectives",
-      "Psychic Solutions",
-      "Mind Over Murder Inc.",
-      "Pineapple P.I.",
-      "Third Eye Detective Agency"
-    ],
-    "main_category": "Pop Culture",
-    "subcategory": "Television",
-    "difficulty": "hard",
-    "id": "c646c411-e6a2-44ea-815f-ed4c1a46ad3b",
-    "created_at": "2025-04-13T01:43:59.386Z",
-    "backupTimestamp": "2025-04-13T01:43:59.386Z",
-    "localBackupTimestamp": "2025-04-12T19:43:59.386Z"
   },
   {
     "question": "In 'Battlestar Galactica' (2004 series), what is the derogatory term used by humans for Cylons?",
@@ -7400,26 +7200,6 @@
     "localBackupTimestamp": "2025-04-12T19:52:27.102Z"
   },
   {
-    "question": "Who wrote the song 'Hallelujah', famously covered by Jeff Buckley and Leonard Cohen?",
-    "correct_answer": "Leonard Cohen",
-    "incorrect_answers": [
-      "Jeff Buckley",
-      "Bob Dylan",
-      "Joni Mitchell",
-      "Neil Young",
-      "Paul Simon",
-      "Van Morrison",
-      "John Cale"
-    ],
-    "main_category": "Pop Culture",
-    "subcategory": "Music",
-    "difficulty": "medium",
-    "id": "55caad70-3fa0-4793-93cb-a37fbb58a466",
-    "created_at": "2025-04-13T01:52:27.103Z",
-    "backupTimestamp": "2025-04-13T01:52:27.103Z",
-    "localBackupTimestamp": "2025-04-12T19:52:27.103Z"
-  },
-  {
     "question": "What was the name of the Beatles' final studio album, released in 1970?",
     "correct_answer": "Let It Be",
     "incorrect_answers": [
@@ -7518,26 +7298,6 @@
     "created_at": "2025-04-13T01:52:27.112Z",
     "backupTimestamp": "2025-04-13T01:52:27.112Z",
     "localBackupTimestamp": "2025-04-12T19:52:27.112Z"
-  },
-  {
-    "question": "Which female rapper won the Grammy for Best Rap Album for 'The Miseducation of Lauryn Hill'?",
-    "correct_answer": "Lauryn Hill",
-    "incorrect_answers": [
-      "Missy Elliott",
-      "Queen Latifah",
-      "Lil' Kim",
-      "Cardi B",
-      "Nicki Minaj",
-      "Salt-N-Pepa",
-      "Eve"
-    ],
-    "main_category": "Pop Culture",
-    "subcategory": "Music",
-    "difficulty": "medium",
-    "id": "8c78ac60-9574-4fef-aca8-050345b4bb51",
-    "created_at": "2025-04-13T01:52:27.113Z",
-    "backupTimestamp": "2025-04-13T01:52:27.114Z",
-    "localBackupTimestamp": "2025-04-12T19:52:27.114Z"
   },
   {
     "question": "What instrument did jazz legend Miles Davis primarily play?",
@@ -9400,26 +9160,6 @@
     "localBackupTimestamp": "2025-04-12T19:52:27.282Z"
   },
   {
-    "question": "What Broadway musical tells the story of Alexander Hamilton using hip-hop, jazz, R&B, and Broadway show tunes?",
-    "correct_answer": "Hamilton",
-    "incorrect_answers": [
-      "Wicked",
-      "Les Misérables",
-      "The Phantom of the Opera",
-      "Rent",
-      "Cats",
-      "Dear Evan Hansen",
-      "Book of Mormon"
-    ],
-    "main_category": "Pop Culture",
-    "subcategory": "Broadway musicals",
-    "difficulty": "easy",
-    "id": "84629ccc-de1d-4f1c-9c46-a847467439dd",
-    "created_at": "2025-04-13T02:03:07.390Z",
-    "backupTimestamp": "2025-04-13T02:03:07.393Z",
-    "localBackupTimestamp": "2025-04-12T20:03:07.393Z"
-  },
-  {
     "question": "Which musical features the iconic song 'Defying Gravity' sung by Elphaba?",
     "correct_answer": "Wicked",
     "incorrect_answers": [
@@ -9540,26 +9280,6 @@
     "localBackupTimestamp": "2025-04-12T20:03:07.427Z"
   },
   {
-    "question": "Which musical is set in 1920s Chicago and features characters like Roxie Hart and Velma Kelly?",
-    "correct_answer": "Chicago",
-    "incorrect_answers": [
-      "Cabaret",
-      "Guys and Dolls",
-      "Anything Goes",
-      "42nd Street",
-      "Thoroughly Modern Millie",
-      "Annie",
-      "Ragtime"
-    ],
-    "main_category": "Pop Culture",
-    "subcategory": "Broadway musicals",
-    "difficulty": "easy",
-    "id": "724e7d02-209f-4276-afc1-965ea872f9f6",
-    "created_at": "2025-04-13T02:03:07.430Z",
-    "backupTimestamp": "2025-04-13T02:03:07.431Z",
-    "localBackupTimestamp": "2025-04-12T20:03:07.431Z"
-  },
-  {
     "question": "What musical tells the story of two Mormon missionaries sent to Uganda?",
     "correct_answer": "The Book of Mormon",
     "incorrect_answers": [
@@ -9658,26 +9378,6 @@
     "created_at": "2025-04-13T02:03:07.443Z",
     "backupTimestamp": "2025-04-13T02:03:07.444Z",
     "localBackupTimestamp": "2025-04-12T20:03:07.444Z"
-  },
-  {
-    "question": "Which musical is based on the 1952 film of the same name and features iconic songs like 'Make 'Em Laugh' and the title number performed in the rain?",
-    "correct_answer": "Singin' in the Rain",
-    "incorrect_answers": [
-      "An American in Paris",
-      "42nd Street",
-      "Crazy for You",
-      "White Christmas",
-      "Meet Me in St. Louis",
-      "Top Hat",
-      "The Band Wagon"
-    ],
-    "main_category": "Pop Culture",
-    "subcategory": "Broadway musicals",
-    "difficulty": "easy",
-    "id": "72cb51b5-b229-4870-bf9d-12a0054b8c58",
-    "created_at": "2025-04-13T02:03:07.447Z",
-    "backupTimestamp": "2025-04-13T02:03:07.447Z",
-    "localBackupTimestamp": "2025-04-12T20:03:07.447Z"
   },
   {
     "question": "What Stephen Sondheim musical intertwines the plots of several Brothers Grimm fairy tales?",
@@ -10200,26 +9900,6 @@
     "localBackupTimestamp": "2025-04-12T20:03:07.565Z"
   },
   {
-    "question": "What Cole Porter musical is set aboard an ocean liner and features songs like 'Anything Goes' and 'I Get a Kick Out of You'?",
-    "correct_answer": "Anything Goes",
-    "incorrect_answers": [
-      "Kiss Me, Kate",
-      "Guys and Dolls",
-      "South Pacific",
-      "On the Town",
-      "Damn Yankees",
-      "Can-Can",
-      "High Society"
-    ],
-    "main_category": "Pop Culture",
-    "subcategory": "Broadway musicals",
-    "difficulty": "easy",
-    "id": "c9d83d55-48d7-44e6-9cd9-434c714e099a",
-    "created_at": "2025-04-13T02:03:07.570Z",
-    "backupTimestamp": "2025-04-13T02:03:07.570Z",
-    "localBackupTimestamp": "2025-04-12T20:03:07.570Z"
-  },
-  {
     "question": "Which musical features the song 'Send in the Clowns'?",
     "correct_answer": "A Little Night Music",
     "incorrect_answers": [
@@ -10600,26 +10280,6 @@
     "localBackupTimestamp": "2025-04-12T20:03:07.674Z"
   },
   {
-    "question": "Which Rodgers and Hammerstein musical features the song 'Oh, What a Beautiful Mornin'' and is set in Oklahoma territory?",
-    "correct_answer": "Oklahoma!",
-    "incorrect_answers": [
-      "Carousel",
-      "South Pacific",
-      "The King and I",
-      "The Sound of Music",
-      "State Fair",
-      "Flower Drum Song",
-      "Pipe Dream"
-    ],
-    "main_category": "Pop Culture",
-    "subcategory": "Broadway musicals",
-    "difficulty": "medium",
-    "id": "e944e359-b145-4769-a8af-a58960871575",
-    "created_at": "2025-04-13T02:03:07.676Z",
-    "backupTimestamp": "2025-04-13T02:03:07.676Z",
-    "localBackupTimestamp": "2025-04-12T20:03:07.676Z"
-  },
-  {
     "question": "What is the name of the character who sings 'On My Own' in 'Les Misérables'?",
     "correct_answer": "Éponine",
     "incorrect_answers": [
@@ -10898,26 +10558,6 @@
     "created_at": "2025-04-13T02:03:07.710Z",
     "backupTimestamp": "2025-04-13T02:03:07.711Z",
     "localBackupTimestamp": "2025-04-12T20:03:07.711Z"
-  },
-  {
-    "question": "What Alanis Morissette album serves as the basis for the jukebox musical 'Jagged Little Pill'?",
-    "correct_answer": "Jagged Little Pill",
-    "incorrect_answers": [
-      "Supposed Former Infatuation Junkie",
-      "MTV Unplugged",
-      "Under Rug Swept",
-      "Flavors of Entanglement",
-      "Havoc and Bright Lights",
-      "Such Pretty Forks in the Road",
-      "Jagged Little Pill Acoustic"
-    ],
-    "main_category": "Pop Culture",
-    "subcategory": "Broadway musicals",
-    "difficulty": "medium",
-    "id": "26efa41b-0d86-4ca9-896b-3264f76cec1e",
-    "created_at": "2025-04-13T02:03:07.713Z",
-    "backupTimestamp": "2025-04-13T02:03:07.714Z",
-    "localBackupTimestamp": "2025-04-12T20:03:07.714Z"
   },
   {
     "question": "Which musical features the characters Angel Dumott Schunard and Tom Collins singing the duet 'I'll Cover You'?",
@@ -11500,26 +11140,6 @@
     "localBackupTimestamp": "2025-04-12T20:03:07.790Z"
   },
   {
-    "question": "What is the name of the street featured in the title of 'Avenue Q'?",
-    "correct_answer": "Avenue Q",
-    "incorrect_answers": [
-      "Sesame Street",
-      "Electric Avenue",
-      "Baker Street",
-      "Fleet Street",
-      "Memory Lane",
-      "Penny Lane",
-      "Easy Street"
-    ],
-    "main_category": "Pop Culture",
-    "subcategory": "Broadway musicals",
-    "difficulty": "medium",
-    "id": "178d3279-e761-419f-a133-ba555697ebde",
-    "created_at": "2025-04-13T02:03:07.792Z",
-    "backupTimestamp": "2025-04-13T02:03:07.793Z",
-    "localBackupTimestamp": "2025-04-12T20:03:07.793Z"
-  },
-  {
     "question": "Which musical, based on a novel by Alice Walker, tells the story of Celie, an African American woman living in the South during the early 20th century?",
     "correct_answer": "The Color Purple",
     "incorrect_answers": [
@@ -11738,26 +11358,6 @@
     "created_at": "2025-04-13T02:03:07.821Z",
     "backupTimestamp": "2025-04-13T02:03:07.822Z",
     "localBackupTimestamp": "2025-04-12T20:03:07.822Z"
-  },
-  {
-    "question": "In 'La Cage aux Folles', what is the name of the drag nightclub owned by Georges and Albin?",
-    "correct_answer": "La Cage aux Folles",
-    "incorrect_answers": [
-      "The Birdcage",
-      "Chez Georges",
-      "Zaza's Place",
-      "St. Tropez",
-      "The Blue Angel",
-      "Le Chat Noir",
-      "Moulin Rouge"
-    ],
-    "main_category": "Pop Culture",
-    "subcategory": "Broadway musicals",
-    "difficulty": "hard",
-    "id": "5c61ebfb-6b7e-4fe1-b7b5-d6741ab911af",
-    "created_at": "2025-04-13T02:03:07.824Z",
-    "backupTimestamp": "2025-04-13T02:03:07.824Z",
-    "localBackupTimestamp": "2025-04-12T20:03:07.824Z"
   },
   {
     "question": "Which Sondheim musical depicts various historical figures who attempted (successfully or not) to assassinate Presidents of the United States?",
@@ -12138,26 +11738,6 @@
     "created_at": "2025-04-13T02:03:07.878Z",
     "backupTimestamp": "2025-04-13T02:03:07.878Z",
     "localBackupTimestamp": "2025-04-12T20:03:07.878Z"
-  },
-  {
-    "question": "What musical, featuring music by Elton John, is based on Verdi's opera 'Aida'?",
-    "correct_answer": "Aida",
-    "incorrect_answers": [
-      "The Lion King",
-      "Billy Elliot the Musical",
-      "Lestat",
-      "Tommy (The Who)",
-      "Miss Saigon (Puccini)",
-      "Rent (Puccini)",
-      "Carmen Jones (Bizet)"
-    ],
-    "main_category": "Pop Culture",
-    "subcategory": "Broadway musicals",
-    "difficulty": "hard",
-    "id": "21a26301-e500-4ecb-b1e7-7764128cd9d0",
-    "created_at": "2025-04-13T02:03:07.880Z",
-    "backupTimestamp": "2025-04-13T02:03:07.881Z",
-    "localBackupTimestamp": "2025-04-12T20:03:07.881Z"
   },
   {
     "question": "Which Jason Robert Brown musical deals with the relationship between a Jewish man from Brooklyn and a Catholic girl from Georgia?",
@@ -13320,26 +12900,6 @@
     "localBackupTimestamp": "2025-04-12T20:08:39.515Z"
   },
   {
-    "question": "In 'The Sims', what are the controllable characters called?",
-    "correct_answer": "Sims",
-    "incorrect_answers": [
-      "Avatars",
-      "Humans",
-      "People",
-      "Characters",
-      "Dolls",
-      "Citizens",
-      "Residents"
-    ],
-    "main_category": "Pop Culture",
-    "subcategory": "Video Games",
-    "difficulty": "easy",
-    "id": "e7aeb86f-3d15-4189-a2b8-fe66ca008b79",
-    "created_at": "2025-04-13T02:08:39.518Z",
-    "backupTimestamp": "2025-04-13T02:08:39.518Z",
-    "localBackupTimestamp": "2025-04-12T20:08:39.518Z"
-  },
-  {
     "question": "What is the primary gameplay mechanic in the 'Portal' series?",
     "correct_answer": "Creating interconnected portals",
     "incorrect_answers": [
@@ -13700,26 +13260,6 @@
     "localBackupTimestamp": "2025-04-12T20:08:39.570Z"
   },
   {
-    "question": "In 'The Legend of Zelda: Ocarina of Time', what instrument does Link primarily use?",
-    "correct_answer": "Ocarina",
-    "incorrect_answers": [
-      "Flute",
-      "Harp",
-      "Guitar",
-      "Drums",
-      "Trumpet",
-      "Violin",
-      "Pan Pipes"
-    ],
-    "main_category": "Pop Culture",
-    "subcategory": "Video Games",
-    "difficulty": "medium",
-    "id": "8344675a-0948-413e-8a4f-022d60027b69",
-    "created_at": "2025-04-13T02:08:39.572Z",
-    "backupTimestamp": "2025-04-13T02:08:39.572Z",
-    "localBackupTimestamp": "2025-04-12T20:08:39.572Z"
-  },
-  {
     "question": "Which developer created the 'Dark Souls' series?",
     "correct_answer": "FromSoftware",
     "incorrect_answers": [
@@ -14058,26 +13598,6 @@
     "created_at": "2025-04-13T02:08:39.630Z",
     "backupTimestamp": "2025-04-13T02:08:39.630Z",
     "localBackupTimestamp": "2025-04-12T20:08:39.630Z"
-  },
-  {
-    "question": "What item is used to revive fainted Pokémon outside of battle?",
-    "correct_answer": "Revive",
-    "incorrect_answers": [
-      "Potion",
-      "Max Revive",
-      "Full Restore",
-      "Elixir",
-      "Sacred Ash",
-      "Ether",
-      "Full Heal"
-    ],
-    "main_category": "Pop Culture",
-    "subcategory": "Video Games",
-    "difficulty": "medium",
-    "id": "daddf678-1d63-486d-8474-2b42277ce2ae",
-    "created_at": "2025-04-13T02:08:39.633Z",
-    "backupTimestamp": "2025-04-13T02:08:39.633Z",
-    "localBackupTimestamp": "2025-04-12T20:08:39.633Z"
   },
   {
     "question": "Which company developed the 'Witcher' series of games?",
@@ -14858,26 +14378,6 @@
     "created_at": "2025-04-13T02:08:39.754Z",
     "backupTimestamp": "2025-04-13T02:08:39.755Z",
     "localBackupTimestamp": "2025-04-12T20:08:39.755Z"
-  },
-  {
-    "question": "In 'Dungeons & Dragons' lore, which city serves as the setting for 'Baldur's Gate 3'?",
-    "correct_answer": "Baldur's Gate",
-    "incorrect_answers": [
-      "Waterdeep",
-      "Neverwinter",
-      "Silverymoon",
-      "Icewind Dale",
-      "Athkatla",
-      "Sigil",
-      "Greyhawk"
-    ],
-    "main_category": "Pop Culture",
-    "subcategory": "Video Games",
-    "difficulty": "medium",
-    "id": "378ed673-281d-447f-8d51-e35d243b3408",
-    "created_at": "2025-04-13T02:08:39.757Z",
-    "backupTimestamp": "2025-04-13T02:08:39.757Z",
-    "localBackupTimestamp": "2025-04-12T20:08:39.757Z"
   },
   {
     "question": "What console did the original 'Crash Bandicoot' trilogy debut on?",
@@ -16440,26 +15940,6 @@
     "localBackupTimestamp": "2025-04-12T20:13:14.934Z"
   },
   {
-    "question": "What party game involves giving clues to guess a word, but avoiding certain 'taboo' words?",
-    "correct_answer": "Taboo",
-    "incorrect_answers": [
-      "Pictionary",
-      "Charades",
-      "Catchphrase",
-      "Codenames",
-      "Scattergories",
-      "Password",
-      "Outburst"
-    ],
-    "main_category": "Pop Culture",
-    "subcategory": "Board Games",
-    "difficulty": "easy",
-    "id": "d615d111-a24e-432c-b9aa-f0e365a8dd4c",
-    "created_at": "2025-04-13T02:13:14.937Z",
-    "backupTimestamp": "2025-04-13T02:13:14.937Z",
-    "localBackupTimestamp": "2025-04-12T20:13:14.937Z"
-  },
-  {
     "question": "What is the primary goal in the game 'Pandemic'?",
     "correct_answer": "Cure diseases threatening the world",
     "incorrect_answers": [
@@ -16618,26 +16098,6 @@
     "created_at": "2025-04-13T02:13:14.969Z",
     "backupTimestamp": "2025-04-13T02:13:14.969Z",
     "localBackupTimestamp": "2025-04-12T20:13:14.969Z"
-  },
-  {
-    "question": "Which cooperative game involves working together to escape a forbidden island before it sinks?",
-    "correct_answer": "Forbidden Island",
-    "incorrect_answers": [
-      "Pandemic",
-      "Forbidden Desert",
-      "Flash Point: Fire Rescue",
-      "Dead of Winter",
-      "Robinson Crusoe",
-      "Ghost Stories",
-      "Eldritch Horror"
-    ],
-    "main_category": "Pop Culture",
-    "subcategory": "Board Games",
-    "difficulty": "easy",
-    "id": "50e5ca24-b6e9-4aad-b3ea-d3aa12d543cc",
-    "created_at": "2025-04-13T02:13:14.972Z",
-    "backupTimestamp": "2025-04-13T02:13:14.972Z",
-    "localBackupTimestamp": "2025-04-12T20:13:14.972Z"
   },
   {
     "question": "In 'Monopoly', what is the most expensive property on a standard US board?",
@@ -20180,26 +19640,6 @@
     "localBackupTimestamp": "2025-04-12T20:17:42.027Z"
   },
   {
-    "question": "Which character famously says 'Hulk Smash!'?",
-    "correct_answer": "Hulk",
-    "incorrect_answers": [
-      "The Thing",
-      "Thor",
-      "Superman",
-      "Juggernaut",
-      "Solomon Grundy",
-      "Wolverine",
-      "She-Hulk"
-    ],
-    "main_category": "Pop Culture",
-    "subcategory": "Comics",
-    "difficulty": "easy",
-    "id": "e7979ba0-7391-40f6-a346-3668ff7f076d",
-    "created_at": "2025-04-13T02:17:42.031Z",
-    "backupTimestamp": "2025-04-13T02:17:42.031Z",
-    "localBackupTimestamp": "2025-04-12T20:17:42.031Z"
-  },
-  {
     "question": "What is the name of the Daily Bugle's editor-in-chief, known for his dislike of Spider-Man?",
     "correct_answer": "J. Jonah Jameson",
     "incorrect_answers": [
@@ -21960,26 +21400,6 @@
     "localBackupTimestamp": "2025-04-12T20:17:42.388Z"
   },
   {
-    "question": "What is the name of the Japanese manga series about a young ninja named Naruto Uzumaki?",
-    "correct_answer": "Naruto",
-    "incorrect_answers": [
-      "One Piece",
-      "Bleach",
-      "Dragon Ball Z",
-      "Attack on Titan",
-      "My Hero Academia",
-      "Demon Slayer",
-      "Jujutsu Kaisen"
-    ],
-    "main_category": "Pop Culture",
-    "subcategory": "Comics",
-    "difficulty": "hard",
-    "id": "89cec7d9-eeab-4ad7-9423-1fa1597907d8",
-    "created_at": "2025-04-13T02:17:42.392Z",
-    "backupTimestamp": "2025-04-13T02:17:42.392Z",
-    "localBackupTimestamp": "2025-04-12T20:17:42.392Z"
-  },
-  {
     "question": "Which Grant Morrison creation is a sentient, transvestite, teleporting street?",
     "correct_answer": "Danny the Street (Doom Patrol)",
     "incorrect_answers": [
@@ -22720,26 +22140,6 @@
     "localBackupTimestamp": "2025-04-12T20:22:02.016Z"
   },
   {
-    "question": "Which Shakespearean play features the characters Romeo and Juliet?",
-    "correct_answer": "Romeo and Juliet",
-    "incorrect_answers": [
-      "Hamlet",
-      "Macbeth",
-      "Othello",
-      "A Midsummer Night's Dream",
-      "King Lear",
-      "The Tempest",
-      "Much Ado About Nothing"
-    ],
-    "main_category": "Pop Culture",
-    "subcategory": "Books & Literature",
-    "difficulty": "easy",
-    "id": "acc1aa96-32f2-4b78-898d-c6622feae08a",
-    "created_at": "2025-04-13T02:22:02.022Z",
-    "backupTimestamp": "2025-04-13T02:22:02.022Z",
-    "localBackupTimestamp": "2025-04-12T20:22:02.022Z"
-  },
-  {
     "question": "What fictional detective lives at 221B Baker Street?",
     "correct_answer": "Sherlock Holmes",
     "incorrect_answers": [
@@ -23038,26 +22438,6 @@
     "created_at": "2025-04-13T02:22:02.104Z",
     "backupTimestamp": "2025-04-13T02:22:02.104Z",
     "localBackupTimestamp": "2025-04-12T20:22:02.104Z"
-  },
-  {
-    "question": "Which fictional land is the setting for L. Frank Baum's 'The Wonderful Wizard of Oz'?",
-    "correct_answer": "Oz",
-    "incorrect_answers": [
-      "Narnia",
-      "Middle-earth",
-      "Wonderland",
-      "Neverland",
-      "Fantastica",
-      "Camelot",
-      "Pern"
-    ],
-    "main_category": "Pop Culture",
-    "subcategory": "Books & Literature",
-    "difficulty": "easy",
-    "id": "59cb0c22-0186-43e0-b369-22f509cdfb80",
-    "created_at": "2025-04-13T02:22:02.109Z",
-    "backupTimestamp": "2025-04-13T02:22:02.109Z",
-    "localBackupTimestamp": "2025-04-12T20:22:02.109Z"
   },
   {
     "question": "What is the term for the main character in a story?",
@@ -24198,46 +23578,6 @@
     "created_at": "2025-04-13T02:22:02.373Z",
     "backupTimestamp": "2025-04-13T02:22:02.374Z",
     "localBackupTimestamp": "2025-04-12T20:22:02.374Z"
-  },
-  {
-    "question": "What is the name of the horse in Anna Sewell's novel 'Black Beauty'?",
-    "correct_answer": "Black Beauty",
-    "incorrect_answers": [
-      "Ginger",
-      "Merrylegs",
-      "Shadowfax",
-      "Rocinante",
-      "Bucephalus",
-      "Seabiscuit",
-      "Flicka"
-    ],
-    "main_category": "Pop Culture",
-    "subcategory": "Books & Literature",
-    "difficulty": "medium",
-    "id": "2a26571b-1763-4fd2-9896-fc35b6e1bfdf",
-    "created_at": "2025-04-13T02:22:02.378Z",
-    "backupTimestamp": "2025-04-13T02:22:02.378Z",
-    "localBackupTimestamp": "2025-04-12T20:22:02.378Z"
-  },
-  {
-    "question": "Who is the protagonist of the novel 'Jane Eyre'?",
-    "correct_answer": "Jane Eyre",
-    "incorrect_answers": [
-      "Mr. Rochester",
-      "Bertha Mason",
-      "St. John Rivers",
-      "Helen Burns",
-      "Mrs. Reed",
-      "Blanche Ingram",
-      "Catherine Earnshaw"
-    ],
-    "main_category": "Pop Culture",
-    "subcategory": "Books & Literature",
-    "difficulty": "medium",
-    "id": "86386ff0-f3d1-4e05-a808-7820a7ca5476",
-    "created_at": "2025-04-13T02:22:02.382Z",
-    "backupTimestamp": "2025-04-13T02:22:02.382Z",
-    "localBackupTimestamp": "2025-04-12T20:22:02.382Z"
   },
   {
     "question": "What is the central theme of Ray Bradbury's 'Fahrenheit 451'?",
@@ -25500,26 +24840,6 @@
     "localBackupTimestamp": "2025-04-12T20:22:02.675Z"
   },
   {
-    "question": "Which Haruki Murakami novel features characters named Tengo and Aomame and deals with a parallel reality called '1Q84'?",
-    "correct_answer": "1Q84",
-    "incorrect_answers": [
-      "Kafka on the Shore",
-      "Norwegian Wood",
-      "The Wind-Up Bird Chronicle",
-      "Hard-Boiled Wonderland and the End of the World",
-      "Sputnik Sweetheart",
-      "Colorless Tsukuru Tazaki and His Years of Pilgrimage",
-      "Killing Commendatore"
-    ],
-    "main_category": "Pop Culture",
-    "subcategory": "Books & Literature",
-    "difficulty": "hard",
-    "id": "efcd3e86-79a3-4376-aa07-f95e6ff84c3d",
-    "created_at": "2025-04-13T02:22:02.679Z",
-    "backupTimestamp": "2025-04-13T02:22:02.679Z",
-    "localBackupTimestamp": "2025-04-12T20:22:02.679Z"
-  },
-  {
     "question": "What movement in literature, associated with authors like Jack Kerouac and Allen Ginsberg, emphasized spontaneity and non-conformity?",
     "correct_answer": "The Beat Generation",
     "incorrect_answers": [
@@ -25618,26 +24938,6 @@
     "created_at": "2025-04-13T02:22:02.705Z",
     "backupTimestamp": "2025-04-13T02:22:02.705Z",
     "localBackupTimestamp": "2025-04-12T20:22:02.705Z"
-  },
-  {
-    "question": "What is the title of the first book in Isaac Asimov's 'Foundation' series?",
-    "correct_answer": "Foundation",
-    "incorrect_answers": [
-      "Foundation and Empire",
-      "Second Foundation",
-      "Prelude to Foundation",
-      "Forward the Foundation",
-      "Foundation's Edge",
-      "Foundation and Earth",
-      "I, Robot"
-    ],
-    "main_category": "Pop Culture",
-    "subcategory": "Books & Literature",
-    "difficulty": "hard",
-    "id": "029c332b-9ed1-4b5b-b0d5-1cd92aa593b7",
-    "created_at": "2025-04-13T02:22:02.709Z",
-    "backupTimestamp": "2025-04-13T02:22:02.710Z",
-    "localBackupTimestamp": "2025-04-12T20:22:02.710Z"
   },
   {
     "question": "Which author wrote the stream-of-consciousness novel 'As I Lay Dying'?",
@@ -25798,26 +25098,6 @@
     "created_at": "2025-04-13T02:22:02.751Z",
     "backupTimestamp": "2025-04-13T02:22:02.751Z",
     "localBackupTimestamp": "2025-04-12T20:22:02.751Z"
-  },
-  {
-    "question": "What is the name of the first book in Liu Cixin's 'Remembrance of Earth's Past' trilogy (often called the 'Three-Body Problem' series)?",
-    "correct_answer": "The Three-Body Problem",
-    "incorrect_answers": [
-      "The Dark Forest",
-      "Death's End",
-      "Ball Lightning",
-      "Supernova Era",
-      "The Wandering Earth",
-      "Foundation",
-      "Hyperion"
-    ],
-    "main_category": "Pop Culture",
-    "subcategory": "Books & Literature",
-    "difficulty": "hard",
-    "id": "249c1270-da60-42a8-94ed-1c4e92b23fae",
-    "created_at": "2025-04-13T02:22:02.756Z",
-    "backupTimestamp": "2025-04-13T02:22:02.756Z",
-    "localBackupTimestamp": "2025-04-12T20:22:02.756Z"
   },
   {
     "question": "Which poet is famous for the line 'Do not go gentle into that good night'?",
@@ -27518,26 +26798,6 @@
     "created_at": "2025-04-13T04:04:55.131Z",
     "backupTimestamp": "2025-04-13T04:04:55.131Z",
     "localBackupTimestamp": "2025-04-12T22:04:55.131Z"
-  },
-  {
-    "question": "Which female rapper released the album 'The Miseducation of Lauryn Hill'?",
-    "correct_answer": "Lauryn Hill",
-    "incorrect_answers": [
-      "Missy Elliott",
-      "Queen Latifah",
-      "Lil' Kim",
-      "Foxy Brown",
-      "Eve",
-      "MC Lyte",
-      "Salt-N-Pepa"
-    ],
-    "main_category": "Pop Culture",
-    "subcategory": "Celebrities",
-    "difficulty": "medium",
-    "id": "3d7e213c-9244-4eaa-8296-15f25b61515b",
-    "created_at": "2025-04-13T04:04:55.136Z",
-    "backupTimestamp": "2025-04-13T04:04:55.136Z",
-    "localBackupTimestamp": "2025-04-12T22:04:55.136Z"
   },
   {
     "question": "Which comedian is known for his observational humor and specials like 'I'm Telling You for the Last Time'?",
