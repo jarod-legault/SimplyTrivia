@@ -27,6 +27,11 @@ interface PaginationData {
   totalPages: number;
 }
 
+interface ErrorData {
+  question: string;
+  error: string;
+}
+
 export default function AdminPage() {
   const [jsonInput, setJsonInput] = useState('');
   const [questions, setQuestions] = useState<any[]>([]);
@@ -44,7 +49,7 @@ export default function AdminPage() {
   const [currentPage, setCurrentPage] = useState(1);
   const [pagination, setPagination] = useState<PaginationData>({
     page: 1,
-    limit: 20,
+    limit: 10, // Changed from 20 to 10
     total: 0,
     totalPages: 1,
   });
@@ -68,7 +73,9 @@ export default function AdminPage() {
       if (result.success) {
         setQuestions(result.data || []);
         setPagination(result.pagination);
-        setStatusMessage(`Showing ${result.data.length} of ${result.pagination.total} questions`);
+        const start = (result.pagination.page - 1) * result.pagination.limit + 1;
+        const end = Math.min(start + result.data.length - 1, result.pagination.total);
+        setStatusMessage(`Questions ${start}-${end} of ${result.pagination.total}`);
       } else {
         setError(result.error || 'Failed to fetch questions');
       }
@@ -113,8 +120,18 @@ export default function AdminPage() {
       const result = await response.json();
 
       if (result.success) {
-        setStatusMessage(`Added ${result.added} questions. Found ${result.duplicates} duplicates.`);
-        fetchQuestions(); // Refresh the question list
+        // If there are any errors, show them even if some questions were added
+        if (result.errors > 0) {
+          const errorMessages = result.errorsData
+            .map((error: ErrorData) => `Question "${error.question}": ${error.error}`)
+            .join('\n');
+          setError(`Some questions had errors:\n${errorMessages}`);
+        }
+
+        // Show success message for added questions
+        if (result.added > 0) {
+          setStatusMessage(`Successfully added ${result.added} questions.`);
+        }
 
         // If there are duplicates, show them in the modal
         if (result.duplicates > 0 && result.duplicatesData) {
@@ -122,8 +139,15 @@ export default function AdminPage() {
           setShowDuplicatesModal(true);
         }
 
-        // Clear the input after successful import
-        setJsonInput('');
+        // Only clear input if everything was successful
+        if (result.errors === 0 && result.duplicates === 0) {
+          setJsonInput('');
+        }
+
+        // Refresh the question list if any questions were added
+        if (result.added > 0) {
+          fetchQuestions();
+        }
       } else {
         setError(result.error || 'Failed to import questions');
       }
@@ -291,93 +315,94 @@ export default function AdminPage() {
         style={{ display: 'none' }}
       />
 
-      <Text style={styles.subtitle}>Questions ({questions.length})</Text>
-
       {isLoading ? (
         <View style={styles.loadingContainer}>
           <ActivityIndicator size="large" />
           <Text style={{ marginTop: 10 }}>Loading...</Text>
         </View>
       ) : (
-        <ScrollView style={styles.questionsContainer}>
-          {questions.map((question) => (
-            <View key={question.id} style={styles.questionContainer}>
-              <View style={styles.questionTextContainer}>
-                <Text style={styles.questionText}>{question.question}</Text>
-                <Text style={styles.questionMeta}>
-                  Category: {question.category} | Difficulty: {question.difficulty}
-                </Text>
+        <>
+          <Text style={styles.subtitle}>{statusMessage}</Text>
+          <ScrollView style={styles.questionsContainer}>
+            {questions.map((question) => (
+              <View key={question.id} style={styles.questionContainer}>
+                <View style={styles.questionTextContainer}>
+                  <Text style={styles.questionText}>{question.question}</Text>
+                  <Text style={styles.questionMeta}>
+                    Category: {question.category} | Difficulty: {question.difficulty}
+                  </Text>
+                </View>
+                <View style={styles.questionActions}>
+                  <Pressable
+                    onPress={() => deleteQuestion(question.id)}
+                    style={({ pressed }) => [
+                      styles.button,
+                      styles.deleteButton,
+                      pressed && { opacity: 0.7 },
+                    ]}
+                    role="button"
+                    aria-label="Delete question">
+                    <Text style={[styles.buttonText, styles.deleteButtonText]}>Delete</Text>
+                  </Pressable>
+                </View>
               </View>
-              <View style={styles.questionActions}>
+            ))}
+
+            {questions.length === 0 && !isLoading && (
+              <Text style={styles.emptyText}>
+                No questions found. Import some questions to get started!
+              </Text>
+            )}
+
+            {questions.length > 0 && (
+              <View style={styles.paginationContainer}>
                 <Pressable
-                  onPress={() => deleteQuestion(question.id)}
+                  onPress={() => handlePageChange(1)}
+                  disabled={currentPage === 1}
                   style={({ pressed }) => [
-                    styles.button,
-                    styles.deleteButton,
+                    styles.paginationButton,
+                    currentPage === 1 && styles.paginationButtonDisabled,
                     pressed && { opacity: 0.7 },
-                  ]}
-                  role="button"
-                  aria-label="Delete question">
-                  <Text style={[styles.buttonText, styles.deleteButtonText]}>Delete</Text>
+                  ]}>
+                  <Text style={styles.paginationButtonText}>{'<<'}</Text>
+                </Pressable>
+                <Pressable
+                  onPress={() => handlePageChange(currentPage - 1)}
+                  disabled={currentPage === 1}
+                  style={({ pressed }) => [
+                    styles.paginationButton,
+                    currentPage === 1 && styles.paginationButtonDisabled,
+                    pressed && { opacity: 0.7 },
+                  ]}>
+                  <Text style={styles.paginationButtonText}>{'<'}</Text>
+                </Pressable>
+                <Text style={styles.paginationText}>
+                  Page {currentPage} of {pagination.totalPages}
+                </Text>
+                <Pressable
+                  onPress={() => handlePageChange(currentPage + 1)}
+                  disabled={currentPage === pagination.totalPages}
+                  style={({ pressed }) => [
+                    styles.paginationButton,
+                    currentPage === pagination.totalPages && styles.paginationButtonDisabled,
+                    pressed && { opacity: 0.7 },
+                  ]}>
+                  <Text style={styles.paginationButtonText}>{'>'}</Text>
+                </Pressable>
+                <Pressable
+                  onPress={() => handlePageChange(pagination.totalPages)}
+                  disabled={currentPage === pagination.totalPages}
+                  style={({ pressed }) => [
+                    styles.paginationButton,
+                    currentPage === pagination.totalPages && styles.paginationButtonDisabled,
+                    pressed && { opacity: 0.7 },
+                  ]}>
+                  <Text style={styles.paginationButtonText}>{'>>'}</Text>
                 </Pressable>
               </View>
-            </View>
-          ))}
-
-          {questions.length === 0 && !isLoading && (
-            <Text style={styles.emptyText}>
-              No questions found. Import some questions to get started!
-            </Text>
-          )}
-
-          {questions.length > 0 && (
-            <View style={styles.paginationContainer}>
-              <Pressable
-                onPress={() => handlePageChange(1)}
-                disabled={currentPage === 1}
-                style={({ pressed }) => [
-                  styles.paginationButton,
-                  currentPage === 1 && styles.paginationButtonDisabled,
-                  pressed && { opacity: 0.7 },
-                ]}>
-                <Text style={styles.paginationButtonText}>{'<<'}</Text>
-              </Pressable>
-              <Pressable
-                onPress={() => handlePageChange(currentPage - 1)}
-                disabled={currentPage === 1}
-                style={({ pressed }) => [
-                  styles.paginationButton,
-                  currentPage === 1 && styles.paginationButtonDisabled,
-                  pressed && { opacity: 0.7 },
-                ]}>
-                <Text style={styles.paginationButtonText}>{'<'}</Text>
-              </Pressable>
-              <Text style={styles.paginationText}>
-                Page {currentPage} of {pagination.totalPages}
-              </Text>
-              <Pressable
-                onPress={() => handlePageChange(currentPage + 1)}
-                disabled={currentPage === pagination.totalPages}
-                style={({ pressed }) => [
-                  styles.paginationButton,
-                  currentPage === pagination.totalPages && styles.paginationButtonDisabled,
-                  pressed && { opacity: 0.7 },
-                ]}>
-                <Text style={styles.paginationButtonText}>{'>'}</Text>
-              </Pressable>
-              <Pressable
-                onPress={() => handlePageChange(pagination.totalPages)}
-                disabled={currentPage === pagination.totalPages}
-                style={({ pressed }) => [
-                  styles.paginationButton,
-                  currentPage === pagination.totalPages && styles.paginationButtonDisabled,
-                  pressed && { opacity: 0.7 },
-                ]}>
-                <Text style={styles.paginationButtonText}>{'>>'}</Text>
-              </Pressable>
-            </View>
-          )}
-        </ScrollView>
+            )}
+          </ScrollView>
+        </>
       )}
 
       {/* Duplicates Modal */}

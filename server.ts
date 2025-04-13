@@ -35,7 +35,7 @@ app.get('/api/questions', (async (req: Request, res: Response) => {
   try {
     const db = getDB();
     const page = Number(req.query.page) || 1;
-    const limit = Number(req.query.limit) || 20;
+    const limit = Number(req.query.limit) || 10; // Changed from 20 to 10
     const offset = (page - 1) * limit;
 
     // Get total count first
@@ -76,16 +76,24 @@ app.post('/api/questions', (async (
   res: Response
 ) => {
   try {
+    console.log('Received POST /api/questions request');
+    console.log('Request body:', JSON.stringify(req.body, null, 2));
+
     const db = getDB();
     const questionsData = Array.isArray(req.body) ? req.body : [req.body];
+    console.log('Processing', questionsData.length, 'questions');
+
     const added = [];
     const duplicates = [];
     const errors = [];
 
     for (const data of questionsData) {
       try {
+        console.log('Processing question:', data.question);
+
         // Validate question data structure
         if (!data.question || !data.correct_answer || !data.incorrect_answers || !data.difficulty) {
+          console.log('Validation failed: Missing required fields');
           errors.push({
             question: data.question || 'Unknown question',
             error:
@@ -100,6 +108,7 @@ app.post('/api/questions', (async (
           : JSON.parse(data.incorrect_answers);
 
         if (!Array.isArray(incorrectAnswers) || incorrectAnswers.length !== 7) {
+          console.log('Validation failed: Incorrect number of answers');
           errors.push({
             question: data.question,
             error: `Questions must have exactly 7 incorrect answers. Found ${
@@ -111,6 +120,7 @@ app.post('/api/questions', (async (
 
         // Validate category/subcategory
         if (!validateCategory(data.main_category, data.subcategory)) {
+          console.log('Validation failed: Invalid category combination');
           errors.push({
             question: data.question,
             error: `Invalid category combination: ${data.main_category}/${data.subcategory}`,
@@ -121,6 +131,7 @@ app.post('/api/questions', (async (
         // Check for duplicates
         const similarQuestions = findSimilarQuestions(data.question);
         if (similarQuestions.length > 0) {
+          console.log('Found similar questions:', similarQuestions.length);
           duplicates.push({ newQuestion: data, similarQuestions });
           continue;
         }
@@ -138,22 +149,32 @@ app.post('/api/questions', (async (
         };
 
         // Add the question to the database
+        console.log('Adding question to database');
         await db.insert(schema.questions).values(newQuestion);
         added.push(newQuestion);
+        console.log('Question added successfully');
 
-        // Save to backup file - after successful DB insert
+        // Save to backup file
+        console.log('Saving to backup file');
         saveQuestionToBackupFile({
           ...data,
           id: newQuestion.id,
           created_at: newQuestion.createdAt,
         });
       } catch (err) {
+        console.error('Error processing question:', err);
         errors.push({
           question: data.question || 'Unknown question',
           error: err instanceof Error ? err.message : String(err),
         });
       }
     }
+
+    console.log('Request complete:', {
+      added: added.length,
+      duplicates: duplicates.length,
+      errors: errors.length,
+    });
 
     res.json({
       success: true,
