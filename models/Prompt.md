@@ -7,4 +7,4 @@
   - subcategory
   - difficulty (easy, medium, hard)
 - The questions should be equally distributed between easy, medium, and hard.
-- All questions should be in the category of "Pop Culture" and the subcategory of "Video Games".
+- All questions should be in the category of "Pop Culture" and the subcategory of "Board Games".

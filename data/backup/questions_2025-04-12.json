@@ -15998,5 +15998,3305 @@
     "created_at": "2025-04-13T02:08:39.933Z",
     "backupTimestamp": "2025-04-13T02:08:39.933Z",
     "localBackupTimestamp": "2025-04-12T20:08:39.933Z"
+  },
+  {
+    "question": "In which classic board game do players buy properties and try to bankrupt opponents?",
+    "correct_answer": "Monopoly",
+    "incorrect_answers": [
+      "Clue",
+      "Risk",
+      "Scrabble",
+      "Chess",
+      "Checkers",
+      "Sorry!",
+      "Trouble"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Board Games",
+    "difficulty": "easy",
+    "id": "3a26ba93-f1f2-4688-991c-59b9c2df0cbd",
+    "created_at": "2025-04-13T02:13:14.822Z",
+    "backupTimestamp": "2025-04-13T02:13:14.825Z",
+    "localBackupTimestamp": "2025-04-12T20:13:14.825Z"
+  },
+  {
+    "question": "What game involves moving pawns around a board and sending opponents' pawns back to their start?",
+    "correct_answer": "Sorry!",
+    "incorrect_answers": [
+      "Monopoly",
+      "Trouble",
+      "Candy Land",
+      "Chutes and Ladders",
+      "Parcheesi",
+      "Aggravation",
+      "Life"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Board Games",
+    "difficulty": "easy",
+    "id": "a1204779-0988-4202-ac7e-c6e2f742faed",
+    "created_at": "2025-04-13T02:13:14.835Z",
+    "backupTimestamp": "2025-04-13T02:13:14.836Z",
+    "localBackupTimestamp": "2025-04-12T20:13:14.836Z"
+  },
+  {
+    "question": "Which word game challenges players to form words on a grid using letter tiles?",
+    "correct_answer": "Scrabble",
+    "incorrect_answers": [
+      "Boggle",
+      "Upwords",
+      "Bananagrams",
+      "Monopoly",
+      "Clue",
+      "Risk",
+      "Taboo"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Board Games",
+    "difficulty": "easy",
+    "id": "98fe5f85-8954-44b5-b42b-c7fba67e9527",
+    "created_at": "2025-04-13T02:13:14.843Z",
+    "backupTimestamp": "2025-04-13T02:13:14.843Z",
+    "localBackupTimestamp": "2025-04-12T20:13:14.843Z"
+  },
+  {
+    "question": "In 'Clue', players try to solve a murder mystery. What three things must they deduce?",
+    "correct_answer": "Suspect, Weapon, Room",
+    "incorrect_answers": [
+      "Motive, Time, Alibi",
+      "Victim, Location, Witness",
+      "Suspect, Motive, Time",
+      "Weapon, Room, Motive",
+      "Suspect, Weapon, Time",
+      "Room, Time, Alibi",
+      "Weapon, Alibi, Motive"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Board Games",
+    "difficulty": "easy",
+    "id": "5b8395a4-e9a9-4cac-a85e-f66b6d57988f",
+    "created_at": "2025-04-13T02:13:14.849Z",
+    "backupTimestamp": "2025-04-13T02:13:14.850Z",
+    "localBackupTimestamp": "2025-04-12T20:13:14.850Z"
+  },
+  {
+    "question": "What game involves conquering territories on a world map with armies?",
+    "correct_answer": "Risk",
+    "incorrect_answers": [
+      "Axis & Allies",
+      "Settlers of Catan",
+      "Diplomacy",
+      "Monopoly",
+      "Clue",
+      "Chess",
+      "Stratego"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Board Games",
+    "difficulty": "easy",
+    "id": "4bb11320-67d4-4c46-945e-12d0715a5f51",
+    "created_at": "2025-04-13T02:13:14.854Z",
+    "backupTimestamp": "2025-04-13T02:13:14.854Z",
+    "localBackupTimestamp": "2025-04-12T20:13:14.854Z"
+  },
+  {
+    "question": "What classic children's game involves moving along a colored path based on drawing cards?",
+    "correct_answer": "Candy Land",
+    "incorrect_answers": [
+      "Chutes and Ladders",
+      "Hi Ho! Cherry-O",
+      "Operation",
+      "Trouble",
+      "Mouse Trap",
+      "Sorry!",
+      "Connect Four"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Board Games",
+    "difficulty": "easy",
+    "id": "95c10444-80d5-41ed-8fbb-905d6aa46ce1",
+    "created_at": "2025-04-13T02:13:14.858Z",
+    "backupTimestamp": "2025-04-13T02:13:14.858Z",
+    "localBackupTimestamp": "2025-04-12T20:13:14.858Z"
+  },
+  {
+    "question": "In which game do players try to remove plastic ailments from a patient without setting off a buzzer?",
+    "correct_answer": "Operation",
+    "incorrect_answers": [
+      "Mouse Trap",
+      "Perfection",
+      "Hungry Hungry Hippos",
+      "Ants in the Pants",
+      "KerPlunk",
+      "Jenga",
+      "Don't Break the Ice"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Board Games",
+    "difficulty": "easy",
+    "id": "023dbc80-f16b-4974-ae71-0aaec2b7ac9d",
+    "created_at": "2025-04-13T02:13:14.864Z",
+    "backupTimestamp": "2025-04-13T02:13:14.864Z",
+    "localBackupTimestamp": "2025-04-12T20:13:14.864Z"
+  },
+  {
+    "question": "What two-player game involves capturing the opponent's king on an 8x8 grid?",
+    "correct_answer": "Chess",
+    "incorrect_answers": [
+      "Checkers",
+      "Go",
+      "Stratego",
+      "Backgammon",
+      "Othello",
+      "Hive",
+      "Draughts"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Board Games",
+    "difficulty": "easy",
+    "id": "d2e66197-2632-4674-a1dc-758944e5b9ca",
+    "created_at": "2025-04-13T02:13:14.871Z",
+    "backupTimestamp": "2025-04-13T02:13:14.871Z",
+    "localBackupTimestamp": "2025-04-12T20:13:14.871Z"
+  },
+  {
+    "question": "What game uses a 'Pop-O-Matic' bubble to roll the die?",
+    "correct_answer": "Trouble",
+    "incorrect_answers": [
+      "Sorry!",
+      "Parcheesi",
+      "Aggravation",
+      "Monopoly",
+      "Life",
+      "Pay Day",
+      "Headache"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Board Games",
+    "difficulty": "easy",
+    "id": "e62c5984-ed4c-4ce4-b79f-1bd8d5fb2113",
+    "created_at": "2025-04-13T02:13:14.882Z",
+    "backupTimestamp": "2025-04-13T02:13:14.882Z",
+    "localBackupTimestamp": "2025-04-12T20:13:14.882Z"
+  },
+  {
+    "question": "Which game involves building a complex contraption to capture a mouse?",
+    "correct_answer": "Mouse Trap",
+    "incorrect_answers": [
+      "Operation",
+      "KerPlunk",
+      "Hungry Hungry Hippos",
+      "Perfection",
+      "Jenga",
+      "Twister",
+      "Gooey Louie"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Board Games",
+    "difficulty": "easy",
+    "id": "14297b4a-f818-4231-ad65-0970a8361b7e",
+    "created_at": "2025-04-13T02:13:14.885Z",
+    "backupTimestamp": "2025-04-13T02:13:14.886Z",
+    "localBackupTimestamp": "2025-04-12T20:13:14.886Z"
+  },
+  {
+    "question": "What game uses black and white discs, aiming to have the most of your color showing at the end?",
+    "correct_answer": "Othello (Reversi)",
+    "incorrect_answers": [
+      "Go",
+      "Chess",
+      "Checkers",
+      "Backgammon",
+      "Hive",
+      "Pente",
+      "Connect Four"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Board Games",
+    "difficulty": "easy",
+    "id": "838b605d-4fe0-495e-a4ac-9f1c8edf0718",
+    "created_at": "2025-04-13T02:13:14.889Z",
+    "backupTimestamp": "2025-04-13T02:13:14.890Z",
+    "localBackupTimestamp": "2025-04-12T20:13:14.890Z"
+  },
+  {
+    "question": "In which game do players try to get four of their colored discs in a row vertically, horizontally, or diagonally?",
+    "correct_answer": "Connect Four",
+    "incorrect_answers": [
+      "Checkers",
+      "Othello",
+      "Tic-Tac-Toe",
+      "Guess Who?",
+      "Battleship",
+      "Sequence",
+      "Blokus"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Board Games",
+    "difficulty": "easy",
+    "id": "44f34bb5-2823-426e-806d-136839149373",
+    "created_at": "2025-04-13T02:13:14.893Z",
+    "backupTimestamp": "2025-04-13T02:13:14.893Z",
+    "localBackupTimestamp": "2025-04-12T20:13:14.893Z"
+  },
+  {
+    "question": "What game involves moving pieces based on dice rolls and bearing them off the board?",
+    "correct_answer": "Backgammon",
+    "incorrect_answers": [
+      "Chess",
+      "Checkers",
+      "Parcheesi",
+      "Go",
+      "Trouble",
+      "Ludo",
+      "Snakes and Ladders"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Board Games",
+    "difficulty": "easy",
+    "id": "02edf922-cb05-4827-b61b-6a5c3819d573",
+    "created_at": "2025-04-13T02:13:14.897Z",
+    "backupTimestamp": "2025-04-13T02:13:14.897Z",
+    "localBackupTimestamp": "2025-04-12T20:13:14.897Z"
+  },
+  {
+    "question": "Which game challenges players to identify a character by asking yes/no questions about their appearance?",
+    "correct_answer": "Guess Who?",
+    "incorrect_answers": [
+      "Clue",
+      "Battleship",
+      "Mastermind",
+      "Operation",
+      "Pictionary",
+      "Charades",
+      "20 Questions"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Board Games",
+    "difficulty": "easy",
+    "id": "b28c7369-5289-46f0-8470-b67f0eb292b1",
+    "created_at": "2025-04-13T02:13:14.901Z",
+    "backupTimestamp": "2025-04-13T02:13:14.902Z",
+    "localBackupTimestamp": "2025-04-12T20:13:14.902Z"
+  },
+  {
+    "question": "What game involves sinking your opponent's hidden fleet of ships?",
+    "correct_answer": "Battleship",
+    "incorrect_answers": [
+      "Stratego",
+      "Risk",
+      "Connect Four",
+      "Guess Who?",
+      "Axis & Allies",
+      "Sea Battle",
+      "Pirate's Cove"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Board Games",
+    "difficulty": "easy",
+    "id": "35d4a11e-8428-40a7-b345-0f5dbc800b1b",
+    "created_at": "2025-04-13T02:13:14.906Z",
+    "backupTimestamp": "2025-04-13T02:13:14.906Z",
+    "localBackupTimestamp": "2025-04-12T20:13:14.906Z"
+  },
+  {
+    "question": "In 'The Game of Life', what type of pieces represent the players?",
+    "correct_answer": "Cars",
+    "incorrect_answers": [
+      "People",
+      "Houses",
+      "Tokens",
+      "Pawns",
+      "Ships",
+      "Animals",
+      "Pegs"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Board Games",
+    "difficulty": "easy",
+    "id": "b998bd55-6eca-4549-916e-239aa04d3d0d",
+    "created_at": "2025-04-13T02:13:14.910Z",
+    "backupTimestamp": "2025-04-13T02:13:14.910Z",
+    "localBackupTimestamp": "2025-04-12T20:13:14.910Z"
+  },
+  {
+    "question": "What dexterity game involves pulling blocks from a tower without making it collapse?",
+    "correct_answer": "Jenga",
+    "incorrect_answers": [
+      "KerPlunk",
+      "Operation",
+      "Don't Break the Ice",
+      "Perfection",
+      "Villa Paletti",
+      "Suspend",
+      "Stack Attack"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Board Games",
+    "difficulty": "easy",
+    "id": "5f33ecda-caf6-4c9e-842f-066bfe769186",
+    "created_at": "2025-04-13T02:13:14.914Z",
+    "backupTimestamp": "2025-04-13T02:13:14.915Z",
+    "localBackupTimestamp": "2025-04-12T20:13:14.915Z"
+  },
+  {
+    "question": "Which classic abstract strategy game involves 'jumping' opponent pieces?",
+    "correct_answer": "Checkers (Draughts)",
+    "incorrect_answers": [
+      "Chess",
+      "Go",
+      "Othello",
+      "Backgammon",
+      "Chinese Checkers",
+      "Halma",
+      "Abalone"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Board Games",
+    "difficulty": "easy",
+    "id": "924b9780-a567-43cf-b638-823f1d45cca1",
+    "created_at": "2025-04-13T02:13:14.918Z",
+    "backupTimestamp": "2025-04-13T02:13:14.918Z",
+    "localBackupTimestamp": "2025-04-12T20:13:14.918Z"
+  },
+  {
+    "question": "What is the main goal in the game 'Ticket to Ride'?",
+    "correct_answer": "Claiming railway routes between cities",
+    "incorrect_answers": [
+      "Building settlements and cities",
+      "Trading goods",
+      "Conquering territories",
+      "Forming words",
+      "Solving a mystery",
+      "Buying properties",
+      "Managing a theme park"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Board Games",
+    "difficulty": "easy",
+    "id": "e1bc3f40-acff-44b6-a6f6-c2b903906d73",
+    "created_at": "2025-04-13T02:13:14.922Z",
+    "backupTimestamp": "2025-04-13T02:13:14.922Z",
+    "localBackupTimestamp": "2025-04-12T20:13:14.922Z"
+  },
+  {
+    "question": "In 'Settlers of Catan', what number cannot be rolled with two standard six-sided dice?",
+    "correct_answer": "1",
+    "incorrect_answers": [
+      "7",
+      "2",
+      "12",
+      "6",
+      "8",
+      "0",
+      "13"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Board Games",
+    "difficulty": "easy",
+    "id": "b22b9020-2241-45de-835a-3835a8ed22c8",
+    "created_at": "2025-04-13T02:13:14.925Z",
+    "backupTimestamp": "2025-04-13T02:13:14.925Z",
+    "localBackupTimestamp": "2025-04-12T20:13:14.925Z"
+  },
+  {
+    "question": "What dice game involves rolling specific combinations to score points, with a well-known five-of-a-kind category?",
+    "correct_answer": "Yahtzee",
+    "incorrect_answers": [
+      "Bunco",
+      "Farkle",
+      "Liar's Dice",
+      "Craps",
+      "Left Center Right",
+      "Shut the Box",
+      "Qwirkle Cubes"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Board Games",
+    "difficulty": "easy",
+    "id": "2bc9c236-0a0e-4b95-8e9b-3fc13a71adac",
+    "created_at": "2025-04-13T02:13:14.929Z",
+    "backupTimestamp": "2025-04-13T02:13:14.929Z",
+    "localBackupTimestamp": "2025-04-12T20:13:14.929Z"
+  },
+  {
+    "question": "What type of game is 'Pictionary', where players draw clues for their teammates?",
+    "correct_answer": "Drawing Game",
+    "incorrect_answers": [
+      "Word Game",
+      "Strategy Game",
+      "Party Game",
+      "Trivia Game",
+      "Dexterity Game",
+      "Role-Playing Game",
+      "Abstract Game"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Board Games",
+    "difficulty": "easy",
+    "id": "f14f3c28-323a-4ded-926b-ba444ba0ec74",
+    "created_at": "2025-04-13T02:13:14.933Z",
+    "backupTimestamp": "2025-04-13T02:13:14.934Z",
+    "localBackupTimestamp": "2025-04-12T20:13:14.934Z"
+  },
+  {
+    "question": "What party game involves giving clues to guess a word, but avoiding certain 'taboo' words?",
+    "correct_answer": "Taboo",
+    "incorrect_answers": [
+      "Pictionary",
+      "Charades",
+      "Catchphrase",
+      "Codenames",
+      "Scattergories",
+      "Password",
+      "Outburst"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Board Games",
+    "difficulty": "easy",
+    "id": "d615d111-a24e-432c-b9aa-f0e365a8dd4c",
+    "created_at": "2025-04-13T02:13:14.937Z",
+    "backupTimestamp": "2025-04-13T02:13:14.937Z",
+    "localBackupTimestamp": "2025-04-12T20:13:14.937Z"
+  },
+  {
+    "question": "What is the primary goal in the game 'Pandemic'?",
+    "correct_answer": "Cure diseases threatening the world",
+    "incorrect_answers": [
+      "Conquer territories",
+      "Build the longest train route",
+      "Earn the most money",
+      "Solve a murder mystery",
+      "Become the last player standing",
+      "Collect sets of resources",
+      "Build a civilization"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Board Games",
+    "difficulty": "easy",
+    "id": "73c3bd86-bcb7-497d-8ede-c82012cf531d",
+    "created_at": "2025-04-13T02:13:14.941Z",
+    "backupTimestamp": "2025-04-13T02:13:14.941Z",
+    "localBackupTimestamp": "2025-04-12T20:13:14.941Z"
+  },
+  {
+    "question": "Which game involves placing tiles with roads, cities, cloisters, and fields to score points?",
+    "correct_answer": "Carcassonne",
+    "incorrect_answers": [
+      "Settlers of Catan",
+      "Ticket to Ride",
+      "Kingdomino",
+      "Isle of Skye",
+      "Alhambra",
+      "Takenoko",
+      "Patchwork"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Board Games",
+    "difficulty": "easy",
+    "id": "6724a251-3fa3-4efe-9ac9-d25a7061031d",
+    "created_at": "2025-04-13T02:13:14.944Z",
+    "backupTimestamp": "2025-04-13T02:13:14.945Z",
+    "localBackupTimestamp": "2025-04-12T20:13:14.945Z"
+  },
+  {
+    "question": "What are the player pieces called in Carcassonne?",
+    "correct_answer": "Meeples",
+    "incorrect_answers": [
+      "Pawns",
+      "Settlers",
+      "Workers",
+      "Minions",
+      "Followers",
+      "Figures",
+      "Peeps"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Board Games",
+    "difficulty": "easy",
+    "id": "8c4899e4-af59-4a54-a4de-7da4ec4d8cb0",
+    "created_at": "2025-04-13T02:13:14.947Z",
+    "backupTimestamp": "2025-04-13T02:13:14.947Z",
+    "localBackupTimestamp": "2025-04-12T20:13:14.947Z"
+  },
+  {
+    "question": "In chess, which piece can move in an 'L' shape?",
+    "correct_answer": "Knight",
+    "incorrect_answers": [
+      "Bishop",
+      "Rook",
+      "Queen",
+      "King",
+      "Pawn",
+      "Castle",
+      "Minister"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Board Games",
+    "difficulty": "easy",
+    "id": "357bcc56-bf35-44a5-85fb-7014717fbc55",
+    "created_at": "2025-04-13T02:13:14.954Z",
+    "backupTimestamp": "2025-04-13T02:13:14.955Z",
+    "localBackupTimestamp": "2025-04-12T20:13:14.955Z"
+  },
+  {
+    "question": "What does the '7' roll signify in 'Settlers of Catan'?",
+    "correct_answer": "Activate the Robber",
+    "incorrect_answers": [
+      "Collect all resources",
+      "Build a free road",
+      "Lose a turn",
+      "Draw a development card",
+      "Trade with the bank",
+      "Everyone gets resources",
+      "Nothing happens"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Board Games",
+    "difficulty": "easy",
+    "id": "dbb8f0e0-48c5-4f8a-a085-de0f10af1b7b",
+    "created_at": "2025-04-13T02:13:14.959Z",
+    "backupTimestamp": "2025-04-13T02:13:14.959Z",
+    "localBackupTimestamp": "2025-04-12T20:13:14.959Z"
+  },
+  {
+    "question": "Which game involves competitive sushi drafting?",
+    "correct_answer": "Sushi Go!",
+    "incorrect_answers": [
+      "Takenoko",
+      "Tokaido",
+      "Kanagawa",
+      "Hanabi",
+      "Machi Koro",
+      "King of Tokyo",
+      "Ramen Fury"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Board Games",
+    "difficulty": "easy",
+    "id": "c32f0555-b5d5-4aa1-af2b-6bee481e0dd7",
+    "created_at": "2025-04-13T02:13:14.962Z",
+    "backupTimestamp": "2025-04-13T02:13:14.962Z",
+    "localBackupTimestamp": "2025-04-12T20:13:14.962Z"
+  },
+  {
+    "question": "What abstract strategy game involves placing square tiles of different shapes and colors onto a board?",
+    "correct_answer": "Blokus",
+    "incorrect_answers": [
+      "Qwirkle",
+      "Patchwork",
+      "Azul",
+      "Sagrada",
+      "Ingenious",
+      "Ubongo",
+      "Tantrix"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Board Games",
+    "difficulty": "easy",
+    "id": "66219b9a-9669-4cba-8672-4082c3d258ab",
+    "created_at": "2025-04-13T02:13:14.965Z",
+    "backupTimestamp": "2025-04-13T02:13:14.966Z",
+    "localBackupTimestamp": "2025-04-12T20:13:14.966Z"
+  },
+  {
+    "question": "What is the standard number of players for a game of Chess?",
+    "correct_answer": "2",
+    "incorrect_answers": [
+      "4",
+      "1",
+      "3",
+      "6",
+      "8",
+      "5",
+      "Variable"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Board Games",
+    "difficulty": "easy",
+    "id": "a4e4ef2e-1a89-4521-bfbb-e2832fa7828f",
+    "created_at": "2025-04-13T02:13:14.969Z",
+    "backupTimestamp": "2025-04-13T02:13:14.969Z",
+    "localBackupTimestamp": "2025-04-12T20:13:14.969Z"
+  },
+  {
+    "question": "Which cooperative game involves working together to escape a forbidden island before it sinks?",
+    "correct_answer": "Forbidden Island",
+    "incorrect_answers": [
+      "Pandemic",
+      "Forbidden Desert",
+      "Flash Point: Fire Rescue",
+      "Dead of Winter",
+      "Robinson Crusoe",
+      "Ghost Stories",
+      "Eldritch Horror"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Board Games",
+    "difficulty": "easy",
+    "id": "50e5ca24-b6e9-4aad-b3ea-d3aa12d543cc",
+    "created_at": "2025-04-13T02:13:14.972Z",
+    "backupTimestamp": "2025-04-13T02:13:14.972Z",
+    "localBackupTimestamp": "2025-04-12T20:13:14.972Z"
+  },
+  {
+    "question": "In 'Monopoly', what is the most expensive property on a standard US board?",
+    "correct_answer": "Boardwalk",
+    "incorrect_answers": [
+      "Park Place",
+      "Pennsylvania Avenue",
+      "Marvin Gardens",
+      "Illinois Avenue",
+      "Ventnor Avenue",
+      "Atlantic Avenue",
+      "St. James Place"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Board Games",
+    "difficulty": "easy",
+    "id": "6cc068bf-3a20-4a9c-848d-d9521936919b",
+    "created_at": "2025-04-13T02:13:14.975Z",
+    "backupTimestamp": "2025-04-13T02:13:14.975Z",
+    "localBackupTimestamp": "2025-04-12T20:13:14.975Z"
+  },
+  {
+    "question": "What game involves rolling dice as giant monsters to destroy Tokyo?",
+    "correct_answer": "King of Tokyo",
+    "incorrect_answers": [
+      "Rampage (Terror in Meeple City)",
+      "Monsterpocalypse",
+      "Smash Up",
+      "Kaiju Crush",
+      "Attack on Titan: Deck-Building Game",
+      "War of the Monsters (Video Game)",
+      "Godzilla: Tokyo Clash"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Board Games",
+    "difficulty": "easy",
+    "id": "91bb2691-02d3-4856-a26c-ea38d4307887",
+    "created_at": "2025-04-13T02:13:14.978Z",
+    "backupTimestamp": "2025-04-13T02:13:14.979Z",
+    "localBackupTimestamp": "2025-04-12T20:13:14.979Z"
+  },
+  {
+    "question": "What dexterity game involves flicking wooden discs?",
+    "correct_answer": "Crokinole",
+    "incorrect_answers": [
+      "PitchCar (Carabande)",
+      "Subbuteo",
+      "Carrom",
+      "Pucket",
+      "Tumblin' Dice",
+      "Ice Cool",
+      "Klask"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Board Games",
+    "difficulty": "easy",
+    "id": "8386bf5e-db0a-47d3-82b8-9b2189821831",
+    "created_at": "2025-04-13T02:13:14.982Z",
+    "backupTimestamp": "2025-04-13T02:13:14.982Z",
+    "localBackupTimestamp": "2025-04-12T20:13:14.982Z"
+  },
+  {
+    "question": "What is the term for games where players work together against the game itself?",
+    "correct_answer": "Cooperative (Co-op)",
+    "incorrect_answers": [
+      "Competitive",
+      "Solo",
+      "Team-based",
+      "Eurogame",
+      "Ameritrash",
+      "Abstract",
+      "Legacy"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Board Games",
+    "difficulty": "easy",
+    "id": "72317a7f-c774-4cde-a399-4c598bfe66cd",
+    "created_at": "2025-04-13T02:13:14.985Z",
+    "backupTimestamp": "2025-04-13T02:13:14.985Z",
+    "localBackupTimestamp": "2025-04-12T20:13:14.985Z"
+  },
+  {
+    "question": "Which tile-laying game involves building your own kingdom using domino-like tiles?",
+    "correct_answer": "Kingdomino",
+    "incorrect_answers": [
+      "Carcassonne",
+      "Queendomino",
+      "Isle of Skye",
+      "Alhambra",
+      "Castles of Mad King Ludwig",
+      "Suburbia",
+      "Between Two Cities"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Board Games",
+    "difficulty": "easy",
+    "id": "1d5297ff-590a-46cd-a18d-ca7cd224e759",
+    "created_at": "2025-04-13T02:13:14.988Z",
+    "backupTimestamp": "2025-04-13T02:13:14.988Z",
+    "localBackupTimestamp": "2025-04-12T20:13:14.988Z"
+  },
+  {
+    "question": "What classic game involves moving pegs around a star-shaped board?",
+    "correct_answer": "Chinese Checkers",
+    "incorrect_answers": [
+      "Checkers",
+      "Halma",
+      "Solitaire",
+      "Pegs and Jokers",
+      "Aggravation",
+      "Parcheesi",
+      "Fox and Geese"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Board Games",
+    "difficulty": "easy",
+    "id": "3779968b-6784-4087-9a05-019e36d4fba0",
+    "created_at": "2025-04-13T02:13:14.991Z",
+    "backupTimestamp": "2025-04-13T02:13:14.992Z",
+    "localBackupTimestamp": "2025-04-12T20:13:14.992Z"
+  },
+  {
+    "question": "In 'Scrabble', what is the value of the letter 'Q'?",
+    "correct_answer": "10",
+    "incorrect_answers": [
+      "8",
+      "1",
+      "5",
+      "4",
+      "2",
+      "3",
+      "0"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Board Games",
+    "difficulty": "easy",
+    "id": "ed81caa0-1cfc-4893-bd9d-5e436c3cdb2e",
+    "created_at": "2025-04-13T02:13:14.995Z",
+    "backupTimestamp": "2025-04-13T02:13:14.995Z",
+    "localBackupTimestamp": "2025-04-12T20:13:14.995Z"
+  },
+  {
+    "question": "What game involves answering trivia questions from different categories to earn wedges?",
+    "correct_answer": "Trivial Pursuit",
+    "incorrect_answers": [
+      "Jeopardy!",
+      "Wits & Wagers",
+      "Timeline",
+      "Anomia",
+      "Smart Ass",
+      "Cranium",
+      "Linkee"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Board Games",
+    "difficulty": "easy",
+    "id": "6a172319-b2af-4842-b4b2-182a6861fe0a",
+    "created_at": "2025-04-13T02:13:14.998Z",
+    "backupTimestamp": "2025-04-13T02:13:14.998Z",
+    "localBackupTimestamp": "2025-04-12T20:13:14.998Z"
+  },
+  {
+    "question": "What party game involves players writing funny or fitting answers to prompts?",
+    "correct_answer": "Cards Against Humanity / Apples to Apples",
+    "incorrect_answers": [
+      "Taboo",
+      "Pictionary",
+      "Codenames",
+      "Scattergories",
+      "Balderdash",
+      "Say Anything",
+      "Quiplash (Video Game)"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Board Games",
+    "difficulty": "easy",
+    "id": "c40fd5f6-7e03-4fcf-9732-2b10fe78bffa",
+    "created_at": "2025-04-13T02:13:15.001Z",
+    "backupTimestamp": "2025-04-13T02:13:15.001Z",
+    "localBackupTimestamp": "2025-04-12T20:13:15.001Z"
+  },
+  {
+    "question": "Which game involves placing letter tiles into a shared grid, trying to use all your tiles first?",
+    "correct_answer": "Bananagrams",
+    "incorrect_answers": [
+      "Scrabble",
+      "Upwords",
+      "Quiddler",
+      "My Word!",
+      "Dabble",
+      "Pairs in Pears",
+      "Wordigo"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Board Games",
+    "difficulty": "easy",
+    "id": "29dccb8a-ea1c-45ce-922b-3983989c550a",
+    "created_at": "2025-04-13T02:13:15.005Z",
+    "backupTimestamp": "2025-04-13T02:13:15.005Z",
+    "localBackupTimestamp": "2025-04-12T20:13:15.005Z"
+  },
+  {
+    "question": "In 'Risk', what is the name of the continent typically colored green?",
+    "correct_answer": "South America",
+    "incorrect_answers": [
+      "Africa",
+      "North America",
+      "Europe",
+      "Asia",
+      "Australia",
+      "Antarctica",
+      "Atlantis"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Board Games",
+    "difficulty": "easy",
+    "id": "32ab43e4-bdfb-42b4-a49e-683fd1783f3c",
+    "created_at": "2025-04-13T02:13:15.008Z",
+    "backupTimestamp": "2025-04-13T02:13:15.008Z",
+    "localBackupTimestamp": "2025-04-12T20:13:15.008Z"
+  },
+  {
+    "question": "What card game involves playing numbered and colored cards, plus special action cards like 'Skip' and 'Reverse'?",
+    "correct_answer": "Uno",
+    "incorrect_answers": [
+      "Phase 10",
+      "Skip-Bo",
+      "Fluxx",
+      "Crazy Eights",
+      "Gin Rummy",
+      "Solitaire",
+      "Bridge"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Board Games",
+    "difficulty": "easy",
+    "id": "b72f148d-d3c5-4f00-a81a-d1aeb38f7795",
+    "created_at": "2025-04-13T02:13:15.014Z",
+    "backupTimestamp": "2025-04-13T02:13:15.014Z",
+    "localBackupTimestamp": "2025-04-12T20:13:15.014Z"
+  },
+  {
+    "question": "What is the goal in the game 'Sequence'?",
+    "correct_answer": "Get two sequences of five chips in a row",
+    "incorrect_answers": [
+      "Get four chips in a row",
+      "Capture the opponent's king",
+      "Collect the most property",
+      "Form the highest scoring word",
+      "Match cards to board spaces",
+      "Sink the opponent's ships",
+      "Answer trivia questions"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Board Games",
+    "difficulty": "easy",
+    "id": "6645a6d0-0e93-4eb6-9ebf-595b159e5d98",
+    "created_at": "2025-04-13T02:13:15.017Z",
+    "backupTimestamp": "2025-04-13T02:13:15.017Z",
+    "localBackupTimestamp": "2025-04-12T20:13:15.017Z"
+  },
+  {
+    "question": "What game uses tiles with different shapes and colors, requiring players to match them based on one attribute?",
+    "correct_answer": "Qwirkle",
+    "incorrect_answers": [
+      "Blokus",
+      "Set",
+      "Rummikub",
+      "Dominoes",
+      "Azul",
+      "Ingenious",
+      "Tantrix"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Board Games",
+    "difficulty": "easy",
+    "id": "e38f31a4-a21f-461c-a1b5-22aba65be9f8",
+    "created_at": "2025-04-13T02:13:15.021Z",
+    "backupTimestamp": "2025-04-13T02:13:15.021Z",
+    "localBackupTimestamp": "2025-04-12T20:13:15.021Z"
+  },
+  {
+    "question": "Which game has players competing to build the most impressive portfolio of properties in a city like Dubai or New York?",
+    "correct_answer": "Acquire",
+    "incorrect_answers": [
+      "Monopoly",
+      "Lords of Vegas",
+      "Suburbia",
+      "Chinatown",
+      "The Estates",
+      "Power Grid",
+      "Puerto Rico"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Board Games",
+    "difficulty": "easy",
+    "id": "39b02138-800d-405f-8e1f-276334958547",
+    "created_at": "2025-04-13T02:13:15.024Z",
+    "backupTimestamp": "2025-04-13T02:13:15.024Z",
+    "localBackupTimestamp": "2025-04-12T20:13:15.024Z"
+  },
+  {
+    "question": "In the game 'Love Letter', which card has the highest value and often wins the round if held at the end?",
+    "correct_answer": "Princess",
+    "incorrect_answers": [
+      "Countess",
+      "King",
+      "Prince",
+      "Guard",
+      "Baron",
+      "Handmaid",
+      "Priest"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Board Games",
+    "difficulty": "easy",
+    "id": "30ee7497-ca7e-483e-b9b4-685e05c17a4c",
+    "created_at": "2025-04-13T02:13:15.027Z",
+    "backupTimestamp": "2025-04-13T02:13:15.027Z",
+    "localBackupTimestamp": "2025-04-12T20:13:15.027Z"
+  },
+  {
+    "question": "What type of pieces are used in the ancient game of 'Go'?",
+    "correct_answer": "Stones",
+    "incorrect_answers": [
+      "Pawns",
+      "Checkers",
+      "Tiles",
+      "Cards",
+      "Dice",
+      "Meeples",
+      "Marbles"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Board Games",
+    "difficulty": "easy",
+    "id": "d28ac0f6-7d53-42a2-9af9-9f7e081805b9",
+    "created_at": "2025-04-13T02:13:15.031Z",
+    "backupTimestamp": "2025-04-13T02:13:15.031Z",
+    "localBackupTimestamp": "2025-04-12T20:13:15.031Z"
+  },
+  {
+    "question": "What party game involves two teams trying to guess words based on one-word clues given by their 'spymaster'?",
+    "correct_answer": "Codenames",
+    "incorrect_answers": [
+      "Taboo",
+      "Catchphrase",
+      "Decrypto",
+      "Concept",
+      "Just One",
+      "Trapwords",
+      "Monikers"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Board Games",
+    "difficulty": "easy",
+    "id": "26b75f56-baf5-474a-ae34-589d49c6b7ed",
+    "created_at": "2025-04-13T02:13:15.034Z",
+    "backupTimestamp": "2025-04-13T02:13:15.034Z",
+    "localBackupTimestamp": "2025-04-12T20:13:15.034Z"
+  },
+  {
+    "question": "What is the term for the small figures, often human-shaped, used in many modern board games like 'Carcassonne'?",
+    "correct_answer": "Meeples",
+    "incorrect_answers": [
+      "Pawns",
+      "Minis",
+      "Tokens",
+      "Workers",
+      "Figurines",
+      "Counters",
+      "Peeps"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Board Games",
+    "difficulty": "easy",
+    "id": "cbeb7da5-5190-424a-a328-793b7395389e",
+    "created_at": "2025-04-13T02:13:15.037Z",
+    "backupTimestamp": "2025-04-13T02:13:15.037Z",
+    "localBackupTimestamp": "2025-04-12T20:13:15.037Z"
+  },
+  {
+    "question": "Which classic murder mystery game features characters like Colonel Mustard and Professor Plum?",
+    "correct_answer": "Clue",
+    "incorrect_answers": [
+      "Mysterium",
+      "Deception: Murder in Hong Kong",
+      "Sherlock Holmes Consulting Detective",
+      "Betrayal at House on the Hill",
+      "Kill Doctor Lucky",
+      "Secret Hitler",
+      "Letters from Whitechapel"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Board Games",
+    "difficulty": "easy",
+    "id": "86869cfc-6a58-4670-973b-d8e18c83fe62",
+    "created_at": "2025-04-13T02:13:15.040Z",
+    "backupTimestamp": "2025-04-13T02:13:15.041Z",
+    "localBackupTimestamp": "2025-04-12T20:13:15.041Z"
+  },
+  {
+    "question": "What is the maximum number of players in a standard game of 'Settlers of Catan' without expansions?",
+    "correct_answer": "4",
+    "incorrect_answers": [
+      "2",
+      "3",
+      "5",
+      "6",
+      "8",
+      "1",
+      "Unlimited"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Board Games",
+    "difficulty": "easy",
+    "id": "a97dee4a-b40f-45d0-84c4-463594301c8e",
+    "created_at": "2025-04-13T02:13:15.047Z",
+    "backupTimestamp": "2025-04-13T02:13:15.047Z",
+    "localBackupTimestamp": "2025-04-12T20:13:15.047Z"
+  },
+  {
+    "question": "In 'Ticket to Ride', what color train cars are 'wild' and can be used as any color?",
+    "correct_answer": "Locomotive (Rainbow/Multicolor)",
+    "incorrect_answers": [
+      "Black",
+      "Gray",
+      "Gold",
+      "Silver",
+      "Clear",
+      "Brown",
+      "There are no wild cards"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Board Games",
+    "difficulty": "easy",
+    "id": "b9b03021-81bf-4bb0-a8c1-ee945503e1e7",
+    "created_at": "2025-04-13T02:13:15.050Z",
+    "backupTimestamp": "2025-04-13T02:13:15.050Z",
+    "localBackupTimestamp": "2025-04-12T20:13:15.050Z"
+  },
+  {
+    "question": "What game involves placing tiles to create a beautiful stained glass window?",
+    "correct_answer": "Sagrada",
+    "incorrect_answers": [
+      "Azul",
+      "Patchwork",
+      "Photosynthesis",
+      "Lanterns: The Harvest Festival",
+      "Calico",
+      "Qwirkle",
+      "Blokus"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Board Games",
+    "difficulty": "easy",
+    "id": "be92c751-7808-4720-9e28-deb1b691e83b",
+    "created_at": "2025-04-13T02:13:15.053Z",
+    "backupTimestamp": "2025-04-13T02:13:15.053Z",
+    "localBackupTimestamp": "2025-04-12T20:13:15.053Z"
+  },
+  {
+    "question": "What mechanic involves players secretly choosing actions or bids simultaneously?",
+    "correct_answer": "Simultaneous Action Selection",
+    "incorrect_answers": [
+      "Worker Placement",
+      "Area Control",
+      "Dice Rolling",
+      "Set Collection",
+      "Tile Laying",
+      "Drafting",
+      "Hidden Roles"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Board Games",
+    "difficulty": "medium",
+    "id": "c1e653f8-135e-46c8-846a-ed6725f7d38d",
+    "created_at": "2025-04-13T02:13:15.056Z",
+    "backupTimestamp": "2025-04-13T02:13:15.056Z",
+    "localBackupTimestamp": "2025-04-12T20:13:15.056Z"
+  },
+  {
+    "question": "Who designed the popular board game 'Settlers of Catan'?",
+    "correct_answer": "Klaus Teuber",
+    "incorrect_answers": [
+      "Reiner Knizia",
+      "Uwe Rosenberg",
+      "Stefan Feld",
+      "Alan R. Moon",
+      "Antoine Bauza",
+      "Vlaada Chvátil",
+      "Wolfgang Kramer"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Board Games",
+    "difficulty": "medium",
+    "id": "755aff61-510a-4743-b053-01a1928c603d",
+    "created_at": "2025-04-13T02:13:15.060Z",
+    "backupTimestamp": "2025-04-13T02:13:15.060Z",
+    "localBackupTimestamp": "2025-04-12T20:13:15.060Z"
+  },
+  {
+    "question": "In 'Agricola', what is the primary goal related to feeding your family?",
+    "correct_answer": "Avoid taking Begging cards",
+    "incorrect_answers": [
+      "Accumulate the most food tokens",
+      "Have the largest stockpile of grain",
+      "Bake the most bread",
+      "Own the most livestock",
+      "Build the biggest fireplace",
+      "Harvest vegetables every round",
+      "Cook elaborate meals"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Board Games",
+    "difficulty": "medium",
+    "id": "89e5bd25-ac9a-4cc3-8278-648fd2b63c70",
+    "created_at": "2025-04-13T02:13:15.063Z",
+    "backupTimestamp": "2025-04-13T02:13:15.063Z",
+    "localBackupTimestamp": "2025-04-12T20:13:15.063Z"
+  },
+  {
+    "question": "What does 'Spiel des Jahres' mean in English?",
+    "correct_answer": "Game of the Year",
+    "incorrect_answers": [
+      "Best German Game",
+      "Player's Choice Award",
+      "Family Game Prize",
+      "Strategy Game Award",
+      "Innovative Game Concept",
+      "Designer's Trophy",
+      "Golden Pawn"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Board Games",
+    "difficulty": "medium",
+    "id": "da7827e4-14f5-4909-b1ce-78f3e8b9fda5",
+    "created_at": "2025-04-13T02:13:15.066Z",
+    "backupTimestamp": "2025-04-13T02:13:15.066Z",
+    "localBackupTimestamp": "2025-04-12T20:13:15.066Z"
+  },
+  {
+    "question": "Which game involves drafting tiles from a central market to build a Portuguese king's palace wall?",
+    "correct_answer": "Azul",
+    "incorrect_answers": [
+      "Sagrada",
+      "Alhambra",
+      "Castles of Burgundy",
+      "Carcassonne",
+      "Kingdomino",
+      "Lisboa",
+      "Coimbra"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Board Games",
+    "difficulty": "medium",
+    "id": "9398b56a-c50a-4cbf-ac0c-bc4c3c018565",
+    "created_at": "2025-04-13T02:13:15.071Z",
+    "backupTimestamp": "2025-04-13T02:13:15.071Z",
+    "localBackupTimestamp": "2025-04-12T20:13:15.071Z"
+  },
+  {
+    "question": "What common board game mechanism involves placing tokens (workers) on spaces to gain resources or actions?",
+    "correct_answer": "Worker Placement",
+    "incorrect_answers": [
+      "Area Control",
+      "Deck Building",
+      "Tile Laying",
+      "Set Collection",
+      "Roll and Move",
+      "Auction/Bidding",
+      "Route Building"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Board Games",
+    "difficulty": "medium",
+    "id": "64adbeb5-238e-4695-bac4-68bc419df8af",
+    "created_at": "2025-04-13T02:13:15.074Z",
+    "backupTimestamp": "2025-04-13T02:13:15.074Z",
+    "localBackupTimestamp": "2025-04-12T20:13:15.074Z"
+  },
+  {
+    "question": "In '7 Wonders', what type of card is represented by the color blue?",
+    "correct_answer": "Civilian Structures (Victory Points)",
+    "incorrect_answers": [
+      "Military Structures (Shields)",
+      "Scientific Structures (Symbols)",
+      "Commercial Structures (Money/Trade)",
+      "Resource Production (Raw/Manufactured Goods)",
+      "Guilds (End-game scoring)",
+      "Wonders (Stages)",
+      "Leaders (Special abilities)"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Board Games",
+    "difficulty": "medium",
+    "id": "9570da1b-5cb7-45db-9ad0-c73e6cbc340a",
+    "created_at": "2025-04-13T02:13:15.077Z",
+    "backupTimestamp": "2025-04-13T02:13:15.077Z",
+    "localBackupTimestamp": "2025-04-12T20:13:15.077Z"
+  },
+  {
+    "question": "What popular game involves building a personal deck of cards throughout the game, starting with basic cards?",
+    "correct_answer": "Dominion",
+    "incorrect_answers": [
+      "Magic: The Gathering",
+      "Ascension",
+      "Star Realms",
+      "Clank!",
+      "Arkham Horror: The Card Game",
+      "Marvel Champions",
+      "Wingspan"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Board Games",
+    "difficulty": "medium",
+    "id": "c3036731-55ae-4a51-9282-79e3c7a95a0f",
+    "created_at": "2025-04-13T02:13:15.080Z",
+    "backupTimestamp": "2025-04-13T02:13:15.080Z",
+    "localBackupTimestamp": "2025-04-12T20:13:15.080Z"
+  },
+  {
+    "question": "Which World War II themed game features large-scale strategic conflict and plastic miniatures?",
+    "correct_answer": "Axis & Allies",
+    "incorrect_answers": [
+      "Memoir '44",
+      "Risk",
+      "Twilight Struggle",
+      "Commands & Colors: Ancients",
+      "Undaunted: Normandy",
+      "Conflict of Heroes",
+      "Paths of Glory"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Board Games",
+    "difficulty": "medium",
+    "id": "4f25f9ab-a46b-4126-b966-0d88c91741dc",
+    "created_at": "2025-04-13T02:13:15.084Z",
+    "backupTimestamp": "2025-04-13T02:13:15.084Z",
+    "localBackupTimestamp": "2025-04-12T20:13:15.084Z"
+  },
+  {
+    "question": "What is the term for a game where the board, rules, or components change permanently over multiple plays?",
+    "correct_answer": "Legacy Game",
+    "incorrect_answers": [
+      "Campaign Game",
+      "Expansion Game",
+      "Modular Game",
+      "Variant Game",
+      "Evolving Game",
+      "Persistent Game",
+      "Story-driven Game"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Board Games",
+    "difficulty": "medium",
+    "id": "35c1bb70-855a-42a1-a53c-1da193a23b80",
+    "created_at": "2025-04-13T02:13:15.087Z",
+    "backupTimestamp": "2025-04-13T02:13:15.087Z",
+    "localBackupTimestamp": "2025-04-12T20:13:15.087Z"
+  },
+  {
+    "question": "In 'Power Grid', what is the primary function of the resources like Coal, Oil, Garbage, and Uranium?",
+    "correct_answer": "Fueling power plants to supply electricity",
+    "incorrect_answers": [
+      "Building new cities",
+      "Buying power plants",
+      "Bidding in auctions",
+      "Gaining victory points directly",
+      "Trading for money",
+      "Researching new technology",
+      "Expanding the map"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Board Games",
+    "difficulty": "medium",
+    "id": "47f8832c-f2b4-431b-81e8-a03aa6e12c08",
+    "created_at": "2025-04-13T02:13:15.090Z",
+    "backupTimestamp": "2025-04-13T02:13:15.090Z",
+    "localBackupTimestamp": "2025-04-12T20:13:15.090Z"
+  },
+  {
+    "question": "Who designed the train game 'Ticket to Ride'?",
+    "correct_answer": "Alan R. Moon",
+    "incorrect_answers": [
+      "Klaus Teuber",
+      "Reiner Knizia",
+      "Uwe Rosenberg",
+      "Antoine Bauza",
+      "Matt Leacock",
+      "Martin Wallace",
+      "Bruno Cathala"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Board Games",
+    "difficulty": "medium",
+    "id": "c08efa16-73d5-4e69-b993-16ff60555e32",
+    "created_at": "2025-04-13T02:13:15.094Z",
+    "backupTimestamp": "2025-04-13T02:13:15.095Z",
+    "localBackupTimestamp": "2025-04-12T20:13:15.095Z"
+  },
+  {
+    "question": "What type of game is 'Terraforming Mars', where players cooperate indirectly to make Mars habitable but compete for points?",
+    "correct_answer": "Engine Building / Tableau Building",
+    "incorrect_answers": [
+      "Area Control",
+      "Worker Placement",
+      "Deck Building",
+      "Cooperative",
+      "Abstract Strategy",
+      "Roll and Write",
+      "Party Game"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Board Games",
+    "difficulty": "medium",
+    "id": "836d2fce-e53a-444d-a23a-dabfa633ceb0",
+    "created_at": "2025-04-13T02:13:15.098Z",
+    "backupTimestamp": "2025-04-13T02:13:15.098Z",
+    "localBackupTimestamp": "2025-04-12T20:13:15.098Z"
+  },
+  {
+    "question": "Which game features players as bird enthusiasts attracting birds to their wildlife preserves?",
+    "correct_answer": "Wingspan",
+    "incorrect_answers": [
+      "Everdell",
+      "Root",
+      "Parks",
+      "Photosynthesis",
+      "Mariposas",
+      "Takenoko",
+      "Meadow"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Board Games",
+    "difficulty": "medium",
+    "id": "a151ecc8-3db4-48a1-baa2-86508ad0fd31",
+    "created_at": "2025-04-13T02:13:15.101Z",
+    "backupTimestamp": "2025-04-13T02:13:15.101Z",
+    "localBackupTimestamp": "2025-04-12T20:13:15.101Z"
+  },
+  {
+    "question": "What is the name of the scoring track often found around the edge of board game boards?",
+    "correct_answer": "Score Track / Victory Point Track",
+    "incorrect_answers": [
+      "Round Tracker",
+      "Turn Order Track",
+      "Resource Meter",
+      "Player Mat",
+      "Game Path",
+      "Progress Bar",
+      "Point Ladder"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Board Games",
+    "difficulty": "medium",
+    "id": "bd0f8970-a30e-4f03-baac-e621b8800d18",
+    "created_at": "2025-04-13T02:13:15.104Z",
+    "backupTimestamp": "2025-04-13T02:13:15.104Z",
+    "localBackupTimestamp": "2025-04-12T20:13:15.104Z"
+  },
+  {
+    "question": "In 'Puerto Rico', what role allows players to ship goods for victory points?",
+    "correct_answer": "Captain",
+    "incorrect_answers": [
+      "Settler",
+      "Builder",
+      "Mayor",
+      "Craftsman",
+      "Trader",
+      "Prospector",
+      "Governor"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Board Games",
+    "difficulty": "medium",
+    "id": "46a0861e-842c-4b4e-b472-71def01437b8",
+    "created_at": "2025-04-13T02:13:15.107Z",
+    "backupTimestamp": "2025-04-13T02:13:15.107Z",
+    "localBackupTimestamp": "2025-04-12T20:13:15.107Z"
+  },
+  {
+    "question": "Which game involves exploring a haunted house where one player might become a traitor partway through?",
+    "correct_answer": "Betrayal at House on the Hill",
+    "incorrect_answers": [
+      "Mansions of Madness",
+      "Arkham Horror",
+      "Dead of Winter",
+      "Mysterium",
+      "Nemesis",
+      "This War of Mine: The Board Game",
+      "Gloomhaven"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Board Games",
+    "difficulty": "medium",
+    "id": "e305bd61-63c5-4022-8e30-d1e486590287",
+    "created_at": "2025-04-13T02:13:15.110Z",
+    "backupTimestamp": "2025-04-13T02:13:15.110Z",
+    "localBackupTimestamp": "2025-04-12T20:13:15.110Z"
+  },
+  {
+    "question": "What is the theme of the game 'Scythe'?",
+    "correct_answer": "Alternate-history 1920s Europa with mechs",
+    "incorrect_answers": [
+      "Feudal Japan samurai warfare",
+      "High fantasy dungeon crawling",
+      "Space exploration and colonization",
+      "Zombie apocalypse survival",
+      "Ancient Roman civilization building",
+      "Victorian era monster hunting",
+      "Trading in the Mediterranean"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Board Games",
+    "difficulty": "medium",
+    "id": "9c490a80-2f9a-4432-97e5-9d89fa7136e3",
+    "created_at": "2025-04-13T02:13:15.114Z",
+    "backupTimestamp": "2025-04-13T02:13:15.114Z",
+    "localBackupTimestamp": "2025-04-12T20:13:15.114Z"
+  },
+  {
+    "question": "What is the objective in the two-player game 'Patchwork'?",
+    "correct_answer": "Fill your quilt board efficiently and collect buttons",
+    "incorrect_answers": [
+      "Build the longest road",
+      "Control the most territories",
+      "Draft the best sushi combos",
+      "Solve a logic puzzle",
+      "Build a deck of cards",
+      "Lay tiles to connect cities",
+      "Escape a sinking island"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Board Games",
+    "difficulty": "medium",
+    "id": "214acc15-a849-4a00-ad3f-9add50bfa2f9",
+    "created_at": "2025-04-13T02:13:15.118Z",
+    "backupTimestamp": "2025-04-13T02:13:15.118Z",
+    "localBackupTimestamp": "2025-04-12T20:13:15.118Z"
+  },
+  {
+    "question": "Which game involves asymmetric factions (like cats, birds, mice, vagabond) fighting for control of a forest?",
+    "correct_answer": "Root",
+    "incorrect_answers": [
+      "Scythe",
+      "Vast: The Crystal Caverns",
+      "Everdell",
+      "Wingspan",
+      "Kemet",
+      "Rising Sun",
+      "Spirit Island"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Board Games",
+    "difficulty": "medium",
+    "id": "ebbd6f17-d7d6-400c-a611-32535f5eb38d",
+    "created_at": "2025-04-13T02:13:15.121Z",
+    "backupTimestamp": "2025-04-13T02:13:15.121Z",
+    "localBackupTimestamp": "2025-04-12T20:13:15.121Z"
+  },
+  {
+    "question": "What is the primary mechanism in the game 'Splendor', where players collect gems to buy development cards?",
+    "correct_answer": "Set Collection / Engine Building",
+    "incorrect_answers": [
+      "Worker Placement",
+      "Area Control",
+      "Drafting",
+      "Roll and Move",
+      "Auction",
+      "Dexterity",
+      "Legacy"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Board Games",
+    "difficulty": "medium",
+    "id": "95c478c8-5b7b-4590-9eb3-1386b6707e1a",
+    "created_at": "2025-04-13T02:13:15.124Z",
+    "backupTimestamp": "2025-04-13T02:13:15.124Z",
+    "localBackupTimestamp": "2025-04-12T20:13:15.124Z"
+  },
+  {
+    "question": "What cooperative game involves communicating using limited clues (like numbers and colors) to play cards in order?",
+    "correct_answer": "Hanabi",
+    "incorrect_answers": [
+      "The Mind",
+      "Codenames Duet",
+      "Pandemic",
+      "Magic Maze",
+      "Letter Jam",
+      "Just One",
+      "Forbidden Sky"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Board Games",
+    "difficulty": "medium",
+    "id": "111fbb70-2a8c-4320-abc5-9427f8f678e2",
+    "created_at": "2025-04-13T02:13:15.128Z",
+    "backupTimestamp": "2025-04-13T02:13:15.128Z",
+    "localBackupTimestamp": "2025-04-12T20:13:15.128Z"
+  },
+  {
+    "question": "Which dice-drafting game challenges players to build a stained glass window according to specific placement rules?",
+    "correct_answer": "Sagrada",
+    "incorrect_answers": [
+      "Azul",
+      "Roll Player",
+      "Blueprints",
+      "Las Vegas",
+      "Troyes",
+      "Castles of Burgundy",
+      "Alien Frontiers"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Board Games",
+    "difficulty": "medium",
+    "id": "45e0d17a-5e40-41a0-bda8-e2169e3abbd3",
+    "created_at": "2025-04-13T02:13:15.131Z",
+    "backupTimestamp": "2025-04-13T02:13:15.131Z",
+    "localBackupTimestamp": "2025-04-12T20:13:15.131Z"
+  },
+  {
+    "question": "In 'Stone Age', what must players pay at the end of each round for each member of their tribe?",
+    "correct_answer": "Food",
+    "incorrect_answers": [
+      "Gold",
+      "Wood",
+      "Stone",
+      "Tools",
+      "Culture Points",
+      "Hut Maintenance",
+      "Happiness"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Board Games",
+    "difficulty": "medium",
+    "id": "9e39db8d-7648-432b-89d1-c77de46111e6",
+    "created_at": "2025-04-13T02:13:15.134Z",
+    "backupTimestamp": "2025-04-13T02:13:15.134Z",
+    "localBackupTimestamp": "2025-04-12T20:13:15.134Z"
+  },
+  {
+    "question": "What is the term for games like 'Dixit' or 'Mysterium' where visual interpretation and subjective clues are key?",
+    "correct_answer": "Image Interpretation / Storytelling Games",
+    "incorrect_answers": [
+      "Abstract Strategy",
+      "Worker Placement",
+      "Engine Building",
+      "Area Control",
+      "Party Games",
+      "Cooperative Games",
+      "Dexterity Games"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Board Games",
+    "difficulty": "medium",
+    "id": "71c60ee6-9f42-4b4c-ab4f-deac823ca273",
+    "created_at": "2025-04-13T02:13:15.137Z",
+    "backupTimestamp": "2025-04-13T02:13:15.137Z",
+    "localBackupTimestamp": "2025-04-12T20:13:15.137Z"
+  },
+  {
+    "question": "Which game involves players managing vineyards in Tuscany?",
+    "correct_answer": "Viticulture",
+    "incorrect_answers": [
+      "Agricola",
+      "Grand Austria Hotel",
+      "Vinhos",
+      "Fields of Arle",
+      "La Granja",
+      "Orléans",
+      "Terra Mystica"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Board Games",
+    "difficulty": "medium",
+    "id": "65906622-bb8a-48ea-8326-79aa444b774c",
+    "created_at": "2025-04-13T02:13:15.141Z",
+    "backupTimestamp": "2025-04-13T02:13:15.141Z",
+    "localBackupTimestamp": "2025-04-12T20:13:15.141Z"
+  },
+  {
+    "question": "What type of dice are typically used in most modern board games?",
+    "correct_answer": "Six-sided dice (d6)",
+    "incorrect_answers": [
+      "Four-sided dice (d4)",
+      "Eight-sided dice (d8)",
+      "Ten-sided dice (d10)",
+      "Twelve-sided dice (d12)",
+      "Twenty-sided dice (d20)",
+      "Custom symbol dice",
+      "Percentage dice (d%)"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Board Games",
+    "difficulty": "medium",
+    "id": "a606cd86-cc9a-4a03-80f8-4acb313be972",
+    "created_at": "2025-04-13T02:13:15.144Z",
+    "backupTimestamp": "2025-04-13T02:13:15.144Z",
+    "localBackupTimestamp": "2025-04-12T20:13:15.144Z"
+  },
+  {
+    "question": "What popular abstract game involves placing tiles and creating lines of the same color or shape?",
+    "correct_answer": "Qwirkle",
+    "incorrect_answers": [
+      "Blokus",
+      "Ingenious",
+      "Azul",
+      "Patchwork",
+      "Sequence",
+      "Rummikub",
+      "Set"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Board Games",
+    "difficulty": "medium",
+    "id": "2f9e8e9d-c39f-470f-98d6-4b5665538b98",
+    "created_at": "2025-04-13T02:13:15.147Z",
+    "backupTimestamp": "2025-04-13T02:13:15.147Z",
+    "localBackupTimestamp": "2025-04-12T20:13:15.147Z"
+  },
+  {
+    "question": "Who designed the influential farming game 'Agricola'?",
+    "correct_answer": "Uwe Rosenberg",
+    "incorrect_answers": [
+      "Klaus Teuber",
+      "Reiner Knizia",
+      "Stefan Feld",
+      "Alan R. Moon",
+      "Wolfgang Kramer",
+      "Antoine Bauza",
+      "Vlaada Chvátil"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Board Games",
+    "difficulty": "medium",
+    "id": "ca0764cc-e659-4f8b-bf47-589c683a682d",
+    "created_at": "2025-04-13T02:13:15.150Z",
+    "backupTimestamp": "2025-04-13T02:13:15.150Z",
+    "localBackupTimestamp": "2025-04-12T20:13:15.150Z"
+  },
+  {
+    "question": "Which game mechanism involves using cards from hand to determine the outcome of battles or actions, like in 'Twilight Struggle'?",
+    "correct_answer": "Card-Driven Game (CDG)",
+    "incorrect_answers": [
+      "Deck Building",
+      "Worker Placement",
+      "Dice Combat",
+      "Tableau Building",
+      "Action Point Allowance",
+      "Set Collection",
+      "Area Majority"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Board Games",
+    "difficulty": "medium",
+    "id": "0b5005f0-dac7-4a3c-9dc6-753d364f6a7f",
+    "created_at": "2025-04-13T02:13:15.153Z",
+    "backupTimestamp": "2025-04-13T02:13:15.153Z",
+    "localBackupTimestamp": "2025-04-12T20:13:15.153Z"
+  },
+  {
+    "question": "In 'Small World', what happens when a player puts their current race/power combo 'In Decline'?",
+    "correct_answer": "They choose a new race/power combo next turn",
+    "incorrect_answers": [
+      "They lose the game",
+      "Their race is removed from the board immediately",
+      "They score bonus points",
+      "They can no longer conquer regions",
+      "They must skip their next turn",
+      "They activate a special decline power",
+      "They shuffle their race token back into the stack"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Board Games",
+    "difficulty": "medium",
+    "id": "5c49f226-23aa-44d1-812d-65cab35162db",
+    "created_at": "2025-04-13T02:13:15.156Z",
+    "backupTimestamp": "2025-04-13T02:13:15.157Z",
+    "localBackupTimestamp": "2025-04-12T20:13:15.157Z"
+  },
+  {
+    "question": "What civilization-building game uses a card-drafting mechanism across three 'Ages'?",
+    "correct_answer": "7 Wonders",
+    "incorrect_answers": [
+      "Through the Ages: A New Story of Civilization",
+      "Civilization: A New Dawn",
+      "Clash of Cultures",
+      "Tapestry",
+      "Innovation",
+      "Nations",
+      "Hadara"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Board Games",
+    "difficulty": "medium",
+    "id": "249df5a9-0a12-433a-8b43-c38cb4aa4267",
+    "created_at": "2025-04-13T02:13:15.160Z",
+    "backupTimestamp": "2025-04-13T02:13:15.160Z",
+    "localBackupTimestamp": "2025-04-12T20:13:15.160Z"
+  },
+  {
+    "question": "What is the term for the board game genre focusing on economic simulation, often with limited randomness and indirect player interaction?",
+    "correct_answer": "Eurogame",
+    "incorrect_answers": [
+      "Ameritrash",
+      "Wargame",
+      "Abstract Strategy",
+      "Party Game",
+      "Role-Playing Game",
+      "Dexterity Game",
+      "Thematic Game"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Board Games",
+    "difficulty": "medium",
+    "id": "06aed6f2-9418-4557-b581-5e3ff51c0296",
+    "created_at": "2025-04-13T02:13:15.165Z",
+    "backupTimestamp": "2025-04-13T02:13:15.165Z",
+    "localBackupTimestamp": "2025-04-12T20:13:15.165Z"
+  },
+  {
+    "question": "Which expansion for 'Settlers of Catan' introduces ships and exploring islands?",
+    "correct_answer": "Seafarers",
+    "incorrect_answers": [
+      "Cities & Knights",
+      "Traders & Barbarians",
+      "Explorers & Pirates",
+      "Helpers of Catan",
+      "Oil Springs",
+      "Crop Trust",
+      "Legend of the Sea Robbers"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Board Games",
+    "difficulty": "medium",
+    "id": "4d22dc55-0e59-4d3d-bdfa-01002f1a0b68",
+    "created_at": "2025-04-13T02:13:15.168Z",
+    "backupTimestamp": "2025-04-13T02:13:15.168Z",
+    "localBackupTimestamp": "2025-04-12T20:13:15.168Z"
+  },
+  {
+    "question": "What is 'analysis paralysis' in board gaming?",
+    "correct_answer": "Taking too long to decide on a move due to overthinking",
+    "incorrect_answers": [
+      "Forgetting the rules mid-game",
+      "Running out of components",
+      "A game state where no player can win",
+      "Physically freezing during a dexterity game",
+      "Losing track of the score",
+      "Disagreeing about a rule interpretation",
+      "Being overwhelmed by too many choices"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Board Games",
+    "difficulty": "medium",
+    "id": "1d54c83d-f4fa-4dfa-a3e4-09263e34eb9b",
+    "created_at": "2025-04-13T02:13:15.171Z",
+    "backupTimestamp": "2025-04-13T02:13:15.172Z",
+    "localBackupTimestamp": "2025-04-12T20:13:15.172Z"
+  },
+  {
+    "question": "Which game by Vlaada Chvátil involves building a civilization through card play, dealing with corruption and military strength?",
+    "correct_answer": "Through the Ages: A New Story of Civilization",
+    "incorrect_answers": [
+      "Codenames",
+      "Galaxy Trucker",
+      "Mage Knight Board Game",
+      "Space Alert",
+      "Pictomania",
+      "Bunny Bunny Moose Moose",
+      "Tash-Kalar: Arena of Legends"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Board Games",
+    "difficulty": "medium",
+    "id": "4cc50a62-30c4-4f14-87b9-db0b332b8d17",
+    "created_at": "2025-04-13T02:13:15.174Z",
+    "backupTimestamp": "2025-04-13T02:13:15.175Z",
+    "localBackupTimestamp": "2025-04-12T20:13:15.175Z"
+  },
+  {
+    "question": "In 'RoboRally', what is the primary challenge players face when programming their robots?",
+    "correct_answer": "Dealing with chaotic interactions and damage affecting programming",
+    "incorrect_answers": [
+      "Running out of energy",
+      "Collecting enough resources",
+      "Navigating a maze",
+      "Predicting opponent moves perfectly",
+      "Managing heat levels",
+      "Bidding for turn order",
+      "Rolling dice for movement"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Board Games",
+    "difficulty": "medium",
+    "id": "b3ff6c4a-dc95-46ea-8b6c-5e38f6ac6e77",
+    "created_at": "2025-04-13T02:13:15.178Z",
+    "backupTimestamp": "2025-04-13T02:13:15.178Z",
+    "localBackupTimestamp": "2025-04-12T20:13:15.178Z"
+  },
+  {
+    "question": "What does 'BGG' stand for in the board gaming community?",
+    "correct_answer": "BoardGameGeek",
+    "incorrect_answers": [
+      "Best Board Games",
+      "Board Game Group",
+      "Big Game Bonanza",
+      "Board Gamers Guild",
+      "British Gaming Group",
+      "Board Game Generation",
+      "Buy Great Games"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Board Games",
+    "difficulty": "medium",
+    "id": "23db4135-1751-41ed-a9fa-9fe672e6ec70",
+    "created_at": "2025-04-13T02:13:15.181Z",
+    "backupTimestamp": "2025-04-13T02:13:15.182Z",
+    "localBackupTimestamp": "2025-04-12T20:13:15.182Z"
+  },
+  {
+    "question": "Which game involves rolling dice and assigning them to actions like fighting famine, disease, or building cities in medieval France?",
+    "correct_answer": "Troyes",
+    "incorrect_answers": [
+      "Castles of Burgundy",
+      "Orléans",
+      "Lorenzo il Magnifico",
+      "Marco Polo",
+      "Pulsar 2849",
+      "Alien Frontiers",
+      "Kingsburg"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Board Games",
+    "difficulty": "medium",
+    "id": "06bca1fb-4de3-4f12-aa66-6d4fa57fcc3c",
+    "created_at": "2025-04-13T02:13:15.187Z",
+    "backupTimestamp": "2025-04-13T02:13:15.188Z",
+    "localBackupTimestamp": "2025-04-12T20:13:15.188Z"
+  },
+  {
+    "question": "What popular train-themed game series, known for cube deliveries and stock manipulation, was designed by Martin Wallace?",
+    "correct_answer": "Age of Steam / Steam",
+    "incorrect_answers": [
+      "Ticket to Ride",
+      "Railways of the World (Railroad Tycoon)",
+      "Brass",
+      "Power Grid",
+      "Chicago Express",
+      "18xx Series",
+      "TransAmerica"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Board Games",
+    "difficulty": "medium",
+    "id": "88252f03-152f-4eea-a405-ad021831b745",
+    "created_at": "2025-04-13T02:13:15.192Z",
+    "backupTimestamp": "2025-04-13T02:13:15.192Z",
+    "localBackupTimestamp": "2025-04-12T20:13:15.192Z"
+  },
+  {
+    "question": "Which game involves building castles for a whimsical king, scoring points based on fulfilling his strange demands?",
+    "correct_answer": "Castles of Mad King Ludwig",
+    "incorrect_answers": [
+      "Alhambra",
+      "Castles of Burgundy",
+      "Carcassonne",
+      "Kingdomino",
+      "Suburbia",
+      "Between Two Castles of Mad King Ludwig",
+      "Palaces of Carrara"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Board Games",
+    "difficulty": "medium",
+    "id": "f4b25fd4-75d5-47bc-adfd-b3d89f2e7d88",
+    "created_at": "2025-04-13T02:13:15.195Z",
+    "backupTimestamp": "2025-04-13T02:13:15.195Z",
+    "localBackupTimestamp": "2025-04-12T20:13:15.195Z"
+  },
+  {
+    "question": "What is the mechanism where players take turns selecting items (cards, tiles, etc.) from a limited pool?",
+    "correct_answer": "Drafting",
+    "incorrect_answers": [
+      "Auction/Bidding",
+      "Worker Placement",
+      "Set Collection",
+      "Tableau Building",
+      "Deck Building",
+      "Trading",
+      "Action Selection"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Board Games",
+    "difficulty": "medium",
+    "id": "9fd09ff6-66f2-4f19-948d-a7444132a023",
+    "created_at": "2025-04-13T02:13:15.198Z",
+    "backupTimestamp": "2025-04-13T02:13:15.198Z",
+    "localBackupTimestamp": "2025-04-12T20:13:15.198Z"
+  },
+  {
+    "question": "In 'Arkham Horror' (board game or LCG), who is the primary antagonist entity players fight against?",
+    "correct_answer": "Ancient Ones / Great Old Ones (e.g., Cthulhu)",
+    "incorrect_answers": [
+      "The Traitor",
+      "The Nemesis",
+      "The Overlord",
+      "The Virus",
+      "The Empire",
+      "The Mastermind",
+      "The Dragon"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Board Games",
+    "difficulty": "medium",
+    "id": "50a06025-fdf4-493d-965f-ef26988a6539",
+    "created_at": "2025-04-13T02:13:15.201Z",
+    "backupTimestamp": "2025-04-13T02:13:15.202Z",
+    "localBackupTimestamp": "2025-04-12T20:13:15.202Z"
+  },
+  {
+    "question": "What type of game is 'Galaxy Trucker', where players build spaceships from junk components and then fly them through hazards?",
+    "correct_answer": "Real-time / Tile-laying / Racing Game",
+    "incorrect_answers": [
+      "Worker Placement",
+      "Area Control",
+      "Cooperative Game",
+      "Deck Builder",
+      "Economic Simulation",
+      "Wargame",
+      "Abstract Strategy"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Board Games",
+    "difficulty": "medium",
+    "id": "5224757f-e530-4a82-bde8-4fd9c0a9d444",
+    "created_at": "2025-04-13T02:13:15.205Z",
+    "backupTimestamp": "2025-04-13T02:13:15.205Z",
+    "localBackupTimestamp": "2025-04-12T20:13:15.205Z"
+  },
+  {
+    "question": "What is the resource represented by sheep icons in 'Settlers of Catan'?",
+    "correct_answer": "Wool",
+    "incorrect_answers": [
+      "Mutton",
+      "Textiles",
+      "Livestock",
+      "Food",
+      "Pasture",
+      "Clothing",
+      "Sheep"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Board Games",
+    "difficulty": "medium",
+    "id": "4e220a82-133e-46e6-bcae-6643d356ea8f",
+    "created_at": "2025-04-13T02:13:15.208Z",
+    "backupTimestamp": "2025-04-13T02:13:15.208Z",
+    "localBackupTimestamp": "2025-04-12T20:13:15.208Z"
+  },
+  {
+    "question": "Which game involves dice representing your workers, which can be trained or taxed?",
+    "correct_answer": "Kingsburg",
+    "incorrect_answers": [
+      "Alien Frontiers",
+      "Troyes",
+      "Euphoria: Build a Better Dystopia",
+      "Roll Player",
+      "Castles of Burgundy",
+      "Marco Polo II: In the Service of the Khan",
+      "Voyages of Marco Polo"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Board Games",
+    "difficulty": "medium",
+    "id": "bfcb3175-0681-43aa-a0c3-7bde1bca201e",
+    "created_at": "2025-04-13T02:13:15.211Z",
+    "backupTimestamp": "2025-04-13T02:13:15.211Z",
+    "localBackupTimestamp": "2025-04-12T20:13:15.211Z"
+  },
+  {
+    "question": "What game focuses on the Cold War conflict between the USA and USSR, primarily using card play?",
+    "correct_answer": "Twilight Struggle",
+    "incorrect_answers": [
+      "Risk",
+      "Axis & Allies",
+      "Memoir '44",
+      "1960: The Making of the President",
+      "Wir sind das Volk!",
+      "Commands & Colors",
+      "Paths of Glory"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Board Games",
+    "difficulty": "medium",
+    "id": "303fb655-89bd-4fa2-83b6-0a18bc390c37",
+    "created_at": "2025-04-13T02:13:15.215Z",
+    "backupTimestamp": "2025-04-13T02:13:15.215Z",
+    "localBackupTimestamp": "2025-04-12T20:13:15.215Z"
+  },
+  {
+    "question": "What is 'alpha player' syndrome in cooperative games?",
+    "correct_answer": "One player dominating decisions and telling others what to do",
+    "incorrect_answers": [
+      "The player who always wins",
+      "A player who cheats",
+      "Someone who plays the strongest character",
+      "The first player in turn order",
+      "A player who explains the rules incorrectly",
+      "Someone who focuses only on their own objectives",
+      "The designated leader in the game rules"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Board Games",
+    "difficulty": "medium",
+    "id": "d53fe29c-1f92-4a06-875e-51100709aba0",
+    "created_at": "2025-04-13T02:13:15.218Z",
+    "backupTimestamp": "2025-04-13T02:13:15.219Z",
+    "localBackupTimestamp": "2025-04-12T20:13:15.219Z"
+  },
+  {
+    "question": "Which game involves competitive gardening and strategic placement of bamboo for a panda?",
+    "correct_answer": "Takenoko",
+    "incorrect_answers": [
+      "Photosynthesis",
+      "Wingspan",
+      "Everdell",
+      "Agricola",
+      "Haru Ichiban",
+      "Kanagawa",
+      "Lotus"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Board Games",
+    "difficulty": "medium",
+    "id": "8bdc5525-219e-44ba-9bfd-b515c94ae6e7",
+    "created_at": "2025-04-13T02:13:15.221Z",
+    "backupTimestamp": "2025-04-13T02:13:15.222Z",
+    "localBackupTimestamp": "2025-04-12T20:13:15.222Z"
+  },
+  {
+    "question": "What does the 'X' in '18XX' games refer to?",
+    "correct_answer": "The specific year the game variant is set in (e.g., 1830, 1889)",
+    "incorrect_answers": [
+      "The number of players",
+      "The difficulty rating",
+      "An experimental version",
+      "The designer's initial",
+      "The number of railroad companies",
+      "A crossing or intersection",
+      "The eXpansion number"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Board Games",
+    "difficulty": "medium",
+    "id": "36cc8e75-15ad-4e18-91f0-605cc71774d5",
+    "created_at": "2025-04-13T02:13:15.225Z",
+    "backupTimestamp": "2025-04-13T02:13:15.225Z",
+    "localBackupTimestamp": "2025-04-12T20:13:15.225Z"
+  },
+  {
+    "question": "Which game, designed by Reiner Knizia, involves placing tiles representing civilizations on a hex grid and resolving conflicts?",
+    "correct_answer": "Tigris & Euphrates",
+    "incorrect_answers": [
+      "Ra",
+      "Lost Cities",
+      "Samurai",
+      "Modern Art",
+      "Amun-Re",
+      "Through the Desert",
+      "Blue Lagoon"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Board Games",
+    "difficulty": "medium",
+    "id": "6e3f72cb-d20f-4758-ad5a-d6dd4506b49a",
+    "created_at": "2025-04-13T02:13:15.228Z",
+    "backupTimestamp": "2025-04-13T02:13:15.228Z",
+    "localBackupTimestamp": "2025-04-12T20:13:15.228Z"
+  },
+  {
+    "question": "What is the primary mechanic in 'The Castles of Burgundy' involving dice?",
+    "correct_answer": "Using dice rolls to select actions or take tiles",
+    "incorrect_answers": [
+      "Rolling dice for combat",
+      "Assigning dice as workers",
+      "Rolling dice to move pawns",
+      "Betting dice in auctions",
+      "Building structures based on dice sums",
+      "Trying to roll specific sets (like Yahtzee)",
+      "Using dice to generate resources"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Board Games",
+    "difficulty": "medium",
+    "id": "577ae4d6-4d75-4ea2-a8f8-9f89d6f5ebe5",
+    "created_at": "2025-04-13T02:13:15.231Z",
+    "backupTimestamp": "2025-04-13T02:13:15.231Z",
+    "localBackupTimestamp": "2025-04-12T20:13:15.231Z"
+  },
+  {
+    "question": "What type of scenario book is famously included with the massive dungeon-crawl game 'Gloomhaven'?",
+    "correct_answer": "A branching narrative campaign book",
+    "incorrect_answers": [
+      "A rulebook",
+      "A monster manual",
+      "An art book",
+      "A strategy guide",
+      "A choose-your-own-adventure book",
+      "A puzzle codex",
+      "A lore encyclopedia"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Board Games",
+    "difficulty": "medium",
+    "id": "a2d1d70a-cf95-4412-9cbf-d6497ae6aba2",
+    "created_at": "2025-04-13T02:13:15.234Z",
+    "backupTimestamp": "2025-04-13T02:13:15.234Z",
+    "localBackupTimestamp": "2025-04-12T20:13:15.234Z"
+  },
+  {
+    "question": "Which game involves hidden roles where players are either Liberals or Fascists, trying to enact policies or assassinate Hitler?",
+    "correct_answer": "Secret Hitler",
+    "incorrect_answers": [
+      "The Resistance: Avalon",
+      "Bang! The Dice Game",
+      "Dead of Winter",
+      "Deception: Murder in Hong Kong",
+      "One Night Ultimate Werewolf",
+      "Shadow Hunters",
+      "Battlestar Galactica: The Board Game"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Board Games",
+    "difficulty": "medium",
+    "id": "ffadd5ef-e038-476a-a7c2-7de815a26f37",
+    "created_at": "2025-04-13T02:13:15.238Z",
+    "backupTimestamp": "2025-04-13T02:13:15.239Z",
+    "localBackupTimestamp": "2025-04-12T20:13:15.239Z"
+  },
+  {
+    "question": "What is the key difference between 'Pandemic' and 'Pandemic Legacy'?",
+    "correct_answer": "Pandemic Legacy features permanent changes to the game over a campaign",
+    "incorrect_answers": [
+      "Legacy has different diseases",
+      "Legacy is competitive instead of cooperative",
+      "Legacy uses dice instead of cards",
+      "Legacy is set in a different historical period",
+      "Legacy has a modular board",
+      "Legacy supports more players",
+      "Legacy has simpler rules"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Board Games",
+    "difficulty": "medium",
+    "id": "a845804e-3af5-480e-8b00-38157608e8e2",
+    "created_at": "2025-04-13T02:13:15.244Z",
+    "backupTimestamp": "2025-04-13T02:13:15.244Z",
+    "localBackupTimestamp": "2025-04-12T20:13:15.244Z"
+  },
+  {
+    "question": "What influential game pioneered the 'deck-building' mechanism?",
+    "correct_answer": "Dominion",
+    "incorrect_answers": [
+      "Magic: The Gathering",
+      "Ascension: Deckbuilding Game",
+      "Thunderstone",
+      "StarCraft: The Board Game",
+      "Quarriors!",
+      "Android: Netrunner",
+      "A Few Acres of Snow"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Board Games",
+    "difficulty": "hard",
+    "id": "d16313df-54f0-4ab7-a310-81f8fcb3b1ba",
+    "created_at": "2025-04-13T02:13:15.253Z",
+    "backupTimestamp": "2025-04-13T02:13:15.253Z",
+    "localBackupTimestamp": "2025-04-12T20:13:15.253Z"
+  },
+  {
+    "question": "In the game 'Brass: Birmingham', which industry specifically requires Beer to be flipped?",
+    "correct_answer": "Pottery / Manufactured Goods / Boxes (depending on level)",
+    "incorrect_answers": [
+      "Coal Mine",
+      "Iron Works",
+      "Cotton Mill",
+      "Brewery",
+      "Shipyard",
+      "Rail Link",
+      "Canal Link"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Board Games",
+    "difficulty": "hard",
+    "id": "9429565a-2a52-403e-a1a4-fd96aade87f6",
+    "created_at": "2025-04-13T02:13:15.259Z",
+    "backupTimestamp": "2025-04-13T02:13:15.259Z",
+    "localBackupTimestamp": "2025-04-12T20:13:15.259Z"
+  },
+  {
+    "question": "What does the term 'rondel' refer to in board game mechanisms?",
+    "correct_answer": "A circular track where players move a pawn to select actions",
+    "incorrect_answers": [
+      "A type of dice rolling",
+      "A specific bidding system",
+      "A tile-laying pattern",
+      "A way of resolving combat",
+      "A card drafting method",
+      "A resource conversion chart",
+      "A player interaction rule"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Board Games",
+    "difficulty": "hard",
+    "id": "c64aae2e-224f-41f9-958c-0f35b1bff036",
+    "created_at": "2025-04-13T02:13:15.271Z",
+    "backupTimestamp": "2025-04-13T02:13:15.271Z",
+    "localBackupTimestamp": "2025-04-12T20:13:15.271Z"
+  },
+  {
+    "question": "Which Stefan Feld design is known for its multitude of ways to score points, often described as a 'point salad' game?",
+    "correct_answer": "The Castles of Burgundy / Trajan / Bora Bora (among others)",
+    "incorrect_answers": [
+      "Agricola",
+      "Power Grid",
+      "Terraforming Mars",
+      "Scythe",
+      "7 Wonders",
+      "Ticket to Ride",
+      "Carcassonne"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Board Games",
+    "difficulty": "hard",
+    "id": "4461c223-ac3b-473c-9fc4-6dbe232ecb9b",
+    "created_at": "2025-04-13T02:13:15.280Z",
+    "backupTimestamp": "2025-04-13T02:13:15.281Z",
+    "localBackupTimestamp": "2025-04-12T20:13:15.281Z"
+  },
+  {
+    "question": "What is the name of the fictional currency used in 'Power Grid'?",
+    "correct_answer": "Elektro",
+    "incorrect_answers": [
+      "Dollars",
+      "Euros",
+      "Credits",
+      "Doubloons",
+      "Ducats",
+      "Volts",
+      "Watts"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Board Games",
+    "difficulty": "hard",
+    "id": "71c9f516-9a38-414d-820d-616ac27069bb",
+    "created_at": "2025-04-13T02:13:15.288Z",
+    "backupTimestamp": "2025-04-13T02:13:15.288Z",
+    "localBackupTimestamp": "2025-04-12T20:13:15.288Z"
+  },
+  {
+    "question": "Which complex cooperative game pits players as spirits defending an island from colonizing invaders?",
+    "correct_answer": "Spirit Island",
+    "incorrect_answers": [
+      "Robinson Crusoe: Adventures on the Cursed Island",
+      "Forbidden Island",
+      "Pandemic",
+      "Ghost Stories",
+      "Aeon's End",
+      "Arkham Horror: The Card Game",
+      "Mechs vs. Minions"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Board Games",
+    "difficulty": "hard",
+    "id": "5d90faa6-e30c-4d48-8e8a-0ef61a135bb8",
+    "created_at": "2025-04-13T02:13:15.296Z",
+    "backupTimestamp": "2025-04-13T02:13:15.296Z",
+    "localBackupTimestamp": "2025-04-12T20:13:15.296Z"
+  },
+  {
+    "question": "What classic Avalon Hill game simulates the entire history of human civilization on Earth?",
+    "correct_answer": "Civilization / Advanced Civilization",
+    "incorrect_answers": [
+      "History of the World",
+      "Mare Nostrum",
+      "Through the Ages",
+      "Mega Civilization",
+      "Britannia",
+      "Axis & Allies",
+      "Diplomacy"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Board Games",
+    "difficulty": "hard",
+    "id": "f6a59d76-28c4-427b-8c9b-5863ef42bb0e",
+    "created_at": "2025-04-13T02:13:15.305Z",
+    "backupTimestamp": "2025-04-13T02:13:15.306Z",
+    "localBackupTimestamp": "2025-04-12T20:13:15.306Z"
+  },
+  {
+    "question": "In 'Food Chain Magnate', what milestone is crucial for enabling players to train new employees more effectively?",
+    "correct_answer": "First Trainer / Recruiter",
+    "incorrect_answers": [
+      "First Burger Cooked",
+      "First Pizza Cooked",
+      "First Drink Sold",
+      "First Billboard Placed",
+      "First Radio Campaign",
+      "First to Hire 3 Employees",
+      "CFO (Chief Financial Officer)"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Board Games",
+    "difficulty": "hard",
+    "id": "f0d377b4-7335-4108-9b23-3b6a9854c098",
+    "created_at": "2025-04-13T02:13:15.310Z",
+    "backupTimestamp": "2025-04-13T02:13:15.310Z",
+    "localBackupTimestamp": "2025-04-12T20:13:15.310Z"
+  },
+  {
+    "question": "What game mechanism, central to 'Orléans', involves drawing tokens from a bag to determine available actions?",
+    "correct_answer": "Bag Building",
+    "incorrect_answers": [
+      "Deck Building",
+      "Dice Drafting",
+      "Worker Placement",
+      "Pool Building",
+      "Tableau Building",
+      "Action Point Allowance",
+      "Resource Management"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Board Games",
+    "difficulty": "hard",
+    "id": "53fcc57e-22bb-4aa6-ae04-c4d0af400c0b",
+    "created_at": "2025-04-13T02:13:15.313Z",
+    "backupTimestamp": "2025-04-13T02:13:15.314Z",
+    "localBackupTimestamp": "2025-04-12T20:13:15.314Z"
+  },
+  {
+    "question": "Who is the designer of the heavy economic games 'Food Chain Magnate' and 'The Great Zimbabwe'?",
+    "correct_answer": "Jeroen Doumen & Joris Wiersinga (Splotter Spellen)",
+    "incorrect_answers": [
+      "Uwe Rosenberg",
+      "Martin Wallace",
+      "Vital Lacerda",
+      "Stefan Feld",
+      "Reiner Knizia",
+      "Alexander Pfister",
+      "Mac Gerdts"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Board Games",
+    "difficulty": "hard",
+    "id": "d854b588-f665-454c-b6e9-846d8bf469f5",
+    "created_at": "2025-04-13T02:13:15.317Z",
+    "backupTimestamp": "2025-04-13T02:13:15.317Z",
+    "localBackupTimestamp": "2025-04-12T20:13:15.317Z"
+  },
+  {
+    "question": "What unique component in 'Tzolk'in: The Mayan Calendar' dictates available actions and their strength?",
+    "correct_answer": "Interlocking gears that rotate",
+    "incorrect_answers": [
+      "A sand timer",
+      "A magnetic board",
+      "An electronic dice tower",
+      "A spinning rondel",
+      "A deck of fate cards",
+      "A bag of worker tokens",
+      "A modular hex grid"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Board Games",
+    "difficulty": "hard",
+    "id": "476f6052-d6c5-4006-b59b-642ce9d0713d",
+    "created_at": "2025-04-13T02:13:15.320Z",
+    "backupTimestamp": "2025-04-13T02:13:15.320Z",
+    "localBackupTimestamp": "2025-04-12T20:13:15.320Z"
+  },
+  {
+    "question": "Which game genre, exemplified by titles like 'Diplomacy', features intense negotiation and often no random elements?",
+    "correct_answer": "Negotiation Game / Political Game",
+    "incorrect_answers": [
+      "Eurogame",
+      "Wargame",
+      "Abstract Strategy",
+      "Cooperative Game",
+      "Party Game",
+      "Economic Game",
+      "Area Control"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Board Games",
+    "difficulty": "hard",
+    "id": "2b8ae5be-bca5-4539-bf84-98556348b8a6",
+    "created_at": "2025-04-13T02:13:15.323Z",
+    "backupTimestamp": "2025-04-13T02:13:15.323Z",
+    "localBackupTimestamp": "2025-04-12T20:13:15.323Z"
+  },
+  {
+    "question": "In 'Cosmic Encounter', what is the core concept that gives each player unique game-breaking abilities?",
+    "correct_answer": "Alien Powers",
+    "incorrect_answers": [
+      "Technology Cards",
+      "Leader Abilities",
+      "Faction Bonuses",
+      "Secret Objectives",
+      "Planetary Traits",
+      "Advanced Ships",
+      "Diplomatic Edicts"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Board Games",
+    "difficulty": "hard",
+    "id": "90007c13-73fd-4d39-9492-d1ae6954f918",
+    "created_at": "2025-04-13T02:13:15.327Z",
+    "backupTimestamp": "2025-04-13T02:13:15.327Z",
+    "localBackupTimestamp": "2025-04-12T20:13:15.327Z"
+  },
+  {
+    "question": "What war-themed game system, designed by Richard Borg, uses command cards and dice for combat resolution?",
+    "correct_answer": "Commands & Colors",
+    "incorrect_answers": [
+      "Advanced Squad Leader (ASL)",
+      "Twilight Struggle",
+      "Axis & Allies",
+      "Conflict of Heroes",
+      "Panzer Leader",
+      "Paths of Glory",
+      "Up Front"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Board Games",
+    "difficulty": "hard",
+    "id": "c1c619f7-8c3a-40d3-b287-77e1c35c1986",
+    "created_at": "2025-04-13T02:13:15.331Z",
+    "backupTimestamp": "2025-04-13T02:13:15.331Z",
+    "localBackupTimestamp": "2025-04-12T20:13:15.331Z"
+  },
+  {
+    "question": "Which Vital Lacerda game simulates running a complex electrical company, including building infrastructure and managing resources?",
+    "correct_answer": "Vinhos / Lisboa / Kanban EV / On Mars (Depending on interpretation, Vinhos is wine)",
+    "incorrect_answers": [
+      "The Gallerist",
+      "CO₂: Second Chance",
+      "Escape Plan",
+      "Mercado de Lisboa",
+      "Power Grid",
+      "Barrage",
+      "Pipeline"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Board Games",
+    "difficulty": "hard",
+    "id": "f07af101-78cd-45c4-9ca5-de5b1c75945c",
+    "created_at": "2025-04-13T02:13:15.334Z",
+    "backupTimestamp": "2025-04-13T02:13:15.335Z",
+    "localBackupTimestamp": "2025-04-12T20:13:15.335Z"
+  },
+  {
+    "question": "What is the 'action selection' mechanism used in 'Puerto Rico' where one player chooses a role and all players perform its action?",
+    "correct_answer": "Variable Phase Order / Role Selection",
+    "incorrect_answers": [
+      "Worker Placement",
+      "Simultaneous Action Selection",
+      "Card Drafting",
+      "Command Card Play",
+      "Action Point Allowance",
+      "Rondel",
+      "Dice Allocation"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Board Games",
+    "difficulty": "hard",
+    "id": "46d8b03c-ed8f-461b-b3a4-19a0904ae2b8",
+    "created_at": "2025-04-13T02:13:15.338Z",
+    "backupTimestamp": "2025-04-13T02:13:15.338Z",
+    "localBackupTimestamp": "2025-04-12T20:13:15.338Z"
+  },
+  {
+    "question": "In the game 'Go', what is the term for a group of stones that cannot be captured because it surrounds two 'eyes'?",
+    "correct_answer": "Living Group",
+    "incorrect_answers": [
+      "Dead Group",
+      "Seki",
+      "Ko",
+      "Atari",
+      "Joseki",
+      "Fuseki",
+      "Tesuji"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Board Games",
+    "difficulty": "hard",
+    "id": "c3e2754c-1760-4c76-8e38-f56386c6cd06",
+    "created_at": "2025-04-13T02:13:15.341Z",
+    "backupTimestamp": "2025-04-13T02:13:15.341Z",
+    "localBackupTimestamp": "2025-04-12T20:13:15.341Z"
+  },
+  {
+    "question": "Which highly thematic game involves players taking on roles like Captain, Pilot, Scientist etc., aboard a malfunctioning spaceship beset by aliens?",
+    "correct_answer": "Nemesis",
+    "incorrect_answers": [
+      "Battlestar Galactica: The Board Game",
+      "Space Alert",
+      "Galaxy Trucker",
+      "This War of Mine: The Board Game",
+      "Gloomhaven",
+      "Mansions of Madness",
+      "Project: ELITE"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Board Games",
+    "difficulty": "hard",
+    "id": "e1e035a6-f4c3-4466-adb3-b23bdfe0fe47",
+    "created_at": "2025-04-13T02:13:15.344Z",
+    "backupTimestamp": "2025-04-13T02:13:15.345Z",
+    "localBackupTimestamp": "2025-04-12T20:13:15.345Z"
+  },
+  {
+    "question": "What is the purpose of the 'influence' track or mechanism in games like 'Twilight Struggle' or 'Troyes'?",
+    "correct_answer": "Gaining control/majority in regions or affecting opponent actions",
+    "incorrect_answers": [
+      "Tracking victory points",
+      "Determining turn order",
+      "Buying resources",
+      "Fueling special abilities",
+      "Measuring player reputation",
+      "Unlocking technology",
+      "Paying for unit deployment"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Board Games",
+    "difficulty": "hard",
+    "id": "3c90a311-961f-481a-b409-b3f31eb86733",
+    "created_at": "2025-04-13T02:13:15.348Z",
+    "backupTimestamp": "2025-04-13T02:13:15.348Z",
+    "localBackupTimestamp": "2025-04-12T20:13:15.348Z"
+  },
+  {
+    "question": "Which Uwe Rosenberg game involves placing polyomino tiles onto a personal board, but focuses on the history of a specific region in Germany?",
+    "correct_answer": "Fields of Arle",
+    "incorrect_answers": [
+      "Patchwork",
+      "A Feast for Odin",
+      "Agricola",
+      "Caverna: The Cave Farmers",
+      "Nusfjord",
+      "Glass Road",
+      "Le Havre"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Board Games",
+    "difficulty": "hard",
+    "id": "ae1bbdec-01d6-4adb-bb10-f702364100e3",
+    "created_at": "2025-04-13T02:13:15.351Z",
+    "backupTimestamp": "2025-04-13T02:13:15.351Z",
+    "localBackupTimestamp": "2025-04-12T20:13:15.351Z"
+  },
+  {
+    "question": "What is the term for the phenomenon where the player in the lead becomes the target of other players?",
+    "correct_answer": "Bash the Leader / Leader Bashing",
+    "incorrect_answers": [
+      "Kingmaking",
+      "Analysis Paralysis",
+      "Runaway Leader Problem",
+      "Snowball Effect",
+      "Ganging Up",
+      "Target Fixation",
+      "Rubber Banding"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Board Games",
+    "difficulty": "hard",
+    "id": "6bfdf563-0864-46e2-ae48-23fc69520660",
+    "created_at": "2025-04-13T02:13:15.355Z",
+    "backupTimestamp": "2025-04-13T02:13:15.355Z",
+    "localBackupTimestamp": "2025-04-12T20:13:15.355Z"
+  },
+  {
+    "question": "Which Alexander Pfister game involves sailing, delivering goods, and fighting pirates in the Caribbean?",
+    "correct_answer": "Maracaibo",
+    "incorrect_answers": [
+      "Great Western Trail",
+      "Mombasa",
+      "Isle of Skye: From Chieftain to King",
+      "Blackout: Hong Kong",
+      "Oh My Goods!",
+      "Port Royal",
+      "CloudAge"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Board Games",
+    "difficulty": "hard",
+    "id": "58332f98-142b-4d67-b384-b79435814aab",
+    "created_at": "2025-04-13T02:13:15.358Z",
+    "backupTimestamp": "2025-04-13T02:13:15.359Z",
+    "localBackupTimestamp": "2025-04-12T20:13:15.359Z"
+  },
+  {
+    "question": "What is the 'track' mechanism, often used in Winsome Games or Cube Rail games, where players invest in companies whose value fluctuates?",
+    "correct_answer": "Stock Holding / Share Dealing",
+    "incorrect_answers": [
+      "Route Building",
+      "Auction/Bidding",
+      "Pick-up and Deliver",
+      "Area Control",
+      "Commodity Speculation",
+      "Tile Laying",
+      "Set Collection"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Board Games",
+    "difficulty": "hard",
+    "id": "66166c40-a65b-459f-b46a-afcecfd6e8f7",
+    "created_at": "2025-04-13T02:13:15.361Z",
+    "backupTimestamp": "2025-04-13T02:13:15.362Z",
+    "localBackupTimestamp": "2025-04-12T20:13:15.362Z"
+  },
+  {
+    "question": "Which game features a unique 'time track' mechanism where players who spend more time on actions go later in subsequent turns?",
+    "correct_answer": "Patchwork / Thebes / Glen More (among others)",
+    "incorrect_answers": [
+      "Agricola",
+      "Power Grid",
+      "7 Wonders",
+      "Terraforming Mars",
+      "Castles of Burgundy",
+      "Stone Age",
+      "Ticket to Ride"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Board Games",
+    "difficulty": "hard",
+    "id": "b7f2bc32-d0a0-44ad-9237-9ec7c70bd383",
+    "created_at": "2025-04-13T02:13:15.365Z",
+    "backupTimestamp": "2025-04-13T02:13:15.365Z",
+    "localBackupTimestamp": "2025-04-12T20:13:15.365Z"
+  },
+  {
+    "question": "What is the Knaster auction, often used in Reiner Knizia games, where players bid sequentially for an item, and the winner pays the highest *losing* bid?",
+    "correct_answer": "Vickrey auction (Second-price sealed-bid)",
+    "incorrect_answers": [
+      "English auction (Open ascending bid)",
+      "Dutch auction (Open descending bid)",
+      "First-price sealed-bid auction",
+      "All-pay auction",
+      "Blind auction",
+      "Silent auction",
+      "Borda count bidding"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Board Games",
+    "difficulty": "hard",
+    "id": "40b950d4-4488-441c-8061-83c785ac7f19",
+    "created_at": "2025-04-13T02:13:15.368Z",
+    "backupTimestamp": "2025-04-13T02:13:15.369Z",
+    "localBackupTimestamp": "2025-04-12T20:13:15.369Z"
+  },
+  {
+    "question": "Which Cold War-themed game, designed by Jason Matthews and Ananda Gupta, focuses on espionage and card play?",
+    "correct_answer": "Twilight Struggle",
+    "incorrect_answers": [
+      "1989: Dawn of Freedom",
+      "Wir sind das Volk!",
+      "Labyrinth: The War on Terror",
+      "Sekigahara: The Unification of Japan",
+      "Imperial Struggle",
+      "Fort Sumter: The Secession Crisis",
+      "Watergate"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Board Games",
+    "difficulty": "hard",
+    "id": "f89bb133-5f5c-4484-8805-5363665a5a0f",
+    "created_at": "2025-04-13T02:13:15.372Z",
+    "backupTimestamp": "2025-04-13T02:13:15.372Z",
+    "localBackupTimestamp": "2025-04-12T20:13:15.372Z"
+  },
+  {
+    "question": "In 'Mage Knight Board Game', what is the primary way players improve their capabilities besides gaining levels?",
+    "correct_answer": "Acquiring Advanced Action cards, Spells, Artifacts, and Units",
+    "incorrect_answers": [
+      "Building structures",
+      "Trading resources",
+      "Conquering cities",
+      "Completing quests",
+      "Recruiting heroes",
+      "Researching technologies",
+      "Spending influence"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Board Games",
+    "difficulty": "hard",
+    "id": "f59e8041-18f9-44d8-9052-0330c52dca8b",
+    "created_at": "2025-04-13T02:13:15.376Z",
+    "backupTimestamp": "2025-04-13T02:13:15.376Z",
+    "localBackupTimestamp": "2025-04-12T20:13:15.376Z"
+  },
+  {
+    "question": "What type of board game uses a book of paragraphs or entries to drive narrative and events, like 'Sherlock Holmes Consulting Detective' or 'Above and Below'?",
+    "correct_answer": "Paragraph System / Storybook Game",
+    "incorrect_answers": [
+      "Legacy Game",
+      "Campaign Game",
+      "Choose Your Own Adventure Game",
+      "Scenario-based Game",
+      "Modular Board Game",
+      "Event Deck Game",
+      "Rulebook Variant"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Board Games",
+    "difficulty": "hard",
+    "id": "385c495c-4ea0-4223-900f-ecab7517c5cb",
+    "created_at": "2025-04-13T02:13:15.379Z",
+    "backupTimestamp": "2025-04-13T02:13:15.379Z",
+    "localBackupTimestamp": "2025-04-12T20:13:15.379Z"
+  },
+  {
+    "question": "Which game design studio is famous for publishing very complex, often hand-assembled, economic games like 'Indonesia' and 'Antiquity'?",
+    "correct_answer": "Splotter Spellen",
+    "incorrect_answers": [
+      "GMT Games",
+      "Capstone Games",
+      "Level 99 Games",
+      "Eagle-Gryphon Games",
+      "Stonemaier Games",
+      "Lookout Games",
+      "Rio Grande Games"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Board Games",
+    "difficulty": "hard",
+    "id": "cde82162-44d7-4919-8f05-40795563e89c",
+    "created_at": "2025-04-13T02:13:15.382Z",
+    "backupTimestamp": "2025-04-13T02:13:15.382Z",
+    "localBackupTimestamp": "2025-04-12T20:13:15.382Z"
+  },
+  {
+    "question": "What game mechanism involves removing pieces from the game permanently, often seen in legacy or war games?",
+    "correct_answer": "Attrition / Destruction",
+    "incorrect_answers": [
+      "Cycling",
+      "Discarding",
+      "Exhausting",
+      "Resetting",
+      "Upgrading",
+      "Retiring",
+      "Archiving"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Board Games",
+    "difficulty": "hard",
+    "id": "656dd735-a8b8-4060-ae5a-f414dbb441fc",
+    "created_at": "2025-04-13T02:13:15.386Z",
+    "backupTimestamp": "2025-04-13T02:13:15.386Z",
+    "localBackupTimestamp": "2025-04-12T20:13:15.386Z"
+  },
+  {
+    "question": "In 'Terra Mystica', what resource must players spend to terraform terrain hexes to their faction's home type?",
+    "correct_answer": "Workers (and sometimes Power)",
+    "incorrect_answers": [
+      "Coins",
+      "Priests",
+      "Victory Points",
+      "Cult Track Advancement",
+      "Culture Tokens",
+      "Magic Crystals",
+      "Tools"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Board Games",
+    "difficulty": "hard",
+    "id": "c3d5b187-fe48-4ff0-9bab-a6ad60a32941",
+    "created_at": "2025-04-13T02:13:15.389Z",
+    "backupTimestamp": "2025-04-13T02:13:15.389Z",
+    "localBackupTimestamp": "2025-04-12T20:13:15.389Z"
+  },
+  {
+    "question": "What is the main purpose of the 'Solitaire' mode often included in modern board games?",
+    "correct_answer": "Allowing a single player to play the game",
+    "incorrect_answers": [
+      "A tutorial mode",
+      "A simplified version of the rules",
+      "A competitive mode against AI",
+      "A way to track high scores",
+      "A cooperative variant for two players",
+      "A narrative campaign",
+      "A puzzle challenge using game components"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Board Games",
+    "difficulty": "hard",
+    "id": "05018328-4254-4050-aef1-97c60d27ccf2",
+    "created_at": "2025-04-13T02:13:15.392Z",
+    "backupTimestamp": "2025-04-13T02:13:15.393Z",
+    "localBackupTimestamp": "2025-04-12T20:13:15.393Z"
+  },
+  {
+    "question": "Which game, known for its brutal difficulty, has players cooperatively defending a village from relentless waves of ghosts?",
+    "correct_answer": "Ghost Stories",
+    "incorrect_answers": [
+      "Spirit Island",
+      "Samurai Spirit",
+      "Legends of Andor",
+      "Last Bastion",
+      "Maximum Apocalypse",
+      "Zombicide: Black Plague",
+      "Kingdom Death: Monster"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Board Games",
+    "difficulty": "hard",
+    "id": "0c80d2d7-b074-4eb9-ae45-28453babbb54",
+    "created_at": "2025-04-13T02:13:15.396Z",
+    "backupTimestamp": "2025-04-13T02:13:15.396Z",
+    "localBackupTimestamp": "2025-04-12T20:13:15.396Z"
+  },
+  {
+    "question": "What does 'AP' often stand for in the context of board game mechanisms?",
+    "correct_answer": "Action Points",
+    "incorrect_answers": [
+      "Attack Power",
+      "Armor Points",
+      "Ability Power",
+      "Analysis Paralysis",
+      "Available Pawns",
+      "Auction Price",
+      "Advancement Path"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Board Games",
+    "difficulty": "hard",
+    "id": "44e2c382-ebc1-4d3b-87be-8e5c212c273f",
+    "created_at": "2025-04-13T02:13:15.400Z",
+    "backupTimestamp": "2025-04-13T02:13:15.400Z",
+    "localBackupTimestamp": "2025-04-12T20:13:15.400Z"
+  },
+  {
+    "question": "Which game features players managing logistics and building infrastructure for hydroelectric power generation?",
+    "correct_answer": "Barrage",
+    "incorrect_answers": [
+      "Power Grid",
+      "Pipeline",
+      "CO₂: Second Chance",
+      "Underwater Cities",
+      "Kanban EV",
+      "Newton",
+      "Furnace"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Board Games",
+    "difficulty": "hard",
+    "id": "c1b6927a-973e-43e0-93c7-3fb4ddcf8697",
+    "created_at": "2025-04-13T02:13:15.403Z",
+    "backupTimestamp": "2025-04-13T02:13:15.403Z",
+    "localBackupTimestamp": "2025-04-12T20:13:15.403Z"
+  },
+  {
+    "question": "What abstract strategy game, designed by Kris Burm, is part of the GIPF project and involves pushing stacks of pieces?",
+    "correct_answer": "ZÈRTZ / DVONN / YINSH (among others in Project GIPF)",
+    "incorrect_answers": [
+      "Hive",
+      "Santorini",
+      "Tak",
+      "Abalone",
+      "Go",
+      "Quoridor",
+      "Blokus"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Board Games",
+    "difficulty": "hard",
+    "id": "d68c24f1-8e96-4451-b280-5ef8190ebad2",
+    "created_at": "2025-04-13T02:13:15.407Z",
+    "backupTimestamp": "2025-04-13T02:13:15.407Z",
+    "localBackupTimestamp": "2025-04-12T20:13:15.407Z"
+  },
+  {
+    "question": "What is 'kingmaking' in a board game context?",
+    "correct_answer": "A player with no chance of winning making a move that decides which opponent wins",
+    "incorrect_answers": [
+      "Promoting a pawn to a queen in chess",
+      "Playing the King card in Love Letter",
+      "Achieving the highest possible score",
+      "Eliminating the leading player",
+      "Forming an unbeatable alliance",
+      "Winning the game by controlling the 'King' piece",
+      "Deliberately losing to help someone else"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Board Games",
+    "difficulty": "hard",
+    "id": "1cfa1920-c8c3-448d-8416-0b8a7395e700",
+    "created_at": "2025-04-13T02:13:15.410Z",
+    "backupTimestamp": "2025-04-13T02:13:15.410Z",
+    "localBackupTimestamp": "2025-04-12T20:13:15.410Z"
+  },
+  {
+    "question": "Which game involves rolling custom dice and using their faces to buy cards, summon monsters, and gain victory points?",
+    "correct_answer": "Quarriors! / Dice Masters",
+    "incorrect_answers": [
+      "King of Tokyo",
+      "Roll for the Galaxy",
+      "Seasons",
+      "Kingsburg",
+      "Too Many Bones",
+      "Warhammer Underworlds",
+      "Claustrophobia 1643"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Board Games",
+    "difficulty": "hard",
+    "id": "f5210309-4e41-48ef-956e-c33faaba38b3",
+    "created_at": "2025-04-13T02:13:15.413Z",
+    "backupTimestamp": "2025-04-13T02:13:15.414Z",
+    "localBackupTimestamp": "2025-04-12T20:13:15.414Z"
+  },
+  {
+    "question": "What historical event is simulated in the GMT game 'Here I Stand: Wars of the Reformation'?",
+    "correct_answer": "The European conflicts involving the Protestant Reformation (1517-1555)",
+    "incorrect_answers": [
+      "The Napoleonic Wars",
+      "The American Revolutionary War",
+      "World War I",
+      "The Peloponnesian War",
+      "The Thirty Years' War",
+      "The English Civil War",
+      "The Punic Wars"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Board Games",
+    "difficulty": "hard",
+    "id": "d0e1aee5-9806-433a-ba9e-f926c452de2c",
+    "created_at": "2025-04-13T02:13:15.417Z",
+    "backupTimestamp": "2025-04-13T02:13:15.417Z",
+    "localBackupTimestamp": "2025-04-12T20:13:15.417Z"
+  },
+  {
+    "question": "Which Phil Eklund design simulates the development of human consciousness and technology from prehistory onwards?",
+    "correct_answer": "Pax Porfiriana / Pax Pamir / Pax Renaissance / Neanderthal / Greenland (among others)",
+    "incorrect_answers": [
+      "High Frontier",
+      "Bios: Genesis",
+      "Leaving Earth",
+      "Through the Ages",
+      "Innovation",
+      "Civilization",
+      "Tapestry"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Board Games",
+    "difficulty": "hard",
+    "id": "54e67a3d-af34-43ad-b137-f269999063e6",
+    "created_at": "2025-04-13T02:13:15.421Z",
+    "backupTimestamp": "2025-04-13T02:13:15.421Z",
+    "localBackupTimestamp": "2025-04-12T20:13:15.421Z"
+  },
+  {
+    "question": "What is 'fiddliness' in relation to board games?",
+    "correct_answer": "Having many small, numerous components or complex setup/upkeep",
+    "incorrect_answers": [
+      "Rules ambiguity",
+      "Poor component quality",
+      "Long playtime",
+      "High randomness",
+      "Unbalanced gameplay",
+      "Difficult strategy",
+      "Abstract theme"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Board Games",
+    "difficulty": "hard",
+    "id": "3772a3ff-9215-4196-b25d-df0b4233f693",
+    "created_at": "2025-04-13T02:13:15.424Z",
+    "backupTimestamp": "2025-04-13T02:13:15.425Z",
+    "localBackupTimestamp": "2025-04-12T20:13:15.425Z"
+  },
+  {
+    "question": "What is the primary goal in the abstract game 'Tak', inspired by Patrick Rothfuss's Kingkiller Chronicle?",
+    "correct_answer": "Create a road of your stones connecting opposite sides of the board",
+    "incorrect_answers": [
+      "Capture the opponent's 'Capstone'",
+      "Surround opponent's pieces",
+      "Stack stones to control spaces",
+      "Reach the opponent's starting row",
+      "Have the most pieces on the board",
+      "Control the center square",
+      "Form a specific pattern"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Board Games",
+    "difficulty": "hard",
+    "id": "be77df39-7eae-435b-838a-2941bc76b582",
+    "created_at": "2025-04-13T02:13:15.428Z",
+    "backupTimestamp": "2025-04-13T02:13:15.428Z",
+    "localBackupTimestamp": "2025-04-12T20:13:15.428Z"
+  },
+  {
+    "question": "Which publisher is known for the 'COIN' (Counter-Insurgency) series of asymmetric historical wargames?",
+    "correct_answer": "GMT Games",
+    "incorrect_answers": [
+      "Avalon Hill",
+      "Decision Games",
+      "Compass Games",
+      "Lock 'n Load Publishing",
+      "Multi-Man Publishing",
+      "Phalanx Games",
+      "Worthington Publishing"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Board Games",
+    "difficulty": "hard",
+    "id": "617c2a18-1cc0-4bfe-ba6e-0ea6f9f74d10",
+    "created_at": "2025-04-13T02:13:15.431Z",
+    "backupTimestamp": "2025-04-13T02:13:15.431Z",
+    "localBackupTimestamp": "2025-04-12T20:13:15.431Z"
+  },
+  {
+    "question": "What does 'FTW' commonly mean in board gaming slang?",
+    "correct_answer": "For The Win",
+    "incorrect_answers": [
+      "First Turn Wonder",
+      "Flip The Table",
+      "Follow The Way",
+      "Forget The Wording",
+      "For The Wheel",
+      "Finish The War",
+      "Fun Times Werehad"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Board Games",
+    "difficulty": "hard",
+    "id": "c98df60c-8085-4e31-b5d1-a739e5b14e19",
+    "created_at": "2025-04-13T02:13:15.435Z",
+    "backupTimestamp": "2025-04-13T02:13:15.435Z",
+    "localBackupTimestamp": "2025-04-12T20:13:15.435Z"
+  },
+  {
+    "question": "Which highly regarded two-player wargame simulates the Napoleonic Wars using block units and card play?",
+    "correct_answer": "Commands & Colors: Napoleonics / Napoleon's Triumph / The Napoleonic Wars",
+    "incorrect_answers": [
+      "Twilight Struggle",
+      "Paths of Glory",
+      "Hannibal: Rome vs. Carthage",
+      "Sekigahara: The Unification of Japan",
+      "Combat Commander: Europe",
+      "Advanced Squad Leader",
+      "Europa Universalis: The Price of Power"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Board Games",
+    "difficulty": "hard",
+    "id": "1f15dd24-35af-4d8f-8017-c25d63d0d9dd",
+    "created_at": "2025-04-13T02:13:15.438Z",
+    "backupTimestamp": "2025-04-13T02:13:15.439Z",
+    "localBackupTimestamp": "2025-04-12T20:13:15.439Z"
+  },
+  {
+    "question": "What game, designed by Carl Chudyk, features multi-use cards that can be 'splayed' to reveal more icons?",
+    "correct_answer": "Innovation / Glory to Rome / Mottainai",
+    "incorrect_answers": [
+      "Race for the Galaxy",
+      "Terraforming Mars",
+      "Impulse",
+      "Aeon's End",
+      "San Juan",
+      "Red7",
+      "Arboretum"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Board Games",
+    "difficulty": "hard",
+    "id": "b322c0fa-4aab-4389-af8d-ffbcc0ae1b19",
+    "created_at": "2025-04-13T02:13:15.442Z",
+    "backupTimestamp": "2025-04-13T02:13:15.442Z",
+    "localBackupTimestamp": "2025-04-12T20:13:15.442Z"
+  },
+  {
+    "question": "What is the main characteristic of a 'sandbox' board game?",
+    "correct_answer": "Offering players high freedom of choice and emergent gameplay with less rigid objectives",
+    "incorrect_answers": [
+      "A game played on a beach",
+      "A game with modular components",
+      "A game focused on building structures",
+      "A cooperative game with hidden traitors",
+      "A legacy game with permanent changes",
+      "A dexterity game involving sand",
+      "A game primarily for children"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Board Games",
+    "difficulty": "hard",
+    "id": "55078548-43bc-4f81-9018-939f0817025d",
+    "created_at": "2025-04-13T02:13:15.446Z",
+    "backupTimestamp": "2025-04-13T02:13:15.447Z",
+    "localBackupTimestamp": "2025-04-12T20:13:15.447Z"
+  },
+  {
+    "question": "Which Reiner Knizia auction game involves bidding on lots of Egyptian artifacts using sun tokens?",
+    "correct_answer": "Ra",
+    "incorrect_answers": [
+      "Amun-Re",
+      "Modern Art",
+      "Medici",
+      "High Society",
+      "Taj Mahal",
+      "Dream Factory (Traumfabrik)",
+      "Tigris & Euphrates"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Board Games",
+    "difficulty": "hard",
+    "id": "1f04b7f3-ae18-48b9-8a71-9db95516159a",
+    "created_at": "2025-04-13T02:13:15.450Z",
+    "backupTimestamp": "2025-04-13T02:13:15.450Z",
+    "localBackupTimestamp": "2025-04-12T20:13:15.450Z"
+  },
+  {
+    "question": "What is a 'meeple'?",
+    "correct_answer": "A small wooden or plastic pawn shaped like a person, popularized by Carcassonne",
+    "incorrect_answers": [
+      "A type of game tile",
+      "A custom die",
+      "A scoring marker",
+      "A deck of cards",
+      "A game board section",
+      "A resource token",
+      "A player screen"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Board Games",
+    "difficulty": "hard",
+    "id": "8b2a7e5b-4efd-43b2-a035-de1b9f5655a8",
+    "created_at": "2025-04-13T02:13:15.453Z",
+    "backupTimestamp": "2025-04-13T02:13:15.453Z",
+    "localBackupTimestamp": "2025-04-12T20:13:15.453Z"
+  },
+  {
+    "question": "Which game involves asymmetrical factions like the Marquise de Cat, Eyrie Dynasties, and Woodland Alliance vying for control?",
+    "correct_answer": "Root",
+    "incorrect_answers": [
+      "Scythe",
+      "Vast: The Crystal Caverns",
+      "Spirit Island",
+      "Cosmic Encounter",
+      "Kemet: Blood and Sand",
+      "Chaos in the Old World",
+      "Eclipse: Second Dawn for the Galaxy"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Board Games",
+    "difficulty": "hard",
+    "id": "ba95873b-64e5-4d0c-a681-f0c5245fa80d",
+    "created_at": "2025-04-13T02:13:15.456Z",
+    "backupTimestamp": "2025-04-13T02:13:15.457Z",
+    "localBackupTimestamp": "2025-04-12T20:13:15.457Z"
+  },
+  {
+    "question": "What is the 'Cthulhu Mythos' theme often associated with in board games?",
+    "correct_answer": "Cosmic horror, Ancient Ones, investigation, and sanity loss, based on H.P. Lovecraft's works",
+    "incorrect_answers": [
+      "High fantasy and dragon slaying",
+      "Space opera and galactic empires",
+      "Zombie apocalypse survival",
+      "Economic simulation and trading",
+      "Political intrigue and negotiation",
+      "Abstract strategy and pattern matching",
+      "Train routes and stock markets"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Board Games",
+    "difficulty": "hard",
+    "id": "62d0c1ee-b23f-40f1-95a4-c85ab25321db",
+    "created_at": "2025-04-13T02:13:15.460Z",
+    "backupTimestamp": "2025-04-13T02:13:15.460Z",
+    "localBackupTimestamp": "2025-04-12T20:13:15.460Z"
+  },
+  {
+    "question": "What is the term for a game component designed to randomize results, like dice or a spinner?",
+    "correct_answer": "Randomizer / Random Number Generator",
+    "incorrect_answers": [
+      "Input Randomness",
+      "Output Randomness",
+      "Game Engine",
+      "Action Selector",
+      "Resolution Mechanic",
+      "Chaos Element",
+      "Fate Determiner"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Board Games",
+    "difficulty": "hard",
+    "id": "4e286db8-315b-4480-a92e-72ebd9daa659",
+    "created_at": "2025-04-13T02:13:15.463Z",
+    "backupTimestamp": "2025-04-13T02:13:15.464Z",
+    "localBackupTimestamp": "2025-04-12T20:13:15.464Z"
+  },
+  {
+    "question": "Which Ryan Laukat game involves exploring a world map, reading from a storybook, and recruiting adventurers?",
+    "correct_answer": "Above and Below / Near and Far / Sleeping Gods",
+    "incorrect_answers": [
+      "Islebound",
+      "The Ancient World",
+      "Empires of the Void II",
+      "Eight-Minute Empire",
+      "City of Iron",
+      "Artifacts, Inc.",
+      "Roam"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Board Games",
+    "difficulty": "hard",
+    "id": "b64167ac-5e86-4364-8087-cfc615b5bc93",
+    "created_at": "2025-04-13T02:13:15.470Z",
+    "backupTimestamp": "2025-04-13T02:13:15.470Z",
+    "localBackupTimestamp": "2025-04-12T20:13:15.470Z"
+  },
+  {
+    "question": "What is the defining feature of the '18XX' genre of board games?",
+    "correct_answer": "Combining operational railroad building with complex stock market manipulation",
+    "incorrect_answers": [
+      "Deeply thematic storytelling",
+      "Cooperative puzzle solving",
+      "Fast-paced dice rolling combat",
+      "Abstract tile placement",
+      "Dexterity-based challenges",
+      "Hidden traitor mechanics",
+      "Real-time resource management"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Board Games",
+    "difficulty": "hard",
+    "id": "e083c342-5fff-4c86-a23d-d4f4cb738fc8",
+    "created_at": "2025-04-13T02:13:15.474Z",
+    "backupTimestamp": "2025-04-13T02:13:15.474Z",
+    "localBackupTimestamp": "2025-04-12T20:13:15.474Z"
+  },
+  {
+    "question": "Which influential wargame, first published in 1958 by Charles S. Roberts, is often considered the birth of modern commercial board wargaming?",
+    "correct_answer": "Tactics II / Gettysburg",
+    "incorrect_answers": [
+      "Risk",
+      "Diplomacy",
+      "Axis & Allies",
+      "Squad Leader",
+      "PanzerBlitz",
+      "Afrika Korps",
+      "D-Day"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Board Games",
+    "difficulty": "hard",
+    "id": "6d54a06b-5aa2-48fd-9d8e-28a80a961185",
+    "created_at": "2025-04-13T02:13:15.478Z",
+    "backupTimestamp": "2025-04-13T02:13:15.478Z",
+    "localBackupTimestamp": "2025-04-12T20:13:15.478Z"
   }
 ]
