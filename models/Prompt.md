@@ -1,0 +1,10 @@
+- Provide 165 unique trivia questions in JSON format.
+- Each question should have the following properties:
+  - question
+  - correct_answer
+  - incorrect_answers (JSON array of 7 incorrect answers)
+  - main_category
+  - subcategory
+  - difficulty (easy, medium, hard)
+- The questions should be equally distributed between easy, medium, and hard.
+- All questions should be in the category of "Pop Culture" and the subcategory of "Movies".
