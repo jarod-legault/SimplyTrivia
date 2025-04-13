@@ -3158,5 +3158,3065 @@
     "created_at": "2025-04-13T21:30:04.629Z",
     "backupTimestamp": "2025-04-13T21:30:04.629Z",
     "localBackupTimestamp": "2025-04-13T15:30:04.629Z"
+  },
+  {
+    "question": "What is the chemical symbol for the element Gold?",
+    "correct_answer": "Au",
+    "incorrect_answers": [
+      "Go",
+      "Ag",
+      "Gd",
+      "Ge",
+      "Au",
+      "Pb",
+      "Fe"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Chemistry",
+    "difficulty": "easy",
+    "id": "bb658bc8-34cd-4dd7-a638-b726c8db9651",
+    "created_at": "2025-04-13T22:00:57.683Z",
+    "backupTimestamp": "2025-04-13T22:00:57.685Z",
+    "localBackupTimestamp": "2025-04-13T16:00:57.685Z"
+  },
+  {
+    "question": "What is the most abundant chemical element in Earth's atmosphere?",
+    "correct_answer": "Nitrogen",
+    "incorrect_answers": [
+      "Oxygen",
+      "Argon",
+      "Carbon Dioxide",
+      "Hydrogen",
+      "Helium",
+      "Ozone",
+      "Water Vapor"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Chemistry",
+    "difficulty": "easy",
+    "id": "66521747-95d0-42ff-9b7a-d761d7ce2109",
+    "created_at": "2025-04-13T22:00:57.688Z",
+    "backupTimestamp": "2025-04-13T22:00:57.690Z",
+    "localBackupTimestamp": "2025-04-13T16:00:57.690Z"
+  },
+  {
+    "question": "What is the common name for the chemical compound NaCl?",
+    "correct_answer": "Table Salt",
+    "incorrect_answers": [
+      "Sugar",
+      "Baking Soda",
+      "Vinegar",
+      "Bleach",
+      "Ammonia",
+      "Sand",
+      "Chalk"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Chemistry",
+    "difficulty": "easy",
+    "id": "c49b5108-b5c9-4ef5-8a54-5bd2b4133f9f",
+    "created_at": "2025-04-13T22:00:57.693Z",
+    "backupTimestamp": "2025-04-13T22:00:57.694Z",
+    "localBackupTimestamp": "2025-04-13T16:00:57.694Z"
+  },
+  {
+    "question": "What number represents the neutral point on the pH scale?",
+    "correct_answer": "7",
+    "incorrect_answers": [
+      "0",
+      "1",
+      "14",
+      "10",
+      "5",
+      "3",
+      "9"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Chemistry",
+    "difficulty": "easy",
+    "id": "76343c18-646f-4878-a256-228c4c0da1a0",
+    "created_at": "2025-04-13T22:00:57.696Z",
+    "backupTimestamp": "2025-04-13T22:00:57.697Z",
+    "localBackupTimestamp": "2025-04-13T16:00:57.697Z"
+  },
+  {
+    "question": "What state of matter has a definite volume but no definite shape?",
+    "correct_answer": "Liquid",
+    "incorrect_answers": [
+      "Solid",
+      "Gas",
+      "Plasma",
+      "Bose-Einstein Condensate",
+      "Superfluid",
+      "Crystal",
+      "Amorphous Solid"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Chemistry",
+    "difficulty": "easy",
+    "id": "6b63dbb6-2965-4420-9ec7-7ff3d6f66f49",
+    "created_at": "2025-04-13T22:00:57.699Z",
+    "backupTimestamp": "2025-04-13T22:00:57.700Z",
+    "localBackupTimestamp": "2025-04-13T16:00:57.700Z"
+  },
+  {
+    "question": "What is the chemical formula for water?",
+    "correct_answer": "H₂O",
+    "incorrect_answers": [
+      "CO₂",
+      "O₂",
+      "H₂O₂",
+      "CH₄",
+      "NaCl",
+      "HCl",
+      "NH₃"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Chemistry",
+    "difficulty": "easy",
+    "id": "fa6cf504-ffa9-4100-bad3-7ae932d25888",
+    "created_at": "2025-04-13T22:00:57.701Z",
+    "backupTimestamp": "2025-04-13T22:00:57.702Z",
+    "localBackupTimestamp": "2025-04-13T16:00:57.702Z"
+  },
+  {
+    "question": "What is the positively charged particle found in the nucleus of an atom?",
+    "correct_answer": "Proton",
+    "incorrect_answers": [
+      "Electron",
+      "Neutron",
+      "Photon",
+      "Positron",
+      "Quark",
+      "Neutrino",
+      "Ion"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Chemistry",
+    "difficulty": "easy",
+    "id": "83e6a757-f868-40ba-a3e0-aee69fb16307",
+    "created_at": "2025-04-13T22:00:57.704Z",
+    "backupTimestamp": "2025-04-13T22:00:57.705Z",
+    "localBackupTimestamp": "2025-04-13T16:00:57.705Z"
+  },
+  {
+    "question": "What type of chemical bond involves the sharing of electron pairs between atoms?",
+    "correct_answer": "Covalent Bond",
+    "incorrect_answers": [
+      "Ionic Bond",
+      "Metallic Bond",
+      "Hydrogen Bond",
+      "Van der Waals Force",
+      "Peptide Bond",
+      "Glycosidic Bond",
+      "Ester Bond"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Chemistry",
+    "difficulty": "easy",
+    "id": "de6a8cd4-c775-4804-9e54-5a5c294724c9",
+    "created_at": "2025-04-13T22:00:57.706Z",
+    "backupTimestamp": "2025-04-13T22:00:57.707Z",
+    "localBackupTimestamp": "2025-04-13T16:00:57.707Z"
+  },
+  {
+    "question": "What is the process of a substance changing from a liquid to a gas called?",
+    "correct_answer": "Evaporation / Boiling",
+    "incorrect_answers": [
+      "Condensation",
+      "Freezing",
+      "Melting",
+      "Sublimation",
+      "Deposition",
+      "Solidification",
+      "Fusion"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Chemistry",
+    "difficulty": "easy",
+    "id": "ec35ee35-2e15-4619-bd46-ba409dd1b6f1",
+    "created_at": "2025-04-13T22:00:57.709Z",
+    "backupTimestamp": "2025-04-13T22:00:57.711Z",
+    "localBackupTimestamp": "2025-04-13T16:00:57.711Z"
+  },
+  {
+    "question": "Substances with a pH less than 7 are considered what?",
+    "correct_answer": "Acidic",
+    "incorrect_answers": [
+      "Basic (Alkaline)",
+      "Neutral",
+      "Salty",
+      "Sweet",
+      "Metallic",
+      "Inert",
+      "Radioactive"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Chemistry",
+    "difficulty": "easy",
+    "id": "5a3dbd58-5d7b-4053-a8f9-359ffc80f82e",
+    "created_at": "2025-04-13T22:00:57.715Z",
+    "backupTimestamp": "2025-04-13T22:00:57.716Z",
+    "localBackupTimestamp": "2025-04-13T16:00:57.716Z"
+  },
+  {
+    "question": "What is the smallest unit of a chemical element that retains the properties of that element?",
+    "correct_answer": "Atom",
+    "incorrect_answers": [
+      "Molecule",
+      "Compound",
+      "Ion",
+      "Proton",
+      "Electron",
+      "Neutron",
+      "Element"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Chemistry",
+    "difficulty": "easy",
+    "id": "57bc1b3e-e5bb-458d-afc9-c3836254e0e9",
+    "created_at": "2025-04-13T22:00:57.721Z",
+    "backupTimestamp": "2025-04-13T22:00:57.722Z",
+    "localBackupTimestamp": "2025-04-13T16:00:57.722Z"
+  },
+  {
+    "question": "What gas do plants release during photosynthesis?",
+    "correct_answer": "Oxygen",
+    "incorrect_answers": [
+      "Carbon Dioxide",
+      "Nitrogen",
+      "Hydrogen",
+      "Methane",
+      "Water Vapor",
+      "Ozone",
+      "Helium"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Chemistry",
+    "difficulty": "easy",
+    "id": "7978922d-4c48-4109-a362-a77d5ff8c972",
+    "created_at": "2025-04-13T22:00:57.724Z",
+    "backupTimestamp": "2025-04-13T22:00:57.727Z",
+    "localBackupTimestamp": "2025-04-13T16:00:57.727Z"
+  },
+  {
+    "question": "What is formed when two or more different elements chemically combine?",
+    "correct_answer": "Compound",
+    "incorrect_answers": [
+      "Mixture",
+      "Solution",
+      "Element",
+      "Atom",
+      "Molecule",
+      "Isotope",
+      "Alloy"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Chemistry",
+    "difficulty": "easy",
+    "id": "c9bac079-7726-4d13-9bfe-bc94c1c68fc7",
+    "created_at": "2025-04-13T22:00:57.732Z",
+    "backupTimestamp": "2025-04-13T22:00:57.733Z",
+    "localBackupTimestamp": "2025-04-13T16:00:57.733Z"
+  },
+  {
+    "question": "What is the chemical symbol for Iron?",
+    "correct_answer": "Fe",
+    "incorrect_answers": [
+      "Ir",
+      "I",
+      "In",
+      "Au",
+      "Ag",
+      "Pb",
+      "Sn"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Chemistry",
+    "difficulty": "easy",
+    "id": "a0504a17-18ad-4863-b112-0d337f4323aa",
+    "created_at": "2025-04-13T22:00:57.735Z",
+    "backupTimestamp": "2025-04-13T22:00:57.735Z",
+    "localBackupTimestamp": "2025-04-13T16:00:57.735Z"
+  },
+  {
+    "question": "What state of matter has particles that are tightly packed and vibrate in fixed positions?",
+    "correct_answer": "Solid",
+    "incorrect_answers": [
+      "Liquid",
+      "Gas",
+      "Plasma",
+      "Supercritical Fluid",
+      "Bose-Einstein Condensate",
+      "Solution",
+      "Colloid"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Chemistry",
+    "difficulty": "easy",
+    "id": "42f732cc-1fe6-4f27-a720-7b7338333d91",
+    "created_at": "2025-04-13T22:00:57.739Z",
+    "backupTimestamp": "2025-04-13T22:00:57.740Z",
+    "localBackupTimestamp": "2025-04-13T16:00:57.740Z"
+  },
+  {
+    "question": "What is the chemical formula for Carbon Dioxide?",
+    "correct_answer": "CO₂",
+    "incorrect_answers": [
+      "CO",
+      "C₂O",
+      "H₂O",
+      "O₂",
+      "CH₄",
+      "SO₂",
+      "CaCO₃"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Chemistry",
+    "difficulty": "easy",
+    "id": "ec5f1651-ab74-42ec-a2ac-bb48246b5b97",
+    "created_at": "2025-04-13T22:00:57.743Z",
+    "backupTimestamp": "2025-04-13T22:00:57.744Z",
+    "localBackupTimestamp": "2025-04-13T16:00:57.744Z"
+  },
+  {
+    "question": "What is the particle in an atom's nucleus that has no electrical charge?",
+    "correct_answer": "Neutron",
+    "incorrect_answers": [
+      "Proton",
+      "Electron",
+      "Photon",
+      "Neutrino",
+      "Quark",
+      "Positron",
+      "Meson"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Chemistry",
+    "difficulty": "easy",
+    "id": "2bb263a6-5405-4bfc-b10f-66c5621431ef",
+    "created_at": "2025-04-13T22:00:57.749Z",
+    "backupTimestamp": "2025-04-13T22:00:57.749Z",
+    "localBackupTimestamp": "2025-04-13T16:00:57.749Z"
+  },
+  {
+    "question": "What type of change occurs when ice melts into water?",
+    "correct_answer": "Physical Change",
+    "incorrect_answers": [
+      "Chemical Change",
+      "Nuclear Change",
+      "Biological Change",
+      "Phase Transition",
+      "Sublimation",
+      "Reaction",
+      "Combustion"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Chemistry",
+    "difficulty": "easy",
+    "id": "9b83ece1-71c5-4a66-bf4f-55f50081cd2e",
+    "created_at": "2025-04-13T22:00:57.751Z",
+    "backupTimestamp": "2025-04-13T22:00:57.752Z",
+    "localBackupTimestamp": "2025-04-13T16:00:57.752Z"
+  },
+  {
+    "question": "What precious metal has the chemical symbol Ag?",
+    "correct_answer": "Silver",
+    "incorrect_answers": [
+      "Gold",
+      "Platinum",
+      "Argon",
+      "Aluminum",
+      "Lead",
+      "Tin",
+      "Copper"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Chemistry",
+    "difficulty": "easy",
+    "id": "4679d730-e443-4876-823a-a7d835ce375a",
+    "created_at": "2025-04-13T22:00:57.754Z",
+    "backupTimestamp": "2025-04-13T22:00:57.754Z",
+    "localBackupTimestamp": "2025-04-13T16:00:57.754Z"
+  },
+  {
+    "question": "What term describes a substance that dissolves in a solvent to form a solution?",
+    "correct_answer": "Solute",
+    "incorrect_answers": [
+      "Solvent",
+      "Solution",
+      "Mixture",
+      "Suspension",
+      "Colloid",
+      "Precipitate",
+      "Reactant"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Chemistry",
+    "difficulty": "easy",
+    "id": "b86b9f7c-e02c-4ebf-80f0-2db42c217e95",
+    "created_at": "2025-04-13T22:00:57.755Z",
+    "backupTimestamp": "2025-04-13T22:00:57.756Z",
+    "localBackupTimestamp": "2025-04-13T16:00:57.756Z"
+  },
+  {
+    "question": "What gas makes up the bubbles in fizzy drinks?",
+    "correct_answer": "Carbon Dioxide",
+    "incorrect_answers": [
+      "Oxygen",
+      "Nitrogen",
+      "Hydrogen",
+      "Helium",
+      "Air",
+      "Methane",
+      "Nitrous Oxide"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Chemistry",
+    "difficulty": "easy",
+    "id": "a9c1c56c-c37a-41c0-b313-9f5b323f34f1",
+    "created_at": "2025-04-13T22:00:57.758Z",
+    "backupTimestamp": "2025-04-13T22:00:57.758Z",
+    "localBackupTimestamp": "2025-04-13T16:00:57.758Z"
+  },
+  {
+    "question": "What chart organizes chemical elements by atomic number and properties?",
+    "correct_answer": "Periodic Table",
+    "incorrect_answers": [
+      "Flow Chart",
+      "Pie Chart",
+      "Bar Graph",
+      "Spectroscopy Chart",
+      "Phase Diagram",
+      "Titration Curve",
+      "Electronegativity Scale"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Chemistry",
+    "difficulty": "easy",
+    "id": "d0ee7d10-84f0-4c7d-a72a-4d16ffac2d1a",
+    "created_at": "2025-04-13T22:00:57.762Z",
+    "backupTimestamp": "2025-04-13T22:00:57.762Z",
+    "localBackupTimestamp": "2025-04-13T16:00:57.762Z"
+  },
+  {
+    "question": "What is the common term for H₂O₂?",
+    "correct_answer": "Hydrogen Peroxide",
+    "incorrect_answers": [
+      "Water",
+      "Heavy Water",
+      "Hydrochloric Acid",
+      "Sulfuric Acid",
+      "Bleach",
+      "Ammonia",
+      "Vinegar"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Chemistry",
+    "difficulty": "easy",
+    "id": "bb36b27c-d6cf-483d-8d89-0b34e716ac86",
+    "created_at": "2025-04-13T22:00:57.764Z",
+    "backupTimestamp": "2025-04-13T22:00:57.764Z",
+    "localBackupTimestamp": "2025-04-13T16:00:57.764Z"
+  },
+  {
+    "question": "What is formed when an acid reacts with a base?",
+    "correct_answer": "Salt and Water",
+    "incorrect_answers": [
+      "Acid only",
+      "Base only",
+      "Gas and Water",
+      "Precipitate",
+      "A stronger acid",
+      "A stronger base",
+      "Oxygen and Hydrogen"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Chemistry",
+    "difficulty": "easy",
+    "id": "126b2c18-2af4-4c1a-b18a-8c08f2032d1a",
+    "created_at": "2025-04-13T22:00:57.766Z",
+    "backupTimestamp": "2025-04-13T22:00:57.766Z",
+    "localBackupTimestamp": "2025-04-13T16:00:57.766Z"
+  },
+  {
+    "question": "What is the process where a solid changes directly into a gas?",
+    "correct_answer": "Sublimation",
+    "incorrect_answers": [
+      "Evaporation",
+      "Condensation",
+      "Melting",
+      "Freezing",
+      "Deposition",
+      "Boiling",
+      "Vaporization"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Chemistry",
+    "difficulty": "easy",
+    "id": "d78b704f-f794-440a-bf5a-70b788769141",
+    "created_at": "2025-04-13T22:00:57.768Z",
+    "backupTimestamp": "2025-04-13T22:00:57.768Z",
+    "localBackupTimestamp": "2025-04-13T16:00:57.768Z"
+  },
+  {
+    "question": "What is the main component of natural gas?",
+    "correct_answer": "Methane (CH₄)",
+    "incorrect_answers": [
+      "Ethane (C₂H₆)",
+      "Propane (C₃H₈)",
+      "Butane (C₄H₁₀)",
+      "Carbon Dioxide (CO₂)",
+      "Hydrogen Sulfide (H₂S)",
+      "Nitrogen (N₂)",
+      "Helium (He)"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Chemistry",
+    "difficulty": "easy",
+    "id": "364d1f42-2280-4131-9e6b-21e3a0f8a051",
+    "created_at": "2025-04-13T22:00:57.770Z",
+    "backupTimestamp": "2025-04-13T22:00:57.770Z",
+    "localBackupTimestamp": "2025-04-13T16:00:57.770Z"
+  },
+  {
+    "question": "What is the negatively charged particle orbiting an atom's nucleus?",
+    "correct_answer": "Electron",
+    "incorrect_answers": [
+      "Proton",
+      "Neutron",
+      "Photon",
+      "Positron",
+      "Muon",
+      "Ion",
+      "Quark"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Chemistry",
+    "difficulty": "easy",
+    "id": "df5df4f2-af51-43b8-8656-e0d89d6d90e8",
+    "created_at": "2025-04-13T22:00:57.771Z",
+    "backupTimestamp": "2025-04-13T22:00:57.771Z",
+    "localBackupTimestamp": "2025-04-13T16:00:57.771Z"
+  },
+  {
+    "question": "Substances with a pH greater than 7 are considered what?",
+    "correct_answer": "Basic (Alkaline)",
+    "incorrect_answers": [
+      "Acidic",
+      "Neutral",
+      "Salty",
+      "Corrosive",
+      "Reactive",
+      "Inert",
+      "Amphoteric"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Chemistry",
+    "difficulty": "easy",
+    "id": "737ce7b9-7a90-46f5-87c2-07295cb5036b",
+    "created_at": "2025-04-13T22:00:57.772Z",
+    "backupTimestamp": "2025-04-13T22:00:57.773Z",
+    "localBackupTimestamp": "2025-04-13T16:00:57.773Z"
+  },
+  {
+    "question": "What element is essential for combustion to occur?",
+    "correct_answer": "Oxygen",
+    "incorrect_answers": [
+      "Nitrogen",
+      "Hydrogen",
+      "Carbon",
+      "Helium",
+      "Argon",
+      "Sulfur",
+      "Fuel"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Chemistry",
+    "difficulty": "easy",
+    "id": "3f1ca349-50d0-4fff-bf13-68d5b1970b4d",
+    "created_at": "2025-04-13T22:00:57.774Z",
+    "backupTimestamp": "2025-04-13T22:00:57.774Z",
+    "localBackupTimestamp": "2025-04-13T16:00:57.774Z"
+  },
+  {
+    "question": "What is the chemical symbol for Sodium?",
+    "correct_answer": "Na",
+    "incorrect_answers": [
+      "So",
+      "S",
+      "N",
+      "K",
+      "Mg",
+      "Ca",
+      "Cl"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Chemistry",
+    "difficulty": "easy",
+    "id": "b3da11b3-ac0c-4ec3-986b-7e52efefe43a",
+    "created_at": "2025-04-13T22:00:57.776Z",
+    "backupTimestamp": "2025-04-13T22:00:57.776Z",
+    "localBackupTimestamp": "2025-04-13T16:00:57.776Z"
+  },
+  {
+    "question": "What type of bond is formed by the electrostatic attraction between oppositely charged ions?",
+    "correct_answer": "Ionic Bond",
+    "incorrect_answers": [
+      "Covalent Bond",
+      "Metallic Bond",
+      "Hydrogen Bond",
+      "Van der Waals Force",
+      "Dipole-Dipole Interaction",
+      "London Dispersion Force",
+      "Sigma Bond"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Chemistry",
+    "difficulty": "easy",
+    "id": "8359c1b0-5f0b-4ffb-bb8e-54137fde7488",
+    "created_at": "2025-04-13T22:00:57.778Z",
+    "backupTimestamp": "2025-04-13T22:00:57.778Z",
+    "localBackupTimestamp": "2025-04-13T16:00:57.778Z"
+  },
+  {
+    "question": "What is the term for a substance made of only one type of atom?",
+    "correct_answer": "Element",
+    "incorrect_answers": [
+      "Compound",
+      "Mixture",
+      "Molecule",
+      "Solution",
+      "Isotope",
+      "Ion",
+      "Atom"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Chemistry",
+    "difficulty": "easy",
+    "id": "3066d89d-71a2-4c12-b45a-8e3b867a7309",
+    "created_at": "2025-04-13T22:00:57.780Z",
+    "backupTimestamp": "2025-04-13T22:00:57.780Z",
+    "localBackupTimestamp": "2025-04-13T16:00:57.780Z"
+  },
+  {
+    "question": "What is the process of a gas changing into a liquid called?",
+    "correct_answer": "Condensation",
+    "incorrect_answers": [
+      "Evaporation",
+      "Boiling",
+      "Sublimation",
+      "Deposition",
+      "Freezing",
+      "Melting",
+      "Liquefaction"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Chemistry",
+    "difficulty": "easy",
+    "id": "d0e6a9da-7ef3-4033-a723-2ea50166425a",
+    "created_at": "2025-04-13T22:00:57.782Z",
+    "backupTimestamp": "2025-04-13T22:00:57.783Z",
+    "localBackupTimestamp": "2025-04-13T16:00:57.783Z"
+  },
+  {
+    "question": "What is the chemical symbol for Potassium?",
+    "correct_answer": "K",
+    "incorrect_answers": [
+      "P",
+      "Po",
+      "Pt",
+      "Na",
+      "Ca",
+      "Mg",
+      "S"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Chemistry",
+    "difficulty": "easy",
+    "id": "f5143034-b27c-4dfa-af8d-e75632558617",
+    "created_at": "2025-04-13T22:00:57.785Z",
+    "backupTimestamp": "2025-04-13T22:00:57.785Z",
+    "localBackupTimestamp": "2025-04-13T16:00:57.785Z"
+  },
+  {
+    "question": "What common household substance is chemically known as acetic acid?",
+    "correct_answer": "Vinegar",
+    "incorrect_answers": [
+      "Baking Soda",
+      "Table Salt",
+      "Sugar",
+      "Lemon Juice",
+      "Bleach",
+      "Ammonia",
+      "Rubbing Alcohol"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Chemistry",
+    "difficulty": "easy",
+    "id": "7361102e-70be-43ee-9350-e09d42ac4479",
+    "created_at": "2025-04-13T22:00:57.787Z",
+    "backupTimestamp": "2025-04-13T22:00:57.788Z",
+    "localBackupTimestamp": "2025-04-13T16:00:57.788Z"
+  },
+  {
+    "question": "What is the center part of an atom called?",
+    "correct_answer": "Nucleus",
+    "incorrect_answers": [
+      "Electron Cloud",
+      "Orbital",
+      "Shell",
+      "Core",
+      "Kernel",
+      "Mitochondrion",
+      "Proton"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Chemistry",
+    "difficulty": "easy",
+    "id": "20894937-8150-42be-a59e-4d2715ec3386",
+    "created_at": "2025-04-13T22:00:57.789Z",
+    "backupTimestamp": "2025-04-13T22:00:57.789Z",
+    "localBackupTimestamp": "2025-04-13T16:00:57.789Z"
+  },
+  {
+    "question": "What state of matter has particles that move freely and fill their container completely?",
+    "correct_answer": "Gas",
+    "incorrect_answers": [
+      "Liquid",
+      "Solid",
+      "Plasma",
+      "Superfluid",
+      "Crystal",
+      "Gel",
+      "Foam"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Chemistry",
+    "difficulty": "easy",
+    "id": "1afaf0a4-f2d8-4ad2-8e1c-c0bd5afbc4af",
+    "created_at": "2025-04-13T22:00:57.791Z",
+    "backupTimestamp": "2025-04-13T22:00:57.791Z",
+    "localBackupTimestamp": "2025-04-13T16:00:57.791Z"
+  },
+  {
+    "question": "What common metal is known for rusting?",
+    "correct_answer": "Iron",
+    "incorrect_answers": [
+      "Aluminum",
+      "Copper",
+      "Gold",
+      "Silver",
+      "Zinc",
+      "Lead",
+      "Tin"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Chemistry",
+    "difficulty": "easy",
+    "id": "231208fc-d7f0-4177-ad09-5306e1ea6799",
+    "created_at": "2025-04-13T22:00:57.794Z",
+    "backupTimestamp": "2025-04-13T22:00:57.794Z",
+    "localBackupTimestamp": "2025-04-13T16:00:57.794Z"
+  },
+  {
+    "question": "What scale measures the acidity or alkalinity of a solution?",
+    "correct_answer": "pH scale",
+    "incorrect_answers": [
+      "Richter scale",
+      "Celsius scale",
+      "Kelvin scale",
+      "Mohs scale",
+      "Beaufort scale",
+      "Decibel scale",
+      "Electronegativity scale"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Chemistry",
+    "difficulty": "easy",
+    "id": "bab49803-a8f9-4693-82fc-bc01bfb7241c",
+    "created_at": "2025-04-13T22:00:57.795Z",
+    "backupTimestamp": "2025-04-13T22:00:57.796Z",
+    "localBackupTimestamp": "2025-04-13T16:00:57.796Z"
+  },
+  {
+    "question": "What are atoms of the same element with different numbers of neutrons called?",
+    "correct_answer": "Isotopes",
+    "incorrect_answers": [
+      "Ions",
+      "Molecules",
+      "Compounds",
+      "Allotropes",
+      "Isomers",
+      "Polymers",
+      "Cations"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Chemistry",
+    "difficulty": "easy",
+    "id": "9c4171e7-f67a-45f7-9e8d-7d833a8ced99",
+    "created_at": "2025-04-13T22:00:57.797Z",
+    "backupTimestamp": "2025-04-13T22:00:57.798Z",
+    "localBackupTimestamp": "2025-04-13T16:00:57.798Z"
+  },
+  {
+    "question": "What is the chemical symbol for Lead?",
+    "correct_answer": "Pb",
+    "incorrect_answers": [
+      "Ld",
+      "Le",
+      "P",
+      "Ag",
+      "Au",
+      "Fe",
+      "Sn"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Chemistry",
+    "difficulty": "easy",
+    "id": "f5d2f9ee-931d-450f-90c6-22dd1cc790ad",
+    "created_at": "2025-04-13T22:00:57.800Z",
+    "backupTimestamp": "2025-04-13T22:00:57.800Z",
+    "localBackupTimestamp": "2025-04-13T16:00:57.800Z"
+  },
+  {
+    "question": "What type of reaction releases heat into the surroundings?",
+    "correct_answer": "Exothermic Reaction",
+    "incorrect_answers": [
+      "Endothermic Reaction",
+      "Neutralization Reaction",
+      "Redox Reaction",
+      "Precipitation Reaction",
+      "Combustion Reaction",
+      "Synthesis Reaction",
+      "Decomposition Reaction"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Chemistry",
+    "difficulty": "easy",
+    "id": "3a46ef61-d9ad-4ab8-84ce-23edbfd83c22",
+    "created_at": "2025-04-13T22:00:57.803Z",
+    "backupTimestamp": "2025-04-13T22:00:57.803Z",
+    "localBackupTimestamp": "2025-04-13T16:00:57.803Z"
+  },
+  {
+    "question": "What is the main gas responsible for the greenhouse effect on Earth?",
+    "correct_answer": "Carbon Dioxide (CO₂)",
+    "incorrect_answers": [
+      "Oxygen (O₂)",
+      "Nitrogen (N₂)",
+      "Methane (CH₄)",
+      "Water Vapor (H₂O)",
+      "Ozone (O₃)",
+      "Nitrous Oxide (N₂O)",
+      "Sulfur Dioxide (SO₂)"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Chemistry",
+    "difficulty": "easy",
+    "id": "99f4d6c6-4b2f-4f0e-a3ed-2913a3e3e415",
+    "created_at": "2025-04-13T22:00:57.804Z",
+    "backupTimestamp": "2025-04-13T22:00:57.804Z",
+    "localBackupTimestamp": "2025-04-13T16:00:57.804Z"
+  },
+  {
+    "question": "What is the universal solvent, capable of dissolving many substances?",
+    "correct_answer": "Water",
+    "incorrect_answers": [
+      "Alcohol",
+      "Acetone",
+      "Hexane",
+      "Ammonia",
+      "Sulfuric Acid",
+      "Ethanol",
+      "Turpentine"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Chemistry",
+    "difficulty": "easy",
+    "id": "28478ff2-0162-41e2-a2f9-010f8939643b",
+    "created_at": "2025-04-13T22:00:57.806Z",
+    "backupTimestamp": "2025-04-13T22:00:57.806Z",
+    "localBackupTimestamp": "2025-04-13T16:00:57.806Z"
+  },
+  {
+    "question": "What is the common name for sodium bicarbonate?",
+    "correct_answer": "Baking Soda",
+    "incorrect_answers": [
+      "Table Salt",
+      "Vinegar",
+      "Washing Soda",
+      "Cream of Tartar",
+      "Bleach",
+      "Lye",
+      "Epsom Salt"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Chemistry",
+    "difficulty": "easy",
+    "id": "8fa2cc48-df36-438c-b89f-c48c322c9eb6",
+    "created_at": "2025-04-13T22:00:57.808Z",
+    "backupTimestamp": "2025-04-13T22:00:57.808Z",
+    "localBackupTimestamp": "2025-04-13T16:00:57.808Z"
+  },
+  {
+    "question": "What is the number of protons in an atom's nucleus called?",
+    "correct_answer": "Atomic Number",
+    "incorrect_answers": [
+      "Mass Number",
+      "Atomic Mass",
+      "Isotope Number",
+      "Neutron Number",
+      "Valence Number",
+      "Oxidation State",
+      "Charge Number"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Chemistry",
+    "difficulty": "easy",
+    "id": "a3a167ab-4536-4501-a186-bc4640eb2566",
+    "created_at": "2025-04-13T22:00:57.811Z",
+    "backupTimestamp": "2025-04-13T22:00:57.812Z",
+    "localBackupTimestamp": "2025-04-13T16:00:57.812Z"
+  },
+  {
+    "question": "What is the process of coating a metal, typically iron or steel, with a layer of zinc called?",
+    "correct_answer": "Galvanization",
+    "incorrect_answers": [
+      "Electroplating",
+      "Anodizing",
+      "Oxidation",
+      "Alloying",
+      "Tempering",
+      "Annealing",
+      "Smelting"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Chemistry",
+    "difficulty": "medium",
+    "id": "30a82dd5-626f-4758-8aac-0a7d0cccf062",
+    "created_at": "2025-04-13T22:00:57.813Z",
+    "backupTimestamp": "2025-04-13T22:00:57.813Z",
+    "localBackupTimestamp": "2025-04-13T16:00:57.813Z"
+  },
+  {
+    "question": "What is Avogadro's number approximately equal to?",
+    "correct_answer": "6.022 x 10²³",
+    "incorrect_answers": [
+      "3.141 x 10¹⁵",
+      "2.718 x 10¹⁰",
+      "9.81 x 10⁶",
+      "1.602 x 10⁻¹⁹",
+      "6.626 x 10⁻³⁴",
+      "1.000 x 10⁰",
+      "8.314 x 10³"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Chemistry",
+    "difficulty": "medium",
+    "id": "32941de5-3b84-4b1d-93b7-bf85c4f2bfab",
+    "created_at": "2025-04-13T22:00:57.815Z",
+    "backupTimestamp": "2025-04-13T22:00:57.815Z",
+    "localBackupTimestamp": "2025-04-13T16:00:57.815Z"
+  },
+  {
+    "question": "What type of alcohol is found in alcoholic beverages?",
+    "correct_answer": "Ethanol",
+    "incorrect_answers": [
+      "Methanol",
+      "Isopropanol",
+      "Butanol",
+      "Glycerol",
+      "Phenol",
+      "Ethylene Glycol",
+      "Propanol"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Chemistry",
+    "difficulty": "medium",
+    "id": "ea008bff-6d81-4e0e-ad78-093178a23e33",
+    "created_at": "2025-04-13T22:00:57.816Z",
+    "backupTimestamp": "2025-04-13T22:00:57.817Z",
+    "localBackupTimestamp": "2025-04-13T16:00:57.817Z"
+  },
+  {
+    "question": "What principle states that energy cannot be created or destroyed, only transformed?",
+    "correct_answer": "First Law of Thermodynamics (Conservation of Energy)",
+    "incorrect_answers": [
+      "Second Law of Thermodynamics",
+      "Third Law of Thermodynamics",
+      "Law of Conservation of Mass",
+      "Ideal Gas Law",
+      "Heisenberg Uncertainty Principle",
+      "Pauli Exclusion Principle",
+      "Avogadro's Law"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Chemistry",
+    "difficulty": "medium",
+    "id": "fe93b85a-3732-4827-a7c1-ebe62401f7df",
+    "created_at": "2025-04-13T22:00:57.818Z",
+    "backupTimestamp": "2025-04-13T22:00:57.818Z",
+    "localBackupTimestamp": "2025-04-13T16:00:57.818Z"
+  },
+  {
+    "question": "What are molecules with the same chemical formula but different structural arrangements called?",
+    "correct_answer": "Isomers",
+    "incorrect_answers": [
+      "Isotopes",
+      "Allotropes",
+      "Polymers",
+      "Homologues",
+      "Analogues",
+      "Enantiomers",
+      "Diastereomers"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Chemistry",
+    "difficulty": "medium",
+    "id": "7476429f-deca-4a5d-bf89-bae2c2f09386",
+    "created_at": "2025-04-13T22:00:57.820Z",
+    "backupTimestamp": "2025-04-13T22:00:57.820Z",
+    "localBackupTimestamp": "2025-04-13T16:00:57.820Z"
+  },
+  {
+    "question": "What does the 'M' stand for in the concentration unit 'Molarity'?",
+    "correct_answer": "Moles per liter",
+    "incorrect_answers": [
+      "Mass per liter",
+      "Milliliters per liter",
+      "Molecules per liter",
+      "Moles per kilogram",
+      "Mass per volume",
+      "Molar mass",
+      "Mega-"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Chemistry",
+    "difficulty": "medium",
+    "id": "b1e31993-15c4-42dc-ac71-898bd4a1a700",
+    "created_at": "2025-04-13T22:00:57.822Z",
+    "backupTimestamp": "2025-04-13T22:00:57.822Z",
+    "localBackupTimestamp": "2025-04-13T16:00:57.822Z"
+  },
+  {
+    "question": "Which group of elements on the periodic table are known for being highly unreactive gases?",
+    "correct_answer": "Noble Gases",
+    "incorrect_answers": [
+      "Alkali Metals",
+      "Alkaline Earth Metals",
+      "Halogens",
+      "Transition Metals",
+      "Lanthanides",
+      "Actinides",
+      "Metalloids"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Chemistry",
+    "difficulty": "medium",
+    "id": "8a55bde5-3e81-49e1-8864-b3509f8f3dea",
+    "created_at": "2025-04-13T22:00:57.823Z",
+    "backupTimestamp": "2025-04-13T22:00:57.824Z",
+    "localBackupTimestamp": "2025-04-13T16:00:57.824Z"
+  },
+  {
+    "question": "What type of chemical reaction involves the loss of electrons?",
+    "correct_answer": "Oxidation",
+    "incorrect_answers": [
+      "Reduction",
+      "Neutralization",
+      "Precipitation",
+      "Combustion",
+      "Hydrolysis",
+      "Synthesis",
+      "Decomposition"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Chemistry",
+    "difficulty": "medium",
+    "id": "cb45b94d-29d9-471b-b2a3-dbe697e97499",
+    "created_at": "2025-04-13T22:00:57.825Z",
+    "backupTimestamp": "2025-04-13T22:00:57.825Z",
+    "localBackupTimestamp": "2025-04-13T16:00:57.825Z"
+  },
+  {
+    "question": "What is the main structural component of plant cell walls?",
+    "correct_answer": "Cellulose",
+    "incorrect_answers": [
+      "Chitin",
+      "Peptidoglycan",
+      "Keratin",
+      "Lignin",
+      "Starch",
+      "Glycogen",
+      "Lipids"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Chemistry",
+    "difficulty": "medium",
+    "id": "f63d73b3-1de6-4587-baa8-7d9bb62176a2",
+    "created_at": "2025-04-13T22:00:57.827Z",
+    "backupTimestamp": "2025-04-13T22:00:57.827Z",
+    "localBackupTimestamp": "2025-04-13T16:00:57.827Z"
+  },
+  {
+    "question": "What is the process used to separate components of a liquid mixture based on differences in boiling points?",
+    "correct_answer": "Distillation",
+    "incorrect_answers": [
+      "Filtration",
+      "Chromatography",
+      "Evaporation",
+      "Crystallization",
+      "Decantation",
+      "Centrifugation",
+      "Extraction"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Chemistry",
+    "difficulty": "medium",
+    "id": "3c818a9a-0f88-4a87-b7b1-d924bc33e507",
+    "created_at": "2025-04-13T22:00:57.828Z",
+    "backupTimestamp": "2025-04-13T22:00:57.829Z",
+    "localBackupTimestamp": "2025-04-13T16:00:57.829Z"
+  },
+  {
+    "question": "What is the name for a substance that speeds up a chemical reaction without being consumed itself?",
+    "correct_answer": "Catalyst",
+    "incorrect_answers": [
+      "Reactant",
+      "Product",
+      "Inhibitor",
+      "Solvent",
+      "Solute",
+      "Intermediate",
+      "Enzyme"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Chemistry",
+    "difficulty": "medium",
+    "id": "f2a5fc6d-9e19-4caa-9be3-63b743b50239",
+    "created_at": "2025-04-13T22:00:57.830Z",
+    "backupTimestamp": "2025-04-13T22:00:57.831Z",
+    "localBackupTimestamp": "2025-04-13T16:00:57.831Z"
+  },
+  {
+    "question": "What is the pH of pure water at standard temperature?",
+    "correct_answer": "7",
+    "incorrect_answers": [
+      "0",
+      "1",
+      "5.5",
+      "8.2",
+      "10",
+      "14",
+      "6.8"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Chemistry",
+    "difficulty": "medium",
+    "id": "01d6b6b5-535e-41bb-beeb-6eb775821ff1",
+    "created_at": "2025-04-13T22:00:57.832Z",
+    "backupTimestamp": "2025-04-13T22:00:57.833Z",
+    "localBackupTimestamp": "2025-04-13T16:00:57.833Z"
+  },
+  {
+    "question": "What does the law of conservation of mass state?",
+    "correct_answer": "Mass is neither created nor destroyed in a chemical reaction",
+    "incorrect_answers": [
+      "Energy is neither created nor destroyed",
+      "The total entropy of an isolated system can only increase",
+      "Equal volumes of gases at the same temperature and pressure contain equal numbers of molecules",
+      "For every action, there is an equal and opposite reaction",
+      "The rate of a reaction is proportional to the concentration of reactants",
+      "An object at rest stays at rest unless acted upon",
+      "Elements combine in fixed whole-number ratios"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Chemistry",
+    "difficulty": "medium",
+    "id": "b69ed588-9c72-430a-b81f-62fd857cd535",
+    "created_at": "2025-04-13T22:00:57.834Z",
+    "backupTimestamp": "2025-04-13T22:00:57.834Z",
+    "localBackupTimestamp": "2025-04-13T16:00:57.834Z"
+  },
+  {
+    "question": "What is the common name for the element Hg?",
+    "correct_answer": "Mercury",
+    "incorrect_answers": [
+      "Silver",
+      "Lead",
+      "Tin",
+      "Gold",
+      "Helium",
+      "Hydrogen",
+      "Magnesium"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Chemistry",
+    "difficulty": "medium",
+    "id": "5e7aec9a-4ea5-4193-bb12-0b1f39280803",
+    "created_at": "2025-04-13T22:00:57.836Z",
+    "backupTimestamp": "2025-04-13T22:00:57.837Z",
+    "localBackupTimestamp": "2025-04-13T16:00:57.837Z"
+  },
+  {
+    "question": "What type of bond is predominantly found in metals, involving a 'sea' of shared electrons?",
+    "correct_answer": "Metallic Bond",
+    "incorrect_answers": [
+      "Ionic Bond",
+      "Covalent Bond",
+      "Hydrogen Bond",
+      "Polar Covalent Bond",
+      "Nonpolar Covalent Bond",
+      "Van der Waals Force",
+      "Coordinate Covalent Bond"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Chemistry",
+    "difficulty": "medium",
+    "id": "50ae77ca-7845-43dd-9044-cccb8b86cf41",
+    "created_at": "2025-04-13T22:00:57.838Z",
+    "backupTimestamp": "2025-04-13T22:00:57.838Z",
+    "localBackupTimestamp": "2025-04-13T16:00:57.838Z"
+  },
+  {
+    "question": "What type of organic compound contains a -COOH functional group?",
+    "correct_answer": "Carboxylic Acid",
+    "incorrect_answers": [
+      "Alcohol",
+      "Aldehyde",
+      "Ketone",
+      "Ester",
+      "Amine",
+      "Amide",
+      "Ether"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Chemistry",
+    "difficulty": "medium",
+    "id": "14ca5cb9-dde2-495e-8b46-09d8d7c69913",
+    "created_at": "2025-04-13T22:00:57.839Z",
+    "backupTimestamp": "2025-04-13T22:00:57.839Z",
+    "localBackupTimestamp": "2025-04-13T16:00:57.839Z"
+  },
+  {
+    "question": "What does VSEPR theory predict?",
+    "correct_answer": "The shapes of molecules based on electron pair repulsion",
+    "incorrect_answers": [
+      "The boiling points of liquids",
+      "The rate of chemical reactions",
+      "The energy levels of electrons in atoms",
+      "The products of a nuclear reaction",
+      "The solubility of salts",
+      "The acidity of solutions",
+      "The type of chemical bonding"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Chemistry",
+    "difficulty": "medium",
+    "id": "edb36543-e447-4ecf-ae3a-a6591be73086",
+    "created_at": "2025-04-13T22:00:57.841Z",
+    "backupTimestamp": "2025-04-13T22:00:57.842Z",
+    "localBackupTimestamp": "2025-04-13T16:00:57.842Z"
+  },
+  {
+    "question": "What is the process of adding hydrogen across a double or triple bond called?",
+    "correct_answer": "Hydrogenation",
+    "incorrect_answers": [
+      "Halogenation",
+      "Hydration",
+      "Dehydrogenation",
+      "Oxidation",
+      "Reduction",
+      "Polymerization",
+      "Esterification"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Chemistry",
+    "difficulty": "medium",
+    "id": "6087331e-46bd-4ec3-bd77-2b889ae36cf7",
+    "created_at": "2025-04-13T22:00:57.843Z",
+    "backupTimestamp": "2025-04-13T22:00:57.844Z",
+    "localBackupTimestamp": "2025-04-13T16:00:57.844Z"
+  },
+  {
+    "question": "Which state of matter is characterized by having the highest energy and ionized particles?",
+    "correct_answer": "Plasma",
+    "incorrect_answers": [
+      "Gas",
+      "Liquid",
+      "Solid",
+      "Supercritical Fluid",
+      "Bose-Einstein Condensate",
+      "Neutron Star Matter",
+      "Quark-Gluon Plasma"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Chemistry",
+    "difficulty": "medium",
+    "id": "26248cc0-4739-4d03-85be-78fdebff988a",
+    "created_at": "2025-04-13T22:00:57.845Z",
+    "backupTimestamp": "2025-04-13T22:00:57.847Z",
+    "localBackupTimestamp": "2025-04-13T16:00:57.847Z"
+  },
+  {
+    "question": "What is the term for a substance that resists changes in pH when small amounts of acid or base are added?",
+    "correct_answer": "Buffer",
+    "incorrect_answers": [
+      "Indicator",
+      "Catalyst",
+      "Electrolyte",
+      "Salt",
+      "Acid",
+      "Base",
+      "Solvent"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Chemistry",
+    "difficulty": "medium",
+    "id": "297f6d65-0dad-46a6-8da8-38e873632433",
+    "created_at": "2025-04-13T22:00:57.850Z",
+    "backupTimestamp": "2025-04-13T22:00:57.850Z",
+    "localBackupTimestamp": "2025-04-13T16:00:57.850Z"
+  },
+  {
+    "question": "What gas forms approximately 21% of Earth's atmosphere?",
+    "correct_answer": "Oxygen",
+    "incorrect_answers": [
+      "Nitrogen",
+      "Argon",
+      "Carbon Dioxide",
+      "Helium",
+      "Hydrogen",
+      "Ozone",
+      "Neon"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Chemistry",
+    "difficulty": "medium",
+    "id": "529529ef-ecfb-412b-acee-491031b1f288",
+    "created_at": "2025-04-13T22:00:57.853Z",
+    "backupTimestamp": "2025-04-13T22:00:57.854Z",
+    "localBackupTimestamp": "2025-04-13T16:00:57.854Z"
+  },
+  {
+    "question": "What is the term for the amount of heat required to raise the temperature of one gram of a substance by one degree Celsius?",
+    "correct_answer": "Specific Heat Capacity",
+    "incorrect_answers": [
+      "Heat of Fusion",
+      "Heat of Vaporization",
+      "Enthalpy",
+      "Entropy",
+      "Thermal Conductivity",
+      "Boiling Point",
+      "Melting Point"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Chemistry",
+    "difficulty": "medium",
+    "id": "7efe2b6c-6a35-44ec-943f-db91b65af3ba",
+    "created_at": "2025-04-13T22:00:57.855Z",
+    "backupTimestamp": "2025-04-13T22:00:57.855Z",
+    "localBackupTimestamp": "2025-04-13T16:00:57.855Z"
+  },
+  {
+    "question": "What type of reaction involves the breakdown of a single compound into two or more simpler substances?",
+    "correct_answer": "Decomposition Reaction",
+    "incorrect_answers": [
+      "Synthesis Reaction",
+      "Combustion Reaction",
+      "Single Replacement Reaction",
+      "Double Replacement Reaction",
+      "Redox Reaction",
+      "Neutralization Reaction",
+      "Polymerization Reaction"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Chemistry",
+    "difficulty": "medium",
+    "id": "6f9f0431-0765-4aa0-841f-ff5c8c85da74",
+    "created_at": "2025-04-13T22:00:57.857Z",
+    "backupTimestamp": "2025-04-13T22:00:57.857Z",
+    "localBackupTimestamp": "2025-04-13T16:00:57.857Z"
+  },
+  {
+    "question": "What are the horizontal rows on the periodic table called?",
+    "correct_answer": "Periods",
+    "incorrect_answers": [
+      "Groups",
+      "Families",
+      "Blocks",
+      "Series",
+      "Columns",
+      "Levels",
+      "Shells"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Chemistry",
+    "difficulty": "medium",
+    "id": "722339de-2eaf-469a-94f2-8ea468b0d457",
+    "created_at": "2025-04-13T22:00:57.858Z",
+    "backupTimestamp": "2025-04-13T22:00:57.858Z",
+    "localBackupTimestamp": "2025-04-13T16:00:57.858Z"
+  },
+  {
+    "question": "What is the simplest type of hydrocarbon, containing only single bonds?",
+    "correct_answer": "Alkane",
+    "incorrect_answers": [
+      "Alkene",
+      "Alkyne",
+      "Aromatic Hydrocarbon",
+      "Alcohol",
+      "Ketone",
+      "Ester",
+      "Cycloalkane"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Chemistry",
+    "difficulty": "medium",
+    "id": "fb383f98-96f7-4c6c-b35d-f4108f4ce3d1",
+    "created_at": "2025-04-13T22:00:57.861Z",
+    "backupTimestamp": "2025-04-13T22:00:57.861Z",
+    "localBackupTimestamp": "2025-04-13T16:00:57.861Z"
+  },
+  {
+    "question": "What is the unit used to measure the amount of substance, defined as containing Avogadro's number of particles?",
+    "correct_answer": "Mole",
+    "incorrect_answers": [
+      "Gram",
+      "Liter",
+      "Pascal",
+      "Joule",
+      "Watt",
+      "Ampere",
+      "Dalton"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Chemistry",
+    "difficulty": "medium",
+    "id": "6682b7a8-d105-40ff-aa53-5196e5ddae5e",
+    "created_at": "2025-04-13T22:00:57.862Z",
+    "backupTimestamp": "2025-04-13T22:00:57.863Z",
+    "localBackupTimestamp": "2025-04-13T16:00:57.863Z"
+  },
+  {
+    "question": "What phenomenon describes the scattering of light as a light beam passes through a colloid?",
+    "correct_answer": "Tyndall Effect",
+    "incorrect_answers": [
+      "Brownian Motion",
+      "Doppler Effect",
+      "Photoelectric Effect",
+      "Compton Scattering",
+      "Rayleigh Scattering",
+      "Refraction",
+      "Diffraction"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Chemistry",
+    "difficulty": "medium",
+    "id": "36849f91-ce3b-4f32-9fa1-2838104dbc2e",
+    "created_at": "2025-04-13T22:00:57.864Z",
+    "backupTimestamp": "2025-04-13T22:00:57.864Z",
+    "localBackupTimestamp": "2025-04-13T16:00:57.864Z"
+  },
+  {
+    "question": "What is the chemical formula for ozone?",
+    "correct_answer": "O₃",
+    "incorrect_answers": [
+      "O₂",
+      "O",
+      "H₂O",
+      "CO₂",
+      "SO₂",
+      "N₂O",
+      "O₄"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Chemistry",
+    "difficulty": "medium",
+    "id": "1164106f-489e-427b-82e4-7ea31bc36b63",
+    "created_at": "2025-04-13T22:00:57.866Z",
+    "backupTimestamp": "2025-04-13T22:00:57.866Z",
+    "localBackupTimestamp": "2025-04-13T16:00:57.866Z"
+  },
+  {
+    "question": "What type of bond involves the unequal sharing of electrons between atoms?",
+    "correct_answer": "Polar Covalent Bond",
+    "incorrect_answers": [
+      "Nonpolar Covalent Bond",
+      "Ionic Bond",
+      "Metallic Bond",
+      "Hydrogen Bond",
+      "Coordinate Covalent Bond",
+      "Sigma Bond",
+      "Pi Bond"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Chemistry",
+    "difficulty": "medium",
+    "id": "fefc5bbf-2dc0-4816-baef-4e659f92efc4",
+    "created_at": "2025-04-13T22:00:57.867Z",
+    "backupTimestamp": "2025-04-13T22:00:57.868Z",
+    "localBackupTimestamp": "2025-04-13T16:00:57.868Z"
+  },
+  {
+    "question": "Which gas law relates the pressure and volume of a gas at constant temperature?",
+    "correct_answer": "Boyle's Law",
+    "incorrect_answers": [
+      "Charles's Law",
+      "Gay-Lussac's Law",
+      "Avogadro's Law",
+      "Ideal Gas Law",
+      "Dalton's Law of Partial Pressures",
+      "Graham's Law of Effusion",
+      "Henry's Law"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Chemistry",
+    "difficulty": "medium",
+    "id": "32bc537a-9a3e-4acb-8a23-2028d6bd81f4",
+    "created_at": "2025-04-13T22:00:57.869Z",
+    "backupTimestamp": "2025-04-13T22:00:57.869Z",
+    "localBackupTimestamp": "2025-04-13T16:00:57.869Z"
+  },
+  {
+    "question": "What is the process by which a nucleus splits into smaller parts, releasing energy?",
+    "correct_answer": "Nuclear Fission",
+    "incorrect_answers": [
+      "Nuclear Fusion",
+      "Radioactive Decay",
+      "Beta Decay",
+      "Alpha Decay",
+      "Gamma Emission",
+      "Electron Capture",
+      "Chemical Reaction"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Chemistry",
+    "difficulty": "medium",
+    "id": "254a41b1-d4af-4bc5-90b5-fb3767d82239",
+    "created_at": "2025-04-13T22:00:57.871Z",
+    "backupTimestamp": "2025-04-13T22:00:57.871Z",
+    "localBackupTimestamp": "2025-04-13T16:00:57.871Z"
+  },
+  {
+    "question": "What class of organic compounds is characterized by the presence of a hydroxyl (-OH) group?",
+    "correct_answer": "Alcohol",
+    "incorrect_answers": [
+      "Ether",
+      "Aldehyde",
+      "Ketone",
+      "Carboxylic Acid",
+      "Ester",
+      "Amine",
+      "Phenol"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Chemistry",
+    "difficulty": "medium",
+    "id": "6d3a43c8-3fce-4766-821d-b67cfdbcb728",
+    "created_at": "2025-04-13T22:00:57.873Z",
+    "backupTimestamp": "2025-04-13T22:00:57.873Z",
+    "localBackupTimestamp": "2025-04-13T16:00:57.873Z"
+  },
+  {
+    "question": "What is the term for the minimum amount of energy required to start a chemical reaction?",
+    "correct_answer": "Activation Energy",
+    "incorrect_answers": [
+      "Enthalpy Change",
+      "Entropy Change",
+      "Gibbs Free Energy",
+      "Bond Energy",
+      "Kinetic Energy",
+      "Potential Energy",
+      "Heat of Reaction"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Chemistry",
+    "difficulty": "medium",
+    "id": "e094a88e-9dbf-4908-b68a-54df414ae8e5",
+    "created_at": "2025-04-13T22:00:57.874Z",
+    "backupTimestamp": "2025-04-13T22:00:57.874Z",
+    "localBackupTimestamp": "2025-04-13T16:00:57.874Z"
+  },
+  {
+    "question": "What are large molecules composed of repeating structural units (monomers) called?",
+    "correct_answer": "Polymers",
+    "incorrect_answers": [
+      "Isomers",
+      "Isotopes",
+      "Allotropes",
+      "Compounds",
+      "Mixtures",
+      "Dimers",
+      "Oligomers"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Chemistry",
+    "difficulty": "medium",
+    "id": "8165d2d7-8ded-4273-93c8-bf596118b762",
+    "created_at": "2025-04-13T22:00:57.876Z",
+    "backupTimestamp": "2025-04-13T22:00:57.876Z",
+    "localBackupTimestamp": "2025-04-13T16:00:57.876Z"
+  },
+  {
+    "question": "Which element has the highest electronegativity?",
+    "correct_answer": "Fluorine (F)",
+    "incorrect_answers": [
+      "Oxygen (O)",
+      "Chlorine (Cl)",
+      "Nitrogen (N)",
+      "Cesium (Cs)",
+      "Francium (Fr)",
+      "Carbon (C)",
+      "Hydrogen (H)"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Chemistry",
+    "difficulty": "medium",
+    "id": "acd191e2-7680-47e4-95ba-2c10aa28c129",
+    "created_at": "2025-04-13T22:00:57.878Z",
+    "backupTimestamp": "2025-04-13T22:00:57.878Z",
+    "localBackupTimestamp": "2025-04-13T16:00:57.878Z"
+  },
+  {
+    "question": "What is the study of reaction rates and mechanisms called?",
+    "correct_answer": "Chemical Kinetics",
+    "incorrect_answers": [
+      "Thermodynamics",
+      "Stoichiometry",
+      "Electrochemistry",
+      "Spectroscopy",
+      "Quantum Chemistry",
+      "Organic Chemistry",
+      "Equilibrium Chemistry"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Chemistry",
+    "difficulty": "medium",
+    "id": "00b82cfe-f952-4bde-948b-51adad3858de",
+    "created_at": "2025-04-13T22:00:57.879Z",
+    "backupTimestamp": "2025-04-13T22:00:57.880Z",
+    "localBackupTimestamp": "2025-04-13T16:00:57.880Z"
+  },
+  {
+    "question": "What element is found in all organic compounds?",
+    "correct_answer": "Carbon",
+    "incorrect_answers": [
+      "Hydrogen",
+      "Oxygen",
+      "Nitrogen",
+      "Silicon",
+      "Sulfur",
+      "Phosphorus",
+      "Water"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Chemistry",
+    "difficulty": "medium",
+    "id": "ef3330c3-06dc-420e-bfa8-916959962377",
+    "created_at": "2025-04-13T22:00:57.881Z",
+    "backupTimestamp": "2025-04-13T22:00:57.881Z",
+    "localBackupTimestamp": "2025-04-13T16:00:57.881Z"
+  },
+  {
+    "question": "What does a Geiger counter primarily detect?",
+    "correct_answer": "Ionizing Radiation",
+    "incorrect_answers": [
+      "Magnetic Fields",
+      "Light Intensity",
+      "Sound Waves",
+      "Temperature Changes",
+      "Electrical Current",
+      "pH Levels",
+      "Air Pressure"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Chemistry",
+    "difficulty": "medium",
+    "id": "283fa116-0c18-4c76-97ec-ad1d4c104201",
+    "created_at": "2025-04-13T22:00:57.883Z",
+    "backupTimestamp": "2025-04-13T22:00:57.883Z",
+    "localBackupTimestamp": "2025-04-13T16:00:57.883Z"
+  },
+  {
+    "question": "What is the name given to the electrons in the outermost shell of an atom?",
+    "correct_answer": "Valence Electrons",
+    "incorrect_answers": [
+      "Core Electrons",
+      "Lone Pair Electrons",
+      "Bonding Electrons",
+      "Sigma Electrons",
+      "Pi Electrons",
+      "Shared Electrons",
+      "Spin Electrons"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Chemistry",
+    "difficulty": "medium",
+    "id": "de909a13-3d3f-48e7-835f-945937038471",
+    "created_at": "2025-04-13T22:00:57.884Z",
+    "backupTimestamp": "2025-04-13T22:00:57.885Z",
+    "localBackupTimestamp": "2025-04-13T16:00:57.885Z"
+  },
+  {
+    "question": "What is the process where two atomic nuclei combine to form a heavier nucleus, releasing energy?",
+    "correct_answer": "Nuclear Fusion",
+    "incorrect_answers": [
+      "Nuclear Fission",
+      "Radioactive Decay",
+      "Alpha Decay",
+      "Beta Decay",
+      "Combustion",
+      "Chemical Synthesis",
+      "Cold Fusion"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Chemistry",
+    "difficulty": "medium",
+    "id": "e4577fdd-3495-41ed-a808-7bc02ee23ccb",
+    "created_at": "2025-04-13T22:00:57.886Z",
+    "backupTimestamp": "2025-04-13T22:00:57.886Z",
+    "localBackupTimestamp": "2025-04-13T16:00:57.886Z"
+  },
+  {
+    "question": "What is the common name for C₁₂H₂₂O₁₁?",
+    "correct_answer": "Sucrose (Table Sugar)",
+    "incorrect_answers": [
+      "Glucose",
+      "Fructose",
+      "Lactose",
+      "Starch",
+      "Cellulose",
+      "Ethanol",
+      "Acetic Acid"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Chemistry",
+    "difficulty": "medium",
+    "id": "6bf45048-8823-4095-8d31-ccdeca76dddb",
+    "created_at": "2025-04-13T22:00:57.887Z",
+    "backupTimestamp": "2025-04-13T22:00:57.888Z",
+    "localBackupTimestamp": "2025-04-13T16:00:57.888Z"
+  },
+  {
+    "question": "What is the term for a solution that contains the maximum amount of dissolved solute at a given temperature?",
+    "correct_answer": "Saturated Solution",
+    "incorrect_answers": [
+      "Unsaturated Solution",
+      "Supersaturated Solution",
+      "Concentrated Solution",
+      "Dilute Solution",
+      "Aqueous Solution",
+      "Homogeneous Mixture",
+      "Colloid"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Chemistry",
+    "difficulty": "medium",
+    "id": "044f8bf1-3f19-40a9-a429-1ff085319c4f",
+    "created_at": "2025-04-13T22:00:57.889Z",
+    "backupTimestamp": "2025-04-13T22:00:57.889Z",
+    "localBackupTimestamp": "2025-04-13T16:00:57.889Z"
+  },
+  {
+    "question": "What is the name of the element with atomic number 1?",
+    "correct_answer": "Hydrogen",
+    "incorrect_answers": [
+      "Helium",
+      "Oxygen",
+      "Carbon",
+      "Lithium",
+      "Nitrogen",
+      "Boron",
+      "Water"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Chemistry",
+    "difficulty": "medium",
+    "id": "42dce7c5-176f-4357-82fd-3ee6369b59e1",
+    "created_at": "2025-04-13T22:00:57.891Z",
+    "backupTimestamp": "2025-04-13T22:00:57.891Z",
+    "localBackupTimestamp": "2025-04-13T16:00:57.891Z"
+  },
+  {
+    "question": "What is the study of carbon-containing compounds called?",
+    "correct_answer": "Organic Chemistry",
+    "incorrect_answers": [
+      "Inorganic Chemistry",
+      "Physical Chemistry",
+      "Analytical Chemistry",
+      "Biochemistry",
+      "Polymer Chemistry",
+      "Nuclear Chemistry",
+      "Geochemistry"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Chemistry",
+    "difficulty": "medium",
+    "id": "6f229f97-94b9-4203-abbf-d142cc7e8ede",
+    "created_at": "2025-04-13T22:00:57.893Z",
+    "backupTimestamp": "2025-04-13T22:00:57.893Z",
+    "localBackupTimestamp": "2025-04-13T16:00:57.893Z"
+  },
+  {
+    "question": "Which group on the periodic table contains elements like Fluorine, Chlorine, and Bromine?",
+    "correct_answer": "Halogens (Group 17)",
+    "incorrect_answers": [
+      "Alkali Metals (Group 1)",
+      "Alkaline Earth Metals (Group 2)",
+      "Noble Gases (Group 18)",
+      "Chalcogens (Group 16)",
+      "Pnictogens (Group 15)",
+      "Transition Metals",
+      "Lanthanides"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Chemistry",
+    "difficulty": "medium",
+    "id": "a98b8039-5f23-455d-a0ba-295ea6c949c7",
+    "created_at": "2025-04-13T22:00:57.896Z",
+    "backupTimestamp": "2025-04-13T22:00:57.896Z",
+    "localBackupTimestamp": "2025-04-13T16:00:57.896Z"
+  },
+  {
+    "question": "What type of chemical reaction involves the gain of electrons?",
+    "correct_answer": "Reduction",
+    "incorrect_answers": [
+      "Oxidation",
+      "Combustion",
+      "Neutralization",
+      "Hydrolysis",
+      "Acid-Base Reaction",
+      "Synthesis",
+      "Decomposition"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Chemistry",
+    "difficulty": "medium",
+    "id": "550e4d13-c19c-4788-80c6-eeceb1c3ab50",
+    "created_at": "2025-04-13T22:00:57.898Z",
+    "backupTimestamp": "2025-04-13T22:00:57.898Z",
+    "localBackupTimestamp": "2025-04-13T16:00:57.898Z"
+  },
+  {
+    "question": "What technique uses the absorption or emission of light to identify substances?",
+    "correct_answer": "Spectroscopy",
+    "incorrect_answers": [
+      "Chromatography",
+      "Titration",
+      "Distillation",
+      "Mass Spectrometry",
+      "Calorimetry",
+      "Electrophoresis",
+      "X-ray Diffraction"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Chemistry",
+    "difficulty": "medium",
+    "id": "ba6a51df-7049-4e95-8c69-392d340bb474",
+    "created_at": "2025-04-13T22:00:57.899Z",
+    "backupTimestamp": "2025-04-13T22:00:57.899Z",
+    "localBackupTimestamp": "2025-04-13T16:00:57.899Z"
+  },
+  {
+    "question": "What name is given to different structural forms of the same element in the same physical state (e.g., diamond and graphite)?",
+    "correct_answer": "Allotropes",
+    "incorrect_answers": [
+      "Isotopes",
+      "Isomers",
+      "Polymers",
+      "Isomorphs",
+      "Polymorphs",
+      "Stereoisomers",
+      "Enantiomers"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Chemistry",
+    "difficulty": "medium",
+    "id": "9932a184-02b2-4d4a-ac1c-0aa8b3c55527",
+    "created_at": "2025-04-13T22:00:57.901Z",
+    "backupTimestamp": "2025-04-13T22:00:57.901Z",
+    "localBackupTimestamp": "2025-04-13T16:00:57.901Z"
+  },
+  {
+    "question": "What is the Arrhenius definition of an acid?",
+    "correct_answer": "A substance that increases the concentration of H⁺ (or H₃O⁺) ions in aqueous solution",
+    "incorrect_answers": [
+      "A substance that accepts a proton",
+      "A substance that donates a proton",
+      "A substance that accepts an electron pair",
+      "A substance that donates an electron pair",
+      "A substance that tastes sour",
+      "A substance with a pH less than 7",
+      "A substance that turns litmus paper red"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Chemistry",
+    "difficulty": "hard",
+    "id": "30de9e1a-6a61-4261-87d8-ea5e47a8ef0f",
+    "created_at": "2025-04-13T22:00:57.902Z",
+    "backupTimestamp": "2025-04-13T22:00:57.903Z",
+    "localBackupTimestamp": "2025-04-13T16:00:57.903Z"
+  },
+  {
+    "question": "What type of nuclear decay involves the emission of a helium nucleus?",
+    "correct_answer": "Alpha Decay",
+    "incorrect_answers": [
+      "Beta Decay (β⁻)",
+      "Positron Emission (β⁺)",
+      "Gamma Emission",
+      "Electron Capture",
+      "Neutron Emission",
+      "Spontaneous Fission",
+      "Proton Emission"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Chemistry",
+    "difficulty": "hard",
+    "id": "7ba085ea-12f9-4e6f-9549-148416897443",
+    "created_at": "2025-04-13T22:00:57.904Z",
+    "backupTimestamp": "2025-04-13T22:00:57.904Z",
+    "localBackupTimestamp": "2025-04-13T16:00:57.904Z"
+  },
+  {
+    "question": "What is the name of the thermodynamic quantity representing the degree of disorder or randomness in a system?",
+    "correct_answer": "Entropy (S)",
+    "incorrect_answers": [
+      "Enthalpy (H)",
+      "Gibbs Free Energy (G)",
+      "Internal Energy (U)",
+      "Heat Capacity (C)",
+      "Temperature (T)",
+      "Pressure (P)",
+      "Activation Energy (Ea)"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Chemistry",
+    "difficulty": "hard",
+    "id": "ac5d8636-585f-4900-b2ac-3fc570e87759",
+    "created_at": "2025-04-13T22:00:57.906Z",
+    "backupTimestamp": "2025-04-13T22:00:57.906Z",
+    "localBackupTimestamp": "2025-04-13T16:00:57.906Z"
+  },
+  {
+    "question": "What is the common name for the simplest aromatic hydrocarbon, C₆H₆?",
+    "correct_answer": "Benzene",
+    "incorrect_answers": [
+      "Toluene",
+      "Xylene",
+      "Naphthalene",
+      "Phenol",
+      "Aniline",
+      "Cyclohexane",
+      "Hexane"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Chemistry",
+    "difficulty": "hard",
+    "id": "b8d23113-a8c6-46de-9e2d-0ef1612e83a6",
+    "created_at": "2025-04-13T22:00:57.907Z",
+    "backupTimestamp": "2025-04-13T22:00:57.908Z",
+    "localBackupTimestamp": "2025-04-13T16:00:57.908Z"
+  },
+  {
+    "question": "Which quantum number describes the shape of an atomic orbital (s, p, d, f)?",
+    "correct_answer": "Azimuthal Quantum Number (l)",
+    "incorrect_answers": [
+      "Principal Quantum Number (n)",
+      "Magnetic Quantum Number (ml)",
+      "Spin Quantum Number (ms)",
+      "Atomic Number (Z)",
+      "Mass Number (A)",
+      "Electron Configuration",
+      "Valence Number"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Chemistry",
+    "difficulty": "hard",
+    "id": "6c70e26a-6fd2-4054-8198-654c25f58161",
+    "created_at": "2025-04-13T22:00:57.909Z",
+    "backupTimestamp": "2025-04-13T22:00:57.910Z",
+    "localBackupTimestamp": "2025-04-13T16:00:57.910Z"
+  },
+  {
+    "question": "What type of bond involves the sharing of two pairs of electrons between atoms?",
+    "correct_answer": "Double Bond",
+    "incorrect_answers": [
+      "Single Bond",
+      "Triple Bond",
+      "Ionic Bond",
+      "Hydrogen Bond",
+      "Sigma Bond",
+      "Pi Bond",
+      "Coordinate Covalent Bond"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Chemistry",
+    "difficulty": "hard",
+    "id": "613119a3-12fc-43db-9395-4483f8d69cdc",
+    "created_at": "2025-04-13T22:00:57.911Z",
+    "backupTimestamp": "2025-04-13T22:00:57.911Z",
+    "localBackupTimestamp": "2025-04-13T16:00:57.911Z"
+  },
+  {
+    "question": "What does Le Chatelier's principle describe?",
+    "correct_answer": "How a system at equilibrium responds to stress (changes in concentration, temperature, or pressure)",
+    "incorrect_answers": [
+      "The relationship between pressure, volume, and temperature of gases",
+      "The rate at which chemical reactions occur",
+      "The energy change associated with a chemical reaction",
+      "The distribution of electrons in atomic orbitals",
+      "The conservation of mass in chemical reactions",
+      "The solubility of gases in liquids",
+      "The behavior of acids and bases"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Chemistry",
+    "difficulty": "hard",
+    "id": "1c636627-641f-480b-a376-782064f50dc9",
+    "created_at": "2025-04-13T22:00:57.913Z",
+    "backupTimestamp": "2025-04-13T22:00:57.913Z",
+    "localBackupTimestamp": "2025-04-13T16:00:57.913Z"
+  },
+  {
+    "question": "What functional group characterizes aldehydes?",
+    "correct_answer": "-CHO (Carbonyl group bonded to hydrogen)",
+    "incorrect_answers": [
+      "-OH (Hydroxyl)",
+      "-COOH (Carboxyl)",
+      "-CO- (Carbonyl within chain - Ketone)",
+      "-NH₂ (Amino)",
+      "-O- (Ether)",
+      "-COOR (Ester)",
+      "-CONH₂ (Amide)"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Chemistry",
+    "difficulty": "hard",
+    "id": "ccfe2024-cb2c-4e08-a822-e8d7ab3f7fdb",
+    "created_at": "2025-04-13T22:00:57.914Z",
+    "backupTimestamp": "2025-04-13T22:00:57.914Z",
+    "localBackupTimestamp": "2025-04-13T16:00:57.914Z"
+  },
+  {
+    "question": "What is the term for a chemical species that donates an electron pair to form a covalent bond?",
+    "correct_answer": "Lewis Base",
+    "incorrect_answers": [
+      "Lewis Acid",
+      "Brønsted-Lowry Acid",
+      "Brønsted-Lowry Base",
+      "Arrhenius Acid",
+      "Arrhenius Base",
+      "Oxidizing Agent",
+      "Reducing Agent"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Chemistry",
+    "difficulty": "hard",
+    "id": "0c469b55-50d8-4910-b7ef-bf347885af58",
+    "created_at": "2025-04-13T22:00:57.916Z",
+    "backupTimestamp": "2025-04-13T22:00:57.917Z",
+    "localBackupTimestamp": "2025-04-13T16:00:57.917Z"
+  },
+  {
+    "question": "What type of intermolecular force is responsible for the relatively high boiling point of water?",
+    "correct_answer": "Hydrogen Bonding",
+    "incorrect_answers": [
+      "London Dispersion Forces",
+      "Dipole-Dipole Interactions",
+      "Ionic Bonding",
+      "Covalent Bonding",
+      "Metallic Bonding",
+      "Ion-Dipole Forces",
+      "Van der Waals Forces (general)"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Chemistry",
+    "difficulty": "hard",
+    "id": "cd59aaf7-da9a-4f5e-ab61-34a669c236bd",
+    "created_at": "2025-04-13T22:00:57.918Z",
+    "backupTimestamp": "2025-04-13T22:00:57.918Z",
+    "localBackupTimestamp": "2025-04-13T16:00:57.918Z"
+  },
+  {
+    "question": "What is the hybridization of the carbon atoms in methane (CH₄)?",
+    "correct_answer": "sp³",
+    "incorrect_answers": [
+      "sp",
+      "sp²",
+      "sp³d",
+      "sp³d²",
+      "dsp³",
+      "p³",
+      "s²p²"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Chemistry",
+    "difficulty": "hard",
+    "id": "bb24499b-d702-45a2-ae2f-087a67610d19",
+    "created_at": "2025-04-13T22:00:57.919Z",
+    "backupTimestamp": "2025-04-13T22:00:57.920Z",
+    "localBackupTimestamp": "2025-04-13T16:00:57.920Z"
+  },
+  {
+    "question": "What term describes the measure of a substance's resistance to flow?",
+    "correct_answer": "Viscosity",
+    "incorrect_answers": [
+      "Density",
+      "Surface Tension",
+      "Volatility",
+      "Solubility",
+      "Malleability",
+      "Ductility",
+      "Hardness"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Chemistry",
+    "difficulty": "hard",
+    "id": "319bd6de-a5d5-4161-8fd1-499d3b09915a",
+    "created_at": "2025-04-13T22:00:57.921Z",
+    "backupTimestamp": "2025-04-13T22:00:57.921Z",
+    "localBackupTimestamp": "2025-04-13T16:00:57.921Z"
+  },
+  {
+    "question": "Which separation technique relies on differences in the partitioning of components between a stationary phase and a mobile phase?",
+    "correct_answer": "Chromatography",
+    "incorrect_answers": [
+      "Distillation",
+      "Filtration",
+      "Crystallization",
+      "Electrophoresis",
+      "Centrifugation",
+      "Decantation",
+      "Extraction"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Chemistry",
+    "difficulty": "hard",
+    "id": "f592c115-685a-45aa-aa6a-db9ac4f1c9be",
+    "created_at": "2025-04-13T22:00:57.922Z",
+    "backupTimestamp": "2025-04-13T22:00:57.923Z",
+    "localBackupTimestamp": "2025-04-13T16:00:57.923Z"
+  },
+  {
+    "question": "What is the empirical formula?",
+    "correct_answer": "The simplest whole-number ratio of atoms of each element in a compound",
+    "incorrect_answers": [
+      "The actual number of atoms of each element in a molecule",
+      "The three-dimensional arrangement of atoms in a molecule",
+      "A formula showing the bonding between atoms",
+      "The formula of an ion",
+      "The formula representing a repeating unit in a polymer",
+      "A balanced chemical equation",
+      "The molar mass of a compound"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Chemistry",
+    "difficulty": "hard",
+    "id": "ed162e2e-5678-41cd-a682-eb4051d6d60b",
+    "created_at": "2025-04-13T22:00:57.924Z",
+    "backupTimestamp": "2025-04-13T22:00:57.924Z",
+    "localBackupTimestamp": "2025-04-13T16:00:57.924Z"
+  },
+  {
+    "question": "What is the oxidation state of manganese (Mn) in potassium permanganate (KMnO₄)?",
+    "correct_answer": "+7",
+    "incorrect_answers": [
+      "+2",
+      "+3",
+      "+4",
+      "+6",
+      "-1",
+      "0",
+      "+1"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Chemistry",
+    "difficulty": "hard",
+    "id": "ec6c0b69-1881-43b6-89af-9978c7bf02e2",
+    "created_at": "2025-04-13T22:00:57.926Z",
+    "backupTimestamp": "2025-04-13T22:00:57.926Z",
+    "localBackupTimestamp": "2025-04-13T16:00:57.926Z"
+  },
+  {
+    "question": "What type of reaction mechanism often involves carbocation intermediates?",
+    "correct_answer": "SN1 (Substitution Nucleophilic Unimolecular) / E1 (Elimination Unimolecular)",
+    "incorrect_answers": [
+      "SN2 (Substitution Nucleophilic Bimolecular)",
+      "E2 (Elimination Bimolecular)",
+      "Radical Addition",
+      "Electrophilic Aromatic Substitution",
+      "Pericyclic Reaction",
+      "Acid-Base Catalysis",
+      "Oxidative Addition"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Chemistry",
+    "difficulty": "hard",
+    "id": "25dc3786-d424-4bb4-a2d9-380e9b66c210",
+    "created_at": "2025-04-13T22:00:57.928Z",
+    "backupTimestamp": "2025-04-13T22:00:57.929Z",
+    "localBackupTimestamp": "2025-04-13T16:00:57.929Z"
+  },
+  {
+    "question": "What law states that the total pressure exerted by a mixture of gases is equal to the sum of the partial pressures of the individual gases?",
+    "correct_answer": "Dalton's Law of Partial Pressures",
+    "incorrect_answers": [
+      "Boyle's Law",
+      "Charles's Law",
+      "Avogadro's Law",
+      "Ideal Gas Law",
+      "Henry's Law",
+      "Graham's Law of Effusion",
+      "Raoult's Law"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Chemistry",
+    "difficulty": "hard",
+    "id": "17334d2b-31fb-42e3-aa41-d76c61370f6f",
+    "created_at": "2025-04-13T22:00:57.930Z",
+    "backupTimestamp": "2025-04-13T22:00:57.930Z",
+    "localBackupTimestamp": "2025-04-13T16:00:57.930Z"
+  },
+  {
+    "question": "What is the name for a molecule that has both a hydrophobic and a hydrophilic part?",
+    "correct_answer": "Amphipathic / Amphiphilic",
+    "incorrect_answers": [
+      "Hydrophobic",
+      "Hydrophilic",
+      "Lipophilic",
+      "Lipophobic",
+      "Polar",
+      "Nonpolar",
+      "Zwitterionic"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Chemistry",
+    "difficulty": "hard",
+    "id": "78ae697a-8411-4ad4-a93a-a7363c341e39",
+    "created_at": "2025-04-13T22:00:57.931Z",
+    "backupTimestamp": "2025-04-13T22:00:57.932Z",
+    "localBackupTimestamp": "2025-04-13T16:00:57.932Z"
+  },
+  {
+    "question": "What phenomenon prevents liquids from freezing at their normal freezing point when under pressure or lacking nucleation sites?",
+    "correct_answer": "Supercooling",
+    "incorrect_answers": [
+      "Superheating",
+      "Sublimation",
+      "Deposition",
+      "Triple Point",
+      "Critical Point",
+      "Flash Freezing",
+      "Vitrification"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Chemistry",
+    "difficulty": "hard",
+    "id": "f2116b03-cb64-47ce-8ee8-001ac2f19146",
+    "created_at": "2025-04-13T22:00:57.933Z",
+    "backupTimestamp": "2025-04-13T22:00:57.933Z",
+    "localBackupTimestamp": "2025-04-13T16:00:57.933Z"
+  },
+  {
+    "question": "Which rule states that electrons fill orbitals singly before pairing up?",
+    "correct_answer": "Hund's Rule",
+    "incorrect_answers": [
+      "Aufbau Principle",
+      "Pauli Exclusion Principle",
+      "Heisenberg Uncertainty Principle",
+      "Schrödinger Equation",
+      "Octet Rule",
+      "Markovnikov's Rule",
+      "Planck's Law"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Chemistry",
+    "difficulty": "hard",
+    "id": "89c78494-a1d2-4195-bc14-d2cb05847e9a",
+    "created_at": "2025-04-13T22:00:57.935Z",
+    "backupTimestamp": "2025-04-13T22:00:57.935Z",
+    "localBackupTimestamp": "2025-04-13T16:00:57.935Z"
+  },
+  {
+    "question": "What is the coordination number of the central metal atom in the complex ion [Fe(CN)₆]⁴⁻?",
+    "correct_answer": "6",
+    "incorrect_answers": [
+      "4",
+      "2",
+      "5",
+      "8",
+      "1",
+      "3",
+      "12"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Chemistry",
+    "difficulty": "hard",
+    "id": "e684e6fc-ed6e-4a25-80b3-4d9aa561c000",
+    "created_at": "2025-04-13T22:00:57.937Z",
+    "backupTimestamp": "2025-04-13T22:00:57.937Z",
+    "localBackupTimestamp": "2025-04-13T16:00:57.937Z"
+  },
+  {
+    "question": "What type of isomerism occurs when compounds have the same molecular formula and connectivity but differ in spatial arrangement around a double bond?",
+    "correct_answer": "Geometric Isomerism (Cis-Trans)",
+    "incorrect_answers": [
+      "Structural Isomerism",
+      "Optical Isomerism (Enantiomers)",
+      "Conformational Isomerism",
+      "Skeletal Isomerism",
+      "Positional Isomerism",
+      "Functional Group Isomerism",
+      "Tautomerism"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Chemistry",
+    "difficulty": "hard",
+    "id": "4edef3e2-55ce-4c5d-80e3-b87316968325",
+    "created_at": "2025-04-13T22:00:57.938Z",
+    "backupTimestamp": "2025-04-13T22:00:57.939Z",
+    "localBackupTimestamp": "2025-04-13T16:00:57.939Z"
+  },
+  {
+    "question": "What is the Haber-Bosch process used to synthesize?",
+    "correct_answer": "Ammonia (NH₃)",
+    "incorrect_answers": [
+      "Sulfuric Acid (H₂SO₄)",
+      "Nitric Acid (HNO₃)",
+      "Chlorine Gas (Cl₂)",
+      "Sodium Hydroxide (NaOH)",
+      "Methanol (CH₃OH)",
+      "Polyethylene",
+      "Aluminum (Al)"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Chemistry",
+    "difficulty": "hard",
+    "id": "70e4b624-c1f4-46f6-8409-dcc8ae601693",
+    "created_at": "2025-04-13T22:00:57.940Z",
+    "backupTimestamp": "2025-04-13T22:00:57.940Z",
+    "localBackupTimestamp": "2025-04-13T16:00:57.940Z"
+  },
+  {
+    "question": "What thermodynamic function determines the spontaneity of a reaction at constant temperature and pressure?",
+    "correct_answer": "Gibbs Free Energy (ΔG)",
+    "incorrect_answers": [
+      "Enthalpy (ΔH)",
+      "Entropy (ΔS)",
+      "Internal Energy (ΔU)",
+      "Activation Energy (Ea)",
+      "Equilibrium Constant (K)",
+      "Reaction Quotient (Q)",
+      "Heat Capacity (C)"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Chemistry",
+    "difficulty": "hard",
+    "id": "0af774ec-8107-4833-85f6-46c2a3b0a597",
+    "created_at": "2025-04-13T22:00:57.942Z",
+    "backupTimestamp": "2025-04-13T22:00:57.942Z",
+    "localBackupTimestamp": "2025-04-13T16:00:57.942Z"
+  },
+  {
+    "question": "What is the name for the point in a titration where the amount of titrant added is chemically equivalent to the amount of analyte?",
+    "correct_answer": "Equivalence Point",
+    "incorrect_answers": [
+      "End Point",
+      "Half-Equivalence Point",
+      "Buffer Region",
+      "Saturation Point",
+      "Neutralization Point",
+      "Titration Midpoint",
+      "Inflection Point"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Chemistry",
+    "difficulty": "hard",
+    "id": "9e071dfc-ac22-4e29-adb8-afae2334a851",
+    "created_at": "2025-04-13T22:00:57.944Z",
+    "backupTimestamp": "2025-04-13T22:00:57.944Z",
+    "localBackupTimestamp": "2025-04-13T16:00:57.944Z"
+  },
+  {
+    "question": "What type of spectroscopy involves measuring the absorption of radio frequency radiation by atomic nuclei in a magnetic field?",
+    "correct_answer": "Nuclear Magnetic Resonance (NMR) Spectroscopy",
+    "incorrect_answers": [
+      "Infrared (IR) Spectroscopy",
+      "Ultraviolet-Visible (UV-Vis) Spectroscopy",
+      "Mass Spectrometry (MS)",
+      "Atomic Absorption Spectroscopy (AAS)",
+      "X-ray Crystallography",
+      "Raman Spectroscopy",
+      "Fluorescence Spectroscopy"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Chemistry",
+    "difficulty": "hard",
+    "id": "c3194a2a-c44b-4eda-b8ce-71a6135ce4e8",
+    "created_at": "2025-04-13T22:00:57.945Z",
+    "backupTimestamp": "2025-04-13T22:00:57.946Z",
+    "localBackupTimestamp": "2025-04-13T16:00:57.946Z"
+  },
+  {
+    "question": "What is the approximate bond angle in a molecule with tetrahedral geometry, like methane (CH₄)?",
+    "correct_answer": "109.5°",
+    "incorrect_answers": [
+      "180°",
+      "120°",
+      "90°",
+      "107°",
+      "104.5°",
+      "60°",
+      "112°"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Chemistry",
+    "difficulty": "hard",
+    "id": "f28c864d-f8a1-4e28-b989-f39360fda4ed",
+    "created_at": "2025-04-13T22:00:57.947Z",
+    "backupTimestamp": "2025-04-13T22:00:57.948Z",
+    "localBackupTimestamp": "2025-04-13T16:00:57.948Z"
+  },
+  {
+    "question": "What is the term for the maximum number of electrons that can occupy a specific atomic orbital?",
+    "correct_answer": "2",
+    "incorrect_answers": [
+      "1",
+      "6",
+      "8",
+      "10",
+      "14",
+      "18",
+      "Depends on the principal quantum number"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Chemistry",
+    "difficulty": "hard",
+    "id": "21f2e5d6-037b-444a-bff7-4908f45d8529",
+    "created_at": "2025-04-13T22:00:57.949Z",
+    "backupTimestamp": "2025-04-13T22:00:57.949Z",
+    "localBackupTimestamp": "2025-04-13T16:00:57.949Z"
+  },
+  {
+    "question": "What type of colloid consists of liquid droplets dispersed in another immiscible liquid?",
+    "correct_answer": "Emulsion",
+    "incorrect_answers": [
+      "Sol",
+      "Gel",
+      "Foam",
+      "Aerosol (liquid)",
+      "Aerosol (solid)",
+      "Suspension",
+      "Solution"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Chemistry",
+    "difficulty": "hard",
+    "id": "374d720b-2151-4620-90ae-5c260ef8d413",
+    "created_at": "2025-04-13T22:00:57.950Z",
+    "backupTimestamp": "2025-04-13T22:00:57.951Z",
+    "localBackupTimestamp": "2025-04-13T16:00:57.951Z"
+  },
+  {
+    "question": "What principle describes the wave-particle duality of matter?",
+    "correct_answer": "de Broglie Hypothesis",
+    "incorrect_answers": [
+      "Heisenberg Uncertainty Principle",
+      "Schrödinger Equation",
+      "Photoelectric Effect",
+      "Planck's Quantum Theory",
+      "Bohr Model",
+      "Pauli Exclusion Principle",
+      "Special Relativity"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Chemistry",
+    "difficulty": "hard",
+    "id": "b49c2749-35a2-453a-b2a4-33433ae88264",
+    "created_at": "2025-04-13T22:00:57.952Z",
+    "backupTimestamp": "2025-04-13T22:00:57.952Z",
+    "localBackupTimestamp": "2025-04-13T16:00:57.952Z"
+  },
+  {
+    "question": "What is the role of a salt bridge in an electrochemical (galvanic) cell?",
+    "correct_answer": "To maintain electrical neutrality by allowing ion flow between half-cells",
+    "incorrect_answers": [
+      "To allow electron flow between electrodes",
+      "To act as one of the electrodes",
+      "To provide the reactants for the cell",
+      "To measure the cell potential",
+      "To increase the surface area of the electrodes",
+      "To separate the reactants physically",
+      "To catalyze the redox reaction"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Chemistry",
+    "difficulty": "hard",
+    "id": "814158e0-0d66-4cd0-8b26-7be79077fcc0",
+    "created_at": "2025-04-13T22:00:57.954Z",
+    "backupTimestamp": "2025-04-13T22:00:57.954Z",
+    "localBackupTimestamp": "2025-04-13T16:00:57.954Z"
+  },
+  {
+    "question": "What is the name for the reaction that joins monomers together to form polymers, typically releasing water?",
+    "correct_answer": "Condensation Polymerization / Dehydration Synthesis",
+    "incorrect_answers": [
+      "Addition Polymerization",
+      "Hydrolysis",
+      "Oxidation",
+      "Reduction",
+      "Free Radical Polymerization",
+      "Ionic Polymerization",
+      "Cross-linking"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Chemistry",
+    "difficulty": "hard",
+    "id": "60c3eaac-6be3-472a-80c9-9ed6f58cbcb6",
+    "created_at": "2025-04-13T22:00:57.956Z",
+    "backupTimestamp": "2025-04-13T22:00:57.956Z",
+    "localBackupTimestamp": "2025-04-13T16:00:57.956Z"
+  },
+  {
+    "question": "Which element exists as a diatomic molecule (X₂) under standard conditions?",
+    "correct_answer": "Nitrogen (N₂) / Oxygen (O₂) / Fluorine (F₂) / Chlorine (Cl₂) / Bromine (Br₂) / Iodine (I₂) / Hydrogen (H₂)",
+    "incorrect_answers": [
+      "Helium (He)",
+      "Carbon (C)",
+      "Sulfur (S₈)",
+      "Phosphorus (P₄)",
+      "Argon (Ar)",
+      "Sodium (Na)",
+      "Iron (Fe)"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Chemistry",
+    "difficulty": "hard",
+    "id": "7d0d0b0e-273e-45be-afb3-88765dfffbd5",
+    "created_at": "2025-04-13T22:00:57.958Z",
+    "backupTimestamp": "2025-04-13T22:00:57.958Z",
+    "localBackupTimestamp": "2025-04-13T16:00:57.958Z"
+  },
+  {
+    "question": "What term describes a pair of non-superimposable mirror-image molecules?",
+    "correct_answer": "Enantiomers",
+    "incorrect_answers": [
+      "Diastereomers",
+      "Meso compounds",
+      "Constitutional isomers",
+      "Geometric isomers",
+      "Conformational isomers",
+      "Epimers",
+      "Anomers"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Chemistry",
+    "difficulty": "hard",
+    "id": "47ef8639-bbef-481f-9d97-7bd3e5af9363",
+    "created_at": "2025-04-13T22:00:57.959Z",
+    "backupTimestamp": "2025-04-13T22:00:57.960Z",
+    "localBackupTimestamp": "2025-04-13T16:00:57.960Z"
+  },
+  {
+    "question": "What is the primary ore from which aluminum is extracted?",
+    "correct_answer": "Bauxite",
+    "incorrect_answers": [
+      "Hematite (Iron)",
+      "Galena (Lead)",
+      "Sphalerite (Zinc)",
+      "Chalcopyrite (Copper)",
+      "Cassiterite (Tin)",
+      "Rutile (Titanium)",
+      "Cinnabar (Mercury)"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Chemistry",
+    "difficulty": "hard",
+    "id": "0d29f4d3-ffba-4cb1-a02b-4039c82d3a18",
+    "created_at": "2025-04-13T22:00:57.961Z",
+    "backupTimestamp": "2025-04-13T22:00:57.962Z",
+    "localBackupTimestamp": "2025-04-13T16:00:57.962Z"
+  },
+  {
+    "question": "What type of bond results from the overlap of atomic orbitals directly between the nuclei of two atoms?",
+    "correct_answer": "Sigma (σ) bond",
+    "incorrect_answers": [
+      "Pi (π) bond",
+      "Delta (δ) bond",
+      "Ionic bond",
+      "Hydrogen bond",
+      "Metallic bond",
+      "Coordinate covalent bond",
+      "Van der Waals force"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Chemistry",
+    "difficulty": "hard",
+    "id": "82163ff8-2e9d-45e0-b89d-f54e40cc8aae",
+    "created_at": "2025-04-13T22:00:57.963Z",
+    "backupTimestamp": "2025-04-13T22:00:57.963Z",
+    "localBackupTimestamp": "2025-04-13T16:00:57.963Z"
+  },
+  {
+    "question": "What is the name of the equation that relates the standard cell potential, temperature, and equilibrium constant?",
+    "correct_answer": "Nernst Equation (can relate Ecell to Q, relationship to K via ΔG)",
+    "incorrect_answers": [
+      "Arrhenius Equation",
+      "Henderson-Hasselbalch Equation",
+      "Clausius-Clapeyron Equation",
+      "Gibbs Free Energy Equation (ΔG = -RTlnK)",
+      "Ideal Gas Law",
+      "Van't Hoff Equation",
+      "Faraday's Law of Electrolysis"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Chemistry",
+    "difficulty": "hard",
+    "id": "afa52450-9ea6-4753-a47d-7b31bccc9dba",
+    "created_at": "2025-04-13T22:00:57.965Z",
+    "backupTimestamp": "2025-04-13T22:00:57.965Z",
+    "localBackupTimestamp": "2025-04-13T16:00:57.965Z"
+  },
+  {
+    "question": "What is the role of the nucleophile in an organic reaction?",
+    "correct_answer": "To donate an electron pair to form a new bond",
+    "incorrect_answers": [
+      "To accept an electron pair",
+      "To donate a proton",
+      "To accept a proton",
+      "To initiate a radical chain reaction",
+      "To stabilize a carbocation",
+      "To act as a leaving group",
+      "To abstract a hydrogen atom"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Chemistry",
+    "difficulty": "hard",
+    "id": "f70b331e-a068-425f-9e33-d81a3834629b",
+    "created_at": "2025-04-13T22:00:57.968Z",
+    "backupTimestamp": "2025-04-13T22:00:57.968Z",
+    "localBackupTimestamp": "2025-04-13T16:00:57.968Z"
+  },
+  {
+    "question": "What is the name for compounds containing a carbon-nitrogen triple bond?",
+    "correct_answer": "Nitriles",
+    "incorrect_answers": [
+      "Amines",
+      "Amides",
+      "Imines",
+      "Cyanates",
+      "Isocyanates",
+      "Azides",
+      "Nitro compounds"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Chemistry",
+    "difficulty": "hard",
+    "id": "18cdb48b-89f7-4a6a-bb3d-8961296b870b",
+    "created_at": "2025-04-13T22:00:57.970Z",
+    "backupTimestamp": "2025-04-13T22:00:57.970Z",
+    "localBackupTimestamp": "2025-04-13T16:00:57.970Z"
+  },
+  {
+    "question": "What is the name of the process where graphite is converted into diamond under high pressure and temperature?",
+    "correct_answer": "Artificial synthesis / High-Pressure High-Temperature (HPHT) synthesis",
+    "incorrect_answers": [
+      "Sublimation",
+      "Combustion",
+      "Annealing",
+      "Allotropic Transformation (general)",
+      "Chemical Vapor Deposition (CVD)",
+      "Pyrolysis",
+      "Fractional Distillation"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Chemistry",
+    "difficulty": "hard",
+    "id": "bd4e08b2-c349-409b-a6bc-829b21248484",
+    "created_at": "2025-04-13T22:00:57.971Z",
+    "backupTimestamp": "2025-04-13T22:00:57.972Z",
+    "localBackupTimestamp": "2025-04-13T16:00:57.972Z"
+  },
+  {
+    "question": "What does the Beer-Lambert Law relate?",
+    "correct_answer": "Absorbance of light to the concentration of the solute and path length",
+    "incorrect_answers": [
+      "Pressure and volume of a gas",
+      "Rate of a reaction and temperature",
+      "Equilibrium constant and temperature",
+      "Vapor pressure and temperature",
+      "Solubility of a gas and its partial pressure",
+      "Diffusion rate and molar mass",
+      "Cell potential and concentration"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Chemistry",
+    "difficulty": "hard",
+    "id": "7dcb2b75-b7b9-428b-97dd-744a8c346468",
+    "created_at": "2025-04-13T22:00:57.973Z",
+    "backupTimestamp": "2025-04-13T22:00:57.974Z",
+    "localBackupTimestamp": "2025-04-13T16:00:57.974Z"
+  },
+  {
+    "question": "What term describes the spontaneous emission of radiation from an unstable atomic nucleus?",
+    "correct_answer": "Radioactive Decay",
+    "incorrect_answers": [
+      "Nuclear Fission",
+      "Nuclear Fusion",
+      "Ionization",
+      "Phosphorescence",
+      "Fluorescence",
+      "Chemiluminescence",
+      "Electron Excitation"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Chemistry",
+    "difficulty": "hard",
+    "id": "9efe890d-292d-445c-beb5-c6970e85a292",
+    "created_at": "2025-04-13T22:00:57.975Z",
+    "backupTimestamp": "2025-04-13T22:00:57.975Z",
+    "localBackupTimestamp": "2025-04-13T16:00:57.975Z"
+  },
+  {
+    "question": "Which theory explains chemical bonding using molecular orbitals formed from atomic orbitals?",
+    "correct_answer": "Molecular Orbital (MO) Theory",
+    "incorrect_answers": [
+      "Valence Bond Theory",
+      "VSEPR Theory",
+      "Lewis Structure Theory",
+      "Crystal Field Theory",
+      "Ligand Field Theory",
+      "Quantum Mechanics",
+      "Dalton's Atomic Theory"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Chemistry",
+    "difficulty": "hard",
+    "id": "f47a3829-f4d9-4fc0-89b3-4eac7bdd277b",
+    "created_at": "2025-04-13T22:00:57.977Z",
+    "backupTimestamp": "2025-04-13T22:00:57.977Z",
+    "localBackupTimestamp": "2025-04-13T16:00:57.977Z"
+  },
+  {
+    "question": "What type of reaction is the Diels-Alder reaction?",
+    "correct_answer": "Cycloaddition Reaction",
+    "incorrect_answers": [
+      "Electrophilic Aromatic Substitution",
+      "Nucleophilic Acyl Substitution",
+      "Wittig Reaction",
+      "Grignard Reaction",
+      "Friedel-Crafts Acylation",
+      "Aldol Condensation",
+      "SN2 Reaction"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Chemistry",
+    "difficulty": "hard",
+    "id": "7fcff410-d97a-47db-9f68-7f11f2b3982b",
+    "created_at": "2025-04-13T22:00:57.979Z",
+    "backupTimestamp": "2025-04-13T22:00:57.979Z",
+    "localBackupTimestamp": "2025-04-13T16:00:57.979Z"
+  },
+  {
+    "question": "What is the name given to the group of elements in the f-block of the periodic table, period 6?",
+    "correct_answer": "Lanthanides",
+    "incorrect_answers": [
+      "Actinides",
+      "Alkali Metals",
+      "Alkaline Earth Metals",
+      "Transition Metals",
+      "Halogens",
+      "Noble Gases",
+      "Rare Earth Elements (includes Lanthanides + Sc, Y)"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Chemistry",
+    "difficulty": "hard",
+    "id": "cf7b1d27-cb47-4893-a1ba-4f5399416055",
+    "created_at": "2025-04-13T22:00:57.981Z",
+    "backupTimestamp": "2025-04-13T22:00:57.981Z",
+    "localBackupTimestamp": "2025-04-13T16:00:57.981Z"
+  },
+  {
+    "question": "What is the process of separating enantiomers from a racemic mixture called?",
+    "correct_answer": "Resolution",
+    "incorrect_answers": [
+      "Racemization",
+      "Distillation",
+      "Chromatography",
+      "Crystallization",
+      "Isomerization",
+      "Epimerization",
+      "Decantation"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Chemistry",
+    "difficulty": "hard",
+    "id": "1e481770-9d6e-469c-bf87-e10e91d416f1",
+    "created_at": "2025-04-13T22:00:57.982Z",
+    "backupTimestamp": "2025-04-13T22:00:57.983Z",
+    "localBackupTimestamp": "2025-04-13T16:00:57.983Z"
+  },
+  {
+    "question": "What is the name for a compound that contains both a positive and a negative charge on different atoms within the same molecule?",
+    "correct_answer": "Zwitterion",
+    "incorrect_answers": [
+      "Ion",
+      "Cation",
+      "Anion",
+      "Dipole",
+      "Radical",
+      "Salt",
+      "Ampholyte"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Chemistry",
+    "difficulty": "hard",
+    "id": "d5e03f4c-07ba-425c-a146-cd56b92c02c6",
+    "created_at": "2025-04-13T22:00:57.984Z",
+    "backupTimestamp": "2025-04-13T22:00:57.985Z",
+    "localBackupTimestamp": "2025-04-13T16:00:57.985Z"
+  },
+  {
+    "question": "Which scientist is credited with discovering the electron?",
+    "correct_answer": "J.J. Thomson",
+    "incorrect_answers": [
+      "Ernest Rutherford",
+      "Niels Bohr",
+      "James Chadwick",
+      "John Dalton",
+      "Marie Curie",
+      "Dmitri Mendeleev",
+      "Robert Millikan"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Chemistry",
+    "difficulty": "hard",
+    "id": "3eed39bf-4919-428e-89c9-f2739813e6f8",
+    "created_at": "2025-04-13T22:00:57.987Z",
+    "backupTimestamp": "2025-04-13T22:00:57.988Z",
+    "localBackupTimestamp": "2025-04-13T16:00:57.988Z"
+  },
+  {
+    "question": "What does the 'p' in 'pH' or 'pKa' represent mathematically?",
+    "correct_answer": "Negative logarithm (base 10)",
+    "incorrect_answers": [
+      "Positive logarithm (base 10)",
+      "Natural logarithm",
+      "Power of hydrogen",
+      "Potential of hydrogen",
+      "Pressure",
+      "Proton concentration",
+      "Parts per million"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Chemistry",
+    "difficulty": "hard",
+    "id": "32e19110-6b5c-4e8d-b3c3-4762e1f50980",
+    "created_at": "2025-04-13T22:00:57.991Z",
+    "backupTimestamp": "2025-04-13T22:00:57.991Z",
+    "localBackupTimestamp": "2025-04-13T16:00:57.991Z"
+  },
+  {
+    "question": "What is the state function that combines enthalpy and entropy (H - TS)?",
+    "correct_answer": "Gibbs Free Energy (G)",
+    "incorrect_answers": [
+      "Enthalpy (H)",
+      "Entropy (S)",
+      "Internal Energy (U)",
+      "Helmholtz Free Energy (A)",
+      "Work (W)",
+      "Heat (Q)",
+      "Chemical Potential (μ)"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Chemistry",
+    "difficulty": "hard",
+    "id": "d661bdda-ad06-432c-a8f0-67ba4faa4e09",
+    "created_at": "2025-04-13T22:00:57.993Z",
+    "backupTimestamp": "2025-04-13T22:00:57.994Z",
+    "localBackupTimestamp": "2025-04-13T16:00:57.994Z"
+  },
+  {
+    "question": "What effect describes the decrease in the solubility of an ionic precipitate when a soluble compound containing one of its ions is added?",
+    "correct_answer": "Common Ion Effect",
+    "incorrect_answers": [
+      "Salting Out",
+      "Salting In",
+      "Colligative Property",
+      "Le Chatelier's Principle",
+      "Solubility Product (Ksp)",
+      "Activity Coefficient Effect",
+      "Ionic Strength Effect"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Chemistry",
+    "difficulty": "hard",
+    "id": "6db78587-e770-478b-be3c-4a3e35d33fcd",
+    "created_at": "2025-04-13T22:00:57.995Z",
+    "backupTimestamp": "2025-04-13T22:00:57.996Z",
+    "localBackupTimestamp": "2025-04-13T16:00:57.996Z"
+  },
+  {
+    "question": "Which type of bond is formed by the side-by-side overlap of p orbitals?",
+    "correct_answer": "Pi (π) bond",
+    "incorrect_answers": [
+      "Sigma (σ) bond",
+      "Ionic bond",
+      "Hydrogen bond",
+      "Metallic bond",
+      "Delta (δ) bond",
+      "Covalent bond (general)",
+      "Coordinate covalent bond"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Chemistry",
+    "difficulty": "hard",
+    "id": "939e47de-b851-4274-9495-3617eab79dac",
+    "created_at": "2025-04-13T22:00:57.997Z",
+    "backupTimestamp": "2025-04-13T22:00:57.998Z",
+    "localBackupTimestamp": "2025-04-13T16:00:57.998Z"
+  },
+  {
+    "question": "What is the mechanism by which enzymes lower the activation energy of a reaction?",
+    "correct_answer": "Stabilizing the transition state",
+    "incorrect_answers": [
+      "Increasing the temperature",
+      "Increasing reactant concentration",
+      "Changing the equilibrium constant",
+      "Providing an alternate reaction pathway",
+      "Decreasing the entropy of the reactants",
+      "Increasing the kinetic energy of reactants",
+      "Denaturing the substrate"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Chemistry",
+    "difficulty": "hard",
+    "id": "8a6f3fd7-46ce-4530-a277-435a6ea8072e",
+    "created_at": "2025-04-13T22:00:57.999Z",
+    "backupTimestamp": "2025-04-13T22:00:57.999Z",
+    "localBackupTimestamp": "2025-04-13T16:00:57.999Z"
+  },
+  {
+    "question": "What is the chemical symbol for Oxygen?",
+    "correct_answer": "O",
+    "incorrect_answers": [
+      "Ox",
+      "Oh",
+      "Hy",
+      "N",
+      "C",
+      "H",
+      "Os"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Chemistry",
+    "difficulty": "easy",
+    "id": "f1449fc3-bc30-4a97-8dcc-bfdf3e081ea6",
+    "created_at": "2025-04-13T22:01:20.126Z",
+    "backupTimestamp": "2025-04-13T22:01:20.127Z",
+    "localBackupTimestamp": "2025-04-13T16:01:20.127Z"
+  },
+  {
+    "question": "What is the chemical symbol for Hydrogen?",
+    "correct_answer": "H",
+    "incorrect_answers": [
+      "He",
+      "Hy",
+      "Ho",
+      "O",
+      "N",
+      "C",
+      "Li"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Chemistry",
+    "difficulty": "easy",
+    "id": "b45d4178-b4f5-4e96-99a9-fb28f031b3c2",
+    "created_at": "2025-04-13T22:01:27.085Z",
+    "backupTimestamp": "2025-04-13T22:01:27.088Z",
+    "localBackupTimestamp": "2025-04-13T16:01:27.088Z"
+  },
+  {
+    "question": "What is the chemical symbol for Carbon?",
+    "correct_answer": "C",
+    "incorrect_answers": [
+      "Ca",
+      "Co",
+      "Cr",
+      "Cl",
+      "Cu",
+      "K",
+      "Si"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Chemistry",
+    "difficulty": "easy",
+    "id": "e0cd62fe-02f7-4770-9b13-430dd1d17143",
+    "created_at": "2025-04-13T22:01:35.674Z",
+    "backupTimestamp": "2025-04-13T22:01:35.676Z",
+    "localBackupTimestamp": "2025-04-13T16:01:35.676Z"
+  },
+  {
+    "question": "What is the chemical symbol for Helium?",
+    "correct_answer": "He",
+    "incorrect_answers": [
+      "H",
+      "Li",
+      "Be",
+      "Ne",
+      "Ar",
+      "O",
+      "N"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Chemistry",
+    "difficulty": "easy",
+    "id": "0ffca3b6-62ac-4352-aeed-287615e4c229",
+    "created_at": "2025-04-13T22:01:42.435Z",
+    "backupTimestamp": "2025-04-13T22:01:42.438Z",
+    "localBackupTimestamp": "2025-04-13T16:01:42.438Z"
+  },
+  {
+    "question": "What is the chemical symbol for Calcium?",
+    "correct_answer": "Ca",
+    "incorrect_answers": [
+      "C",
+      "K",
+      "Cl",
+      "Co",
+      "Cu",
+      "Ce",
+      "Cr"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Chemistry",
+    "difficulty": "easy",
+    "id": "d0888b0a-4463-41b1-8a84-ded47933c7f7",
+    "created_at": "2025-04-13T22:01:46.317Z",
+    "backupTimestamp": "2025-04-13T22:01:46.318Z",
+    "localBackupTimestamp": "2025-04-13T16:01:46.318Z"
+  },
+  {
+    "question": "What is the chemical symbol for Tungsten?",
+    "correct_answer": "W",
+    "incorrect_answers": [
+      "T",
+      "Tu",
+      "Tn",
+      "Ta",
+      "Ti",
+      "Te",
+      "Th"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Chemistry",
+    "difficulty": "medium",
+    "id": "a63bee29-7ee0-4b11-86e1-98ca0b4317b0",
+    "created_at": "2025-04-13T22:01:49.520Z",
+    "backupTimestamp": "2025-04-13T22:01:49.522Z",
+    "localBackupTimestamp": "2025-04-13T16:01:49.522Z"
   }
 ]
