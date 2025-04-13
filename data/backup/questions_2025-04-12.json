@@ -342,7 +342,15 @@
   {
     "question": "What color is the creature known as The Hulk?",
     "correct_answer": "Green",
-    "incorrect_answers": ["Red", "Blue", "Yellow", "Grey", "Purple", "Orange", "Black"],
+    "incorrect_answers": [
+      "Red",
+      "Blue",
+      "Yellow",
+      "Grey",
+      "Purple",
+      "Orange",
+      "Black"
+    ],
     "main_category": "Pop Culture",
     "subcategory": "Movies",
     "difficulty": "easy",
@@ -1014,7 +1022,15 @@
   {
     "question": "What kind of animal is Rocket in 'Guardians of the Galaxy'?",
     "correct_answer": "Raccoon",
-    "incorrect_answers": ["Fox", "Badger", "Skunk", "Weasel", "Squirrel", "Ferret", "Lemur"],
+    "incorrect_answers": [
+      "Fox",
+      "Badger",
+      "Skunk",
+      "Weasel",
+      "Squirrel",
+      "Ferret",
+      "Lemur"
+    ],
     "main_category": "Pop Culture",
     "subcategory": "Movies",
     "difficulty": "easy",
@@ -1086,7 +1102,15 @@
   {
     "question": "What year was the original 'Blade Runner' released?",
     "correct_answer": "1982",
-    "incorrect_answers": ["1979", "1980", "1984", "1985", "1987", "1990", "1977"],
+    "incorrect_answers": [
+      "1979",
+      "1980",
+      "1984",
+      "1985",
+      "1987",
+      "1990",
+      "1977"
+    ],
     "main_category": "Pop Culture",
     "subcategory": "Movies",
     "difficulty": "medium",
@@ -1338,7 +1362,15 @@
   {
     "question": "What is the name of the artificial intelligence in the film '2001: A Space Odyssey'?",
     "correct_answer": "HAL 9000",
-    "incorrect_answers": ["Skynet", "VIKI", "GLaDOS", "Cortana", "JARVIS", "Mother", "Joshua"],
+    "incorrect_answers": [
+      "Skynet",
+      "VIKI",
+      "GLaDOS",
+      "Cortana",
+      "JARVIS",
+      "Mother",
+      "Joshua"
+    ],
     "main_category": "Pop Culture",
     "subcategory": "Movies",
     "difficulty": "medium",
@@ -1850,7 +1882,15 @@
   {
     "question": "What year was 'Citizen Kane' released?",
     "correct_answer": "1941",
-    "incorrect_answers": ["1939", "1940", "1942", "1946", "1950", "1952", "1936"],
+    "incorrect_answers": [
+      "1939",
+      "1940",
+      "1942",
+      "1946",
+      "1950",
+      "1952",
+      "1936"
+    ],
     "main_category": "Pop Culture",
     "subcategory": "Movies",
     "difficulty": "medium",
@@ -2102,7 +2142,15 @@
   {
     "question": "What government agency does Agent Smith work for in 'The Matrix'?",
     "correct_answer": "He is an Agent (program) of the Matrix itself",
-    "incorrect_answers": ["FBI", "CIA", "NSA", "MI6", "KGB", "Mossad", "Department of Defense"],
+    "incorrect_answers": [
+      "FBI",
+      "CIA",
+      "NSA",
+      "MI6",
+      "KGB",
+      "Mossad",
+      "Department of Defense"
+    ],
     "main_category": "Pop Culture",
     "subcategory": "Movies",
     "difficulty": "medium",
@@ -2174,7 +2222,15 @@
   {
     "question": "What is the dying word uttered by Charles Foster Kane in 'Citizen Kane'?",
     "correct_answer": "Rosebud",
-    "incorrect_answers": ["Susan", "Xanadu", "Mother", "Inquirer", "Thatcher", "Money", "Alone"],
+    "incorrect_answers": [
+      "Susan",
+      "Xanadu",
+      "Mother",
+      "Inquirer",
+      "Thatcher",
+      "Money",
+      "Alone"
+    ],
     "main_category": "Pop Culture",
     "subcategory": "Movies",
     "difficulty": "hard",
@@ -2366,7 +2422,15 @@
   {
     "question": "What does the 'T' in Thomas 'Neo' Anderson stand for in 'The Matrix'?",
     "correct_answer": "It's never revealed what the 'T' stands for.",
-    "incorrect_answers": ["Thomas", "Tyler", "Theodore", "Timothy", "Trevor", "Tobias", "Tristan"],
+    "incorrect_answers": [
+      "Thomas",
+      "Tyler",
+      "Theodore",
+      "Timothy",
+      "Trevor",
+      "Tobias",
+      "Tristan"
+    ],
     "main_category": "Pop Culture",
     "subcategory": "Movies",
     "difficulty": "hard",
@@ -3038,7 +3102,15 @@
   {
     "question": "What is the Japanese term for the giant monster genre exemplified by Godzilla?",
     "correct_answer": "Kaiju",
-    "incorrect_answers": ["Mecha", "Tokusatsu", "Jidaigeki", "Anime", "Manga", "Yokai", "Oni"],
+    "incorrect_answers": [
+      "Mecha",
+      "Tokusatsu",
+      "Jidaigeki",
+      "Anime",
+      "Manga",
+      "Yokai",
+      "Oni"
+    ],
     "main_category": "Pop Culture",
     "subcategory": "Movies",
     "difficulty": "hard",
@@ -3050,7 +3122,15 @@
   {
     "question": "In 'Dr. Strangelove', what is the recall code prefix that Colonel Mandrake needs to stop the B-52 bombers?",
     "correct_answer": "OPE",
-    "incorrect_answers": ["CRM", "BGD", "FGD", "KGB", "SAC", "TNT", "XYZ"],
+    "incorrect_answers": [
+      "CRM",
+      "BGD",
+      "FGD",
+      "KGB",
+      "SAC",
+      "TNT",
+      "XYZ"
+    ],
     "main_category": "Pop Culture",
     "subcategory": "Movies",
     "difficulty": "hard",
@@ -3118,5 +3198,3065 @@
     "created_at": "2025-04-13T01:34:28.688Z",
     "backupTimestamp": "2025-04-13T01:34:28.688Z",
     "localBackupTimestamp": "2025-04-12T19:34:28.688Z"
+  },
+  {
+    "question": "What is the name of the coffee shop where the main characters frequently hang out in 'Friends'?",
+    "correct_answer": "Central Perk",
+    "incorrect_answers": [
+      "Monk's Cafe",
+      "The Peach Pit",
+      "MacLaren's Pub",
+      "Luke's Diner",
+      "Cafe Nervosa",
+      "Arnold's Drive-In",
+      "The Max"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Television",
+    "difficulty": "easy",
+    "id": "bae6ad19-c555-49bc-93e2-1469a4ab7b0b",
+    "created_at": "2025-04-13T01:43:59.165Z",
+    "backupTimestamp": "2025-04-13T01:43:59.173Z",
+    "localBackupTimestamp": "2025-04-12T19:43:59.173Z"
+  },
+  {
+    "question": "What animated sitcom features the yellow-skinned Simpson family?",
+    "correct_answer": "The Simpsons",
+    "incorrect_answers": [
+      "Family Guy",
+      "South Park",
+      "Bob's Burgers",
+      "King of the Hill",
+      "American Dad!",
+      "Futurama",
+      "Rick and Morty"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Television",
+    "difficulty": "easy",
+    "id": "cad3cf00-7c65-4f67-b5b0-f557e0da5b2a",
+    "created_at": "2025-04-13T01:43:59.178Z",
+    "backupTimestamp": "2025-04-13T01:43:59.179Z",
+    "localBackupTimestamp": "2025-04-12T19:43:59.179Z"
+  },
+  {
+    "question": "In which city is the sitcom 'Seinfeld' primarily set?",
+    "correct_answer": "New York City",
+    "incorrect_answers": [
+      "Los Angeles",
+      "Chicago",
+      "Boston",
+      "Philadelphia",
+      "Seattle",
+      "Miami",
+      "San Francisco"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Television",
+    "difficulty": "easy",
+    "id": "8e15d9ec-f649-4f21-8d30-0b8e93f5cc88",
+    "created_at": "2025-04-13T01:43:59.184Z",
+    "backupTimestamp": "2025-04-13T01:43:59.186Z",
+    "localBackupTimestamp": "2025-04-12T19:43:59.186Z"
+  },
+  {
+    "question": "Who is the nerdy, socially awkward theoretical physicist in 'The Big Bang Theory'?",
+    "correct_answer": "Sheldon Cooper",
+    "incorrect_answers": [
+      "Leonard Hofstadter",
+      "Howard Wolowitz",
+      "Raj Koothrappali",
+      "Penny",
+      "Amy Farrah Fowler",
+      "Bernadette Rostenkowski",
+      "Stuart Bloom"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Television",
+    "difficulty": "easy",
+    "id": "25d1ff63-f32f-46aa-bc28-fdbc8b56cfb3",
+    "created_at": "2025-04-13T01:43:59.187Z",
+    "backupTimestamp": "2025-04-13T01:43:59.189Z",
+    "localBackupTimestamp": "2025-04-12T19:43:59.189Z"
+  },
+  {
+    "question": "What TV show features Walter White, a high school chemistry teacher turned meth cook?",
+    "correct_answer": "Breaking Bad",
+    "incorrect_answers": [
+      "The Sopranos",
+      "The Wire",
+      "Mad Men",
+      "Dexter",
+      "Ozark",
+      "Better Call Saul",
+      "Narcos"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Television",
+    "difficulty": "easy",
+    "id": "4bf54744-d67b-4b10-98bc-25aa6ea683a8",
+    "created_at": "2025-04-13T01:43:59.191Z",
+    "backupTimestamp": "2025-04-13T01:43:59.192Z",
+    "localBackupTimestamp": "2025-04-12T19:43:59.192Z"
+  },
+  {
+    "question": "What is the name of the Demogorgon-fighting group of kids in 'Stranger Things'?",
+    "correct_answer": "The Party / The Hawkins AV Club (commonly referred to)",
+    "incorrect_answers": [
+      "The Losers' Club",
+      "The Goonies",
+      "The Scooby Gang",
+      "The Breakfast Club",
+      "The Midnight Society",
+      "The Order of the Phoenix",
+      "The Fellowship"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Television",
+    "difficulty": "easy",
+    "id": "dc50e9d4-f57c-4814-8fb0-cfecaf2a7784",
+    "created_at": "2025-04-13T01:43:59.193Z",
+    "backupTimestamp": "2025-04-13T01:43:59.193Z",
+    "localBackupTimestamp": "2025-04-12T19:43:59.193Z"
+  },
+  {
+    "question": "What mockumentary series follows the employees of the Dunder Mifflin Paper Company?",
+    "correct_answer": "The Office (US)",
+    "incorrect_answers": [
+      "Parks and Recreation",
+      "Modern Family",
+      "Arrested Development",
+      "Veep",
+      "30 Rock",
+      "Community",
+      "Brooklyn Nine-Nine"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Television",
+    "difficulty": "easy",
+    "id": "fffe5e73-a649-4096-be19-8d84cb96fb72",
+    "created_at": "2025-04-13T01:43:59.201Z",
+    "backupTimestamp": "2025-04-13T01:43:59.202Z",
+    "localBackupTimestamp": "2025-04-12T19:43:59.202Z"
+  },
+  {
+    "question": "What iconic fantasy series features Houses Stark, Lannister, and Targaryen vying for the Iron Throne?",
+    "correct_answer": "Game of Thrones",
+    "incorrect_answers": [
+      "The Lord of the Rings: The Rings of Power",
+      "The Witcher",
+      "Vikings",
+      "House of the Dragon",
+      "Outlander",
+      "The Wheel of Time",
+      "Shadow and Bone"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Television",
+    "difficulty": "easy",
+    "id": "0cc5537a-6ef3-4ab3-9929-f69482050790",
+    "created_at": "2025-04-13T01:43:59.203Z",
+    "backupTimestamp": "2025-04-13T01:43:59.203Z",
+    "localBackupTimestamp": "2025-04-12T19:43:59.203Z"
+  },
+  {
+    "question": "What competition show features aspiring singers judged by celebrities like Katy Perry, Lionel Richie, and Luke Bryan (in recent seasons)?",
+    "correct_answer": "American Idol",
+    "incorrect_answers": [
+      "The Voice",
+      "The X Factor",
+      "America's Got Talent",
+      "So You Think You Can Dance",
+      "Dancing with the Stars",
+      "The Masked Singer",
+      "Star Search"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Television",
+    "difficulty": "easy",
+    "id": "f89e357a-7652-46cf-a097-8d2a15fa94d4",
+    "created_at": "2025-04-13T01:43:59.205Z",
+    "backupTimestamp": "2025-04-13T01:43:59.206Z",
+    "localBackupTimestamp": "2025-04-12T19:43:59.206Z"
+  },
+  {
+    "question": "What medical drama is set in Seattle Grace Hospital (later Grey Sloan Memorial)?",
+    "correct_answer": "Grey's Anatomy",
+    "incorrect_answers": [
+      "ER",
+      "House",
+      "Scrubs",
+      "The Good Doctor",
+      "Chicago Med",
+      "New Amsterdam",
+      "St. Elsewhere"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Television",
+    "difficulty": "easy",
+    "id": "e933f88d-66e4-49e0-a979-d7dffc5db8e8",
+    "created_at": "2025-04-13T01:43:59.207Z",
+    "backupTimestamp": "2025-04-13T01:43:59.207Z",
+    "localBackupTimestamp": "2025-04-12T19:43:59.207Z"
+  },
+  {
+    "question": "What show features Ted Mosby telling his children the long story of how he met their mother?",
+    "correct_answer": "How I Met Your Mother",
+    "incorrect_answers": [
+      "Friends",
+      "Seinfeld",
+      "The Big Bang Theory",
+      "Cheers",
+      "Frasier",
+      "Two and a Half Men",
+      "New Girl"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Television",
+    "difficulty": "easy",
+    "id": "dca62d7b-a181-4ba0-a7cc-c3eca5a9a988",
+    "created_at": "2025-04-13T01:43:59.209Z",
+    "backupTimestamp": "2025-04-13T01:43:59.209Z",
+    "localBackupTimestamp": "2025-04-12T19:43:59.209Z"
+  },
+  {
+    "question": "Who plays the cynical, misanthropic diagnostician Dr. Gregory House?",
+    "correct_answer": "Hugh Laurie",
+    "incorrect_answers": [
+      "Patrick Dempsey",
+      "George Clooney",
+      "Zach Braff",
+      "Neil Patrick Harris",
+      "Kelsey Grammer",
+      "Matthew Perry",
+      "Steve Carell"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Television",
+    "difficulty": "easy",
+    "id": "e92d5033-886d-4842-89e6-faf40e01f410",
+    "created_at": "2025-04-13T01:43:59.210Z",
+    "backupTimestamp": "2025-04-13T01:43:59.210Z",
+    "localBackupTimestamp": "2025-04-12T19:43:59.210Z"
+  },
+  {
+    "question": "What sci-fi show follows the crew of the starship Enterprise exploring the galaxy?",
+    "correct_answer": "Star Trek (various series)",
+    "incorrect_answers": [
+      "Star Wars (various series)",
+      "Battlestar Galactica",
+      "Firefly",
+      "Doctor Who",
+      "The Expanse",
+      "Stargate SG-1",
+      "Babylon 5"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Television",
+    "difficulty": "easy",
+    "id": "d88d07f2-2bec-4273-b29d-f25233aa5185",
+    "created_at": "2025-04-13T01:43:59.211Z",
+    "backupTimestamp": "2025-04-13T01:43:59.211Z",
+    "localBackupTimestamp": "2025-04-12T19:43:59.211Z"
+  },
+  {
+    "question": "What show features a group of survivors stranded on a mysterious island after a plane crash?",
+    "correct_answer": "Lost",
+    "incorrect_answers": [
+      "Survivor",
+      "The Walking Dead",
+      "Gilligan's Island",
+      "Yellowjackets",
+      "The 100",
+      "Manifest",
+      "Jericho"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Television",
+    "difficulty": "easy",
+    "id": "21d1b2ac-9d8b-492d-9b51-1e351197d1c0",
+    "created_at": "2025-04-13T01:43:59.212Z",
+    "backupTimestamp": "2025-04-13T01:43:59.213Z",
+    "localBackupTimestamp": "2025-04-12T19:43:59.213Z"
+  },
+  {
+    "question": "What animated show features the adventures of SpongeBob SquarePants in Bikini Bottom?",
+    "correct_answer": "SpongeBob SquarePants",
+    "incorrect_answers": [
+      "The Fairly OddParents",
+      "Rugrats",
+      "Adventure Time",
+      "Regular Show",
+      "Phineas and Ferb",
+      "Dexter's Laboratory",
+      "The Powerpuff Girls"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Television",
+    "difficulty": "easy",
+    "id": "fb54dd70-04d6-4df8-a3cd-e076af70a2b5",
+    "created_at": "2025-04-13T01:43:59.214Z",
+    "backupTimestamp": "2025-04-13T01:43:59.215Z",
+    "localBackupTimestamp": "2025-04-12T19:43:59.215Z"
+  },
+  {
+    "question": "What long-running sketch comedy show airs live from New York on Saturday nights?",
+    "correct_answer": "Saturday Night Live (SNL)",
+    "incorrect_answers": [
+      "Mad TV",
+      "In Living Color",
+      "Key & Peele",
+      "Chappelle's Show",
+      "The Carol Burnett Show",
+      "Monty Python's Flying Circus",
+      "Whose Line Is It Anyway?"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Television",
+    "difficulty": "easy",
+    "id": "a0f9d2fe-1a3b-4809-8748-2b9d0b6b3cfd",
+    "created_at": "2025-04-13T01:43:59.216Z",
+    "backupTimestamp": "2025-04-13T01:43:59.217Z",
+    "localBackupTimestamp": "2025-04-12T19:43:59.217Z"
+  },
+  {
+    "question": "In 'The Walking Dead', what are the zombies commonly referred to as?",
+    "correct_answer": "Walkers",
+    "incorrect_answers": [
+      "Zombies",
+      "Infected",
+      "Biters",
+      "Geeks",
+      "Roamers",
+      "Lurkers",
+      "The Dead"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Television",
+    "difficulty": "easy",
+    "id": "882678f0-32da-403d-9b21-6e99a29a4438",
+    "created_at": "2025-04-13T01:43:59.218Z",
+    "backupTimestamp": "2025-04-13T01:43:59.218Z",
+    "localBackupTimestamp": "2025-04-12T19:43:59.218Z"
+  },
+  {
+    "question": "What network originally aired the influential crime drama 'The Sopranos'?",
+    "correct_answer": "HBO",
+    "incorrect_answers": [
+      "Showtime",
+      "AMC",
+      "FX",
+      "Netflix",
+      "NBC",
+      "CBS",
+      "ABC"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Television",
+    "difficulty": "easy",
+    "id": "9361885d-31ae-43ef-ac32-c81b3ce6f887",
+    "created_at": "2025-04-13T01:43:59.219Z",
+    "backupTimestamp": "2025-04-13T01:43:59.221Z",
+    "localBackupTimestamp": "2025-04-12T19:43:59.221Z"
+  },
+  {
+    "question": "What reality show features contestants competing in challenges on a remote island to win $1 million?",
+    "correct_answer": "Survivor",
+    "incorrect_answers": [
+      "The Amazing Race",
+      "Big Brother",
+      "Naked and Afraid",
+      "The Challenge",
+      "Alone",
+      "Fear Factor",
+      "American Ninja Warrior"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Television",
+    "difficulty": "easy",
+    "id": "498a9844-f00f-4050-8d33-2fbafce017d7",
+    "created_at": "2025-04-13T01:43:59.221Z",
+    "backupTimestamp": "2025-04-13T01:43:59.222Z",
+    "localBackupTimestamp": "2025-04-12T19:43:59.222Z"
+  },
+  {
+    "question": "What is the profession of Leslie Knope in 'Parks and Recreation' at the beginning of the series?",
+    "correct_answer": "Deputy Director of the Pawnee Parks and Recreation Department",
+    "incorrect_answers": [
+      "City Manager",
+      "Mayor of Pawnee",
+      "Director of the Parks Department",
+      "City Councilwoman",
+      "State Senator",
+      "Governor of Indiana",
+      "Librarian"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Television",
+    "difficulty": "easy",
+    "id": "49e59eb7-8954-4414-9957-d96030e5ea42",
+    "created_at": "2025-04-13T01:43:59.224Z",
+    "backupTimestamp": "2025-04-13T01:43:59.224Z",
+    "localBackupTimestamp": "2025-04-12T19:43:59.224Z"
+  },
+  {
+    "question": "What is the name of the high school where 'Buffy the Vampire Slayer' is initially set?",
+    "correct_answer": "Sunnydale High School",
+    "incorrect_answers": [
+      "West Beverly High",
+      "Bayside High",
+      "Capeside High",
+      "Tree Hill High",
+      "McKinley High",
+      "Shermer High",
+      "Hogwarts"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Television",
+    "difficulty": "easy",
+    "id": "bc3840c1-57a7-4ad1-ba8d-a50e6f412534",
+    "created_at": "2025-04-13T01:43:59.225Z",
+    "backupTimestamp": "2025-04-13T01:43:59.225Z",
+    "localBackupTimestamp": "2025-04-12T19:43:59.225Z"
+  },
+  {
+    "question": "What TV series centers on the Crawley family and their servants in early 20th century England?",
+    "correct_answer": "Downton Abbey",
+    "incorrect_answers": [
+      "The Crown",
+      "Upstairs, Downstairs",
+      "Bridgerton",
+      "Poldark",
+      "Call the Midwife",
+      "Victoria",
+      "Peaky Blinders"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Television",
+    "difficulty": "easy",
+    "id": "dc0d5872-da77-4f2a-b309-8f9f052c87a5",
+    "created_at": "2025-04-13T01:43:59.226Z",
+    "backupTimestamp": "2025-04-13T01:43:59.226Z",
+    "localBackupTimestamp": "2025-04-12T19:43:59.226Z"
+  },
+  {
+    "question": "Which character in 'Seinfeld' is known for his eccentric entrances and get-rich-quick schemes?",
+    "correct_answer": "Cosmo Kramer",
+    "incorrect_answers": [
+      "Jerry Seinfeld",
+      "George Costanza",
+      "Elaine Benes",
+      "Newman",
+      "Frank Costanza",
+      "J. Peterman",
+      "Uncle Leo"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Television",
+    "difficulty": "easy",
+    "id": "88512a33-9001-4901-9e89-7fcd3753690c",
+    "created_at": "2025-04-13T01:43:59.227Z",
+    "backupTimestamp": "2025-04-13T01:43:59.228Z",
+    "localBackupTimestamp": "2025-04-12T19:43:59.228Z"
+  },
+  {
+    "question": "What streaming service produced hit shows like 'Stranger Things', 'The Crown', and 'Bridgerton'?",
+    "correct_answer": "Netflix",
+    "incorrect_answers": [
+      "HBO Max (Max)",
+      "Hulu",
+      "Amazon Prime Video",
+      "Disney+",
+      "Apple TV+",
+      "Peacock",
+      "Paramount+"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Television",
+    "difficulty": "easy",
+    "id": "bcca6906-4a40-4661-839a-94fd9651f989",
+    "created_at": "2025-04-13T01:43:59.228Z",
+    "backupTimestamp": "2025-04-13T01:43:59.229Z",
+    "localBackupTimestamp": "2025-04-12T19:43:59.229Z"
+  },
+  {
+    "question": "What show follows the political machinations of Frank Underwood?",
+    "correct_answer": "House of Cards (US)",
+    "incorrect_answers": [
+      "The West Wing",
+      "Veep",
+      "Scandal",
+      "Madam Secretary",
+      "Designated Survivor",
+      "Homeland",
+      "24"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Television",
+    "difficulty": "easy",
+    "id": "09c8f48b-dde6-426c-9fac-faa14225332f",
+    "created_at": "2025-04-13T01:43:59.229Z",
+    "backupTimestamp": "2025-04-13T01:43:59.230Z",
+    "localBackupTimestamp": "2025-04-12T19:43:59.230Z"
+  },
+  {
+    "question": "What is the name of Homer Simpson's favorite brand of beer?",
+    "correct_answer": "Duff Beer",
+    "incorrect_answers": [
+      "Buzz Cola",
+      "Heisler Beer",
+      "Pawtucket Patriot Ale",
+      "Alamo Beer",
+      "Schraderbräu",
+      "Butterbeer",
+      "Panther Pilsner"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Television",
+    "difficulty": "easy",
+    "id": "28a184a9-a362-4090-b5cb-68a3ad05ad13",
+    "created_at": "2025-04-13T01:43:59.232Z",
+    "backupTimestamp": "2025-04-13T01:43:59.232Z",
+    "localBackupTimestamp": "2025-04-12T19:43:59.232Z"
+  },
+  {
+    "question": "What animated show features four young boys in the fictional town of South Park, Colorado?",
+    "correct_answer": "South Park",
+    "incorrect_answers": [
+      "The Simpsons",
+      "Family Guy",
+      "Beavis and Butt-Head",
+      "King of the Hill",
+      "Bob's Burgers",
+      "Rick and Morty",
+      "American Dad!"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Television",
+    "difficulty": "easy",
+    "id": "9d5727a5-6360-4b17-9409-a73ae0582519",
+    "created_at": "2025-04-13T01:43:59.233Z",
+    "backupTimestamp": "2025-04-13T01:43:59.234Z",
+    "localBackupTimestamp": "2025-04-12T19:43:59.234Z"
+  },
+  {
+    "question": "What TV show features a chemistry teacher named Walter White?",
+    "correct_answer": "Breaking Bad",
+    "incorrect_answers": [
+      "Dexter",
+      "Weeds",
+      "Ozark",
+      "Sons of Anarchy",
+      "The Wire",
+      "Narcos",
+      "Peaky Blinders"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Television",
+    "difficulty": "easy",
+    "id": "4e098577-727b-440c-9242-fa2a1532ae69",
+    "created_at": "2025-04-13T01:43:59.234Z",
+    "backupTimestamp": "2025-04-13T01:43:59.235Z",
+    "localBackupTimestamp": "2025-04-12T19:43:59.235Z"
+  },
+  {
+    "question": "In 'Friends', what is Joey Tribbiani's profession?",
+    "correct_answer": "Actor",
+    "incorrect_answers": [
+      "Chef",
+      "Paleontologist",
+      "Transponster (according to Rachel)",
+      "Masseur",
+      "Data Processor",
+      "Musician",
+      "Waiter"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Television",
+    "difficulty": "easy",
+    "id": "38594e69-05fc-4b6b-85db-cc4b7b4f779c",
+    "created_at": "2025-04-13T01:43:59.236Z",
+    "backupTimestamp": "2025-04-13T01:43:59.237Z",
+    "localBackupTimestamp": "2025-04-12T19:43:59.237Z"
+  },
+  {
+    "question": "What government department does Ron Swanson work for in 'Parks and Recreation'?",
+    "correct_answer": "Parks and Recreation Department",
+    "incorrect_answers": [
+      "Police Department",
+      "Fire Department",
+      "Public Works Department",
+      "City Manager's Office",
+      "Library Department",
+      "Planning Department",
+      "Animal Control"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Television",
+    "difficulty": "easy",
+    "id": "9acba5d4-4b52-4f32-bbf9-6018d5e17c33",
+    "created_at": "2025-04-13T01:43:59.239Z",
+    "backupTimestamp": "2025-04-13T01:43:59.239Z",
+    "localBackupTimestamp": "2025-04-12T19:43:59.239Z"
+  },
+  {
+    "question": "What is the name of the main character, a brooding advertising executive, in 'Mad Men'?",
+    "correct_answer": "Don Draper",
+    "incorrect_answers": [
+      "Pete Campbell",
+      "Roger Sterling",
+      "Lane Pryce",
+      "Bert Cooper",
+      "Ken Cosgrove",
+      "Harry Crane",
+      "Ted Chaough"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Television",
+    "difficulty": "easy",
+    "id": "19bb911d-66c3-4571-b056-a65675afb64b",
+    "created_at": "2025-04-13T01:43:59.240Z",
+    "backupTimestamp": "2025-04-13T01:43:59.241Z",
+    "localBackupTimestamp": "2025-04-12T19:43:59.241Z"
+  },
+  {
+    "question": "What sci-fi series features a time-traveling alien known as 'The Doctor'?",
+    "correct_answer": "Doctor Who",
+    "incorrect_answers": [
+      "Star Trek",
+      "Quantum Leap",
+      "Torchwood",
+      "Stargate",
+      "Timeless",
+      "Travelers",
+      "The Flash"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Television",
+    "difficulty": "easy",
+    "id": "c71dfe79-1594-4b5a-b5dc-8883264d561b",
+    "created_at": "2025-04-13T01:43:59.242Z",
+    "backupTimestamp": "2025-04-13T01:43:59.243Z",
+    "localBackupTimestamp": "2025-04-12T19:43:59.243Z"
+  },
+  {
+    "question": "What popular 90s sitcom starred Will Smith as a fictionalized version of himself moving to Bel-Air?",
+    "correct_answer": "The Fresh Prince of Bel-Air",
+    "incorrect_answers": [
+      "Martin",
+      "Family Matters",
+      "Saved by the Bell",
+      "Full House",
+      "Boy Meets World",
+      "Living Single",
+      "Home Improvement"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Television",
+    "difficulty": "easy",
+    "id": "b19354f6-618b-4bfd-920f-e9d7c4de2a03",
+    "created_at": "2025-04-13T01:43:59.243Z",
+    "backupTimestamp": "2025-04-13T01:43:59.244Z",
+    "localBackupTimestamp": "2025-04-12T19:43:59.244Z"
+  },
+  {
+    "question": "What type of business is Bob Belcher's family restaurant in 'Bob's Burgers'?",
+    "correct_answer": "Burger Restaurant",
+    "incorrect_answers": [
+      "Pizza Parlor",
+      "Taco Stand",
+      "Seafood Shack",
+      "Coffee Shop",
+      "Ice Cream Shop",
+      "Bakery",
+      "Diner"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Television",
+    "difficulty": "easy",
+    "id": "35e0a830-e1cd-48fa-bf85-a7c7fca932d8",
+    "created_at": "2025-04-13T01:43:59.245Z",
+    "backupTimestamp": "2025-04-13T01:43:59.245Z",
+    "localBackupTimestamp": "2025-04-12T19:43:59.245Z"
+  },
+  {
+    "question": "What city serves as the primary setting for the crime drama 'The Wire'?",
+    "correct_answer": "Baltimore",
+    "incorrect_answers": [
+      "New York City",
+      "Philadelphia",
+      "Washington D.C.",
+      "Chicago",
+      "Detroit",
+      "New Orleans",
+      "Los Angeles"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Television",
+    "difficulty": "easy",
+    "id": "0fac9aef-b763-4f19-b0de-9047d27d26c0",
+    "created_at": "2025-04-13T01:43:59.246Z",
+    "backupTimestamp": "2025-04-13T01:43:59.246Z",
+    "localBackupTimestamp": "2025-04-12T19:43:59.246Z"
+  },
+  {
+    "question": "Who is the patriarch of the Bluth family in 'Arrested Development'?",
+    "correct_answer": "George Bluth Sr.",
+    "incorrect_answers": [
+      "Michael Bluth",
+      "Gob Bluth",
+      "Buster Bluth",
+      "Tobias Fünke",
+      "Oscar Bluth",
+      "Lucille Bluth",
+      "Barry Zuckerkorn"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Television",
+    "difficulty": "easy",
+    "id": "964ccb66-24fd-42fa-8547-a2332d913248",
+    "created_at": "2025-04-13T01:43:59.247Z",
+    "backupTimestamp": "2025-04-13T01:43:59.247Z",
+    "localBackupTimestamp": "2025-04-12T19:43:59.247Z"
+  },
+  {
+    "question": "What reality TV dynasty features Kris, Kim, Kourtney, Khloé, Kendall, and Kylie?",
+    "correct_answer": "Keeping Up with the Kardashians",
+    "incorrect_answers": [
+      "The Real Housewives of Beverly Hills",
+      "The Osbournes",
+      "Duck Dynasty",
+      "Jersey Shore",
+      "Jon & Kate Plus 8",
+      "Here Comes Honey Boo Boo",
+      "Vanderpump Rules"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Television",
+    "difficulty": "easy",
+    "id": "fd7e355b-4dcb-4c43-aa6e-3da55da6e5f4",
+    "created_at": "2025-04-13T01:43:59.248Z",
+    "backupTimestamp": "2025-04-13T01:43:59.248Z",
+    "localBackupTimestamp": "2025-04-12T19:43:59.248Z"
+  },
+  {
+    "question": "What show starred Jennifer Aniston, Courteney Cox, Lisa Kudrow, Matt LeBlanc, Matthew Perry, and David Schwimmer?",
+    "correct_answer": "Friends",
+    "incorrect_answers": [
+      "Seinfeld",
+      "Cheers",
+      "Frasier",
+      "Will & Grace",
+      "How I Met Your Mother",
+      "The Big Bang Theory",
+      "ER"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Television",
+    "difficulty": "easy",
+    "id": "43a77c6c-c3fd-461c-bbb6-013f48bb0ad3",
+    "created_at": "2025-04-13T01:43:59.249Z",
+    "backupTimestamp": "2025-04-13T01:43:59.249Z",
+    "localBackupTimestamp": "2025-04-12T19:43:59.249Z"
+  },
+  {
+    "question": "What is the name of the bar where Sam Malone works in 'Cheers'?",
+    "correct_answer": "Cheers",
+    "incorrect_answers": [
+      "The Drunken Clam",
+      "Paddy's Pub",
+      "MacLaren's Pub",
+      "Moe's Tavern",
+      "The Regal Beagle",
+      "Monk's Cafe",
+      "Central Perk"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Television",
+    "difficulty": "easy",
+    "id": "742e4d88-1003-4ea1-8e46-d5d42106561b",
+    "created_at": "2025-04-13T01:43:59.250Z",
+    "backupTimestamp": "2025-04-13T01:43:59.250Z",
+    "localBackupTimestamp": "2025-04-12T19:43:59.250Z"
+  },
+  {
+    "question": "What character does Steve Carell play in 'The Office' (US)?",
+    "correct_answer": "Michael Scott",
+    "incorrect_answers": [
+      "Dwight Schrute",
+      "Jim Halpert",
+      "Pam Beesly",
+      "Andy Bernard",
+      "Kevin Malone",
+      "Oscar Martinez",
+      "Stanley Hudson"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Television",
+    "difficulty": "easy",
+    "id": "6cf84ae9-c2ec-417e-acc0-4780d6cf1d20",
+    "created_at": "2025-04-13T01:43:59.251Z",
+    "backupTimestamp": "2025-04-13T01:43:59.252Z",
+    "localBackupTimestamp": "2025-04-12T19:43:59.252Z"
+  },
+  {
+    "question": "What acclaimed HBO series follows the lives of New Jersey mob boss Tony Soprano?",
+    "correct_answer": "The Sopranos",
+    "incorrect_answers": [
+      "Boardwalk Empire",
+      "The Wire",
+      "Oz",
+      "Deadwood",
+      "Six Feet Under",
+      "Game of Thrones",
+      "True Detective"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Television",
+    "difficulty": "easy",
+    "id": "3479bc56-2fa2-46bd-8186-470289a6a78f",
+    "created_at": "2025-04-13T01:43:59.252Z",
+    "backupTimestamp": "2025-04-13T01:43:59.253Z",
+    "localBackupTimestamp": "2025-04-12T19:43:59.253Z"
+  },
+  {
+    "question": "What is the name of the main character in the show 'Dexter', who is a blood spatter analyst and serial killer?",
+    "correct_answer": "Dexter Morgan",
+    "incorrect_answers": [
+      "Walter White",
+      "Tony Soprano",
+      "Frank Underwood",
+      "Hannibal Lecter",
+      "Norman Bates",
+      "Patrick Bateman",
+      "Joe Goldberg"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Television",
+    "difficulty": "easy",
+    "id": "9c6bab72-6f80-482c-a52d-adcbdc689b2b",
+    "created_at": "2025-04-13T01:43:59.254Z",
+    "backupTimestamp": "2025-04-13T01:43:59.255Z",
+    "localBackupTimestamp": "2025-04-12T19:43:59.255Z"
+  },
+  {
+    "question": "Which 'Game of Thrones' character is known as the 'Mother of Dragons'?",
+    "correct_answer": "Daenerys Targaryen",
+    "incorrect_answers": [
+      "Cersei Lannister",
+      "Sansa Stark",
+      "Arya Stark",
+      "Brienne of Tarth",
+      "Margaery Tyrell",
+      "Melisandre",
+      "Catelyn Stark"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Television",
+    "difficulty": "easy",
+    "id": "5e249a2d-9d37-4172-9ccd-1a37256407e6",
+    "created_at": "2025-04-13T01:43:59.255Z",
+    "backupTimestamp": "2025-04-13T01:43:59.256Z",
+    "localBackupTimestamp": "2025-04-12T19:43:59.256Z"
+  },
+  {
+    "question": "What show features the Tanner family, including Uncle Jesse and Uncle Joey?",
+    "correct_answer": "Full House",
+    "incorrect_answers": [
+      "Family Matters",
+      "Step by Step",
+      "Home Improvement",
+      "Growing Pains",
+      "Boy Meets World",
+      "Saved by the Bell",
+      "Roseanne"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Television",
+    "difficulty": "easy",
+    "id": "d007cf05-5338-4946-8101-017df0614f8f",
+    "created_at": "2025-04-13T01:43:59.256Z",
+    "backupTimestamp": "2025-04-13T01:43:59.257Z",
+    "localBackupTimestamp": "2025-04-12T19:43:59.257Z"
+  },
+  {
+    "question": "What is the name of the fictional town where 'Stranger Things' is set?",
+    "correct_answer": "Hawkins, Indiana",
+    "incorrect_answers": [
+      "Derry, Maine",
+      "Sunnydale, California",
+      "Twin Peaks, Washington",
+      "Pawnee, Indiana",
+      "Riverdale",
+      "Stars Hollow, Connecticut",
+      "Mystic Falls, Virginia"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Television",
+    "difficulty": "easy",
+    "id": "4d8540d5-9488-4ec9-96ac-53dceea4151a",
+    "created_at": "2025-04-13T01:43:59.258Z",
+    "backupTimestamp": "2025-04-13T01:43:59.258Z",
+    "localBackupTimestamp": "2025-04-12T19:43:59.258Z"
+  },
+  {
+    "question": "What is the name of the paper company Michael Scott manages?",
+    "correct_answer": "Dunder Mifflin",
+    "incorrect_answers": [
+      "Sterling Cooper",
+      "Vance Refrigeration",
+      "Staples",
+      "Office Depot",
+      "Wernham Hogg",
+      "Prestige Worldwide",
+      "Michael Scott Paper Company"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Television",
+    "difficulty": "easy",
+    "id": "a8d61fae-d024-450c-b37d-94ef946fd2f1",
+    "created_at": "2025-04-13T01:43:59.259Z",
+    "backupTimestamp": "2025-04-13T01:43:59.259Z",
+    "localBackupTimestamp": "2025-04-12T19:43:59.259Z"
+  },
+  {
+    "question": "In 'Breaking Bad', what is the name of Walter White's former student and partner-in-crime?",
+    "correct_answer": "Jesse Pinkman",
+    "incorrect_answers": [
+      "Saul Goodman",
+      "Gustavo Fring",
+      "Mike Ehrmantraut",
+      "Hank Schrader",
+      "Badger Mayhew",
+      "Skinny Pete",
+      "Gale Boetticher"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Television",
+    "difficulty": "easy",
+    "id": "704061f9-19d9-4639-89bb-e8a5a2804000",
+    "created_at": "2025-04-13T01:43:59.260Z",
+    "backupTimestamp": "2025-04-13T01:43:59.261Z",
+    "localBackupTimestamp": "2025-04-12T19:43:59.261Z"
+  },
+  {
+    "question": "What is the family name of the main characters in 'Family Guy'?",
+    "correct_answer": "Griffin",
+    "incorrect_answers": [
+      "Simpson",
+      "Smith",
+      "Belcher",
+      "Hill",
+      "Marsh",
+      "Turner",
+      "Watterson"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Television",
+    "difficulty": "easy",
+    "id": "4a5768eb-1e17-41f0-a796-2baea6acf4c8",
+    "created_at": "2025-04-13T01:43:59.261Z",
+    "backupTimestamp": "2025-04-13T01:43:59.262Z",
+    "localBackupTimestamp": "2025-04-12T19:43:59.262Z"
+  },
+  {
+    "question": "What reality show involves couples getting married having only met at the altar?",
+    "correct_answer": "Married at First Sight",
+    "incorrect_answers": [
+      "The Bachelor",
+      "Love is Blind",
+      "90 Day Fiancé",
+      "Temptation Island",
+      "Love Island",
+      "Too Hot to Handle",
+      "Joe Millionaire"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Television",
+    "difficulty": "easy",
+    "id": "3abc0933-47b9-4eb8-9d71-a7184c9fc53b",
+    "created_at": "2025-04-13T01:43:59.262Z",
+    "backupTimestamp": "2025-04-13T01:43:59.263Z",
+    "localBackupTimestamp": "2025-04-12T19:43:59.263Z"
+  },
+  {
+    "question": "What is the name of the high school attended by the characters in 'Saved by the Bell'?",
+    "correct_answer": "Bayside High School",
+    "incorrect_answers": [
+      "Sunnydale High School",
+      "West Beverly High",
+      "Rydell High",
+      "McKinley High",
+      "Capeside High",
+      "Tree Hill High",
+      "Degrassi Community School"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Television",
+    "difficulty": "easy",
+    "id": "2e69f2b9-9999-42c7-adb3-d32871365f06",
+    "created_at": "2025-04-13T01:43:59.264Z",
+    "backupTimestamp": "2025-04-13T01:43:59.267Z",
+    "localBackupTimestamp": "2025-04-12T19:43:59.267Z"
+  },
+  {
+    "question": "Who created the critically acclaimed series 'The Wire'?",
+    "correct_answer": "David Simon",
+    "incorrect_answers": [
+      "David Chase",
+      "Vince Gilligan",
+      "Matthew Weiner",
+      "Alan Ball",
+      "Aaron Sorkin",
+      "J.J. Abrams",
+      "Damon Lindelof"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Television",
+    "difficulty": "medium",
+    "id": "6835e8e0-be27-4229-b47c-8709d3d794fd",
+    "created_at": "2025-04-13T01:43:59.269Z",
+    "backupTimestamp": "2025-04-13T01:43:59.270Z",
+    "localBackupTimestamp": "2025-04-12T19:43:59.270Z"
+  },
+  {
+    "question": "In 'Parks and Recreation', what is the name of Ron Swanson's jazz saxophonist alter ego?",
+    "correct_answer": "Duke Silver",
+    "incorrect_answers": [
+      "Johnny Karate",
+      "Burt Macklin",
+      "Kip Hackman",
+      "Smooth Ron",
+      "The Night Viper",
+      "Sergeant Thunderfist",
+      "DJ Roomba"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Television",
+    "difficulty": "medium",
+    "id": "d0eaba81-98c5-45c2-a68c-f877e0b148bd",
+    "created_at": "2025-04-13T01:43:59.273Z",
+    "backupTimestamp": "2025-04-13T01:43:59.273Z",
+    "localBackupTimestamp": "2025-04-12T19:43:59.273Z"
+  },
+  {
+    "question": "What is the name of the diner frequented by the characters in 'Seinfeld'?",
+    "correct_answer": "Monk's Cafe",
+    "incorrect_answers": [
+      "Central Perk",
+      "Luke's Diner",
+      "The Peach Pit",
+      "Arnold's Drive-In",
+      "Mel's Diner",
+      "Reggie's Diner",
+      "JJ's Diner"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Television",
+    "difficulty": "medium",
+    "id": "f4d5b856-9696-4db4-b6b4-e5ecf3127681",
+    "created_at": "2025-04-13T01:43:59.274Z",
+    "backupTimestamp": "2025-04-13T01:43:59.275Z",
+    "localBackupTimestamp": "2025-04-12T19:43:59.275Z"
+  },
+  {
+    "question": "What was the name of the crashed Oceanic Airlines flight in 'Lost'?",
+    "correct_answer": "Oceanic Flight 815",
+    "incorrect_answers": [
+      "Oceanic Flight 316",
+      "Ajira Airways Flight 316",
+      "Oceanic Flight 108",
+      "The Black Rock",
+      "DHARM Air Flight 77",
+      "Flight 4815",
+      "Flight 15"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Television",
+    "difficulty": "medium",
+    "id": "fd55d062-789c-4a5a-b7ba-751c0bc6e8e5",
+    "created_at": "2025-04-13T01:43:59.277Z",
+    "backupTimestamp": "2025-04-13T01:43:59.278Z",
+    "localBackupTimestamp": "2025-04-12T19:43:59.278Z"
+  },
+  {
+    "question": "Which advertising agency is the main setting for the early seasons of 'Mad Men'?",
+    "correct_answer": "Sterling Cooper",
+    "incorrect_answers": [
+      "Sterling Cooper Draper Pryce (SCDP)",
+      "Cutler, Gleason, and Chaough (CGC)",
+      "McCann Erickson",
+      "Ogilvy & Mather",
+      "DDB Needham",
+      "Young & Rubicam",
+      "Ted Bates"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Television",
+    "difficulty": "medium",
+    "id": "7d75dac2-a56c-4943-88f6-db5ae608c1ad",
+    "created_at": "2025-04-13T01:43:59.280Z",
+    "backupTimestamp": "2025-04-13T01:43:59.280Z",
+    "localBackupTimestamp": "2025-04-12T19:43:59.280Z"
+  },
+  {
+    "question": "What condition does Tobias Fünke suffer from in 'Arrested Development'?",
+    "correct_answer": "Never-nude syndrome",
+    "incorrect_answers": [
+      "Analrapist (self-proclaimed title)",
+      "Blue Man Group obsession",
+      "Fear of chickens",
+      "Vertigo",
+      "Amnesia",
+      "Multiple personality disorder",
+      "Kleptomania"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Television",
+    "difficulty": "medium",
+    "id": "097f6d9b-6df9-433c-9a5b-48471e43f210",
+    "created_at": "2025-04-13T01:43:59.282Z",
+    "backupTimestamp": "2025-04-13T01:43:59.283Z",
+    "localBackupTimestamp": "2025-04-12T19:43:59.283Z"
+  },
+  {
+    "question": "In 'The Sopranos', what is the name of Tony's psychiatrist?",
+    "correct_answer": "Dr. Jennifer Melfi",
+    "incorrect_answers": [
+      "Dr. Elliot Kupferberg",
+      "Dr. Linda Fraser",
+      "Dr. Wendy Kobler",
+      "Dr. Richard Nygard",
+      "Dr. Sidney Freedman",
+      "Dr. Frasier Crane",
+      "Dr. Lilith Sternin"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Television",
+    "difficulty": "medium",
+    "id": "b79a9f1d-1bbb-48cf-94ca-73bebdddf088",
+    "created_at": "2025-04-13T01:43:59.284Z",
+    "backupTimestamp": "2025-04-13T01:43:59.284Z",
+    "localBackupTimestamp": "2025-04-12T19:43:59.284Z"
+  },
+  {
+    "question": "What is the motto of House Stark in 'Game of Thrones'?",
+    "correct_answer": "Winter Is Coming",
+    "incorrect_answers": [
+      "Hear Me Roar",
+      "Ours is the Fury",
+      "Family, Duty, Honor",
+      "Growing Strong",
+      "Unbowed, Unbent, Unbroken",
+      "We Do Not Sow",
+      "Fire and Blood"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Television",
+    "difficulty": "medium",
+    "id": "bcf54d63-7119-4df0-9a89-9ba1e2b5f12c",
+    "created_at": "2025-04-13T01:43:59.286Z",
+    "backupTimestamp": "2025-04-13T01:43:59.287Z",
+    "localBackupTimestamp": "2025-04-12T19:43:59.287Z"
+  },
+  {
+    "question": "Which character created the 'Cones of Dunshire' board game in 'Parks and Recreation'?",
+    "correct_answer": "Ben Wyatt",
+    "incorrect_answers": [
+      "Leslie Knope",
+      "Ron Swanson",
+      "Andy Dwyer",
+      "Tom Haverford",
+      "April Ludgate",
+      "Chris Traeger",
+      "Garry Gergich"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Television",
+    "difficulty": "medium",
+    "id": "72e843ba-f2e3-442f-ad1c-0f71f0675832",
+    "created_at": "2025-04-13T01:43:59.289Z",
+    "backupTimestamp": "2025-04-13T01:43:59.291Z",
+    "localBackupTimestamp": "2025-04-12T19:43:59.291Z"
+  },
+  {
+    "question": "What specific type of business does Walter White use as a money laundering front in 'Breaking Bad'?",
+    "correct_answer": "Car Wash (A1A Car Wash)",
+    "incorrect_answers": [
+      "Laser Tag Arena (Lazer Base)",
+      "Fast Food Restaurant (Los Pollos Hermanos)",
+      "Law Firm (Saul Goodman & Associates)",
+      "Pest Control Company (Vamonos Pest)",
+      "Mattress Store",
+      "Nail Salon",
+      "Bowling Alley"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Television",
+    "difficulty": "medium",
+    "id": "de7d550d-3ace-4673-bc9d-757de6e542ce",
+    "created_at": "2025-04-13T01:43:59.292Z",
+    "backupTimestamp": "2025-04-13T01:43:59.293Z",
+    "localBackupTimestamp": "2025-04-12T19:43:59.293Z"
+  },
+  {
+    "question": "What is the name of the high school glee club featured in the show 'Glee'?",
+    "correct_answer": "New Directions",
+    "incorrect_answers": [
+      "The Warblers",
+      "Vocal Adrenaline",
+      "The Troubletones",
+      "Acafellas",
+      "Rhythm Explosion",
+      "The Treblemakers",
+      "The Barden Bellas"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Television",
+    "difficulty": "medium",
+    "id": "6458f03f-490a-40d4-910d-fae5171065cc",
+    "created_at": "2025-04-13T01:43:59.294Z",
+    "backupTimestamp": "2025-04-13T01:43:59.294Z",
+    "localBackupTimestamp": "2025-04-12T19:43:59.294Z"
+  },
+  {
+    "question": "In 'Buffy the Vampire Slayer', what is the name of Buffy's Watcher?",
+    "correct_answer": "Rupert Giles",
+    "incorrect_answers": [
+      "Wesley Wyndam-Pryce",
+      "Merrick",
+      "Quentin Travers",
+      "Sam Zabuto",
+      "Gwendolyn Post",
+      "Andrew Wells",
+      "Angel"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Television",
+    "difficulty": "medium",
+    "id": "9c015631-3e9b-46be-8566-5895dd5cb634",
+    "created_at": "2025-04-13T01:43:59.295Z",
+    "backupTimestamp": "2025-04-13T01:43:59.296Z",
+    "localBackupTimestamp": "2025-04-12T19:43:59.296Z"
+  },
+  {
+    "question": "What fictional news program is anchored by Ron Burgundy in the film 'Anchorman', which later inspired a brief real-life podcast?",
+    "correct_answer": "KVWN Channel 4 News Team",
+    "incorrect_answers": [
+      "Action News",
+      "Eyewitness News",
+      "NewsCenter 5",
+      "WJLA 7 News",
+      "Global News Network",
+      "Wolf News",
+      "The Daily Show"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Television",
+    "difficulty": "medium",
+    "id": "dcd0e0a5-3c0b-4185-9695-1a8a345fb3aa",
+    "created_at": "2025-04-13T01:43:59.297Z",
+    "backupTimestamp": "2025-04-13T01:43:59.298Z",
+    "localBackupTimestamp": "2025-04-12T19:43:59.298Z"
+  },
+  {
+    "question": "What is the name of the mysterious organization behind the island experiments in 'Lost'?",
+    "correct_answer": "The DHARMA Initiative",
+    "incorrect_answers": [
+      "The Others",
+      "The Hanso Foundation",
+      "Widmore Corporation",
+      "The Hostiles",
+      "The Candidates",
+      "The Black Rock Coalition",
+      "The Ajira Collective"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Television",
+    "difficulty": "medium",
+    "id": "db2c979d-b735-4a1e-9447-f49a0f630b70",
+    "created_at": "2025-04-13T01:43:59.300Z",
+    "backupTimestamp": "2025-04-13T01:43:59.300Z",
+    "localBackupTimestamp": "2025-04-12T19:43:59.300Z"
+  },
+  {
+    "question": "Which 'Doctor Who' actor portrayed the Tenth Doctor, known for his pinstripe suits and Converse sneakers?",
+    "correct_answer": "David Tennant",
+    "incorrect_answers": [
+      "Christopher Eccleston",
+      "Matt Smith",
+      "Peter Capaldi",
+      "Jodie Whittaker",
+      "Tom Baker",
+      "Peter Davison",
+      "Sylvester McCoy"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Television",
+    "difficulty": "medium",
+    "id": "1e709d54-a9fa-4c54-bed5-e8bbf5447d5e",
+    "created_at": "2025-04-13T01:43:59.302Z",
+    "backupTimestamp": "2025-04-13T01:43:59.303Z",
+    "localBackupTimestamp": "2025-04-12T19:43:59.303Z"
+  },
+  {
+    "question": "In 'The Office' (US), what is the name of Dwight Schrute's beet farm?",
+    "correct_answer": "Schrute Farms",
+    "incorrect_answers": [
+      "Beets Motel",
+      "The Beet Retreat",
+      "Dwight's Dirt Farm",
+      "Mose's Meadow",
+      "The Aggro-Tourism Experience",
+      "Pennsylvania Dutch Delight",
+      "Beetlejuice Acres"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Television",
+    "difficulty": "medium",
+    "id": "6561e2ff-f7d2-4184-a89d-bb50c675e57e",
+    "created_at": "2025-04-13T01:43:59.304Z",
+    "backupTimestamp": "2025-04-13T01:43:59.304Z",
+    "localBackupTimestamp": "2025-04-12T19:43:59.304Z"
+  },
+  {
+    "question": "What sci-fi series created by Joss Whedon follows the crew of the spaceship Serenity?",
+    "correct_answer": "Firefly",
+    "incorrect_answers": [
+      "Buffy the Vampire Slayer",
+      "Angel",
+      "Dollhouse",
+      "Agents of S.H.I.E.L.D.",
+      "Battlestar Galactica",
+      "Farscape",
+      "The Expanse"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Television",
+    "difficulty": "medium",
+    "id": "c65bd62a-3640-4654-9ebb-73c3d8251b41",
+    "created_at": "2025-04-13T01:43:59.305Z",
+    "backupTimestamp": "2025-04-13T01:43:59.305Z",
+    "localBackupTimestamp": "2025-04-12T19:43:59.305Z"
+  },
+  {
+    "question": "What is the name of the bar owned by the gang in 'It's Always Sunny in Philadelphia'?",
+    "correct_answer": "Paddy's Pub",
+    "incorrect_answers": [
+      "Moe's Tavern",
+      "MacLaren's Pub",
+      "The Drunken Clam",
+      "Cheers",
+      "The Regal Beagle",
+      "The Snakehole Lounge",
+      "Kavanaugh's Bar"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Television",
+    "difficulty": "medium",
+    "id": "2be8d628-2e88-4b10-a461-e51f15c583d6",
+    "created_at": "2025-04-13T01:43:59.306Z",
+    "backupTimestamp": "2025-04-13T01:43:59.306Z",
+    "localBackupTimestamp": "2025-04-12T19:43:59.306Z"
+  },
+  {
+    "question": "What historical period is the primary setting for the series 'Bridgerton'?",
+    "correct_answer": "Regency era London",
+    "incorrect_answers": [
+      "Victorian era London",
+      "Tudor England",
+      "Edwardian era London",
+      "Georgian era London",
+      "Elizabethan era England",
+      "The Roaring Twenties New York",
+      "French Revolution Paris"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Television",
+    "difficulty": "medium",
+    "id": "ed6f9109-9d55-4af3-917b-773fbbf2ff41",
+    "created_at": "2025-04-13T01:43:59.308Z",
+    "backupTimestamp": "2025-04-13T01:43:59.308Z",
+    "localBackupTimestamp": "2025-04-12T19:43:59.308Z"
+  },
+  {
+    "question": "What song serves as the iconic opening theme for 'Friends'?",
+    "correct_answer": "I'll Be There for You by The Rembrandts",
+    "incorrect_answers": [
+      "Where Everybody Knows Your Name by Gary Portnoy (Cheers)",
+      "Theme from Seinfeld by Jonathan Wolff",
+      "The Big Bang Theory Theme by Barenaked Ladies",
+      "How I Met Your Mother Theme (Hey Beautiful) by The Solids",
+      "Woke Up This Morning by Alabama 3 (The Sopranos)",
+      "Bad Boys by Inner Circle (COPS)",
+      "Everywhere You Look by Jesse Frederick (Full House)"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Television",
+    "difficulty": "medium",
+    "id": "84f0be0f-1c37-436d-84c8-97f774e178f4",
+    "created_at": "2025-04-13T01:43:59.309Z",
+    "backupTimestamp": "2025-04-13T01:43:59.309Z",
+    "localBackupTimestamp": "2025-04-12T19:43:59.309Z"
+  },
+  {
+    "question": "In 'Stranger Things', what is Eleven's favorite frozen waffle brand?",
+    "correct_answer": "Eggo",
+    "incorrect_answers": [
+      "Lego",
+      "Kellogg's",
+      "Pop-Tarts",
+      "Pillsbury",
+      "Aunt Jemima",
+      "Van's",
+      "Kashi"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Television",
+    "difficulty": "medium",
+    "id": "8a0b5b08-bd7e-46ed-b665-f9f39117c49b",
+    "created_at": "2025-04-13T01:43:59.310Z",
+    "backupTimestamp": "2025-04-13T01:43:59.311Z",
+    "localBackupTimestamp": "2025-04-12T19:43:59.311Z"
+  },
+  {
+    "question": "What presidential administration is depicted in Aaron Sorkin's drama 'The West Wing'?",
+    "correct_answer": "The Bartlet Administration (Josiah Bartlet)",
+    "incorrect_answers": [
+      "The Santos Administration",
+      "The Walken Administration",
+      "The Lassiter Administration",
+      "The Clinton Administration",
+      "The Bush Administration",
+      "The Reagan Administration",
+      "The Kennedy Administration"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Television",
+    "difficulty": "medium",
+    "id": "17979789-962e-4beb-84fe-8720d09407b9",
+    "created_at": "2025-04-13T01:43:59.312Z",
+    "backupTimestamp": "2025-04-13T01:43:59.312Z",
+    "localBackupTimestamp": "2025-04-12T19:43:59.312Z"
+  },
+  {
+    "question": "What is the name of the fictional substance that gives superheroes powers in 'The Boys'?",
+    "correct_answer": "Compound V",
+    "incorrect_answers": [
+      "Mutagen",
+      "Terrigen Mist",
+      "Kryptonite",
+      "Adamantium",
+      "Vibranium",
+      "The Speed Force",
+      "Extremis"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Television",
+    "difficulty": "medium",
+    "id": "fe01767b-f2a4-49a5-853d-b47048bca329",
+    "created_at": "2025-04-13T01:43:59.313Z",
+    "backupTimestamp": "2025-04-13T01:43:59.314Z",
+    "localBackupTimestamp": "2025-04-12T19:43:59.314Z"
+  },
+  {
+    "question": "Which character famously declared 'I am the one who knocks!' in 'Breaking Bad'?",
+    "correct_answer": "Walter White (Heisenberg)",
+    "incorrect_answers": [
+      "Jesse Pinkman",
+      "Saul Goodman",
+      "Gustavo Fring",
+      "Mike Ehrmantraut",
+      "Hank Schrader",
+      "Skyler White",
+      "Tuco Salamanca"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Television",
+    "difficulty": "medium",
+    "id": "2cfd8186-afe6-4446-8ee8-5cfa9fc0c54b",
+    "created_at": "2025-04-13T01:43:59.315Z",
+    "backupTimestamp": "2025-04-13T01:43:59.315Z",
+    "localBackupTimestamp": "2025-04-12T19:43:59.315Z"
+  },
+  {
+    "question": "What Emmy-winning comedy series stars Julia Louis-Dreyfus as Vice President Selina Meyer?",
+    "correct_answer": "Veep",
+    "incorrect_answers": [
+      "Parks and Recreation",
+      "The New Adventures of Old Christine",
+      "Seinfeld",
+      "30 Rock",
+      "Arrested Development",
+      "Curb Your Enthusiasm",
+      "Madam Secretary"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Television",
+    "difficulty": "medium",
+    "id": "060c2174-dbe8-47f7-9c34-918ffa8c1c74",
+    "created_at": "2025-04-13T01:43:59.317Z",
+    "backupTimestamp": "2025-04-13T01:43:59.318Z",
+    "localBackupTimestamp": "2025-04-12T19:43:59.318Z"
+  },
+  {
+    "question": "What is the name of the Simpsons' friendly, but overly religious neighbor?",
+    "correct_answer": "Ned Flanders",
+    "incorrect_answers": [
+      "Moe Szyslak",
+      "Apu Nahasapeemapetilon",
+      "Principal Skinner",
+      "Chief Wiggum",
+      "Barney Gumble",
+      "Reverend Lovejoy",
+      "Lenny Leonard"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Television",
+    "difficulty": "medium",
+    "id": "17583a02-3fe3-41be-9052-a95dd823f599",
+    "created_at": "2025-04-13T01:43:59.319Z",
+    "backupTimestamp": "2025-04-13T01:43:59.319Z",
+    "localBackupTimestamp": "2025-04-12T19:43:59.319Z"
+  },
+  {
+    "question": "What real-life board game is often played by the characters in 'The Big Bang Theory'?",
+    "correct_answer": "Settlers of Catan",
+    "incorrect_answers": [
+      "Dungeons & Dragons",
+      "Magic: The Gathering",
+      "Risk",
+      "Monopoly",
+      "Ticket to Ride",
+      "Carcassonne",
+      "Chess (3D)"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Television",
+    "difficulty": "medium",
+    "id": "0fb8e341-a403-4ad8-93fe-eb66b0daa663",
+    "created_at": "2025-04-13T01:43:59.320Z",
+    "backupTimestamp": "2025-04-13T01:43:59.321Z",
+    "localBackupTimestamp": "2025-04-12T19:43:59.321Z"
+  },
+  {
+    "question": "What is the name of the coffee shop owner who pines for Rachel in 'Friends'?",
+    "correct_answer": "Gunther",
+    "incorrect_answers": [
+      "Terry",
+      "Mr. Heckles",
+      "Mr. Treeger",
+      "Mike Hannigan",
+      "Richard Burke",
+      "Paolo",
+      "Frank Buffay Jr."
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Television",
+    "difficulty": "medium",
+    "id": "004230c5-8ee8-4b2a-9edb-0a76e0531db8",
+    "created_at": "2025-04-13T01:43:59.325Z",
+    "backupTimestamp": "2025-04-13T01:43:59.326Z",
+    "localBackupTimestamp": "2025-04-12T19:43:59.326Z"
+  },
+  {
+    "question": "Which member of the 'Friends' group is a paleontologist?",
+    "correct_answer": "Ross Geller",
+    "incorrect_answers": [
+      "Chandler Bing",
+      "Joey Tribbiani",
+      "Monica Geller",
+      "Rachel Green",
+      "Phoebe Buffay",
+      "Mike Hannigan",
+      "Gunther"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Television",
+    "difficulty": "medium",
+    "id": "c858f5f6-357b-4594-9adc-69c380158815",
+    "created_at": "2025-04-13T01:43:59.327Z",
+    "backupTimestamp": "2025-04-13T01:43:59.328Z",
+    "localBackupTimestamp": "2025-04-12T19:43:59.328Z"
+  },
+  {
+    "question": "What alias does FBI agent Dale Cooper use while undercover in the later parts of 'Twin Peaks'?",
+    "correct_answer": "Dougie Jones",
+    "incorrect_answers": [
+      "Mr. C",
+      "Gordon Cole",
+      "Phillip Jeffries",
+      "Windom Earle",
+      "Denise Bryson",
+      "Chester Desmond",
+      "Albert Rosenfield"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Television",
+    "difficulty": "medium",
+    "id": "5fdf0411-a7c5-489d-aa67-c468faf2bd29",
+    "created_at": "2025-04-13T01:43:59.329Z",
+    "backupTimestamp": "2025-04-13T01:43:59.329Z",
+    "localBackupTimestamp": "2025-04-12T19:43:59.329Z"
+  },
+  {
+    "question": "What city is the setting for the original 'CSI: Crime Scene Investigation'?",
+    "correct_answer": "Las Vegas",
+    "incorrect_answers": [
+      "Miami",
+      "New York",
+      "Los Angeles",
+      "Chicago",
+      "San Francisco",
+      "Seattle",
+      "Boston"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Television",
+    "difficulty": "medium",
+    "id": "adccf2ef-30a7-4b07-af63-4996b8904812",
+    "created_at": "2025-04-13T01:43:59.331Z",
+    "backupTimestamp": "2025-04-13T01:43:59.331Z",
+    "localBackupTimestamp": "2025-04-12T19:43:59.331Z"
+  },
+  {
+    "question": "In the UK version of 'The Office', who plays the counterpart to Michael Scott, David Brent?",
+    "correct_answer": "Ricky Gervais",
+    "incorrect_answers": [
+      "Stephen Merchant",
+      "Martin Freeman",
+      "Mackenzie Crook",
+      "Steve Carell",
+      "Simon Pegg",
+      "Karl Pilkington",
+      "Rowan Atkinson"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Television",
+    "difficulty": "medium",
+    "id": "d2d2d1fe-74e4-4d6c-9fd3-8384364a18f3",
+    "created_at": "2025-04-13T01:43:59.332Z",
+    "backupTimestamp": "2025-04-13T01:43:59.333Z",
+    "localBackupTimestamp": "2025-04-12T19:43:59.333Z"
+  },
+  {
+    "question": "What is the name of the Korean survival drama where contestants play deadly children's games?",
+    "correct_answer": "Squid Game",
+    "incorrect_answers": [
+      "Parasite",
+      "Kingdom",
+      "Alice in Borderland",
+      "All of Us Are Dead",
+      "Sweet Home",
+      "Hellbound",
+      "The Silent Sea"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Television",
+    "difficulty": "medium",
+    "id": "5a546dbc-8a06-4f5e-8fe1-bb3084f65fbf",
+    "created_at": "2025-04-13T01:43:59.335Z",
+    "backupTimestamp": "2025-04-13T01:43:59.336Z",
+    "localBackupTimestamp": "2025-04-12T19:43:59.336Z"
+  },
+  {
+    "question": "What is the name of the fictional TV show within the show '30 Rock'?",
+    "correct_answer": "TGS with Tracy Jordan (originally The Girlie Show)",
+    "incorrect_answers": [
+      "Queen of Jordan",
+      "MILF Island",
+      "America's Kidz Got Singing",
+      "Bitch Hunter",
+      "Gold Case",
+      "Sports Shouting",
+      "Homonym!"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Television",
+    "difficulty": "medium",
+    "id": "7dbd195c-6599-446a-9e51-d4852e24c59a",
+    "created_at": "2025-04-13T01:43:59.337Z",
+    "backupTimestamp": "2025-04-13T01:43:59.338Z",
+    "localBackupTimestamp": "2025-04-12T19:43:59.338Z"
+  },
+  {
+    "question": "What does the acronym 'SCPD' stand for on the badges in 'Brooklyn Nine-Nine'?",
+    "correct_answer": "It doesn't appear on badges; they use 'NYPD'.",
+    "incorrect_answers": [
+      "Scranton City Police Department",
+      "Sterling Cooper Police Division",
+      "South Central Police Department",
+      "Special Crimes Police Department",
+      "Sunnyvale City Police Department",
+      "Seattle Central Police Division",
+      "Springfield County Police Department"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Television",
+    "difficulty": "medium",
+    "id": "0a5000d5-a2fd-478d-860a-8a21a87e7a85",
+    "created_at": "2025-04-13T01:43:59.339Z",
+    "backupTimestamp": "2025-04-13T01:43:59.340Z",
+    "localBackupTimestamp": "2025-04-12T19:43:59.340Z"
+  },
+  {
+    "question": "What is the name of the spaceship captained by Jean-Luc Picard in 'Star Trek: The Next Generation'?",
+    "correct_answer": "USS Enterprise (NCC-1701-D)",
+    "incorrect_answers": [
+      "USS Voyager",
+      "Deep Space Nine",
+      "USS Defiant",
+      "USS Discovery",
+      "USS Enterprise (NCC-1701)",
+      "USS Cerritos",
+      "USS Stargazer"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Television",
+    "difficulty": "medium",
+    "id": "bf0eafb3-725a-49e6-8b50-e3bb6aafbe21",
+    "created_at": "2025-04-13T01:43:59.341Z",
+    "backupTimestamp": "2025-04-13T01:43:59.342Z",
+    "localBackupTimestamp": "2025-04-12T19:43:59.342Z"
+  },
+  {
+    "question": "In 'Seinfeld', what is George Costanza's long-desired, but often faked, profession?",
+    "correct_answer": "Architect",
+    "incorrect_answers": [
+      "Marine Biologist",
+      "Latex Salesman",
+      "Hand Model",
+      "Importer/Exporter",
+      "Writer for 'Pendant Publishing'",
+      "Employee at Kruger Industrial Smoothing",
+      "Assistant to the Traveling Secretary (Yankees)"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Television",
+    "difficulty": "medium",
+    "id": "be971387-0699-497c-bd6a-dde70961a44a",
+    "created_at": "2025-04-13T01:43:59.343Z",
+    "backupTimestamp": "2025-04-13T01:43:59.344Z",
+    "localBackupTimestamp": "2025-04-12T19:43:59.344Z"
+  },
+  {
+    "question": "What is the name of the fictional Minnesota town where 'Fargo' (Season 1) is primarily set?",
+    "correct_answer": "Bemidji",
+    "incorrect_answers": [
+      "Luverne",
+      "Fargo",
+      "Duluth",
+      "Eden Valley",
+      "St. Cloud",
+      "Brainerd (movie setting)",
+      "Sioux Falls"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Television",
+    "difficulty": "medium",
+    "id": "0607d8c8-0e5c-4f8a-bb23-8a58df3b69d0",
+    "created_at": "2025-04-13T01:43:59.344Z",
+    "backupTimestamp": "2025-04-13T01:43:59.345Z",
+    "localBackupTimestamp": "2025-04-12T19:43:59.345Z"
+  },
+  {
+    "question": "What is the name of the theme park where Maeve Millay works in 'Westworld' Season 1?",
+    "correct_answer": "Westworld (specifically the Mariposa Saloon)",
+    "incorrect_answers": [
+      "Shogun World",
+      "The Raj",
+      "Warworld",
+      "Futureworld",
+      "Delos Destination",
+      "Sweetwater Park",
+      "Escalante"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Television",
+    "difficulty": "medium",
+    "id": "6a833305-5411-4c55-b02d-c3660bbbb1b8",
+    "created_at": "2025-04-13T01:43:59.346Z",
+    "backupTimestamp": "2025-04-13T01:43:59.346Z",
+    "localBackupTimestamp": "2025-04-12T19:43:59.346Z"
+  },
+  {
+    "question": "What animated series follows the escapades of Fry, a pizza delivery boy frozen in 1999 and thawed out in 2999?",
+    "correct_answer": "Futurama",
+    "incorrect_answers": [
+      "Rick and Morty",
+      "The Simpsons",
+      "Disenchantment",
+      "Final Space",
+      "Solar Opposites",
+      "American Dad!",
+      "Bob's Burgers"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Television",
+    "difficulty": "medium",
+    "id": "be564d14-fb7f-4e9e-b051-7bb42d52285f",
+    "created_at": "2025-04-13T01:43:59.347Z",
+    "backupTimestamp": "2025-04-13T01:43:59.348Z",
+    "localBackupTimestamp": "2025-04-12T19:43:59.348Z"
+  },
+  {
+    "question": "What is the name of the FBI agent duo investigating paranormal phenomena in 'The X-Files'?",
+    "correct_answer": "Fox Mulder and Dana Scully",
+    "incorrect_answers": [
+      "Dale Cooper and Harry S. Truman",
+      "Sam and Dean Winchester",
+      "Olivia Dunham and Peter Bishop",
+      "Jack Bauer and Chloe O'Brian",
+      "Rust Cohle and Marty Hart",
+      "Sherlock Holmes and John Watson",
+      "Elliot Stabler and Olivia Benson"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Television",
+    "difficulty": "medium",
+    "id": "6f474d91-62c5-4e03-80a4-7e51ff527d4f",
+    "created_at": "2025-04-13T01:43:59.348Z",
+    "backupTimestamp": "2025-04-13T01:43:59.349Z",
+    "localBackupTimestamp": "2025-04-12T19:43:59.349Z"
+  },
+  {
+    "question": "What is the name of the tiny horse beloved by the citizens of Pawnee in 'Parks and Recreation'?",
+    "correct_answer": "Li'l Sebastian",
+    "incorrect_answers": [
+      "Champion",
+      "Ginuwine",
+      "Mr. Peanutbutter",
+      "Buttercup",
+      "Seabiscuit",
+      "Black Beauty",
+      "Spirit"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Television",
+    "difficulty": "medium",
+    "id": "df692554-43b6-4809-9df5-ba72517dd34f",
+    "created_at": "2025-04-13T01:43:59.350Z",
+    "backupTimestamp": "2025-04-13T01:43:59.350Z",
+    "localBackupTimestamp": "2025-04-12T19:43:59.350Z"
+  },
+  {
+    "question": "Which character frequently exclaims 'D'oh!' in 'The Simpsons'?",
+    "correct_answer": "Homer Simpson",
+    "incorrect_answers": [
+      "Bart Simpson",
+      "Marge Simpson",
+      "Lisa Simpson",
+      "Maggie Simpson",
+      "Ned Flanders",
+      "Mr. Burns",
+      "Krusty the Clown"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Television",
+    "difficulty": "medium",
+    "id": "04701404-7e69-4f1d-a448-a1e72f22e667",
+    "created_at": "2025-04-13T01:43:59.352Z",
+    "backupTimestamp": "2025-04-13T01:43:59.353Z",
+    "localBackupTimestamp": "2025-04-12T19:43:59.353Z"
+  },
+  {
+    "question": "What color is the meth produced by Walter White and Jesse Pinkman, known for its high purity?",
+    "correct_answer": "Blue",
+    "incorrect_answers": [
+      "Clear/White",
+      "Yellow",
+      "Pink",
+      "Green",
+      "Red",
+      "Purple",
+      "Orange"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Television",
+    "difficulty": "medium",
+    "id": "ceee2b5e-ba6a-47bb-986c-127d8d3c5016",
+    "created_at": "2025-04-13T01:43:59.354Z",
+    "backupTimestamp": "2025-04-13T01:43:59.355Z",
+    "localBackupTimestamp": "2025-04-12T19:43:59.355Z"
+  },
+  {
+    "question": "What is the name of the kingdom where Queen Elizabeth II resides in the series 'The Crown'?",
+    "correct_answer": "The United Kingdom",
+    "incorrect_answers": [
+      "Westeros",
+      "Genovia",
+      "Zamunda",
+      "Aldovia",
+      "Narnia",
+      "Camelot",
+      "The Commonwealth Realm (more general)"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Television",
+    "difficulty": "medium",
+    "id": "ea4cc94d-af50-4104-a228-d222db0edf9b",
+    "created_at": "2025-04-13T01:43:59.356Z",
+    "backupTimestamp": "2025-04-13T01:43:59.357Z",
+    "localBackupTimestamp": "2025-04-12T19:43:59.357Z"
+  },
+  {
+    "question": "What is the name of the AI assistant often interacting with Michael Knight in 'Knight Rider'?",
+    "correct_answer": "KITT (Knight Industries Two Thousand)",
+    "incorrect_answers": [
+      "HAL 9000",
+      "JARVIS",
+      "Cortana",
+      "Skynet",
+      "GLaDOS",
+      "Samantha",
+      "Mother"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Television",
+    "difficulty": "medium",
+    "id": "5eaf9791-6297-41ff-bf2d-f5670d67af5b",
+    "created_at": "2025-04-13T01:43:59.358Z",
+    "backupTimestamp": "2025-04-13T01:43:59.358Z",
+    "localBackupTimestamp": "2025-04-12T19:43:59.358Z"
+  },
+  {
+    "question": "In 'Frasier', what is the name of Frasier Crane's brother?",
+    "correct_answer": "Niles Crane",
+    "incorrect_answers": [
+      "Martin Crane",
+      "Sam Malone",
+      "Woody Boyd",
+      "Cliff Clavin",
+      "Norm Peterson",
+      "Frederick Crane",
+      "Eddie (the dog)"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Television",
+    "difficulty": "medium",
+    "id": "81f89d10-35c6-4933-900e-9d2344758232",
+    "created_at": "2025-04-13T01:43:59.359Z",
+    "backupTimestamp": "2025-04-13T01:43:59.359Z",
+    "localBackupTimestamp": "2025-04-12T19:43:59.359Z"
+  },
+  {
+    "question": "What reality TV show features Gordon Ramsay critiquing struggling restaurants?",
+    "correct_answer": "Kitchen Nightmares",
+    "incorrect_answers": [
+      "Hell's Kitchen",
+      "MasterChef",
+      "Hotel Hell",
+      "Top Chef",
+      "Chopped",
+      "Restaurant: Impossible",
+      "Bar Rescue"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Television",
+    "difficulty": "medium",
+    "id": "05621796-67fc-4fbb-88ab-77d144a2bed6",
+    "created_at": "2025-04-13T01:43:59.360Z",
+    "backupTimestamp": "2025-04-13T01:43:59.360Z",
+    "localBackupTimestamp": "2025-04-12T19:43:59.360Z"
+  },
+  {
+    "question": "What is the title of the first episode of 'Game of Thrones'?",
+    "correct_answer": "Winter Is Coming",
+    "incorrect_answers": [
+      "The Kingsroad",
+      "Lord Snow",
+      "Cripples, Bastards, and Broken Things",
+      "The Wolf and the Lion",
+      "A Golden Crown",
+      "You Win or You Die",
+      "The Pointy End"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Television",
+    "difficulty": "medium",
+    "id": "66901122-fc6c-4dac-97d4-bebb59c85640",
+    "created_at": "2025-04-13T01:43:59.361Z",
+    "backupTimestamp": "2025-04-13T01:43:59.361Z",
+    "localBackupTimestamp": "2025-04-12T19:43:59.361Z"
+  },
+  {
+    "question": "What show, created by Amy Sherman-Palladino, follows a 1950s housewife pursuing stand-up comedy?",
+    "correct_answer": "The Marvelous Mrs. Maisel",
+    "incorrect_answers": [
+      "Gilmore Girls",
+      "Bunheads",
+      "Mad Men",
+      "GLOW",
+      "I Love Lucy",
+      "Hacks",
+      "Fleabag"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Television",
+    "difficulty": "medium",
+    "id": "469b32cf-3633-421b-91a6-d32d3c93409e",
+    "created_at": "2025-04-13T01:43:59.362Z",
+    "backupTimestamp": "2025-04-13T01:43:59.363Z",
+    "localBackupTimestamp": "2025-04-12T19:43:59.363Z"
+  },
+  {
+    "question": "What instrument does Lisa Simpson famously play?",
+    "correct_answer": "Saxophone",
+    "incorrect_answers": [
+      "Trumpet",
+      "Flute",
+      "Violin",
+      "Guitar",
+      "Piano",
+      "Drums",
+      "Clarinet"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Television",
+    "difficulty": "medium",
+    "id": "e9d4e015-8946-40d4-aabb-2b278aafbf15",
+    "created_at": "2025-04-13T01:43:59.364Z",
+    "backupTimestamp": "2025-04-13T01:43:59.364Z",
+    "localBackupTimestamp": "2025-04-12T19:43:59.364Z"
+  },
+  {
+    "question": "In 'How I Met Your Mother', what is the name of the bar where the main characters frequently gather?",
+    "correct_answer": "MacLaren's Pub",
+    "incorrect_answers": [
+      "Central Perk",
+      "Monk's Cafe",
+      "Paddy's Pub",
+      "Cheers",
+      "The Drunken Clam",
+      "The Snakehole Lounge",
+      "Cafe Nervosa"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Television",
+    "difficulty": "medium",
+    "id": "6bb87a41-a984-4a4b-afc3-6e93b0a7e6ee",
+    "created_at": "2025-04-13T01:43:59.365Z",
+    "backupTimestamp": "2025-04-13T01:43:59.365Z",
+    "localBackupTimestamp": "2025-04-12T19:43:59.365Z"
+  },
+  {
+    "question": "What is the name of the fictional Minnesota town that lends its name to a Coen Brothers film and subsequent anthology TV series?",
+    "correct_answer": "Fargo",
+    "incorrect_answers": [
+      "Bemidji",
+      "Luverne",
+      "Brainerd",
+      "Duluth",
+      "Eden Prairie",
+      "St. Olaf",
+      "Cicely"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Television",
+    "difficulty": "medium",
+    "id": "2b3a8b10-0c79-4b39-a93c-d129381b97b7",
+    "created_at": "2025-04-13T01:43:59.366Z",
+    "backupTimestamp": "2025-04-13T01:43:59.367Z",
+    "localBackupTimestamp": "2025-04-12T19:43:59.367Z"
+  },
+  {
+    "question": "What is the name of the entity possessing Laura Palmer (and others) in 'Twin Peaks'?",
+    "correct_answer": "BOB",
+    "incorrect_answers": [
+      "MIKE (The One-Armed Man)",
+      "The Man from Another Place",
+      "The Giant",
+      "Judy",
+      "Windom Earle",
+      "The Black Lodge",
+      "The Log Lady"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Television",
+    "difficulty": "hard",
+    "id": "1be3c6bb-e229-4080-8daf-7e3879129e86",
+    "created_at": "2025-04-13T01:43:59.368Z",
+    "backupTimestamp": "2025-04-13T01:43:59.369Z",
+    "localBackupTimestamp": "2025-04-12T19:43:59.369Z"
+  },
+  {
+    "question": "What brand of cigarettes does the Cigarette Smoking Man primarily smoke in 'The X-Files'?",
+    "correct_answer": "Morley",
+    "incorrect_answers": [
+      "Marlboro",
+      "Camel",
+      "Lucky Strike",
+      "Red Apple",
+      "Winston",
+      "Kool",
+      "Parliament"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Television",
+    "difficulty": "hard",
+    "id": "0bb58103-9d85-45a4-942f-45ac59cf1572",
+    "created_at": "2025-04-13T01:43:59.370Z",
+    "backupTimestamp": "2025-04-13T01:43:59.370Z",
+    "localBackupTimestamp": "2025-04-12T19:43:59.370Z"
+  },
+  {
+    "question": "In 'The Wire', what is the specialized police unit initially focused on Avon Barksdale's drug operation commonly called?",
+    "correct_answer": "The Detail",
+    "incorrect_answers": [
+      "Homicide",
+      "Narcotics",
+      "Major Crimes Unit",
+      "The Sobotka Detail",
+      "The Western District Drug Unit",
+      "Internal Investigations Division (IID)",
+      "Comstat"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Television",
+    "difficulty": "hard",
+    "id": "73de8e88-386e-40ae-8c8e-d0de81e6e3c7",
+    "created_at": "2025-04-13T01:43:59.371Z",
+    "backupTimestamp": "2025-04-13T01:43:59.371Z",
+    "localBackupTimestamp": "2025-04-12T19:43:59.371Z"
+  },
+  {
+    "question": "What is the title of the final episode of 'The Sopranos'?",
+    "correct_answer": "Made in America",
+    "incorrect_answers": [
+      "The Blue Comet",
+      "Soprano Home Movies",
+      "Kennedy and Heidi",
+      "Pine Barrens",
+      "Long Term Parking",
+      "Whitecaps",
+      "College"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Television",
+    "difficulty": "hard",
+    "id": "b44de84d-77cd-43ec-b138-b07d752f10fb",
+    "created_at": "2025-04-13T01:43:59.372Z",
+    "backupTimestamp": "2025-04-13T01:43:59.372Z",
+    "localBackupTimestamp": "2025-04-12T19:43:59.372Z"
+  },
+  {
+    "question": "Which episode of 'Black Mirror' features a system where individuals rate every interaction, impacting their socioeconomic status?",
+    "correct_answer": "Nosedive",
+    "incorrect_answers": [
+      "San Junipero",
+      "USS Callister",
+      "White Bear",
+      "The Entire History of You",
+      "Shut Up and Dance",
+      "Hated in the Nation",
+      "Fifteen Million Merits"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Television",
+    "difficulty": "hard",
+    "id": "bec9162f-076b-4602-9a8f-8cae04ac77f3",
+    "created_at": "2025-04-13T01:43:59.373Z",
+    "backupTimestamp": "2025-04-13T01:43:59.374Z",
+    "localBackupTimestamp": "2025-04-12T19:43:59.374Z"
+  },
+  {
+    "question": "What was the original name of Pawnee, Indiana, according to the town's murals in 'Parks and Recreation'?",
+    "correct_answer": "Tannin",
+    "incorrect_answers": [
+      "Eagleton",
+      "Maplewood",
+      "Greendale",
+      "Wamapoke County Seat",
+      "Whistle Stop",
+      "Hoosier Town",
+      "Prairie Creek"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Television",
+    "difficulty": "hard",
+    "id": "3b345c12-8197-4c60-8993-cfa096ba5fd5",
+    "created_at": "2025-04-13T01:43:59.375Z",
+    "backupTimestamp": "2025-04-13T01:43:59.376Z",
+    "localBackupTimestamp": "2025-04-12T19:43:59.376Z"
+  },
+  {
+    "question": "In 'Arrested Development', what is the name of George Michael's bland girlfriend?",
+    "correct_answer": "Ann Veal",
+    "incorrect_answers": [
+      "Mae 'Maeby' Fünke",
+      "Lucille Austero ('Lucille 2')",
+      "Marta Estrella",
+      "Sally Sitwell",
+      "Rebel Alley",
+      "Kitty Sanchez",
+      "Lindsay Bluth Fünke"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Television",
+    "difficulty": "hard",
+    "id": "81e7cccd-0fff-4f01-ae17-c6b6af87815d",
+    "created_at": "2025-04-13T01:43:59.377Z",
+    "backupTimestamp": "2025-04-13T01:43:59.378Z",
+    "localBackupTimestamp": "2025-04-12T19:43:59.378Z"
+  },
+  {
+    "question": "Who composed the iconic, minimalist theme music for 'Curb Your Enthusiasm'?",
+    "correct_answer": "Luciano Michelini ('Frolic')",
+    "incorrect_answers": [
+      "Larry David",
+      "Randy Newman",
+      "Hans Zimmer",
+      "Jeff Beal",
+      "Jonathan Wolff",
+      "Stewart Copeland",
+      "Danny Elfman"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Television",
+    "difficulty": "hard",
+    "id": "13f6f478-1253-4200-af1d-7447b310863e",
+    "created_at": "2025-04-13T01:43:59.379Z",
+    "backupTimestamp": "2025-04-13T01:43:59.379Z",
+    "localBackupTimestamp": "2025-04-12T19:43:59.379Z"
+  },
+  {
+    "question": "What is the name of the spaceship used by the Bebop crew in the anime 'Cowboy Bebop'?",
+    "correct_answer": "Bebop",
+    "incorrect_answers": [
+      "Serenity",
+      "Swordfish II (Spike's ship)",
+      "Red Tail (Faye's ship)",
+      "Hammerhead (Jet's ship)",
+      "Outlaw Star",
+      "Yamato",
+      "Macross"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Television",
+    "difficulty": "hard",
+    "id": "7ac86a5d-18ad-46b4-8def-2412ffe43484",
+    "created_at": "2025-04-13T01:43:59.380Z",
+    "backupTimestamp": "2025-04-13T01:43:59.381Z",
+    "localBackupTimestamp": "2025-04-12T19:43:59.381Z"
+  },
+  {
+    "question": "What is the full name of the 'Numbers' sequence that Hurley is obsessed with in 'Lost'?",
+    "correct_answer": "4, 8, 15, 16, 23, 42",
+    "incorrect_answers": [
+      "1, 2, 3, 4, 5, 6",
+      "8, 6, 7, 5, 3, 0, 9",
+      "3, 1, 4, 1, 5, 9",
+      "5, 12, 13, 21, 34, 55",
+      "108, 108, 108, 108",
+      "7, 11, 13, 17, 19, 23",
+      "9, 19, 99, 10, 1, 1"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Television",
+    "difficulty": "hard",
+    "id": "5be219ac-6247-49e1-8cde-ad549c1df0a6",
+    "created_at": "2025-04-13T01:43:59.383Z",
+    "backupTimestamp": "2025-04-13T01:43:59.383Z",
+    "localBackupTimestamp": "2025-04-12T19:43:59.383Z"
+  },
+  {
+    "question": "Which David Lynch creation served as the direct inspiration for the setting and tone of 'Twin Peaks'?",
+    "correct_answer": "Blue Velvet (Film)",
+    "incorrect_answers": [
+      "Eraserhead (Film)",
+      "Mulholland Drive (Film)",
+      "Inland Empire (Film)",
+      "Wild at Heart (Film)",
+      "The Elephant Man (Film)",
+      "Dune (1984 Film)",
+      "Lost Highway (Film)"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Television",
+    "difficulty": "hard",
+    "id": "a3a3b105-1b0f-4b17-9e41-e7daff267cdf",
+    "created_at": "2025-04-13T01:43:59.384Z",
+    "backupTimestamp": "2025-04-13T01:43:59.385Z",
+    "localBackupTimestamp": "2025-04-12T19:43:59.385Z"
+  },
+  {
+    "question": "What fictional consulting detective agency is run by Shawn Spencer in 'Psych'?",
+    "correct_answer": "Psych",
+    "incorrect_answers": [
+      "Spencer & Guster Investigations",
+      "The Blueberry",
+      "Santa Barbara Consulting Detectives",
+      "Psychic Solutions",
+      "Mind Over Murder Inc.",
+      "Pineapple P.I.",
+      "Third Eye Detective Agency"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Television",
+    "difficulty": "hard",
+    "id": "c646c411-e6a2-44ea-815f-ed4c1a46ad3b",
+    "created_at": "2025-04-13T01:43:59.386Z",
+    "backupTimestamp": "2025-04-13T01:43:59.386Z",
+    "localBackupTimestamp": "2025-04-12T19:43:59.386Z"
+  },
+  {
+    "question": "In 'Battlestar Galactica' (2004 series), what is the derogatory term used by humans for Cylons?",
+    "correct_answer": "Toaster",
+    "incorrect_answers": [
+      "Skinjob",
+      "Chrome Dome",
+      "Clanker",
+      "Centurion",
+      "Machine",
+      "Synthetic",
+      "Tin Can"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Television",
+    "difficulty": "hard",
+    "id": "7f3f4289-7579-4d93-8587-5dd26d6e7589",
+    "created_at": "2025-04-13T01:43:59.389Z",
+    "backupTimestamp": "2025-04-13T01:43:59.389Z",
+    "localBackupTimestamp": "2025-04-12T19:43:59.389Z"
+  },
+  {
+    "question": "What is the name of the pharmaceutical company founded by Elliot Alderson's father in 'Mr. Robot'?",
+    "correct_answer": "E Corp (referred to as Evil Corp)",
+    "incorrect_answers": [
+      "Allsafe Cybersecurity",
+      "F Corp",
+      "Tyrell Corporation",
+      "Umbrella Corporation",
+      "Massive Dynamic",
+      "Omni Consumer Products",
+      "Cyberdyne Systems"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Television",
+    "difficulty": "hard",
+    "id": "adfda407-03e1-4dbd-927b-0d57c13345f4",
+    "created_at": "2025-04-13T01:43:59.391Z",
+    "backupTimestamp": "2025-04-13T01:43:59.393Z",
+    "localBackupTimestamp": "2025-04-12T19:43:59.393Z"
+  },
+  {
+    "question": "Which character delivers the line 'Omar comin'!' as a warning in 'The Wire'?",
+    "correct_answer": "Various street-level characters (not Omar himself)",
+    "incorrect_answers": [
+      "Omar Little",
+      "Proposition Joe",
+      "Bodie Broadus",
+      "Stringer Bell",
+      "Bubbles",
+      "Wee-Bey Brice",
+      "Poot Carr"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Television",
+    "difficulty": "hard",
+    "id": "de804792-e386-47c6-a5f4-267e89f7ac08",
+    "created_at": "2025-04-13T01:43:59.395Z",
+    "backupTimestamp": "2025-04-13T01:43:59.396Z",
+    "localBackupTimestamp": "2025-04-12T19:43:59.396Z"
+  },
+  {
+    "question": "What object does the Log Lady carry and consult in 'Twin Peaks'?",
+    "correct_answer": "A log",
+    "incorrect_answers": [
+      "A crystal ball",
+      "Tarot cards",
+      "An owl",
+      "A diary",
+      "A tape recorder",
+      "A bonsai tree",
+      "A snow globe"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Television",
+    "difficulty": "hard",
+    "id": "b842e611-e7e6-4ca9-8b0a-0c0997bfd353",
+    "created_at": "2025-04-13T01:43:59.397Z",
+    "backupTimestamp": "2025-04-13T01:43:59.398Z",
+    "localBackupTimestamp": "2025-04-12T19:43:59.398Z"
+  },
+  {
+    "question": "What is the name of the final creature Homer Simpson evolves into in the 'Treehouse of Horror V' segment 'Time and Punishment'?",
+    "correct_answer": "Various forms, ending similar to his normal self in a wealthy reality",
+    "incorrect_answers": [
+      "A giant donut",
+      "A T-Rex",
+      "A fish",
+      "Godzilla",
+      "A three-eyed raven",
+      "Ned Flanders",
+      "A floating head"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Television",
+    "difficulty": "hard",
+    "id": "5d7d3316-9fb3-4b4a-9e0c-50ba0ca005bd",
+    "created_at": "2025-04-13T01:43:59.400Z",
+    "backupTimestamp": "2025-04-13T01:43:59.401Z",
+    "localBackupTimestamp": "2025-04-12T19:43:59.401Z"
+  },
+  {
+    "question": "In 'Fleabag', what does the titular character constantly do that other characters don't notice?",
+    "correct_answer": "Break the fourth wall / Talk to the camera",
+    "incorrect_answers": [
+      "Steal small items",
+      "Secretly record conversations",
+      "Imagine conversations with her dead mother",
+      "See ghosts",
+      "Talk to animals",
+      "Read people's minds",
+      "Predict the future"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Television",
+    "difficulty": "hard",
+    "id": "4a4d0708-6216-4641-81bf-f1c43f438f08",
+    "created_at": "2025-04-13T01:43:59.404Z",
+    "backupTimestamp": "2025-04-13T01:43:59.405Z",
+    "localBackupTimestamp": "2025-04-12T19:43:59.405Z"
+  },
+  {
+    "question": "What year did the original 'Star Trek' series premiere?",
+    "correct_answer": "1966",
+    "incorrect_answers": [
+      "1964",
+      "1965",
+      "1967",
+      "1968",
+      "1969",
+      "1970",
+      "1977"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Television",
+    "difficulty": "hard",
+    "id": "681301ab-c8ad-417c-abfe-e5913247bc0a",
+    "created_at": "2025-04-13T01:43:59.407Z",
+    "backupTimestamp": "2025-04-13T01:43:59.409Z",
+    "localBackupTimestamp": "2025-04-12T19:43:59.409Z"
+  },
+  {
+    "question": "What is the primary export of the Vandelay Industries company frequently mentioned by George Costanza in 'Seinfeld'?",
+    "correct_answer": "Latex (and latex-related products)",
+    "incorrect_answers": [
+      "Chips (potato)",
+      "Matches (long)",
+      "Diapers",
+      "Cotton Dockers",
+      "Architectural designs",
+      "Import/Export (general)",
+      "It doesn't actually exist"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Television",
+    "difficulty": "hard",
+    "id": "b8f7b9b9-0924-4fd6-8d47-276973967429",
+    "created_at": "2025-04-13T01:43:59.410Z",
+    "backupTimestamp": "2025-04-13T01:43:59.411Z",
+    "localBackupTimestamp": "2025-04-12T19:43:59.411Z"
+  },
+  {
+    "question": "Which Stephen King novel was adapted into the first season of the Hulu series 'Castle Rock'?",
+    "correct_answer": "It draws inspiration from many King works, not one specific novel.",
+    "incorrect_answers": [
+      "The Shawshank Redemption",
+      "Needful Things",
+      "It",
+      "The Stand",
+      "Salem's Lot",
+      "'Salem's Lot",
+      "Misery"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Television",
+    "difficulty": "hard",
+    "id": "0befa702-2a7e-4e38-acef-35a2e738a165",
+    "created_at": "2025-04-13T01:43:59.412Z",
+    "backupTimestamp": "2025-04-13T01:43:59.413Z",
+    "localBackupTimestamp": "2025-04-12T19:43:59.413Z"
+  },
+  {
+    "question": "What is the name of the corporation Tom Haverford and Jean-Ralphio Saperstein start in 'Parks and Recreation'?",
+    "correct_answer": "Entertainment 720",
+    "incorrect_answers": [
+      "Rent-A-Swag",
+      "Tom's Bistro",
+      "Gryzzl",
+      "Sweetums",
+      "Snakehole Lounge Management",
+      "Sparkle Suds",
+      "Paunch Burger Franchise"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Television",
+    "difficulty": "hard",
+    "id": "32b1249f-962f-4cd9-be9c-986d5dbdd738",
+    "created_at": "2025-04-13T01:43:59.414Z",
+    "backupTimestamp": "2025-04-13T01:43:59.415Z",
+    "localBackupTimestamp": "2025-04-12T19:43:59.415Z"
+  },
+  {
+    "question": "In 'Mad Men', what secret past does Don Draper hide?",
+    "correct_answer": "He stole the identity of Lieutenant Don Draper (his real name is Dick Whitman)",
+    "incorrect_answers": [
+      "He was a KGB spy",
+      "He murdered his first wife",
+      "He faked his college degree",
+      "He comes from immense wealth",
+      "He is secretly related to Roger Sterling",
+      "He served time for embezzlement",
+      "He was a conscientious objector during the Korean War"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Television",
+    "difficulty": "hard",
+    "id": "021c1ea6-9bb7-4116-9890-2cd0bc6e48ad",
+    "created_at": "2025-04-13T01:43:59.416Z",
+    "backupTimestamp": "2025-04-13T01:43:59.417Z",
+    "localBackupTimestamp": "2025-04-12T19:43:59.417Z"
+  },
+  {
+    "question": "What is the designation of the clone trooper unit led by Captain Rex in 'Star Wars: The Clone Wars'?",
+    "correct_answer": "501st Legion",
+    "incorrect_answers": [
+      "212th Attack Battalion",
+      "Clone Force 99 (The Bad Batch)",
+      "Coruscant Guard",
+      "Galactic Marines",
+      "Wolfpack (104th Battalion)",
+      "Domino Squad",
+      "Omega Squad"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Television",
+    "difficulty": "hard",
+    "id": "a45af3e2-a913-449d-9723-722d8b5e2d91",
+    "created_at": "2025-04-13T01:43:59.418Z",
+    "backupTimestamp": "2025-04-13T01:43:59.418Z",
+    "localBackupTimestamp": "2025-04-12T19:43:59.418Z"
+  },
+  {
+    "question": "What is the title of the highly controversial final episode of 'Seinfeld'?",
+    "correct_answer": "The Finale",
+    "incorrect_answers": [
+      "The Contest",
+      "The Soup Nazi",
+      "The Opposite",
+      "The Betrayal (Backwards Episode)",
+      "The Good Samaritan",
+      "The Puerto Rican Day",
+      "The Invitations"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Television",
+    "difficulty": "hard",
+    "id": "4d10b452-f8e1-40d9-9aac-57ee8cb91bf9",
+    "created_at": "2025-04-13T01:43:59.419Z",
+    "backupTimestamp": "2025-04-13T01:43:59.419Z",
+    "localBackupTimestamp": "2025-04-12T19:43:59.419Z"
+  },
+  {
+    "question": "Which network famously cancelled 'Firefly' after only one season?",
+    "correct_answer": "Fox",
+    "incorrect_answers": [
+      "NBC",
+      "CBS",
+      "ABC",
+      "The WB",
+      "UPN",
+      "Syfy",
+      "HBO"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Television",
+    "difficulty": "hard",
+    "id": "40517585-517c-4699-8fac-8c478ff9a2b6",
+    "created_at": "2025-04-13T01:43:59.421Z",
+    "backupTimestamp": "2025-04-13T01:43:59.421Z",
+    "localBackupTimestamp": "2025-04-12T19:43:59.421Z"
+  },
+  {
+    "question": "What specific psychiatric condition is Tony Soprano diagnosed with by Dr. Melfi?",
+    "correct_answer": "Panic attacks / Anxiety disorder (often linked to underlying personality issues)",
+    "incorrect_answers": [
+      "Bipolar Disorder",
+      "Schizophrenia",
+      "Obsessive-Compulsive Disorder (OCD)",
+      "Antisocial Personality Disorder",
+      "Narcissistic Personality Disorder",
+      "Major Depressive Disorder",
+      "Post-Traumatic Stress Disorder (PTSD)"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Television",
+    "difficulty": "hard",
+    "id": "44db4c39-9187-432a-829e-dd614d570854",
+    "created_at": "2025-04-13T01:43:59.422Z",
+    "backupTimestamp": "2025-04-13T01:43:59.423Z",
+    "localBackupTimestamp": "2025-04-12T19:43:59.423Z"
+  },
+  {
+    "question": "What is the name of the fictional television network where Liz Lemon works in '30 Rock'?",
+    "correct_answer": "NBC (National Broadcasting Company)",
+    "incorrect_answers": [
+      "GEC (General Electric Company - parent company)",
+      "Kabletown (later parent company)",
+      "Sheinhardt Wig Company",
+      "TGS Network",
+      "Comedy Central",
+      "Fox News Channel",
+      "CNN"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Television",
+    "difficulty": "hard",
+    "id": "21a0dc2e-ea70-4cd4-9191-c14af16353bf",
+    "created_at": "2025-04-13T01:43:59.424Z",
+    "backupTimestamp": "2025-04-13T01:43:59.424Z",
+    "localBackupTimestamp": "2025-04-12T19:43:59.424Z"
+  },
+  {
+    "question": "In 'Better Call Saul', what is the name of the elder law firm where Jimmy McGill briefly works?",
+    "correct_answer": "Davis & Main",
+    "incorrect_answers": [
+      "Hamlin, Hamlin & McGill (HHM)",
+      "Schweikart & Cokely",
+      "Wexler McGill",
+      "Edelman & Associates",
+      "Schrader & White Legal Services",
+      "Madrigal Electromotive Legal Dept.",
+      "Mesa Verde Bank Legal Counsel"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Television",
+    "difficulty": "hard",
+    "id": "9207835b-20ff-470b-a116-15311614b2cf",
+    "created_at": "2025-04-13T01:43:59.425Z",
+    "backupTimestamp": "2025-04-13T01:43:59.426Z",
+    "localBackupTimestamp": "2025-04-12T19:43:59.426Z"
+  },
+  {
+    "question": "What classic British sci-fi series featured puppets performing rescue missions with advanced vehicles?",
+    "correct_answer": "Thunderbirds",
+    "incorrect_answers": [
+      "Captain Scarlet and the Mysterons",
+      "Stingray",
+      "Fireball XL5",
+      "Joe 90",
+      "Terrahawks",
+      "Space: 1999",
+      "UFO"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Television",
+    "difficulty": "hard",
+    "id": "febb794a-75f8-4965-a018-639704a21d88",
+    "created_at": "2025-04-13T01:43:59.427Z",
+    "backupTimestamp": "2025-04-13T01:43:59.427Z",
+    "localBackupTimestamp": "2025-04-12T19:43:59.427Z"
+  },
+  {
+    "question": "What is the name of the pub quiz team that Mark and Jeremy join in 'Peep Show'?",
+    "correct_answer": "Momma's Kumquat",
+    "incorrect_answers": [
+      "The El Dude Brothers",
+      "Team Sophistry",
+      "Knowledge is Power",
+      "Quiz Akabusi",
+      "The Question Time Lords",
+      "Norfolk 'n' Chance",
+      "Various unnamed teams"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Television",
+    "difficulty": "hard",
+    "id": "ce5c91d4-571c-436e-88ef-f9f6d9e15228",
+    "created_at": "2025-04-13T01:43:59.428Z",
+    "backupTimestamp": "2025-04-13T01:43:59.428Z",
+    "localBackupTimestamp": "2025-04-12T19:43:59.428Z"
+  },
+  {
+    "question": "Which director known for his distinct visual style directed the pilot episode of 'Twin Peaks'?",
+    "correct_answer": "David Lynch",
+    "incorrect_answers": [
+      "Mark Frost (Co-creator)",
+      "Tim Hunter",
+      "Lesli Linka Glatter",
+      "Caleb Deschanel",
+      "Diane Keaton",
+      "Duwayne Dunham",
+      "Stephen Gyllenhaal"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Television",
+    "difficulty": "hard",
+    "id": "cda78069-d6e8-4038-9d65-8d77895cc261",
+    "created_at": "2025-04-13T01:43:59.429Z",
+    "backupTimestamp": "2025-04-13T01:43:59.429Z",
+    "localBackupTimestamp": "2025-04-12T19:43:59.429Z"
+  },
+  {
+    "question": "What season of 'American Horror Story' is subtitled 'Coven'?",
+    "correct_answer": "Season 3",
+    "incorrect_answers": [
+      "Season 1 (Murder House)",
+      "Season 2 (Asylum)",
+      "Season 4 (Freak Show)",
+      "Season 5 (Hotel)",
+      "Season 6 (Roanoke)",
+      "Season 7 (Cult)",
+      "Season 8 (Apocalypse)"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Television",
+    "difficulty": "hard",
+    "id": "313861cc-7f67-4bb0-83ba-239688df1918",
+    "created_at": "2025-04-13T01:43:59.430Z",
+    "backupTimestamp": "2025-04-13T01:43:59.431Z",
+    "localBackupTimestamp": "2025-04-12T19:43:59.431Z"
+  },
+  {
+    "question": "What is the name of the high-tech theme park populated by android 'hosts' in 'Westworld'?",
+    "correct_answer": "Westworld (and other Delos parks)",
+    "incorrect_answers": [
+      "Jurassic Park",
+      "InGen",
+      "The Matrix",
+      "The Oasis",
+      "Futureworld",
+      "Cyberdyne Park",
+      "Tyrell World"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Television",
+    "difficulty": "hard",
+    "id": "fa5109dd-7cdc-42fe-b254-81b11f4b8711",
+    "created_at": "2025-04-13T01:43:59.432Z",
+    "backupTimestamp": "2025-04-13T01:43:59.432Z",
+    "localBackupTimestamp": "2025-04-12T19:43:59.432Z"
+  },
+  {
+    "question": "What short-lived but critically acclaimed sitcom created by Mitchell Hurwitz aired before 'Arrested Development'?",
+    "correct_answer": "Action",
+    "incorrect_answers": [
+      "The Ellen Show (sitcom)",
+      "Everything's Relative",
+      "The John Larroquette Show",
+      "Andy Richter Controls the Universe",
+      "Undeclared",
+      "Freaks and Geeks",
+      "Greg the Bunny"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Television",
+    "difficulty": "hard",
+    "id": "31b1a116-5aba-4b92-a328-e69720baaf95",
+    "created_at": "2025-04-13T01:43:59.433Z",
+    "backupTimestamp": "2025-04-13T01:43:59.433Z",
+    "localBackupTimestamp": "2025-04-12T19:43:59.433Z"
+  },
+  {
+    "question": "In 'Succession', what is the name of the family-controlled media conglomerate?",
+    "correct_answer": "Waystar Royco",
+    "incorrect_answers": [
+      "Pierce Global Media (PGM)",
+      "GojO",
+      "ATN (American Television Network)",
+      "Vaulter",
+      "Brightstar Adventure Parks",
+      "Living+",
+      "Roy Enterprises"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Television",
+    "difficulty": "hard",
+    "id": "ecb69c40-f706-470b-bd64-7a65858133b3",
+    "created_at": "2025-04-13T01:43:59.434Z",
+    "backupTimestamp": "2025-04-13T01:43:59.435Z",
+    "localBackupTimestamp": "2025-04-12T19:43:59.435Z"
+  },
+  {
+    "question": "What animated series created by Pendleton Ward follows Finn the Human and Jake the Dog in the Land of Ooo?",
+    "correct_answer": "Adventure Time",
+    "incorrect_answers": [
+      "Regular Show",
+      "Steven Universe",
+      "Gravity Falls",
+      "Over the Garden Wall",
+      "The Amazing World of Gumball",
+      "Rick and Morty",
+      "Bravest Warriors"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Television",
+    "difficulty": "hard",
+    "id": "2ac1e83b-db1b-4cf7-a299-7712655f747c",
+    "created_at": "2025-04-13T01:43:59.436Z",
+    "backupTimestamp": "2025-04-13T01:43:59.437Z",
+    "localBackupTimestamp": "2025-04-12T19:43:59.437Z"
+  },
+  {
+    "question": "What does 'TARDIS' stand for in 'Doctor Who'?",
+    "correct_answer": "Time And Relative Dimension In Space",
+    "incorrect_answers": [
+      "Time And Relativistic Dimensional Interstellar Ship",
+      "Temporal And Radical Displacement In Spacetime",
+      "Trans-dimensional And Robinsonian Dimensional Inflection System",
+      "Totally Awesome Reality-altering Doctor's Interstellar Sailboat",
+      "Time Apparatus Roughly Disguised In Style",
+      "Travelling Across Realms & Dimensions In Space",
+      "Timely And Reliable Delivery Interstellar Service"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Television",
+    "difficulty": "hard",
+    "id": "a9b9dd58-1e04-4646-972e-6c4e01a3b52a",
+    "created_at": "2025-04-13T01:43:59.438Z",
+    "backupTimestamp": "2025-04-13T01:43:59.438Z",
+    "localBackupTimestamp": "2025-04-12T19:43:59.438Z"
+  },
+  {
+    "question": "What iconic prop comedy routine involving a conveyor belt was featured in 'I Love Lucy'?",
+    "correct_answer": "The Chocolate Factory scene",
+    "incorrect_answers": [
+      "Vitameatavegamin commercial",
+      "Grape stomping",
+      "Harpo Marx mirror routine",
+      "The Freezer incident",
+      "Making the salad dressing",
+      "The giant loaf of bread",
+      "Lucy learns ballet"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Television",
+    "difficulty": "hard",
+    "id": "6d337df6-766d-4a9c-a248-3cae8cc7b334",
+    "created_at": "2025-04-13T01:43:59.440Z",
+    "backupTimestamp": "2025-04-13T01:43:59.440Z",
+    "localBackupTimestamp": "2025-04-12T19:43:59.440Z"
+  },
+  {
+    "question": "Which character in 'Community' creates the elaborate 'Dreamatorium'?",
+    "correct_answer": "Troy Barnes and Abed Nadir",
+    "incorrect_answers": [
+      "Jeff Winger",
+      "Annie Edison",
+      "Britta Perry",
+      "Shirley Bennett",
+      "Pierce Hawthorne",
+      "Dean Pelton",
+      "Ben Chang"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Television",
+    "difficulty": "hard",
+    "id": "333676d8-a43e-44fe-a751-522d58b6e925",
+    "created_at": "2025-04-13T01:43:59.442Z",
+    "backupTimestamp": "2025-04-13T01:43:59.442Z",
+    "localBackupTimestamp": "2025-04-12T19:43:59.442Z"
+  },
+  {
+    "question": "What is the name of the mysterious benefactor who funds the team in the original 'Mission: Impossible' TV series?",
+    "correct_answer": "The voice on the tape (never fully identified/named)",
+    "incorrect_answers": [
+      "Mr. Briggs",
+      "Jim Phelps",
+      "The Secretary",
+      "Alexander Waverly",
+      "Director Thornton",
+      "Mr. X",
+      "Deep Throat"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Television",
+    "difficulty": "hard",
+    "id": "96c07a3e-463e-40ff-a0b3-649d13ec74e2",
+    "created_at": "2025-04-13T01:43:59.443Z",
+    "backupTimestamp": "2025-04-13T01:43:59.443Z",
+    "localBackupTimestamp": "2025-04-12T19:43:59.443Z"
+  },
+  {
+    "question": "What specific Baltimore neighborhood is the primary focus of Season 4 ('The Corner') of 'The Wire'?",
+    "correct_answer": "West Baltimore (specifically focusing on the school system)",
+    "incorrect_answers": [
+      "The Docks (Season 2)",
+      "Downtown (Political focus - Season 3)",
+      "The Baltimore Sun (Season 5)",
+      "East Baltimore",
+      "Fells Point",
+      "Hampden",
+      "Inner Harbor"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Television",
+    "difficulty": "hard",
+    "id": "9440e8fa-c2cf-4f47-a244-1eda0f000993",
+    "created_at": "2025-04-13T01:43:59.445Z",
+    "backupTimestamp": "2025-04-13T01:43:59.445Z",
+    "localBackupTimestamp": "2025-04-12T19:43:59.445Z"
+  },
+  {
+    "question": "Who composed the score for the original 'Twin Peaks' series, including the haunting theme 'Falling'?",
+    "correct_answer": "Angelo Badalamenti",
+    "incorrect_answers": [
+      "David Lynch",
+      "Julee Cruise (Vocalist)",
+      "Mark Frost",
+      "Ennio Morricone",
+      "John Carpenter",
+      "Vangelis",
+      "Hans Zimmer"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Television",
+    "difficulty": "hard",
+    "id": "1d0b9032-4ddc-407c-9afa-01762d688443",
+    "created_at": "2025-04-13T01:43:59.446Z",
+    "backupTimestamp": "2025-04-13T01:43:59.446Z",
+    "localBackupTimestamp": "2025-04-12T19:43:59.446Z"
+  },
+  {
+    "question": "What is the name of the fictional cable news network featured in Aaron Sorkin's 'The Newsroom'?",
+    "correct_answer": "Atlantis Cable News (ACN)",
+    "incorrect_answers": [
+      "Global News Network (GNN)",
+      "United Broadcasting System (UBS - from Network)",
+      "Continental News Network (CNN)",
+      "News Night",
+      "Wolf News Network",
+      "The Union Sentinel",
+      "Sloan Sabbith Financial News"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Television",
+    "difficulty": "hard",
+    "id": "333c6de4-55ba-43cf-987e-21ee582fadec",
+    "created_at": "2025-04-13T01:43:59.447Z",
+    "backupTimestamp": "2025-04-13T01:43:59.447Z",
+    "localBackupTimestamp": "2025-04-12T19:43:59.447Z"
+  },
+  {
+    "question": "In 'Deadwood', what real-life historical figure serves as the foul-mouthed proprietor of the Gem Saloon?",
+    "correct_answer": "Al Swearengen",
+    "incorrect_answers": [
+      "Seth Bullock",
+      "Wild Bill Hickok",
+      "Sol Star",
+      "George Hearst",
+      "E. B. Farnum",
+      "Cy Tolliver",
+      "Charlie Utter"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Television",
+    "difficulty": "hard",
+    "id": "033b0a3b-d14e-4b4b-b1f4-ab48453ce5da",
+    "created_at": "2025-04-13T01:43:59.449Z",
+    "backupTimestamp": "2025-04-13T01:43:59.449Z",
+    "localBackupTimestamp": "2025-04-12T19:43:59.449Z"
+  },
+  {
+    "question": "What was the name of the first host of the revived 'Doctor Who' series in 2005?",
+    "correct_answer": "Christopher Eccleston (Ninth Doctor)",
+    "incorrect_answers": [
+      "David Tennant (Tenth Doctor)",
+      "Matt Smith (Eleventh Doctor)",
+      "Peter Capaldi (Twelfth Doctor)",
+      "Paul McGann (Eighth Doctor)",
+      "Tom Baker (Fourth Doctor)",
+      "Russell T Davies (Showrunner)",
+      "John Hurt (War Doctor)"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Television",
+    "difficulty": "hard",
+    "id": "d2990d51-c6e9-41ef-963c-3800cd4e71b9",
+    "created_at": "2025-04-13T01:43:59.450Z",
+    "backupTimestamp": "2025-04-13T01:43:59.450Z",
+    "localBackupTimestamp": "2025-04-12T19:43:59.450Z"
+  },
+  {
+    "question": "What is the occupation of Rust Cohle in Season 1 of 'True Detective'?",
+    "correct_answer": "State Homicide Detective (later bartender/recluse)",
+    "incorrect_answers": [
+      "Private Investigator",
+      "FBI Agent",
+      "Philosophy Professor",
+      "Forensic Scientist",
+      "Undercover Officer",
+      "Writer",
+      "Cult Leader"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Television",
+    "difficulty": "hard",
+    "id": "02c200b2-f3fc-45a4-ad77-b328fa419010",
+    "created_at": "2025-04-13T01:43:59.451Z",
+    "backupTimestamp": "2025-04-13T01:43:59.452Z",
+    "localBackupTimestamp": "2025-04-12T19:43:59.452Z"
+  },
+  {
+    "question": "What is the name of the horse Jerry Seinfeld dislikes in the episode 'The Rye'?",
+    "correct_answer": "Rusty",
+    "incorrect_answers": [
+      "Schnitzer",
+      "Butterbean",
+      "Pony Boy",
+      "Beef-A-Reeno",
+      "Silver",
+      "Champion",
+      "Li'l Sebastian"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Television",
+    "difficulty": "hard",
+    "id": "09d99a28-8283-445e-899c-db1bd7aea7cc",
+    "created_at": "2025-04-13T01:43:59.452Z",
+    "backupTimestamp": "2025-04-13T01:43:59.453Z",
+    "localBackupTimestamp": "2025-04-12T19:43:59.453Z"
+  },
+  {
+    "question": "What is the name of the alternate dimension prominently featured in 'Stranger Things'?",
+    "correct_answer": "The Upside Down",
+    "incorrect_answers": [
+      "The Black Lodge",
+      "The Shadow Realm",
+      "The Netherworld",
+      "Dimension X",
+      "The Further",
+      "The Void",
+      "The Astral Plane"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Television",
+    "difficulty": "hard",
+    "id": "ca72ce10-569d-4d16-a2b1-328bd140b00d",
+    "created_at": "2025-04-13T01:43:59.454Z",
+    "backupTimestamp": "2025-04-13T01:43:59.454Z",
+    "localBackupTimestamp": "2025-04-12T19:43:59.454Z"
+  },
+  {
+    "question": "Which writer created both 'Buffy the Vampire Slayer' and 'Firefly'?",
+    "correct_answer": "Joss Whedon",
+    "incorrect_answers": [
+      "J.J. Abrams",
+      "David Greenwalt",
+      "Marti Noxon",
+      "Tim Minear",
+      "Jane Espenson",
+      "Ronald D. Moore",
+      "Russell T Davies"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Television",
+    "difficulty": "hard",
+    "id": "a42a04e2-c3e8-467c-bf31-b95da744e6b4",
+    "created_at": "2025-04-13T01:43:59.455Z",
+    "backupTimestamp": "2025-04-13T01:43:59.456Z",
+    "localBackupTimestamp": "2025-04-12T19:43:59.456Z"
   }
 ]
