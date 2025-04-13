@@ -428,6 +428,7 @@ app.post('/api/questions/handle-scanned-answer', (async (req: Request, res: Resp
       // If not approved (Remove), delete the question from the database
       try {
         await db.delete(schema.questions).where(eq(schema.questions.id, question.id));
+        await removeQuestionFromBackups(question.id);
         res.json({
           success: true,
           message: 'Question removed due to containing answer',
