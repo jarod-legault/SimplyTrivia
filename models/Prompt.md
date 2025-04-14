@@ -1,3 +1,5 @@
+- Current method is to ask Copilot Agent in "Ask" mode using Claude 3.7 Sonnet".
+
 - Provide 55 unique trivia questions in JSON format.
 - Each question should have the following properties:
   - question

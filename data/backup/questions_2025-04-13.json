@@ -28078,5 +28078,3185 @@
     "created_at": "2025-04-14T01:57:31.917Z",
     "backupTimestamp": "2025-04-14T01:57:31.917Z",
     "localBackupTimestamp": "2025-04-13T19:57:31.917Z"
+  },
+  {
+    "question": "Who invented the telephone?",
+    "correct_answer": "Alexander Graham Bell",
+    "incorrect_answers": [
+      "Thomas Edison",
+      "Nikola Tesla",
+      "Guglielmo Marconi",
+      "Elisha Gray",
+      "Antonio Meucci",
+      "Samuel Morse",
+      "Heinrich Hertz"
+    ],
+    "main_category": "History",
+    "subcategory": "Inventions & Discoveries",
+    "difficulty": "easy",
+    "id": "7010d477-87af-4151-afc1-31b8c1053c73",
+    "created_at": "2025-04-14T02:41:25.505Z",
+    "backupTimestamp": "2025-04-14T02:41:25.507Z",
+    "localBackupTimestamp": "2025-04-13T20:41:25.507Z"
+  },
+  {
+    "question": "What did Thomas Edison invent in 1879?",
+    "correct_answer": "Light bulb",
+    "incorrect_answers": [
+      "Telephone",
+      "Radio",
+      "Television",
+      "Phonograph",
+      "Telegraph",
+      "Camera",
+      "X-ray machine"
+    ],
+    "main_category": "History",
+    "subcategory": "Inventions & Discoveries",
+    "difficulty": "easy",
+    "id": "3e8cd4d5-8595-44be-9b9e-d18f8ff62795",
+    "created_at": "2025-04-14T02:41:25.525Z",
+    "backupTimestamp": "2025-04-14T02:41:25.525Z",
+    "localBackupTimestamp": "2025-04-13T20:41:25.525Z"
+  },
+  {
+    "question": "Which brothers invented the airplane?",
+    "correct_answer": "Wright brothers",
+    "incorrect_answers": [
+      "Marx brothers",
+      "Lumière brothers",
+      "Warner brothers",
+      "Grimm brothers",
+      "Smith brothers",
+      "Kellogg brothers",
+      "Mayo brothers"
+    ],
+    "main_category": "History",
+    "subcategory": "Inventions & Discoveries",
+    "difficulty": "easy",
+    "id": "26ae1b96-2bfc-471a-baa5-d9436c1849b9",
+    "created_at": "2025-04-14T02:41:25.535Z",
+    "backupTimestamp": "2025-04-14T02:41:25.536Z",
+    "localBackupTimestamp": "2025-04-13T20:41:25.536Z"
+  },
+  {
+    "question": "Who discovered penicillin?",
+    "correct_answer": "Alexander Fleming",
+    "incorrect_answers": [
+      "Louis Pasteur",
+      "Marie Curie",
+      "Joseph Lister",
+      "Robert Koch",
+      "Jonas Salk",
+      "Edward Jenner",
+      "Albert Einstein"
+    ],
+    "main_category": "History",
+    "subcategory": "Inventions & Discoveries",
+    "difficulty": "easy",
+    "id": "b65d0214-b434-44d4-9e54-25296bc94ba9",
+    "created_at": "2025-04-14T02:41:25.542Z",
+    "backupTimestamp": "2025-04-14T02:41:25.543Z",
+    "localBackupTimestamp": "2025-04-13T20:41:25.543Z"
+  },
+  {
+    "question": "Who invented the World Wide Web?",
+    "correct_answer": "Tim Berners-Lee",
+    "incorrect_answers": [
+      "Bill Gates",
+      "Steve Jobs",
+      "Mark Zuckerberg",
+      "Larry Page",
+      "Sergey Brin",
+      "Alan Turing",
+      "Vint Cerf"
+    ],
+    "main_category": "History",
+    "subcategory": "Inventions & Discoveries",
+    "difficulty": "easy",
+    "id": "2a46f85f-97d4-4e1b-8b51-0fbf0fece5bd",
+    "created_at": "2025-04-14T02:41:25.549Z",
+    "backupTimestamp": "2025-04-14T02:41:25.549Z",
+    "localBackupTimestamp": "2025-04-13T20:41:25.549Z"
+  },
+  {
+    "question": "What did Johannes Gutenberg invent?",
+    "correct_answer": "Printing press",
+    "incorrect_answers": [
+      "Telescope",
+      "Microscope",
+      "Compass",
+      "Steam engine",
+      "Wheel",
+      "Clock",
+      "Thermometer"
+    ],
+    "main_category": "History",
+    "subcategory": "Inventions & Discoveries",
+    "difficulty": "easy",
+    "id": "7f5003f9-104a-402c-86e1-d3c13e0770b1",
+    "created_at": "2025-04-14T02:41:25.571Z",
+    "backupTimestamp": "2025-04-14T02:41:25.571Z",
+    "localBackupTimestamp": "2025-04-13T20:41:25.571Z"
+  },
+  {
+    "question": "What device did Galileo invent to view distant objects?",
+    "correct_answer": "Telescope",
+    "incorrect_answers": [
+      "Microscope",
+      "Camera",
+      "Binoculars",
+      "Compass",
+      "Sextant",
+      "Periscope",
+      "Kaleidoscope"
+    ],
+    "main_category": "History",
+    "subcategory": "Inventions & Discoveries",
+    "difficulty": "easy",
+    "id": "385ff6c0-6503-49b0-8ff9-54c1c076245a",
+    "created_at": "2025-04-14T02:41:25.577Z",
+    "backupTimestamp": "2025-04-14T02:41:25.578Z",
+    "localBackupTimestamp": "2025-04-13T20:41:25.578Z"
+  },
+  {
+    "question": "Who invented dynamite?",
+    "correct_answer": "Alfred Nobel",
+    "incorrect_answers": [
+      "Thomas Edison",
+      "Nikola Tesla",
+      "Albert Einstein",
+      "Marie Curie",
+      "Louis Pasteur",
+      "Michael Faraday",
+      "Dmitri Mendeleev"
+    ],
+    "main_category": "History",
+    "subcategory": "Inventions & Discoveries",
+    "difficulty": "easy",
+    "id": "5db7ac64-ef72-4cc7-b953-b3f7a6d0cd5c",
+    "created_at": "2025-04-14T02:41:25.584Z",
+    "backupTimestamp": "2025-04-14T02:41:25.585Z",
+    "localBackupTimestamp": "2025-04-13T20:41:25.585Z"
+  },
+  {
+    "question": "What did Henry Ford revolutionize?",
+    "correct_answer": "Car manufacturing",
+    "incorrect_answers": [
+      "Aviation",
+      "Shipbuilding",
+      "Computer industry",
+      "Agriculture",
+      "Medicine",
+      "Telecommunications",
+      "Electrical power"
+    ],
+    "main_category": "History",
+    "subcategory": "Inventions & Discoveries",
+    "difficulty": "easy",
+    "id": "80565f1e-4906-4bbc-a3e4-b72026f715cb",
+    "created_at": "2025-04-14T02:41:25.591Z",
+    "backupTimestamp": "2025-04-14T02:41:25.591Z",
+    "localBackupTimestamp": "2025-04-13T20:41:25.591Z"
+  },
+  {
+    "question": "Who invented the first practical photography?",
+    "correct_answer": "Louis Daguerre",
+    "incorrect_answers": [
+      "George Eastman",
+      "Thomas Edison",
+      "Edwin Land",
+      "Joseph Nicéphore Niépce",
+      "Eadweard Muybridge",
+      "Ansel Adams",
+      "Henri Cartier-Bresson"
+    ],
+    "main_category": "History",
+    "subcategory": "Inventions & Discoveries",
+    "difficulty": "easy",
+    "id": "fe3e6ebc-5371-4826-a0e3-97a6c3a2dc82",
+    "created_at": "2025-04-14T02:41:25.596Z",
+    "backupTimestamp": "2025-04-14T02:41:25.597Z",
+    "localBackupTimestamp": "2025-04-13T20:41:25.597Z"
+  },
+  {
+    "question": "What life-saving device did Percy Spencer invent?",
+    "correct_answer": "Microwave oven",
+    "incorrect_answers": [
+      "Pacemaker",
+      "Defibrillator",
+      "X-ray machine",
+      "MRI scanner",
+      "Insulin pump",
+      "Respirator",
+      "Dialysis machine"
+    ],
+    "main_category": "History",
+    "subcategory": "Inventions & Discoveries",
+    "difficulty": "easy",
+    "id": "83839fa6-a3ba-40bc-b419-83221cc989a9",
+    "created_at": "2025-04-14T02:41:25.604Z",
+    "backupTimestamp": "2025-04-14T02:41:25.604Z",
+    "localBackupTimestamp": "2025-04-13T20:41:25.604Z"
+  },
+  {
+    "question": "Who invented the phonograph?",
+    "correct_answer": "Thomas Edison",
+    "incorrect_answers": [
+      "Alexander Graham Bell",
+      "Nikola Tesla",
+      "Guglielmo Marconi",
+      "Emile Berliner",
+      "Lee de Forest",
+      "Edwin Howard Armstrong",
+      "John Logie Baird"
+    ],
+    "main_category": "History",
+    "subcategory": "Inventions & Discoveries",
+    "difficulty": "easy",
+    "id": "edcb3e2b-08a0-4bc7-ae44-a73c48154cef",
+    "created_at": "2025-04-14T02:41:25.611Z",
+    "backupTimestamp": "2025-04-14T02:41:25.611Z",
+    "localBackupTimestamp": "2025-04-13T20:41:25.611Z"
+  },
+  {
+    "question": "What ancient Chinese invention was made of paper?",
+    "correct_answer": "Compass",
+    "incorrect_answers": [
+      "Gunpowder",
+      "Printing press",
+      "Kite",
+      "Porcelain",
+      "Wheelbarrow",
+      "Clock",
+      "Seismoscope"
+    ],
+    "main_category": "History",
+    "subcategory": "Inventions & Discoveries",
+    "difficulty": "easy",
+    "id": "679114a7-ad8f-434b-a24a-7771b5429252",
+    "created_at": "2025-04-14T02:41:25.618Z",
+    "backupTimestamp": "2025-04-14T02:41:25.618Z",
+    "localBackupTimestamp": "2025-04-13T20:41:25.618Z"
+  },
+  {
+    "question": "Who invented the polio vaccine?",
+    "correct_answer": "Jonas Salk",
+    "incorrect_answers": [
+      "Louis Pasteur",
+      "Alexander Fleming",
+      "Marie Curie",
+      "Edward Jenner",
+      "Robert Koch",
+      "Joseph Lister",
+      "Albert Sabin"
+    ],
+    "main_category": "History",
+    "subcategory": "Inventions & Discoveries",
+    "difficulty": "easy",
+    "id": "bf27adbe-e1a9-4c74-9eff-23ba66f42449",
+    "created_at": "2025-04-14T02:41:25.624Z",
+    "backupTimestamp": "2025-04-14T02:41:25.625Z",
+    "localBackupTimestamp": "2025-04-13T20:41:25.625Z"
+  },
+  {
+    "question": "What did the Wright brothers invent?",
+    "correct_answer": "Airplane",
+    "incorrect_answers": [
+      "Helicopter",
+      "Hot air balloon",
+      "Zeppelin",
+      "Glider",
+      "Jet engine",
+      "Blimp",
+      "Parachute"
+    ],
+    "main_category": "History",
+    "subcategory": "Inventions & Discoveries",
+    "difficulty": "easy",
+    "id": "1b9463a1-7cee-4437-bfa6-b50a57490a2b",
+    "created_at": "2025-04-14T02:41:25.630Z",
+    "backupTimestamp": "2025-04-14T02:41:25.631Z",
+    "localBackupTimestamp": "2025-04-13T20:41:25.631Z"
+  },
+  {
+    "question": "Who discovered electricity?",
+    "correct_answer": "Benjamin Franklin",
+    "incorrect_answers": [
+      "Thomas Edison",
+      "Nikola Tesla",
+      "Michael Faraday",
+      "Alessandro Volta",
+      "James Watt",
+      "André-Marie Ampère",
+      "Georg Ohm"
+    ],
+    "main_category": "History",
+    "subcategory": "Inventions & Discoveries",
+    "difficulty": "easy",
+    "id": "9d9e38e3-a8e3-4ad0-b402-f8ebdacb9524",
+    "created_at": "2025-04-14T02:41:25.637Z",
+    "backupTimestamp": "2025-04-14T02:41:25.637Z",
+    "localBackupTimestamp": "2025-04-13T20:41:25.637Z"
+  },
+  {
+    "question": "What food preservation method did Nicolas Appert invent?",
+    "correct_answer": "Canning",
+    "incorrect_answers": [
+      "Freezing",
+      "Dehydration",
+      "Smoking",
+      "Salting",
+      "Pickling",
+      "Pasteurization",
+      "Freeze-drying"
+    ],
+    "main_category": "History",
+    "subcategory": "Inventions & Discoveries",
+    "difficulty": "easy",
+    "id": "1620cbf7-9afe-4222-b5e8-d77f639d2c65",
+    "created_at": "2025-04-14T02:41:25.649Z",
+    "backupTimestamp": "2025-04-14T02:41:25.649Z",
+    "localBackupTimestamp": "2025-04-13T20:41:25.649Z"
+  },
+  {
+    "question": "Who invented television?",
+    "correct_answer": "Philo Farnsworth",
+    "incorrect_answers": [
+      "Thomas Edison",
+      "Alexander Graham Bell",
+      "Nikola Tesla",
+      "Guglielmo Marconi",
+      "John Logie Baird",
+      "Vladimir Zworykin",
+      "Lee de Forest"
+    ],
+    "main_category": "History",
+    "subcategory": "Inventions & Discoveries",
+    "difficulty": "easy",
+    "id": "52a16630-7963-4507-978e-3a555b87aaf7",
+    "created_at": "2025-04-14T02:41:25.654Z",
+    "backupTimestamp": "2025-04-14T02:41:25.654Z",
+    "localBackupTimestamp": "2025-04-13T20:41:25.654Z"
+  },
+  {
+    "question": "What ancient Chinese invention uses gunpowder?",
+    "correct_answer": "Fireworks",
+    "incorrect_answers": [
+      "Compass",
+      "Paper",
+      "Printing",
+      "Silk",
+      "Porcelain",
+      "Abacus",
+      "Crossbow"
+    ],
+    "main_category": "History",
+    "subcategory": "Inventions & Discoveries",
+    "difficulty": "easy",
+    "id": "0e2caf7f-304c-49a8-89aa-d9ae940ef82a",
+    "created_at": "2025-04-14T02:41:25.660Z",
+    "backupTimestamp": "2025-04-14T02:41:25.661Z",
+    "localBackupTimestamp": "2025-04-13T20:41:25.661Z"
+  },
+  {
+    "question": "Who invented the first successful vaccine?",
+    "correct_answer": "Edward Jenner",
+    "incorrect_answers": [
+      "Louis Pasteur",
+      "Alexander Fleming",
+      "Robert Koch",
+      "Joseph Lister",
+      "Jonas Salk",
+      "Albert Sabin",
+      "Marie Curie"
+    ],
+    "main_category": "History",
+    "subcategory": "Inventions & Discoveries",
+    "difficulty": "easy",
+    "id": "961967ef-fa09-4ae3-9772-a17a0a1dffdf",
+    "created_at": "2025-04-14T02:41:25.666Z",
+    "backupTimestamp": "2025-04-14T02:41:25.666Z",
+    "localBackupTimestamp": "2025-04-13T20:41:25.666Z"
+  },
+  {
+    "question": "What did Samuel Morse create a code for?",
+    "correct_answer": "Telegraph",
+    "incorrect_answers": [
+      "Telephone",
+      "Radio",
+      "Television",
+      "Computer",
+      "Internet",
+      "Satellite",
+      "Radar"
+    ],
+    "main_category": "History",
+    "subcategory": "Inventions & Discoveries",
+    "difficulty": "easy",
+    "id": "ab8485c2-1bbc-4d65-a379-e3025b902791",
+    "created_at": "2025-04-14T02:41:25.672Z",
+    "backupTimestamp": "2025-04-14T02:41:25.673Z",
+    "localBackupTimestamp": "2025-04-13T20:41:25.673Z"
+  },
+  {
+    "question": "Who invented the first practical refrigerator?",
+    "correct_answer": "Carl von Linde",
+    "incorrect_answers": [
+      "Thomas Edison",
+      "Albert Einstein",
+      "Michael Faraday",
+      "James Harrison",
+      "Willis Carrier",
+      "Charles Kettering",
+      "John Gorrie"
+    ],
+    "main_category": "History",
+    "subcategory": "Inventions & Discoveries",
+    "difficulty": "easy",
+    "id": "3c0d1b1f-c2f7-4719-ba8d-02861da6923f",
+    "created_at": "2025-04-14T02:41:25.678Z",
+    "backupTimestamp": "2025-04-14T02:41:25.678Z",
+    "localBackupTimestamp": "2025-04-13T20:41:25.678Z"
+  },
+  {
+    "question": "Who invented the radio?",
+    "correct_answer": "Guglielmo Marconi",
+    "incorrect_answers": [
+      "Alexander Graham Bell",
+      "Thomas Edison",
+      "Nikola Tesla",
+      "Heinrich Hertz",
+      "James Clerk Maxwell",
+      "Lee de Forest",
+      "Reginald Fessenden"
+    ],
+    "main_category": "History",
+    "subcategory": "Inventions & Discoveries",
+    "difficulty": "easy",
+    "id": "e044e2ba-7b22-4f8b-bc77-78c517b26f2d",
+    "created_at": "2025-04-14T02:41:25.683Z",
+    "backupTimestamp": "2025-04-14T02:41:25.684Z",
+    "localBackupTimestamp": "2025-04-13T20:41:25.684Z"
+  },
+  {
+    "question": "What transportation method did Karl Benz invent?",
+    "correct_answer": "Automobile",
+    "incorrect_answers": [
+      "Bicycle",
+      "Motorcycle",
+      "Airplane",
+      "Helicopter",
+      "Train",
+      "Submarine",
+      "Zeppelin"
+    ],
+    "main_category": "History",
+    "subcategory": "Inventions & Discoveries",
+    "difficulty": "easy",
+    "id": "fc949d03-fdd3-4dfa-86c8-14a5506426e6",
+    "created_at": "2025-04-14T02:41:25.689Z",
+    "backupTimestamp": "2025-04-14T02:41:25.690Z",
+    "localBackupTimestamp": "2025-04-13T20:41:25.690Z"
+  },
+  {
+    "question": "Who invented the first computer mouse?",
+    "correct_answer": "Douglas Engelbart",
+    "incorrect_answers": [
+      "Steve Jobs",
+      "Bill Gates",
+      "Alan Turing",
+      "Ada Lovelace",
+      "Tim Berners-Lee",
+      "Charles Babbage",
+      "John von Neumann"
+    ],
+    "main_category": "History",
+    "subcategory": "Inventions & Discoveries",
+    "difficulty": "easy",
+    "id": "7b5d1e93-c6f8-4078-a432-700cee90e379",
+    "created_at": "2025-04-14T02:41:25.695Z",
+    "backupTimestamp": "2025-04-14T02:41:25.695Z",
+    "localBackupTimestamp": "2025-04-13T20:41:25.695Z"
+  },
+  {
+    "question": "What did Eli Whitney invent in 1794?",
+    "correct_answer": "Cotton gin",
+    "incorrect_answers": [
+      "Sewing machine",
+      "Spinning jenny",
+      "Power loom",
+      "Steam engine",
+      "Threshing machine",
+      "Reaper",
+      "Combine harvester"
+    ],
+    "main_category": "History",
+    "subcategory": "Inventions & Discoveries",
+    "difficulty": "easy",
+    "id": "f4b043c6-7018-47a9-9462-177ff7fa8be1",
+    "created_at": "2025-04-14T02:41:25.701Z",
+    "backupTimestamp": "2025-04-14T02:41:25.701Z",
+    "localBackupTimestamp": "2025-04-13T20:41:25.701Z"
+  },
+  {
+    "question": "Who discovered X-rays?",
+    "correct_answer": "Wilhelm Röntgen",
+    "incorrect_answers": [
+      "Marie Curie",
+      "Ernest Rutherford",
+      "Henri Becquerel",
+      "Pierre Curie",
+      "Max Planck",
+      "Niels Bohr",
+      "Albert Einstein"
+    ],
+    "main_category": "History",
+    "subcategory": "Inventions & Discoveries",
+    "difficulty": "easy",
+    "id": "0ae646d0-a4ff-42d1-950d-73cff1081654",
+    "created_at": "2025-04-14T02:41:25.706Z",
+    "backupTimestamp": "2025-04-14T02:41:25.706Z",
+    "localBackupTimestamp": "2025-04-13T20:41:25.706Z"
+  },
+  {
+    "question": "Who invented the battery?",
+    "correct_answer": "Alessandro Volta",
+    "incorrect_answers": [
+      "Michael Faraday",
+      "Thomas Edison",
+      "Nikola Tesla",
+      "Benjamin Franklin",
+      "André-Marie Ampère",
+      "Georg Ohm",
+      "James Watt"
+    ],
+    "main_category": "History",
+    "subcategory": "Inventions & Discoveries",
+    "difficulty": "easy",
+    "id": "5679cc99-3845-4b1a-81d3-c8161cd7377f",
+    "created_at": "2025-04-14T02:41:25.711Z",
+    "backupTimestamp": "2025-04-14T02:41:25.711Z",
+    "localBackupTimestamp": "2025-04-13T20:41:25.711Z"
+  },
+  {
+    "question": "What weapon did Richard Gatling invent?",
+    "correct_answer": "Machine gun",
+    "incorrect_answers": [
+      "Revolver",
+      "Rifle",
+      "Cannon",
+      "Grenade",
+      "Bayonet",
+      "Tank",
+      "Land mine"
+    ],
+    "main_category": "History",
+    "subcategory": "Inventions & Discoveries",
+    "difficulty": "easy",
+    "id": "d4346f37-5f99-419f-a66e-415cc015bc91",
+    "created_at": "2025-04-14T02:41:25.717Z",
+    "backupTimestamp": "2025-04-14T02:41:25.717Z",
+    "localBackupTimestamp": "2025-04-13T20:41:25.717Z"
+  },
+  {
+    "question": "Who invented the smallpox vaccine?",
+    "correct_answer": "Edward Jenner",
+    "incorrect_answers": [
+      "Louis Pasteur",
+      "Alexander Fleming",
+      "Jonas Salk",
+      "Robert Koch",
+      "Joseph Lister",
+      "Albert Sabin",
+      "Marie Curie"
+    ],
+    "main_category": "History",
+    "subcategory": "Inventions & Discoveries",
+    "difficulty": "easy",
+    "id": "8e8d3ec0-3bf1-455a-bda2-29ad065d7cf7",
+    "created_at": "2025-04-14T02:41:25.723Z",
+    "backupTimestamp": "2025-04-14T02:41:25.723Z",
+    "localBackupTimestamp": "2025-04-13T20:41:25.723Z"
+  },
+  {
+    "question": "What did Laszlo Biro invent?",
+    "correct_answer": "Ballpoint pen",
+    "incorrect_answers": [
+      "Fountain pen",
+      "Pencil",
+      "Marker",
+      "Typewriter",
+      "Printer",
+      "Highlighter",
+      "Ink"
+    ],
+    "main_category": "History",
+    "subcategory": "Inventions & Discoveries",
+    "difficulty": "easy",
+    "id": "14c1063d-1aa7-428c-9f7b-a0a43e3d2797",
+    "created_at": "2025-04-14T02:41:25.727Z",
+    "backupTimestamp": "2025-04-14T02:41:25.728Z",
+    "localBackupTimestamp": "2025-04-13T20:41:25.728Z"
+  },
+  {
+    "question": "Who invented the first mechanical calculator?",
+    "correct_answer": "Blaise Pascal",
+    "incorrect_answers": [
+      "Charles Babbage",
+      "Alan Turing",
+      "Ada Lovelace",
+      "John von Neumann",
+      "Howard Aiken",
+      "Gottfried Leibniz",
+      "Wilhelm Schickard"
+    ],
+    "main_category": "History",
+    "subcategory": "Inventions & Discoveries",
+    "difficulty": "easy",
+    "id": "1547e791-6598-40ef-85f4-0348cb0c2ed7",
+    "created_at": "2025-04-14T02:41:25.732Z",
+    "backupTimestamp": "2025-04-14T02:41:25.732Z",
+    "localBackupTimestamp": "2025-04-13T20:41:25.732Z"
+  },
+  {
+    "question": "Who invented the first successful electric light bulb?",
+    "correct_answer": "Thomas Edison",
+    "incorrect_answers": [
+      "Nikola Tesla",
+      "Joseph Swan",
+      "Alexander Graham Bell",
+      "James Watt",
+      "Michael Faraday",
+      "Benjamin Franklin",
+      "Alessandro Volta"
+    ],
+    "main_category": "History",
+    "subcategory": "Inventions & Discoveries",
+    "difficulty": "easy",
+    "id": "5e1ea1f3-afb7-4f13-acb0-7e5cb1d76d67",
+    "created_at": "2025-04-14T02:41:25.737Z",
+    "backupTimestamp": "2025-04-14T02:41:25.738Z",
+    "localBackupTimestamp": "2025-04-13T20:41:25.738Z"
+  },
+  {
+    "question": "Who discovered gravity?",
+    "correct_answer": "Isaac Newton",
+    "incorrect_answers": [
+      "Albert Einstein",
+      "Galileo Galilei",
+      "Nicolaus Copernicus",
+      "Johannes Kepler",
+      "Stephen Hawking",
+      "Archimedes",
+      "Aristotle"
+    ],
+    "main_category": "History",
+    "subcategory": "Inventions & Discoveries",
+    "difficulty": "easy",
+    "id": "02fb4b2c-0197-4fac-956c-e1fced5e7c24",
+    "created_at": "2025-04-14T02:41:25.743Z",
+    "backupTimestamp": "2025-04-14T02:41:25.743Z",
+    "localBackupTimestamp": "2025-04-13T20:41:25.743Z"
+  },
+  {
+    "question": "What did Rudolf Diesel invent?",
+    "correct_answer": "Diesel engine",
+    "incorrect_answers": [
+      "Gasoline engine",
+      "Jet engine",
+      "Steam engine",
+      "Rocket engine",
+      "Electric motor",
+      "Rotary engine",
+      "Turbine engine"
+    ],
+    "main_category": "History",
+    "subcategory": "Inventions & Discoveries",
+    "difficulty": "easy",
+    "id": "f34106fe-b711-4ca2-aff1-af203f88ac27",
+    "created_at": "2025-04-14T02:41:25.749Z",
+    "backupTimestamp": "2025-04-14T02:41:25.750Z",
+    "localBackupTimestamp": "2025-04-13T20:41:25.750Z"
+  },
+  {
+    "question": "Who invented the first practical sewing machine?",
+    "correct_answer": "Elias Howe",
+    "incorrect_answers": [
+      "Isaac Singer",
+      "Thomas Edison",
+      "Eli Whitney",
+      "James Watt",
+      "James Hargreaves",
+      "Richard Arkwright",
+      "Samuel Crompton"
+    ],
+    "main_category": "History",
+    "subcategory": "Inventions & Discoveries",
+    "difficulty": "easy",
+    "id": "50143ed5-67b2-448a-b988-029cfbcf0acc",
+    "created_at": "2025-04-14T02:41:25.754Z",
+    "backupTimestamp": "2025-04-14T02:41:25.754Z",
+    "localBackupTimestamp": "2025-04-13T20:41:25.754Z"
+  },
+  {
+    "question": "What writing tool was invented by John J. Loud?",
+    "correct_answer": "Ballpoint pen",
+    "incorrect_answers": [
+      "Fountain pen",
+      "Pencil",
+      "Felt-tip pen",
+      "Typewriter",
+      "Quill",
+      "Marker",
+      "Crayon"
+    ],
+    "main_category": "History",
+    "subcategory": "Inventions & Discoveries",
+    "difficulty": "easy",
+    "id": "7f05a444-5041-465c-8153-6d051c0f84e9",
+    "created_at": "2025-04-14T02:41:25.759Z",
+    "backupTimestamp": "2025-04-14T02:41:25.759Z",
+    "localBackupTimestamp": "2025-04-13T20:41:25.759Z"
+  },
+  {
+    "question": "Who invented the first electric motor?",
+    "correct_answer": "Michael Faraday",
+    "incorrect_answers": [
+      "Thomas Edison",
+      "Nikola Tesla",
+      "James Watt",
+      "Alessandro Volta",
+      "André-Marie Ampère",
+      "Georg Ohm",
+      "Heinrich Hertz"
+    ],
+    "main_category": "History",
+    "subcategory": "Inventions & Discoveries",
+    "difficulty": "easy",
+    "id": "8faac377-aeb8-46f1-a8dc-8274c5c2a2cf",
+    "created_at": "2025-04-14T02:41:25.764Z",
+    "backupTimestamp": "2025-04-14T02:41:25.764Z",
+    "localBackupTimestamp": "2025-04-13T20:41:25.764Z"
+  },
+  {
+    "question": "What did Willis Carrier invent in 1902?",
+    "correct_answer": "Air conditioning",
+    "incorrect_answers": [
+      "Refrigerator",
+      "Microwave oven",
+      "Washing machine",
+      "Electric fan",
+      "Vacuum cleaner",
+      "Dishwasher",
+      "Electric heater"
+    ],
+    "main_category": "History",
+    "subcategory": "Inventions & Discoveries",
+    "difficulty": "easy",
+    "id": "41396a74-2d68-400a-9339-eec6bb61ae69",
+    "created_at": "2025-04-14T02:41:25.770Z",
+    "backupTimestamp": "2025-04-14T02:41:25.770Z",
+    "localBackupTimestamp": "2025-04-13T20:41:25.770Z"
+  },
+  {
+    "question": "Who discovered the structure of DNA?",
+    "correct_answer": "Watson and Crick",
+    "incorrect_answers": [
+      "Einstein and Bohr",
+      "Darwin and Wallace",
+      "Curie and Becquerel",
+      "Mendel and Darwin",
+      "Pasteur and Koch",
+      "Salk and Sabin",
+      "Pavlov and Skinner"
+    ],
+    "main_category": "History",
+    "subcategory": "Inventions & Discoveries",
+    "difficulty": "easy",
+    "id": "07bf13b4-87d6-472e-a7d9-154021f68dd0",
+    "created_at": "2025-04-14T02:41:25.775Z",
+    "backupTimestamp": "2025-04-14T02:41:25.775Z",
+    "localBackupTimestamp": "2025-04-13T20:41:25.775Z"
+  },
+  {
+    "question": "Which scientist discovered radioactivity?",
+    "correct_answer": "Henri Becquerel",
+    "incorrect_answers": [
+      "Marie Curie",
+      "Ernest Rutherford",
+      "Wilhelm Röntgen",
+      "Pierre Curie",
+      "Max Planck",
+      "Niels Bohr",
+      "Albert Einstein"
+    ],
+    "main_category": "History",
+    "subcategory": "Inventions & Discoveries",
+    "difficulty": "easy",
+    "id": "1a1eba77-411a-4eed-a302-5f08aeaf91e6",
+    "created_at": "2025-04-14T02:41:25.780Z",
+    "backupTimestamp": "2025-04-14T02:41:25.780Z",
+    "localBackupTimestamp": "2025-04-13T20:41:25.780Z"
+  },
+  {
+    "question": "What did Chester Carlson invent?",
+    "correct_answer": "Photocopier",
+    "incorrect_answers": [
+      "Camera",
+      "Scanner",
+      "Printer",
+      "Fax machine",
+      "Calculator",
+      "Telephone",
+      "Radio"
+    ],
+    "main_category": "History",
+    "subcategory": "Inventions & Discoveries",
+    "difficulty": "easy",
+    "id": "a0be26ba-349b-44f6-b1f1-833a5507f037",
+    "created_at": "2025-04-14T02:41:25.786Z",
+    "backupTimestamp": "2025-04-14T02:41:25.786Z",
+    "localBackupTimestamp": "2025-04-13T20:41:25.786Z"
+  },
+  {
+    "question": "Who invented Velcro?",
+    "correct_answer": "George de Mestral",
+    "incorrect_answers": [
+      "Thomas Edison",
+      "Nikola Tesla",
+      "Alexander Graham Bell",
+      "James Dyson",
+      "Levi Strauss",
+      "Earl Tupper",
+      "Art Fry"
+    ],
+    "main_category": "History",
+    "subcategory": "Inventions & Discoveries",
+    "difficulty": "easy",
+    "id": "e8fbe4a4-0973-4a2e-b549-1d3ba8e13854",
+    "created_at": "2025-04-14T02:41:25.792Z",
+    "backupTimestamp": "2025-04-14T02:41:25.792Z",
+    "localBackupTimestamp": "2025-04-13T20:41:25.792Z"
+  },
+  {
+    "question": "Who invented the safety pin?",
+    "correct_answer": "Walter Hunt",
+    "incorrect_answers": [
+      "Thomas Edison",
+      "Alexander Graham Bell",
+      "Eli Whitney",
+      "Samuel Morse",
+      "Elias Howe",
+      "George Westinghouse",
+      "John Deere"
+    ],
+    "main_category": "History",
+    "subcategory": "Inventions & Discoveries",
+    "difficulty": "easy",
+    "id": "bf2763a7-fbba-42be-8995-cc9e26bf7c05",
+    "created_at": "2025-04-14T02:41:25.798Z",
+    "backupTimestamp": "2025-04-14T02:41:25.798Z",
+    "localBackupTimestamp": "2025-04-13T20:41:25.798Z"
+  },
+  {
+    "question": "Who discovered insulin?",
+    "correct_answer": "Frederick Banting",
+    "incorrect_answers": [
+      "Louis Pasteur",
+      "Alexander Fleming",
+      "Jonas Salk",
+      "Marie Curie",
+      "Robert Koch",
+      "Joseph Lister",
+      "Edward Jenner"
+    ],
+    "main_category": "History",
+    "subcategory": "Inventions & Discoveries",
+    "difficulty": "easy",
+    "id": "598bc744-8b68-4302-a43f-83726593ae37",
+    "created_at": "2025-04-14T02:41:25.803Z",
+    "backupTimestamp": "2025-04-14T02:41:25.803Z",
+    "localBackupTimestamp": "2025-04-13T20:41:25.803Z"
+  },
+  {
+    "question": "What ancient navigation tool uses a magnetic needle?",
+    "correct_answer": "Compass",
+    "incorrect_answers": [
+      "Astrolabe",
+      "Sextant",
+      "Quadrant",
+      "Globe",
+      "Map",
+      "Sundial",
+      "Hourglass"
+    ],
+    "main_category": "History",
+    "subcategory": "Inventions & Discoveries",
+    "difficulty": "easy",
+    "id": "18b9dcb9-da72-441c-977d-ecfde99347c5",
+    "created_at": "2025-04-14T02:41:25.807Z",
+    "backupTimestamp": "2025-04-14T02:41:25.808Z",
+    "localBackupTimestamp": "2025-04-13T20:41:25.808Z"
+  },
+  {
+    "question": "What did Alfred Nobel invent?",
+    "correct_answer": "Dynamite",
+    "incorrect_answers": [
+      "TNT",
+      "Gunpowder",
+      "Nitroglycerin",
+      "Nuclear bomb",
+      "Plastic explosive",
+      "Hand grenade",
+      "Land mine"
+    ],
+    "main_category": "History",
+    "subcategory": "Inventions & Discoveries",
+    "difficulty": "easy",
+    "id": "8798d468-543f-4de4-bcc4-c9661b747ce4",
+    "created_at": "2025-04-14T02:41:25.812Z",
+    "backupTimestamp": "2025-04-14T02:41:25.813Z",
+    "localBackupTimestamp": "2025-04-13T20:41:25.813Z"
+  },
+  {
+    "question": "Who invented the Post-it Note?",
+    "correct_answer": "Art Fry",
+    "incorrect_answers": [
+      "Spencer Silver",
+      "Richard Drew",
+      "William McKnight",
+      "Harry Coover",
+      "Earl Tupper",
+      "George de Mestral",
+      "Charles Strite"
+    ],
+    "main_category": "History",
+    "subcategory": "Inventions & Discoveries",
+    "difficulty": "easy",
+    "id": "ddd5b67b-2dad-4db3-938e-4f0d65aa551e",
+    "created_at": "2025-04-14T02:41:25.819Z",
+    "backupTimestamp": "2025-04-14T02:41:25.819Z",
+    "localBackupTimestamp": "2025-04-13T20:41:25.819Z"
+  },
+  {
+    "question": "What did James Naismith invent in 1891?",
+    "correct_answer": "Basketball",
+    "incorrect_answers": [
+      "Baseball",
+      "Football",
+      "Soccer",
+      "Tennis",
+      "Golf",
+      "Hockey",
+      "Volleyball"
+    ],
+    "main_category": "History",
+    "subcategory": "Inventions & Discoveries",
+    "difficulty": "easy",
+    "id": "ce611cb2-8902-4859-9b58-068ef5a22ff0",
+    "created_at": "2025-04-14T02:41:25.824Z",
+    "backupTimestamp": "2025-04-14T02:41:25.825Z",
+    "localBackupTimestamp": "2025-04-13T20:41:25.825Z"
+  },
+  {
+    "question": "What did Bette Nesmith Graham invent?",
+    "correct_answer": "Liquid Paper",
+    "incorrect_answers": [
+      "Ballpoint pen",
+      "Post-it Notes",
+      "Scotch tape",
+      "Highlighter",
+      "Permanent marker",
+      "Paper clip",
+      "Stapler"
+    ],
+    "main_category": "History",
+    "subcategory": "Inventions & Discoveries",
+    "difficulty": "easy",
+    "id": "cfd942ac-aaa2-4432-b890-f30c7ed656b9",
+    "created_at": "2025-04-14T02:41:25.830Z",
+    "backupTimestamp": "2025-04-14T02:41:25.830Z",
+    "localBackupTimestamp": "2025-04-13T20:41:25.830Z"
+  },
+  {
+    "question": "Who invented the zipper?",
+    "correct_answer": "Whitcomb Judson",
+    "incorrect_answers": [
+      "Levi Strauss",
+      "Jacob Davis",
+      "Elias Howe",
+      "George de Mestral",
+      "Walter Hunt",
+      "Gideon Sundback",
+      "Isaac Singer"
+    ],
+    "main_category": "History",
+    "subcategory": "Inventions & Discoveries",
+    "difficulty": "easy",
+    "id": "2ce343e0-1fa7-4da9-add8-9ee77feae779",
+    "created_at": "2025-04-14T02:41:25.835Z",
+    "backupTimestamp": "2025-04-14T02:41:25.836Z",
+    "localBackupTimestamp": "2025-04-13T20:41:25.836Z"
+  },
+  {
+    "question": "Who invented bifocal eyeglasses?",
+    "correct_answer": "Benjamin Franklin",
+    "incorrect_answers": [
+      "Thomas Edison",
+      "Leonardo da Vinci",
+      "Galileo Galilei",
+      "Johannes Kepler",
+      "Anton van Leeuwenhoek",
+      "Isaac Newton",
+      "Louis Pasteur"
+    ],
+    "main_category": "History",
+    "subcategory": "Inventions & Discoveries",
+    "difficulty": "easy",
+    "id": "4fefc360-396b-4ffd-aac7-ef588e61cd0e",
+    "created_at": "2025-04-14T02:41:25.843Z",
+    "backupTimestamp": "2025-04-14T02:41:25.843Z",
+    "localBackupTimestamp": "2025-04-13T20:41:25.843Z"
+  },
+  {
+    "question": "Who developed alternating current electrical systems?",
+    "correct_answer": "Nikola Tesla",
+    "incorrect_answers": [
+      "Thomas Edison",
+      "Michael Faraday",
+      "Alessandro Volta",
+      "James Watt",
+      "André-Marie Ampère",
+      "Georg Ohm",
+      "Heinrich Hertz"
+    ],
+    "main_category": "History",
+    "subcategory": "Inventions & Discoveries",
+    "difficulty": "medium",
+    "id": "60aee37f-4cb0-4669-a76d-182e7ae82795",
+    "created_at": "2025-04-14T02:45:51.163Z",
+    "backupTimestamp": "2025-04-14T02:45:51.167Z",
+    "localBackupTimestamp": "2025-04-13T20:45:51.167Z"
+  },
+  {
+    "question": "What year was the telephone patented?",
+    "correct_answer": "1876",
+    "incorrect_answers": [
+      "1860",
+      "1890",
+      "1901",
+      "1855",
+      "1870",
+      "1885",
+      "1910"
+    ],
+    "main_category": "History",
+    "subcategory": "Inventions & Discoveries",
+    "difficulty": "medium",
+    "id": "5303edad-38b8-424a-9e4b-bf8d13fb8a67",
+    "created_at": "2025-04-14T02:45:51.181Z",
+    "backupTimestamp": "2025-04-14T02:45:51.181Z",
+    "localBackupTimestamp": "2025-04-13T20:45:51.181Z"
+  },
+  {
+    "question": "Who invented the first practical typewriter?",
+    "correct_answer": "Christopher Latham Sholes",
+    "incorrect_answers": [
+      "Charles Babbage",
+      "Remington",
+      "Samuel Morse",
+      "James Densmore",
+      "Herman Hollerith",
+      "Thomas Edison",
+      "Oliver Wendell Holmes"
+    ],
+    "main_category": "History",
+    "subcategory": "Inventions & Discoveries",
+    "difficulty": "medium",
+    "id": "0acd78cf-bcf4-4d35-acc6-48f28354b563",
+    "created_at": "2025-04-14T02:45:51.190Z",
+    "backupTimestamp": "2025-04-14T02:45:51.191Z",
+    "localBackupTimestamp": "2025-04-13T20:45:51.191Z"
+  },
+  {
+    "question": "Who discovered the principles of inheritance?",
+    "correct_answer": "Gregor Mendel",
+    "incorrect_answers": [
+      "Charles Darwin",
+      "Louis Pasteur",
+      "Francis Crick",
+      "James Watson",
+      "Rosalind Franklin",
+      "Robert Hooke",
+      "Alexander Fleming"
+    ],
+    "main_category": "History",
+    "subcategory": "Inventions & Discoveries",
+    "difficulty": "medium",
+    "id": "7aa602e6-2e64-4b5f-b2ef-dd0359500f6b",
+    "created_at": "2025-04-14T02:45:51.203Z",
+    "backupTimestamp": "2025-04-14T02:45:51.204Z",
+    "localBackupTimestamp": "2025-04-13T20:45:51.204Z"
+  },
+  {
+    "question": "What invention did Nicéphore Niépce create?",
+    "correct_answer": "First permanent photograph",
+    "incorrect_answers": [
+      "Telephone",
+      "Telegraph",
+      "Bicycle",
+      "Sewing machine",
+      "Camera obscura",
+      "Motion picture",
+      "Daguerreotype"
+    ],
+    "main_category": "History",
+    "subcategory": "Inventions & Discoveries",
+    "difficulty": "medium",
+    "id": "2188c6e8-f47c-4a6d-8aaa-69f61ef87f98",
+    "created_at": "2025-04-14T02:45:51.211Z",
+    "backupTimestamp": "2025-04-14T02:45:51.211Z",
+    "localBackupTimestamp": "2025-04-13T20:45:51.211Z"
+  },
+  {
+    "question": "Who invented the first programmable computer?",
+    "correct_answer": "Charles Babbage",
+    "incorrect_answers": [
+      "Alan Turing",
+      "Ada Lovelace",
+      "John von Neumann",
+      "Howard Aiken",
+      "Bill Gates",
+      "Steve Jobs",
+      "Konrad Zuse"
+    ],
+    "main_category": "History",
+    "subcategory": "Inventions & Discoveries",
+    "difficulty": "medium",
+    "id": "0e681118-6266-494b-8d3b-4833e819fa0c",
+    "created_at": "2025-04-14T02:45:51.224Z",
+    "backupTimestamp": "2025-04-14T02:45:51.224Z",
+    "localBackupTimestamp": "2025-04-13T20:45:51.224Z"
+  },
+  {
+    "question": "What ancient civilization invented papyrus paper?",
+    "correct_answer": "Egyptians",
+    "incorrect_answers": [
+      "Babylonians",
+      "Chinese",
+      "Greeks",
+      "Romans",
+      "Mayans",
+      "Incas",
+      "Persians"
+    ],
+    "main_category": "History",
+    "subcategory": "Inventions & Discoveries",
+    "difficulty": "medium",
+    "id": "6b0c6376-c1b0-4071-a40b-46be0ceb94e8",
+    "created_at": "2025-04-14T02:45:51.231Z",
+    "backupTimestamp": "2025-04-14T02:45:51.231Z",
+    "localBackupTimestamp": "2025-04-13T20:45:51.231Z"
+  },
+  {
+    "question": "Who invented Bakelite?",
+    "correct_answer": "Leo Baekeland",
+    "incorrect_answers": [
+      "Charles Goodyear",
+      "Wallace Carothers",
+      "Alexander Parkes",
+      "John Wesley Hyatt",
+      "Edmund McIlhenny",
+      "James Dewar",
+      "Levi Strauss"
+    ],
+    "main_category": "History",
+    "subcategory": "Inventions & Discoveries",
+    "difficulty": "medium",
+    "id": "353cbb1a-898a-4f86-8402-84b459362f31",
+    "created_at": "2025-04-14T02:45:51.237Z",
+    "backupTimestamp": "2025-04-14T02:45:51.238Z",
+    "localBackupTimestamp": "2025-04-13T20:45:51.238Z"
+  },
+  {
+    "question": "Who invented the first artificial heart?",
+    "correct_answer": "Robert Jarvik",
+    "incorrect_answers": [
+      "Christiaan Barnard",
+      "Michael DeBakey",
+      "Willem Kolff",
+      "Charles Lindbergh",
+      "Jonas Salk",
+      "Alexander Fleming",
+      "Louis Pasteur"
+    ],
+    "main_category": "History",
+    "subcategory": "Inventions & Discoveries",
+    "difficulty": "medium",
+    "id": "65aa25bf-6186-4cef-b9b6-8b00f7dc827f",
+    "created_at": "2025-04-14T02:45:51.245Z",
+    "backupTimestamp": "2025-04-14T02:45:51.246Z",
+    "localBackupTimestamp": "2025-04-13T20:45:51.246Z"
+  },
+  {
+    "question": "What did Joseph Niepce and Louis Daguerre develop?",
+    "correct_answer": "Photography",
+    "incorrect_answers": [
+      "Telephone",
+      "Telegraph",
+      "Television",
+      "Radio",
+      "Microscope",
+      "Telescope",
+      "X-ray"
+    ],
+    "main_category": "History",
+    "subcategory": "Inventions & Discoveries",
+    "difficulty": "medium",
+    "id": "30a17b50-ce8c-4824-a83e-db8c7918a49e",
+    "created_at": "2025-04-14T02:45:51.254Z",
+    "backupTimestamp": "2025-04-14T02:45:51.254Z",
+    "localBackupTimestamp": "2025-04-13T20:45:51.254Z"
+  },
+  {
+    "question": "What navigation system did the US develop in the 1970s?",
+    "correct_answer": "GPS",
+    "incorrect_answers": [
+      "Radar",
+      "Sonar",
+      "LORAN",
+      "Inertial navigation",
+      "Radio direction finding",
+      "Astrolabe",
+      "Sextant"
+    ],
+    "main_category": "History",
+    "subcategory": "Inventions & Discoveries",
+    "difficulty": "medium",
+    "id": "926a742a-a317-469c-aeb8-1e292b521248",
+    "created_at": "2025-04-14T02:45:51.261Z",
+    "backupTimestamp": "2025-04-14T02:45:51.262Z",
+    "localBackupTimestamp": "2025-04-13T20:45:51.262Z"
+  },
+  {
+    "question": "Who invented the mechanical reaper?",
+    "correct_answer": "Cyrus McCormick",
+    "incorrect_answers": [
+      "John Deere",
+      "Eli Whitney",
+      "Jerome Case",
+      "Charles Deering",
+      "Obed Hussey",
+      "Joseph Dart",
+      "Benjamin Holt"
+    ],
+    "main_category": "History",
+    "subcategory": "Inventions & Discoveries",
+    "difficulty": "medium",
+    "id": "be45b25b-e39b-452f-8e91-c398eeef78e7",
+    "created_at": "2025-04-14T02:45:51.270Z",
+    "backupTimestamp": "2025-04-14T02:45:51.271Z",
+    "localBackupTimestamp": "2025-04-13T20:45:51.271Z"
+  },
+  {
+    "question": "What technology did Guglielmo Marconi demonstrate in 1901?",
+    "correct_answer": "Transatlantic radio transmission",
+    "incorrect_answers": [
+      "Telephone",
+      "Television",
+      "Telegraph",
+      "Microwave",
+      "Radar",
+      "Electric light",
+      "X-ray"
+    ],
+    "main_category": "History",
+    "subcategory": "Inventions & Discoveries",
+    "difficulty": "medium",
+    "id": "911c392e-a9ec-449e-9281-34a02bd41888",
+    "created_at": "2025-04-14T02:45:51.278Z",
+    "backupTimestamp": "2025-04-14T02:45:51.279Z",
+    "localBackupTimestamp": "2025-04-13T20:45:51.279Z"
+  },
+  {
+    "question": "Who discovered the first antibiotic?",
+    "correct_answer": "Alexander Fleming",
+    "incorrect_answers": [
+      "Louis Pasteur",
+      "Jonas Salk",
+      "Edward Jenner",
+      "Robert Koch",
+      "Joseph Lister",
+      "Paul Ehrlich",
+      "Gerhard Domagk"
+    ],
+    "main_category": "History",
+    "subcategory": "Inventions & Discoveries",
+    "difficulty": "medium",
+    "id": "9c76f94a-0f5d-4ea8-aedb-a83218cf0e8b",
+    "created_at": "2025-04-14T02:45:51.285Z",
+    "backupTimestamp": "2025-04-14T02:45:51.285Z",
+    "localBackupTimestamp": "2025-04-13T20:45:51.285Z"
+  },
+  {
+    "question": "What calculating device did Blaise Pascal invent?",
+    "correct_answer": "Pascaline",
+    "incorrect_answers": [
+      "Abacus",
+      "Difference Engine",
+      "Analytical Engine",
+      "Slide rule",
+      "Napier's bones",
+      "ENIAC",
+      "Calculator"
+    ],
+    "main_category": "History",
+    "subcategory": "Inventions & Discoveries",
+    "difficulty": "medium",
+    "id": "25e9a9f6-80c0-4cc9-b588-d7d1f2417a5e",
+    "created_at": "2025-04-14T02:45:51.292Z",
+    "backupTimestamp": "2025-04-14T02:45:51.292Z",
+    "localBackupTimestamp": "2025-04-13T20:45:51.292Z"
+  },
+  {
+    "question": "Who invented the first practical helicopter?",
+    "correct_answer": "Igor Sikorsky",
+    "incorrect_answers": [
+      "Orville Wright",
+      "Wilbur Wright",
+      "Juan de la Cierva",
+      "Frank Whittle",
+      "Paul Cornu",
+      "Louis Breguet",
+      "Etienne Oehmichen"
+    ],
+    "main_category": "History",
+    "subcategory": "Inventions & Discoveries",
+    "difficulty": "medium",
+    "id": "da1a901d-78c3-40c5-8856-f08adf8a240e",
+    "created_at": "2025-04-14T02:45:51.298Z",
+    "backupTimestamp": "2025-04-14T02:45:51.299Z",
+    "localBackupTimestamp": "2025-04-13T20:45:51.299Z"
+  },
+  {
+    "question": "What did Percy Spencer accidentally discover?",
+    "correct_answer": "Microwave cooking",
+    "incorrect_answers": [
+      "X-rays",
+      "Radioactivity",
+      "Penicillin",
+      "Plastic",
+      "Vulcanized rubber",
+      "Dynamite",
+      "Teflon"
+    ],
+    "main_category": "History",
+    "subcategory": "Inventions & Discoveries",
+    "difficulty": "medium",
+    "id": "863b397f-ca29-4495-85aa-5cc08903d349",
+    "created_at": "2025-04-14T02:45:51.309Z",
+    "backupTimestamp": "2025-04-14T02:45:51.309Z",
+    "localBackupTimestamp": "2025-04-13T20:45:51.309Z"
+  },
+  {
+    "question": "Who invented the first practical diving suit?",
+    "correct_answer": "Augustus Siebe",
+    "incorrect_answers": [
+      "Jacques Cousteau",
+      "William Beebe",
+      "Charles William Davis",
+      "John P. Holland",
+      "David Bushnell",
+      "Emile Gagnan",
+      "Simon Lake"
+    ],
+    "main_category": "History",
+    "subcategory": "Inventions & Discoveries",
+    "difficulty": "medium",
+    "id": "796bff0d-5e8c-4d90-8928-8872d5477355",
+    "created_at": "2025-04-14T02:45:51.315Z",
+    "backupTimestamp": "2025-04-14T02:45:51.316Z",
+    "localBackupTimestamp": "2025-04-13T20:45:51.316Z"
+  },
+  {
+    "question": "What did Karl Benz invent in 1885?",
+    "correct_answer": "Automobile",
+    "incorrect_answers": [
+      "Bicycle",
+      "Motorcycle",
+      "Steamboat",
+      "Diesel engine",
+      "Airplane",
+      "Train",
+      "Helicopter"
+    ],
+    "main_category": "History",
+    "subcategory": "Inventions & Discoveries",
+    "difficulty": "medium",
+    "id": "d44d01c8-070e-4095-a086-d66ce89769e3",
+    "created_at": "2025-04-14T02:45:51.320Z",
+    "backupTimestamp": "2025-04-14T02:45:51.321Z",
+    "localBackupTimestamp": "2025-04-13T20:45:51.321Z"
+  },
+  {
+    "question": "Who invented pasteurization?",
+    "correct_answer": "Louis Pasteur",
+    "incorrect_answers": [
+      "Robert Koch",
+      "Joseph Lister",
+      "Alexander Fleming",
+      "Edward Jenner",
+      "Jonas Salk",
+      "Ignaz Semmelweis",
+      "John Snow"
+    ],
+    "main_category": "History",
+    "subcategory": "Inventions & Discoveries",
+    "difficulty": "medium",
+    "id": "f3d8591d-160e-47c3-ab87-6496b0f2d1f7",
+    "created_at": "2025-04-14T02:45:51.326Z",
+    "backupTimestamp": "2025-04-14T02:45:51.327Z",
+    "localBackupTimestamp": "2025-04-13T20:45:51.327Z"
+  },
+  {
+    "question": "Who invented the safety elevator?",
+    "correct_answer": "Elisha Otis",
+    "incorrect_answers": [
+      "Thomas Edison",
+      "Nikola Tesla",
+      "Alexander Graham Bell",
+      "Henry Ford",
+      "Charles Kettering",
+      "George Westinghouse",
+      "Guglielmo Marconi"
+    ],
+    "main_category": "History",
+    "subcategory": "Inventions & Discoveries",
+    "difficulty": "medium",
+    "id": "0ceec62b-23e4-454d-9442-5db18e1a0e56",
+    "created_at": "2025-04-14T02:45:51.331Z",
+    "backupTimestamp": "2025-04-14T02:45:51.332Z",
+    "localBackupTimestamp": "2025-04-13T20:45:51.332Z"
+  },
+  {
+    "question": "What was the first antibiotic discovered?",
+    "correct_answer": "Penicillin",
+    "incorrect_answers": [
+      "Streptomycin",
+      "Tetracycline",
+      "Erythromycin",
+      "Ampicillin",
+      "Amoxicillin",
+      "Chloramphenicol",
+      "Sulfonamide"
+    ],
+    "main_category": "History",
+    "subcategory": "Inventions & Discoveries",
+    "difficulty": "medium",
+    "id": "f3c0fdc7-67f6-4b43-a791-ad59fc8d1d71",
+    "created_at": "2025-04-14T02:45:51.340Z",
+    "backupTimestamp": "2025-04-14T02:45:51.340Z",
+    "localBackupTimestamp": "2025-04-13T20:45:51.340Z"
+  },
+  {
+    "question": "Who invented reinforced concrete?",
+    "correct_answer": "Joseph Monier",
+    "incorrect_answers": [
+      "Thomas Edison",
+      "Gustave Eiffel",
+      "Isambard Kingdom Brunel",
+      "John Smeaton",
+      "Joseph Aspdin",
+      "François Coignet",
+      "William Aspdin"
+    ],
+    "main_category": "History",
+    "subcategory": "Inventions & Discoveries",
+    "difficulty": "medium",
+    "id": "217fe545-0ac9-4390-a2a4-5cc09bb56d64",
+    "created_at": "2025-04-14T02:45:51.345Z",
+    "backupTimestamp": "2025-04-14T02:45:51.346Z",
+    "localBackupTimestamp": "2025-04-13T20:45:51.346Z"
+  },
+  {
+    "question": "Who developed the first successful polio vaccine?",
+    "correct_answer": "Jonas Salk",
+    "incorrect_answers": [
+      "Albert Sabin",
+      "Louis Pasteur",
+      "Alexander Fleming",
+      "Edward Jenner",
+      "Robert Koch",
+      "Joseph Lister",
+      "Maurice Hilleman"
+    ],
+    "main_category": "History",
+    "subcategory": "Inventions & Discoveries",
+    "difficulty": "medium",
+    "id": "2ae2d241-15e8-4154-a1b2-cbe99ae98c33",
+    "created_at": "2025-04-14T02:45:51.350Z",
+    "backupTimestamp": "2025-04-14T02:45:51.351Z",
+    "localBackupTimestamp": "2025-04-13T20:45:51.351Z"
+  },
+  {
+    "question": "What was the first mass-produced plastic called?",
+    "correct_answer": "Bakelite",
+    "incorrect_answers": [
+      "Nylon",
+      "Polyethylene",
+      "PVC",
+      "Celluloid",
+      "Polystyrene",
+      "Teflon",
+      "Kevlar"
+    ],
+    "main_category": "History",
+    "subcategory": "Inventions & Discoveries",
+    "difficulty": "medium",
+    "id": "9bdd5fe6-6c57-4924-8445-e4bae5cf3d42",
+    "created_at": "2025-04-14T02:45:51.356Z",
+    "backupTimestamp": "2025-04-14T02:45:51.357Z",
+    "localBackupTimestamp": "2025-04-13T20:45:51.357Z"
+  },
+  {
+    "question": "Who invented the first electric washing machine?",
+    "correct_answer": "Alva Fisher",
+    "incorrect_answers": [
+      "Thomas Edison",
+      "Nikola Tesla",
+      "Alexander Graham Bell",
+      "James Dyson",
+      "William Blackstone",
+      "Hamilton Smith",
+      "Howard Colman"
+    ],
+    "main_category": "History",
+    "subcategory": "Inventions & Discoveries",
+    "difficulty": "medium",
+    "id": "e3059fea-f4b7-4f9d-8bd3-68f64f181cfd",
+    "created_at": "2025-04-14T02:45:51.362Z",
+    "backupTimestamp": "2025-04-14T02:45:51.363Z",
+    "localBackupTimestamp": "2025-04-13T20:45:51.363Z"
+  },
+  {
+    "question": "What was the first computer to defeat a chess champion?",
+    "correct_answer": "Deep Blue",
+    "incorrect_answers": [
+      "AlphaGo",
+      "Watson",
+      "Deep Thought",
+      "ENIAC",
+      "Colossus",
+      "HAL 9000",
+      "WOPR"
+    ],
+    "main_category": "History",
+    "subcategory": "Inventions & Discoveries",
+    "difficulty": "medium",
+    "id": "55c3a28b-213d-43f1-be1c-4c9f26048209",
+    "created_at": "2025-04-14T02:45:51.369Z",
+    "backupTimestamp": "2025-04-14T02:45:51.369Z",
+    "localBackupTimestamp": "2025-04-13T20:45:51.369Z"
+  },
+  {
+    "question": "Who is credited with creating the World Wide Web?",
+    "correct_answer": "Tim Berners-Lee",
+    "incorrect_answers": [
+      "Vint Cerf",
+      "Bob Kahn",
+      "Larry Page",
+      "Steve Jobs",
+      "Bill Gates",
+      "Alan Turing",
+      "John von Neumann"
+    ],
+    "main_category": "History",
+    "subcategory": "Inventions & Discoveries",
+    "difficulty": "medium",
+    "id": "5cf0042f-1887-4e2c-9683-e7856132612d",
+    "created_at": "2025-04-14T02:45:51.373Z",
+    "backupTimestamp": "2025-04-14T02:45:51.374Z",
+    "localBackupTimestamp": "2025-04-13T20:45:51.374Z"
+  },
+  {
+    "question": "What did Richard Trevithick develop in 1804?",
+    "correct_answer": "Steam locomotive",
+    "incorrect_answers": [
+      "Spinning jenny",
+      "Power loom",
+      "Steam engine",
+      "Cotton gin",
+      "Sewing machine",
+      "Steamboat",
+      "Telegraph"
+    ],
+    "main_category": "History",
+    "subcategory": "Inventions & Discoveries",
+    "difficulty": "medium",
+    "id": "d730aed6-866d-45fe-bc19-66f42b4dc4b8",
+    "created_at": "2025-04-14T02:45:51.378Z",
+    "backupTimestamp": "2025-04-14T02:45:51.379Z",
+    "localBackupTimestamp": "2025-04-13T20:45:51.379Z"
+  },
+  {
+    "question": "Who invented the first automatic dishwasher?",
+    "correct_answer": "Josephine Cochrane",
+    "incorrect_answers": [
+      "Margaret Knight",
+      "Mary Anderson",
+      "Hedy Lamarr",
+      "Stephanie Kwolek",
+      "Maria Telkes",
+      "Beulah Louise Henry",
+      "Ruth Handler"
+    ],
+    "main_category": "History",
+    "subcategory": "Inventions & Discoveries",
+    "difficulty": "medium",
+    "id": "5dc02fda-1333-471c-8fc4-537e025884a2",
+    "created_at": "2025-04-14T02:45:51.384Z",
+    "backupTimestamp": "2025-04-14T02:45:51.384Z",
+    "localBackupTimestamp": "2025-04-13T20:45:51.384Z"
+  },
+  {
+    "question": "Who discovered the principles of vaccination?",
+    "correct_answer": "Edward Jenner",
+    "incorrect_answers": [
+      "Louis Pasteur",
+      "Alexander Fleming",
+      "Robert Koch",
+      "Joseph Lister",
+      "Jonas Salk",
+      "Albert Sabin",
+      "Maurice Hilleman"
+    ],
+    "main_category": "History",
+    "subcategory": "Inventions & Discoveries",
+    "difficulty": "medium",
+    "id": "8523f7c4-feb2-4219-8ecf-93878a89de80",
+    "created_at": "2025-04-14T02:45:51.391Z",
+    "backupTimestamp": "2025-04-14T02:45:51.392Z",
+    "localBackupTimestamp": "2025-04-13T20:45:51.392Z"
+  },
+  {
+    "question": "What invention was patented by Charles Goodyear in 1844?",
+    "correct_answer": "Vulcanized rubber",
+    "incorrect_answers": [
+      "Bicycle tire",
+      "Automobile tire",
+      "Balloon",
+      "Rain boot",
+      "Rubber band",
+      "Rubber glove",
+      "Rubber stamp"
+    ],
+    "main_category": "History",
+    "subcategory": "Inventions & Discoveries",
+    "difficulty": "medium",
+    "id": "4f8ffd64-7861-43d6-bc7f-ed47b3939ad9",
+    "created_at": "2025-04-14T02:45:51.404Z",
+    "backupTimestamp": "2025-04-14T02:45:51.405Z",
+    "localBackupTimestamp": "2025-04-13T20:45:51.405Z"
+  },
+  {
+    "question": "Who invented the Polaroid instant camera?",
+    "correct_answer": "Edwin Land",
+    "incorrect_answers": [
+      "George Eastman",
+      "Thomas Edison",
+      "Louis Daguerre",
+      "Ansel Adams",
+      "Eadweard Muybridge",
+      "Joseph Nicéphore Niépce",
+      "Henri Cartier-Bresson"
+    ],
+    "main_category": "History",
+    "subcategory": "Inventions & Discoveries",
+    "difficulty": "medium",
+    "id": "f374faca-77b0-4431-988e-741d8f9d8d12",
+    "created_at": "2025-04-14T02:45:51.416Z",
+    "backupTimestamp": "2025-04-14T02:45:51.416Z",
+    "localBackupTimestamp": "2025-04-13T20:45:51.416Z"
+  },
+  {
+    "question": "Who invented the first practical induction motor?",
+    "correct_answer": "Nikola Tesla",
+    "incorrect_answers": [
+      "Thomas Edison",
+      "Michael Faraday",
+      "James Watt",
+      "Alessandro Volta",
+      "André-Marie Ampère",
+      "Georg Ohm",
+      "Heinrich Hertz"
+    ],
+    "main_category": "History",
+    "subcategory": "Inventions & Discoveries",
+    "difficulty": "medium",
+    "id": "ec73f96e-e230-4a3a-881f-5d779fa487d9",
+    "created_at": "2025-04-14T02:45:51.427Z",
+    "backupTimestamp": "2025-04-14T02:45:51.428Z",
+    "localBackupTimestamp": "2025-04-13T20:45:51.428Z"
+  },
+  {
+    "question": "What invention led to the decline of whaling?",
+    "correct_answer": "Petroleum refining",
+    "incorrect_answers": [
+      "Electric light",
+      "Natural gas",
+      "Coal mining",
+      "Synthetic oils",
+      "Vegetable oils",
+      "Nuclear power",
+      "Hydroelectricity"
+    ],
+    "main_category": "History",
+    "subcategory": "Inventions & Discoveries",
+    "difficulty": "medium",
+    "id": "b6554107-c3e2-4c27-8615-ccb050c7f41d",
+    "created_at": "2025-04-14T02:45:51.447Z",
+    "backupTimestamp": "2025-04-14T02:45:51.447Z",
+    "localBackupTimestamp": "2025-04-13T20:45:51.447Z"
+  },
+  {
+    "question": "Who created the first synthetic dye?",
+    "correct_answer": "William Henry Perkin",
+    "incorrect_answers": [
+      "Louis Pasteur",
+      "Dmitri Mendeleev",
+      "August Kekulé",
+      "Justus von Liebig",
+      "Joseph Priestley",
+      "Antoine Lavoisier",
+      "John Dalton"
+    ],
+    "main_category": "History",
+    "subcategory": "Inventions & Discoveries",
+    "difficulty": "medium",
+    "id": "8f5fbb25-4bcb-4b29-ad33-2aecab5a250c",
+    "created_at": "2025-04-14T02:45:51.457Z",
+    "backupTimestamp": "2025-04-14T02:45:51.458Z",
+    "localBackupTimestamp": "2025-04-13T20:45:51.458Z"
+  },
+  {
+    "question": "In what year was the first handheld calculator invented?",
+    "correct_answer": "1967",
+    "incorrect_answers": [
+      "1972",
+      "1955",
+      "1980",
+      "1962",
+      "1975",
+      "1950",
+      "1985"
+    ],
+    "main_category": "History",
+    "subcategory": "Inventions & Discoveries",
+    "difficulty": "medium",
+    "id": "6f01d5fc-0f62-454d-8776-b09806002138",
+    "created_at": "2025-04-14T02:45:51.469Z",
+    "backupTimestamp": "2025-04-14T02:45:51.470Z",
+    "localBackupTimestamp": "2025-04-13T20:45:51.470Z"
+  },
+  {
+    "question": "Who invented the first practical steam engine?",
+    "correct_answer": "Thomas Newcomen",
+    "incorrect_answers": [
+      "James Watt",
+      "Richard Trevithick",
+      "George Stephenson",
+      "Thomas Savery",
+      "Denis Papin",
+      "Robert Fulton",
+      "Oliver Evans"
+    ],
+    "main_category": "History",
+    "subcategory": "Inventions & Discoveries",
+    "difficulty": "medium",
+    "id": "7eadd08a-d0bc-4730-969a-0d4eed41c583",
+    "created_at": "2025-04-14T02:45:51.475Z",
+    "backupTimestamp": "2025-04-14T02:45:51.475Z",
+    "localBackupTimestamp": "2025-04-13T20:45:51.475Z"
+  },
+  {
+    "question": "What material did John Dunlop use for the first pneumatic tire?",
+    "correct_answer": "Rubber garden hose",
+    "incorrect_answers": [
+      "Vulcanized rubber",
+      "Leather",
+      "Canvas",
+      "Cork",
+      "Gutta-percha",
+      "Whalebone",
+      "Animal bladder"
+    ],
+    "main_category": "History",
+    "subcategory": "Inventions & Discoveries",
+    "difficulty": "medium",
+    "id": "575860f7-10c8-49c7-95ea-78cef9cdf933",
+    "created_at": "2025-04-14T02:45:51.480Z",
+    "backupTimestamp": "2025-04-14T02:45:51.480Z",
+    "localBackupTimestamp": "2025-04-13T20:45:51.480Z"
+  },
+  {
+    "question": "Who invented the modern toilet flush mechanism?",
+    "correct_answer": "Thomas Crapper",
+    "incorrect_answers": [
+      "John Harington",
+      "Alexander Cummings",
+      "Joseph Bramah",
+      "Thomas Edison",
+      "Henry Ford",
+      "Albert Giblin",
+      "George Jennings"
+    ],
+    "main_category": "History",
+    "subcategory": "Inventions & Discoveries",
+    "difficulty": "medium",
+    "id": "3888e8d3-9507-4485-a5af-cc63afc45450",
+    "created_at": "2025-04-14T02:45:51.485Z",
+    "backupTimestamp": "2025-04-14T02:45:51.486Z",
+    "localBackupTimestamp": "2025-04-13T20:45:51.486Z"
+  },
+  {
+    "question": "Who discovered electromagnetic induction in 1831?",
+    "correct_answer": "Michael Faraday",
+    "incorrect_answers": [
+      "Nikola Tesla",
+      "Thomas Edison",
+      "James Clerk Maxwell",
+      "André-Marie Ampère",
+      "Alessandro Volta",
+      "Georg Ohm",
+      "Heinrich Hertz"
+    ],
+    "main_category": "History",
+    "subcategory": "Inventions & Discoveries",
+    "difficulty": "medium",
+    "id": "343040ee-a72d-443c-b949-fb69f8f96c7e",
+    "created_at": "2025-04-14T02:45:51.490Z",
+    "backupTimestamp": "2025-04-14T02:45:51.491Z",
+    "localBackupTimestamp": "2025-04-13T20:45:51.491Z"
+  },
+  {
+    "question": "What material did Charles Goodyear vulcanize?",
+    "correct_answer": "Rubber",
+    "incorrect_answers": [
+      "Plastic",
+      "Glass",
+      "Metal",
+      "Wood",
+      "Leather",
+      "Paper",
+      "Fabric"
+    ],
+    "main_category": "History",
+    "subcategory": "Inventions & Discoveries",
+    "difficulty": "medium",
+    "id": "949ffea5-1a48-4b9c-b4a5-4d2e3dbc9b88",
+    "created_at": "2025-04-14T02:45:51.496Z",
+    "backupTimestamp": "2025-04-14T02:45:51.497Z",
+    "localBackupTimestamp": "2025-04-13T20:45:51.497Z"
+  },
+  {
+    "question": "Who invented the first practical steamboat?",
+    "correct_answer": "Robert Fulton",
+    "incorrect_answers": [
+      "James Watt",
+      "Thomas Newcomen",
+      "George Stephenson",
+      "John Fitch",
+      "Isaac Newton",
+      "Benjamin Franklin",
+      "Thomas Jefferson"
+    ],
+    "main_category": "History",
+    "subcategory": "Inventions & Discoveries",
+    "difficulty": "medium",
+    "id": "ed8b87e1-b1db-45d6-ad6f-4b157378994b",
+    "created_at": "2025-04-14T02:45:51.501Z",
+    "backupTimestamp": "2025-04-14T02:45:51.502Z",
+    "localBackupTimestamp": "2025-04-13T20:45:51.502Z"
+  },
+  {
+    "question": "In what year was the first Apple computer released?",
+    "correct_answer": "1976",
+    "incorrect_answers": [
+      "1984",
+      "1970",
+      "1989",
+      "1981",
+      "1967",
+      "1995",
+      "1973"
+    ],
+    "main_category": "History",
+    "subcategory": "Inventions & Discoveries",
+    "difficulty": "medium",
+    "id": "aa8b0e06-09ec-4660-8d86-bb527fb3a456",
+    "created_at": "2025-04-14T02:45:51.507Z",
+    "backupTimestamp": "2025-04-14T02:45:51.507Z",
+    "localBackupTimestamp": "2025-04-13T20:45:51.507Z"
+  },
+  {
+    "question": "Who invented the mechanical clock?",
+    "correct_answer": "Yi Xing",
+    "incorrect_answers": [
+      "Su Song",
+      "John Harrison",
+      "Peter Henlein",
+      "Christiaan Huygens",
+      "Galileo Galilei",
+      "Thomas Tompion",
+      "Jost Bürgi"
+    ],
+    "main_category": "History",
+    "subcategory": "Inventions & Discoveries",
+    "difficulty": "medium",
+    "id": "dc694d49-83ff-4f5c-8d7f-4d45186cee49",
+    "created_at": "2025-04-14T02:45:51.512Z",
+    "backupTimestamp": "2025-04-14T02:45:51.512Z",
+    "localBackupTimestamp": "2025-04-13T20:45:51.512Z"
+  },
+  {
+    "question": "What did Mary Anderson invent in 1903?",
+    "correct_answer": "Windshield wiper",
+    "incorrect_answers": [
+      "Dishwasher",
+      "Washing machine",
+      "Sewing machine",
+      "Electric iron",
+      "Refrigerator",
+      "Vacuum cleaner",
+      "Hair dryer"
+    ],
+    "main_category": "History",
+    "subcategory": "Inventions & Discoveries",
+    "difficulty": "medium",
+    "id": "5f7e853c-18d9-4b3f-a8be-ff9ef64265bc",
+    "created_at": "2025-04-14T02:45:51.518Z",
+    "backupTimestamp": "2025-04-14T02:45:51.518Z",
+    "localBackupTimestamp": "2025-04-13T20:45:51.518Z"
+  },
+  {
+    "question": "Who invented Kevlar?",
+    "correct_answer": "Stephanie Kwolek",
+    "incorrect_answers": [
+      "Wallace Carothers",
+      "Roy Plunkett",
+      "Leo Baekeland",
+      "Spencer Silver",
+      "John Wesley Hyatt",
+      "Charles Goodyear",
+      "Edwin Binney"
+    ],
+    "main_category": "History",
+    "subcategory": "Inventions & Discoveries",
+    "difficulty": "medium",
+    "id": "92b794a2-a803-4821-8285-de8f2cbcf475",
+    "created_at": "2025-04-14T02:45:51.523Z",
+    "backupTimestamp": "2025-04-14T02:45:51.523Z",
+    "localBackupTimestamp": "2025-04-13T20:45:51.523Z"
+  },
+  {
+    "question": "What did Alessandro Volta invent in 1800?",
+    "correct_answer": "Electric battery",
+    "incorrect_answers": [
+      "Electric motor",
+      "Generator",
+      "Transformer",
+      "Transistor",
+      "Capacitor",
+      "Resistor",
+      "Voltmeter"
+    ],
+    "main_category": "History",
+    "subcategory": "Inventions & Discoveries",
+    "difficulty": "medium",
+    "id": "1ee754f4-eee0-4475-8ea3-a078a6447da2",
+    "created_at": "2025-04-14T02:45:51.528Z",
+    "backupTimestamp": "2025-04-14T02:45:51.528Z",
+    "localBackupTimestamp": "2025-04-13T20:45:51.528Z"
+  },
+  {
+    "question": "Who invented the first solar cell?",
+    "correct_answer": "Charles Fritts",
+    "incorrect_answers": [
+      "Alexandre Becquerel",
+      "Albert Einstein",
+      "Russell Ohl",
+      "Bell Labs",
+      "Nikola Tesla",
+      "Thomas Edison",
+      "Michael Faraday"
+    ],
+    "main_category": "History",
+    "subcategory": "Inventions & Discoveries",
+    "difficulty": "medium",
+    "id": "ea50dd51-d952-4245-9783-20d29ce06bf4",
+    "created_at": "2025-04-14T02:45:51.533Z",
+    "backupTimestamp": "2025-04-14T02:45:51.533Z",
+    "localBackupTimestamp": "2025-04-13T20:45:51.533Z"
+  },
+  {
+    "question": "What did James Harrison invent in 1851?",
+    "correct_answer": "Mechanical refrigeration",
+    "incorrect_answers": [
+      "Ice cream maker",
+      "Air conditioning",
+      "Freezer",
+      "Ice machine",
+      "Cold storage",
+      "Refrigerated transport",
+      "Domestic refrigerator"
+    ],
+    "main_category": "History",
+    "subcategory": "Inventions & Discoveries",
+    "difficulty": "medium",
+    "id": "5a985dd6-eb8c-4693-9f24-08714c1b8f56",
+    "created_at": "2025-04-14T02:45:51.539Z",
+    "backupTimestamp": "2025-04-14T02:45:51.539Z",
+    "localBackupTimestamp": "2025-04-13T20:45:51.539Z"
+  },
+  {
+    "question": "Who invented the pressure cooker?",
+    "correct_answer": "Denis Papin",
+    "incorrect_answers": [
+      "James Watt",
+      "Thomas Newcomen",
+      "Robert Boyle",
+      "Thomas Savery",
+      "Robert Fulton",
+      "John Smeaton",
+      "Nicolas Appert"
+    ],
+    "main_category": "History",
+    "subcategory": "Inventions & Discoveries",
+    "difficulty": "medium",
+    "id": "6ed7e47a-a9d6-45f2-916c-d1b41963d6ce",
+    "created_at": "2025-04-14T02:45:51.544Z",
+    "backupTimestamp": "2025-04-14T02:45:51.545Z",
+    "localBackupTimestamp": "2025-04-13T20:45:51.545Z"
+  },
+  {
+    "question": "Who invented the concept of World Wide Web Consortium?",
+    "correct_answer": "Tim Berners-Lee",
+    "incorrect_answers": [
+      "Vint Cerf",
+      "Robert Kahn",
+      "Steve Jobs",
+      "Bill Gates",
+      "Larry Page",
+      "Mark Zuckerberg",
+      "Alan Turing"
+    ],
+    "main_category": "History",
+    "subcategory": "Inventions & Discoveries",
+    "difficulty": "medium",
+    "id": "d70ab1eb-a8ef-4c4b-8a7c-16076cbe38d3",
+    "created_at": "2025-04-14T02:45:51.550Z",
+    "backupTimestamp": "2025-04-14T02:45:51.550Z",
+    "localBackupTimestamp": "2025-04-13T20:45:51.550Z"
+  },
+  {
+    "question": "What was the first antibiotic discovered by Alexander Fleming?",
+    "correct_answer": "Penicillin",
+    "incorrect_answers": [
+      "Streptomycin",
+      "Tetracycline",
+      "Erythromycin",
+      "Ampicillin",
+      "Cephalosporin",
+      "Sulfonamide",
+      "Chloramphenicol"
+    ],
+    "main_category": "History",
+    "subcategory": "Inventions & Discoveries",
+    "difficulty": "medium",
+    "id": "77c0caae-7c85-4761-827e-53ce1addbe7e",
+    "created_at": "2025-04-14T02:45:51.555Z",
+    "backupTimestamp": "2025-04-14T02:45:51.555Z",
+    "localBackupTimestamp": "2025-04-13T20:45:51.555Z"
+  },
+  {
+    "question": "Who invented the coherer, a radio wave detector?",
+    "correct_answer": "Édouard Branly",
+    "incorrect_answers": [
+      "Oliver Lodge",
+      "Alexander Popov",
+      "Guglielmo Marconi",
+      "Heinrich Hertz",
+      "Nikola Tesla",
+      "James Clerk Maxwell",
+      "Thomas Edison"
+    ],
+    "main_category": "History",
+    "subcategory": "Inventions & Discoveries",
+    "difficulty": "hard",
+    "id": "efafdf5c-85d3-4600-8d7a-8ac722bbd837",
+    "created_at": "2025-04-14T02:50:36.275Z",
+    "backupTimestamp": "2025-04-14T02:50:36.277Z",
+    "localBackupTimestamp": "2025-04-13T20:50:36.277Z"
+  },
+  {
+    "question": "What was the first message sent by Morse code in 1844?",
+    "correct_answer": "What hath God wrought",
+    "incorrect_answers": [
+      "SOS",
+      "Hello, world",
+      "It works",
+      "Come here Watson",
+      "God save the Queen",
+      "A test message",
+      "Success"
+    ],
+    "main_category": "History",
+    "subcategory": "Inventions & Discoveries",
+    "difficulty": "hard",
+    "id": "080bef89-5187-4d06-9401-a20885f95428",
+    "created_at": "2025-04-14T02:50:36.298Z",
+    "backupTimestamp": "2025-04-14T02:50:36.299Z",
+    "localBackupTimestamp": "2025-04-13T20:50:36.299Z"
+  },
+  {
+    "question": "Who invented the cyclotron in 1932?",
+    "correct_answer": "Ernest Lawrence",
+    "incorrect_answers": [
+      "Enrico Fermi",
+      "Niels Bohr",
+      "Werner Heisenberg",
+      "Ernest Rutherford",
+      "J.J. Thomson",
+      "Otto Hahn",
+      "Leo Szilard"
+    ],
+    "main_category": "History",
+    "subcategory": "Inventions & Discoveries",
+    "difficulty": "hard",
+    "id": "5367f1ad-e273-4caf-bd02-07506038e44d",
+    "created_at": "2025-04-14T02:50:36.307Z",
+    "backupTimestamp": "2025-04-14T02:50:36.307Z",
+    "localBackupTimestamp": "2025-04-13T20:50:36.307Z"
+  },
+  {
+    "question": "What did Wallace Carothers invent in 1935?",
+    "correct_answer": "Nylon",
+    "incorrect_answers": [
+      "Rayon",
+      "Polyester",
+      "Teflon",
+      "Kevlar",
+      "Lycra",
+      "Bakelite",
+      "Polyethylene"
+    ],
+    "main_category": "History",
+    "subcategory": "Inventions & Discoveries",
+    "difficulty": "hard",
+    "id": "04bb34a1-9b56-4eab-bb77-43358d855e9e",
+    "created_at": "2025-04-14T02:50:36.316Z",
+    "backupTimestamp": "2025-04-14T02:50:36.316Z",
+    "localBackupTimestamp": "2025-04-13T20:50:36.316Z"
+  },
+  {
+    "question": "Who invented the resonant circuit for tuning radio?",
+    "correct_answer": "Nikola Tesla",
+    "incorrect_answers": [
+      "Guglielmo Marconi",
+      "Edwin Armstrong",
+      "Oliver Lodge",
+      "John Fleming",
+      "Lee De Forest",
+      "Reginald Fessenden",
+      "Heinrich Hertz"
+    ],
+    "main_category": "History",
+    "subcategory": "Inventions & Discoveries",
+    "difficulty": "hard",
+    "id": "66c7153b-c49f-4aaa-b619-53953bb75330",
+    "created_at": "2025-04-14T02:50:36.329Z",
+    "backupTimestamp": "2025-04-14T02:50:36.330Z",
+    "localBackupTimestamp": "2025-04-13T20:50:36.330Z"
+  },
+  {
+    "question": "What ancient Greek invented the Archimedean screw?",
+    "correct_answer": "Archimedes",
+    "incorrect_answers": [
+      "Aristotle",
+      "Euclid",
+      "Pythagoras",
+      "Democritus",
+      "Ptolemy",
+      "Thales",
+      "Hero"
+    ],
+    "main_category": "History",
+    "subcategory": "Inventions & Discoveries",
+    "difficulty": "hard",
+    "id": "1bddc592-8a48-40e1-afe9-b49ba66a936e",
+    "created_at": "2025-04-14T02:50:36.336Z",
+    "backupTimestamp": "2025-04-14T02:50:36.336Z",
+    "localBackupTimestamp": "2025-04-13T20:50:36.336Z"
+  },
+  {
+    "question": "Who invented Kodachrome film?",
+    "correct_answer": "Leopold Godowsky and Leopold Mannes",
+    "incorrect_answers": [
+      "George Eastman",
+      "Edwin Land",
+      "Louis Daguerre",
+      "Thomas Edison",
+      "William Fox Talbot",
+      "Steven Sasson",
+      "Joseph Nicéphore Niépce"
+    ],
+    "main_category": "History",
+    "subcategory": "Inventions & Discoveries",
+    "difficulty": "hard",
+    "id": "6dda0c7a-0118-40e8-b1d7-95d953cbef24",
+    "created_at": "2025-04-14T02:50:36.345Z",
+    "backupTimestamp": "2025-04-14T02:50:36.346Z",
+    "localBackupTimestamp": "2025-04-13T20:50:36.346Z"
+  },
+  {
+    "question": "What material did Leo Baekeland invent?",
+    "correct_answer": "Bakelite",
+    "incorrect_answers": [
+      "Nylon",
+      "Kevlar",
+      "Teflon",
+      "Celluloid",
+      "Polyethylene",
+      "PVC",
+      "Rayon"
+    ],
+    "main_category": "History",
+    "subcategory": "Inventions & Discoveries",
+    "difficulty": "hard",
+    "id": "5dbb029d-55a7-49d2-bab9-d2093a1f6a96",
+    "created_at": "2025-04-14T02:50:36.353Z",
+    "backupTimestamp": "2025-04-14T02:50:36.353Z",
+    "localBackupTimestamp": "2025-04-13T20:50:36.353Z"
+  },
+  {
+    "question": "Who invented the first electronic digital computer?",
+    "correct_answer": "John Atanasoff and Clifford Berry",
+    "incorrect_answers": [
+      "Alan Turing",
+      "John von Neumann",
+      "J. Presper Eckert",
+      "John Mauchly",
+      "Howard Aiken",
+      "Konrad Zuse",
+      "Charles Babbage"
+    ],
+    "main_category": "History",
+    "subcategory": "Inventions & Discoveries",
+    "difficulty": "hard",
+    "id": "e429e2e0-eaf9-424f-b7f5-53d9b4895065",
+    "created_at": "2025-04-14T02:50:36.359Z",
+    "backupTimestamp": "2025-04-14T02:50:36.360Z",
+    "localBackupTimestamp": "2025-04-13T20:50:36.360Z"
+  },
+  {
+    "question": "What textile machine did James Hargreaves invent?",
+    "correct_answer": "Spinning Jenny",
+    "incorrect_answers": [
+      "Power Loom",
+      "Water Frame",
+      "Spinning Mule",
+      "Flying Shuttle",
+      "Jacquard Loom",
+      "Spinning Wheel",
+      "Cotton Gin"
+    ],
+    "main_category": "History",
+    "subcategory": "Inventions & Discoveries",
+    "difficulty": "hard",
+    "id": "ba869386-08d1-4caf-8cb6-88dd3bae1939",
+    "created_at": "2025-04-14T02:50:36.366Z",
+    "backupTimestamp": "2025-04-14T02:50:36.367Z",
+    "localBackupTimestamp": "2025-04-13T20:50:36.367Z"
+  },
+  {
+    "question": "Who invented the antiseptic surgical technique?",
+    "correct_answer": "Joseph Lister",
+    "incorrect_answers": [
+      "Louis Pasteur",
+      "Robert Koch",
+      "Alexander Fleming",
+      "Edward Jenner",
+      "Joseph Lister",
+      "John Snow",
+      "Ignaz Semmelweis"
+    ],
+    "main_category": "History",
+    "subcategory": "Inventions & Discoveries",
+    "difficulty": "hard",
+    "id": "6af0aaab-b568-4593-b498-616c14227d11",
+    "created_at": "2025-04-14T02:50:36.374Z",
+    "backupTimestamp": "2025-04-14T02:50:36.375Z",
+    "localBackupTimestamp": "2025-04-13T20:50:36.375Z"
+  },
+  {
+    "question": "Who discovered the thermionic emission principle?",
+    "correct_answer": "Thomas Edison",
+    "incorrect_answers": [
+      "Nikola Tesla",
+      "Lee De Forest",
+      "John Ambrose Fleming",
+      "Heinrich Hertz",
+      "James Clerk Maxwell",
+      "William Shockley",
+      "John Bardeen"
+    ],
+    "main_category": "History",
+    "subcategory": "Inventions & Discoveries",
+    "difficulty": "hard",
+    "id": "a0825ad5-db02-4c35-9487-00ed6a477a79",
+    "created_at": "2025-04-14T02:50:36.383Z",
+    "backupTimestamp": "2025-04-14T02:50:36.383Z",
+    "localBackupTimestamp": "2025-04-13T20:50:36.383Z"
+  },
+  {
+    "question": "Who discovered the Seebeck effect?",
+    "correct_answer": "Thomas Johann Seebeck",
+    "incorrect_answers": [
+      "William Thomson",
+      "Jean Peltier",
+      "James Joule",
+      "Georg Ohm",
+      "André-Marie Ampère",
+      "Alessandro Volta",
+      "Michael Faraday"
+    ],
+    "main_category": "History",
+    "subcategory": "Inventions & Discoveries",
+    "difficulty": "hard",
+    "id": "177559b2-fc04-4b6b-835f-9befbea79e9d",
+    "created_at": "2025-04-14T02:50:36.390Z",
+    "backupTimestamp": "2025-04-14T02:50:36.390Z",
+    "localBackupTimestamp": "2025-04-13T20:50:36.390Z"
+  },
+  {
+    "question": "Who invented the first digital electronic calculator?",
+    "correct_answer": "Al-Jazari",
+    "incorrect_answers": [
+      "Charles Babbage",
+      "Blaise Pascal",
+      "Gottfried Wilhelm Leibniz",
+      "Wilhelm Schickard",
+      "William Oughtred",
+      "John Napier",
+      "Herman Hollerith"
+    ],
+    "main_category": "History",
+    "subcategory": "Inventions & Discoveries",
+    "difficulty": "hard",
+    "id": "aadeaef6-f2bd-4745-a7b6-4a073946c64a",
+    "created_at": "2025-04-14T02:50:36.397Z",
+    "backupTimestamp": "2025-04-14T02:50:36.397Z",
+    "localBackupTimestamp": "2025-04-13T20:50:36.397Z"
+  },
+  {
+    "question": "Which medical device did René Laennec invent?",
+    "correct_answer": "Stethoscope",
+    "incorrect_answers": [
+      "Thermometer",
+      "Blood pressure monitor",
+      "X-ray machine",
+      "MRI scanner",
+      "Ultrasound",
+      "Defibrillator",
+      "Pacemaker"
+    ],
+    "main_category": "History",
+    "subcategory": "Inventions & Discoveries",
+    "difficulty": "hard",
+    "id": "4a287273-1171-483a-a983-f2fd1c1af74a",
+    "created_at": "2025-04-14T02:50:36.404Z",
+    "backupTimestamp": "2025-04-14T02:50:36.404Z",
+    "localBackupTimestamp": "2025-04-13T20:50:36.404Z"
+  },
+  {
+    "question": "Who discovered the principle of stereophonic sound?",
+    "correct_answer": "Alan Blumlein",
+    "incorrect_answers": [
+      "Thomas Edison",
+      "Lee De Forest",
+      "Edwin Armstrong",
+      "Emile Berliner",
+      "Alexander Graham Bell",
+      "Guglielmo Marconi",
+      "Nikola Tesla"
+    ],
+    "main_category": "History",
+    "subcategory": "Inventions & Discoveries",
+    "difficulty": "hard",
+    "id": "4a4a7da8-4b8c-4202-99e7-29afd2423868",
+    "created_at": "2025-04-14T02:50:36.410Z",
+    "backupTimestamp": "2025-04-14T02:50:36.410Z",
+    "localBackupTimestamp": "2025-04-13T20:50:36.410Z"
+  },
+  {
+    "question": "Who invented the Leyden jar?",
+    "correct_answer": "Pieter van Musschenbroek",
+    "incorrect_answers": [
+      "Luigi Galvani",
+      "Alessandro Volta",
+      "Benjamin Franklin",
+      "Charles-Augustin de Coulomb",
+      "William Gilbert",
+      "Hans Christian Ørsted",
+      "André-Marie Ampère"
+    ],
+    "main_category": "History",
+    "subcategory": "Inventions & Discoveries",
+    "difficulty": "hard",
+    "id": "de319ade-06aa-488f-82ea-d9f5a6f635df",
+    "created_at": "2025-04-14T02:50:36.417Z",
+    "backupTimestamp": "2025-04-14T02:50:36.417Z",
+    "localBackupTimestamp": "2025-04-13T20:50:36.417Z"
+  },
+  {
+    "question": "Who invented the Fletcher-Munson curves?",
+    "correct_answer": "Harvey Fletcher and Wilden Munson",
+    "incorrect_answers": [
+      "Alexander Graham Bell",
+      "Thomas Edison",
+      "Guglielmo Marconi",
+      "Nikola Tesla",
+      "Lee De Forest",
+      "Edwin Armstrong",
+      "John Logie Baird"
+    ],
+    "main_category": "History",
+    "subcategory": "Inventions & Discoveries",
+    "difficulty": "hard",
+    "id": "3f3e1179-0ac2-4726-93ad-3777f78210cf",
+    "created_at": "2025-04-14T02:50:36.422Z",
+    "backupTimestamp": "2025-04-14T02:50:36.423Z",
+    "localBackupTimestamp": "2025-04-13T20:50:36.423Z"
+  },
+  {
+    "question": "Who invented the steam turbine?",
+    "correct_answer": "Charles Parsons",
+    "incorrect_answers": [
+      "James Watt",
+      "Thomas Newcomen",
+      "Richard Trevithick",
+      "George Stephenson",
+      "Thomas Savery",
+      "Isambard Kingdom Brunel",
+      "Robert Fulton"
+    ],
+    "main_category": "History",
+    "subcategory": "Inventions & Discoveries",
+    "difficulty": "hard",
+    "id": "f77af9df-2996-415f-b814-febc23fbcffc",
+    "created_at": "2025-04-14T02:50:36.432Z",
+    "backupTimestamp": "2025-04-14T02:50:36.432Z",
+    "localBackupTimestamp": "2025-04-13T20:50:36.432Z"
+  },
+  {
+    "question": "Who invented the mechanical jacquard loom?",
+    "correct_answer": "Joseph Marie Jacquard",
+    "incorrect_answers": [
+      "James Hargreaves",
+      "Richard Arkwright",
+      "Samuel Crompton",
+      "Edmund Cartwright",
+      "Eli Whitney",
+      "John Kay",
+      "Isaac Singer"
+    ],
+    "main_category": "History",
+    "subcategory": "Inventions & Discoveries",
+    "difficulty": "hard",
+    "id": "3503afa2-e8c9-481d-a15c-d0ee28374db5",
+    "created_at": "2025-04-14T02:50:36.443Z",
+    "backupTimestamp": "2025-04-14T02:50:36.444Z",
+    "localBackupTimestamp": "2025-04-13T20:50:36.444Z"
+  },
+  {
+    "question": "Who invented the audiometer?",
+    "correct_answer": "Harvey Fletcher",
+    "incorrect_answers": [
+      "Alexander Graham Bell",
+      "Thomas Edison",
+      "Lee De Forest",
+      "Edwin Armstrong",
+      "Alan Blumlein",
+      "Robert Koch",
+      "Wilhelm Röntgen"
+    ],
+    "main_category": "History",
+    "subcategory": "Inventions & Discoveries",
+    "difficulty": "hard",
+    "id": "c71b8cac-239a-4f70-bf57-c62ec86e7c0e",
+    "created_at": "2025-04-14T02:50:36.453Z",
+    "backupTimestamp": "2025-04-14T02:50:36.454Z",
+    "localBackupTimestamp": "2025-04-13T20:50:36.454Z"
+  },
+  {
+    "question": "Who invented the fluid coupling?",
+    "correct_answer": "Hermann Föttinger",
+    "incorrect_answers": [
+      "Karl Benz",
+      "Rudolf Diesel",
+      "Nikolaus Otto",
+      "Gottlieb Daimler",
+      "Felix Wankel",
+      "Ferdinand Porsche",
+      "Wilhelm Maybach"
+    ],
+    "main_category": "History",
+    "subcategory": "Inventions & Discoveries",
+    "difficulty": "hard",
+    "id": "8ba8a5f8-4a07-4751-bc4c-20ad9a774fb3",
+    "created_at": "2025-04-14T02:50:36.460Z",
+    "backupTimestamp": "2025-04-14T02:50:36.460Z",
+    "localBackupTimestamp": "2025-04-13T20:50:36.460Z"
+  },
+  {
+    "question": "Who invented the first practical hydraulic press?",
+    "correct_answer": "Joseph Bramah",
+    "incorrect_answers": [
+      "Blaise Pascal",
+      "Archimedes",
+      "Daniel Bernoulli",
+      "Evangelista Torricelli",
+      "Simon Stevin",
+      "William Thomson",
+      "James Watt"
+    ],
+    "main_category": "History",
+    "subcategory": "Inventions & Discoveries",
+    "difficulty": "hard",
+    "id": "edb6d91a-5c37-40ff-830f-c98aebb8fd83",
+    "created_at": "2025-04-14T02:50:36.466Z",
+    "backupTimestamp": "2025-04-14T02:50:36.466Z",
+    "localBackupTimestamp": "2025-04-13T20:50:36.466Z"
+  },
+  {
+    "question": "Who discovered the Barkhausen effect?",
+    "correct_answer": "Heinrich Barkhausen",
+    "incorrect_answers": [
+      "Michael Faraday",
+      "James Clerk Maxwell",
+      "Heinrich Hertz",
+      "Nikola Tesla",
+      "Wilhelm Röntgen",
+      "Hans Christian Ørsted",
+      "André-Marie Ampère"
+    ],
+    "main_category": "History",
+    "subcategory": "Inventions & Discoveries",
+    "difficulty": "hard",
+    "id": "b6d5d715-5537-4a08-ae7f-8fdaa83203c7",
+    "created_at": "2025-04-14T02:50:36.472Z",
+    "backupTimestamp": "2025-04-14T02:50:36.472Z",
+    "localBackupTimestamp": "2025-04-13T20:50:36.472Z"
+  },
+  {
+    "question": "Who invented the first ultracentrifuge?",
+    "correct_answer": "Theodor Svedberg",
+    "incorrect_answers": [
+      "Albert Einstein",
+      "Linus Pauling",
+      "Max Planck",
+      "Ernest Rutherford",
+      "Marie Curie",
+      "Niels Bohr",
+      "James Chadwick"
+    ],
+    "main_category": "History",
+    "subcategory": "Inventions & Discoveries",
+    "difficulty": "hard",
+    "id": "dad92d07-07e6-47c5-9cea-bdf6fe2773a0",
+    "created_at": "2025-04-14T02:50:36.483Z",
+    "backupTimestamp": "2025-04-14T02:50:36.483Z",
+    "localBackupTimestamp": "2025-04-13T20:50:36.483Z"
+  },
+  {
+    "question": "Who invented the first practical visible spectrum LED?",
+    "correct_answer": "Nick Holonyak",
+    "incorrect_answers": [
+      "Robert Hall",
+      "James Biard",
+      "H.J. Round",
+      "Oleg Losev",
+      "Shuji Nakamura",
+      "Herbert Kroemer",
+      "Zhores Alferov"
+    ],
+    "main_category": "History",
+    "subcategory": "Inventions & Discoveries",
+    "difficulty": "hard",
+    "id": "38fdb831-3f32-4db2-bda0-8f3982b8ecd1",
+    "created_at": "2025-04-14T02:50:36.489Z",
+    "backupTimestamp": "2025-04-14T02:50:36.489Z",
+    "localBackupTimestamp": "2025-04-13T20:50:36.489Z"
+  },
+  {
+    "question": "Who developed the first pneumatic tire for bicycles?",
+    "correct_answer": "John Boyd Dunlop",
+    "incorrect_answers": [
+      "Charles Goodyear",
+      "Robert William Thomson",
+      "André Michelin",
+      "Harvey Firestone",
+      "Benjamin Franklin Goodrich",
+      "Frank Seiberling",
+      "Édouard Michelin"
+    ],
+    "main_category": "History",
+    "subcategory": "Inventions & Discoveries",
+    "difficulty": "hard",
+    "id": "4a7bb650-84b5-432d-a93a-db3aa88d3668",
+    "created_at": "2025-04-14T02:50:36.494Z",
+    "backupTimestamp": "2025-04-14T02:50:36.495Z",
+    "localBackupTimestamp": "2025-04-13T20:50:36.495Z"
+  },
+  {
+    "question": "Who invented frequency modulation (FM) radio?",
+    "correct_answer": "Edwin Howard Armstrong",
+    "incorrect_answers": [
+      "Guglielmo Marconi",
+      "Nikola Tesla",
+      "Lee De Forest",
+      "John Fleming",
+      "Reginald Fessenden",
+      "Heinrich Hertz",
+      "Oliver Lodge"
+    ],
+    "main_category": "History",
+    "subcategory": "Inventions & Discoveries",
+    "difficulty": "hard",
+    "id": "7012b778-8431-47f3-b8de-fd2b1b081d7c",
+    "created_at": "2025-04-14T02:50:36.499Z",
+    "backupTimestamp": "2025-04-14T02:50:36.500Z",
+    "localBackupTimestamp": "2025-04-13T20:50:36.500Z"
+  },
+  {
+    "question": "Who invented the first practical vapor-compression refrigeration?",
+    "correct_answer": "Jacob Perkins",
+    "incorrect_answers": [
+      "Carl von Linde",
+      "William Cullen",
+      "Oliver Evans",
+      "James Harrison",
+      "Alexander Twining",
+      "Ferdinand Carré",
+      "Charles Tellier"
+    ],
+    "main_category": "History",
+    "subcategory": "Inventions & Discoveries",
+    "difficulty": "hard",
+    "id": "5e3a309a-0b5a-46ba-9717-f9ece3e62ead",
+    "created_at": "2025-04-14T02:50:36.507Z",
+    "backupTimestamp": "2025-04-14T02:50:36.508Z",
+    "localBackupTimestamp": "2025-04-13T20:50:36.508Z"
+  },
+  {
+    "question": "Who invented the cyclotron?",
+    "correct_answer": "Ernest Lawrence",
+    "incorrect_answers": [
+      "Niels Bohr",
+      "Ernest Rutherford",
+      "Enrico Fermi",
+      "Werner Heisenberg",
+      "J. Robert Oppenheimer",
+      "Edward Teller",
+      "Hans Bethe"
+    ],
+    "main_category": "History",
+    "subcategory": "Inventions & Discoveries",
+    "difficulty": "hard",
+    "id": "d60d21d4-848e-428e-88cd-b3f0259bbb39",
+    "created_at": "2025-04-14T02:50:36.518Z",
+    "backupTimestamp": "2025-04-14T02:50:36.520Z",
+    "localBackupTimestamp": "2025-04-13T20:50:36.520Z"
+  },
+  {
+    "question": "Who invented phase-contrast microscopy?",
+    "correct_answer": "Frits Zernike",
+    "incorrect_answers": [
+      "Ernst Ruska",
+      "Max Knoll",
+      "Zacharias Janssen",
+      "Antoni van Leeuwenhoek",
+      "Robert Hooke",
+      "Ernst Abbe",
+      "Carl Zeiss"
+    ],
+    "main_category": "History",
+    "subcategory": "Inventions & Discoveries",
+    "difficulty": "hard",
+    "id": "90968eb9-0de9-40b7-9627-b2b1ec0de324",
+    "created_at": "2025-04-14T02:50:36.536Z",
+    "backupTimestamp": "2025-04-14T02:50:36.536Z",
+    "localBackupTimestamp": "2025-04-13T20:50:36.536Z"
+  },
+  {
+    "question": "Who invented the first practical gas turbine?",
+    "correct_answer": "Frank Whittle",
+    "incorrect_answers": [
+      "Hans von Ohain",
+      "Alan Arnold Griffith",
+      "Sanford Moss",
+      "Aurel Stodola",
+      "Aegidius Elling",
+      "Charles Parsons",
+      "Ernst Heinkel"
+    ],
+    "main_category": "History",
+    "subcategory": "Inventions & Discoveries",
+    "difficulty": "hard",
+    "id": "ee59b5f8-4ca0-4940-a925-1c1c9d068cac",
+    "created_at": "2025-04-14T02:50:36.548Z",
+    "backupTimestamp": "2025-04-14T02:50:36.549Z",
+    "localBackupTimestamp": "2025-04-13T20:50:36.549Z"
+  },
+  {
+    "question": "Who invented the Audion vacuum tube?",
+    "correct_answer": "Lee De Forest",
+    "incorrect_answers": [
+      "John Ambrose Fleming",
+      "Thomas Edison",
+      "Nikola Tesla",
+      "Guglielmo Marconi",
+      "Edwin Armstrong",
+      "John Logie Baird",
+      "Heinrich Hertz"
+    ],
+    "main_category": "History",
+    "subcategory": "Inventions & Discoveries",
+    "difficulty": "hard",
+    "id": "8171a07c-e5b7-4a40-9c85-7cc04dcef405",
+    "created_at": "2025-04-14T02:50:36.567Z",
+    "backupTimestamp": "2025-04-14T02:50:36.567Z",
+    "localBackupTimestamp": "2025-04-13T20:50:36.567Z"
+  },
+  {
+    "question": "Who invented the first electronic television?",
+    "correct_answer": "Philo Farnsworth",
+    "incorrect_answers": [
+      "John Logie Baird",
+      "Vladimir Zworykin",
+      "Charles Francis Jenkins",
+      "Boris Rosing",
+      "Alan Archibald Campbell-Swinton",
+      "Paul Nipkow",
+      "Kenjiro Takayanagi"
+    ],
+    "main_category": "History",
+    "subcategory": "Inventions & Discoveries",
+    "difficulty": "hard",
+    "id": "12953e4d-5679-40ec-ab29-205359aaa5fe",
+    "created_at": "2025-04-14T02:50:36.578Z",
+    "backupTimestamp": "2025-04-14T02:50:36.579Z",
+    "localBackupTimestamp": "2025-04-13T20:50:36.579Z"
+  },
+  {
+    "question": "Who invented the differential gear?",
+    "correct_answer": "Onésiphore Pecqueur",
+    "incorrect_answers": [
+      "Archimedes",
+      "Leonardo da Vinci",
+      "James Starley",
+      "Karl Benz",
+      "Richard Trevithick",
+      "Ferdinand Verbiest",
+      "Nicolas-Joseph Cugnot"
+    ],
+    "main_category": "History",
+    "subcategory": "Inventions & Discoveries",
+    "difficulty": "hard",
+    "id": "578a75fa-ebb3-494a-863f-488d58755766",
+    "created_at": "2025-04-14T02:50:36.587Z",
+    "backupTimestamp": "2025-04-14T02:50:36.588Z",
+    "localBackupTimestamp": "2025-04-13T20:50:36.588Z"
+  },
+  {
+    "question": "Who discovered piezoelectricity?",
+    "correct_answer": "Jacques and Pierre Curie",
+    "incorrect_answers": [
+      "Marie Curie",
+      "Wilhelm Röntgen",
+      "Henri Becquerel",
+      "Ernest Rutherford",
+      "Max Planck",
+      "Niels Bohr",
+      "Albert Einstein"
+    ],
+    "main_category": "History",
+    "subcategory": "Inventions & Discoveries",
+    "difficulty": "hard",
+    "id": "63e26c2d-b54b-4901-bd4f-04ef8fa49c47",
+    "created_at": "2025-04-14T02:50:36.594Z",
+    "backupTimestamp": "2025-04-14T02:50:36.594Z",
+    "localBackupTimestamp": "2025-04-13T20:50:36.594Z"
+  },
+  {
+    "question": "Who invented the first digital answering machine?",
+    "correct_answer": "Kazuo Hashimoto",
+    "incorrect_answers": [
+      "Thomas Edison",
+      "Alexander Graham Bell",
+      "Valdemar Poulsen",
+      "Emile Berliner",
+      "Almon Strowger",
+      "Lee De Forest",
+      "Claude Shannon"
+    ],
+    "main_category": "History",
+    "subcategory": "Inventions & Discoveries",
+    "difficulty": "hard",
+    "id": "7e68b0c3-2c57-40a0-8790-90e05b575eac",
+    "created_at": "2025-04-14T02:50:36.600Z",
+    "backupTimestamp": "2025-04-14T02:50:36.600Z",
+    "localBackupTimestamp": "2025-04-13T20:50:36.600Z"
+  },
+  {
+    "question": "Who developed the first automatic exposure camera?",
+    "correct_answer": "Konishi Roku",
+    "incorrect_answers": [
+      "George Eastman",
+      "Edwin Land",
+      "Oskar Barnack",
+      "Steven Sasson",
+      "Thomas Edison",
+      "Joseph Nicéphore Niépce",
+      "Louis Daguerre"
+    ],
+    "main_category": "History",
+    "subcategory": "Inventions & Discoveries",
+    "difficulty": "hard",
+    "id": "6774b0fa-4307-443c-adeb-fd3dcdc3ac29",
+    "created_at": "2025-04-14T02:50:36.605Z",
+    "backupTimestamp": "2025-04-14T02:50:36.606Z",
+    "localBackupTimestamp": "2025-04-13T20:50:36.606Z"
+  },
+  {
+    "question": "Who invented the hydrofoil boat?",
+    "correct_answer": "Enrico Forlanini",
+    "incorrect_answers": [
+      "Alexander Graham Bell",
+      "Thomas Edison",
+      "Nikola Tesla",
+      "Samuel Langley",
+      "Glenn Curtiss",
+      "Henri Fabre",
+      "Howard Hughes"
+    ],
+    "main_category": "History",
+    "subcategory": "Inventions & Discoveries",
+    "difficulty": "hard",
+    "id": "39abef79-2f74-486f-b905-364ca1e84182",
+    "created_at": "2025-04-14T02:50:36.612Z",
+    "backupTimestamp": "2025-04-14T02:50:36.613Z",
+    "localBackupTimestamp": "2025-04-13T20:50:36.613Z"
+  },
+  {
+    "question": "Who invented the first programmable electronic computer?",
+    "correct_answer": "Konrad Zuse",
+    "incorrect_answers": [
+      "Alan Turing",
+      "John von Neumann",
+      "Tommy Flowers",
+      "John Mauchly",
+      "J. Presper Eckert",
+      "Howard Aiken",
+      "Charles Babbage"
+    ],
+    "main_category": "History",
+    "subcategory": "Inventions & Discoveries",
+    "difficulty": "hard",
+    "id": "9ad108c7-2f81-4d11-9df7-0170cb7a688b",
+    "created_at": "2025-04-14T02:50:36.618Z",
+    "backupTimestamp": "2025-04-14T02:50:36.618Z",
+    "localBackupTimestamp": "2025-04-13T20:50:36.618Z"
+  },
+  {
+    "question": "Who invented the mechanical television?",
+    "correct_answer": "John Logie Baird",
+    "incorrect_answers": [
+      "Philo Farnsworth",
+      "Vladimir Zworykin",
+      "Charles Francis Jenkins",
+      "Paul Nipkow",
+      "Alan Archibald Campbell-Swinton",
+      "Boris Rosing",
+      "Kenjiro Takayanagi"
+    ],
+    "main_category": "History",
+    "subcategory": "Inventions & Discoveries",
+    "difficulty": "hard",
+    "id": "b19a9fe8-2377-4ab3-ac4b-97a192cff4f4",
+    "created_at": "2025-04-14T02:50:36.624Z",
+    "backupTimestamp": "2025-04-14T02:50:36.624Z",
+    "localBackupTimestamp": "2025-04-13T20:50:36.624Z"
+  },
+  {
+    "question": "Who invented the first liquid-fueled rocket?",
+    "correct_answer": "Robert H. Goddard",
+    "incorrect_answers": [
+      "Hermann Oberth",
+      "Konstantin Tsiolkovsky",
+      "Wernher von Braun",
+      "Sergei Korolev",
+      "Hermann Noordung",
+      "Robert Esnault-Pelterie",
+      "Pedro Paulet"
+    ],
+    "main_category": "History",
+    "subcategory": "Inventions & Discoveries",
+    "difficulty": "hard",
+    "id": "a7d4698e-9856-4bb1-8e46-56933dd6f2b4",
+    "created_at": "2025-04-14T02:50:36.629Z",
+    "backupTimestamp": "2025-04-14T02:50:36.630Z",
+    "localBackupTimestamp": "2025-04-13T20:50:36.630Z"
+  },
+  {
+    "question": "Who invented the mechanical calculator Curta?",
+    "correct_answer": "Curt Herzstark",
+    "incorrect_answers": [
+      "Charles Babbage",
+      "Blaise Pascal",
+      "Gottfried Leibniz",
+      "Wilhelm Schickard",
+      "William Oughtred",
+      "John Napier",
+      "Herman Hollerith"
+    ],
+    "main_category": "History",
+    "subcategory": "Inventions & Discoveries",
+    "difficulty": "hard",
+    "id": "6d6f06fe-35be-469b-b013-5946beffff49",
+    "created_at": "2025-04-14T02:50:36.635Z",
+    "backupTimestamp": "2025-04-14T02:50:36.636Z",
+    "localBackupTimestamp": "2025-04-13T20:50:36.636Z"
+  },
+  {
+    "question": "Who invented the first electronic digital watch?",
+    "correct_answer": "Hamilton Watch Company",
+    "incorrect_answers": [
+      "Casio",
+      "Seiko",
+      "Pulsar",
+      "Timex",
+      "Bulova",
+      "Rolex",
+      "Omega"
+    ],
+    "main_category": "History",
+    "subcategory": "Inventions & Discoveries",
+    "difficulty": "hard",
+    "id": "6c4a5523-d39d-4f39-9c7d-2f30fe7dcd8e",
+    "created_at": "2025-04-14T02:50:36.640Z",
+    "backupTimestamp": "2025-04-14T02:50:36.641Z",
+    "localBackupTimestamp": "2025-04-13T20:50:36.641Z"
+  },
+  {
+    "question": "Who invented the first electronic digital stopwatch?",
+    "correct_answer": "Cronus Precision Products",
+    "incorrect_answers": [
+      "Seiko",
+      "Casio",
+      "Omega",
+      "Longines",
+      "Tag Heuer",
+      "Timex",
+      "Breitling"
+    ],
+    "main_category": "History",
+    "subcategory": "Inventions & Discoveries",
+    "difficulty": "hard",
+    "id": "d898dd94-5f03-461b-9ce3-11c38a13448e",
+    "created_at": "2025-04-14T02:50:36.646Z",
+    "backupTimestamp": "2025-04-14T02:50:36.646Z",
+    "localBackupTimestamp": "2025-04-13T20:50:36.646Z"
+  },
+  {
+    "question": "Who invented the first practical electric dynamo?",
+    "correct_answer": "Hippolyte Pixii",
+    "incorrect_answers": [
+      "Michael Faraday",
+      "Nikola Tesla",
+      "Thomas Edison",
+      "Werner von Siemens",
+      "James Clerk Maxwell",
+      "Heinrich Hertz",
+      "André-Marie Ampère"
+    ],
+    "main_category": "History",
+    "subcategory": "Inventions & Discoveries",
+    "difficulty": "hard",
+    "id": "4dc65d95-16b3-4ad7-98b4-057c2eec609e",
+    "created_at": "2025-04-14T02:50:36.651Z",
+    "backupTimestamp": "2025-04-14T02:50:36.652Z",
+    "localBackupTimestamp": "2025-04-13T20:50:36.652Z"
+  },
+  {
+    "question": "Who invented the first practical hand-held electronic calculator?",
+    "correct_answer": "Jack Kilby and Jerry Merryman",
+    "incorrect_answers": [
+      "Bill Hewlett",
+      "David Packard",
+      "Masaru Ibuka",
+      "Akio Morita",
+      "Tadao Kashio",
+      "Edith Clarke",
+      "John von Neumann"
+    ],
+    "main_category": "History",
+    "subcategory": "Inventions & Discoveries",
+    "difficulty": "hard",
+    "id": "95e4f85f-3b12-421b-9bbc-419b0dccd5ae",
+    "created_at": "2025-04-14T02:50:36.658Z",
+    "backupTimestamp": "2025-04-14T02:50:36.658Z",
+    "localBackupTimestamp": "2025-04-13T20:50:36.658Z"
+  },
+  {
+    "question": "Who invented the first electronic spreadsheet?",
+    "correct_answer": "Dan Bricklin and Bob Frankston",
+    "incorrect_answers": [
+      "Bill Gates",
+      "Steve Jobs",
+      "Tim Berners-Lee",
+      "Alan Kay",
+      "Vint Cerf",
+      "Ray Tomlinson",
+      "Gary Kildall"
+    ],
+    "main_category": "History",
+    "subcategory": "Inventions & Discoveries",
+    "difficulty": "hard",
+    "id": "cb78339b-a89b-48a3-a54d-241bc4b9b370",
+    "created_at": "2025-04-14T02:50:36.663Z",
+    "backupTimestamp": "2025-04-14T02:50:36.663Z",
+    "localBackupTimestamp": "2025-04-13T20:50:36.663Z"
+  },
+  {
+    "question": "Who invented the AK-47 assault rifle?",
+    "correct_answer": "Mikhail Kalashnikov",
+    "incorrect_answers": [
+      "John Browning",
+      "Richard Gatling",
+      "Eugene Stoner",
+      "Samuel Colt",
+      "John Garand",
+      "Hiram Maxim",
+      "Georg Luger"
+    ],
+    "main_category": "History",
+    "subcategory": "Inventions & Discoveries",
+    "difficulty": "hard",
+    "id": "6c0026db-b581-423c-931d-3704b72186de",
+    "created_at": "2025-04-14T02:50:36.668Z",
+    "backupTimestamp": "2025-04-14T02:50:36.668Z",
+    "localBackupTimestamp": "2025-04-13T20:50:36.668Z"
+  },
+  {
+    "question": "Who discovered the double-helix structure of DNA?",
+    "correct_answer": "Watson, Crick, Wilkins, and Franklin",
+    "incorrect_answers": [
+      "Linus Pauling",
+      "Oswald Avery",
+      "Alfred Hershey",
+      "Martha Chase",
+      "Friedrich Miescher",
+      "Erwin Chargaff",
+      "Phoebus Levene"
+    ],
+    "main_category": "History",
+    "subcategory": "Inventions & Discoveries",
+    "difficulty": "hard",
+    "id": "509e32cd-8a8a-4e8f-8609-1a95bea91c1d",
+    "created_at": "2025-04-14T02:50:36.673Z",
+    "backupTimestamp": "2025-04-14T02:50:36.674Z",
+    "localBackupTimestamp": "2025-04-13T20:50:36.674Z"
+  },
+  {
+    "question": "Who invented the first transistor?",
+    "correct_answer": "Bardeen, Brattain, and Shockley",
+    "incorrect_answers": [
+      "Edison and Tesla",
+      "Bohr and Einstein",
+      "Faraday and Maxwell",
+      "Fleming and De Forest",
+      "Watson and Crick",
+      "Curie and Rutherford",
+      "Jobs and Wozniak"
+    ],
+    "main_category": "History",
+    "subcategory": "Inventions & Discoveries",
+    "difficulty": "hard",
+    "id": "41e63a2a-9470-485f-9b50-c5f86f10030c",
+    "created_at": "2025-04-14T02:50:36.680Z",
+    "backupTimestamp": "2025-04-14T02:50:36.680Z",
+    "localBackupTimestamp": "2025-04-13T20:50:36.680Z"
+  },
+  {
+    "question": "What was the first commercial integrated circuit?",
+    "correct_answer": "Fairchild μL914",
+    "incorrect_answers": [
+      "Intel 4004",
+      "Texas Instruments SN7400",
+      "Motorola 6800",
+      "Signetics NE555",
+      "RCA CD4000",
+      "National Semiconductor LM741",
+      "Intel 8008"
+    ],
+    "main_category": "History",
+    "subcategory": "Inventions & Discoveries",
+    "difficulty": "hard",
+    "id": "39dec1b6-0942-455b-a1b5-212c188c6a0d",
+    "created_at": "2025-04-14T02:50:36.687Z",
+    "backupTimestamp": "2025-04-14T02:50:36.688Z",
+    "localBackupTimestamp": "2025-04-13T20:50:36.688Z"
+  },
+  {
+    "question": "Who invented the flip-flop circuit?",
+    "correct_answer": "William Eccles and F.W. Jordan",
+    "incorrect_answers": [
+      "Claude Shannon",
+      "Alan Turing",
+      "John von Neumann",
+      "J. Presper Eckert",
+      "John Mauchly",
+      "Howard Aiken",
+      "Konrad Zuse"
+    ],
+    "main_category": "History",
+    "subcategory": "Inventions & Discoveries",
+    "difficulty": "hard",
+    "id": "9f9e52f4-0146-4b24-9df3-d3ae2d73336a",
+    "created_at": "2025-04-14T02:50:36.693Z",
+    "backupTimestamp": "2025-04-14T02:50:36.693Z",
+    "localBackupTimestamp": "2025-04-13T20:50:36.693Z"
+  },
+  {
+    "question": "Who invented high-level programming languages?",
+    "correct_answer": "John Backus",
+    "incorrect_answers": [
+      "Grace Hopper",
+      "Alan Turing",
+      "John von Neumann",
+      "Claude Shannon",
+      "Dennis Ritchie",
+      "Bjarne Stroustrup",
+      "Ada Lovelace"
+    ],
+    "main_category": "History",
+    "subcategory": "Inventions & Discoveries",
+    "difficulty": "hard",
+    "id": "f0057b51-ddc7-4525-bc97-0a8be736d15c",
+    "created_at": "2025-04-14T02:50:36.698Z",
+    "backupTimestamp": "2025-04-14T02:50:36.699Z",
+    "localBackupTimestamp": "2025-04-13T20:50:36.699Z"
   }
 ]
