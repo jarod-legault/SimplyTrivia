@@ -24758,5 +24758,3325 @@
     "created_at": "2025-04-14T01:42:03.312Z",
     "backupTimestamp": "2025-04-14T01:42:03.313Z",
     "localBackupTimestamp": "2025-04-13T19:42:03.313Z"
+  },
+  {
+    "question": "In which year did World War I begin?",
+    "correct_answer": "1914",
+    "incorrect_answers": [
+      "1916",
+      "1918",
+      "1912",
+      "1920",
+      "1910",
+      "1922",
+      "1908"
+    ],
+    "main_category": "History",
+    "subcategory": "Modern History",
+    "difficulty": "easy",
+    "id": "1ae974a2-eb5c-4d7d-a3e2-0c271445dffc",
+    "created_at": "2025-04-14T01:48:23.868Z",
+    "backupTimestamp": "2025-04-14T01:48:23.870Z",
+    "localBackupTimestamp": "2025-04-13T19:48:23.870Z"
+  },
+  {
+    "question": "Who was the first President of the United States?",
+    "correct_answer": "George Washington",
+    "incorrect_answers": [
+      "Thomas Jefferson",
+      "Abraham Lincoln",
+      "John Adams",
+      "Benjamin Franklin",
+      "Andrew Jackson",
+      "James Madison",
+      "Alexander Hamilton"
+    ],
+    "main_category": "History",
+    "subcategory": "Modern History",
+    "difficulty": "easy",
+    "id": "5af90ae8-c15c-40e9-a8ce-a512398d7934",
+    "created_at": "2025-04-14T01:48:23.886Z",
+    "backupTimestamp": "2025-04-14T01:48:23.887Z",
+    "localBackupTimestamp": "2025-04-13T19:48:23.887Z"
+  },
+  {
+    "question": "What happened at Pearl Harbor on December 7, 1941?",
+    "correct_answer": "Japanese attack",
+    "incorrect_answers": [
+      "Peace treaty signing",
+      "Naval parade",
+      "Military exercise",
+      "Submarine testing",
+      "Aircraft testing",
+      "Hurricane damage",
+      "Allied invasion"
+    ],
+    "main_category": "History",
+    "subcategory": "Modern History",
+    "difficulty": "easy",
+    "id": "901c35af-cb0a-443b-838e-76b5391fb129",
+    "created_at": "2025-04-14T01:48:23.896Z",
+    "backupTimestamp": "2025-04-14T01:48:23.897Z",
+    "localBackupTimestamp": "2025-04-13T19:48:23.897Z"
+  },
+  {
+    "question": "Which country was the first to send a person to space?",
+    "correct_answer": "Soviet Union",
+    "incorrect_answers": [
+      "United States",
+      "China",
+      "Germany",
+      "France",
+      "Japan",
+      "United Kingdom",
+      "Canada"
+    ],
+    "main_category": "History",
+    "subcategory": "Modern History",
+    "difficulty": "easy",
+    "id": "f66097c1-42a6-43bd-9752-450d250cdc07",
+    "created_at": "2025-04-14T01:48:23.907Z",
+    "backupTimestamp": "2025-04-14T01:48:23.908Z",
+    "localBackupTimestamp": "2025-04-13T19:48:23.908Z"
+  },
+  {
+    "question": "What was built to separate East and West Berlin?",
+    "correct_answer": "Berlin Wall",
+    "incorrect_answers": [
+      "Great Wall",
+      "Iron Curtain",
+      "Brandenburg Gate",
+      "Checkpoint Charlie",
+      "Atlantic Wall",
+      "Siegfried Line",
+      "Maginot Line"
+    ],
+    "main_category": "History",
+    "subcategory": "Modern History",
+    "difficulty": "easy",
+    "id": "f0619932-7bdf-43b9-a8c0-88e45e04e2e5",
+    "created_at": "2025-04-14T01:48:23.916Z",
+    "backupTimestamp": "2025-04-14T01:48:23.917Z",
+    "localBackupTimestamp": "2025-04-13T19:48:23.917Z"
+  },
+  {
+    "question": "Who was the leader of Nazi Germany during World War II?",
+    "correct_answer": "Adolf Hitler",
+    "incorrect_answers": [
+      "Joseph Stalin",
+      "Benito Mussolini",
+      "Winston Churchill",
+      "Francisco Franco",
+      "Heinrich Himmler",
+      "Hermann Göring",
+      "Joseph Goebbels"
+    ],
+    "main_category": "History",
+    "subcategory": "Modern History",
+    "difficulty": "easy",
+    "id": "ee28efa0-bd4c-4849-a4cf-9bb46b327db0",
+    "created_at": "2025-04-14T01:48:23.923Z",
+    "backupTimestamp": "2025-04-14T01:48:23.924Z",
+    "localBackupTimestamp": "2025-04-13T19:48:23.924Z"
+  },
+  {
+    "question": "In which year did the United States declare independence?",
+    "correct_answer": "1776",
+    "incorrect_answers": [
+      "1789",
+      "1781",
+      "1765",
+      "1800",
+      "1812",
+      "1756",
+      "1783"
+    ],
+    "main_category": "History",
+    "subcategory": "Modern History",
+    "difficulty": "easy",
+    "id": "f270af25-1fed-4cb3-b700-71d1ef9e8e7d",
+    "created_at": "2025-04-14T01:48:23.935Z",
+    "backupTimestamp": "2025-04-14T01:48:23.936Z",
+    "localBackupTimestamp": "2025-04-13T19:48:23.936Z"
+  },
+  {
+    "question": "What event started the French Revolution?",
+    "correct_answer": "Storming of the Bastille",
+    "incorrect_answers": [
+      "Battle of Waterloo",
+      "Reign of Terror",
+      "Tennis Court Oath",
+      "Louis XVI execution",
+      "Fall of Robespierre",
+      "March on Versailles",
+      "Napoleon's coronation"
+    ],
+    "main_category": "History",
+    "subcategory": "Modern History",
+    "difficulty": "easy",
+    "id": "a2f5d5f8-b5fc-4a4f-ab29-92661ed8a08a",
+    "created_at": "2025-04-14T01:48:23.942Z",
+    "backupTimestamp": "2025-04-14T01:48:23.942Z",
+    "localBackupTimestamp": "2025-04-13T19:48:23.942Z"
+  },
+  {
+    "question": "What was the first country to undergo industrial revolution?",
+    "correct_answer": "Great Britain",
+    "incorrect_answers": [
+      "United States",
+      "France",
+      "Germany",
+      "Belgium",
+      "Netherlands",
+      "Italy",
+      "Russia"
+    ],
+    "main_category": "History",
+    "subcategory": "Modern History",
+    "difficulty": "easy",
+    "id": "ececfa97-2d0a-4887-a87d-af71a4a98fc5",
+    "created_at": "2025-04-14T01:48:23.948Z",
+    "backupTimestamp": "2025-04-14T01:48:23.948Z",
+    "localBackupTimestamp": "2025-04-13T19:48:23.948Z"
+  },
+  {
+    "question": "When did World War II end in Europe?",
+    "correct_answer": "May 8, 1945",
+    "incorrect_answers": [
+      "December 7, 1941",
+      "September 1, 1939",
+      "June 6, 1944",
+      "August 6, 1945",
+      "August 15, 1945",
+      "July 28, 1914",
+      "November 11, 1918"
+    ],
+    "main_category": "History",
+    "subcategory": "Modern History",
+    "difficulty": "easy",
+    "id": "47453b3f-196e-4fda-830b-ceea94895272",
+    "created_at": "2025-04-14T01:48:23.954Z",
+    "backupTimestamp": "2025-04-14T01:48:23.955Z",
+    "localBackupTimestamp": "2025-04-13T19:48:23.955Z"
+  },
+  {
+    "question": "Which European country had a revolution in 1917?",
+    "correct_answer": "Russia",
+    "incorrect_answers": [
+      "Germany",
+      "France",
+      "Italy",
+      "Spain",
+      "United Kingdom",
+      "Poland",
+      "Austria"
+    ],
+    "main_category": "History",
+    "subcategory": "Modern History",
+    "difficulty": "easy",
+    "id": "5708c84c-fb16-435e-b403-737d30a89a75",
+    "created_at": "2025-04-14T01:48:23.959Z",
+    "backupTimestamp": "2025-04-14T01:48:23.960Z",
+    "localBackupTimestamp": "2025-04-13T19:48:23.960Z"
+  },
+  {
+    "question": "What was the name of the first atomic bomb dropped?",
+    "correct_answer": "Little Boy",
+    "incorrect_answers": [
+      "Fat Man",
+      "Trinity",
+      "Big Boy",
+      "Destroyer",
+      "Peacemaker",
+      "Thunderbolt",
+      "Devastator"
+    ],
+    "main_category": "History",
+    "subcategory": "Modern History",
+    "difficulty": "easy",
+    "id": "41bb3a2a-6f40-45dd-a38c-de2c6251e58f",
+    "created_at": "2025-04-14T01:48:23.966Z",
+    "backupTimestamp": "2025-04-14T01:48:23.967Z",
+    "localBackupTimestamp": "2025-04-13T19:48:23.967Z"
+  },
+  {
+    "question": "Which country gifted the Statue of Liberty to the US?",
+    "correct_answer": "France",
+    "incorrect_answers": [
+      "England",
+      "Italy",
+      "Germany",
+      "Spain",
+      "Netherlands",
+      "Russia",
+      "Belgium"
+    ],
+    "main_category": "History",
+    "subcategory": "Modern History",
+    "difficulty": "easy",
+    "id": "32823c52-d277-4984-9f75-45357be8dc54",
+    "created_at": "2025-04-14T01:48:23.973Z",
+    "backupTimestamp": "2025-04-14T01:48:23.973Z",
+    "localBackupTimestamp": "2025-04-13T19:48:23.973Z"
+  },
+  {
+    "question": "What year did the American Civil War begin?",
+    "correct_answer": "1861",
+    "incorrect_answers": [
+      "1865",
+      "1850",
+      "1875",
+      "1843",
+      "1870",
+      "1857",
+      "1881"
+    ],
+    "main_category": "History",
+    "subcategory": "Modern History",
+    "difficulty": "easy",
+    "id": "0a1c1195-5186-407b-ae23-6939b1725bf6",
+    "created_at": "2025-04-14T01:48:23.980Z",
+    "backupTimestamp": "2025-04-14T01:48:23.980Z",
+    "localBackupTimestamp": "2025-04-13T19:48:23.980Z"
+  },
+  {
+    "question": "Who was Britain's Prime Minister during World War II?",
+    "correct_answer": "Winston Churchill",
+    "incorrect_answers": [
+      "Neville Chamberlain",
+      "Clement Attlee",
+      "Anthony Eden",
+      "Stanley Baldwin",
+      "Harold Macmillan",
+      "David Lloyd George",
+      "Herbert Asquith"
+    ],
+    "main_category": "History",
+    "subcategory": "Modern History",
+    "difficulty": "easy",
+    "id": "104c943d-17af-4f3f-976d-22e071a7174a",
+    "created_at": "2025-04-14T01:48:23.988Z",
+    "backupTimestamp": "2025-04-14T01:48:23.988Z",
+    "localBackupTimestamp": "2025-04-13T19:48:23.988Z"
+  },
+  {
+    "question": "What major event began on October 29, 1929?",
+    "correct_answer": "Stock Market Crash",
+    "incorrect_answers": [
+      "World War I",
+      "World War II",
+      "Korean War",
+      "Vietnam War",
+      "Great Depression",
+      "Cold War",
+      "Cuban Missile Crisis"
+    ],
+    "main_category": "History",
+    "subcategory": "Modern History",
+    "difficulty": "easy",
+    "id": "9df191d1-8668-435b-b364-e969d36e9b7c",
+    "created_at": "2025-04-14T01:48:23.994Z",
+    "backupTimestamp": "2025-04-14T01:48:23.994Z",
+    "localBackupTimestamp": "2025-04-13T19:48:23.994Z"
+  },
+  {
+    "question": "Who was the first person to walk on the moon?",
+    "correct_answer": "Neil Armstrong",
+    "incorrect_answers": [
+      "Buzz Aldrin",
+      "Yuri Gagarin",
+      "John Glenn",
+      "Alan Shepard",
+      "Michael Collins",
+      "Jim Lovell",
+      "Pete Conrad"
+    ],
+    "main_category": "History",
+    "subcategory": "Modern History",
+    "difficulty": "easy",
+    "id": "ad3e972f-faaa-461f-80c6-595dd962d044",
+    "created_at": "2025-04-14T01:48:24.000Z",
+    "backupTimestamp": "2025-04-14T01:48:24.001Z",
+    "localBackupTimestamp": "2025-04-13T19:48:24.001Z"
+  },
+  {
+    "question": "What organization was founded after World War II?",
+    "correct_answer": "United Nations",
+    "incorrect_answers": [
+      "League of Nations",
+      "European Union",
+      "NATO",
+      "Warsaw Pact",
+      "World Bank",
+      "OPEC",
+      "NAFTA"
+    ],
+    "main_category": "History",
+    "subcategory": "Modern History",
+    "difficulty": "easy",
+    "id": "85c33660-6af0-4fb7-b45e-61d83e6fbe7c",
+    "created_at": "2025-04-14T01:48:24.006Z",
+    "backupTimestamp": "2025-04-14T01:48:24.007Z",
+    "localBackupTimestamp": "2025-04-13T19:48:24.007Z"
+  },
+  {
+    "question": "Who led India's independence movement?",
+    "correct_answer": "Mahatma Gandhi",
+    "incorrect_answers": [
+      "Jawaharlal Nehru",
+      "Subhas Chandra Bose",
+      "Bhagat Singh",
+      "Sardar Patel",
+      "B.R. Ambedkar",
+      "Muhammad Ali Jinnah",
+      "Rabindranath Tagore"
+    ],
+    "main_category": "History",
+    "subcategory": "Modern History",
+    "difficulty": "easy",
+    "id": "85164e39-07ff-44bf-a3cc-f35f9bacbb05",
+    "created_at": "2025-04-14T01:48:24.011Z",
+    "backupTimestamp": "2025-04-14T01:48:24.012Z",
+    "localBackupTimestamp": "2025-04-13T19:48:24.012Z"
+  },
+  {
+    "question": "What system of government did the USSR have?",
+    "correct_answer": "Communism",
+    "incorrect_answers": [
+      "Democracy",
+      "Monarchy",
+      "Fascism",
+      "Theocracy",
+      "Republic",
+      "Dictatorship",
+      "Oligarchy"
+    ],
+    "main_category": "History",
+    "subcategory": "Modern History",
+    "difficulty": "easy",
+    "id": "cf7a729b-5f75-4fdc-8ba3-93c56a0233f5",
+    "created_at": "2025-04-14T01:48:24.016Z",
+    "backupTimestamp": "2025-04-14T01:48:24.017Z",
+    "localBackupTimestamp": "2025-04-13T19:48:24.017Z"
+  },
+  {
+    "question": "What event happened on September 11, 2001?",
+    "correct_answer": "Terrorist attacks in the US",
+    "incorrect_answers": [
+      "Chernobyl disaster",
+      "Hurricane Katrina",
+      "Fukushima disaster",
+      "Boxing Day tsunami",
+      "Haiti earthquake",
+      "Berlin Wall fall",
+      "Gulf War began"
+    ],
+    "main_category": "History",
+    "subcategory": "Modern History",
+    "difficulty": "easy",
+    "id": "1eafcb12-0354-40c4-9a68-586631120fb2",
+    "created_at": "2025-04-14T01:48:24.021Z",
+    "backupTimestamp": "2025-04-14T01:48:24.021Z",
+    "localBackupTimestamp": "2025-04-13T19:48:24.021Z"
+  },
+  {
+    "question": "What invention did Alexander Graham Bell patent in 1876?",
+    "correct_answer": "Telephone",
+    "incorrect_answers": [
+      "Light bulb",
+      "Radio",
+      "Television",
+      "Automobile",
+      "Airplane",
+      "Camera",
+      "Refrigerator"
+    ],
+    "main_category": "History",
+    "subcategory": "Modern History",
+    "difficulty": "easy",
+    "id": "72bf771a-18e2-4dce-8c30-3bad1cf23b24",
+    "created_at": "2025-04-14T01:48:24.026Z",
+    "backupTimestamp": "2025-04-14T01:48:24.027Z",
+    "localBackupTimestamp": "2025-04-13T19:48:24.027Z"
+  },
+  {
+    "question": "Which war was fought in Vietnam?",
+    "correct_answer": "Vietnam War",
+    "incorrect_answers": [
+      "Korean War",
+      "Gulf War",
+      "World War I",
+      "World War II",
+      "Crimean War",
+      "Falklands War",
+      "Iraq War"
+    ],
+    "main_category": "History",
+    "subcategory": "Modern History",
+    "difficulty": "easy",
+    "id": "5aaf91f2-7181-4507-a858-bc40ccbe06b6",
+    "created_at": "2025-04-14T01:48:24.031Z",
+    "backupTimestamp": "2025-04-14T01:48:24.031Z",
+    "localBackupTimestamp": "2025-04-13T19:48:24.031Z"
+  },
+  {
+    "question": "Which country was divided into East and West in 1945?",
+    "correct_answer": "Germany",
+    "incorrect_answers": [
+      "France",
+      "Italy",
+      "Japan",
+      "China",
+      "Korea",
+      "Vietnam",
+      "Poland"
+    ],
+    "main_category": "History",
+    "subcategory": "Modern History",
+    "difficulty": "easy",
+    "id": "b80a8878-5398-4866-9206-94af2a7fea7b",
+    "created_at": "2025-04-14T01:48:24.036Z",
+    "backupTimestamp": "2025-04-14T01:48:24.036Z",
+    "localBackupTimestamp": "2025-04-13T19:48:24.036Z"
+  },
+  {
+    "question": "What period followed the French Revolution?",
+    "correct_answer": "Napoleonic Era",
+    "incorrect_answers": [
+      "Industrial Revolution",
+      "Renaissance",
+      "Reformation",
+      "Enlightenment",
+      "Colonial Period",
+      "Modern Age",
+      "Victorian Era"
+    ],
+    "main_category": "History",
+    "subcategory": "Modern History",
+    "difficulty": "easy",
+    "id": "0b1022ae-b866-45d2-b4a2-0e79812eb838",
+    "created_at": "2025-04-14T01:48:24.041Z",
+    "backupTimestamp": "2025-04-14T01:48:24.041Z",
+    "localBackupTimestamp": "2025-04-13T19:48:24.041Z"
+  },
+  {
+    "question": "What war ended in 1783 with American independence?",
+    "correct_answer": "American Revolutionary War",
+    "incorrect_answers": [
+      "War of 1812",
+      "French and Indian War",
+      "Civil War",
+      "Spanish-American War",
+      "Mexican-American War",
+      "World War I",
+      "Korean War"
+    ],
+    "main_category": "History",
+    "subcategory": "Modern History",
+    "difficulty": "easy",
+    "id": "5d9d8e2c-c2b0-499b-898e-6f8b4c740b25",
+    "created_at": "2025-04-14T01:48:24.046Z",
+    "backupTimestamp": "2025-04-14T01:48:24.047Z",
+    "localBackupTimestamp": "2025-04-13T19:48:24.047Z"
+  },
+  {
+    "question": "What canal connects the Mediterranean and Red Sea?",
+    "correct_answer": "Suez Canal",
+    "incorrect_answers": [
+      "Panama Canal",
+      "Erie Canal",
+      "Kiel Canal",
+      "Grand Canal",
+      "Corinth Canal",
+      "Welland Canal",
+      "Gota Canal"
+    ],
+    "main_category": "History",
+    "subcategory": "Modern History",
+    "difficulty": "easy",
+    "id": "7ec77660-6b63-4bf3-9e2f-4d6c386ec920",
+    "created_at": "2025-04-14T01:48:24.052Z",
+    "backupTimestamp": "2025-04-14T01:48:24.053Z",
+    "localBackupTimestamp": "2025-04-13T19:48:24.053Z"
+  },
+  {
+    "question": "Who invented the telegraph?",
+    "correct_answer": "Samuel Morse",
+    "incorrect_answers": [
+      "Thomas Edison",
+      "Alexander Bell",
+      "Nikola Tesla",
+      "Guglielmo Marconi",
+      "James Watt",
+      "Benjamin Franklin",
+      "Michael Faraday"
+    ],
+    "main_category": "History",
+    "subcategory": "Modern History",
+    "difficulty": "easy",
+    "id": "60d48f35-9f5a-4c45-aaa4-cbbe9b2924f5",
+    "created_at": "2025-04-14T01:48:24.057Z",
+    "backupTimestamp": "2025-04-14T01:48:24.058Z",
+    "localBackupTimestamp": "2025-04-13T19:48:24.058Z"
+  },
+  {
+    "question": "What form of government ruled France before 1789?",
+    "correct_answer": "Absolute monarchy",
+    "incorrect_answers": [
+      "Democracy",
+      "Republic",
+      "Communism",
+      "Fascism",
+      "Military dictatorship",
+      "Theocracy",
+      "Constitutional monarchy"
+    ],
+    "main_category": "History",
+    "subcategory": "Modern History",
+    "difficulty": "easy",
+    "id": "75ac7c51-7c1d-4c89-a15a-891e035f9c24",
+    "created_at": "2025-04-14T01:48:24.062Z",
+    "backupTimestamp": "2025-04-14T01:48:24.063Z",
+    "localBackupTimestamp": "2025-04-13T19:48:24.063Z"
+  },
+  {
+    "question": "What year did the Soviet Union dissolve?",
+    "correct_answer": "1991",
+    "incorrect_answers": [
+      "1989",
+      "1985",
+      "1995",
+      "1980",
+      "2000",
+      "1975",
+      "1987"
+    ],
+    "main_category": "History",
+    "subcategory": "Modern History",
+    "difficulty": "easy",
+    "id": "4a95a5e4-d1b2-44c6-af3a-1721fae9ceb9",
+    "created_at": "2025-04-14T01:48:24.069Z",
+    "backupTimestamp": "2025-04-14T01:48:24.069Z",
+    "localBackupTimestamp": "2025-04-13T19:48:24.069Z"
+  },
+  {
+    "question": "Which president was assassinated in Dallas in 1963?",
+    "correct_answer": "John F. Kennedy",
+    "incorrect_answers": [
+      "Abraham Lincoln",
+      "William McKinley",
+      "James Garfield",
+      "Richard Nixon",
+      "Lyndon Johnson",
+      "Franklin Roosevelt",
+      "Harry Truman"
+    ],
+    "main_category": "History",
+    "subcategory": "Modern History",
+    "difficulty": "easy",
+    "id": "8421034b-a281-444a-9a83-9332d2568c97",
+    "created_at": "2025-04-14T01:48:24.074Z",
+    "backupTimestamp": "2025-04-14T01:48:24.074Z",
+    "localBackupTimestamp": "2025-04-13T19:48:24.074Z"
+  },
+  {
+    "question": "What political movement sought voting rights for women?",
+    "correct_answer": "Suffrage movement",
+    "incorrect_answers": [
+      "Civil rights movement",
+      "Labor movement",
+      "Temperance movement",
+      "Progressive movement",
+      "Abolitionist movement",
+      "Free love movement",
+      "Transcendentalism"
+    ],
+    "main_category": "History",
+    "subcategory": "Modern History",
+    "difficulty": "easy",
+    "id": "deb7d67a-7daf-4721-91b6-0c4173aef02e",
+    "created_at": "2025-04-14T01:48:24.078Z",
+    "backupTimestamp": "2025-04-14T01:48:24.078Z",
+    "localBackupTimestamp": "2025-04-13T19:48:24.078Z"
+  },
+  {
+    "question": "What was the purpose of the Marshall Plan?",
+    "correct_answer": "Rebuild Western Europe after WWII",
+    "incorrect_answers": [
+      "Fund the Vietnam War",
+      "Establish NATO",
+      "Create the United Nations",
+      "Defend against Soviet expansion",
+      "Develop nuclear weapons",
+      "Space exploration",
+      "End the Great Depression"
+    ],
+    "main_category": "History",
+    "subcategory": "Modern History",
+    "difficulty": "easy",
+    "id": "fc360491-9d28-4c83-a3cf-685e8ed3d82f",
+    "created_at": "2025-04-14T01:48:24.083Z",
+    "backupTimestamp": "2025-04-14T01:48:24.083Z",
+    "localBackupTimestamp": "2025-04-13T19:48:24.083Z"
+  },
+  {
+    "question": "Who wrote the Communist Manifesto?",
+    "correct_answer": "Karl Marx and Friedrich Engels",
+    "incorrect_answers": [
+      "Vladimir Lenin",
+      "Joseph Stalin",
+      "Leon Trotsky",
+      "Mao Zedong",
+      "Fidel Castro",
+      "Ho Chi Minh",
+      "Che Guevara"
+    ],
+    "main_category": "History",
+    "subcategory": "Modern History",
+    "difficulty": "easy",
+    "id": "e42a741c-0026-422d-9d27-b08fce1bcc20",
+    "created_at": "2025-04-14T01:48:24.087Z",
+    "backupTimestamp": "2025-04-14T01:48:24.088Z",
+    "localBackupTimestamp": "2025-04-13T19:48:24.088Z"
+  },
+  {
+    "question": "Which city hosted the first modern Olympic Games?",
+    "correct_answer": "Athens",
+    "incorrect_answers": [
+      "Paris",
+      "London",
+      "Rome",
+      "Berlin",
+      "Tokyo",
+      "Moscow",
+      "Los Angeles"
+    ],
+    "main_category": "History",
+    "subcategory": "Modern History",
+    "difficulty": "easy",
+    "id": "e619b56f-bd23-41b7-b083-3da397f679e9",
+    "created_at": "2025-04-14T01:48:24.092Z",
+    "backupTimestamp": "2025-04-14T01:48:24.093Z",
+    "localBackupTimestamp": "2025-04-13T19:48:24.093Z"
+  },
+  {
+    "question": "What disease caused a pandemic in 1918-1920?",
+    "correct_answer": "Spanish flu",
+    "incorrect_answers": [
+      "Bubonic plague",
+      "Smallpox",
+      "Cholera",
+      "Typhoid fever",
+      "Polio",
+      "COVID-19",
+      "Yellow fever"
+    ],
+    "main_category": "History",
+    "subcategory": "Modern History",
+    "difficulty": "easy",
+    "id": "726fac5f-642f-411c-820c-a077f7fc7168",
+    "created_at": "2025-04-14T01:48:24.097Z",
+    "backupTimestamp": "2025-04-14T01:48:24.097Z",
+    "localBackupTimestamp": "2025-04-13T19:48:24.097Z"
+  },
+  {
+    "question": "Who was the Japanese Emperor during World War II?",
+    "correct_answer": "Hirohito",
+    "incorrect_answers": [
+      "Tojo",
+      "Meiji",
+      "Akihito",
+      "Naruhito",
+      "Taisho",
+      "Showa",
+      "Heisei"
+    ],
+    "main_category": "History",
+    "subcategory": "Modern History",
+    "difficulty": "easy",
+    "id": "5abfaf4f-38ee-4686-a23a-6f1ca5ff5983",
+    "created_at": "2025-04-14T01:48:24.101Z",
+    "backupTimestamp": "2025-04-14T01:48:24.101Z",
+    "localBackupTimestamp": "2025-04-13T19:48:24.101Z"
+  },
+  {
+    "question": "What event ended the Cold War?",
+    "correct_answer": "Fall of the Soviet Union",
+    "incorrect_answers": [
+      "Cuban Missile Crisis",
+      "Vietnam War",
+      "Korean War",
+      "Berlin Wall fall",
+      "Space Race",
+      "Nixon's China visit",
+      "Helsinki Accords"
+    ],
+    "main_category": "History",
+    "subcategory": "Modern History",
+    "difficulty": "easy",
+    "id": "88834a12-58a1-4577-991c-a80a217f09a7",
+    "created_at": "2025-04-14T01:48:24.106Z",
+    "backupTimestamp": "2025-04-14T01:48:24.106Z",
+    "localBackupTimestamp": "2025-04-13T19:48:24.106Z"
+  },
+  {
+    "question": "What was the first country to industrialize?",
+    "correct_answer": "Great Britain",
+    "incorrect_answers": [
+      "France",
+      "United States",
+      "Germany",
+      "Japan",
+      "Russia",
+      "Italy",
+      "Belgium"
+    ],
+    "main_category": "History",
+    "subcategory": "Modern History",
+    "difficulty": "easy",
+    "id": "e99c2dd4-a4ef-4fa7-9c18-83af5d23515f",
+    "created_at": "2025-04-14T01:48:24.110Z",
+    "backupTimestamp": "2025-04-14T01:48:24.111Z",
+    "localBackupTimestamp": "2025-04-13T19:48:24.111Z"
+  },
+  {
+    "question": "Which leader abolished slavery in the US?",
+    "correct_answer": "Abraham Lincoln",
+    "incorrect_answers": [
+      "George Washington",
+      "Thomas Jefferson",
+      "Andrew Jackson",
+      "Theodore Roosevelt",
+      "Ulysses S. Grant",
+      "Franklin D. Roosevelt",
+      "John F. Kennedy"
+    ],
+    "main_category": "History",
+    "subcategory": "Modern History",
+    "difficulty": "easy",
+    "id": "d844391b-7b2f-4d59-8cb6-9c27d879b41a",
+    "created_at": "2025-04-14T01:48:24.115Z",
+    "backupTimestamp": "2025-04-14T01:48:24.116Z",
+    "localBackupTimestamp": "2025-04-13T19:48:24.116Z"
+  },
+  {
+    "question": "What were the opposing sides in the Cold War?",
+    "correct_answer": "USA and USSR",
+    "incorrect_answers": [
+      "Britain and Germany",
+      "North and South Korea",
+      "China and Japan",
+      "France and England",
+      "NATO and Warsaw Pact",
+      "Israel and Palestine",
+      "India and Pakistan"
+    ],
+    "main_category": "History",
+    "subcategory": "Modern History",
+    "difficulty": "easy",
+    "id": "b76cd450-14c4-48cb-9a01-01191f93ad83",
+    "created_at": "2025-04-14T01:48:24.120Z",
+    "backupTimestamp": "2025-04-14T01:48:24.120Z",
+    "localBackupTimestamp": "2025-04-13T19:48:24.120Z"
+  },
+  {
+    "question": "What was the first artificial satellite?",
+    "correct_answer": "Sputnik 1",
+    "incorrect_answers": [
+      "Explorer 1",
+      "Vanguard 1",
+      "Apollo 11",
+      "Hubble",
+      "Voyager",
+      "Telstar",
+      "Mir"
+    ],
+    "main_category": "History",
+    "subcategory": "Modern History",
+    "difficulty": "easy",
+    "id": "162d5581-064c-4e7a-b718-52a625eb4f2b",
+    "created_at": "2025-04-14T01:48:24.124Z",
+    "backupTimestamp": "2025-04-14T01:48:24.125Z",
+    "localBackupTimestamp": "2025-04-13T19:48:24.125Z"
+  },
+  {
+    "question": "Which country did the US fight in the War of 1812?",
+    "correct_answer": "Great Britain",
+    "incorrect_answers": [
+      "France",
+      "Spain",
+      "Mexico",
+      "Canada",
+      "Germany",
+      "Russia",
+      "Japan"
+    ],
+    "main_category": "History",
+    "subcategory": "Modern History",
+    "difficulty": "easy",
+    "id": "49905490-6978-4bd4-999f-76e2490b7323",
+    "created_at": "2025-04-14T01:48:24.129Z",
+    "backupTimestamp": "2025-04-14T01:48:24.129Z",
+    "localBackupTimestamp": "2025-04-13T19:48:24.129Z"
+  },
+  {
+    "question": "Who was the first female Prime Minister of Britain?",
+    "correct_answer": "Margaret Thatcher",
+    "incorrect_answers": [
+      "Theresa May",
+      "Elizabeth II",
+      "Queen Victoria",
+      "Angela Merkel",
+      "Indira Gandhi",
+      "Golda Meir",
+      "Hillary Clinton"
+    ],
+    "main_category": "History",
+    "subcategory": "Modern History",
+    "difficulty": "easy",
+    "id": "47705a02-3bb2-4b7e-a74a-b7d8c9ca836f",
+    "created_at": "2025-04-14T01:48:24.133Z",
+    "backupTimestamp": "2025-04-14T01:48:24.133Z",
+    "localBackupTimestamp": "2025-04-13T19:48:24.133Z"
+  },
+  {
+    "question": "What major event occurred in Chernobyl in 1986?",
+    "correct_answer": "Nuclear disaster",
+    "incorrect_answers": [
+      "Earthquake",
+      "Military coup",
+      "Olympic Games",
+      "Civil war",
+      "Peace treaty",
+      "Independence declaration",
+      "Revolution"
+    ],
+    "main_category": "History",
+    "subcategory": "Modern History",
+    "difficulty": "easy",
+    "id": "84483176-12ce-4b7d-b888-ddf490c57aad",
+    "created_at": "2025-04-14T01:48:24.138Z",
+    "backupTimestamp": "2025-04-14T01:48:24.138Z",
+    "localBackupTimestamp": "2025-04-13T19:48:24.138Z"
+  },
+  {
+    "question": "What was the first commercially successful airplane?",
+    "correct_answer": "Wright Flyer",
+    "incorrect_answers": [
+      "Boeing 707",
+      "Concorde",
+      "DC-3",
+      "Airbus A300",
+      "Supermarine Spitfire",
+      "B-17 Flying Fortress",
+      "Lockheed Constellation"
+    ],
+    "main_category": "History",
+    "subcategory": "Modern History",
+    "difficulty": "easy",
+    "id": "f4fce418-bd71-4c12-9c40-c8215ecbfa99",
+    "created_at": "2025-04-14T01:48:24.142Z",
+    "backupTimestamp": "2025-04-14T01:48:24.143Z",
+    "localBackupTimestamp": "2025-04-13T19:48:24.143Z"
+  },
+  {
+    "question": "What was the nickname for America's 1920s?",
+    "correct_answer": "Roaring Twenties",
+    "incorrect_answers": [
+      "Progressive Era",
+      "Great Depression",
+      "Gilded Age",
+      "Jazz Age",
+      "Prohibition Era",
+      "Lost Generation",
+      "Reconstruction Era"
+    ],
+    "main_category": "History",
+    "subcategory": "Modern History",
+    "difficulty": "easy",
+    "id": "8d143371-9c6e-4b55-9b44-4380df41d7f0",
+    "created_at": "2025-04-14T01:48:24.147Z",
+    "backupTimestamp": "2025-04-14T01:48:24.147Z",
+    "localBackupTimestamp": "2025-04-13T19:48:24.147Z"
+  },
+  {
+    "question": "Which power led the Allied forces in WWII?",
+    "correct_answer": "United States",
+    "incorrect_answers": [
+      "Soviet Union",
+      "Great Britain",
+      "France",
+      "China",
+      "Canada",
+      "Australia",
+      "Poland"
+    ],
+    "main_category": "History",
+    "subcategory": "Modern History",
+    "difficulty": "easy",
+    "id": "3575de26-ede2-4992-960e-1eba37950ed1",
+    "created_at": "2025-04-14T01:48:24.151Z",
+    "backupTimestamp": "2025-04-14T01:48:24.152Z",
+    "localBackupTimestamp": "2025-04-13T19:48:24.152Z"
+  },
+  {
+    "question": "What 1803 purchase doubled the size of the USA?",
+    "correct_answer": "Louisiana Purchase",
+    "incorrect_answers": [
+      "Alaska Purchase",
+      "Gadsden Purchase",
+      "Florida Purchase",
+      "Texas Annexation",
+      "Mexican Cession",
+      "Oregon Territory",
+      "California Acquisition"
+    ],
+    "main_category": "History",
+    "subcategory": "Modern History",
+    "difficulty": "easy",
+    "id": "0355c2b3-5769-4413-9bde-3a3cf27658fa",
+    "created_at": "2025-04-14T01:48:24.156Z",
+    "backupTimestamp": "2025-04-14T01:48:24.156Z",
+    "localBackupTimestamp": "2025-04-13T19:48:24.156Z"
+  },
+  {
+    "question": "Which country was first to use paper money?",
+    "correct_answer": "China",
+    "incorrect_answers": [
+      "United States",
+      "England",
+      "France",
+      "Germany",
+      "Italy",
+      "Japan",
+      "India"
+    ],
+    "main_category": "History",
+    "subcategory": "Modern History",
+    "difficulty": "easy",
+    "id": "432eb079-ea44-4ccf-8088-46e5807a6545",
+    "created_at": "2025-04-14T01:48:24.161Z",
+    "backupTimestamp": "2025-04-14T01:48:24.162Z",
+    "localBackupTimestamp": "2025-04-13T19:48:24.162Z"
+  },
+  {
+    "question": "What major conflict began in 1950?",
+    "correct_answer": "Korean War",
+    "incorrect_answers": [
+      "Vietnam War",
+      "World War II",
+      "Gulf War",
+      "Cold War",
+      "Falklands War",
+      "Iraq War",
+      "Afghanistan War"
+    ],
+    "main_category": "History",
+    "subcategory": "Modern History",
+    "difficulty": "easy",
+    "id": "bc2a5c6e-93df-4fed-9622-1d8e346be161",
+    "created_at": "2025-04-14T01:48:24.166Z",
+    "backupTimestamp": "2025-04-14T01:48:24.166Z",
+    "localBackupTimestamp": "2025-04-13T19:48:24.166Z"
+  },
+  {
+    "question": "Who invented the steam engine?",
+    "correct_answer": "James Watt",
+    "incorrect_answers": [
+      "Thomas Edison",
+      "Nikola Tesla",
+      "Alexander Bell",
+      "Henry Ford",
+      "Eli Whitney",
+      "George Stephenson",
+      "Robert Fulton"
+    ],
+    "main_category": "History",
+    "subcategory": "Modern History",
+    "difficulty": "easy",
+    "id": "02301c08-6f3a-4b57-a8f9-c2fd60fa5746",
+    "created_at": "2025-04-14T01:48:24.171Z",
+    "backupTimestamp": "2025-04-14T01:48:24.171Z",
+    "localBackupTimestamp": "2025-04-13T19:48:24.171Z"
+  },
+  {
+    "question": "What famous speech began with 'I have a dream'?",
+    "correct_answer": "Martin Luther King Jr.'s speech",
+    "incorrect_answers": [
+      "Gettysburg Address",
+      "Kennedy's Inaugural",
+      "Nixon's Resignation",
+      "Reagan's Berlin Wall",
+      "Churchill's Iron Curtain",
+      "Obama's Victory",
+      "Roosevelt's Four Freedoms"
+    ],
+    "main_category": "History",
+    "subcategory": "Modern History",
+    "difficulty": "easy",
+    "id": "af420821-c18c-4173-b9ec-51e1f81a8c78",
+    "created_at": "2025-04-14T01:48:24.176Z",
+    "backupTimestamp": "2025-04-14T01:48:24.176Z",
+    "localBackupTimestamp": "2025-04-13T19:48:24.176Z"
+  },
+  {
+    "question": "What was invented by Johannes Gutenberg?",
+    "correct_answer": "Printing press with movable type",
+    "incorrect_answers": [
+      "Telephone",
+      "Light bulb",
+      "Radio",
+      "Computer",
+      "Television",
+      "Steam engine",
+      "Automobile"
+    ],
+    "main_category": "History",
+    "subcategory": "Modern History",
+    "difficulty": "easy",
+    "id": "aa847151-dd2a-44d0-bdba-0c29ec48b915",
+    "created_at": "2025-04-14T01:48:24.184Z",
+    "backupTimestamp": "2025-04-14T01:48:24.185Z",
+    "localBackupTimestamp": "2025-04-13T19:48:24.185Z"
+  },
+  {
+    "question": "Which nation developed the first atomic bomb?",
+    "correct_answer": "United States",
+    "incorrect_answers": [
+      "Soviet Union",
+      "Germany",
+      "Japan",
+      "United Kingdom",
+      "France",
+      "China",
+      "Israel"
+    ],
+    "main_category": "History",
+    "subcategory": "Modern History",
+    "difficulty": "easy",
+    "id": "31b2f677-f498-447e-b35e-3b586c0f80a2",
+    "created_at": "2025-04-14T01:48:24.190Z",
+    "backupTimestamp": "2025-04-14T01:48:24.190Z",
+    "localBackupTimestamp": "2025-04-13T19:48:24.190Z"
+  },
+  {
+    "question": "Which Russian tsar was overthrown in the 1917 Revolution?",
+    "correct_answer": "Nicholas II",
+    "incorrect_answers": [
+      "Alexander III",
+      "Ivan the Terrible",
+      "Peter the Great",
+      "Catherine the Great",
+      "Alexander II",
+      "Paul I",
+      "Nicholas I"
+    ],
+    "main_category": "History",
+    "subcategory": "Modern History",
+    "difficulty": "medium",
+    "id": "27772a49-48be-401b-bbd1-d650d035cce2",
+    "created_at": "2025-04-14T01:52:25.947Z",
+    "backupTimestamp": "2025-04-14T01:52:25.948Z",
+    "localBackupTimestamp": "2025-04-13T19:52:25.948Z"
+  },
+  {
+    "question": "What treaty officially ended World War I?",
+    "correct_answer": "Treaty of Versailles",
+    "incorrect_answers": [
+      "Treaty of Paris",
+      "Treaty of Brest-Litovsk",
+      "Treaty of Trianon",
+      "Treaty of Sevres",
+      "Treaty of Lausanne",
+      "Treaty of London",
+      "Treaty of Saint-Germain"
+    ],
+    "main_category": "History",
+    "subcategory": "Modern History",
+    "difficulty": "medium",
+    "id": "37f45f6a-fdfc-4f51-87be-bdb5d8c5fd3f",
+    "created_at": "2025-04-14T01:52:25.959Z",
+    "backupTimestamp": "2025-04-14T01:52:25.960Z",
+    "localBackupTimestamp": "2025-04-13T19:52:25.960Z"
+  },
+  {
+    "question": "Who assassinated Archduke Franz Ferdinand?",
+    "correct_answer": "Gavrilo Princip",
+    "incorrect_answers": [
+      "Nedeljko Čabrinović",
+      "Trifko Grabež",
+      "Danilo Ilić",
+      "Vladimir Gaćinović",
+      "Muhamed Mehmedbašić",
+      "Cvjetko Popović",
+      "Vaso Čubrilović"
+    ],
+    "main_category": "History",
+    "subcategory": "Modern History",
+    "difficulty": "medium",
+    "id": "3d001991-6b42-4f7d-a357-6bd9b5588fe4",
+    "created_at": "2025-04-14T01:52:25.969Z",
+    "backupTimestamp": "2025-04-14T01:52:25.969Z",
+    "localBackupTimestamp": "2025-04-13T19:52:25.969Z"
+  },
+  {
+    "question": "Which battle was Napoleon's final defeat?",
+    "correct_answer": "Waterloo",
+    "incorrect_answers": [
+      "Austerlitz",
+      "Leipzig",
+      "Trafalgar",
+      "Borodino",
+      "Jena",
+      "Wagram",
+      "Marengo"
+    ],
+    "main_category": "History",
+    "subcategory": "Modern History",
+    "difficulty": "medium",
+    "id": "2444225b-32c3-4c01-9942-6e15f4a86a28",
+    "created_at": "2025-04-14T01:52:25.977Z",
+    "backupTimestamp": "2025-04-14T01:52:25.977Z",
+    "localBackupTimestamp": "2025-04-13T19:52:25.977Z"
+  },
+  {
+    "question": "What was the political ideology of the Bolsheviks?",
+    "correct_answer": "Communism",
+    "incorrect_answers": [
+      "Fascism",
+      "Democracy",
+      "Monarchy",
+      "Republicanism",
+      "Anarchism",
+      "Liberalism",
+      "Conservatism"
+    ],
+    "main_category": "History",
+    "subcategory": "Modern History",
+    "difficulty": "medium",
+    "id": "0f2bf9e0-8461-4f8e-bfc1-eadc0266e3bd",
+    "created_at": "2025-04-14T01:52:25.988Z",
+    "backupTimestamp": "2025-04-14T01:52:25.989Z",
+    "localBackupTimestamp": "2025-04-13T19:52:25.989Z"
+  },
+  {
+    "question": "When did the Spanish Civil War end?",
+    "correct_answer": "1939",
+    "incorrect_answers": [
+      "1936",
+      "1942",
+      "1945",
+      "1933",
+      "1937",
+      "1940",
+      "1931"
+    ],
+    "main_category": "History",
+    "subcategory": "Modern History",
+    "difficulty": "medium",
+    "id": "6795c89d-8130-4157-ab51-70ed998069d2",
+    "created_at": "2025-04-14T01:52:25.995Z",
+    "backupTimestamp": "2025-04-14T01:52:25.995Z",
+    "localBackupTimestamp": "2025-04-13T19:52:25.995Z"
+  },
+  {
+    "question": "Which country was ruled by Benito Mussolini?",
+    "correct_answer": "Italy",
+    "incorrect_answers": [
+      "Germany",
+      "Spain",
+      "Portugal",
+      "Greece",
+      "France",
+      "Romania",
+      "Hungary"
+    ],
+    "main_category": "History",
+    "subcategory": "Modern History",
+    "difficulty": "medium",
+    "id": "9e5cea86-52a7-4fcf-858b-b1b4c618c1b2",
+    "created_at": "2025-04-14T01:52:26.004Z",
+    "backupTimestamp": "2025-04-14T01:52:26.005Z",
+    "localBackupTimestamp": "2025-04-13T19:52:26.005Z"
+  },
+  {
+    "question": "What was the Manhattan Project designed to develop?",
+    "correct_answer": "Nuclear weapons",
+    "incorrect_answers": [
+      "Skyscrapers",
+      "Subway systems",
+      "Space program",
+      "Aircraft carriers",
+      "Computer technology",
+      "Penicillin production",
+      "Radar technology"
+    ],
+    "main_category": "History",
+    "subcategory": "Modern History",
+    "difficulty": "medium",
+    "id": "d59c1a34-7dd9-4e5b-aad4-7149678610c4",
+    "created_at": "2025-04-14T01:52:26.012Z",
+    "backupTimestamp": "2025-04-14T01:52:26.012Z",
+    "localBackupTimestamp": "2025-04-13T19:52:26.012Z"
+  },
+  {
+    "question": "What canal did Egypt nationalize in 1956?",
+    "correct_answer": "Suez Canal",
+    "incorrect_answers": [
+      "Panama Canal",
+      "Kiel Canal",
+      "Grand Canal",
+      "Corinth Canal",
+      "Erie Canal",
+      "Welland Canal",
+      "Gota Canal"
+    ],
+    "main_category": "History",
+    "subcategory": "Modern History",
+    "difficulty": "medium",
+    "id": "cdec71c8-29d1-4a16-bbc2-ee0558c82a5c",
+    "created_at": "2025-04-14T01:52:26.019Z",
+    "backupTimestamp": "2025-04-14T01:52:26.019Z",
+    "localBackupTimestamp": "2025-04-13T19:52:26.019Z"
+  },
+  {
+    "question": "Which monarch reigned during the American Revolution?",
+    "correct_answer": "George III",
+    "incorrect_answers": [
+      "George II",
+      "George IV",
+      "Victoria",
+      "Charles II",
+      "William IV",
+      "James II",
+      "Anne"
+    ],
+    "main_category": "History",
+    "subcategory": "Modern History",
+    "difficulty": "medium",
+    "id": "cb5c739f-5cf1-46ee-a9dd-53b0cd881fe1",
+    "created_at": "2025-04-14T01:52:26.025Z",
+    "backupTimestamp": "2025-04-14T01:52:26.027Z",
+    "localBackupTimestamp": "2025-04-13T19:52:26.027Z"
+  },
+  {
+    "question": "What crisis occurred during Kennedy's presidency?",
+    "correct_answer": "Cuban Missile Crisis",
+    "incorrect_answers": [
+      "Oil Crisis",
+      "Iran Hostage Crisis",
+      "Suez Crisis",
+      "Berlin Blockade",
+      "Vietnam War",
+      "Watergate Scandal",
+      "Great Depression"
+    ],
+    "main_category": "History",
+    "subcategory": "Modern History",
+    "difficulty": "medium",
+    "id": "3cd9d11d-8afb-4abd-8ee2-d3bd98ca2258",
+    "created_at": "2025-04-14T01:52:26.035Z",
+    "backupTimestamp": "2025-04-14T01:52:26.035Z",
+    "localBackupTimestamp": "2025-04-13T19:52:26.035Z"
+  },
+  {
+    "question": "What was the first communist state?",
+    "correct_answer": "Soviet Union",
+    "incorrect_answers": [
+      "China",
+      "Cuba",
+      "Vietnam",
+      "North Korea",
+      "Yugoslavia",
+      "Cambodia",
+      "East Germany"
+    ],
+    "main_category": "History",
+    "subcategory": "Modern History",
+    "difficulty": "medium",
+    "id": "e9da22c5-97b9-4ec3-96c1-1397466b1844",
+    "created_at": "2025-04-14T01:52:26.041Z",
+    "backupTimestamp": "2025-04-14T01:52:26.041Z",
+    "localBackupTimestamp": "2025-04-13T19:52:26.041Z"
+  },
+  {
+    "question": "When did the Great Depression begin?",
+    "correct_answer": "1929",
+    "incorrect_answers": [
+      "1919",
+      "1933",
+      "1939",
+      "1925",
+      "1942",
+      "1945",
+      "1936"
+    ],
+    "main_category": "History",
+    "subcategory": "Modern History",
+    "difficulty": "medium",
+    "id": "43a7cbe2-ecf5-400e-b009-43bb14548d24",
+    "created_at": "2025-04-14T01:52:26.047Z",
+    "backupTimestamp": "2025-04-14T01:52:26.047Z",
+    "localBackupTimestamp": "2025-04-13T19:52:26.047Z"
+  },
+  {
+    "question": "Which US President established the Peace Corps?",
+    "correct_answer": "John F. Kennedy",
+    "incorrect_answers": [
+      "Lyndon B. Johnson",
+      "Richard Nixon",
+      "Jimmy Carter",
+      "Ronald Reagan",
+      "Dwight Eisenhower",
+      "Harry Truman",
+      "Gerald Ford"
+    ],
+    "main_category": "History",
+    "subcategory": "Modern History",
+    "difficulty": "medium",
+    "id": "b9d5dc7c-ce1a-46be-a560-bcbc9b3f7285",
+    "created_at": "2025-04-14T01:52:26.053Z",
+    "backupTimestamp": "2025-04-14T01:52:26.053Z",
+    "localBackupTimestamp": "2025-04-13T19:52:26.053Z"
+  },
+  {
+    "question": "Who was the leader of the Soviet Union during WWII?",
+    "correct_answer": "Joseph Stalin",
+    "incorrect_answers": [
+      "Vladimir Lenin",
+      "Leon Trotsky",
+      "Nikita Khrushchev",
+      "Mikhail Gorbachev",
+      "Leonid Brezhnev",
+      "Yuri Andropov",
+      "Konstantin Chernenko"
+    ],
+    "main_category": "History",
+    "subcategory": "Modern History",
+    "difficulty": "medium",
+    "id": "1b965445-4838-4d63-aa56-db2b567bde3c",
+    "created_at": "2025-04-14T01:52:26.059Z",
+    "backupTimestamp": "2025-04-14T01:52:26.060Z",
+    "localBackupTimestamp": "2025-04-13T19:52:26.060Z"
+  },
+  {
+    "question": "What was the name of the US space program?",
+    "correct_answer": "Apollo",
+    "incorrect_answers": [
+      "Gemini",
+      "Mercury",
+      "Voyager",
+      "Galileo",
+      "Explorer",
+      "Discovery",
+      "Challenger"
+    ],
+    "main_category": "History",
+    "subcategory": "Modern History",
+    "difficulty": "medium",
+    "id": "64a0c184-e625-4e33-a9e1-c694c0879910",
+    "created_at": "2025-04-14T01:52:26.067Z",
+    "backupTimestamp": "2025-04-14T01:52:26.067Z",
+    "localBackupTimestamp": "2025-04-13T19:52:26.067Z"
+  },
+  {
+    "question": "Who was the first female Prime Minister of India?",
+    "correct_answer": "Indira Gandhi",
+    "incorrect_answers": [
+      "Sonia Gandhi",
+      "Pratibha Patil",
+      "Benazir Bhutto",
+      "Golda Meir",
+      "Margaret Thatcher",
+      "Sirimavo Bandaranaike",
+      "Corazon Aquino"
+    ],
+    "main_category": "History",
+    "subcategory": "Modern History",
+    "difficulty": "medium",
+    "id": "cc746dd8-3da6-482b-bcc5-054ac660337e",
+    "created_at": "2025-04-14T01:52:26.074Z",
+    "backupTimestamp": "2025-04-14T01:52:26.074Z",
+    "localBackupTimestamp": "2025-04-13T19:52:26.074Z"
+  },
+  {
+    "question": "What event triggered the US entry into WWI?",
+    "correct_answer": "Zimmermann Telegram",
+    "incorrect_answers": [
+      "Lusitania sinking",
+      "Assassination of Franz Ferdinand",
+      "Russian Revolution",
+      "Fall of France",
+      "Invasion of Belgium",
+      "Bombing of Pearl Harbor",
+      "U-boat campaign"
+    ],
+    "main_category": "History",
+    "subcategory": "Modern History",
+    "difficulty": "medium",
+    "id": "c4e7b382-d0c4-4c96-bf64-0d1803873475",
+    "created_at": "2025-04-14T01:52:26.079Z",
+    "backupTimestamp": "2025-04-14T01:52:26.079Z",
+    "localBackupTimestamp": "2025-04-13T19:52:26.079Z"
+  },
+  {
+    "question": "What region did Germany annex in 1938?",
+    "correct_answer": "Sudetenland",
+    "incorrect_answers": [
+      "Alsace-Lorraine",
+      "Rhineland",
+      "Prussia",
+      "Saarland",
+      "Silesia",
+      "Austria",
+      "Poland"
+    ],
+    "main_category": "History",
+    "subcategory": "Modern History",
+    "difficulty": "medium",
+    "id": "4ba0526e-e4eb-4835-b547-302a9ba6e881",
+    "created_at": "2025-04-14T01:52:26.084Z",
+    "backupTimestamp": "2025-04-14T01:52:26.084Z",
+    "localBackupTimestamp": "2025-04-13T19:52:26.084Z"
+  },
+  {
+    "question": "What was the name of China's last dynasty?",
+    "correct_answer": "Qing",
+    "incorrect_answers": [
+      "Ming",
+      "Yuan",
+      "Han",
+      "Tang",
+      "Song",
+      "Jin",
+      "Zhou"
+    ],
+    "main_category": "History",
+    "subcategory": "Modern History",
+    "difficulty": "medium",
+    "id": "7703745d-c6d4-43a7-a615-da956bf27d57",
+    "created_at": "2025-04-14T01:52:26.090Z",
+    "backupTimestamp": "2025-04-14T01:52:26.090Z",
+    "localBackupTimestamp": "2025-04-13T19:52:26.090Z"
+  },
+  {
+    "question": "Who led the Cuban Revolution?",
+    "correct_answer": "Fidel Castro",
+    "incorrect_answers": [
+      "Che Guevara",
+      "Raul Castro",
+      "Fulgencio Batista",
+      "José Martí",
+      "Camilo Cienfuegos",
+      "Frank País",
+      "Huber Matos"
+    ],
+    "main_category": "History",
+    "subcategory": "Modern History",
+    "difficulty": "medium",
+    "id": "712be7f7-7f51-48ce-b154-1d72df3f3d65",
+    "created_at": "2025-04-14T01:52:26.094Z",
+    "backupTimestamp": "2025-04-14T01:52:26.095Z",
+    "localBackupTimestamp": "2025-04-13T19:52:26.095Z"
+  },
+  {
+    "question": "When was the European Union established?",
+    "correct_answer": "1993",
+    "incorrect_answers": [
+      "1957",
+      "1945",
+      "1973",
+      "1986",
+      "2002",
+      "1950",
+      "1967"
+    ],
+    "main_category": "History",
+    "subcategory": "Modern History",
+    "difficulty": "medium",
+    "id": "40f979c4-842b-4576-a408-36acb67bb6d8",
+    "created_at": "2025-04-14T01:52:26.100Z",
+    "backupTimestamp": "2025-04-14T01:52:26.100Z",
+    "localBackupTimestamp": "2025-04-13T19:52:26.100Z"
+  },
+  {
+    "question": "What ideological conflict defined the Cold War?",
+    "correct_answer": "Capitalism vs. Communism",
+    "incorrect_answers": [
+      "Democracy vs. Fascism",
+      "Freedom vs. Tyranny",
+      "East vs. West",
+      "NATO vs. Warsaw Pact",
+      "US vs. USSR",
+      "Liberty vs. Equality",
+      "Republic vs. Monarchy"
+    ],
+    "main_category": "History",
+    "subcategory": "Modern History",
+    "difficulty": "medium",
+    "id": "606dea01-a088-493d-8389-b542bd1ae5d7",
+    "created_at": "2025-04-14T01:52:26.104Z",
+    "backupTimestamp": "2025-04-14T01:52:26.105Z",
+    "localBackupTimestamp": "2025-04-13T19:52:26.105Z"
+  },
+  {
+    "question": "Who founded the Red Cross?",
+    "correct_answer": "Henri Dunant",
+    "incorrect_answers": [
+      "Clara Barton",
+      "Florence Nightingale",
+      "Louis Pasteur",
+      "Albert Schweitzer",
+      "Elizabeth Blackwell",
+      "Dorothea Dix",
+      "Mary Seacole"
+    ],
+    "main_category": "History",
+    "subcategory": "Modern History",
+    "difficulty": "medium",
+    "id": "a555ad5d-f2c1-4594-99a4-93e3eab76418",
+    "created_at": "2025-04-14T01:52:26.109Z",
+    "backupTimestamp": "2025-04-14T01:52:26.109Z",
+    "localBackupTimestamp": "2025-04-13T19:52:26.109Z"
+  },
+  {
+    "question": "What event in 1989 symbolized the end of communism?",
+    "correct_answer": "Fall of the Berlin Wall",
+    "incorrect_answers": [
+      "Tiananmen Square protests",
+      "Soviet-Afghan War end",
+      "Velvet Revolution",
+      "Dissolution of USSR",
+      "Fall of Ceaușescu",
+      "Solidarity movement",
+      "Polish elections"
+    ],
+    "main_category": "History",
+    "subcategory": "Modern History",
+    "difficulty": "medium",
+    "id": "0d50ffb3-8b3d-4d62-af16-f82a5912dd6b",
+    "created_at": "2025-04-14T01:52:26.115Z",
+    "backupTimestamp": "2025-04-14T01:52:26.115Z",
+    "localBackupTimestamp": "2025-04-13T19:52:26.115Z"
+  },
+  {
+    "question": "Which nation was partitioned in 1947?",
+    "correct_answer": "India",
+    "incorrect_answers": [
+      "Korea",
+      "Vietnam",
+      "China",
+      "Germany",
+      "Yugoslavia",
+      "Palestine",
+      "Austria"
+    ],
+    "main_category": "History",
+    "subcategory": "Modern History",
+    "difficulty": "medium",
+    "id": "f46e6c5c-cd9f-4a5c-8314-921d6035b011",
+    "created_at": "2025-04-14T01:52:26.119Z",
+    "backupTimestamp": "2025-04-14T01:52:26.120Z",
+    "localBackupTimestamp": "2025-04-13T19:52:26.120Z"
+  },
+  {
+    "question": "What was the first battle of the American Civil War?",
+    "correct_answer": "Fort Sumter",
+    "incorrect_answers": [
+      "Bull Run",
+      "Antietam",
+      "Gettysburg",
+      "Shiloh",
+      "Vicksburg",
+      "Chancellorsville",
+      "Appomattox"
+    ],
+    "main_category": "History",
+    "subcategory": "Modern History",
+    "difficulty": "medium",
+    "id": "86d31ebb-2fd3-422f-a422-532fe3eda2db",
+    "created_at": "2025-04-14T01:52:26.125Z",
+    "backupTimestamp": "2025-04-14T01:52:26.125Z",
+    "localBackupTimestamp": "2025-04-13T19:52:26.125Z"
+  },
+  {
+    "question": "Which US Supreme Court case addressed segregation?",
+    "correct_answer": "Brown v. Board of Education",
+    "incorrect_answers": [
+      "Roe v. Wade",
+      "Miranda v. Arizona",
+      "Plessy v. Ferguson",
+      "Marbury v. Madison",
+      "Gideon v. Wainwright",
+      "Dred Scott v. Sandford",
+      "Korematsu v. United States"
+    ],
+    "main_category": "History",
+    "subcategory": "Modern History",
+    "difficulty": "medium",
+    "id": "ce97f958-3669-4287-b22c-644c886c8020",
+    "created_at": "2025-04-14T01:52:26.132Z",
+    "backupTimestamp": "2025-04-14T01:52:26.132Z",
+    "localBackupTimestamp": "2025-04-13T19:52:26.132Z"
+  },
+  {
+    "question": "What economic system did Adam Smith advocate?",
+    "correct_answer": "Capitalism",
+    "incorrect_answers": [
+      "Communism",
+      "Socialism",
+      "Mercantilism",
+      "Feudalism",
+      "Imperialism",
+      "Fascism",
+      "Anarchism"
+    ],
+    "main_category": "History",
+    "subcategory": "Modern History",
+    "difficulty": "medium",
+    "id": "a734f92e-c317-4130-9406-b47784cdd844",
+    "created_at": "2025-04-14T01:52:26.137Z",
+    "backupTimestamp": "2025-04-14T01:52:26.138Z",
+    "localBackupTimestamp": "2025-04-13T19:52:26.138Z"
+  },
+  {
+    "question": "What territories did the US gain from the Mexican War?",
+    "correct_answer": "California and New Mexico",
+    "incorrect_answers": [
+      "Texas and Florida",
+      "Oregon and Washington",
+      "Alaska and Hawaii",
+      "Puerto Rico and Guam",
+      "Arizona and Nevada",
+      "Louisiana and Arkansas",
+      "Colorado and Utah"
+    ],
+    "main_category": "History",
+    "subcategory": "Modern History",
+    "difficulty": "medium",
+    "id": "eb46b9c2-f023-481c-ae7f-1f16633eab47",
+    "created_at": "2025-04-14T01:52:26.143Z",
+    "backupTimestamp": "2025-04-14T01:52:26.143Z",
+    "localBackupTimestamp": "2025-04-13T19:52:26.143Z"
+  },
+  {
+    "question": "What revolution began in 1789?",
+    "correct_answer": "French Revolution",
+    "incorrect_answers": [
+      "American Revolution",
+      "Industrial Revolution",
+      "Russian Revolution",
+      "Chinese Revolution",
+      "Cuban Revolution",
+      "Mexican Revolution",
+      "Iranian Revolution"
+    ],
+    "main_category": "History",
+    "subcategory": "Modern History",
+    "difficulty": "medium",
+    "id": "c1081ccc-40cd-4d3c-b2fb-46b9c37f2101",
+    "created_at": "2025-04-14T01:52:26.147Z",
+    "backupTimestamp": "2025-04-14T01:52:26.148Z",
+    "localBackupTimestamp": "2025-04-13T19:52:26.148Z"
+  },
+  {
+    "question": "Which German field marshal led the Africa Corps?",
+    "correct_answer": "Erwin Rommel",
+    "incorrect_answers": [
+      "Heinz Guderian",
+      "Gerd von Rundstedt",
+      "Erich von Manstein",
+      "Wilhelm Keitel",
+      "Friedrich Paulus",
+      "Albert Kesselring",
+      "Karl Dönitz"
+    ],
+    "main_category": "History",
+    "subcategory": "Modern History",
+    "difficulty": "medium",
+    "id": "8032088e-5d8d-4a1a-ac7c-8d050317ee33",
+    "created_at": "2025-04-14T01:52:26.152Z",
+    "backupTimestamp": "2025-04-14T01:52:26.152Z",
+    "localBackupTimestamp": "2025-04-13T19:52:26.152Z"
+  },
+  {
+    "question": "What US program fought the Great Depression?",
+    "correct_answer": "New Deal",
+    "incorrect_answers": [
+      "Marshall Plan",
+      "Great Society",
+      "Fair Deal",
+      "New Freedom",
+      "Square Deal",
+      "New Frontier",
+      "War on Poverty"
+    ],
+    "main_category": "History",
+    "subcategory": "Modern History",
+    "difficulty": "medium",
+    "id": "11cf7f44-c646-46c9-b910-658bb7f7ef96",
+    "created_at": "2025-04-14T01:52:26.157Z",
+    "backupTimestamp": "2025-04-14T01:52:26.157Z",
+    "localBackupTimestamp": "2025-04-13T19:52:26.157Z"
+  },
+  {
+    "question": "What year did the Crimean War begin?",
+    "correct_answer": "1853",
+    "incorrect_answers": [
+      "1841",
+      "1866",
+      "1878",
+      "1830",
+      "1812",
+      "1871",
+      "1848"
+    ],
+    "main_category": "History",
+    "subcategory": "Modern History",
+    "difficulty": "medium",
+    "id": "d5302a7b-a050-47a6-890c-9c1747cf3e09",
+    "created_at": "2025-04-14T01:52:26.162Z",
+    "backupTimestamp": "2025-04-14T01:52:26.162Z",
+    "localBackupTimestamp": "2025-04-13T19:52:26.162Z"
+  },
+  {
+    "question": "What major innovation did Henry Ford introduce?",
+    "correct_answer": "Assembly line",
+    "incorrect_answers": [
+      "Steam engine",
+      "Electric light",
+      "Telegraph",
+      "Telephone",
+      "Airplane",
+      "Radio",
+      "Automobile"
+    ],
+    "main_category": "History",
+    "subcategory": "Modern History",
+    "difficulty": "medium",
+    "id": "1dfd6f1e-bc81-45c9-8b45-0d90058adfc9",
+    "created_at": "2025-04-14T01:52:26.167Z",
+    "backupTimestamp": "2025-04-14T01:52:26.167Z",
+    "localBackupTimestamp": "2025-04-13T19:52:26.167Z"
+  },
+  {
+    "question": "What policy sought to contain communism?",
+    "correct_answer": "Truman Doctrine",
+    "incorrect_answers": [
+      "Monroe Doctrine",
+      "Marshall Plan",
+      "Eisenhower Doctrine",
+      "Reagan Doctrine",
+      "Nixon Doctrine",
+      "Carter Doctrine",
+      "Bush Doctrine"
+    ],
+    "main_category": "History",
+    "subcategory": "Modern History",
+    "difficulty": "medium",
+    "id": "4b01b9bc-6d67-4358-a90f-68a7b212b512",
+    "created_at": "2025-04-14T01:52:26.171Z",
+    "backupTimestamp": "2025-04-14T01:52:26.172Z",
+    "localBackupTimestamp": "2025-04-13T19:52:26.172Z"
+  },
+  {
+    "question": "Who led the Long March in China?",
+    "correct_answer": "Mao Zedong",
+    "incorrect_answers": [
+      "Chiang Kai-shek",
+      "Sun Yat-sen",
+      "Zhou Enlai",
+      "Deng Xiaoping",
+      "Yuan Shikai",
+      "Li Zongren",
+      "Puyi"
+    ],
+    "main_category": "History",
+    "subcategory": "Modern History",
+    "difficulty": "medium",
+    "id": "ac4b578e-8ca4-4031-9a4e-9c585cf45121",
+    "created_at": "2025-04-14T01:52:26.176Z",
+    "backupTimestamp": "2025-04-14T01:52:26.176Z",
+    "localBackupTimestamp": "2025-04-13T19:52:26.176Z"
+  },
+  {
+    "question": "What was the Russo-Japanese War about?",
+    "correct_answer": "Control of Manchuria and Korea",
+    "incorrect_answers": [
+      "Baltic sea access",
+      "Control of Central Asia",
+      "Oil resources",
+      "Religious conflict",
+      "Communist revolution",
+      "Trade routes",
+      "Naval supremacy"
+    ],
+    "main_category": "History",
+    "subcategory": "Modern History",
+    "difficulty": "medium",
+    "id": "0dba9752-2171-4b79-9a5c-95826bf3e557",
+    "created_at": "2025-04-14T01:52:26.181Z",
+    "backupTimestamp": "2025-04-14T01:52:26.181Z",
+    "localBackupTimestamp": "2025-04-13T19:52:26.181Z"
+  },
+  {
+    "question": "Which country was formed after WWI?",
+    "correct_answer": "Czechoslovakia",
+    "incorrect_answers": [
+      "Soviet Union",
+      "Yugoslavia",
+      "Germany",
+      "Austria",
+      "Poland",
+      "Hungary",
+      "Romania"
+    ],
+    "main_category": "History",
+    "subcategory": "Modern History",
+    "difficulty": "medium",
+    "id": "89fc4063-9905-4fa3-8ff0-5415e8ed821d",
+    "created_at": "2025-04-14T01:52:26.185Z",
+    "backupTimestamp": "2025-04-14T01:52:26.186Z",
+    "localBackupTimestamp": "2025-04-13T19:52:26.186Z"
+  },
+  {
+    "question": "Who was the leader of the Viet Cong?",
+    "correct_answer": "Ho Chi Minh",
+    "incorrect_answers": [
+      "Ngo Dinh Diem",
+      "Vo Nguyen Giap",
+      "Pol Pot",
+      "Bao Dai",
+      "Nguyen Van Thieu",
+      "Le Duan",
+      "Pham Van Dong"
+    ],
+    "main_category": "History",
+    "subcategory": "Modern History",
+    "difficulty": "medium",
+    "id": "c56c1476-623c-45c7-b3c4-c203bcbac14e",
+    "created_at": "2025-04-14T01:52:26.190Z",
+    "backupTimestamp": "2025-04-14T01:52:26.191Z",
+    "localBackupTimestamp": "2025-04-13T19:52:26.191Z"
+  },
+  {
+    "question": "What battle was the turning point of WWII Pacific War?",
+    "correct_answer": "Midway",
+    "incorrect_answers": [
+      "Pearl Harbor",
+      "Guadalcanal",
+      "Iwo Jima",
+      "Okinawa",
+      "Leyte Gulf",
+      "Coral Sea",
+      "Philippines Sea"
+    ],
+    "main_category": "History",
+    "subcategory": "Modern History",
+    "difficulty": "medium",
+    "id": "d1b0ef4c-6574-46ea-b97e-e71b9e68cb1e",
+    "created_at": "2025-04-14T01:52:26.195Z",
+    "backupTimestamp": "2025-04-14T01:52:26.195Z",
+    "localBackupTimestamp": "2025-04-13T19:52:26.195Z"
+  },
+  {
+    "question": "What was the Zimmermann Telegram?",
+    "correct_answer": "German proposal to Mexico",
+    "incorrect_answers": [
+      "Peace offer to Britain",
+      "Alliance with Japan",
+      "Declaration of war",
+      "Submarine warfare notice",
+      "Colonial dispute",
+      "Spy communication",
+      "Armistice terms"
+    ],
+    "main_category": "History",
+    "subcategory": "Modern History",
+    "difficulty": "medium",
+    "id": "439c9ac3-39d8-4c4d-9a3a-8553ee5a8ce4",
+    "created_at": "2025-04-14T01:52:26.200Z",
+    "backupTimestamp": "2025-04-14T01:52:26.200Z",
+    "localBackupTimestamp": "2025-04-13T19:52:26.200Z"
+  },
+  {
+    "question": "What was the goal of the Boxer Rebellion?",
+    "correct_answer": "Expel foreigners from China",
+    "incorrect_answers": [
+      "Overthrow Qing Dynasty",
+      "Support communism",
+      "Establish republic",
+      "Promote Christianity",
+      "Open trade ports",
+      "Restore Ming Dynasty",
+      "End opium trade"
+    ],
+    "main_category": "History",
+    "subcategory": "Modern History",
+    "difficulty": "medium",
+    "id": "66bb9661-a4c0-4830-a72f-dae80f9cad57",
+    "created_at": "2025-04-14T01:52:26.204Z",
+    "backupTimestamp": "2025-04-14T01:52:26.205Z",
+    "localBackupTimestamp": "2025-04-13T19:52:26.205Z"
+  },
+  {
+    "question": "Which countries fought the Falklands War?",
+    "correct_answer": "UK and Argentina",
+    "incorrect_answers": [
+      "US and Cuba",
+      "France and Germany",
+      "Spain and Portugal",
+      "Brazil and Uruguay",
+      "Chile and Peru",
+      "Russia and Japan",
+      "China and Vietnam"
+    ],
+    "main_category": "History",
+    "subcategory": "Modern History",
+    "difficulty": "medium",
+    "id": "b118e289-b81a-4ada-96dd-61ac0f441df7",
+    "created_at": "2025-04-14T01:52:26.209Z",
+    "backupTimestamp": "2025-04-14T01:52:26.209Z",
+    "localBackupTimestamp": "2025-04-13T19:52:26.209Z"
+  },
+  {
+    "question": "What policy of racial segregation ruled South Africa?",
+    "correct_answer": "Apartheid",
+    "incorrect_answers": [
+      "Jim Crow",
+      "Caste system",
+      "Colonialism",
+      "Imperialism",
+      "Ethnic cleansing",
+      "Separate development",
+      "Racial purity"
+    ],
+    "main_category": "History",
+    "subcategory": "Modern History",
+    "difficulty": "medium",
+    "id": "787d1d4e-9369-4fef-b983-06ef66512bfd",
+    "created_at": "2025-04-14T01:52:26.214Z",
+    "backupTimestamp": "2025-04-14T01:52:26.215Z",
+    "localBackupTimestamp": "2025-04-13T19:52:26.215Z"
+  },
+  {
+    "question": "In which city was JFK assassinated?",
+    "correct_answer": "Dallas",
+    "incorrect_answers": [
+      "Houston",
+      "Austin",
+      "San Antonio",
+      "Washington DC",
+      "New York",
+      "Boston",
+      "Chicago"
+    ],
+    "main_category": "History",
+    "subcategory": "Modern History",
+    "difficulty": "medium",
+    "id": "c5802e7f-57b2-41c3-bbfc-cc534bba6eef",
+    "created_at": "2025-04-14T01:52:26.219Z",
+    "backupTimestamp": "2025-04-14T01:52:26.219Z",
+    "localBackupTimestamp": "2025-04-13T19:52:26.219Z"
+  },
+  {
+    "question": "What caused the Irish Potato Famine?",
+    "correct_answer": "Potato blight",
+    "incorrect_answers": [
+      "Drought",
+      "British policies",
+      "Civil war",
+      "Industrialization",
+      "Overpopulation",
+      "Trade restrictions",
+      "Land redistribution"
+    ],
+    "main_category": "History",
+    "subcategory": "Modern History",
+    "difficulty": "medium",
+    "id": "660af509-35eb-4042-8565-3a732d0fab48",
+    "created_at": "2025-04-14T01:52:26.224Z",
+    "backupTimestamp": "2025-04-14T01:52:26.224Z",
+    "localBackupTimestamp": "2025-04-13T19:52:26.224Z"
+  },
+  {
+    "question": "Who was the first Chancellor of unified Germany?",
+    "correct_answer": "Otto von Bismarck",
+    "incorrect_answers": [
+      "Kaiser Wilhelm I",
+      "Friedrich Ebert",
+      "Adolf Hitler",
+      "Konrad Adenauer",
+      "Helmut Kohl",
+      "Willy Brandt",
+      "Angela Merkel"
+    ],
+    "main_category": "History",
+    "subcategory": "Modern History",
+    "difficulty": "medium",
+    "id": "ae4e21a2-af85-4252-8c2d-12f8c5d6a0d3",
+    "created_at": "2025-04-14T01:52:26.228Z",
+    "backupTimestamp": "2025-04-14T01:52:26.228Z",
+    "localBackupTimestamp": "2025-04-13T19:52:26.228Z"
+  },
+  {
+    "question": "What was the Reign of Terror?",
+    "correct_answer": "Period of executions in French Revolution",
+    "incorrect_answers": [
+      "Russian purges",
+      "Spanish Inquisition",
+      "Nazi Holocaust",
+      "Chinese Cultural Revolution",
+      "Cambodian genocide",
+      "Ottoman massacres",
+      "Stalinist repression"
+    ],
+    "main_category": "History",
+    "subcategory": "Modern History",
+    "difficulty": "medium",
+    "id": "6b322992-e841-4bc0-adf2-6cc8816a4350",
+    "created_at": "2025-04-14T01:52:26.233Z",
+    "backupTimestamp": "2025-04-14T01:52:26.233Z",
+    "localBackupTimestamp": "2025-04-13T19:52:26.233Z"
+  },
+  {
+    "question": "What year did South Africa end apartheid?",
+    "correct_answer": "1994",
+    "incorrect_answers": [
+      "1984",
+      "1989",
+      "1991",
+      "1976",
+      "2000",
+      "1980",
+      "1986"
+    ],
+    "main_category": "History",
+    "subcategory": "Modern History",
+    "difficulty": "medium",
+    "id": "968c59a3-1c7c-42f3-95ec-8d855fa154d6",
+    "created_at": "2025-04-14T01:52:26.239Z",
+    "backupTimestamp": "2025-04-14T01:52:26.239Z",
+    "localBackupTimestamp": "2025-04-13T19:52:26.239Z"
+  },
+  {
+    "question": "What was the purpose of the Monroe Doctrine?",
+    "correct_answer": "Prevent European colonization in Americas",
+    "incorrect_answers": [
+      "Expand US territory",
+      "Promote free trade",
+      "Establish naval dominance",
+      "Form American alliances",
+      "Isolate from world affairs",
+      "Oppose communism",
+      "Support Latin American independence"
+    ],
+    "main_category": "History",
+    "subcategory": "Modern History",
+    "difficulty": "medium",
+    "id": "82436724-9d07-4b19-9f93-3097bd996bb8",
+    "created_at": "2025-04-14T01:52:26.244Z",
+    "backupTimestamp": "2025-04-14T01:52:26.244Z",
+    "localBackupTimestamp": "2025-04-13T19:52:26.244Z"
+  },
+  {
+    "question": "What African country resisted European colonization?",
+    "correct_answer": "Ethiopia",
+    "incorrect_answers": [
+      "Egypt",
+      "South Africa",
+      "Nigeria",
+      "Libya",
+      "Algeria",
+      "Morocco",
+      "Kenya"
+    ],
+    "main_category": "History",
+    "subcategory": "Modern History",
+    "difficulty": "medium",
+    "id": "a32745f7-35c5-4413-b3d4-588c33517f93",
+    "created_at": "2025-04-14T01:52:26.249Z",
+    "backupTimestamp": "2025-04-14T01:52:26.250Z",
+    "localBackupTimestamp": "2025-04-13T19:52:26.250Z"
+  },
+  {
+    "question": "Who was the leader of Italian unification?",
+    "correct_answer": "Giuseppe Garibaldi",
+    "incorrect_answers": [
+      "Camillo di Cavour",
+      "Victor Emmanuel II",
+      "Giuseppe Mazzini",
+      "Pope Pius IX",
+      "Napoleon III",
+      "Umberto I",
+      "Francesco Crispi"
+    ],
+    "main_category": "History",
+    "subcategory": "Modern History",
+    "difficulty": "medium",
+    "id": "e065bd0d-9e75-4b2f-aa4e-d26b9b8cb7b9",
+    "created_at": "2025-04-14T01:52:26.254Z",
+    "backupTimestamp": "2025-04-14T01:52:26.255Z",
+    "localBackupTimestamp": "2025-04-13T19:52:26.255Z"
+  },
+  {
+    "question": "What treaty gave control of the Philippines to the US?",
+    "correct_answer": "Treaty of Paris",
+    "incorrect_answers": [
+      "Treaty of Versailles",
+      "Treaty of Tordesillas",
+      "Treaty of Utrecht",
+      "Treaty of Ghent",
+      "Treaty of Guadalupe Hidalgo",
+      "Treaty of Portsmouth",
+      "Treaty of San Francisco"
+    ],
+    "main_category": "History",
+    "subcategory": "Modern History",
+    "difficulty": "medium",
+    "id": "6cf15efc-bc50-4a65-9db1-504ecb1ad597",
+    "created_at": "2025-04-14T01:52:26.259Z",
+    "backupTimestamp": "2025-04-14T01:52:26.259Z",
+    "localBackupTimestamp": "2025-04-13T19:52:26.259Z"
+  },
+  {
+    "question": "Which country did the US acquire from Russia?",
+    "correct_answer": "Alaska",
+    "incorrect_answers": [
+      "Hawaii",
+      "Puerto Rico",
+      "Guam",
+      "Philippines",
+      "Cuba",
+      "Panama",
+      "Virgin Islands"
+    ],
+    "main_category": "History",
+    "subcategory": "Modern History",
+    "difficulty": "medium",
+    "id": "df5f547a-ff12-4e23-8259-035087e8fbd1",
+    "created_at": "2025-04-14T01:52:26.264Z",
+    "backupTimestamp": "2025-04-14T01:52:26.264Z",
+    "localBackupTimestamp": "2025-04-13T19:52:26.264Z"
+  },
+  {
+    "question": "Which treaty transferred Alsace-Lorraine back to France?",
+    "correct_answer": "Treaty of Versailles",
+    "incorrect_answers": [
+      "Treaty of Frankfurt",
+      "Treaty of Trianon",
+      "Treaty of Brest-Litovsk",
+      "Treaty of Saint-Germain",
+      "Treaty of Neuilly",
+      "Treaty of Sèvres",
+      "Treaty of Lausanne"
+    ],
+    "main_category": "History",
+    "subcategory": "Modern History",
+    "difficulty": "hard",
+    "id": "c6bf4f2d-86a3-45b6-9f05-6481363d556b",
+    "created_at": "2025-04-14T01:57:31.498Z",
+    "backupTimestamp": "2025-04-14T01:57:31.501Z",
+    "localBackupTimestamp": "2025-04-13T19:57:31.501Z"
+  },
+  {
+    "question": "Who commanded the HMS Beagle during Darwin's voyage?",
+    "correct_answer": "Robert FitzRoy",
+    "incorrect_answers": [
+      "James Cook",
+      "William Bligh",
+      "George Vancouver",
+      "Francis Drake",
+      "Matthew Flinders",
+      "James Clark Ross",
+      "John Franklin"
+    ],
+    "main_category": "History",
+    "subcategory": "Modern History",
+    "difficulty": "hard",
+    "id": "43e2c5ce-bc91-49e8-863c-e5039d68fd73",
+    "created_at": "2025-04-14T01:57:31.512Z",
+    "backupTimestamp": "2025-04-14T01:57:31.513Z",
+    "localBackupTimestamp": "2025-04-13T19:57:31.513Z"
+  },
+  {
+    "question": "Which country did not attend the Congress of Vienna?",
+    "correct_answer": "United States",
+    "incorrect_answers": [
+      "Austria",
+      "Prussia",
+      "Russia",
+      "Great Britain",
+      "France",
+      "Spain",
+      "Sweden"
+    ],
+    "main_category": "History",
+    "subcategory": "Modern History",
+    "difficulty": "hard",
+    "id": "c19e01ea-a00d-4a43-8bec-cafee85e2d75",
+    "created_at": "2025-04-14T01:57:31.519Z",
+    "backupTimestamp": "2025-04-14T01:57:31.520Z",
+    "localBackupTimestamp": "2025-04-13T19:57:31.520Z"
+  },
+  {
+    "question": "Who was the first Prime Minister of Canada?",
+    "correct_answer": "John A. Macdonald",
+    "incorrect_answers": [
+      "Alexander Mackenzie",
+      "Wilfrid Laurier",
+      "Robert Borden",
+      "William Lyon Mackenzie King",
+      "John Diefenbaker",
+      "Pierre Trudeau",
+      "Louis St. Laurent"
+    ],
+    "main_category": "History",
+    "subcategory": "Modern History",
+    "difficulty": "hard",
+    "id": "df8a117d-a05b-43f4-b629-d5bdfe1e76fb",
+    "created_at": "2025-04-14T01:57:31.528Z",
+    "backupTimestamp": "2025-04-14T01:57:31.529Z",
+    "localBackupTimestamp": "2025-04-13T19:57:31.529Z"
+  },
+  {
+    "question": "What was the 'February Patent' in Austrian history?",
+    "correct_answer": "Constitutional document",
+    "incorrect_answers": [
+      "Trade agreement",
+      "Military alliance",
+      "Banking regulation",
+      "Land reform law",
+      "Religious decree",
+      "Postal service creation",
+      "Educational reform"
+    ],
+    "main_category": "History",
+    "subcategory": "Modern History",
+    "difficulty": "hard",
+    "id": "910c2e5a-8a1d-4a39-8300-d931ec23cc46",
+    "created_at": "2025-04-14T01:57:31.537Z",
+    "backupTimestamp": "2025-04-14T01:57:31.537Z",
+    "localBackupTimestamp": "2025-04-13T19:57:31.537Z"
+  },
+  {
+    "question": "What year did Belgium gain independence?",
+    "correct_answer": "1830",
+    "incorrect_answers": [
+      "1815",
+      "1848",
+      "1871",
+      "1789",
+      "1861",
+      "1905",
+      "1919"
+    ],
+    "main_category": "History",
+    "subcategory": "Modern History",
+    "difficulty": "hard",
+    "id": "51a5453c-f774-4bf2-b882-5f38bf86f37a",
+    "created_at": "2025-04-14T01:57:31.548Z",
+    "backupTimestamp": "2025-04-14T01:57:31.549Z",
+    "localBackupTimestamp": "2025-04-13T19:57:31.549Z"
+  },
+  {
+    "question": "Who was the only unmarried US President?",
+    "correct_answer": "James Buchanan",
+    "incorrect_answers": [
+      "Grover Cleveland",
+      "Andrew Jackson",
+      "Woodrow Wilson",
+      "Chester Arthur",
+      "Calvin Coolidge",
+      "Herbert Hoover",
+      "Franklin Pierce"
+    ],
+    "main_category": "History",
+    "subcategory": "Modern History",
+    "difficulty": "hard",
+    "id": "e3647922-8a37-4a01-9f37-a3bccd61d453",
+    "created_at": "2025-04-14T01:57:31.558Z",
+    "backupTimestamp": "2025-04-14T01:57:31.559Z",
+    "localBackupTimestamp": "2025-04-13T19:57:31.559Z"
+  },
+  {
+    "question": "Which city hosted the secret Manhattan Project lab?",
+    "correct_answer": "Los Alamos",
+    "incorrect_answers": [
+      "Oak Ridge",
+      "Chicago",
+      "Hanford",
+      "Berkeley",
+      "Princeton",
+      "San Francisco",
+      "Washington D.C."
+    ],
+    "main_category": "History",
+    "subcategory": "Modern History",
+    "difficulty": "hard",
+    "id": "8ce3e75e-0c89-4b8a-b871-cc4b483d4ba0",
+    "created_at": "2025-04-14T01:57:31.567Z",
+    "backupTimestamp": "2025-04-14T01:57:31.568Z",
+    "localBackupTimestamp": "2025-04-13T19:57:31.568Z"
+  },
+  {
+    "question": "What was the name of Lenin's revolutionary newspaper?",
+    "correct_answer": "Iskra",
+    "incorrect_answers": [
+      "Pravda",
+      "Izvestia",
+      "Novaya Zhizn",
+      "Vperyod",
+      "Zvezda",
+      "Rabochaya Gazeta",
+      "Borba"
+    ],
+    "main_category": "History",
+    "subcategory": "Modern History",
+    "difficulty": "hard",
+    "id": "697c4d48-00a3-40dc-81c1-4e229b0b1445",
+    "created_at": "2025-04-14T01:57:31.575Z",
+    "backupTimestamp": "2025-04-14T01:57:31.576Z",
+    "localBackupTimestamp": "2025-04-13T19:57:31.576Z"
+  },
+  {
+    "question": "Who was the French foreign minister behind European integration?",
+    "correct_answer": "Robert Schuman",
+    "incorrect_answers": [
+      "Jean Monnet",
+      "René Pleven",
+      "Georges Bidault",
+      "Maurice Schumann",
+      "Christian Pineau",
+      "Antoine Pinay",
+      "Guy Mollet"
+    ],
+    "main_category": "History",
+    "subcategory": "Modern History",
+    "difficulty": "hard",
+    "id": "f3b4d7c1-6db4-4665-ac47-2cfd3ead314c",
+    "created_at": "2025-04-14T01:57:31.582Z",
+    "backupTimestamp": "2025-04-14T01:57:31.583Z",
+    "localBackupTimestamp": "2025-04-13T19:57:31.583Z"
+  },
+  {
+    "question": "What political movement did Giuseppe Mazzini found?",
+    "correct_answer": "Young Italy",
+    "incorrect_answers": [
+      "Carbonari",
+      "Risorgimento",
+      "Red Shirts",
+      "National Society",
+      "Italian Fascism",
+      "Black Hand",
+      "Irredentism"
+    ],
+    "main_category": "History",
+    "subcategory": "Modern History",
+    "difficulty": "hard",
+    "id": "974770f1-90f1-4093-b655-1d03ff6bab18",
+    "created_at": "2025-04-14T01:57:31.589Z",
+    "backupTimestamp": "2025-04-14T01:57:31.589Z",
+    "localBackupTimestamp": "2025-04-13T19:57:31.589Z"
+  },
+  {
+    "question": "Which Bolshevik led the Soviet secret police?",
+    "correct_answer": "Felix Dzerzhinsky",
+    "incorrect_answers": [
+      "Lavrentiy Beria",
+      "Nikolai Yezhov",
+      "Genrikh Yagoda",
+      "Vyacheslav Menzhinsky",
+      "Rudolf Abel",
+      "Ivan Serov",
+      "Alexander Shelepin"
+    ],
+    "main_category": "History",
+    "subcategory": "Modern History",
+    "difficulty": "hard",
+    "id": "65874f48-013e-4eb4-8f38-22e7ceea0a91",
+    "created_at": "2025-04-14T01:57:31.595Z",
+    "backupTimestamp": "2025-04-14T01:57:31.596Z",
+    "localBackupTimestamp": "2025-04-13T19:57:31.596Z"
+  },
+  {
+    "question": "Who was the last Emperor of Austria-Hungary?",
+    "correct_answer": "Charles I",
+    "incorrect_answers": [
+      "Franz Joseph I",
+      "Ferdinand I",
+      "Leopold II",
+      "Francis II",
+      "Joseph II",
+      "Ferdinand Maximilian",
+      "Otto von Habsburg"
+    ],
+    "main_category": "History",
+    "subcategory": "Modern History",
+    "difficulty": "hard",
+    "id": "2b16580b-9f61-4c8a-bbea-cb922648dc85",
+    "created_at": "2025-04-14T01:57:31.601Z",
+    "backupTimestamp": "2025-04-14T01:57:31.602Z",
+    "localBackupTimestamp": "2025-04-13T19:57:31.602Z"
+  },
+  {
+    "question": "What was the codename for the Allied invasion of Sicily?",
+    "correct_answer": "Operation Husky",
+    "incorrect_answers": [
+      "Operation Overlord",
+      "Operation Torch",
+      "Operation Barbarossa",
+      "Operation Market Garden",
+      "Operation Dragoon",
+      "Operation Avalanche",
+      "Operation Cobra"
+    ],
+    "main_category": "History",
+    "subcategory": "Modern History",
+    "difficulty": "hard",
+    "id": "abb5921b-0ec1-468a-89e3-396cac001fb0",
+    "created_at": "2025-04-14T01:57:31.613Z",
+    "backupTimestamp": "2025-04-14T01:57:31.614Z",
+    "localBackupTimestamp": "2025-04-13T19:57:31.614Z"
+  },
+  {
+    "question": "Who led the 1954 Guatemalan coup?",
+    "correct_answer": "Carlos Castillo Armas",
+    "incorrect_answers": [
+      "Jacobo Árbenz",
+      "Juan José Arévalo",
+      "Miguel Ydígoras",
+      "Efraín Ríos Montt",
+      "Romeo Lucas García",
+      "Jorge Ubico",
+      "José María Orellana"
+    ],
+    "main_category": "History",
+    "subcategory": "Modern History",
+    "difficulty": "hard",
+    "id": "166380c9-900d-46fe-a9c8-04c2b0513e00",
+    "created_at": "2025-04-14T01:57:31.620Z",
+    "backupTimestamp": "2025-04-14T01:57:31.621Z",
+    "localBackupTimestamp": "2025-04-13T19:57:31.621Z"
+  },
+  {
+    "question": "Which African country was formerly called Abyssinia?",
+    "correct_answer": "Ethiopia",
+    "incorrect_answers": [
+      "Somalia",
+      "Eritrea",
+      "Djibouti",
+      "Sudan",
+      "Kenya",
+      "Tanzania",
+      "Egypt"
+    ],
+    "main_category": "History",
+    "subcategory": "Modern History",
+    "difficulty": "hard",
+    "id": "47afbb0f-71fa-484b-bcfd-10050c44d39b",
+    "created_at": "2025-04-14T01:57:31.627Z",
+    "backupTimestamp": "2025-04-14T01:57:31.627Z",
+    "localBackupTimestamp": "2025-04-13T19:57:31.627Z"
+  },
+  {
+    "question": "Who was French president during the Algerian independence?",
+    "correct_answer": "Charles de Gaulle",
+    "incorrect_answers": [
+      "Georges Pompidou",
+      "Vincent Auriol",
+      "René Coty",
+      "François Mitterrand",
+      "Valéry Giscard d'Estaing",
+      "Jacques Chirac",
+      "Georges Clemenceau"
+    ],
+    "main_category": "History",
+    "subcategory": "Modern History",
+    "difficulty": "hard",
+    "id": "fef90701-62fc-4257-bfde-3404c315790c",
+    "created_at": "2025-04-14T01:57:31.634Z",
+    "backupTimestamp": "2025-04-14T01:57:31.635Z",
+    "localBackupTimestamp": "2025-04-13T19:57:31.635Z"
+  },
+  {
+    "question": "What was the 1962 US-Cuba confrontation called?",
+    "correct_answer": "Cuban Missile Crisis",
+    "incorrect_answers": [
+      "Bay of Pigs Invasion",
+      "Operation Mongoose",
+      "Project Azorian",
+      "Operation Northwoods",
+      "Mariel boatlift",
+      "Havana Harbor incident",
+      "Platt Amendment crisis"
+    ],
+    "main_category": "History",
+    "subcategory": "Modern History",
+    "difficulty": "hard",
+    "id": "45c7e0fc-bdaf-4fb1-a4b5-2297e47df258",
+    "created_at": "2025-04-14T01:57:31.640Z",
+    "backupTimestamp": "2025-04-14T01:57:31.640Z",
+    "localBackupTimestamp": "2025-04-13T19:57:31.640Z"
+  },
+  {
+    "question": "Who assassinated Austrian Archduke Franz Ferdinand?",
+    "correct_answer": "Gavrilo Princip",
+    "incorrect_answers": [
+      "Nedeljko Čabrinović",
+      "Trifko Grabež",
+      "Danilo Ilić",
+      "Muhamed Mehmedbašić",
+      "Cvjetko Popović",
+      "Vaso Čubrilović",
+      "Lazar Đukić"
+    ],
+    "main_category": "History",
+    "subcategory": "Modern History",
+    "difficulty": "hard",
+    "id": "a83066e4-b35e-40d9-8e99-26a3e4fcdf16",
+    "created_at": "2025-04-14T01:57:31.645Z",
+    "backupTimestamp": "2025-04-14T01:57:31.646Z",
+    "localBackupTimestamp": "2025-04-13T19:57:31.646Z"
+  },
+  {
+    "question": "Which country was neutral in both World Wars?",
+    "correct_answer": "Switzerland",
+    "incorrect_answers": [
+      "Sweden",
+      "Spain",
+      "Portugal",
+      "Turkey",
+      "Argentina",
+      "Ireland",
+      "Chile"
+    ],
+    "main_category": "History",
+    "subcategory": "Modern History",
+    "difficulty": "hard",
+    "id": "c9944a62-eae6-4db5-9098-7e1ba59cda86",
+    "created_at": "2025-04-14T01:57:31.651Z",
+    "backupTimestamp": "2025-04-14T01:57:31.652Z",
+    "localBackupTimestamp": "2025-04-13T19:57:31.652Z"
+  },
+  {
+    "question": "What was Chiang Kai-shek's political party?",
+    "correct_answer": "Kuomintang",
+    "incorrect_answers": [
+      "Communist Party",
+      "Democratic Progressive Party",
+      "New Power Party",
+      "China Democratic League",
+      "China Zhi Gong Party",
+      "Taiwanese People's Party",
+      "People First Party"
+    ],
+    "main_category": "History",
+    "subcategory": "Modern History",
+    "difficulty": "hard",
+    "id": "604a0c95-6cb6-4740-97d3-d0f8408e9dd5",
+    "created_at": "2025-04-14T01:57:31.656Z",
+    "backupTimestamp": "2025-04-14T01:57:31.657Z",
+    "localBackupTimestamp": "2025-04-13T19:57:31.657Z"
+  },
+  {
+    "question": "Who was the last viceroy of India?",
+    "correct_answer": "Lord Mountbatten",
+    "incorrect_answers": [
+      "Lord Wavell",
+      "Lord Linlithgow",
+      "Lord Willingdon",
+      "Lord Irwin",
+      "Lord Reading",
+      "Lord Chelmsford",
+      "Lord Hardinge"
+    ],
+    "main_category": "History",
+    "subcategory": "Modern History",
+    "difficulty": "hard",
+    "id": "f6de19c2-9afe-427c-8af2-0bbf20cae1d8",
+    "created_at": "2025-04-14T01:57:31.663Z",
+    "backupTimestamp": "2025-04-14T01:57:31.663Z",
+    "localBackupTimestamp": "2025-04-13T19:57:31.663Z"
+  },
+  {
+    "question": "What military alliance opposed NATO during Cold War?",
+    "correct_answer": "Warsaw Pact",
+    "incorrect_answers": [
+      "SEATO",
+      "CENTO",
+      "Comecon",
+      "Cominform",
+      "ANZUS",
+      "Rio Pact",
+      "Baghdad Pact"
+    ],
+    "main_category": "History",
+    "subcategory": "Modern History",
+    "difficulty": "hard",
+    "id": "0115cd9f-b44d-4ec6-915c-821a4f53c382",
+    "created_at": "2025-04-14T01:57:31.668Z",
+    "backupTimestamp": "2025-04-14T01:57:31.669Z",
+    "localBackupTimestamp": "2025-04-13T19:57:31.669Z"
+  },
+  {
+    "question": "Where was imprisoned Nelson Mandela for 18 years?",
+    "correct_answer": "Robben Island",
+    "incorrect_answers": [
+      "Pollsmoor Prison",
+      "Victor Verster Prison",
+      "Pretoria Central",
+      "Johannesburg Prison",
+      "Durban Westville",
+      "Fort Glamorgan",
+      "St. Helena Island"
+    ],
+    "main_category": "History",
+    "subcategory": "Modern History",
+    "difficulty": "hard",
+    "id": "c26879b5-d60c-46d9-8220-be3f0bc3a520",
+    "created_at": "2025-04-14T01:57:31.680Z",
+    "backupTimestamp": "2025-04-14T01:57:31.680Z",
+    "localBackupTimestamp": "2025-04-13T19:57:31.680Z"
+  },
+  {
+    "question": "Which country was called Siam until 1939?",
+    "correct_answer": "Thailand",
+    "incorrect_answers": [
+      "Myanmar",
+      "Cambodia",
+      "Laos",
+      "Vietnam",
+      "Malaysia",
+      "Indonesia",
+      "Philippines"
+    ],
+    "main_category": "History",
+    "subcategory": "Modern History",
+    "difficulty": "hard",
+    "id": "374afe9f-9ea6-4f67-af59-8c79586ca5ef",
+    "created_at": "2025-04-14T01:57:31.685Z",
+    "backupTimestamp": "2025-04-14T01:57:31.686Z",
+    "localBackupTimestamp": "2025-04-13T19:57:31.686Z"
+  },
+  {
+    "question": "What was the name of Hitler's economic recovery plan?",
+    "correct_answer": "Four Year Plan",
+    "incorrect_answers": [
+      "New Deal",
+      "Five Year Plan",
+      "Marshall Plan",
+      "Dawes Plan",
+      "Young Plan",
+      "Morgenthau Plan",
+      "Schacht Plan"
+    ],
+    "main_category": "History",
+    "subcategory": "Modern History",
+    "difficulty": "hard",
+    "id": "a36621ad-2af0-4f73-a5ee-dbcd0f42b271",
+    "created_at": "2025-04-14T01:57:31.691Z",
+    "backupTimestamp": "2025-04-14T01:57:31.691Z",
+    "localBackupTimestamp": "2025-04-13T19:57:31.691Z"
+  },
+  {
+    "question": "Who led the first successful climb of Mount Everest?",
+    "correct_answer": "Edmund Hillary",
+    "incorrect_answers": [
+      "Tenzing Norgay",
+      "George Mallory",
+      "Reinhold Messner",
+      "Chris Bonington",
+      "Robert Falcon Scott",
+      "Ernest Shackleton",
+      "Roald Amundsen"
+    ],
+    "main_category": "History",
+    "subcategory": "Modern History",
+    "difficulty": "hard",
+    "id": "bd3db6b4-a3f7-4f03-8fe8-5bca9a17157e",
+    "created_at": "2025-04-14T01:57:31.696Z",
+    "backupTimestamp": "2025-04-14T01:57:31.697Z",
+    "localBackupTimestamp": "2025-04-13T19:57:31.697Z"
+  },
+  {
+    "question": "What was the first combat jet aircraft?",
+    "correct_answer": "Messerschmitt Me 262",
+    "incorrect_answers": [
+      "Gloster Meteor",
+      "P-80 Shooting Star",
+      "Heinkel He 178",
+      "MiG-15",
+      "Saab 21R",
+      "De Havilland Vampire",
+      "Arado Ar 234"
+    ],
+    "main_category": "History",
+    "subcategory": "Modern History",
+    "difficulty": "hard",
+    "id": "35fbdb8e-648e-4308-86d8-6479b11b10a0",
+    "created_at": "2025-04-14T01:57:31.702Z",
+    "backupTimestamp": "2025-04-14T01:57:31.702Z",
+    "localBackupTimestamp": "2025-04-13T19:57:31.702Z"
+  },
+  {
+    "question": "What empire did Japan defeat in its first modern war?",
+    "correct_answer": "Qing China",
+    "incorrect_answers": [
+      "Russian Empire",
+      "British Empire",
+      "Ottoman Empire",
+      "Korean Empire",
+      "French Empire",
+      "Dutch Empire",
+      "Portuguese Empire"
+    ],
+    "main_category": "History",
+    "subcategory": "Modern History",
+    "difficulty": "hard",
+    "id": "c2afd7f2-8889-4eef-bea3-dcc20214ebe9",
+    "created_at": "2025-04-14T01:57:31.708Z",
+    "backupTimestamp": "2025-04-14T01:57:31.708Z",
+    "localBackupTimestamp": "2025-04-13T19:57:31.708Z"
+  },
+  {
+    "question": "Who authored the book 'Das Kapital'?",
+    "correct_answer": "Karl Marx",
+    "incorrect_answers": [
+      "Friedrich Engels",
+      "Vladimir Lenin",
+      "Rosa Luxemburg",
+      "Leon Trotsky",
+      "Antonio Gramsci",
+      "Georg Hegel",
+      "Max Weber"
+    ],
+    "main_category": "History",
+    "subcategory": "Modern History",
+    "difficulty": "hard",
+    "id": "d911b815-30d0-46be-af85-5badbf8fef48",
+    "created_at": "2025-04-14T01:57:31.714Z",
+    "backupTimestamp": "2025-04-14T01:57:31.714Z",
+    "localBackupTimestamp": "2025-04-13T19:57:31.714Z"
+  },
+  {
+    "question": "What shipbuilding center did Japan attack in 1941?",
+    "correct_answer": "Pearl Harbor",
+    "incorrect_answers": [
+      "San Diego",
+      "Norfolk",
+      "Bremerton",
+      "Long Beach",
+      "Yokosuka",
+      "Manila",
+      "Singapore"
+    ],
+    "main_category": "History",
+    "subcategory": "Modern History",
+    "difficulty": "hard",
+    "id": "9870861d-a0bd-4150-b5ff-69cb1cf3ed8c",
+    "created_at": "2025-04-14T01:57:31.719Z",
+    "backupTimestamp": "2025-04-14T01:57:31.719Z",
+    "localBackupTimestamp": "2025-04-13T19:57:31.719Z"
+  },
+  {
+    "question": "Which Italian leader founded the Fascist Party?",
+    "correct_answer": "Benito Mussolini",
+    "incorrect_answers": [
+      "Victor Emmanuel III",
+      "Giovanni Giolitti",
+      "Antonio Salandra",
+      "Sidney Sonnino",
+      "Luigi Facta",
+      "Ivanoe Bonomi",
+      "Gabriele D'Annunzio"
+    ],
+    "main_category": "History",
+    "subcategory": "Modern History",
+    "difficulty": "hard",
+    "id": "fb04b9de-bbab-4abe-8075-895a087d4df3",
+    "created_at": "2025-04-14T01:57:31.725Z",
+    "backupTimestamp": "2025-04-14T01:57:31.725Z",
+    "localBackupTimestamp": "2025-04-13T19:57:31.725Z"
+  },
+  {
+    "question": "What revolution began with the April Theses?",
+    "correct_answer": "Russian Revolution",
+    "incorrect_answers": [
+      "French Revolution",
+      "Chinese Revolution",
+      "Cuban Revolution",
+      "Iranian Revolution",
+      "Mexican Revolution",
+      "Turkish Revolution",
+      "Romanian Revolution"
+    ],
+    "main_category": "History",
+    "subcategory": "Modern History",
+    "difficulty": "hard",
+    "id": "1e3db5cf-030c-47c7-85b3-adbc47adb603",
+    "created_at": "2025-04-14T01:57:31.731Z",
+    "backupTimestamp": "2025-04-14T01:57:31.732Z",
+    "localBackupTimestamp": "2025-04-13T19:57:31.732Z"
+  },
+  {
+    "question": "Who invented the first practical telephone?",
+    "correct_answer": "Alexander Graham Bell",
+    "incorrect_answers": [
+      "Thomas Edison",
+      "Elisha Gray",
+      "Antonio Meucci",
+      "Johann Philipp Reis",
+      "Innocenzo Manzetti",
+      "Charles Bourseul",
+      "Tivadar Puskás"
+    ],
+    "main_category": "History",
+    "subcategory": "Modern History",
+    "difficulty": "hard",
+    "id": "436743a4-3e46-4870-98c9-a5c8f09d9042",
+    "created_at": "2025-04-14T01:57:31.745Z",
+    "backupTimestamp": "2025-04-14T01:57:31.746Z",
+    "localBackupTimestamp": "2025-04-13T19:57:31.746Z"
+  },
+  {
+    "question": "What was Wilson's post-WWI peace program called?",
+    "correct_answer": "Fourteen Points",
+    "incorrect_answers": [
+      "New Freedom",
+      "Square Deal",
+      "New Nationalism",
+      "Great Society",
+      "Fair Deal",
+      "New Frontier",
+      "New Deal"
+    ],
+    "main_category": "History",
+    "subcategory": "Modern History",
+    "difficulty": "hard",
+    "id": "3ecf5749-5d44-4fd7-a688-799ce24ad0ff",
+    "created_at": "2025-04-14T01:57:31.756Z",
+    "backupTimestamp": "2025-04-14T01:57:31.757Z",
+    "localBackupTimestamp": "2025-04-13T19:57:31.757Z"
+  },
+  {
+    "question": "What rebellion occurred in British India in 1857?",
+    "correct_answer": "Sepoy Mutiny",
+    "incorrect_answers": [
+      "Quit India Movement",
+      "Salt March",
+      "Chittagong Uprising",
+      "Moplah Rebellion",
+      "Vellore Mutiny",
+      "Santhal Rebellion",
+      "Sikh Rebellion"
+    ],
+    "main_category": "History",
+    "subcategory": "Modern History",
+    "difficulty": "hard",
+    "id": "8b609fdd-fadd-4a42-a6a1-8e4768c4d45c",
+    "created_at": "2025-04-14T01:57:31.767Z",
+    "backupTimestamp": "2025-04-14T01:57:31.768Z",
+    "localBackupTimestamp": "2025-04-13T19:57:31.768Z"
+  },
+  {
+    "question": "Which country did NOT participate in the Berlin Conference?",
+    "correct_answer": "Ethiopia",
+    "incorrect_answers": [
+      "Great Britain",
+      "France",
+      "Germany",
+      "Belgium",
+      "Portugal",
+      "Italy",
+      "United States"
+    ],
+    "main_category": "History",
+    "subcategory": "Modern History",
+    "difficulty": "hard",
+    "id": "3e55afbf-1854-4ce3-a76d-572949b7464b",
+    "created_at": "2025-04-14T01:57:31.784Z",
+    "backupTimestamp": "2025-04-14T01:57:31.785Z",
+    "localBackupTimestamp": "2025-04-13T19:57:31.785Z"
+  },
+  {
+    "question": "Who was the architect of German unification?",
+    "correct_answer": "Otto von Bismarck",
+    "incorrect_answers": [
+      "Kaiser Wilhelm I",
+      "Friedrich Wilhelm IV",
+      "Wilhelm II",
+      "Friedrich III",
+      "Heinrich von Gagern",
+      "Karl vom Stein",
+      "August von Gneisenau"
+    ],
+    "main_category": "History",
+    "subcategory": "Modern History",
+    "difficulty": "hard",
+    "id": "4162bef6-ecbc-47a6-bd9b-097a59834311",
+    "created_at": "2025-04-14T01:57:31.799Z",
+    "backupTimestamp": "2025-04-14T01:57:31.799Z",
+    "localBackupTimestamp": "2025-04-13T19:57:31.799Z"
+  },
+  {
+    "question": "Which Chinese leader launched the Cultural Revolution?",
+    "correct_answer": "Mao Zedong",
+    "incorrect_answers": [
+      "Deng Xiaoping",
+      "Zhou Enlai",
+      "Liu Shaoqi",
+      "Jiang Qing",
+      "Lin Biao",
+      "Hua Guofeng",
+      "Chiang Kai-shek"
+    ],
+    "main_category": "History",
+    "subcategory": "Modern History",
+    "difficulty": "hard",
+    "id": "456a828e-7ee3-434c-9f8a-e98c7cd2bd08",
+    "created_at": "2025-04-14T01:57:31.813Z",
+    "backupTimestamp": "2025-04-14T01:57:31.813Z",
+    "localBackupTimestamp": "2025-04-13T19:57:31.813Z"
+  },
+  {
+    "question": "What was the first battle of WWI's Western Front?",
+    "correct_answer": "Battle of the Frontiers",
+    "incorrect_answers": [
+      "First Battle of Marne",
+      "Battle of Tannenberg",
+      "Battle of Mons",
+      "Battle of Charleroi",
+      "Battle of Liège",
+      "Battle of the Ardennes",
+      "Battle of Mulhouse"
+    ],
+    "main_category": "History",
+    "subcategory": "Modern History",
+    "difficulty": "hard",
+    "id": "4350ebd4-b4a0-4615-b366-4aefbcba7f79",
+    "created_at": "2025-04-14T01:57:31.820Z",
+    "backupTimestamp": "2025-04-14T01:57:31.820Z",
+    "localBackupTimestamp": "2025-04-13T19:57:31.820Z"
+  },
+  {
+    "question": "Which military commander said 'I shall return'?",
+    "correct_answer": "Douglas MacArthur",
+    "incorrect_answers": [
+      "Dwight Eisenhower",
+      "George Patton",
+      "Chester Nimitz",
+      "William Halsey",
+      "Omar Bradley",
+      "George Marshall",
+      "Matthew Ridgway"
+    ],
+    "main_category": "History",
+    "subcategory": "Modern History",
+    "difficulty": "hard",
+    "id": "88d9b67b-bcc4-4509-b614-e654cf09c7a5",
+    "created_at": "2025-04-14T01:57:31.825Z",
+    "backupTimestamp": "2025-04-14T01:57:31.825Z",
+    "localBackupTimestamp": "2025-04-13T19:57:31.825Z"
+  },
+  {
+    "question": "Who negotiated the Camp David Accords?",
+    "correct_answer": "Carter, Begin, and Sadat",
+    "incorrect_answers": [
+      "Nixon, Meir, and Sadat",
+      "Bush, Sharon, and Mubarak",
+      "Clinton, Rabin, and Arafat",
+      "Reagan, Begin, and Mubarak",
+      "Obama, Netanyahu, and Abbas",
+      "Johnson, Eshkol, and Nasser",
+      "Ford, Rabin, and Sadat"
+    ],
+    "main_category": "History",
+    "subcategory": "Modern History",
+    "difficulty": "hard",
+    "id": "acc75d22-a22b-40fa-a18c-a4bf9bcc41ce",
+    "created_at": "2025-04-14T01:57:31.830Z",
+    "backupTimestamp": "2025-04-14T01:57:31.831Z",
+    "localBackupTimestamp": "2025-04-13T19:57:31.831Z"
+  },
+  {
+    "question": "What conflict was sparked by the Ems Dispatch?",
+    "correct_answer": "Franco-Prussian War",
+    "incorrect_answers": [
+      "Seven Weeks' War",
+      "Crimean War",
+      "World War I",
+      "War of 1870",
+      "Second Schleswig War",
+      "Austro-Prussian War",
+      "Belgian Revolution"
+    ],
+    "main_category": "History",
+    "subcategory": "Modern History",
+    "difficulty": "hard",
+    "id": "9967733b-a4fb-477f-880f-9a1929366ad7",
+    "created_at": "2025-04-14T01:57:31.836Z",
+    "backupTimestamp": "2025-04-14T01:57:31.837Z",
+    "localBackupTimestamp": "2025-04-13T19:57:31.837Z"
+  },
+  {
+    "question": "Who coined the term 'Iron Curtain'?",
+    "correct_answer": "Winston Churchill",
+    "incorrect_answers": [
+      "Harry Truman",
+      "Joseph Stalin",
+      "Franklin Roosevelt",
+      "George Kennan",
+      "Joseph McCarthy",
+      "Clement Attlee",
+      "Dwight Eisenhower"
+    ],
+    "main_category": "History",
+    "subcategory": "Modern History",
+    "difficulty": "hard",
+    "id": "8d9125b2-32f7-4087-ae90-d666e227844a",
+    "created_at": "2025-04-14T01:57:31.843Z",
+    "backupTimestamp": "2025-04-14T01:57:31.843Z",
+    "localBackupTimestamp": "2025-04-13T19:57:31.843Z"
+  },
+  {
+    "question": "Which country left the European Union in 2020?",
+    "correct_answer": "United Kingdom",
+    "incorrect_answers": [
+      "Sweden",
+      "Denmark",
+      "Finland",
+      "Ireland",
+      "Greece",
+      "Portugal",
+      "Croatia"
+    ],
+    "main_category": "History",
+    "subcategory": "Modern History",
+    "difficulty": "hard",
+    "id": "313f82cd-7fdb-4208-acb2-1575140588ba",
+    "created_at": "2025-04-14T01:57:31.848Z",
+    "backupTimestamp": "2025-04-14T01:57:31.849Z",
+    "localBackupTimestamp": "2025-04-13T19:57:31.849Z"
+  },
+  {
+    "question": "What African country defeated Italy at Adwa in 1896?",
+    "correct_answer": "Ethiopia",
+    "incorrect_answers": [
+      "Egypt",
+      "Libya",
+      "Somalia",
+      "Sudan",
+      "Eritrea",
+      "Morocco",
+      "Tunisia"
+    ],
+    "main_category": "History",
+    "subcategory": "Modern History",
+    "difficulty": "hard",
+    "id": "c6c09c0d-1bd1-417e-8942-8bd1dae9ed99",
+    "created_at": "2025-04-14T01:57:31.854Z",
+    "backupTimestamp": "2025-04-14T01:57:31.854Z",
+    "localBackupTimestamp": "2025-04-13T19:57:31.854Z"
+  },
+  {
+    "question": "Who was the first Japanese Prime Minister?",
+    "correct_answer": "Itō Hirobumi",
+    "incorrect_answers": [
+      "Yamagata Aritomo",
+      "Kuroda Kiyotaka",
+      "Matsukata Masayoshi",
+      "Saionji Kinmochi",
+      "Ōkuma Shigenobu",
+      "Katsura Tarō",
+      "Yamamoto Gonbee"
+    ],
+    "main_category": "History",
+    "subcategory": "Modern History",
+    "difficulty": "hard",
+    "id": "5cfa8e7a-c701-4fe8-87b7-bac2ff50455c",
+    "created_at": "2025-04-14T01:57:31.861Z",
+    "backupTimestamp": "2025-04-14T01:57:31.861Z",
+    "localBackupTimestamp": "2025-04-13T19:57:31.861Z"
+  },
+  {
+    "question": "Who founded the first Pan-African Congress?",
+    "correct_answer": "W.E.B. Du Bois",
+    "incorrect_answers": [
+      "Marcus Garvey",
+      "Kwame Nkrumah",
+      "Jomo Kenyatta",
+      "Nnamdi Azikiwe",
+      "George Padmore",
+      "Julius Nyerere",
+      "Léopold Sédar Senghor"
+    ],
+    "main_category": "History",
+    "subcategory": "Modern History",
+    "difficulty": "hard",
+    "id": "c7905bcf-fd8a-482a-9642-b77a39787686",
+    "created_at": "2025-04-14T01:57:31.868Z",
+    "backupTimestamp": "2025-04-14T01:57:31.869Z",
+    "localBackupTimestamp": "2025-04-13T19:57:31.869Z"
+  },
+  {
+    "question": "Which event began the Spanish-American War?",
+    "correct_answer": "USS Maine explosion",
+    "incorrect_answers": [
+      "Battle of Manila Bay",
+      "Treaty of Paris",
+      "Rough Riders charge",
+      "Annexation of Hawaii",
+      "Teller Amendment",
+      "De Lôme Letter",
+      "Battle of San Juan Hill"
+    ],
+    "main_category": "History",
+    "subcategory": "Modern History",
+    "difficulty": "hard",
+    "id": "cbb52b83-827e-4805-b506-b63d2b6fa2af",
+    "created_at": "2025-04-14T01:57:31.877Z",
+    "backupTimestamp": "2025-04-14T01:57:31.878Z",
+    "localBackupTimestamp": "2025-04-13T19:57:31.878Z"
+  },
+  {
+    "question": "What was the SALT treaties' purpose?",
+    "correct_answer": "Limit strategic nuclear weapons",
+    "incorrect_answers": [
+      "Reduce conventional forces",
+      "Ban biological weapons",
+      "Prevent nuclear proliferation",
+      "Establish trade relations",
+      "Share space technology",
+      "Prevent naval incidents",
+      "Regulate arms exports"
+    ],
+    "main_category": "History",
+    "subcategory": "Modern History",
+    "difficulty": "hard",
+    "id": "c6d2c42e-dccc-4e68-bc00-50e628c01c5a",
+    "created_at": "2025-04-14T01:57:31.883Z",
+    "backupTimestamp": "2025-04-14T01:57:31.883Z",
+    "localBackupTimestamp": "2025-04-13T19:57:31.883Z"
+  },
+  {
+    "question": "Which republic lasted just six days in 1939?",
+    "correct_answer": "Carpatho-Ukraine",
+    "incorrect_answers": [
+      "Slovak Republic",
+      "Finnish Democratic Republic",
+      "Albania",
+      "Tatarstan",
+      "Latvia",
+      "Bessarabia",
+      "Estonia"
+    ],
+    "main_category": "History",
+    "subcategory": "Modern History",
+    "difficulty": "hard",
+    "id": "48f50151-4624-4d31-8789-4ece457c2d64",
+    "created_at": "2025-04-14T01:57:31.889Z",
+    "backupTimestamp": "2025-04-14T01:57:31.889Z",
+    "localBackupTimestamp": "2025-04-13T19:57:31.889Z"
+  },
+  {
+    "question": "Who was called the 'Father of Indian Constitution'?",
+    "correct_answer": "B.R. Ambedkar",
+    "incorrect_answers": [
+      "Jawaharlal Nehru",
+      "Mahatma Gandhi",
+      "Vallabhbhai Patel",
+      "Rajendra Prasad",
+      "C. Rajagopalachari",
+      "Maulana Azad",
+      "Sarojini Naidu"
+    ],
+    "main_category": "History",
+    "subcategory": "Modern History",
+    "difficulty": "hard",
+    "id": "b95fd995-24ed-4720-8199-aad413128e0d",
+    "created_at": "2025-04-14T01:57:31.895Z",
+    "backupTimestamp": "2025-04-14T01:57:31.895Z",
+    "localBackupTimestamp": "2025-04-13T19:57:31.895Z"
+  },
+  {
+    "question": "Which naval battle decided the Russo-Japanese War?",
+    "correct_answer": "Tsushima",
+    "incorrect_answers": [
+      "Yellow Sea",
+      "Port Arthur",
+      "Chemulpo Bay",
+      "Vladivostok",
+      "Sea of Japan",
+      "Sakhalin",
+      "Mukden"
+    ],
+    "main_category": "History",
+    "subcategory": "Modern History",
+    "difficulty": "hard",
+    "id": "7972514a-1e7d-4d67-8062-32bfd2041493",
+    "created_at": "2025-04-14T01:57:31.901Z",
+    "backupTimestamp": "2025-04-14T01:57:31.902Z",
+    "localBackupTimestamp": "2025-04-13T19:57:31.902Z"
+  },
+  {
+    "question": "What was the first international peace organization?",
+    "correct_answer": "League of Nations",
+    "incorrect_answers": [
+      "United Nations",
+      "International Court",
+      "Hague Conventions",
+      "NATO",
+      "Warsaw Pact",
+      "Permanent Court",
+      "International Red Cross"
+    ],
+    "main_category": "History",
+    "subcategory": "Modern History",
+    "difficulty": "hard",
+    "id": "e86ad0d7-ad4f-468f-9ac1-80bfb19b5df9",
+    "created_at": "2025-04-14T01:57:31.906Z",
+    "backupTimestamp": "2025-04-14T01:57:31.907Z",
+    "localBackupTimestamp": "2025-04-13T19:57:31.907Z"
+  },
+  {
+    "question": "Who was the first non-royal head of France?",
+    "correct_answer": "Maximilien Robespierre",
+    "incorrect_answers": [
+      "Napoleon Bonaparte",
+      "Georges Danton",
+      "Jean-Paul Marat",
+      "Camille Desmoulins",
+      "Emmanuel Sieyès",
+      "Lazare Carnot",
+      "Louis Saint-Just"
+    ],
+    "main_category": "History",
+    "subcategory": "Modern History",
+    "difficulty": "hard",
+    "id": "4303e280-a6fe-41fd-a273-bc5fa94ab96f",
+    "created_at": "2025-04-14T01:57:31.912Z",
+    "backupTimestamp": "2025-04-14T01:57:31.912Z",
+    "localBackupTimestamp": "2025-04-13T19:57:31.912Z"
+  },
+  {
+    "question": "What movement overthrew Hawaiian Queen Liliuokalani?",
+    "correct_answer": "Committee of Safety",
+    "incorrect_answers": [
+      "American Military",
+      "Missionary Party",
+      "Kingdom of Hawaii",
+      "Provisional Government",
+      "Republic of Hawaii",
+      "Hawaiian League",
+      "Reform Party"
+    ],
+    "main_category": "History",
+    "subcategory": "Modern History",
+    "difficulty": "hard",
+    "id": "e6d192e3-fe06-44cc-9af8-e2acd2f98955",
+    "created_at": "2025-04-14T01:57:31.917Z",
+    "backupTimestamp": "2025-04-14T01:57:31.917Z",
+    "localBackupTimestamp": "2025-04-13T19:57:31.917Z"
   }
 ]
