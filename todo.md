@@ -35,36 +35,35 @@
     - [x] If approved, add the question despite being a duplicate
     - [x] If rejected, skip the question
   - [x] Add pagination to questions list on web page.
-  - [ ] Add another validation for questions: Make sure the answer is not in the question.
+  - [x] Add another validation for questions: Make sure the answer is not in the question.
     - E.g. "question": "Which YouTube channel gained notoriety for its 'Hydraulic Press Channel,' crushing various objects?",
     "correct_answer": "Hydraulic Press Channel",
-  - [ ] Get 10,000 questions
-  - [ ] Set up SQLite database structure
-    - [ ] Create responses table schema
-      - [ ] Question ID (foreign key to questions table)
-      - [ ] Answer was correct (boolean)
-      - [ ] Timestamp
-    - [ ] Add response backup system
-      - [ ] Create responses.json backup functions
-        - [ ] Function to safely write responses:
-          - [ ] Copy existing responses.json to .bak
-          - [ ] Read existing responses from responses.json
-          - [ ] Add new responses to existing data
-          - [ ] Write combined data to responses.json
-          - [ ] Delete .bak file if successful
-          - [ ] Restore from .bak if write fails
-        - [ ] Function to read responses from JSON
+  - [x] Set up SQLite database structure
+    - [x] Create responses table schema
+      - [x] Question ID (foreign key to questions table)
+      - [x] Answer was correct (boolean)
+      - [x] Timestamp
+  - [ ] Add response backup system
+    - [ ] Create responses.json backup functions
+      - [ ] Function to safely write responses:
+        - [ ] Copy existing responses.json to .bak
+        - [ ] Read existing responses from responses.json
+        - [ ] Add new responses to existing data
+        - [ ] Write combined data to responses.json
+        - [ ] Delete .bak file if successful
+        - [ ] Restore from .bak if write fails
+      - [ ] Function to read responses from JSON
     - [ ] Add app startup checks
       - [ ] Check if responses table is empty
       - [ ] Look for responses.json file
       - [ ] Import responses if backup found
-  - [ ] Should we encrypt the questions in the app?
+  - [ ] Get 10,000 questions
   - [ ] Create home screen (easy, medium, hard, surprise me, settings, statistics)
   - [ ] Create settings screen (select categories)
   - [ ] Create question screen
   - [ ] Create statistics screen where user can see how they have performed in different categories and difficulties.
   - [ ] Handle the case when the user has answered all available questions.
-  - [ ] Add a way for a user to report questions in the mobile app. Email simplytrivia@gmail.com?
+  - [ ] Add a way for a user to report problem questions in the mobile app. Email simplytrivia@gmail.com?
   - [ ] Test in dark mode and light mode.
 
 ## Future updates

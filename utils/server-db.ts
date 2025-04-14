@@ -65,6 +65,14 @@ export const getDB = () => {
           FOREIGN KEY (main_category, subcategory)
             REFERENCES categories(main_category, subcategory)
         );
+
+        CREATE TABLE IF NOT EXISTS responses (
+          id TEXT PRIMARY KEY NOT NULL,
+          question_id TEXT NOT NULL,
+          is_correct INTEGER NOT NULL,
+          created_at INTEGER NOT NULL,
+          FOREIGN KEY (question_id) REFERENCES questions(id)
+        );
       `);
 
       // Populate categories if empty

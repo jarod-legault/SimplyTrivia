@@ -20,11 +20,23 @@ export const questions = sqliteTable('questions', {
   createdAt: integer('created_at', { mode: 'timestamp' }).notNull(),
 });
 
+// Define the responses table to track user question responses
+export const responses = sqliteTable('responses', {
+  id: text('id').primaryKey().notNull(),
+  questionId: text('question_id')
+    .notNull()
+    .references(() => questions.id),
+  isCorrect: integer('is_correct', { mode: 'boolean' }).notNull(),
+  createdAt: integer('created_at', { mode: 'timestamp' }).notNull(),
+});
+
 // Define types based on the schema
 export type Category = typeof categories.$inferSelect;
 export type NewCategory = typeof categories.$inferInsert;
 export type Question = typeof questions.$inferSelect;
 export type NewQuestion = typeof questions.$inferInsert;
+export type Response = typeof responses.$inferSelect;
+export type NewResponse = typeof responses.$inferInsert;
 
 // Define interfaces for external data
 export interface CategoryData {
@@ -39,4 +51,9 @@ export interface QuestionData {
   main_category: string;
   subcategory: string;
   difficulty: string;
+}
+
+export interface ResponseData {
+  question_id: string;
+  is_correct: boolean;
 }

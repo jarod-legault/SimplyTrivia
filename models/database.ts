@@ -133,8 +133,19 @@ const createTables = async () => {
     )
   `;
 
+  const createResponsesTable = `
+    CREATE TABLE IF NOT EXISTS responses (
+      id TEXT PRIMARY KEY NOT NULL,
+      question_id TEXT NOT NULL,
+      is_correct INTEGER NOT NULL,
+      created_at INTEGER NOT NULL,
+      FOREIGN KEY (question_id) REFERENCES questions(id)
+    )
+  `;
+
   try {
     await SQLiteProxy.execute(createQuestionsTable);
+    await SQLiteProxy.execute(createResponsesTable);
     console.log('Tables created or verified');
   } catch (error) {
     console.error('Error creating tables:', error);
