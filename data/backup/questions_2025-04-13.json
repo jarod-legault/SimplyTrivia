@@ -21418,5 +21418,3345 @@
     "created_at": "2025-04-14T01:21:06.099Z",
     "backupTimestamp": "2025-04-14T01:21:06.100Z",
     "localBackupTimestamp": "2025-04-13T19:21:06.100Z"
+  },
+  {
+    "question": "Which event marked the beginning of the Middle Ages?",
+    "correct_answer": "Fall of Western Roman Empire",
+    "incorrect_answers": [
+      "Norman Conquest",
+      "Charlemagne's coronation",
+      "First Crusade",
+      "Black Death",
+      "Magna Carta",
+      "Hundred Years War",
+      "Great Schism"
+    ],
+    "main_category": "History",
+    "subcategory": "Medieval History",
+    "difficulty": "easy",
+    "id": "7195ec48-ad63-4a84-b77f-b85b2eb1bf53",
+    "created_at": "2025-04-14T01:35:05.645Z",
+    "backupTimestamp": "2025-04-14T01:35:05.652Z",
+    "localBackupTimestamp": "2025-04-13T19:35:05.652Z"
+  },
+  {
+    "question": "What was the Black Death?",
+    "correct_answer": "Bubonic plague",
+    "incorrect_answers": [
+      "Great famine",
+      "Religious persecution",
+      "Civil war",
+      "Volcanic winter",
+      "Economic collapse",
+      "Viking invasion",
+      "Climate change"
+    ],
+    "main_category": "History",
+    "subcategory": "Medieval History",
+    "difficulty": "easy",
+    "id": "eadfc03b-3a0c-45be-8c12-4a6959eda7b4",
+    "created_at": "2025-04-14T01:35:05.664Z",
+    "backupTimestamp": "2025-04-14T01:35:05.665Z",
+    "localBackupTimestamp": "2025-04-13T19:35:05.665Z"
+  },
+  {
+    "question": "Who was crowned Holy Roman Emperor in 800 CE?",
+    "correct_answer": "Charlemagne",
+    "incorrect_answers": [
+      "Otto I",
+      "Frederick Barbarossa",
+      "Louis the Pious",
+      "Conrad II",
+      "Henry IV",
+      "Charles V",
+      "Maximilian I"
+    ],
+    "main_category": "History",
+    "subcategory": "Medieval History",
+    "difficulty": "easy",
+    "id": "8f6feb60-78b1-48ab-a010-b9260acf6b25",
+    "created_at": "2025-04-14T01:35:05.673Z",
+    "backupTimestamp": "2025-04-14T01:35:05.674Z",
+    "localBackupTimestamp": "2025-04-13T19:35:05.674Z"
+  },
+  {
+    "question": "What was a medieval knight's code of conduct called?",
+    "correct_answer": "Chivalry",
+    "incorrect_answers": [
+      "Feudalism",
+      "Nobility",
+      "Honor code",
+      "Knighthood",
+      "Valor code",
+      "Allegiance",
+      "Vassalage"
+    ],
+    "main_category": "History",
+    "subcategory": "Medieval History",
+    "difficulty": "easy",
+    "id": "46ef9c89-88ce-4a9b-bed3-a37e27d92527",
+    "created_at": "2025-04-14T01:35:05.691Z",
+    "backupTimestamp": "2025-04-14T01:35:05.692Z",
+    "localBackupTimestamp": "2025-04-13T19:35:05.692Z"
+  },
+  {
+    "question": "What document limited the power of the English king in 1215?",
+    "correct_answer": "Magna Carta",
+    "incorrect_answers": [
+      "Domesday Book",
+      "Bill of Rights",
+      "Common Law",
+      "Declaration of Rights",
+      "Constitution",
+      "Charter of the Forest",
+      "Golden Bull"
+    ],
+    "main_category": "History",
+    "subcategory": "Medieval History",
+    "difficulty": "easy",
+    "id": "f89995e8-a852-4dfb-92c1-a5e5c1e6fdda",
+    "created_at": "2025-04-14T01:35:05.697Z",
+    "backupTimestamp": "2025-04-14T01:35:05.698Z",
+    "localBackupTimestamp": "2025-04-13T19:35:05.698Z"
+  },
+  {
+    "question": "Which people were known for raids in the early Middle Ages?",
+    "correct_answer": "Vikings",
+    "incorrect_answers": [
+      "Normans",
+      "Saxons",
+      "Franks",
+      "Goths",
+      "Huns",
+      "Celts",
+      "Lombards"
+    ],
+    "main_category": "History",
+    "subcategory": "Medieval History",
+    "difficulty": "easy",
+    "id": "b84113cb-831d-4b94-8a30-a504e0eb5fd2",
+    "created_at": "2025-04-14T01:35:05.704Z",
+    "backupTimestamp": "2025-04-14T01:35:05.704Z",
+    "localBackupTimestamp": "2025-04-13T19:35:05.704Z"
+  },
+  {
+    "question": "Who was King of England during the Norman Conquest?",
+    "correct_answer": "Harold Godwinson",
+    "incorrect_answers": [
+      "Edward the Confessor",
+      "William the Conqueror",
+      "Alfred the Great",
+      "Canute",
+      "Ethelred",
+      "Edgar",
+      "Edmund II"
+    ],
+    "main_category": "History",
+    "subcategory": "Medieval History",
+    "difficulty": "easy",
+    "id": "37fa264d-12cc-45a6-add7-e7b0a65f3220",
+    "created_at": "2025-04-14T01:35:05.710Z",
+    "backupTimestamp": "2025-04-14T01:35:05.711Z",
+    "localBackupTimestamp": "2025-04-13T19:35:05.711Z"
+  },
+  {
+    "question": "What year was the Battle of Hastings?",
+    "correct_answer": "1066",
+    "incorrect_answers": [
+      "1086",
+      "1099",
+      "1215",
+      "911",
+      "955",
+      "1000",
+      "1189"
+    ],
+    "main_category": "History",
+    "subcategory": "Medieval History",
+    "difficulty": "easy",
+    "id": "e652fe28-01e3-4500-9818-71ca0e23aa3e",
+    "created_at": "2025-04-14T01:35:05.716Z",
+    "backupTimestamp": "2025-04-14T01:35:05.716Z",
+    "localBackupTimestamp": "2025-04-13T19:35:05.716Z"
+  },
+  {
+    "question": "What was the system of land ownership called in medieval Europe?",
+    "correct_answer": "Feudalism",
+    "incorrect_answers": [
+      "Capitalism",
+      "Manorialism",
+      "Communism",
+      "Mercantilism",
+      "Serfdom",
+      "Tribalism",
+      "Democracy"
+    ],
+    "main_category": "History",
+    "subcategory": "Medieval History",
+    "difficulty": "easy",
+    "id": "f65c035b-02b5-4d4f-9ea1-15e07ea9c914",
+    "created_at": "2025-04-14T01:35:05.722Z",
+    "backupTimestamp": "2025-04-14T01:35:05.723Z",
+    "localBackupTimestamp": "2025-04-13T19:35:05.723Z"
+  },
+  {
+    "question": "Which medieval queen was known as 'Eleanor of Aquitaine'?",
+    "correct_answer": "Queen of England and France",
+    "incorrect_answers": [
+      "Queen of Spain",
+      "Holy Roman Empress",
+      "Byzantine Empress",
+      "Queen of Scotland",
+      "Queen of Poland",
+      "Duchess of Burgundy",
+      "Princess of Kiev"
+    ],
+    "main_category": "History",
+    "subcategory": "Medieval History",
+    "difficulty": "easy",
+    "id": "3f6cf148-cb69-402c-a5bb-a71507ed84cb",
+    "created_at": "2025-04-14T01:35:05.728Z",
+    "backupTimestamp": "2025-04-14T01:35:05.729Z",
+    "localBackupTimestamp": "2025-04-13T19:35:05.729Z"
+  },
+  {
+    "question": "What was the main religion in medieval Europe?",
+    "correct_answer": "Christianity",
+    "incorrect_answers": [
+      "Islam",
+      "Judaism",
+      "Paganism",
+      "Zoroastrianism",
+      "Buddhism",
+      "Druidism",
+      "Manichaeism"
+    ],
+    "main_category": "History",
+    "subcategory": "Medieval History",
+    "difficulty": "easy",
+    "id": "ba0b3b5e-581a-4815-be56-c9091e354e43",
+    "created_at": "2025-04-14T01:35:05.734Z",
+    "backupTimestamp": "2025-04-14T01:35:05.734Z",
+    "localBackupTimestamp": "2025-04-13T19:35:05.734Z"
+  },
+  {
+    "question": "What conflict began in 1337 and lasted until 1453?",
+    "correct_answer": "Hundred Years' War",
+    "incorrect_answers": [
+      "Thirty Years' War",
+      "Crusades",
+      "War of the Roses",
+      "Reconquista",
+      "Byzantine-Seljuk Wars",
+      "Norman Conquest",
+      "Great Schism"
+    ],
+    "main_category": "History",
+    "subcategory": "Medieval History",
+    "difficulty": "easy",
+    "id": "4612452c-70bb-404b-92da-7427e6cb5b77",
+    "created_at": "2025-04-14T01:35:05.740Z",
+    "backupTimestamp": "2025-04-14T01:35:05.740Z",
+    "localBackupTimestamp": "2025-04-13T19:35:05.740Z"
+  },
+  {
+    "question": "Which medieval military expeditions targeted the Holy Land?",
+    "correct_answer": "Crusades",
+    "incorrect_answers": [
+      "Jihads",
+      "Reconquista",
+      "Viking raids",
+      "Mongol invasions",
+      "Holy wars",
+      "Pilgrimages",
+      "Trade missions"
+    ],
+    "main_category": "History",
+    "subcategory": "Medieval History",
+    "difficulty": "easy",
+    "id": "e94e2450-d697-4c7f-9c19-a62e6f23ebda",
+    "created_at": "2025-04-14T01:35:05.744Z",
+    "backupTimestamp": "2025-04-14T01:35:05.744Z",
+    "localBackupTimestamp": "2025-04-13T19:35:05.744Z"
+  },
+  {
+    "question": "What was the capital of the Byzantine Empire?",
+    "correct_answer": "Constantinople",
+    "incorrect_answers": [
+      "Rome",
+      "Athens",
+      "Alexandria",
+      "Antioch",
+      "Jerusalem",
+      "Ravenna",
+      "Thessalonica"
+    ],
+    "main_category": "History",
+    "subcategory": "Medieval History",
+    "difficulty": "easy",
+    "id": "1609bf00-97bb-4577-b839-1bc420b183ff",
+    "created_at": "2025-04-14T01:35:05.751Z",
+    "backupTimestamp": "2025-04-14T01:35:05.752Z",
+    "localBackupTimestamp": "2025-04-13T19:35:05.752Z"
+  },
+  {
+    "question": "Who assembled the Round Table knights?",
+    "correct_answer": "King Arthur",
+    "incorrect_answers": [
+      "Richard the Lionheart",
+      "Charlemagne",
+      "Edward III",
+      "Henry V",
+      "William the Conqueror",
+      "El Cid",
+      "Roland"
+    ],
+    "main_category": "History",
+    "subcategory": "Medieval History",
+    "difficulty": "easy",
+    "id": "2ea5be26-4f6a-40e6-8af4-c72699009c13",
+    "created_at": "2025-04-14T01:35:05.760Z",
+    "backupTimestamp": "2025-04-14T01:35:05.761Z",
+    "localBackupTimestamp": "2025-04-13T19:35:05.761Z"
+  },
+  {
+    "question": "What iconic medieval weapon was used at Agincourt?",
+    "correct_answer": "Longbow",
+    "incorrect_answers": [
+      "Crossbow",
+      "Catapult",
+      "Trebuchet",
+      "Pike",
+      "Halberd",
+      "Mace",
+      "Morning star"
+    ],
+    "main_category": "History",
+    "subcategory": "Medieval History",
+    "difficulty": "easy",
+    "id": "1fa5ef1e-2a90-4547-a418-554a7d2150fb",
+    "created_at": "2025-04-14T01:35:05.766Z",
+    "backupTimestamp": "2025-04-14T01:35:05.766Z",
+    "localBackupTimestamp": "2025-04-13T19:35:05.766Z"
+  },
+  {
+    "question": "What was a medieval farming estate called?",
+    "correct_answer": "Manor",
+    "incorrect_answers": [
+      "Castle",
+      "Village",
+      "Monastery",
+      "Commune",
+      "Borough",
+      "Hamlet",
+      "Parish"
+    ],
+    "main_category": "History",
+    "subcategory": "Medieval History",
+    "difficulty": "easy",
+    "id": "fc4cea7d-1b38-40c7-ab28-4fd268aad633",
+    "created_at": "2025-04-14T01:35:05.770Z",
+    "backupTimestamp": "2025-04-14T01:35:05.771Z",
+    "localBackupTimestamp": "2025-04-13T19:35:05.771Z"
+  },
+  {
+    "question": "Who led the First Crusade?",
+    "correct_answer": "Pope Urban II",
+    "incorrect_answers": [
+      "Richard the Lionheart",
+      "Frederick Barbarossa",
+      "Saint Louis",
+      "Saladin",
+      "Philip Augustus",
+      "Emperor Alexios",
+      "Peter the Hermit"
+    ],
+    "main_category": "History",
+    "subcategory": "Medieval History",
+    "difficulty": "easy",
+    "id": "c9360794-c082-45c2-930e-c8361338f808",
+    "created_at": "2025-04-14T01:35:05.776Z",
+    "backupTimestamp": "2025-04-14T01:35:05.777Z",
+    "localBackupTimestamp": "2025-04-13T19:35:05.777Z"
+  },
+  {
+    "question": "What prestigious university was founded around 1096?",
+    "correct_answer": "Oxford",
+    "incorrect_answers": [
+      "Cambridge",
+      "Paris",
+      "Bologna",
+      "Salamanca",
+      "Padua",
+      "Heidelberg",
+      "Prague"
+    ],
+    "main_category": "History",
+    "subcategory": "Medieval History",
+    "difficulty": "easy",
+    "id": "1183c57a-fd8f-413c-8f99-d96e7ff2ab30",
+    "created_at": "2025-04-14T01:35:05.782Z",
+    "backupTimestamp": "2025-04-14T01:35:05.782Z",
+    "localBackupTimestamp": "2025-04-13T19:35:05.782Z"
+  },
+  {
+    "question": "What was a common medieval punishment device?",
+    "correct_answer": "Stocks",
+    "incorrect_answers": [
+      "Electric chair",
+      "Gas chamber",
+      "Lethal injection",
+      "Firing squad",
+      "Guillotine",
+      "Iron maiden",
+      "Brazen bull"
+    ],
+    "main_category": "History",
+    "subcategory": "Medieval History",
+    "difficulty": "easy",
+    "id": "33fe3a53-90c4-4f22-aede-7f15bc5ebb9b",
+    "created_at": "2025-04-14T01:35:05.786Z",
+    "backupTimestamp": "2025-04-14T01:35:05.786Z",
+    "localBackupTimestamp": "2025-04-13T19:35:05.786Z"
+  },
+  {
+    "question": "What was the centerpiece of a medieval town?",
+    "correct_answer": "Market square",
+    "incorrect_answers": [
+      "Palace",
+      "Stadium",
+      "Shopping mall",
+      "Factory",
+      "University",
+      "Hospital",
+      "Theater"
+    ],
+    "main_category": "History",
+    "subcategory": "Medieval History",
+    "difficulty": "easy",
+    "id": "7c8eb4fb-19e4-495a-b1da-adaa9979377e",
+    "created_at": "2025-04-14T01:35:05.791Z",
+    "backupTimestamp": "2025-04-14T01:35:05.791Z",
+    "localBackupTimestamp": "2025-04-13T19:35:05.791Z"
+  },
+  {
+    "question": "What was the primary building material for castles?",
+    "correct_answer": "Stone",
+    "incorrect_answers": [
+      "Concrete",
+      "Steel",
+      "Plastic",
+      "Glass",
+      "Aluminum",
+      "Titanium",
+      "Copper"
+    ],
+    "main_category": "History",
+    "subcategory": "Medieval History",
+    "difficulty": "easy",
+    "id": "fb1083a2-d252-4712-89de-39000039731e",
+    "created_at": "2025-04-14T01:35:05.795Z",
+    "backupTimestamp": "2025-04-14T01:35:05.796Z",
+    "localBackupTimestamp": "2025-04-13T19:35:05.796Z"
+  },
+  {
+    "question": "Which nomadic people were led by Genghis Khan?",
+    "correct_answer": "Mongols",
+    "incorrect_answers": [
+      "Huns",
+      "Vikings",
+      "Vandals",
+      "Goths",
+      "Avars",
+      "Slavs",
+      "Turks"
+    ],
+    "main_category": "History",
+    "subcategory": "Medieval History",
+    "difficulty": "easy",
+    "id": "850506e8-63f1-41ab-a4cd-d1a40733bb30",
+    "created_at": "2025-04-14T01:35:05.802Z",
+    "backupTimestamp": "2025-04-14T01:35:05.802Z",
+    "localBackupTimestamp": "2025-04-13T19:35:05.802Z"
+  },
+  {
+    "question": "What was the main occupation of medieval peasants?",
+    "correct_answer": "Farming",
+    "incorrect_answers": [
+      "Mining",
+      "Trading",
+      "Fishing",
+      "Banking",
+      "Manufacturing",
+      "Tourism",
+      "Teaching"
+    ],
+    "main_category": "History",
+    "subcategory": "Medieval History",
+    "difficulty": "easy",
+    "id": "5d7a4d95-2ee3-44bf-91de-54938626afc9",
+    "created_at": "2025-04-14T01:35:05.806Z",
+    "backupTimestamp": "2025-04-14T01:35:05.806Z",
+    "localBackupTimestamp": "2025-04-13T19:35:05.806Z"
+  },
+  {
+    "question": "What medieval craft guild made bread?",
+    "correct_answer": "Bakers",
+    "incorrect_answers": [
+      "Butchers",
+      "Masons",
+      "Tanners",
+      "Weavers",
+      "Carpenters",
+      "Blacksmiths",
+      "Cobblers"
+    ],
+    "main_category": "History",
+    "subcategory": "Medieval History",
+    "difficulty": "easy",
+    "id": "4ac7ef6d-afc3-4943-8677-f5921b3203a4",
+    "created_at": "2025-04-14T01:35:05.811Z",
+    "backupTimestamp": "2025-04-14T01:35:05.812Z",
+    "localBackupTimestamp": "2025-04-13T19:35:05.812Z"
+  },
+  {
+    "question": "Who became king after the Wars of the Roses?",
+    "correct_answer": "Henry VII",
+    "incorrect_answers": [
+      "Richard III",
+      "Edward IV",
+      "Henry VI",
+      "Henry VIII",
+      "Edward V",
+      "Henry V",
+      "Edward III"
+    ],
+    "main_category": "History",
+    "subcategory": "Medieval History",
+    "difficulty": "easy",
+    "id": "72eaebd5-ea4a-4e66-bdc7-883ecfed7a91",
+    "created_at": "2025-04-14T01:35:05.815Z",
+    "backupTimestamp": "2025-04-14T01:35:05.816Z",
+    "localBackupTimestamp": "2025-04-13T19:35:05.816Z"
+  },
+  {
+    "question": "What fabric was highly prized in medieval Europe?",
+    "correct_answer": "Silk",
+    "incorrect_answers": [
+      "Polyester",
+      "Nylon",
+      "Rayon",
+      "Spandex",
+      "Acrylic",
+      "Lycra",
+      "Gore-Tex"
+    ],
+    "main_category": "History",
+    "subcategory": "Medieval History",
+    "difficulty": "easy",
+    "id": "67f11d41-8b96-4571-9b4b-0e7ddd604295",
+    "created_at": "2025-04-14T01:35:05.819Z",
+    "backupTimestamp": "2025-04-14T01:35:05.820Z",
+    "localBackupTimestamp": "2025-04-13T19:35:05.820Z"
+  },
+  {
+    "question": "Who wrote The Canterbury Tales?",
+    "correct_answer": "Geoffrey Chaucer",
+    "incorrect_answers": [
+      "William Shakespeare",
+      "John Milton",
+      "Thomas Malory",
+      "Dante Alighieri",
+      "Giovanni Boccaccio",
+      "Christine de Pizan",
+      "William Langland"
+    ],
+    "main_category": "History",
+    "subcategory": "Medieval History",
+    "difficulty": "easy",
+    "id": "08542016-4b80-4775-a774-43057d3ff24f",
+    "created_at": "2025-04-14T01:35:05.824Z",
+    "backupTimestamp": "2025-04-14T01:35:05.824Z",
+    "localBackupTimestamp": "2025-04-13T19:35:05.824Z"
+  },
+  {
+    "question": "What prevented bathing in medieval times?",
+    "correct_answer": "Religious beliefs",
+    "incorrect_answers": [
+      "Water shortage",
+      "Lack of soap",
+      "Skin diseases",
+      "Legal prohibition",
+      "Cold climate",
+      "Technological barriers",
+      "Royal decree"
+    ],
+    "main_category": "History",
+    "subcategory": "Medieval History",
+    "difficulty": "easy",
+    "id": "9e76fb8b-9403-46f8-b577-89c32296a31a",
+    "created_at": "2025-04-14T01:35:05.828Z",
+    "backupTimestamp": "2025-04-14T01:35:05.829Z",
+    "localBackupTimestamp": "2025-04-13T19:35:05.829Z"
+  },
+  {
+    "question": "Which dynasty ruled England from 1154 to 1485?",
+    "correct_answer": "Plantagenet",
+    "incorrect_answers": [
+      "Tudor",
+      "Stuart",
+      "Norman",
+      "Windsor",
+      "York",
+      "Lancaster",
+      "Hanover"
+    ],
+    "main_category": "History",
+    "subcategory": "Medieval History",
+    "difficulty": "easy",
+    "id": "4eed4321-3227-46f3-8403-e4e7295ff1dd",
+    "created_at": "2025-04-14T01:35:05.834Z",
+    "backupTimestamp": "2025-04-14T01:35:05.834Z",
+    "localBackupTimestamp": "2025-04-13T19:35:05.834Z"
+  },
+  {
+    "question": "What was a medieval foot soldier called?",
+    "correct_answer": "Infantryman",
+    "incorrect_answers": [
+      "Knight",
+      "Cavalier",
+      "Dragoon",
+      "Tank",
+      "Commando",
+      "Marine",
+      "Paratrooper"
+    ],
+    "main_category": "History",
+    "subcategory": "Medieval History",
+    "difficulty": "easy",
+    "id": "7bdd0a24-d7a1-4038-8c2f-6061b7e293fa",
+    "created_at": "2025-04-14T01:35:05.844Z",
+    "backupTimestamp": "2025-04-14T01:35:05.844Z",
+    "localBackupTimestamp": "2025-04-13T19:35:05.844Z"
+  },
+  {
+    "question": "What crop failure caused the Great Famine of 1315-1317?",
+    "correct_answer": "Grain",
+    "incorrect_answers": [
+      "Potatoes",
+      "Tomatoes",
+      "Corn",
+      "Rice",
+      "Cassava",
+      "Squash",
+      "Sweet potatoes"
+    ],
+    "main_category": "History",
+    "subcategory": "Medieval History",
+    "difficulty": "easy",
+    "id": "d2da2448-d454-4cdc-a19e-916553075ee4",
+    "created_at": "2025-04-14T01:35:05.851Z",
+    "backupTimestamp": "2025-04-14T01:35:05.851Z",
+    "localBackupTimestamp": "2025-04-13T19:35:05.851Z"
+  },
+  {
+    "question": "What medieval leader was known as 'The Great'?",
+    "correct_answer": "Alfred",
+    "incorrect_answers": [
+      "William",
+      "Edward",
+      "Richard",
+      "Henry",
+      "John",
+      "Thomas",
+      "Stephen"
+    ],
+    "main_category": "History",
+    "subcategory": "Medieval History",
+    "difficulty": "easy",
+    "id": "6b220dbd-56d5-4757-b9f1-6d4de6d9d465",
+    "created_at": "2025-04-14T01:35:05.856Z",
+    "backupTimestamp": "2025-04-14T01:35:05.856Z",
+    "localBackupTimestamp": "2025-04-13T19:35:05.856Z"
+  },
+  {
+    "question": "What disease was known as 'The White Plague'?",
+    "correct_answer": "Tuberculosis",
+    "incorrect_answers": [
+      "Smallpox",
+      "Measles",
+      "COVID-19",
+      "AIDS",
+      "Ebola",
+      "Influenza",
+      "Malaria"
+    ],
+    "main_category": "History",
+    "subcategory": "Medieval History",
+    "difficulty": "easy",
+    "id": "14680f7d-4217-493c-8df6-7eed65007eb4",
+    "created_at": "2025-04-14T01:35:05.861Z",
+    "backupTimestamp": "2025-04-14T01:35:05.861Z",
+    "localBackupTimestamp": "2025-04-13T19:35:05.861Z"
+  },
+  {
+    "question": "What was a common medieval musical instrument?",
+    "correct_answer": "Lute",
+    "incorrect_answers": [
+      "Piano",
+      "Saxophone",
+      "Electric guitar",
+      "Synthesizer",
+      "Accordion",
+      "Banjo",
+      "Trombone"
+    ],
+    "main_category": "History",
+    "subcategory": "Medieval History",
+    "difficulty": "easy",
+    "id": "45a09fac-bf51-4c9e-8534-ef5eb3884cd5",
+    "created_at": "2025-04-14T01:35:05.865Z",
+    "backupTimestamp": "2025-04-14T01:35:05.866Z",
+    "localBackupTimestamp": "2025-04-13T19:35:05.866Z"
+  },
+  {
+    "question": "What was recaptured in the Reconquista?",
+    "correct_answer": "Iberian Peninsula",
+    "incorrect_answers": [
+      "Holy Land",
+      "Constantinople",
+      "Rome",
+      "Alexandria",
+      "Jerusalem",
+      "Antioch",
+      "Britain"
+    ],
+    "main_category": "History",
+    "subcategory": "Medieval History",
+    "difficulty": "easy",
+    "id": "233a6000-f4f4-4bb4-b1f5-48eaf9579782",
+    "created_at": "2025-04-14T01:35:05.869Z",
+    "backupTimestamp": "2025-04-14T01:35:05.870Z",
+    "localBackupTimestamp": "2025-04-13T19:35:05.870Z"
+  },
+  {
+    "question": "What does a medieval herald do?",
+    "correct_answer": "Make proclamations",
+    "incorrect_answers": [
+      "Bake bread",
+      "Treat wounds",
+      "Build castles",
+      "Farm land",
+      "Command armies",
+      "Brew beer",
+      "Make armor"
+    ],
+    "main_category": "History",
+    "subcategory": "Medieval History",
+    "difficulty": "easy",
+    "id": "cbfe2f00-0dfc-42e4-a75e-50284614d431",
+    "created_at": "2025-04-14T01:35:05.875Z",
+    "backupTimestamp": "2025-04-14T01:35:05.875Z",
+    "localBackupTimestamp": "2025-04-13T19:35:05.875Z"
+  },
+  {
+    "question": "What happened in Europe in 1054?",
+    "correct_answer": "Great Schism",
+    "incorrect_answers": [
+      "Black Death",
+      "First Crusade",
+      "Magna Carta",
+      "Norman Conquest",
+      "Fall of Constantinople",
+      "Hundred Years War",
+      "War of the Roses"
+    ],
+    "main_category": "History",
+    "subcategory": "Medieval History",
+    "difficulty": "easy",
+    "id": "978e007e-162e-4ff4-94cb-05a1a8c0671e",
+    "created_at": "2025-04-14T01:35:05.879Z",
+    "backupTimestamp": "2025-04-14T01:35:05.880Z",
+    "localBackupTimestamp": "2025-04-13T19:35:05.880Z"
+  },
+  {
+    "question": "Which civilization built Chichen Itza?",
+    "correct_answer": "Maya",
+    "incorrect_answers": [
+      "Aztec",
+      "Inca",
+      "Olmec",
+      "Toltec",
+      "Zapotec",
+      "Mixtec",
+      "Tarascan"
+    ],
+    "main_category": "History",
+    "subcategory": "Medieval History",
+    "difficulty": "easy",
+    "id": "635f667d-856a-4a43-b081-5a92047dd4b6",
+    "created_at": "2025-04-14T01:35:05.883Z",
+    "backupTimestamp": "2025-04-14T01:35:05.884Z",
+    "localBackupTimestamp": "2025-04-13T19:35:05.884Z"
+  },
+  {
+    "question": "What was a medieval town's protective barrier?",
+    "correct_answer": "Wall",
+    "incorrect_answers": [
+      "Force field",
+      "Electric fence",
+      "Barbed wire",
+      "Laser grid",
+      "Mine field",
+      "Security cameras",
+      "Guard dogs"
+    ],
+    "main_category": "History",
+    "subcategory": "Medieval History",
+    "difficulty": "easy",
+    "id": "254a72ee-2148-4226-82e6-9f019c095a42",
+    "created_at": "2025-04-14T01:35:05.888Z",
+    "backupTimestamp": "2025-04-14T01:35:05.888Z",
+    "localBackupTimestamp": "2025-04-13T19:35:05.888Z"
+  },
+  {
+    "question": "Who founded the Mali Empire?",
+    "correct_answer": "Sundiata Keita",
+    "incorrect_answers": [
+      "Mansa Musa",
+      "Askia Muhammad",
+      "Sonni Ali",
+      "Idris Alooma",
+      "Ewuare the Great",
+      "Sunni Baru",
+      "Kankan Musa"
+    ],
+    "main_category": "History",
+    "subcategory": "Medieval History",
+    "difficulty": "easy",
+    "id": "6e0edcda-fca9-488f-9f9e-6fc839d1049e",
+    "created_at": "2025-04-14T01:35:05.892Z",
+    "backupTimestamp": "2025-04-14T01:35:05.892Z",
+    "localBackupTimestamp": "2025-04-13T19:35:05.892Z"
+  },
+  {
+    "question": "What type of government did medieval Venice have?",
+    "correct_answer": "Republic",
+    "incorrect_answers": [
+      "Absolute monarchy",
+      "Democracy",
+      "Communist state",
+      "Dictatorship",
+      "Theocracy",
+      "Military junta",
+      "Fascist regime"
+    ],
+    "main_category": "History",
+    "subcategory": "Medieval History",
+    "difficulty": "easy",
+    "id": "27bc959a-8376-4a8a-b5ab-12b4cd494aa5",
+    "created_at": "2025-04-14T01:35:05.896Z",
+    "backupTimestamp": "2025-04-14T01:35:05.896Z",
+    "localBackupTimestamp": "2025-04-13T19:35:05.896Z"
+  },
+  {
+    "question": "What was the main battle tactic of medieval knights?",
+    "correct_answer": "Charge",
+    "incorrect_answers": [
+      "Air strike",
+      "Tank assault",
+      "Naval bombardment",
+      "Guerrilla warfare",
+      "Trench warfare",
+      "Nuclear strike",
+      "Chemical warfare"
+    ],
+    "main_category": "History",
+    "subcategory": "Medieval History",
+    "difficulty": "easy",
+    "id": "b763dbc8-4e5f-476e-9f7a-a2bd895a6d88",
+    "created_at": "2025-04-14T01:35:05.901Z",
+    "backupTimestamp": "2025-04-14T01:35:05.901Z",
+    "localBackupTimestamp": "2025-04-13T19:35:05.901Z"
+  },
+  {
+    "question": "Who was the Byzantine emperor during the First Crusade?",
+    "correct_answer": "Alexios I Komnenos",
+    "incorrect_answers": [
+      "Constantine XI",
+      "Justinian",
+      "Basil II",
+      "Heraclius",
+      "Leo III",
+      "Theodosius II",
+      "Michael VIII"
+    ],
+    "main_category": "History",
+    "subcategory": "Medieval History",
+    "difficulty": "easy",
+    "id": "56c457a4-9cee-4609-8166-dc0d96e0981a",
+    "created_at": "2025-04-14T01:35:05.905Z",
+    "backupTimestamp": "2025-04-14T01:35:05.905Z",
+    "localBackupTimestamp": "2025-04-13T19:35:05.905Z"
+  },
+  {
+    "question": "What was the main form of medieval entertainment?",
+    "correct_answer": "Festivals",
+    "incorrect_answers": [
+      "Television",
+      "Video games",
+      "Movies",
+      "Social media",
+      "Radio",
+      "Theme parks",
+      "Sports stadiums"
+    ],
+    "main_category": "History",
+    "subcategory": "Medieval History",
+    "difficulty": "easy",
+    "id": "5fc0b211-8e5e-48b4-9b01-d6f64bb64dac",
+    "created_at": "2025-04-14T01:35:05.909Z",
+    "backupTimestamp": "2025-04-14T01:35:05.909Z",
+    "localBackupTimestamp": "2025-04-13T19:35:05.909Z"
+  },
+  {
+    "question": "Which pope called for the First Crusade?",
+    "correct_answer": "Urban II",
+    "incorrect_answers": [
+      "Innocent III",
+      "Gregory VII",
+      "Clement V",
+      "Alexander III",
+      "Benedict IX",
+      "John XXII",
+      "Boniface VIII"
+    ],
+    "main_category": "History",
+    "subcategory": "Medieval History",
+    "difficulty": "easy",
+    "id": "b4f406e5-9f16-456e-a6bd-7f4c3fe04bc1",
+    "created_at": "2025-04-14T01:35:05.913Z",
+    "backupTimestamp": "2025-04-14T01:35:05.913Z",
+    "localBackupTimestamp": "2025-04-13T19:35:05.913Z"
+  },
+  {
+    "question": "What was a medieval doctor called?",
+    "correct_answer": "Physician",
+    "incorrect_answers": [
+      "Surgeon",
+      "Anesthesiologist",
+      "Radiologist",
+      "Psychiatrist",
+      "Neurologist",
+      "Cardiologist",
+      "Pediatrician"
+    ],
+    "main_category": "History",
+    "subcategory": "Medieval History",
+    "difficulty": "easy",
+    "id": "b1b2dd83-9f14-4527-b1d3-93c2ea06b6a3",
+    "created_at": "2025-04-14T01:35:05.917Z",
+    "backupTimestamp": "2025-04-14T01:35:05.917Z",
+    "localBackupTimestamp": "2025-04-13T19:35:05.917Z"
+  },
+  {
+    "question": "What year did the Western Roman Empire fall?",
+    "correct_answer": "476 CE",
+    "incorrect_answers": [
+      "410 CE",
+      "500 CE",
+      "527 CE",
+      "565 CE",
+      "632 CE",
+      "711 CE",
+      "800 CE"
+    ],
+    "main_category": "History",
+    "subcategory": "Medieval History",
+    "difficulty": "easy",
+    "id": "6af07a06-3688-4594-a44f-4c111a74d03d",
+    "created_at": "2025-04-14T01:35:05.921Z",
+    "backupTimestamp": "2025-04-14T01:35:05.921Z",
+    "localBackupTimestamp": "2025-04-13T19:35:05.921Z"
+  },
+  {
+    "question": "What was the staple food of the medieval peasant diet?",
+    "correct_answer": "Bread",
+    "incorrect_answers": [
+      "Hamburgers",
+      "Pizza",
+      "Pasta",
+      "Sushi",
+      "Tacos",
+      "Curry",
+      "Hot dogs"
+    ],
+    "main_category": "History",
+    "subcategory": "Medieval History",
+    "difficulty": "easy",
+    "id": "7b6f48bd-3586-4335-a388-f89efc28bc1a",
+    "created_at": "2025-04-14T01:35:05.926Z",
+    "backupTimestamp": "2025-04-14T01:35:05.927Z",
+    "localBackupTimestamp": "2025-04-13T19:35:05.927Z"
+  },
+  {
+    "question": "What was a medieval court entertainer called?",
+    "correct_answer": "Jester",
+    "incorrect_answers": [
+      "Comedian",
+      "Actor",
+      "Dancer",
+      "DJ",
+      "VJ",
+      "MC",
+      "Talk show host"
+    ],
+    "main_category": "History",
+    "subcategory": "Medieval History",
+    "difficulty": "easy",
+    "id": "4cc884c3-3c1e-47fa-b395-6ea60a19b76a",
+    "created_at": "2025-04-14T01:35:05.931Z",
+    "backupTimestamp": "2025-04-14T01:35:05.931Z",
+    "localBackupTimestamp": "2025-04-13T19:35:05.931Z"
+  },
+  {
+    "question": "Who was Joan of Arc?",
+    "correct_answer": "French military leader",
+    "incorrect_answers": [
+      "English queen",
+      "Spanish princess",
+      "Italian saint",
+      "German nun",
+      "Scottish rebel",
+      "Irish poet",
+      "Welsh prophetess"
+    ],
+    "main_category": "History",
+    "subcategory": "Medieval History",
+    "difficulty": "easy",
+    "id": "e48f29ae-5600-4d1e-a6da-4642bd7ef2ab",
+    "created_at": "2025-04-14T01:35:05.935Z",
+    "backupTimestamp": "2025-04-14T01:35:05.936Z",
+    "localBackupTimestamp": "2025-04-13T19:35:05.936Z"
+  },
+  {
+    "question": "What medieval weapon fired large stones?",
+    "correct_answer": "Trebuchet",
+    "incorrect_answers": [
+      "Machine gun",
+      "Tank",
+      "Missile launcher",
+      "Flame thrower",
+      "Grenade",
+      "Land mine",
+      "Rocket launcher"
+    ],
+    "main_category": "History",
+    "subcategory": "Medieval History",
+    "difficulty": "easy",
+    "id": "a6449ca2-2a59-458b-9c23-c99ae109bdfe",
+    "created_at": "2025-04-14T01:35:05.940Z",
+    "backupTimestamp": "2025-04-14T01:35:05.940Z",
+    "localBackupTimestamp": "2025-04-13T19:35:05.940Z"
+  },
+  {
+    "question": "What religion emerged from the Arabian Peninsula?",
+    "correct_answer": "Islam",
+    "incorrect_answers": [
+      "Hinduism",
+      "Buddhism",
+      "Shintoism",
+      "Taoism",
+      "Confucianism",
+      "Sikhism",
+      "Jainism"
+    ],
+    "main_category": "History",
+    "subcategory": "Medieval History",
+    "difficulty": "easy",
+    "id": "a402b443-ec13-4d43-9133-169b4059a893",
+    "created_at": "2025-04-14T01:35:05.944Z",
+    "backupTimestamp": "2025-04-14T01:35:05.945Z",
+    "localBackupTimestamp": "2025-04-13T19:35:05.945Z"
+  },
+  {
+    "question": "Who fought at the Battle of Tours in 732 CE?",
+    "correct_answer": "Franks and Umayyads",
+    "incorrect_answers": [
+      "British and French",
+      "Romans and Huns",
+      "Greeks and Persians",
+      "Russians and Mongols",
+      "Spanish and Portuguese",
+      "Italians and Germans",
+      "Vikings and Saxons"
+    ],
+    "main_category": "History",
+    "subcategory": "Medieval History",
+    "difficulty": "easy",
+    "id": "09046c34-1b5e-43ef-9b67-f6476300be39",
+    "created_at": "2025-04-14T01:35:05.948Z",
+    "backupTimestamp": "2025-04-14T01:35:05.948Z",
+    "localBackupTimestamp": "2025-04-13T19:35:05.948Z"
+  },
+  {
+    "question": "What trade route connected Europe and Asia?",
+    "correct_answer": "Silk Road",
+    "incorrect_answers": [
+      "Highway 66",
+      "Panama Canal",
+      "Suez Canal",
+      "Trans-Siberian Railway",
+      "Interstate Highway",
+      "Autobahn",
+      "Underground Railroad"
+    ],
+    "main_category": "History",
+    "subcategory": "Medieval History",
+    "difficulty": "easy",
+    "id": "6c61d58f-9bbc-41c1-ab7c-469331f525e3",
+    "created_at": "2025-04-14T01:35:05.954Z",
+    "backupTimestamp": "2025-04-14T01:35:05.955Z",
+    "localBackupTimestamp": "2025-04-13T19:35:05.955Z"
+  },
+  {
+    "question": "What medieval group practiced medicine and copied books?",
+    "correct_answer": "Monks",
+    "incorrect_answers": [
+      "Knights",
+      "Peasants",
+      "Merchants",
+      "Nobles",
+      "Serfs",
+      "Minstrels",
+      "Craftsmen"
+    ],
+    "main_category": "History",
+    "subcategory": "Medieval History",
+    "difficulty": "easy",
+    "id": "b189859c-c27c-4fc3-86e0-bebdc0344b75",
+    "created_at": "2025-04-14T01:35:05.964Z",
+    "backupTimestamp": "2025-04-14T01:35:05.965Z",
+    "localBackupTimestamp": "2025-04-13T19:35:05.965Z"
+  },
+  {
+    "question": "Which medieval king was known as 'The Lionheart'?",
+    "correct_answer": "Richard I",
+    "incorrect_answers": [
+      "Henry II",
+      "John",
+      "Edward I",
+      "Henry V",
+      "Henry VIII",
+      "Edward III",
+      "William I"
+    ],
+    "main_category": "History",
+    "subcategory": "Medieval History",
+    "difficulty": "medium",
+    "id": "452f229b-e1c1-4a6a-9d18-2ac6d0701300",
+    "created_at": "2025-04-14T01:38:50.360Z",
+    "backupTimestamp": "2025-04-14T01:38:50.361Z",
+    "localBackupTimestamp": "2025-04-13T19:38:50.361Z"
+  },
+  {
+    "question": "What was the name of Charlemagne's dynasty?",
+    "correct_answer": "Carolingian",
+    "incorrect_answers": [
+      "Merovingian",
+      "Capetian",
+      "Habsburg",
+      "Hohenstaufen",
+      "Valois",
+      "Plantagenet",
+      "Ottonian"
+    ],
+    "main_category": "History",
+    "subcategory": "Medieval History",
+    "difficulty": "medium",
+    "id": "9edba86a-39ef-49dd-a91d-abd1ceef3dea",
+    "created_at": "2025-04-14T01:38:50.382Z",
+    "backupTimestamp": "2025-04-14T01:38:50.383Z",
+    "localBackupTimestamp": "2025-04-13T19:38:50.383Z"
+  },
+  {
+    "question": "In what year did the Fourth Crusade sack Constantinople?",
+    "correct_answer": "1204",
+    "incorrect_answers": [
+      "1096",
+      "1147",
+      "1189",
+      "1217",
+      "1271",
+      "1291",
+      "1099"
+    ],
+    "main_category": "History",
+    "subcategory": "Medieval History",
+    "difficulty": "medium",
+    "id": "a385123d-653f-4bd3-b008-5a4f5600bc23",
+    "created_at": "2025-04-14T01:38:50.392Z",
+    "backupTimestamp": "2025-04-14T01:38:50.393Z",
+    "localBackupTimestamp": "2025-04-13T19:38:50.393Z"
+  },
+  {
+    "question": "What was Saladin's political title?",
+    "correct_answer": "Sultan",
+    "incorrect_answers": [
+      "Caliph",
+      "Emir",
+      "Shah",
+      "King",
+      "Emperor",
+      "Vizier",
+      "Imam"
+    ],
+    "main_category": "History",
+    "subcategory": "Medieval History",
+    "difficulty": "medium",
+    "id": "4fe30025-fe44-480e-b680-54708104cb5b",
+    "created_at": "2025-04-14T01:38:50.400Z",
+    "backupTimestamp": "2025-04-14T01:38:50.401Z",
+    "localBackupTimestamp": "2025-04-13T19:38:50.401Z"
+  },
+  {
+    "question": "Which English king was defeated at Bannockburn?",
+    "correct_answer": "Edward II",
+    "incorrect_answers": [
+      "Edward I",
+      "Edward III",
+      "Henry III",
+      "Richard II",
+      "Henry IV",
+      "John",
+      "Henry II"
+    ],
+    "main_category": "History",
+    "subcategory": "Medieval History",
+    "difficulty": "medium",
+    "id": "4cdddc6b-fe15-48a7-bed9-17717462161d",
+    "created_at": "2025-04-14T01:38:50.407Z",
+    "backupTimestamp": "2025-04-14T01:38:50.408Z",
+    "localBackupTimestamp": "2025-04-13T19:38:50.408Z"
+  },
+  {
+    "question": "Who created the Domesday Book?",
+    "correct_answer": "William the Conqueror",
+    "incorrect_answers": [
+      "Edward the Confessor",
+      "Alfred the Great",
+      "Henry II",
+      "Richard I",
+      "King John",
+      "Edward I",
+      "Canute"
+    ],
+    "main_category": "History",
+    "subcategory": "Medieval History",
+    "difficulty": "medium",
+    "id": "06b01777-29e3-4081-93aa-52ed6d06ca5c",
+    "created_at": "2025-04-14T01:38:50.415Z",
+    "backupTimestamp": "2025-04-14T01:38:50.416Z",
+    "localBackupTimestamp": "2025-04-13T19:38:50.416Z"
+  },
+  {
+    "question": "Which disease killed one-third of Europe's population?",
+    "correct_answer": "Bubonic plague",
+    "incorrect_answers": [
+      "Smallpox",
+      "Typhoid",
+      "Cholera",
+      "Tuberculosis",
+      "Leprosy",
+      "Dysentery",
+      "Influenza"
+    ],
+    "main_category": "History",
+    "subcategory": "Medieval History",
+    "difficulty": "medium",
+    "id": "fd111ff7-4a1f-462f-ab8a-3dbcd5deb8f3",
+    "created_at": "2025-04-14T01:38:50.426Z",
+    "backupTimestamp": "2025-04-14T01:38:50.427Z",
+    "localBackupTimestamp": "2025-04-13T19:38:50.427Z"
+  },
+  {
+    "question": "What city was the center of Byzantine Empire?",
+    "correct_answer": "Constantinople",
+    "incorrect_answers": [
+      "Rome",
+      "Athens",
+      "Jerusalem",
+      "Alexandria",
+      "Antioch",
+      "Ravenna",
+      "Thessalonica"
+    ],
+    "main_category": "History",
+    "subcategory": "Medieval History",
+    "difficulty": "medium",
+    "id": "0105e629-b04a-4496-bf31-3a7fb1e472c6",
+    "created_at": "2025-04-14T01:38:50.447Z",
+    "backupTimestamp": "2025-04-14T01:38:50.448Z",
+    "localBackupTimestamp": "2025-04-13T19:38:50.448Z"
+  },
+  {
+    "question": "Who won the Battle of Bosworth Field in 1485?",
+    "correct_answer": "Henry Tudor",
+    "incorrect_answers": [
+      "Richard III",
+      "Edward IV",
+      "Henry VI",
+      "Edward V",
+      "Henry IV",
+      "Henry VII",
+      "Edward III"
+    ],
+    "main_category": "History",
+    "subcategory": "Medieval History",
+    "difficulty": "medium",
+    "id": "e28205c2-bf93-4a44-ba3e-7c40391a53e8",
+    "created_at": "2025-04-14T01:38:50.454Z",
+    "backupTimestamp": "2025-04-14T01:38:50.454Z",
+    "localBackupTimestamp": "2025-04-13T19:38:50.454Z"
+  },
+  {
+    "question": "Which university was founded first?",
+    "correct_answer": "University of Bologna",
+    "incorrect_answers": [
+      "Oxford University",
+      "University of Paris",
+      "Cambridge University",
+      "University of Salamanca",
+      "University of Padua",
+      "University of Naples",
+      "University of Coimbra"
+    ],
+    "main_category": "History",
+    "subcategory": "Medieval History",
+    "difficulty": "medium",
+    "id": "bc8eab2c-3b76-4411-9ecc-dd7b8aa3aa82",
+    "created_at": "2025-04-14T01:38:50.463Z",
+    "backupTimestamp": "2025-04-14T01:38:50.464Z",
+    "localBackupTimestamp": "2025-04-13T19:38:50.464Z"
+  },
+  {
+    "question": "Who was the first Holy Roman Emperor?",
+    "correct_answer": "Otto I",
+    "incorrect_answers": [
+      "Charlemagne",
+      "Frederick I",
+      "Conrad I",
+      "Henry IV",
+      "Frederick II",
+      "Louis IV",
+      "Charles IV"
+    ],
+    "main_category": "History",
+    "subcategory": "Medieval History",
+    "difficulty": "medium",
+    "id": "fb2d4ba7-e710-4d0f-8b46-a74ca26966cd",
+    "created_at": "2025-04-14T01:38:50.474Z",
+    "backupTimestamp": "2025-04-14T01:38:50.474Z",
+    "localBackupTimestamp": "2025-04-13T19:38:50.474Z"
+  },
+  {
+    "question": "What agreement ended the Investiture Controversy?",
+    "correct_answer": "Concordat of Worms",
+    "incorrect_answers": [
+      "Treaty of Verdun",
+      "Diet of Worms",
+      "Peace of Augsburg",
+      "Edict of Milan",
+      "Treaty of Paris",
+      "Dictatus Papae",
+      "Fourth Lateran Council"
+    ],
+    "main_category": "History",
+    "subcategory": "Medieval History",
+    "difficulty": "medium",
+    "id": "804144b5-f389-4fb7-ae15-143dfd781836",
+    "created_at": "2025-04-14T01:38:50.479Z",
+    "backupTimestamp": "2025-04-14T01:38:50.480Z",
+    "localBackupTimestamp": "2025-04-13T19:38:50.480Z"
+  },
+  {
+    "question": "Which medieval conflict lasted from 1337 to 1453?",
+    "correct_answer": "Hundred Years' War",
+    "incorrect_answers": [
+      "Thirty Years' War",
+      "War of the Roses",
+      "Crusades",
+      "Byzantine-Seljuk Wars",
+      "Norman Conquest",
+      "Reconquista",
+      "Great Schism"
+    ],
+    "main_category": "History",
+    "subcategory": "Medieval History",
+    "difficulty": "medium",
+    "id": "e6b57b4d-1413-488a-9e03-636d498a2579",
+    "created_at": "2025-04-14T01:38:50.486Z",
+    "backupTimestamp": "2025-04-14T01:38:50.486Z",
+    "localBackupTimestamp": "2025-04-13T19:38:50.486Z"
+  },
+  {
+    "question": "What was the Battle of Agincourt's significance?",
+    "correct_answer": "English longbow victory",
+    "incorrect_answers": [
+      "First use of cannons",
+      "End of Hundred Years' War",
+      "Death of Henry V",
+      "French naval defeat",
+      "Peace treaty signed",
+      "Start of English Civil War",
+      "Joan of Arc's capture"
+    ],
+    "main_category": "History",
+    "subcategory": "Medieval History",
+    "difficulty": "medium",
+    "id": "7588b041-d365-453a-9f63-33d2e8e27ccc",
+    "created_at": "2025-04-14T01:38:50.492Z",
+    "backupTimestamp": "2025-04-14T01:38:50.492Z",
+    "localBackupTimestamp": "2025-04-13T19:38:50.492Z"
+  },
+  {
+    "question": "What medieval emperor was known as 'Barbarossa'?",
+    "correct_answer": "Frederick I",
+    "incorrect_answers": [
+      "Conrad III",
+      "Otto IV",
+      "Henry VI",
+      "Frederick II",
+      "Charles IV",
+      "Sigismund",
+      "Maximilian I"
+    ],
+    "main_category": "History",
+    "subcategory": "Medieval History",
+    "difficulty": "medium",
+    "id": "118e3c13-77e0-4e6f-adfb-08bd3a5ca23b",
+    "created_at": "2025-04-14T01:38:50.497Z",
+    "backupTimestamp": "2025-04-14T01:38:50.497Z",
+    "localBackupTimestamp": "2025-04-13T19:38:50.497Z"
+  },
+  {
+    "question": "Which king signed the Magna Carta?",
+    "correct_answer": "King John",
+    "incorrect_answers": [
+      "Richard I",
+      "Henry III",
+      "Edward I",
+      "Henry II",
+      "William the Conqueror",
+      "Edward III",
+      "Henry I"
+    ],
+    "main_category": "History",
+    "subcategory": "Medieval History",
+    "difficulty": "medium",
+    "id": "37a5cb49-b9e1-421f-83bf-521c586215af",
+    "created_at": "2025-04-14T01:38:50.502Z",
+    "backupTimestamp": "2025-04-14T01:38:50.502Z",
+    "localBackupTimestamp": "2025-04-13T19:38:50.502Z"
+  },
+  {
+    "question": "What was the highest military order in medieval England?",
+    "correct_answer": "Order of the Garter",
+    "incorrect_answers": [
+      "Order of the Bath",
+      "Order of the Thistle",
+      "Order of St. Patrick",
+      "Order of Merit",
+      "Order of the Star",
+      "Order of the Golden Fleece",
+      "Order of St. Michael"
+    ],
+    "main_category": "History",
+    "subcategory": "Medieval History",
+    "difficulty": "medium",
+    "id": "09d01715-4017-4bb4-b91e-e58ba365084c",
+    "created_at": "2025-04-14T01:38:50.507Z",
+    "backupTimestamp": "2025-04-14T01:38:50.507Z",
+    "localBackupTimestamp": "2025-04-13T19:38:50.507Z"
+  },
+  {
+    "question": "Which Khan conquered the largest land empire?",
+    "correct_answer": "Genghis Khan",
+    "incorrect_answers": [
+      "Kublai Khan",
+      "Hulagu Khan",
+      "Batu Khan",
+      "Ogedei Khan",
+      "Chagatai Khan",
+      "Mongke Khan",
+      "Jochi Khan"
+    ],
+    "main_category": "History",
+    "subcategory": "Medieval History",
+    "difficulty": "medium",
+    "id": "bb2ac32a-158d-492e-a3fd-68682937a12e",
+    "created_at": "2025-04-14T01:38:50.513Z",
+    "backupTimestamp": "2025-04-14T01:38:50.513Z",
+    "localBackupTimestamp": "2025-04-13T19:38:50.513Z"
+  },
+  {
+    "question": "What was the capital of the Frankish Empire?",
+    "correct_answer": "Aachen",
+    "incorrect_answers": [
+      "Paris",
+      "Rome",
+      "Frankfurt",
+      "Reims",
+      "Mainz",
+      "Tours",
+      "Lyon"
+    ],
+    "main_category": "History",
+    "subcategory": "Medieval History",
+    "difficulty": "medium",
+    "id": "4dd37520-d11a-4f82-a4d8-002722d3a6a5",
+    "created_at": "2025-04-14T01:38:50.518Z",
+    "backupTimestamp": "2025-04-14T01:38:50.518Z",
+    "localBackupTimestamp": "2025-04-13T19:38:50.518Z"
+  },
+  {
+    "question": "Which monastic order was founded by St. Benedict?",
+    "correct_answer": "Benedictine",
+    "incorrect_answers": [
+      "Franciscan",
+      "Dominican",
+      "Cistercian",
+      "Carmelite",
+      "Augustinian",
+      "Jesuit",
+      "Carthusian"
+    ],
+    "main_category": "History",
+    "subcategory": "Medieval History",
+    "difficulty": "medium",
+    "id": "f7bdb64a-8005-402b-a978-272d8fa2ffdd",
+    "created_at": "2025-04-14T01:38:50.522Z",
+    "backupTimestamp": "2025-04-14T01:38:50.522Z",
+    "localBackupTimestamp": "2025-04-13T19:38:50.522Z"
+  },
+  {
+    "question": "What was the language of medieval scholarship?",
+    "correct_answer": "Latin",
+    "incorrect_answers": [
+      "Greek",
+      "Hebrew",
+      "Arabic",
+      "French",
+      "German",
+      "English",
+      "Italian"
+    ],
+    "main_category": "History",
+    "subcategory": "Medieval History",
+    "difficulty": "medium",
+    "id": "a2569e33-4c2a-4856-8351-ca1fb3b033f4",
+    "created_at": "2025-04-14T01:38:50.528Z",
+    "backupTimestamp": "2025-04-14T01:38:50.528Z",
+    "localBackupTimestamp": "2025-04-13T19:38:50.528Z"
+  },
+  {
+    "question": "What major event occurred in 1066?",
+    "correct_answer": "Norman Conquest",
+    "incorrect_answers": [
+      "First Crusade",
+      "Black Death",
+      "Great Schism",
+      "Hundred Years' War",
+      "Fourth Crusade",
+      "Fall of Jerusalem",
+      "Fall of Constantinople"
+    ],
+    "main_category": "History",
+    "subcategory": "Medieval History",
+    "difficulty": "medium",
+    "id": "09e7b243-f505-4b7c-af77-27d6723cf585",
+    "created_at": "2025-04-14T01:38:50.533Z",
+    "backupTimestamp": "2025-04-14T01:38:50.533Z",
+    "localBackupTimestamp": "2025-04-13T19:38:50.533Z"
+  },
+  {
+    "question": "Which Pope excommunicated Martin Luther?",
+    "correct_answer": "Leo X",
+    "incorrect_answers": [
+      "Clement VII",
+      "Urban VI",
+      "Innocent III",
+      "Gregory VII",
+      "Boniface VIII",
+      "John XXII",
+      "Alexander VI"
+    ],
+    "main_category": "History",
+    "subcategory": "Medieval History",
+    "difficulty": "medium",
+    "id": "031a032e-5927-4bfc-8894-cce9dd725e03",
+    "created_at": "2025-04-14T01:38:50.542Z",
+    "backupTimestamp": "2025-04-14T01:38:50.542Z",
+    "localBackupTimestamp": "2025-04-13T19:38:50.542Z"
+  },
+  {
+    "question": "What was the political system of feudal Japan?",
+    "correct_answer": "Shogunate",
+    "incorrect_answers": [
+      "Monarchy",
+      "Democracy",
+      "Republic",
+      "Empire",
+      "Oligarchy",
+      "Theocracy",
+      "Aristocracy"
+    ],
+    "main_category": "History",
+    "subcategory": "Medieval History",
+    "difficulty": "medium",
+    "id": "4c1236a6-6196-4be9-a247-e5f2b760435f",
+    "created_at": "2025-04-14T01:38:50.547Z",
+    "backupTimestamp": "2025-04-14T01:38:50.547Z",
+    "localBackupTimestamp": "2025-04-13T19:38:50.547Z"
+  },
+  {
+    "question": "What king led the Third Crusade?",
+    "correct_answer": "Richard I",
+    "incorrect_answers": [
+      "Philip II",
+      "Frederick I",
+      "Louis IX",
+      "Edward I",
+      "Henry II",
+      "John",
+      "Conrad III"
+    ],
+    "main_category": "History",
+    "subcategory": "Medieval History",
+    "difficulty": "medium",
+    "id": "0eeae6b4-3cac-4a00-990d-bd4534248b9e",
+    "created_at": "2025-04-14T01:38:50.551Z",
+    "backupTimestamp": "2025-04-14T01:38:50.551Z",
+    "localBackupTimestamp": "2025-04-13T19:38:50.551Z"
+  },
+  {
+    "question": "Which group of Norse settlers founded Normandy?",
+    "correct_answer": "Vikings",
+    "incorrect_answers": [
+      "Saxons",
+      "Angles",
+      "Jutes",
+      "Franks",
+      "Goths",
+      "Vandals",
+      "Lombards"
+    ],
+    "main_category": "History",
+    "subcategory": "Medieval History",
+    "difficulty": "medium",
+    "id": "ce9f1069-7d7d-479c-adff-2fff3c42c569",
+    "created_at": "2025-04-14T01:38:50.556Z",
+    "backupTimestamp": "2025-04-14T01:38:50.557Z",
+    "localBackupTimestamp": "2025-04-13T19:38:50.557Z"
+  },
+  {
+    "question": "What style of architecture had pointed arches?",
+    "correct_answer": "Gothic",
+    "incorrect_answers": [
+      "Romanesque",
+      "Byzantine",
+      "Baroque",
+      "Renaissance",
+      "Neoclassical",
+      "Art Nouveau",
+      "Modernist"
+    ],
+    "main_category": "History",
+    "subcategory": "Medieval History",
+    "difficulty": "medium",
+    "id": "56243a7b-adac-46ec-9487-2ac76e520efd",
+    "created_at": "2025-04-14T01:38:50.561Z",
+    "backupTimestamp": "2025-04-14T01:38:50.562Z",
+    "localBackupTimestamp": "2025-04-13T19:38:50.562Z"
+  },
+  {
+    "question": "Which wars were fought between York and Lancaster?",
+    "correct_answer": "Wars of the Roses",
+    "incorrect_answers": [
+      "Hundred Years' War",
+      "Crusades",
+      "Barons' Wars",
+      "Peasants' Revolt",
+      "Anglo-Scottish Wars",
+      "Norman Conquest",
+      "Viking Invasions"
+    ],
+    "main_category": "History",
+    "subcategory": "Medieval History",
+    "difficulty": "medium",
+    "id": "4c1d58ca-ed2c-456c-be4c-e0c6d7b8663c",
+    "created_at": "2025-04-14T01:38:50.565Z",
+    "backupTimestamp": "2025-04-14T01:38:50.566Z",
+    "localBackupTimestamp": "2025-04-13T19:38:50.566Z"
+  },
+  {
+    "question": "What was the Byzantine Empire's main religious authority?",
+    "correct_answer": "Patriarch",
+    "incorrect_answers": [
+      "Pope",
+      "Emperor",
+      "Archbishop",
+      "Cardinal",
+      "Metropolitan",
+      "Bishop",
+      "Priest"
+    ],
+    "main_category": "History",
+    "subcategory": "Medieval History",
+    "difficulty": "medium",
+    "id": "855036a2-d2e8-402a-9261-02bebf4a5627",
+    "created_at": "2025-04-14T01:38:50.572Z",
+    "backupTimestamp": "2025-04-14T01:38:50.572Z",
+    "localBackupTimestamp": "2025-04-13T19:38:50.572Z"
+  },
+  {
+    "question": "What was the dominant trade group in Northern Europe?",
+    "correct_answer": "Hanseatic League",
+    "incorrect_answers": [
+      "Silk Road",
+      "British East India Company",
+      "Dutch East India Company",
+      "Templars",
+      "Venetian Republic",
+      "Medici Bank",
+      "Fugger Family"
+    ],
+    "main_category": "History",
+    "subcategory": "Medieval History",
+    "difficulty": "medium",
+    "id": "6df9e645-9e2c-4965-ab64-87ff71937af1",
+    "created_at": "2025-04-14T01:38:50.576Z",
+    "backupTimestamp": "2025-04-14T01:38:50.576Z",
+    "localBackupTimestamp": "2025-04-13T19:38:50.576Z"
+  },
+  {
+    "question": "Who was the first Norman King of England?",
+    "correct_answer": "William I",
+    "incorrect_answers": [
+      "William II",
+      "Henry I",
+      "Stephen",
+      "Richard I",
+      "John",
+      "Henry II",
+      "Edward I"
+    ],
+    "main_category": "History",
+    "subcategory": "Medieval History",
+    "difficulty": "medium",
+    "id": "f024514a-949b-4cae-9ca4-ff3a8fd881b6",
+    "created_at": "2025-04-14T01:38:50.581Z",
+    "backupTimestamp": "2025-04-14T01:38:50.582Z",
+    "localBackupTimestamp": "2025-04-13T19:38:50.582Z"
+  },
+  {
+    "question": "What was the main army unit in medieval Europe?",
+    "correct_answer": "Knight",
+    "incorrect_answers": [
+      "Tank",
+      "Submarine",
+      "Fighter jet",
+      "Aircraft carrier",
+      "Nuclear submarine",
+      "Stealth bomber",
+      "Guided missile cruiser"
+    ],
+    "main_category": "History",
+    "subcategory": "Medieval History",
+    "difficulty": "medium",
+    "id": "88a9ee51-2ed6-41cf-a290-c3b277187f57",
+    "created_at": "2025-04-14T01:38:50.586Z",
+    "backupTimestamp": "2025-04-14T01:38:50.586Z",
+    "localBackupTimestamp": "2025-04-13T19:38:50.586Z"
+  },
+  {
+    "question": "What style of illumination used gold leaf?",
+    "correct_answer": "Gothic",
+    "incorrect_answers": [
+      "Art Deco",
+      "Impressionist",
+      "Cubist",
+      "Surrealist",
+      "Pop Art",
+      "Abstract",
+      "Minimalist"
+    ],
+    "main_category": "History",
+    "subcategory": "Medieval History",
+    "difficulty": "medium",
+    "id": "5361bf26-6ceb-441e-b93e-c62b12f304ea",
+    "created_at": "2025-04-14T01:38:50.590Z",
+    "backupTimestamp": "2025-04-14T01:38:50.590Z",
+    "localBackupTimestamp": "2025-04-13T19:38:50.590Z"
+  },
+  {
+    "question": "What year did the Great Schism begin?",
+    "correct_answer": "1054",
+    "incorrect_answers": [
+      "1066",
+      "1096",
+      "1204",
+      "1215",
+      "1337",
+      "1347",
+      "1453"
+    ],
+    "main_category": "History",
+    "subcategory": "Medieval History",
+    "difficulty": "medium",
+    "id": "10699ecb-dc31-48ba-9715-8f0bcf68687f",
+    "created_at": "2025-04-14T01:38:50.595Z",
+    "backupTimestamp": "2025-04-14T01:38:50.595Z",
+    "localBackupTimestamp": "2025-04-13T19:38:50.595Z"
+  },
+  {
+    "question": "Which medieval order cared for pilgrims?",
+    "correct_answer": "Knights Hospitaller",
+    "incorrect_answers": [
+      "Knights Templar",
+      "Teutonic Knights",
+      "Livonian Brothers",
+      "Order of Santiago",
+      "Order of Calatrava",
+      "Order of Alcantara",
+      "Order of Christ"
+    ],
+    "main_category": "History",
+    "subcategory": "Medieval History",
+    "difficulty": "medium",
+    "id": "df90a331-46b3-4f32-afb6-b24d3eb07c77",
+    "created_at": "2025-04-14T01:38:50.599Z",
+    "backupTimestamp": "2025-04-14T01:38:50.599Z",
+    "localBackupTimestamp": "2025-04-13T19:38:50.599Z"
+  },
+  {
+    "question": "Who was the last Anglo-Saxon king of England?",
+    "correct_answer": "Harold Godwinson",
+    "incorrect_answers": [
+      "Edward the Confessor",
+      "Edgar the Ætheling",
+      "Edmund Ironside",
+      "Ethelred the Unready",
+      "Sweyn Forkbeard",
+      "Canute",
+      "Harthacnut"
+    ],
+    "main_category": "History",
+    "subcategory": "Medieval History",
+    "difficulty": "medium",
+    "id": "f0094b69-8486-4e3e-b603-68f9f97ab627",
+    "created_at": "2025-04-14T01:38:50.604Z",
+    "backupTimestamp": "2025-04-14T01:38:50.605Z",
+    "localBackupTimestamp": "2025-04-13T19:38:50.605Z"
+  },
+  {
+    "question": "What was the Islamic golden age period?",
+    "correct_answer": "8th-14th centuries",
+    "incorrect_answers": [
+      "1st-5th centuries",
+      "15th-19th centuries",
+      "20th-21st centuries",
+      "3rd-6th centuries",
+      "16th-18th centuries",
+      "2nd-4th centuries",
+      "17th-19th centuries"
+    ],
+    "main_category": "History",
+    "subcategory": "Medieval History",
+    "difficulty": "medium",
+    "id": "abbd1ef1-80eb-4e44-8125-75a4f0cc761e",
+    "created_at": "2025-04-14T01:38:50.610Z",
+    "backupTimestamp": "2025-04-14T01:38:50.610Z",
+    "localBackupTimestamp": "2025-04-13T19:38:50.610Z"
+  },
+  {
+    "question": "What weapon dominated late medieval warfare?",
+    "correct_answer": "Longbow",
+    "incorrect_answers": [
+      "Tank",
+      "Machine gun",
+      "Nuclear weapon",
+      "Fighter jet",
+      "Submarine",
+      "Assault rifle",
+      "Guided missile"
+    ],
+    "main_category": "History",
+    "subcategory": "Medieval History",
+    "difficulty": "medium",
+    "id": "c8c52e68-0cf3-4e1e-8632-71f3e1e6a5e0",
+    "created_at": "2025-04-14T01:38:50.614Z",
+    "backupTimestamp": "2025-04-14T01:38:50.615Z",
+    "localBackupTimestamp": "2025-04-13T19:38:50.615Z"
+  },
+  {
+    "question": "What medieval city was known as Miklagard?",
+    "correct_answer": "Constantinople",
+    "incorrect_answers": [
+      "Rome",
+      "Jerusalem",
+      "Paris",
+      "London",
+      "Baghdad",
+      "Damascus",
+      "Cairo"
+    ],
+    "main_category": "History",
+    "subcategory": "Medieval History",
+    "difficulty": "medium",
+    "id": "c066bc54-82e3-4269-a972-daa410f55251",
+    "created_at": "2025-04-14T01:38:50.618Z",
+    "backupTimestamp": "2025-04-14T01:38:50.619Z",
+    "localBackupTimestamp": "2025-04-13T19:38:50.619Z"
+  },
+  {
+    "question": "When did the Eastern Roman Empire fall?",
+    "correct_answer": "1453",
+    "incorrect_answers": [
+      "476",
+      "1066",
+      "1204",
+      "1492",
+      "1096",
+      "1291",
+      "1348"
+    ],
+    "main_category": "History",
+    "subcategory": "Medieval History",
+    "difficulty": "medium",
+    "id": "d2f6de6f-faed-4c0b-8e8d-28811f3f64ec",
+    "created_at": "2025-04-14T01:38:50.623Z",
+    "backupTimestamp": "2025-04-14T01:38:50.623Z",
+    "localBackupTimestamp": "2025-04-13T19:38:50.623Z"
+  },
+  {
+    "question": "Which king established the Star Chamber court?",
+    "correct_answer": "Henry VII",
+    "incorrect_answers": [
+      "Henry VIII",
+      "Richard III",
+      "Edward IV",
+      "Edward VI",
+      "Mary I",
+      "Elizabeth I",
+      "James I"
+    ],
+    "main_category": "History",
+    "subcategory": "Medieval History",
+    "difficulty": "medium",
+    "id": "3c344d55-7147-43b7-b656-15b21890f301",
+    "created_at": "2025-04-14T01:38:50.627Z",
+    "backupTimestamp": "2025-04-14T01:38:50.627Z",
+    "localBackupTimestamp": "2025-04-13T19:38:50.627Z"
+  },
+  {
+    "question": "What was the main disease of the Black Death?",
+    "correct_answer": "Bubonic plague",
+    "incorrect_answers": [
+      "Smallpox",
+      "Influenza",
+      "Tuberculosis",
+      "Cholera",
+      "Typhus",
+      "Malaria",
+      "Yellow fever"
+    ],
+    "main_category": "History",
+    "subcategory": "Medieval History",
+    "difficulty": "medium",
+    "id": "dabfb2c5-3a9a-4d4b-b8b0-a514e4b1968e",
+    "created_at": "2025-04-14T01:38:50.632Z",
+    "backupTimestamp": "2025-04-14T01:38:50.632Z",
+    "localBackupTimestamp": "2025-04-13T19:38:50.632Z"
+  },
+  {
+    "question": "Which clan ruled Japan as shoguns from 1603-1868?",
+    "correct_answer": "Tokugawa",
+    "incorrect_answers": [
+      "Minamoto",
+      "Taira",
+      "Fujiwara",
+      "Hojo",
+      "Ashikaga",
+      "Oda",
+      "Toyotomi"
+    ],
+    "main_category": "History",
+    "subcategory": "Medieval History",
+    "difficulty": "medium",
+    "id": "453b8ac4-1cba-45b0-9270-85ddd9b5353e",
+    "created_at": "2025-04-14T01:38:50.636Z",
+    "backupTimestamp": "2025-04-14T01:38:50.636Z",
+    "localBackupTimestamp": "2025-04-13T19:38:50.636Z"
+  },
+  {
+    "question": "What religion emerged in 7th century Arabia?",
+    "correct_answer": "Islam",
+    "incorrect_answers": [
+      "Christianity",
+      "Judaism",
+      "Hinduism",
+      "Buddhism",
+      "Zoroastrianism",
+      "Sikhism",
+      "Jainism"
+    ],
+    "main_category": "History",
+    "subcategory": "Medieval History",
+    "difficulty": "medium",
+    "id": "ef5a6625-a5f5-415c-92ef-c829a8e4b553",
+    "created_at": "2025-04-14T01:38:50.640Z",
+    "backupTimestamp": "2025-04-14T01:38:50.640Z",
+    "localBackupTimestamp": "2025-04-13T19:38:50.640Z"
+  },
+  {
+    "question": "What was a medieval English yeoman?",
+    "correct_answer": "Free land-owning farmer",
+    "incorrect_answers": [
+      "Knight",
+      "Baron",
+      "Duke",
+      "Earl",
+      "King",
+      "Prince",
+      "Serf"
+    ],
+    "main_category": "History",
+    "subcategory": "Medieval History",
+    "difficulty": "medium",
+    "id": "5f75224a-d832-4fb6-abe0-a0978e25e4b0",
+    "created_at": "2025-04-14T01:38:50.645Z",
+    "backupTimestamp": "2025-04-14T01:38:50.645Z",
+    "localBackupTimestamp": "2025-04-13T19:38:50.645Z"
+  },
+  {
+    "question": "What historical work did Bede write?",
+    "correct_answer": "Ecclesiastical History",
+    "incorrect_answers": [
+      "Canterbury Tales",
+      "Divine Comedy",
+      "Beowulf",
+      "Paradise Lost",
+      "Decameron",
+      "Le Morte d'Arthur",
+      "The Prince"
+    ],
+    "main_category": "History",
+    "subcategory": "Medieval History",
+    "difficulty": "medium",
+    "id": "483d5c6e-6a03-4f55-8d03-28dc0a75ae0c",
+    "created_at": "2025-04-14T01:38:50.649Z",
+    "backupTimestamp": "2025-04-14T01:38:50.649Z",
+    "localBackupTimestamp": "2025-04-13T19:38:50.649Z"
+  },
+  {
+    "question": "Which Abbasid caliph founded the House of Wisdom?",
+    "correct_answer": "Al-Ma'mun",
+    "incorrect_answers": [
+      "Harun al-Rashid",
+      "Al-Mansur",
+      "Al-Mu'tasim",
+      "Al-Mutawakkil",
+      "Al-Saffah",
+      "Al-Mahdi",
+      "Al-Mu'tadid"
+    ],
+    "main_category": "History",
+    "subcategory": "Medieval History",
+    "difficulty": "medium",
+    "id": "7a0de3e1-136b-4dbb-b943-8ea9bfdaea32",
+    "created_at": "2025-04-14T01:38:50.653Z",
+    "backupTimestamp": "2025-04-14T01:38:50.653Z",
+    "localBackupTimestamp": "2025-04-13T19:38:50.653Z"
+  },
+  {
+    "question": "What medieval legal system used ordeals?",
+    "correct_answer": "Trial by ordeal",
+    "incorrect_answers": [
+      "Jury trial",
+      "Civil law",
+      "Common law",
+      "Constitutional law",
+      "Canon law",
+      "Martial law",
+      "Administrative law"
+    ],
+    "main_category": "History",
+    "subcategory": "Medieval History",
+    "difficulty": "medium",
+    "id": "822b2f6b-c193-437a-a91a-b16315ae1e02",
+    "created_at": "2025-04-14T01:38:50.658Z",
+    "backupTimestamp": "2025-04-14T01:38:50.658Z",
+    "localBackupTimestamp": "2025-04-13T19:38:50.658Z"
+  },
+  {
+    "question": "Which religious order was founded by St. Dominic?",
+    "correct_answer": "Dominican Order",
+    "incorrect_answers": [
+      "Franciscan Order",
+      "Jesuit Order",
+      "Benedictine Order",
+      "Carmelite Order",
+      "Augustinian Order",
+      "Cistercian Order",
+      "Carthusian Order"
+    ],
+    "main_category": "History",
+    "subcategory": "Medieval History",
+    "difficulty": "medium",
+    "id": "3aaa638f-7583-431f-9a3b-1ee32880443d",
+    "created_at": "2025-04-14T01:38:50.662Z",
+    "backupTimestamp": "2025-04-14T01:38:50.662Z",
+    "localBackupTimestamp": "2025-04-13T19:38:50.662Z"
+  },
+  {
+    "question": "What title did Hungarian rulers hold?",
+    "correct_answer": "Magyar király",
+    "incorrect_answers": [
+      "Tsar",
+      "Kaiser",
+      "Sultan",
+      "Shah",
+      "Emperor",
+      "Caliph",
+      "Maharaja"
+    ],
+    "main_category": "History",
+    "subcategory": "Medieval History",
+    "difficulty": "medium",
+    "id": "b223e6a2-c66b-4f35-892d-83ecabb31578",
+    "created_at": "2025-04-14T01:38:50.666Z",
+    "backupTimestamp": "2025-04-14T01:38:50.667Z",
+    "localBackupTimestamp": "2025-04-13T19:38:50.667Z"
+  },
+  {
+    "question": "What famous letter did Luther post in 1517?",
+    "correct_answer": "95 Theses",
+    "incorrect_answers": [
+      "Letter of Indulgence",
+      "Edict of Worms",
+      "Magna Carta",
+      "Papal Bull",
+      "Confession of Augsburg",
+      "Book of Common Prayer",
+      "Letter to the Romans"
+    ],
+    "main_category": "History",
+    "subcategory": "Medieval History",
+    "difficulty": "medium",
+    "id": "2245fb59-0346-4cf8-a0dd-562ee371e986",
+    "created_at": "2025-04-14T01:38:50.671Z",
+    "backupTimestamp": "2025-04-14T01:38:50.671Z",
+    "localBackupTimestamp": "2025-04-13T19:38:50.671Z"
+  },
+  {
+    "question": "Which Mongol leader conquered China?",
+    "correct_answer": "Kublai Khan",
+    "incorrect_answers": [
+      "Genghis Khan",
+      "Ogedei Khan",
+      "Hulagu Khan",
+      "Batu Khan",
+      "Mongke Khan",
+      "Chagatai Khan",
+      "Jochi Khan"
+    ],
+    "main_category": "History",
+    "subcategory": "Medieval History",
+    "difficulty": "medium",
+    "id": "163e39b3-21fd-4513-bb39-97f488f417b9",
+    "created_at": "2025-04-14T01:38:50.675Z",
+    "backupTimestamp": "2025-04-14T01:38:50.675Z",
+    "localBackupTimestamp": "2025-04-13T19:38:50.675Z"
+  },
+  {
+    "question": "What was the largest medieval cathedral?",
+    "correct_answer": "Seville Cathedral",
+    "incorrect_answers": [
+      "Notre Dame",
+      "St. Peter's Basilica",
+      "Cologne Cathedral",
+      "Canterbury Cathedral",
+      "Milan Cathedral",
+      "York Minster",
+      "Durham Cathedral"
+    ],
+    "main_category": "History",
+    "subcategory": "Medieval History",
+    "difficulty": "medium",
+    "id": "5717fc1b-1d71-484a-9efa-873d9422fc1b",
+    "created_at": "2025-04-14T01:38:50.681Z",
+    "backupTimestamp": "2025-04-14T01:38:50.681Z",
+    "localBackupTimestamp": "2025-04-13T19:38:50.681Z"
+  },
+  {
+    "question": "Which king created the English Parliament?",
+    "correct_answer": "Simon de Montfort",
+    "incorrect_answers": [
+      "Edward I",
+      "Henry III",
+      "John",
+      "Henry II",
+      "William I",
+      "Richard I",
+      "Edward III"
+    ],
+    "main_category": "History",
+    "subcategory": "Medieval History",
+    "difficulty": "medium",
+    "id": "4145b5be-127f-46f5-a8db-8dd184444fd2",
+    "created_at": "2025-04-14T01:38:50.685Z",
+    "backupTimestamp": "2025-04-14T01:38:50.685Z",
+    "localBackupTimestamp": "2025-04-13T19:38:50.685Z"
+  },
+  {
+    "question": "What was the Ottoman elite infantry called?",
+    "correct_answer": "Janissaries",
+    "incorrect_answers": [
+      "Mamluks",
+      "Sipahis",
+      "Ghazis",
+      "Akinjis",
+      "Timariots",
+      "Dervishes",
+      "Bektashis"
+    ],
+    "main_category": "History",
+    "subcategory": "Medieval History",
+    "difficulty": "medium",
+    "id": "a2630f20-5658-48ee-960c-d50e916e6130",
+    "created_at": "2025-04-14T01:38:50.689Z",
+    "backupTimestamp": "2025-04-14T01:38:50.690Z",
+    "localBackupTimestamp": "2025-04-13T19:38:50.690Z"
+  },
+  {
+    "question": "What did medieval alchemists seek to create?",
+    "correct_answer": "Philosopher's stone",
+    "incorrect_answers": [
+      "Atom bomb",
+      "Computer",
+      "Internet",
+      "Television",
+      "Telephone",
+      "Radio",
+      "Penicillin"
+    ],
+    "main_category": "History",
+    "subcategory": "Medieval History",
+    "difficulty": "medium",
+    "id": "7866574e-83e1-41fc-ae9f-da08731d2615",
+    "created_at": "2025-04-14T01:38:50.693Z",
+    "backupTimestamp": "2025-04-14T01:38:50.694Z",
+    "localBackupTimestamp": "2025-04-13T19:38:50.694Z"
+  },
+  {
+    "question": "Which medieval English archbishop was murdered in 1170?",
+    "correct_answer": "Thomas Becket",
+    "incorrect_answers": [
+      "Anselm",
+      "Lanfranc",
+      "Dunstan",
+      "Stephen Langton",
+      "Edmund Rich",
+      "Simon Sudbury",
+      "William Courtenay"
+    ],
+    "main_category": "History",
+    "subcategory": "Medieval History",
+    "difficulty": "hard",
+    "id": "840cd021-492c-4b07-a5e4-c4a8ca859517",
+    "created_at": "2025-04-14T01:42:03.019Z",
+    "backupTimestamp": "2025-04-14T01:42:03.022Z",
+    "localBackupTimestamp": "2025-04-13T19:42:03.022Z"
+  },
+  {
+    "question": "What caused the Great Western Schism of 1378?",
+    "correct_answer": "Multiple pope claimants",
+    "incorrect_answers": [
+      "Doctrinal differences",
+      "Crusade failures",
+      "Eastern church split",
+      "Monastic reforms",
+      "Investiture dispute",
+      "Liturgical changes",
+      "Papal taxation"
+    ],
+    "main_category": "History",
+    "subcategory": "Medieval History",
+    "difficulty": "hard",
+    "id": "de4152f9-8125-485d-b077-b0edb987b416",
+    "created_at": "2025-04-14T01:42:03.034Z",
+    "backupTimestamp": "2025-04-14T01:42:03.034Z",
+    "localBackupTimestamp": "2025-04-13T19:42:03.034Z"
+  },
+  {
+    "question": "Who wrote the medieval philosophical work 'Sic et Non'?",
+    "correct_answer": "Peter Abelard",
+    "incorrect_answers": [
+      "Thomas Aquinas",
+      "Duns Scotus",
+      "William of Ockham",
+      "Roger Bacon",
+      "Albertus Magnus",
+      "Anselm",
+      "Boethius"
+    ],
+    "main_category": "History",
+    "subcategory": "Medieval History",
+    "difficulty": "hard",
+    "id": "13ac6acc-9fd7-4866-b1ff-24d19db5a20d",
+    "created_at": "2025-04-14T01:42:03.042Z",
+    "backupTimestamp": "2025-04-14T01:42:03.043Z",
+    "localBackupTimestamp": "2025-04-13T19:42:03.043Z"
+  },
+  {
+    "question": "Which medieval battle occurred on October 14, 1066?",
+    "correct_answer": "Battle of Hastings",
+    "incorrect_answers": [
+      "Battle of Stamford Bridge",
+      "Battle of Fulford",
+      "Battle of Maldon",
+      "Battle of Agincourt",
+      "Battle of Bosworth",
+      "Battle of Falkirk",
+      "Battle of Bannockburn"
+    ],
+    "main_category": "History",
+    "subcategory": "Medieval History",
+    "difficulty": "hard",
+    "id": "d62a860e-0619-4167-8ea0-04b1cbb7c809",
+    "created_at": "2025-04-14T01:42:03.049Z",
+    "backupTimestamp": "2025-04-14T01:42:03.050Z",
+    "localBackupTimestamp": "2025-04-13T19:42:03.050Z"
+  },
+  {
+    "question": "What was the Albigensian Crusade targeting?",
+    "correct_answer": "Cathar heresy",
+    "incorrect_answers": [
+      "Muslim territories",
+      "Byzantine Empire",
+      "Jewish communities",
+      "Viking raiders",
+      "Pagan Baltics",
+      "Holy Land",
+      "Eastern Orthodox"
+    ],
+    "main_category": "History",
+    "subcategory": "Medieval History",
+    "difficulty": "hard",
+    "id": "525cfac0-ec6c-43e3-a335-cd8f655fc315",
+    "created_at": "2025-04-14T01:42:03.057Z",
+    "backupTimestamp": "2025-04-14T01:42:03.058Z",
+    "localBackupTimestamp": "2025-04-13T19:42:03.058Z"
+  },
+  {
+    "question": "Which Byzantine emperor introduced iconoclasm?",
+    "correct_answer": "Leo III",
+    "incorrect_answers": [
+      "Justinian I",
+      "Basil II",
+      "Heraclius",
+      "Constantine VII",
+      "Alexios I",
+      "Manuel I",
+      "Constantine XI"
+    ],
+    "main_category": "History",
+    "subcategory": "Medieval History",
+    "difficulty": "hard",
+    "id": "3bdbb3eb-f853-4653-8526-28b2d6785e04",
+    "created_at": "2025-04-14T01:42:03.063Z",
+    "backupTimestamp": "2025-04-14T01:42:03.064Z",
+    "localBackupTimestamp": "2025-04-13T19:42:03.064Z"
+  },
+  {
+    "question": "What medieval heresy denied Church sacraments?",
+    "correct_answer": "Catharism",
+    "incorrect_answers": [
+      "Arianism",
+      "Nestorianism",
+      "Pelagianism",
+      "Lollardy",
+      "Waldensianism",
+      "Bogomilism",
+      "Hussitism"
+    ],
+    "main_category": "History",
+    "subcategory": "Medieval History",
+    "difficulty": "hard",
+    "id": "185658d3-bd4b-458f-bbd7-d3a5a3fa318d",
+    "created_at": "2025-04-14T01:42:03.072Z",
+    "backupTimestamp": "2025-04-14T01:42:03.073Z",
+    "localBackupTimestamp": "2025-04-13T19:42:03.073Z"
+  },
+  {
+    "question": "Who led the Golden Horde?",
+    "correct_answer": "Batu Khan",
+    "incorrect_answers": [
+      "Genghis Khan",
+      "Kublai Khan",
+      "Hulagu Khan",
+      "Ogedei Khan",
+      "Chagatai Khan",
+      "Mongke Khan",
+      "Jochi Khan"
+    ],
+    "main_category": "History",
+    "subcategory": "Medieval History",
+    "difficulty": "hard",
+    "id": "3843d58f-900e-4f0d-bfca-56adae09e268",
+    "created_at": "2025-04-14T01:42:03.079Z",
+    "backupTimestamp": "2025-04-14T01:42:03.079Z",
+    "localBackupTimestamp": "2025-04-13T19:42:03.079Z"
+  },
+  {
+    "question": "What was the Treaty of Verdun's significance?",
+    "correct_answer": "Division of Carolingian Empire",
+    "incorrect_answers": [
+      "End of Hundred Years' War",
+      "Papal authority limits",
+      "Crusader state creation",
+      "Islamic-Christian truce",
+      "Trade route establishment",
+      "Reconquista terms",
+      "Baltic pagans' surrender"
+    ],
+    "main_category": "History",
+    "subcategory": "Medieval History",
+    "difficulty": "hard",
+    "id": "e9eb9815-50da-4667-800f-22f4aceea457",
+    "created_at": "2025-04-14T01:42:03.085Z",
+    "backupTimestamp": "2025-04-14T01:42:03.086Z",
+    "localBackupTimestamp": "2025-04-13T19:42:03.086Z"
+  },
+  {
+    "question": "What was the medieval Islamic legal code called?",
+    "correct_answer": "Sharia",
+    "incorrect_answers": [
+      "Hadith",
+      "Fiqh",
+      "Sunnah",
+      "Qiyas",
+      "Ijma",
+      "Ijtihad",
+      "Fatwa"
+    ],
+    "main_category": "History",
+    "subcategory": "Medieval History",
+    "difficulty": "hard",
+    "id": "daf1d3f5-8bd4-42e3-b6cb-b1e326c986dd",
+    "created_at": "2025-04-14T01:42:03.091Z",
+    "backupTimestamp": "2025-04-14T01:42:03.091Z",
+    "localBackupTimestamp": "2025-04-13T19:42:03.091Z"
+  },
+  {
+    "question": "Which order fought in the Northern Crusades?",
+    "correct_answer": "Teutonic Knights",
+    "incorrect_answers": [
+      "Knights Hospitaller",
+      "Knights Templar",
+      "Livonian Brothers",
+      "Order of Santiago",
+      "Order of Calatrava",
+      "Order of Alcantara",
+      "Order of Christ"
+    ],
+    "main_category": "History",
+    "subcategory": "Medieval History",
+    "difficulty": "hard",
+    "id": "fc2d8487-d9b0-4455-8874-a5d0157cd893",
+    "created_at": "2025-04-14T01:42:03.095Z",
+    "backupTimestamp": "2025-04-14T01:42:03.095Z",
+    "localBackupTimestamp": "2025-04-13T19:42:03.095Z"
+  },
+  {
+    "question": "Who was the Byzantine empress from 797 to 802?",
+    "correct_answer": "Irene of Athens",
+    "incorrect_answers": [
+      "Theodora",
+      "Zoe",
+      "Eudokia Makrembolitissa",
+      "Theophano",
+      "Sophia",
+      "Maria of Alania",
+      "Euphrosyne"
+    ],
+    "main_category": "History",
+    "subcategory": "Medieval History",
+    "difficulty": "hard",
+    "id": "f6a496c7-3e40-4f86-9580-cf988bceef6c",
+    "created_at": "2025-04-14T01:42:03.101Z",
+    "backupTimestamp": "2025-04-14T01:42:03.102Z",
+    "localBackupTimestamp": "2025-04-13T19:42:03.102Z"
+  },
+  {
+    "question": "Which English aristocrat led the Peasants' Revolt?",
+    "correct_answer": "Wat Tyler",
+    "incorrect_answers": [
+      "Jack Cade",
+      "John Ball",
+      "Robert Kett",
+      "Lambert Simnel",
+      "Perkin Warbeck",
+      "Bartholomew Steer",
+      "Jack Straw"
+    ],
+    "main_category": "History",
+    "subcategory": "Medieval History",
+    "difficulty": "hard",
+    "id": "c1ac34a4-1da4-4087-a7b9-93aa37f1a592",
+    "created_at": "2025-04-14T01:42:03.107Z",
+    "backupTimestamp": "2025-04-14T01:42:03.108Z",
+    "localBackupTimestamp": "2025-04-13T19:42:03.108Z"
+  },
+  {
+    "question": "What medieval tribe established the Khazar Khaganate?",
+    "correct_answer": "Turkic Khazars",
+    "incorrect_answers": [
+      "Cumans",
+      "Pechenegs",
+      "Kipchaks",
+      "Bulgars",
+      "Avars",
+      "Magyars",
+      "Oghuz"
+    ],
+    "main_category": "History",
+    "subcategory": "Medieval History",
+    "difficulty": "hard",
+    "id": "2a5a10e2-6310-4ecd-b57f-dc884e7b971a",
+    "created_at": "2025-04-14T01:42:03.113Z",
+    "backupTimestamp": "2025-04-14T01:42:03.113Z",
+    "localBackupTimestamp": "2025-04-13T19:42:03.113Z"
+  },
+  {
+    "question": "What was the medieval Arabic scientific institution?",
+    "correct_answer": "House of Wisdom",
+    "incorrect_answers": [
+      "Al-Azhar",
+      "Library of Alexandria",
+      "Madrasa",
+      "Bayt al-Hikma",
+      "House of Knowledge",
+      "Academy of Sciences",
+      "Observatory of Scholars"
+    ],
+    "main_category": "History",
+    "subcategory": "Medieval History",
+    "difficulty": "hard",
+    "id": "8d2ad464-6fd3-4699-9c43-963ca402dc47",
+    "created_at": "2025-04-14T01:42:03.119Z",
+    "backupTimestamp": "2025-04-14T01:42:03.119Z",
+    "localBackupTimestamp": "2025-04-13T19:42:03.119Z"
+  },
+  {
+    "question": "Which Norse explorer first reached North America?",
+    "correct_answer": "Leif Erikson",
+    "incorrect_answers": [
+      "Erik the Red",
+      "Harald Hardrada",
+      "Cnut the Great",
+      "Ragnar Lodbrok",
+      "Rollo",
+      "Sweyn Forkbeard",
+      "Olaf Tryggvason"
+    ],
+    "main_category": "History",
+    "subcategory": "Medieval History",
+    "difficulty": "hard",
+    "id": "0313eaab-b71b-4106-bbb7-8404f35859a9",
+    "created_at": "2025-04-14T01:42:03.125Z",
+    "backupTimestamp": "2025-04-14T01:42:03.125Z",
+    "localBackupTimestamp": "2025-04-13T19:42:03.125Z"
+  },
+  {
+    "question": "What medieval Chinese dynasty succeeded the Tang?",
+    "correct_answer": "Song",
+    "incorrect_answers": [
+      "Yuan",
+      "Ming",
+      "Jin",
+      "Liao",
+      "Western Xia",
+      "Sui",
+      "Zhou"
+    ],
+    "main_category": "History",
+    "subcategory": "Medieval History",
+    "difficulty": "hard",
+    "id": "bbe3e189-23da-42e8-8487-b074e20dd28f",
+    "created_at": "2025-04-14T01:42:03.130Z",
+    "backupTimestamp": "2025-04-14T01:42:03.130Z",
+    "localBackupTimestamp": "2025-04-13T19:42:03.130Z"
+  },
+  {
+    "question": "Which battle ended Moorish rule in Spain?",
+    "correct_answer": "Battle of Granada",
+    "incorrect_answers": [
+      "Battle of Las Navas de Tolosa",
+      "Battle of Covadonga",
+      "Battle of Alarcos",
+      "Battle of Guadalete",
+      "Battle of Sagrajas",
+      "Battle of Uclés",
+      "Battle of Simancas"
+    ],
+    "main_category": "History",
+    "subcategory": "Medieval History",
+    "difficulty": "hard",
+    "id": "811d5d1d-19bd-46de-9704-124f8ce30082",
+    "created_at": "2025-04-14T01:42:03.134Z",
+    "backupTimestamp": "2025-04-14T01:42:03.135Z",
+    "localBackupTimestamp": "2025-04-13T19:42:03.135Z"
+  },
+  {
+    "question": "What medieval text was written by Al-Khwarizmi?",
+    "correct_answer": "Algebra",
+    "incorrect_answers": [
+      "Canon of Medicine",
+      "Book of Optics",
+      "Book of Fixed Stars",
+      "Book of Healing",
+      "The Incoherence",
+      "History of Prophets",
+      "Perfect Book"
+    ],
+    "main_category": "History",
+    "subcategory": "Medieval History",
+    "difficulty": "hard",
+    "id": "feaa9b4a-052f-4ffb-aa47-c60733dee2c4",
+    "created_at": "2025-04-14T01:42:03.142Z",
+    "backupTimestamp": "2025-04-14T01:42:03.142Z",
+    "localBackupTimestamp": "2025-04-13T19:42:03.142Z"
+  },
+  {
+    "question": "Which medieval Pope called the First Crusade?",
+    "correct_answer": "Urban II",
+    "incorrect_answers": [
+      "Gregory VII",
+      "Innocent III",
+      "Alexander III",
+      "Paschal II",
+      "Eugenius III",
+      "Clement III",
+      "Honorius III"
+    ],
+    "main_category": "History",
+    "subcategory": "Medieval History",
+    "difficulty": "hard",
+    "id": "bff4d6ff-cdc6-4907-918a-c8d2ea3358a0",
+    "created_at": "2025-04-14T01:42:03.147Z",
+    "backupTimestamp": "2025-04-14T01:42:03.147Z",
+    "localBackupTimestamp": "2025-04-13T19:42:03.147Z"
+  },
+  {
+    "question": "What group established the Kingdom of Northumbria?",
+    "correct_answer": "Angles",
+    "incorrect_answers": [
+      "Saxons",
+      "Jutes",
+      "Vikings",
+      "Picts",
+      "Scots",
+      "Britons",
+      "Normans"
+    ],
+    "main_category": "History",
+    "subcategory": "Medieval History",
+    "difficulty": "hard",
+    "id": "b2e90985-6e77-471d-a184-9dc0b08ed75e",
+    "created_at": "2025-04-14T01:42:03.151Z",
+    "backupTimestamp": "2025-04-14T01:42:03.152Z",
+    "localBackupTimestamp": "2025-04-13T19:42:03.152Z"
+  },
+  {
+    "question": "Which Japanese clan fought in the Genpei War?",
+    "correct_answer": "Taira",
+    "incorrect_answers": [
+      "Tokugawa",
+      "Oda",
+      "Toyotomi",
+      "Hojo",
+      "Shimazu",
+      "Date",
+      "Mori"
+    ],
+    "main_category": "History",
+    "subcategory": "Medieval History",
+    "difficulty": "hard",
+    "id": "8291a33c-7206-4e74-bf50-2625683a0d53",
+    "created_at": "2025-04-14T01:42:03.156Z",
+    "backupTimestamp": "2025-04-14T01:42:03.157Z",
+    "localBackupTimestamp": "2025-04-13T19:42:03.157Z"
+  },
+  {
+    "question": "What architectural style preceded Gothic?",
+    "correct_answer": "Romanesque",
+    "incorrect_answers": [
+      "Byzantine",
+      "Baroque",
+      "Renaissance",
+      "Neoclassical",
+      "Art Nouveau",
+      "Tudor",
+      "Modernist"
+    ],
+    "main_category": "History",
+    "subcategory": "Medieval History",
+    "difficulty": "hard",
+    "id": "d184805e-43cd-442c-86a7-1fbaa37b1ffc",
+    "created_at": "2025-04-14T01:42:03.161Z",
+    "backupTimestamp": "2025-04-14T01:42:03.162Z",
+    "localBackupTimestamp": "2025-04-13T19:42:03.162Z"
+  },
+  {
+    "question": "Who was the first Tudor monarch?",
+    "correct_answer": "Henry VII",
+    "incorrect_answers": [
+      "Henry VIII",
+      "Edward VI",
+      "Mary I",
+      "Elizabeth I",
+      "Richard III",
+      "Edward IV",
+      "Edward V"
+    ],
+    "main_category": "History",
+    "subcategory": "Medieval History",
+    "difficulty": "hard",
+    "id": "456f0728-91e4-4bdd-af57-e7b9870716c1",
+    "created_at": "2025-04-14T01:42:03.166Z",
+    "backupTimestamp": "2025-04-14T01:42:03.167Z",
+    "localBackupTimestamp": "2025-04-13T19:42:03.167Z"
+  },
+  {
+    "question": "What did the Fourth Lateran Council establish?",
+    "correct_answer": "Mandatory confession",
+    "incorrect_answers": [
+      "Papal election rules",
+      "First Crusade",
+      "Inquisition",
+      "Knights Templar",
+      "Church taxation",
+      "Clerical celibacy",
+      "Excommunication procedures"
+    ],
+    "main_category": "History",
+    "subcategory": "Medieval History",
+    "difficulty": "hard",
+    "id": "dfdc8968-5438-4800-a1cb-3367e337500e",
+    "created_at": "2025-04-14T01:42:03.172Z",
+    "backupTimestamp": "2025-04-14T01:42:03.172Z",
+    "localBackupTimestamp": "2025-04-13T19:42:03.172Z"
+  },
+  {
+    "question": "Which Chinese invention spread to Europe via Arabs?",
+    "correct_answer": "Paper",
+    "incorrect_answers": [
+      "Gunpowder",
+      "Printing press",
+      "Compass",
+      "Porcelain",
+      "Silk",
+      "Tea",
+      "Abacus"
+    ],
+    "main_category": "History",
+    "subcategory": "Medieval History",
+    "difficulty": "hard",
+    "id": "e52dc5ea-0797-4eeb-8467-193349d4ed52",
+    "created_at": "2025-04-14T01:42:03.176Z",
+    "backupTimestamp": "2025-04-14T01:42:03.177Z",
+    "localBackupTimestamp": "2025-04-13T19:42:03.177Z"
+  },
+  {
+    "question": "What was the Carolingian Renaissance?",
+    "correct_answer": "Cultural revival",
+    "incorrect_answers": [
+      "Military campaign",
+      "Religious reformation",
+      "Architectural style",
+      "Legal system",
+      "Economic policy",
+      "Political ideology",
+      "Trade network"
+    ],
+    "main_category": "History",
+    "subcategory": "Medieval History",
+    "difficulty": "hard",
+    "id": "b81da486-a78c-40a8-95f0-f586ff7b4505",
+    "created_at": "2025-04-14T01:42:03.181Z",
+    "backupTimestamp": "2025-04-14T01:42:03.183Z",
+    "localBackupTimestamp": "2025-04-13T19:42:03.183Z"
+  },
+  {
+    "question": "What was the medieval Flemish cloth industry center?",
+    "correct_answer": "Ghent",
+    "incorrect_answers": [
+      "Bruges",
+      "Antwerp",
+      "Brussels",
+      "Ypres",
+      "Lille",
+      "Arras",
+      "Tournai"
+    ],
+    "main_category": "History",
+    "subcategory": "Medieval History",
+    "difficulty": "hard",
+    "id": "b1375a9e-d28a-4d0b-9f32-4fee5fcef633",
+    "created_at": "2025-04-14T01:42:03.187Z",
+    "backupTimestamp": "2025-04-14T01:42:03.187Z",
+    "localBackupTimestamp": "2025-04-13T19:42:03.187Z"
+  },
+  {
+    "question": "Who wrote the medieval 'Book of the City of Ladies'?",
+    "correct_answer": "Christine de Pizan",
+    "incorrect_answers": [
+      "Hildegard of Bingen",
+      "Julian of Norwich",
+      "Catherine of Siena",
+      "Margery Kempe",
+      "Marie de France",
+      "Heloise d'Argenteuil",
+      "Anna Komnene"
+    ],
+    "main_category": "History",
+    "subcategory": "Medieval History",
+    "difficulty": "hard",
+    "id": "911e5966-0ac5-484c-bb3e-b698b2c9f79d",
+    "created_at": "2025-04-14T01:42:03.191Z",
+    "backupTimestamp": "2025-04-14T01:42:03.191Z",
+    "localBackupTimestamp": "2025-04-13T19:42:03.191Z"
+  },
+  {
+    "question": "What dynasty ruled Mali from 1230 to 1670?",
+    "correct_answer": "Keita",
+    "incorrect_answers": [
+      "Songhai",
+      "Ghana",
+      "Kanem",
+      "Bornu",
+      "Almoravid",
+      "Almohad",
+      "Hafsid"
+    ],
+    "main_category": "History",
+    "subcategory": "Medieval History",
+    "difficulty": "hard",
+    "id": "5407d773-f694-4a51-a8a9-c12a12ed5d46",
+    "created_at": "2025-04-14T01:42:03.196Z",
+    "backupTimestamp": "2025-04-14T01:42:03.197Z",
+    "localBackupTimestamp": "2025-04-13T19:42:03.197Z"
+  },
+  {
+    "question": "Who founded the medieval Kingdom of Portugal?",
+    "correct_answer": "Afonso Henriques",
+    "incorrect_answers": [
+      "Henry of Burgundy",
+      "Sancho I",
+      "Ferdinand I",
+      "João I",
+      "Pedro I",
+      "Manuel I",
+      "Afonso V"
+    ],
+    "main_category": "History",
+    "subcategory": "Medieval History",
+    "difficulty": "hard",
+    "id": "1daed956-939c-4c63-b855-fade584510dc",
+    "created_at": "2025-04-14T01:42:03.201Z",
+    "backupTimestamp": "2025-04-14T01:42:03.201Z",
+    "localBackupTimestamp": "2025-04-13T19:42:03.201Z"
+  },
+  {
+    "question": "What treaty ended the Great Schism in 1417?",
+    "correct_answer": "Council of Constance",
+    "incorrect_answers": [
+      "Council of Basel",
+      "Council of Ferrara-Florence",
+      "Council of Trent",
+      "Council of Lyon",
+      "Council of Pisa",
+      "Council of Vienne",
+      "Lateran Council"
+    ],
+    "main_category": "History",
+    "subcategory": "Medieval History",
+    "difficulty": "hard",
+    "id": "489f3ec9-499a-4bd0-969e-deb20d98b68e",
+    "created_at": "2025-04-14T01:42:03.205Z",
+    "backupTimestamp": "2025-04-14T01:42:03.205Z",
+    "localBackupTimestamp": "2025-04-13T19:42:03.205Z"
+  },
+  {
+    "question": "Which city led the Lombard League against Barbarossa?",
+    "correct_answer": "Milan",
+    "incorrect_answers": [
+      "Venice",
+      "Florence",
+      "Genoa",
+      "Pisa",
+      "Bologna",
+      "Naples",
+      "Rome"
+    ],
+    "main_category": "History",
+    "subcategory": "Medieval History",
+    "difficulty": "hard",
+    "id": "90bf23aa-51dd-46b2-ab2b-fffd506716c4",
+    "created_at": "2025-04-14T01:42:03.212Z",
+    "backupTimestamp": "2025-04-14T01:42:03.212Z",
+    "localBackupTimestamp": "2025-04-13T19:42:03.212Z"
+  },
+  {
+    "question": "What was the Great Heathen Army?",
+    "correct_answer": "Viking force",
+    "incorrect_answers": [
+      "Saxon rebels",
+      "Celtic warriors",
+      "Norman invasion",
+      "Crusader battalion",
+      "Mongol horde",
+      "Moorish fighters",
+      "Byzantine troops"
+    ],
+    "main_category": "History",
+    "subcategory": "Medieval History",
+    "difficulty": "hard",
+    "id": "ec704a54-f3e9-446e-ab37-880301e9eda9",
+    "created_at": "2025-04-14T01:42:03.216Z",
+    "backupTimestamp": "2025-04-14T01:42:03.216Z",
+    "localBackupTimestamp": "2025-04-13T19:42:03.216Z"
+  },
+  {
+    "question": "Which Islamic dynasty ruled North Africa and Spain?",
+    "correct_answer": "Umayyad",
+    "incorrect_answers": [
+      "Abbasid",
+      "Fatimid",
+      "Almoravid",
+      "Almohad",
+      "Ayyubid",
+      "Marinid",
+      "Zirid"
+    ],
+    "main_category": "History",
+    "subcategory": "Medieval History",
+    "difficulty": "hard",
+    "id": "e58c80c3-72f8-4ef6-9621-2119f5c75476",
+    "created_at": "2025-04-14T01:42:03.221Z",
+    "backupTimestamp": "2025-04-14T01:42:03.222Z",
+    "localBackupTimestamp": "2025-04-13T19:42:03.222Z"
+  },
+  {
+    "question": "What was the Bayeux Tapestry depicting?",
+    "correct_answer": "Norman Conquest",
+    "incorrect_answers": [
+      "Hundred Years' War",
+      "Crusades",
+      "Black Death",
+      "Viking raids",
+      "Great Schism",
+      "Peasants' Revolt",
+      "War of the Roses"
+    ],
+    "main_category": "History",
+    "subcategory": "Medieval History",
+    "difficulty": "hard",
+    "id": "21c757aa-6d8a-4130-ab1e-d11a559cb7cf",
+    "created_at": "2025-04-14T01:42:03.225Z",
+    "backupTimestamp": "2025-04-14T01:42:03.226Z",
+    "localBackupTimestamp": "2025-04-13T19:42:03.226Z"
+  },
+  {
+    "question": "Which Italian city was called the 'Serene Republic'?",
+    "correct_answer": "Venice",
+    "incorrect_answers": [
+      "Florence",
+      "Milan",
+      "Genoa",
+      "Pisa",
+      "Rome",
+      "Naples",
+      "Palermo"
+    ],
+    "main_category": "History",
+    "subcategory": "Medieval History",
+    "difficulty": "hard",
+    "id": "63a272da-51d8-4476-affc-077be41a2afe",
+    "created_at": "2025-04-14T01:42:03.230Z",
+    "backupTimestamp": "2025-04-14T01:42:03.230Z",
+    "localBackupTimestamp": "2025-04-13T19:42:03.230Z"
+  },
+  {
+    "question": "What was the medieval Persian universal history?",
+    "correct_answer": "Jami al-Tawarikh",
+    "incorrect_answers": [
+      "Shahnameh",
+      "Tarikh-i Jahangushay",
+      "Zafarnama",
+      "Baburnama",
+      "Akbarnama",
+      "Tabaqat-i Nasiri",
+      "Tarikh-i Rashidi"
+    ],
+    "main_category": "History",
+    "subcategory": "Medieval History",
+    "difficulty": "hard",
+    "id": "99cbb208-9500-4f3a-99d0-4515fa6e31c9",
+    "created_at": "2025-04-14T01:42:03.235Z",
+    "backupTimestamp": "2025-04-14T01:42:03.235Z",
+    "localBackupTimestamp": "2025-04-13T19:42:03.235Z"
+  },
+  {
+    "question": "Which council condemned Jan Hus to death?",
+    "correct_answer": "Council of Constance",
+    "incorrect_answers": [
+      "Council of Basel",
+      "Council of Florence",
+      "Council of Trent",
+      "Council of Lyon",
+      "Council of Pisa",
+      "Council of Vienne",
+      "Lateran Council"
+    ],
+    "main_category": "History",
+    "subcategory": "Medieval History",
+    "difficulty": "hard",
+    "id": "4fe0aed5-2983-4bb2-9a66-a313418b598f",
+    "created_at": "2025-04-14T01:42:03.239Z",
+    "backupTimestamp": "2025-04-14T01:42:03.239Z",
+    "localBackupTimestamp": "2025-04-13T19:42:03.239Z"
+  },
+  {
+    "question": "Who wrote the medieval work 'Policraticus'?",
+    "correct_answer": "John of Salisbury",
+    "incorrect_answers": [
+      "Thomas Aquinas",
+      "Duns Scotus",
+      "William of Ockham",
+      "Roger Bacon",
+      "Albertus Magnus",
+      "Peter Abelard",
+      "Boethius"
+    ],
+    "main_category": "History",
+    "subcategory": "Medieval History",
+    "difficulty": "hard",
+    "id": "c718ad4f-689f-4478-a926-15660175f9e7",
+    "created_at": "2025-04-14T01:42:03.243Z",
+    "backupTimestamp": "2025-04-14T01:42:03.244Z",
+    "localBackupTimestamp": "2025-04-13T19:42:03.244Z"
+  },
+  {
+    "question": "Which medieval trade route connected Russia to Baghdad?",
+    "correct_answer": "Volga trade route",
+    "incorrect_answers": [
+      "Silk Road",
+      "Amber Road",
+      "Incense Route",
+      "Tea Horse Road",
+      "Trans-Saharan Route",
+      "Salt Route",
+      "Royal Road"
+    ],
+    "main_category": "History",
+    "subcategory": "Medieval History",
+    "difficulty": "hard",
+    "id": "4acd8f6b-2fe9-49ff-ab8e-5f34faff86a5",
+    "created_at": "2025-04-14T01:42:03.248Z",
+    "backupTimestamp": "2025-04-14T01:42:03.249Z",
+    "localBackupTimestamp": "2025-04-13T19:42:03.249Z"
+  },
+  {
+    "question": "What was the Code of Cuenca?",
+    "correct_answer": "Medieval Spanish law",
+    "incorrect_answers": [
+      "Byzantine legal code",
+      "Islamic religious text",
+      "Viking navigation guide",
+      "Monastic rule",
+      "Feudal obligations",
+      "Guild regulations",
+      "Merchant handbook"
+    ],
+    "main_category": "History",
+    "subcategory": "Medieval History",
+    "difficulty": "hard",
+    "id": "f402817a-ea44-484a-9fe8-7ea4cbb51ab5",
+    "created_at": "2025-04-14T01:42:03.252Z",
+    "backupTimestamp": "2025-04-14T01:42:03.253Z",
+    "localBackupTimestamp": "2025-04-13T19:42:03.253Z"
+  },
+  {
+    "question": "Who discovered medieval Arabic numerals?",
+    "correct_answer": "Al-Khwarizmi",
+    "incorrect_answers": [
+      "Ibn Sina",
+      "Al-Biruni",
+      "Ibn al-Haytham",
+      "Al-Farabi",
+      "Al-Kindi",
+      "Ibn Rushd",
+      "Al-Razi"
+    ],
+    "main_category": "History",
+    "subcategory": "Medieval History",
+    "difficulty": "hard",
+    "id": "2047f2ef-a9f9-40d5-b971-bdc37e5cbfcb",
+    "created_at": "2025-04-14T01:42:03.257Z",
+    "backupTimestamp": "2025-04-14T01:42:03.257Z",
+    "localBackupTimestamp": "2025-04-13T19:42:03.257Z"
+  },
+  {
+    "question": "What was the medieval Ethiopian royal dynasty?",
+    "correct_answer": "Solomonic",
+    "incorrect_answers": [
+      "Zagwe",
+      "Axumite",
+      "Agaw",
+      "Shoan",
+      "Gondar",
+      "Zimba",
+      "Adal"
+    ],
+    "main_category": "History",
+    "subcategory": "Medieval History",
+    "difficulty": "hard",
+    "id": "bcbcac53-6869-46ef-8f3b-e446d9c4bea8",
+    "created_at": "2025-04-14T01:42:03.261Z",
+    "backupTimestamp": "2025-04-14T01:42:03.261Z",
+    "localBackupTimestamp": "2025-04-13T19:42:03.261Z"
+  },
+  {
+    "question": "Which Viking leader besieged Paris in 885?",
+    "correct_answer": "Sigfred",
+    "incorrect_answers": [
+      "Rollo",
+      "Ragnar Lodbrok",
+      "Bjorn Ironside",
+      "Harald Bluetooth",
+      "Sweyn Forkbeard",
+      "Ivar the Boneless",
+      "Guthrum"
+    ],
+    "main_category": "History",
+    "subcategory": "Medieval History",
+    "difficulty": "hard",
+    "id": "020b5276-e9ae-484d-8c24-7864353083ee",
+    "created_at": "2025-04-14T01:42:03.265Z",
+    "backupTimestamp": "2025-04-14T01:42:03.266Z",
+    "localBackupTimestamp": "2025-04-13T19:42:03.266Z"
+  },
+  {
+    "question": "What was the Slavic warrior elite called?",
+    "correct_answer": "Druzhina",
+    "incorrect_answers": [
+      "Boyars",
+      "Voivodes",
+      "Knyaz",
+      "Bogatyrs",
+      "Oprichniki",
+      "Streltsy",
+      "Huskarls"
+    ],
+    "main_category": "History",
+    "subcategory": "Medieval History",
+    "difficulty": "hard",
+    "id": "11ccd90f-7982-4fff-83a4-55f5be9b9591",
+    "created_at": "2025-04-14T01:42:03.272Z",
+    "backupTimestamp": "2025-04-14T01:42:03.272Z",
+    "localBackupTimestamp": "2025-04-13T19:42:03.272Z"
+  },
+  {
+    "question": "Which dynasty ruled the Delhi Sultanate first?",
+    "correct_answer": "Mamluk",
+    "incorrect_answers": [
+      "Khilji",
+      "Tughlaq",
+      "Sayyid",
+      "Lodi",
+      "Mughal",
+      "Rajput",
+      "Maratha"
+    ],
+    "main_category": "History",
+    "subcategory": "Medieval History",
+    "difficulty": "hard",
+    "id": "ee515668-ba3a-4021-b39f-2de955f2c01c",
+    "created_at": "2025-04-14T01:42:03.276Z",
+    "backupTimestamp": "2025-04-14T01:42:03.277Z",
+    "localBackupTimestamp": "2025-04-13T19:42:03.277Z"
+  },
+  {
+    "question": "Who ruled the Almohad Caliphate after 1147?",
+    "correct_answer": "Abd al-Mu'min",
+    "incorrect_answers": [
+      "Yusuf ibn Tashfin",
+      "Muhammad an-Nasir",
+      "Abu Yaqub Yusuf",
+      "Ibn Tumart",
+      "Yaqub al-Mansur",
+      "Abu Sa'id Uthman",
+      "Muhammad al-Mutawakkil"
+    ],
+    "main_category": "History",
+    "subcategory": "Medieval History",
+    "difficulty": "hard",
+    "id": "4b82fe9e-391b-4b96-b842-80ef0b39f0bb",
+    "created_at": "2025-04-14T01:42:03.280Z",
+    "backupTimestamp": "2025-04-14T01:42:03.281Z",
+    "localBackupTimestamp": "2025-04-13T19:42:03.281Z"
+  },
+  {
+    "question": "What was the Burgundian royal residence?",
+    "correct_answer": "Dijon",
+    "incorrect_answers": [
+      "Lyon",
+      "Chalon",
+      "Besançon",
+      "Mâcon",
+      "Auxerre",
+      "Langres",
+      "Autun"
+    ],
+    "main_category": "History",
+    "subcategory": "Medieval History",
+    "difficulty": "hard",
+    "id": "0a1ee40d-870c-4e10-94d5-ba6adf51da42",
+    "created_at": "2025-04-14T01:42:03.285Z",
+    "backupTimestamp": "2025-04-14T01:42:03.285Z",
+    "localBackupTimestamp": "2025-04-13T19:42:03.285Z"
+  },
+  {
+    "question": "Which emperor founded the Komnenian dynasty?",
+    "correct_answer": "Alexios I",
+    "incorrect_answers": [
+      "John II",
+      "Manuel I",
+      "Andronikos I",
+      "Isaac II",
+      "Basil II",
+      "Constantine X",
+      "Michael VII"
+    ],
+    "main_category": "History",
+    "subcategory": "Medieval History",
+    "difficulty": "hard",
+    "id": "469687d2-5ab2-4e81-aa35-88182016629b",
+    "created_at": "2025-04-14T01:42:03.289Z",
+    "backupTimestamp": "2025-04-14T01:42:03.290Z",
+    "localBackupTimestamp": "2025-04-13T19:42:03.290Z"
+  },
+  {
+    "question": "What was the Danish Danegeld?",
+    "correct_answer": "Tax to pay Vikings",
+    "incorrect_answers": [
+      "Military service",
+      "Land measurement",
+      "Legal system",
+      "Trade regulation",
+      "Religious tithe",
+      "Marriage dowry",
+      "Ship building tax"
+    ],
+    "main_category": "History",
+    "subcategory": "Medieval History",
+    "difficulty": "hard",
+    "id": "8e31d4e1-bd95-435c-88e6-cb6c27202461",
+    "created_at": "2025-04-14T01:42:03.294Z",
+    "backupTimestamp": "2025-04-14T01:42:03.294Z",
+    "localBackupTimestamp": "2025-04-13T19:42:03.294Z"
+  },
+  {
+    "question": "Who translated Aristotle into Arabic?",
+    "correct_answer": "Hunayn ibn Ishaq",
+    "incorrect_answers": [
+      "Al-Farabi",
+      "Ibn Sina",
+      "Al-Kindi",
+      "Ibn Rushd",
+      "Al-Ghazali",
+      "Ibn Khaldun",
+      "Al-Razi"
+    ],
+    "main_category": "History",
+    "subcategory": "Medieval History",
+    "difficulty": "hard",
+    "id": "5f4d7305-1a81-4b85-8d32-23943fdaf9bc",
+    "created_at": "2025-04-14T01:42:03.299Z",
+    "backupTimestamp": "2025-04-14T01:42:03.300Z",
+    "localBackupTimestamp": "2025-04-13T19:42:03.300Z"
+  },
+  {
+    "question": "What medieval polity was called 'Land of Rus'?",
+    "correct_answer": "Kievan Rus",
+    "incorrect_answers": [
+      "Muscovy",
+      "Novgorod Republic",
+      "Golden Horde",
+      "Byzantine Empire",
+      "Poland-Lithuania",
+      "Khazar Khaganate",
+      "Bulgarian Empire"
+    ],
+    "main_category": "History",
+    "subcategory": "Medieval History",
+    "difficulty": "hard",
+    "id": "db267989-fe18-4a2d-b903-e4ccc0e49758",
+    "created_at": "2025-04-14T01:42:03.304Z",
+    "backupTimestamp": "2025-04-14T01:42:03.304Z",
+    "localBackupTimestamp": "2025-04-13T19:42:03.304Z"
+  },
+  {
+    "question": "Which battle ended Anglo-Saxon England?",
+    "correct_answer": "Battle of Hastings",
+    "incorrect_answers": [
+      "Battle of Stamford Bridge",
+      "Battle of Fulford",
+      "Battle of Maldon",
+      "Battle of Brunanburh",
+      "Battle of Assandun",
+      "Battle of Edington",
+      "Battle of Tettenhall"
+    ],
+    "main_category": "History",
+    "subcategory": "Medieval History",
+    "difficulty": "hard",
+    "id": "03506f6b-41f8-4604-9149-6200ddbdbdf6",
+    "created_at": "2025-04-14T01:42:03.308Z",
+    "backupTimestamp": "2025-04-14T01:42:03.308Z",
+    "localBackupTimestamp": "2025-04-13T19:42:03.308Z"
+  },
+  {
+    "question": "What was the samurai warrior code?",
+    "correct_answer": "Bushido",
+    "incorrect_answers": [
+      "Shinto",
+      "Zen",
+      "Bakufu",
+      "Daimyo",
+      "Shogunate",
+      "Ronin",
+      "Seppuku"
+    ],
+    "main_category": "History",
+    "subcategory": "Medieval History",
+    "difficulty": "hard",
+    "id": "669d7d8f-0f4c-4b66-9530-86a8ec852557",
+    "created_at": "2025-04-14T01:42:03.312Z",
+    "backupTimestamp": "2025-04-14T01:42:03.313Z",
+    "localBackupTimestamp": "2025-04-13T19:42:03.313Z"
   }
 ]
