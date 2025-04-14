@@ -26,11 +26,7 @@
 - Ancient History
 - Medieval History
 - Modern History
-- Wars & Conflicts
-- Historical Figures
 - Inventions & Discoveries
-- World Leaders
-- Archaeological Finds
 
 ## Geography
 - Countries & Capitals
