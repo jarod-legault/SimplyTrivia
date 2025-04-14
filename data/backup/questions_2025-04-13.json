@@ -14838,5 +14838,3245 @@
     "created_at": "2025-04-13T23:45:29.165Z",
     "backupTimestamp": "2025-04-13T23:45:29.166Z",
     "localBackupTimestamp": "2025-04-13T17:45:29.166Z"
+  },
+  {
+    "question": "What process do plants use to make their own food?",
+    "correct_answer": "Photosynthesis",
+    "incorrect_answers": [
+      "Respiration",
+      "Transpiration",
+      "Germination",
+      "Pollination",
+      "Fermentation",
+      "Decomposition",
+      "Hydration"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Plants & Botany",
+    "difficulty": "easy",
+    "id": "ab18dabe-16fb-4442-90b1-3550ba52137b",
+    "created_at": "2025-04-13T23:52:12.841Z",
+    "backupTimestamp": "2025-04-13T23:52:12.848Z",
+    "localBackupTimestamp": "2025-04-13T17:52:12.848Z"
+  },
+  {
+    "question": "Which part of a plant absorbs water and nutrients?",
+    "correct_answer": "Roots",
+    "incorrect_answers": [
+      "Leaves",
+      "Stem",
+      "Flowers",
+      "Seeds",
+      "Fruit",
+      "Petals",
+      "Buds"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Plants & Botany",
+    "difficulty": "easy",
+    "id": "be9454dc-4e4b-4da2-905c-6ffd7c05ee0c",
+    "created_at": "2025-04-13T23:52:12.859Z",
+    "backupTimestamp": "2025-04-13T23:52:12.861Z",
+    "localBackupTimestamp": "2025-04-13T17:52:12.861Z"
+  },
+  {
+    "question": "Which gas do plants release during photosynthesis?",
+    "correct_answer": "Oxygen",
+    "incorrect_answers": [
+      "Carbon Dioxide",
+      "Nitrogen",
+      "Hydrogen",
+      "Methane",
+      "Water Vapor",
+      "Argon",
+      "Helium"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Plants & Botany",
+    "difficulty": "easy",
+    "id": "6ec1fc21-bef0-4d93-a205-298bc01dfca0",
+    "created_at": "2025-04-13T23:52:12.868Z",
+    "backupTimestamp": "2025-04-13T23:52:12.869Z",
+    "localBackupTimestamp": "2025-04-13T17:52:12.869Z"
+  },
+  {
+    "question": "What do you call the transfer of pollen to a stigma?",
+    "correct_answer": "Pollination",
+    "incorrect_answers": [
+      "Fertilization",
+      "Germination",
+      "Reproduction",
+      "Photosynthesis",
+      "Transpiration",
+      "Respiration",
+      "Cultivation"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Plants & Botany",
+    "difficulty": "easy",
+    "id": "850c0aaa-fb95-4013-8e7b-5edc159aa9bd",
+    "created_at": "2025-04-13T23:52:12.877Z",
+    "backupTimestamp": "2025-04-13T23:52:12.878Z",
+    "localBackupTimestamp": "2025-04-13T17:52:12.878Z"
+  },
+  {
+    "question": "Which part of a flower develops into fruit?",
+    "correct_answer": "Ovary",
+    "incorrect_answers": [
+      "Petal",
+      "Sepal",
+      "Stamen",
+      "Stem",
+      "Pollen",
+      "Stigma",
+      "Anther"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Plants & Botany",
+    "difficulty": "easy",
+    "id": "de082407-0a99-4272-9843-3f1608b438b2",
+    "created_at": "2025-04-13T23:52:12.886Z",
+    "backupTimestamp": "2025-04-13T23:52:12.887Z",
+    "localBackupTimestamp": "2025-04-13T17:52:12.887Z"
+  },
+  {
+    "question": "What do you call a young plant growing from a seed?",
+    "correct_answer": "Seedling",
+    "incorrect_answers": [
+      "Sapling",
+      "Sprout",
+      "Embryo",
+      "Germinator",
+      "Shoot",
+      "Plantlet",
+      "Propagule"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Plants & Botany",
+    "difficulty": "easy",
+    "id": "61332c41-f622-4c86-9fbd-e41a55f7327e",
+    "created_at": "2025-04-13T23:52:12.898Z",
+    "backupTimestamp": "2025-04-13T23:52:12.898Z",
+    "localBackupTimestamp": "2025-04-13T17:52:12.898Z"
+  },
+  {
+    "question": "What is the largest flower in the world?",
+    "correct_answer": "Rafflesia",
+    "incorrect_answers": [
+      "Sunflower",
+      "Rose",
+      "Lily",
+      "Tulip",
+      "Orchid",
+      "Daisy",
+      "Dandelion"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Plants & Botany",
+    "difficulty": "easy",
+    "id": "739190cf-6644-420a-8e91-6ef848cacaf8",
+    "created_at": "2025-04-13T23:52:12.902Z",
+    "backupTimestamp": "2025-04-13T23:52:12.903Z",
+    "localBackupTimestamp": "2025-04-13T17:52:12.903Z"
+  },
+  {
+    "question": "What is the study of plants called?",
+    "correct_answer": "Botany",
+    "incorrect_answers": [
+      "Zoology",
+      "Biology",
+      "Ecology",
+      "Horticulture",
+      "Agriculture",
+      "Floristry",
+      "Phytology"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Plants & Botany",
+    "difficulty": "easy",
+    "id": "11f2b3dc-e39e-45b8-9a24-43e61a03762c",
+    "created_at": "2025-04-13T23:52:12.908Z",
+    "backupTimestamp": "2025-04-13T23:52:12.908Z",
+    "localBackupTimestamp": "2025-04-13T17:52:12.908Z"
+  },
+  {
+    "question": "Which part of a plant makes food?",
+    "correct_answer": "Leaves",
+    "incorrect_answers": [
+      "Roots",
+      "Stem",
+      "Flowers",
+      "Fruit",
+      "Seeds",
+      "Bark",
+      "Buds"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Plants & Botany",
+    "difficulty": "easy",
+    "id": "8782f180-fd24-46dc-98ab-af0a5e2e5165",
+    "created_at": "2025-04-13T23:52:12.912Z",
+    "backupTimestamp": "2025-04-13T23:52:12.913Z",
+    "localBackupTimestamp": "2025-04-13T17:52:12.913Z"
+  },
+  {
+    "question": "Where is chlorophyll found in a plant?",
+    "correct_answer": "Chloroplasts",
+    "incorrect_answers": [
+      "Nucleus",
+      "Cell Wall",
+      "Mitochondria",
+      "Vacuole",
+      "Golgi Body",
+      "Ribosome",
+      "Cell Membrane"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Plants & Botany",
+    "difficulty": "easy",
+    "id": "77451197-b505-4d8c-8c8a-a803e5bad769",
+    "created_at": "2025-04-13T23:52:12.918Z",
+    "backupTimestamp": "2025-04-13T23:52:12.918Z",
+    "localBackupTimestamp": "2025-04-13T17:52:12.918Z"
+  },
+  {
+    "question": "What is the primary pigment in plants?",
+    "correct_answer": "Chlorophyll",
+    "incorrect_answers": [
+      "Carotene",
+      "Xanthophyll",
+      "Melanin",
+      "Anthocyanin",
+      "Lycopene",
+      "Phycobilin",
+      "Flavonoid"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Plants & Botany",
+    "difficulty": "easy",
+    "id": "042cab25-2a54-4077-8d91-bf2e9f9fea1b",
+    "created_at": "2025-04-13T23:52:12.922Z",
+    "backupTimestamp": "2025-04-13T23:52:12.923Z",
+    "localBackupTimestamp": "2025-04-13T17:52:12.923Z"
+  },
+  {
+    "question": "What do you call a plant that lives for one growing season?",
+    "correct_answer": "Annual",
+    "incorrect_answers": [
+      "Perennial",
+      "Biennial",
+      "Evergreen",
+      "Deciduous",
+      "Succulent",
+      "Herbaceous",
+      "Ephemeral"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Plants & Botany",
+    "difficulty": "easy",
+    "id": "195b7f57-c607-4a33-820e-637c1d329718",
+    "created_at": "2025-04-13T23:52:12.927Z",
+    "backupTimestamp": "2025-04-13T23:52:12.928Z",
+    "localBackupTimestamp": "2025-04-13T17:52:12.928Z"
+  },
+  {
+    "question": "What is the male reproductive part of a flower?",
+    "correct_answer": "Stamen",
+    "incorrect_answers": [
+      "Pistil",
+      "Sepal",
+      "Petal",
+      "Ovary",
+      "Stigma",
+      "Style",
+      "Ovule"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Plants & Botany",
+    "difficulty": "easy",
+    "id": "acb0cffe-acc8-4c55-aeb0-89e7e17bdb2c",
+    "created_at": "2025-04-13T23:52:12.931Z",
+    "backupTimestamp": "2025-04-13T23:52:12.932Z",
+    "localBackupTimestamp": "2025-04-13T17:52:12.932Z"
+  },
+  {
+    "question": "Which gas do plants take in during photosynthesis?",
+    "correct_answer": "Carbon Dioxide",
+    "incorrect_answers": [
+      "Oxygen",
+      "Nitrogen",
+      "Hydrogen",
+      "Methane",
+      "Helium",
+      "Argon",
+      "Neon"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Plants & Botany",
+    "difficulty": "easy",
+    "id": "0429f6e5-dfeb-4850-aaa9-351909dbe441",
+    "created_at": "2025-04-13T23:52:12.935Z",
+    "backupTimestamp": "2025-04-13T23:52:12.936Z",
+    "localBackupTimestamp": "2025-04-13T17:52:12.936Z"
+  },
+  {
+    "question": "What is the tallest type of grass?",
+    "correct_answer": "Bamboo",
+    "incorrect_answers": [
+      "Wheat",
+      "Corn",
+      "Rice",
+      "Sugarcane",
+      "Barley",
+      "Oats",
+      "Rye"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Plants & Botany",
+    "difficulty": "easy",
+    "id": "d041eeee-1caf-4db3-8b38-c108f669bb5a",
+    "created_at": "2025-04-13T23:52:12.940Z",
+    "backupTimestamp": "2025-04-13T23:52:12.941Z",
+    "localBackupTimestamp": "2025-04-13T17:52:12.941Z"
+  },
+  {
+    "question": "What do botanists study?",
+    "correct_answer": "Plants",
+    "incorrect_answers": [
+      "Animals",
+      "Rocks",
+      "Weather",
+      "Oceans",
+      "Soil",
+      "Fungi",
+      "Bacteria"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Plants & Botany",
+    "difficulty": "easy",
+    "id": "a75ddefc-3cf3-4581-b6e2-fae78a431c03",
+    "created_at": "2025-04-13T23:52:12.945Z",
+    "backupTimestamp": "2025-04-13T23:52:12.946Z",
+    "localBackupTimestamp": "2025-04-13T17:52:12.946Z"
+  },
+  {
+    "question": "Where is the youngest part of a tree trunk?",
+    "correct_answer": "Outer rings",
+    "incorrect_answers": [
+      "Inner rings",
+      "Middle section",
+      "Core",
+      "Base",
+      "Top",
+      "Branch connections",
+      "Root collar"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Plants & Botany",
+    "difficulty": "easy",
+    "id": "7d2dfd24-e255-4d8a-b888-635fccbb953c",
+    "created_at": "2025-04-13T23:52:12.950Z",
+    "backupTimestamp": "2025-04-13T23:52:12.950Z",
+    "localBackupTimestamp": "2025-04-13T17:52:12.950Z"
+  },
+  {
+    "question": "What do plants need to grow?",
+    "correct_answer": "Sunlight",
+    "incorrect_answers": [
+      "Darkness",
+      "Salt",
+      "Sugar",
+      "Milk",
+      "Meat",
+      "Oil",
+      "Vinegar"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Plants & Botany",
+    "difficulty": "easy",
+    "id": "b6549e64-d123-4331-9c8b-55e55abd68ab",
+    "created_at": "2025-04-13T23:52:12.956Z",
+    "backupTimestamp": "2025-04-13T23:52:12.956Z",
+    "localBackupTimestamp": "2025-04-13T17:52:12.956Z"
+  },
+  {
+    "question": "What happens during germination?",
+    "correct_answer": "A seed begins to grow",
+    "incorrect_answers": [
+      "A flower dies",
+      "Leaves fall off",
+      "Roots dry up",
+      "Pollen forms",
+      "Fruit ripens",
+      "Plant wilts",
+      "Tree produces sap"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Plants & Botany",
+    "difficulty": "easy",
+    "id": "63cf3ab2-78cc-4493-853d-9269d44653df",
+    "created_at": "2025-04-13T23:52:12.959Z",
+    "backupTimestamp": "2025-04-13T23:52:12.960Z",
+    "localBackupTimestamp": "2025-04-13T17:52:12.960Z"
+  },
+  {
+    "question": "Which plant pigment makes leaves green?",
+    "correct_answer": "Chlorophyll",
+    "incorrect_answers": [
+      "Carotenoid",
+      "Anthocyanin",
+      "Melanin",
+      "Xanthophyll",
+      "Phycocyanin",
+      "Betalain",
+      "Lycopene"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Plants & Botany",
+    "difficulty": "easy",
+    "id": "984c31dd-6650-4787-af68-0516b4cdfa85",
+    "created_at": "2025-04-13T23:52:12.963Z",
+    "backupTimestamp": "2025-04-13T23:52:12.964Z",
+    "localBackupTimestamp": "2025-04-13T17:52:12.964Z"
+  },
+  {
+    "question": "What is the hard outer layer of a seed called?",
+    "correct_answer": "Seed coat",
+    "incorrect_answers": [
+      "Shell",
+      "Husk",
+      "Skin",
+      "Peel",
+      "Membrane",
+      "Endosperm",
+      "Embryo"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Plants & Botany",
+    "difficulty": "easy",
+    "id": "ae3951ec-3671-4204-bd2c-9de7ef546321",
+    "created_at": "2025-04-13T23:52:12.968Z",
+    "backupTimestamp": "2025-04-13T23:52:12.968Z",
+    "localBackupTimestamp": "2025-04-13T17:52:12.968Z"
+  },
+  {
+    "question": "Which part of a flower attracts pollinators?",
+    "correct_answer": "Petals",
+    "incorrect_answers": [
+      "Sepals",
+      "Stems",
+      "Roots",
+      "Leaves",
+      "Pistil",
+      "Stamen",
+      "Ovary"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Plants & Botany",
+    "difficulty": "easy",
+    "id": "1767209c-3531-4f12-97c4-1cc760a83ddc",
+    "created_at": "2025-04-13T23:52:12.974Z",
+    "backupTimestamp": "2025-04-13T23:52:12.974Z",
+    "localBackupTimestamp": "2025-04-13T17:52:12.974Z"
+  },
+  {
+    "question": "Which tree is known as the 'Tree of Life'?",
+    "correct_answer": "Baobab",
+    "incorrect_answers": [
+      "Oak",
+      "Maple",
+      "Pine",
+      "Cedar",
+      "Sequoia",
+      "Willow",
+      "Birch"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Plants & Botany",
+    "difficulty": "easy",
+    "id": "c9d0dabf-02df-403a-99f6-7d94c9b5c2ef",
+    "created_at": "2025-04-13T23:52:12.978Z",
+    "backupTimestamp": "2025-04-13T23:52:12.978Z",
+    "localBackupTimestamp": "2025-04-13T17:52:12.978Z"
+  },
+  {
+    "question": "What do plants use to make their food?",
+    "correct_answer": "Sunlight",
+    "incorrect_answers": [
+      "Soil",
+      "Water",
+      "Air",
+      "Fertilizer",
+      "Seeds",
+      "Minerals",
+      "Insects"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Plants & Botany",
+    "difficulty": "easy",
+    "id": "a4180ccd-ef6f-4cf5-84af-cfc8b5d7ec4a",
+    "created_at": "2025-04-13T23:52:12.981Z",
+    "backupTimestamp": "2025-04-13T23:52:12.981Z",
+    "localBackupTimestamp": "2025-04-13T17:52:12.981Z"
+  },
+  {
+    "question": "What structure allows plants to exchange gases?",
+    "correct_answer": "Stomata",
+    "incorrect_answers": [
+      "Xylem",
+      "Phloem",
+      "Roots",
+      "Cell wall",
+      "Chloroplast",
+      "Vacuole",
+      "Mitochondria"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Plants & Botany",
+    "difficulty": "easy",
+    "id": "5d7ed232-d86e-481b-8585-da663d480daa",
+    "created_at": "2025-04-13T23:52:12.984Z",
+    "backupTimestamp": "2025-04-13T23:52:12.985Z",
+    "localBackupTimestamp": "2025-04-13T17:52:12.985Z"
+  },
+  {
+    "question": "Which part of a plant carries water from the roots?",
+    "correct_answer": "Stem",
+    "incorrect_answers": [
+      "Leaves",
+      "Flowers",
+      "Fruit",
+      "Seeds",
+      "Petals",
+      "Pollen",
+      "Bark"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Plants & Botany",
+    "difficulty": "easy",
+    "id": "23ddf0c0-260c-43c3-91eb-cd7e1017f717",
+    "created_at": "2025-04-13T23:52:12.989Z",
+    "backupTimestamp": "2025-04-13T23:52:12.990Z",
+    "localBackupTimestamp": "2025-04-13T17:52:12.990Z"
+  },
+  {
+    "question": "What is the national flower of Japan?",
+    "correct_answer": "Cherry Blossom",
+    "incorrect_answers": [
+      "Rose",
+      "Lotus",
+      "Tulip",
+      "Orchid",
+      "Lily",
+      "Daisy",
+      "Sunflower"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Plants & Botany",
+    "difficulty": "easy",
+    "id": "86fb4b78-ddc5-402c-bfbb-7f1cb114827a",
+    "created_at": "2025-04-13T23:52:12.993Z",
+    "backupTimestamp": "2025-04-13T23:52:12.993Z",
+    "localBackupTimestamp": "2025-04-13T17:52:12.993Z"
+  },
+  {
+    "question": "What is the main function of a flower?",
+    "correct_answer": "Reproduction",
+    "incorrect_answers": [
+      "Photosynthesis",
+      "Water absorption",
+      "Food storage",
+      "Support",
+      "Protection",
+      "Transpiration",
+      "Respiration"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Plants & Botany",
+    "difficulty": "easy",
+    "id": "dffa2758-c58a-4bb2-b32f-5cee0987416d",
+    "created_at": "2025-04-13T23:52:12.996Z",
+    "backupTimestamp": "2025-04-13T23:52:12.996Z",
+    "localBackupTimestamp": "2025-04-13T17:52:12.996Z"
+  },
+  {
+    "question": "Which trees produce acorns?",
+    "correct_answer": "Oak trees",
+    "incorrect_answers": [
+      "Maple trees",
+      "Pine trees",
+      "Palm trees",
+      "Apple trees",
+      "Willow trees",
+      "Birch trees",
+      "Cedar trees"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Plants & Botany",
+    "difficulty": "easy",
+    "id": "8b916f90-ca31-48a7-a6e0-704633d4cd95",
+    "created_at": "2025-04-13T23:52:12.999Z",
+    "backupTimestamp": "2025-04-13T23:52:13.000Z",
+    "localBackupTimestamp": "2025-04-13T17:52:13.000Z"
+  },
+  {
+    "question": "What organ do plants use for photosynthesis?",
+    "correct_answer": "Leaves",
+    "incorrect_answers": [
+      "Roots",
+      "Stem",
+      "Flower",
+      "Fruit",
+      "Seed",
+      "Bark",
+      "Branch"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Plants & Botany",
+    "difficulty": "easy",
+    "id": "4f9e06fd-14e0-4447-85a7-0c4fd513619f",
+    "created_at": "2025-04-13T23:52:13.004Z",
+    "backupTimestamp": "2025-04-13T23:52:13.004Z",
+    "localBackupTimestamp": "2025-04-13T17:52:13.004Z"
+  },
+  {
+    "question": "What is the female part of a flower called?",
+    "correct_answer": "Pistil",
+    "incorrect_answers": [
+      "Stamen",
+      "Petal",
+      "Sepal",
+      "Anther",
+      "Filament",
+      "Calyx",
+      "Corolla"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Plants & Botany",
+    "difficulty": "easy",
+    "id": "96f5ff76-0a5a-4915-9902-15dda10ec200",
+    "created_at": "2025-04-13T23:52:13.007Z",
+    "backupTimestamp": "2025-04-13T23:52:13.008Z",
+    "localBackupTimestamp": "2025-04-13T17:52:13.008Z"
+  },
+  {
+    "question": "Which plant is known as a source of natural rubber?",
+    "correct_answer": "Rubber tree",
+    "incorrect_answers": [
+      "Oak tree",
+      "Maple tree",
+      "Bamboo",
+      "Cotton plant",
+      "Aloe vera",
+      "Cactus",
+      "Palm tree"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Plants & Botany",
+    "difficulty": "easy",
+    "id": "e0dbe7e2-3076-4884-ac49-ce10b73b2d42",
+    "created_at": "2025-04-13T23:52:13.011Z",
+    "backupTimestamp": "2025-04-13T23:52:13.011Z",
+    "localBackupTimestamp": "2025-04-13T17:52:13.011Z"
+  },
+  {
+    "question": "What provides the green color in leaves?",
+    "correct_answer": "Chlorophyll",
+    "incorrect_answers": [
+      "Hemoglobin",
+      "Melanin",
+      "Carotene",
+      "Xanthophyll",
+      "Anthocyanin",
+      "Phycocyanin",
+      "Lycopene"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Plants & Botany",
+    "difficulty": "easy",
+    "id": "2848dd6c-0f3c-4030-bfde-b2e5cb811f69",
+    "created_at": "2025-04-13T23:52:13.014Z",
+    "backupTimestamp": "2025-04-13T23:52:13.015Z",
+    "localBackupTimestamp": "2025-04-13T17:52:13.015Z"
+  },
+  {
+    "question": "What do you call plants that grow in dry conditions?",
+    "correct_answer": "Succulents",
+    "incorrect_answers": [
+      "Aquatics",
+      "Vines",
+      "Shrubs",
+      "Herbs",
+      "Annuals",
+      "Perennials",
+      "Epiphytes"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Plants & Botany",
+    "difficulty": "easy",
+    "id": "f1cd3c3a-aa01-4fd5-b232-e7b034143a91",
+    "created_at": "2025-04-13T23:52:13.019Z",
+    "backupTimestamp": "2025-04-13T23:52:13.021Z",
+    "localBackupTimestamp": "2025-04-13T17:52:13.021Z"
+  },
+  {
+    "question": "What is a group of trees called?",
+    "correct_answer": "Forest",
+    "incorrect_answers": [
+      "Herd",
+      "Flock",
+      "Pack",
+      "Pod",
+      "Colony",
+      "Swarm",
+      "Gaggle"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Plants & Botany",
+    "difficulty": "easy",
+    "id": "f15ddf0a-8886-4bc7-bccf-5b8e8c29db93",
+    "created_at": "2025-04-13T23:52:13.024Z",
+    "backupTimestamp": "2025-04-13T23:52:13.025Z",
+    "localBackupTimestamp": "2025-04-13T17:52:13.025Z"
+  },
+  {
+    "question": "Which flower follows the sun's movement?",
+    "correct_answer": "Sunflower",
+    "incorrect_answers": [
+      "Rose",
+      "Tulip",
+      "Daisy",
+      "Lily",
+      "Orchid",
+      "Carnation",
+      "Daffodil"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Plants & Botany",
+    "difficulty": "easy",
+    "id": "7b33cad4-670d-428e-9e74-3e50375a59d9",
+    "created_at": "2025-04-13T23:52:13.028Z",
+    "backupTimestamp": "2025-04-13T23:52:13.028Z",
+    "localBackupTimestamp": "2025-04-13T17:52:13.028Z"
+  },
+  {
+    "question": "What part of a plant stores food?",
+    "correct_answer": "Fruit",
+    "incorrect_answers": [
+      "Stem",
+      "Leaf",
+      "Root",
+      "Flower",
+      "Bark",
+      "Thorn",
+      "Branch"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Plants & Botany",
+    "difficulty": "easy",
+    "id": "c2fff9aa-a4ed-4dba-b0f6-f0400bf8b3d0",
+    "created_at": "2025-04-13T23:52:13.031Z",
+    "backupTimestamp": "2025-04-13T23:52:13.032Z",
+    "localBackupTimestamp": "2025-04-13T17:52:13.032Z"
+  },
+  {
+    "question": "What do plants breathe in that humans breathe out?",
+    "correct_answer": "Carbon dioxide",
+    "incorrect_answers": [
+      "Oxygen",
+      "Nitrogen",
+      "Hydrogen",
+      "Methane",
+      "Argon",
+      "Helium",
+      "Water vapor"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Plants & Botany",
+    "difficulty": "easy",
+    "id": "84c6f741-ad37-4b9a-a0ea-04798ac78e72",
+    "created_at": "2025-04-13T23:52:13.035Z",
+    "backupTimestamp": "2025-04-13T23:52:13.036Z",
+    "localBackupTimestamp": "2025-04-13T17:52:13.036Z"
+  },
+  {
+    "question": "What are the tiny holes in leaves called?",
+    "correct_answer": "Stomata",
+    "incorrect_answers": [
+      "Pores",
+      "Vents",
+      "Cells",
+      "Veins",
+      "Ducts",
+      "Nodes",
+      "Follicles"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Plants & Botany",
+    "difficulty": "easy",
+    "id": "410077ed-07e9-4452-bacc-ca8139be7278",
+    "created_at": "2025-04-13T23:52:13.040Z",
+    "backupTimestamp": "2025-04-13T23:52:13.041Z",
+    "localBackupTimestamp": "2025-04-13T17:52:13.041Z"
+  },
+  {
+    "question": "What edible part of a plant is the flower bud?",
+    "correct_answer": "Broccoli",
+    "incorrect_answers": [
+      "Carrot",
+      "Potato",
+      "Celery",
+      "Spinach",
+      "Lettuce",
+      "Tomato",
+      "Cucumber"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Plants & Botany",
+    "difficulty": "easy",
+    "id": "d0bdcb58-3d20-4af1-9546-b9bccb238d75",
+    "created_at": "2025-04-13T23:52:13.045Z",
+    "backupTimestamp": "2025-04-13T23:52:13.045Z",
+    "localBackupTimestamp": "2025-04-13T17:52:13.045Z"
+  },
+  {
+    "question": "What is the outermost layer of a tree?",
+    "correct_answer": "Bark",
+    "incorrect_answers": [
+      "Cambium",
+      "Phloem",
+      "Xylem",
+      "Heartwood",
+      "Sapwood",
+      "Pith",
+      "Cork"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Plants & Botany",
+    "difficulty": "easy",
+    "id": "bb43c567-f17a-48cc-a4bf-8046c225a6c0",
+    "created_at": "2025-04-13T23:52:13.049Z",
+    "backupTimestamp": "2025-04-13T23:52:13.050Z",
+    "localBackupTimestamp": "2025-04-13T17:52:13.050Z"
+  },
+  {
+    "question": "What grain is used to make bread?",
+    "correct_answer": "Wheat",
+    "incorrect_answers": [
+      "Rice",
+      "Corn",
+      "Oats",
+      "Barley",
+      "Millet",
+      "Quinoa",
+      "Rye"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Plants & Botany",
+    "difficulty": "easy",
+    "id": "11a2cb6d-41c7-4eda-a565-10b71905b168",
+    "created_at": "2025-04-13T23:52:13.054Z",
+    "backupTimestamp": "2025-04-13T23:52:13.054Z",
+    "localBackupTimestamp": "2025-04-13T17:52:13.054Z"
+  },
+  {
+    "question": "What structure holds a plant in the ground?",
+    "correct_answer": "Roots",
+    "incorrect_answers": [
+      "Stem",
+      "Leaves",
+      "Branches",
+      "Trunk",
+      "Shoots",
+      "Buds",
+      "Tubers"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Plants & Botany",
+    "difficulty": "easy",
+    "id": "16248104-dd28-4360-91f2-f35bc19bed7c",
+    "created_at": "2025-04-13T23:52:13.059Z",
+    "backupTimestamp": "2025-04-13T23:52:13.059Z",
+    "localBackupTimestamp": "2025-04-13T17:52:13.059Z"
+  },
+  {
+    "question": "Which plant is used to make tequila?",
+    "correct_answer": "Agave",
+    "incorrect_answers": [
+      "Cactus",
+      "Aloe",
+      "Yucca",
+      "Bamboo",
+      "Palm",
+      "Succulent",
+      "Fern"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Plants & Botany",
+    "difficulty": "easy",
+    "id": "15236b0c-aac6-4ca9-8fc1-c3644cac5d2f",
+    "created_at": "2025-04-13T23:52:13.063Z",
+    "backupTimestamp": "2025-04-13T23:52:13.063Z",
+    "localBackupTimestamp": "2025-04-13T17:52:13.063Z"
+  },
+  {
+    "question": "What do trees produce that helps us breathe?",
+    "correct_answer": "Oxygen",
+    "incorrect_answers": [
+      "Carbon dioxide",
+      "Nitrogen",
+      "Hydrogen",
+      "Methane",
+      "Water vapor",
+      "Helium",
+      "Ozone"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Plants & Botany",
+    "difficulty": "easy",
+    "id": "d2ccd7d0-e65a-4626-be07-102b17081ebd",
+    "created_at": "2025-04-13T23:52:13.067Z",
+    "backupTimestamp": "2025-04-13T23:52:13.067Z",
+    "localBackupTimestamp": "2025-04-13T17:52:13.067Z"
+  },
+  {
+    "question": "Which part of a plant conducts photosynthesis?",
+    "correct_answer": "Leaves",
+    "incorrect_answers": [
+      "Roots",
+      "Stems",
+      "Flowers",
+      "Seeds",
+      "Fruits",
+      "Bark",
+      "Buds"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Plants & Botany",
+    "difficulty": "easy",
+    "id": "e6a61174-5b86-46b1-8bbd-2e4bd3f66baa",
+    "created_at": "2025-04-13T23:52:13.071Z",
+    "backupTimestamp": "2025-04-13T23:52:13.071Z",
+    "localBackupTimestamp": "2025-04-13T17:52:13.071Z"
+  },
+  {
+    "question": "What is the main function of plant roots?",
+    "correct_answer": "Absorb water and nutrients",
+    "incorrect_answers": [
+      "Produce food",
+      "Release oxygen",
+      "Store energy",
+      "Attract pollinators",
+      "Produce seeds",
+      "Release pollen",
+      "Create shade"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Plants & Botany",
+    "difficulty": "easy",
+    "id": "d463443e-bf0a-42d6-b4d3-f0be875aa844",
+    "created_at": "2025-04-13T23:52:13.074Z",
+    "backupTimestamp": "2025-04-13T23:52:13.075Z",
+    "localBackupTimestamp": "2025-04-13T17:52:13.075Z"
+  },
+  {
+    "question": "Which flower is a symbol of love?",
+    "correct_answer": "Rose",
+    "incorrect_answers": [
+      "Tulip",
+      "Daisy",
+      "Lily",
+      "Sunflower",
+      "Orchid",
+      "Daffodil",
+      "Carnation"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Plants & Botany",
+    "difficulty": "easy",
+    "id": "f729b086-e1e8-4b5f-b564-e22787cf7a66",
+    "created_at": "2025-04-13T23:52:13.078Z",
+    "backupTimestamp": "2025-04-13T23:52:13.078Z",
+    "localBackupTimestamp": "2025-04-13T17:52:13.078Z"
+  },
+  {
+    "question": "What do we call plants that produce cones?",
+    "correct_answer": "Conifers",
+    "incorrect_answers": [
+      "Deciduous",
+      "Evergreen",
+      "Broadleaf",
+      "Tropical",
+      "Flowering",
+      "Succulents",
+      "Perennials"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Plants & Botany",
+    "difficulty": "easy",
+    "id": "5bd4baaf-da65-4c65-b829-327de49cd5b0",
+    "created_at": "2025-04-13T23:52:13.082Z",
+    "backupTimestamp": "2025-04-13T23:52:13.082Z",
+    "localBackupTimestamp": "2025-04-13T17:52:13.082Z"
+  },
+  {
+    "question": "What is the largest living plant on Earth?",
+    "correct_answer": "Giant Sequoia",
+    "incorrect_answers": [
+      "Redwood",
+      "Banyan Tree",
+      "Blue Whale",
+      "Oak Tree",
+      "Bamboo",
+      "Kelp",
+      "Baobab"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Plants & Botany",
+    "difficulty": "easy",
+    "id": "90ca853d-df71-44be-ba89-44e2acbc35d3",
+    "created_at": "2025-04-13T23:52:13.085Z",
+    "backupTimestamp": "2025-04-13T23:52:13.086Z",
+    "localBackupTimestamp": "2025-04-13T17:52:13.086Z"
+  },
+  {
+    "question": "What plant is used to make chocolate?",
+    "correct_answer": "Cacao",
+    "incorrect_answers": [
+      "Coffee",
+      "Vanilla",
+      "Sugar cane",
+      "Mint",
+      "Tea",
+      "Coconut",
+      "Almond"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Plants & Botany",
+    "difficulty": "easy",
+    "id": "86318a8c-a9b6-4d7f-affd-cec9b8c1db99",
+    "created_at": "2025-04-13T23:52:13.090Z",
+    "backupTimestamp": "2025-04-13T23:52:13.091Z",
+    "localBackupTimestamp": "2025-04-13T17:52:13.091Z"
+  },
+  {
+    "question": "What flower is often associated with the Netherlands?",
+    "correct_answer": "Tulip",
+    "incorrect_answers": [
+      "Rose",
+      "Daisy",
+      "Lily",
+      "Sunflower",
+      "Orchid",
+      "Daffodil",
+      "Carnation"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Plants & Botany",
+    "difficulty": "easy",
+    "id": "80c89bf3-38ba-41ec-8110-dde4f57e5337",
+    "created_at": "2025-04-13T23:52:13.094Z",
+    "backupTimestamp": "2025-04-13T23:52:13.094Z",
+    "localBackupTimestamp": "2025-04-13T17:52:13.094Z"
+  },
+  {
+    "question": "What are baby plants called?",
+    "correct_answer": "Seedlings",
+    "incorrect_answers": [
+      "Saplings",
+      "Sprouts",
+      "Buds",
+      "Shoots",
+      "Offspring",
+      "Germs",
+      "Plantlets"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Plants & Botany",
+    "difficulty": "easy",
+    "id": "9f121a69-fe23-4791-b46b-12ff5978f148",
+    "created_at": "2025-04-13T23:52:13.098Z",
+    "backupTimestamp": "2025-04-13T23:52:13.098Z",
+    "localBackupTimestamp": "2025-04-13T17:52:13.098Z"
+  },
+  {
+    "question": "What is the national flower of the United States?",
+    "correct_answer": "Rose",
+    "incorrect_answers": [
+      "Sunflower",
+      "Daisy",
+      "Lily",
+      "Tulip",
+      "Daffodil",
+      "Orchid",
+      "Carnation"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Plants & Botany",
+    "difficulty": "easy",
+    "id": "5e5c6ae5-7d17-47cc-a01f-c4f735f62cde",
+    "created_at": "2025-04-13T23:52:13.101Z",
+    "backupTimestamp": "2025-04-13T23:52:13.101Z",
+    "localBackupTimestamp": "2025-04-13T17:52:13.101Z"
+  },
+  {
+    "question": "Which plant contains the chemical compound capsaicin?",
+    "correct_answer": "Chili pepper",
+    "incorrect_answers": [
+      "Mint",
+      "Basil",
+      "Oregano",
+      "Thyme",
+      "Cinnamon",
+      "Ginger",
+      "Turmeric"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Plants & Botany",
+    "difficulty": "medium",
+    "id": "09e46612-3b1e-43e4-baed-4dd0372e05b5",
+    "created_at": "2025-04-13T23:56:43.195Z",
+    "backupTimestamp": "2025-04-13T23:56:43.201Z",
+    "localBackupTimestamp": "2025-04-13T17:56:43.201Z"
+  },
+  {
+    "question": "What is the process of water loss from plant leaves?",
+    "correct_answer": "Transpiration",
+    "incorrect_answers": [
+      "Photosynthesis",
+      "Respiration",
+      "Evaporation",
+      "Condensation",
+      "Absorption",
+      "Osmosis",
+      "Guttation"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Plants & Botany",
+    "difficulty": "medium",
+    "id": "017ef50b-323c-461c-871c-6372e8b79148",
+    "created_at": "2025-04-13T23:56:43.213Z",
+    "backupTimestamp": "2025-04-13T23:56:43.215Z",
+    "localBackupTimestamp": "2025-04-13T17:56:43.215Z"
+  },
+  {
+    "question": "Which tissue transports water in plants?",
+    "correct_answer": "Xylem",
+    "incorrect_answers": [
+      "Phloem",
+      "Cambium",
+      "Epidermis",
+      "Palisade",
+      "Cortex",
+      "Pith",
+      "Endodermis"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Plants & Botany",
+    "difficulty": "medium",
+    "id": "07338eff-78f5-471d-b50e-7f0aef7d693f",
+    "created_at": "2025-04-13T23:56:43.229Z",
+    "backupTimestamp": "2025-04-13T23:56:43.230Z",
+    "localBackupTimestamp": "2025-04-13T17:56:43.230Z"
+  },
+  {
+    "question": "What is a plant that completes its lifecycle in two years?",
+    "correct_answer": "Biennial",
+    "incorrect_answers": [
+      "Annual",
+      "Perennial",
+      "Ephemeral",
+      "Deciduous",
+      "Evergreen",
+      "Succulent",
+      "Herbaceous"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Plants & Botany",
+    "difficulty": "medium",
+    "id": "d178e35a-0398-4206-aecc-d5ef9d8ee214",
+    "created_at": "2025-04-13T23:56:43.235Z",
+    "backupTimestamp": "2025-04-13T23:56:43.235Z",
+    "localBackupTimestamp": "2025-04-13T17:56:43.235Z"
+  },
+  {
+    "question": "Which plant hormone promotes cell elongation?",
+    "correct_answer": "Auxin",
+    "incorrect_answers": [
+      "Cytokinin",
+      "Gibberellin",
+      "Ethylene",
+      "Abscisic acid",
+      "Brassinosteroid",
+      "Jasmonic acid",
+      "Salicylic acid"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Plants & Botany",
+    "difficulty": "medium",
+    "id": "0197c662-e491-4b29-bb11-b8ee35607f57",
+    "created_at": "2025-04-13T23:56:43.242Z",
+    "backupTimestamp": "2025-04-13T23:56:43.242Z",
+    "localBackupTimestamp": "2025-04-13T17:56:43.242Z"
+  },
+  {
+    "question": "What is the scientific name for the coconut palm?",
+    "correct_answer": "Cocos nucifera",
+    "incorrect_answers": [
+      "Phoenix dactylifera",
+      "Elaeis guineensis",
+      "Areca catechu",
+      "Sabal palmetto",
+      "Washingtonia filifera",
+      "Roystonea regia",
+      "Bismarckia nobilis"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Plants & Botany",
+    "difficulty": "medium",
+    "id": "0e5da55f-3189-48ce-b304-a20e504f25d5",
+    "created_at": "2025-04-13T23:56:43.248Z",
+    "backupTimestamp": "2025-04-13T23:56:43.248Z",
+    "localBackupTimestamp": "2025-04-13T17:56:43.248Z"
+  },
+  {
+    "question": "Which plant family includes potatoes and tomatoes?",
+    "correct_answer": "Solanaceae",
+    "incorrect_answers": [
+      "Fabaceae",
+      "Brassicaceae",
+      "Poaceae",
+      "Rosaceae",
+      "Asteraceae",
+      "Cucurbitaceae",
+      "Apiaceae"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Plants & Botany",
+    "difficulty": "medium",
+    "id": "be3a711c-91a1-432f-8c77-05b813578b53",
+    "created_at": "2025-04-13T23:56:43.253Z",
+    "backupTimestamp": "2025-04-13T23:56:43.253Z",
+    "localBackupTimestamp": "2025-04-13T17:56:43.253Z"
+  },
+  {
+    "question": "Which tissue transports food in plants?",
+    "correct_answer": "Phloem",
+    "incorrect_answers": [
+      "Xylem",
+      "Cambium",
+      "Epidermis",
+      "Palisade",
+      "Cortex",
+      "Pith",
+      "Endodermis"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Plants & Botany",
+    "difficulty": "medium",
+    "id": "a4662557-10f1-4a86-adb9-f2ca5702499a",
+    "created_at": "2025-04-13T23:56:43.259Z",
+    "backupTimestamp": "2025-04-13T23:56:43.260Z",
+    "localBackupTimestamp": "2025-04-13T17:56:43.260Z"
+  },
+  {
+    "question": "What is the hardest wood in the world?",
+    "correct_answer": "Lignum Vitae",
+    "incorrect_answers": [
+      "Oak",
+      "Ebony",
+      "Mahogany",
+      "Teak",
+      "Ironwood",
+      "Hickory",
+      "Maple"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Plants & Botany",
+    "difficulty": "medium",
+    "id": "945c2483-90c3-40b3-a551-6a756c2d8e5a",
+    "created_at": "2025-04-13T23:56:43.264Z",
+    "backupTimestamp": "2025-04-13T23:56:43.265Z",
+    "localBackupTimestamp": "2025-04-13T17:56:43.265Z"
+  },
+  {
+    "question": "Which pigment is responsible for autumn leaf colors?",
+    "correct_answer": "Carotenoid",
+    "incorrect_answers": [
+      "Chlorophyll",
+      "Anthocyanin",
+      "Xanthophyll",
+      "Phycoerythrin",
+      "Phycocyanin",
+      "Melanin",
+      "Lycopene"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Plants & Botany",
+    "difficulty": "medium",
+    "id": "ff52a575-357b-4a2d-8b60-eeb0a2932a55",
+    "created_at": "2025-04-13T23:56:43.277Z",
+    "backupTimestamp": "2025-04-13T23:56:43.277Z",
+    "localBackupTimestamp": "2025-04-13T17:56:43.277Z"
+  },
+  {
+    "question": "Which plants are known as xerophytes?",
+    "correct_answer": "Desert plants",
+    "incorrect_answers": [
+      "Water plants",
+      "Marsh plants",
+      "Forest plants",
+      "Mountain plants",
+      "Tropical plants",
+      "Arctic plants",
+      "Coastal plants"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Plants & Botany",
+    "difficulty": "medium",
+    "id": "f961a775-7b92-4603-8e6c-649f862a3e24",
+    "created_at": "2025-04-13T23:56:43.282Z",
+    "backupTimestamp": "2025-04-13T23:56:43.282Z",
+    "localBackupTimestamp": "2025-04-13T17:56:43.282Z"
+  },
+  {
+    "question": "What part of a plant is a potato?",
+    "correct_answer": "Stem tuber",
+    "incorrect_answers": [
+      "Root",
+      "Fruit",
+      "Leaf",
+      "Seed",
+      "Bulb",
+      "Rhizome",
+      "Corm"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Plants & Botany",
+    "difficulty": "medium",
+    "id": "da71b52b-fac8-4ba6-bfb0-4094b8c2442d",
+    "created_at": "2025-04-13T23:56:43.286Z",
+    "backupTimestamp": "2025-04-13T23:56:43.287Z",
+    "localBackupTimestamp": "2025-04-13T17:56:43.287Z"
+  },
+  {
+    "question": "Which plant can survive over 2,000 years?",
+    "correct_answer": "Bristlecone Pine",
+    "incorrect_answers": [
+      "Oak",
+      "Sequoia",
+      "Redwood",
+      "Baobab",
+      "Olive",
+      "Ginkgo",
+      "Banyan"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Plants & Botany",
+    "difficulty": "medium",
+    "id": "06ce6c37-3533-4d80-8c74-255de9646211",
+    "created_at": "2025-04-13T23:56:43.291Z",
+    "backupTimestamp": "2025-04-13T23:56:43.291Z",
+    "localBackupTimestamp": "2025-04-13T17:56:43.291Z"
+  },
+  {
+    "question": "Which is the most abundant protein on Earth?",
+    "correct_answer": "RuBisCO",
+    "incorrect_answers": [
+      "Collagen",
+      "Keratin",
+      "Actin",
+      "Myosin",
+      "Albumin",
+      "Elastin",
+      "Hemoglobin"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Plants & Botany",
+    "difficulty": "medium",
+    "id": "eb11fcb5-123e-451b-b1e8-7ffc2e943b4a",
+    "created_at": "2025-04-13T23:56:43.295Z",
+    "backupTimestamp": "2025-04-13T23:56:43.295Z",
+    "localBackupTimestamp": "2025-04-13T17:56:43.295Z"
+  },
+  {
+    "question": "Which structure allows fungi to reproduce?",
+    "correct_answer": "Spores",
+    "incorrect_answers": [
+      "Seeds",
+      "Bulbs",
+      "Pollen",
+      "Fruits",
+      "Flowers",
+      "Rhizomes",
+      "Stolons"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Plants & Botany",
+    "difficulty": "medium",
+    "id": "fca7e25c-3733-43f1-88d6-ba73af847b34",
+    "created_at": "2025-04-13T23:56:43.300Z",
+    "backupTimestamp": "2025-04-13T23:56:43.301Z",
+    "localBackupTimestamp": "2025-04-13T17:56:43.301Z"
+  },
+  {
+    "question": "What is the world's largest seed?",
+    "correct_answer": "Coco de mer",
+    "incorrect_answers": [
+      "Coconut",
+      "Avocado",
+      "Mango",
+      "Jackfruit",
+      "Durian",
+      "Breadfruit",
+      "Watermelon"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Plants & Botany",
+    "difficulty": "medium",
+    "id": "dba008ea-a07c-461c-a70c-1617d867d40e",
+    "created_at": "2025-04-13T23:56:43.305Z",
+    "backupTimestamp": "2025-04-13T23:56:43.305Z",
+    "localBackupTimestamp": "2025-04-13T17:56:43.305Z"
+  },
+  {
+    "question": "What is the study of plant fossils called?",
+    "correct_answer": "Paleobotany",
+    "incorrect_answers": [
+      "Dendrology",
+      "Pomology",
+      "Ethnobotany",
+      "Phycology",
+      "Bryology",
+      "Mycology",
+      "Agrostology"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Plants & Botany",
+    "difficulty": "medium",
+    "id": "e568faec-6956-4622-83ca-fadba33a22ab",
+    "created_at": "2025-04-13T23:56:43.309Z",
+    "backupTimestamp": "2025-04-13T23:56:43.309Z",
+    "localBackupTimestamp": "2025-04-13T17:56:43.309Z"
+  },
+  {
+    "question": "Which gas triggers fruit ripening?",
+    "correct_answer": "Ethylene",
+    "incorrect_answers": [
+      "Carbon dioxide",
+      "Oxygen",
+      "Nitrogen",
+      "Methane",
+      "Propylene",
+      "Butylene",
+      "Hydrogen"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Plants & Botany",
+    "difficulty": "medium",
+    "id": "dd4483fb-52bb-4411-ad1e-70a80c6b0c63",
+    "created_at": "2025-04-13T23:56:43.313Z",
+    "backupTimestamp": "2025-04-13T23:56:43.314Z",
+    "localBackupTimestamp": "2025-04-13T17:56:43.314Z"
+  },
+  {
+    "question": "What are plants that grow on other plants called?",
+    "correct_answer": "Epiphytes",
+    "incorrect_answers": [
+      "Parasites",
+      "Saprophytes",
+      "Xerophytes",
+      "Halophytes",
+      "Hydrophytes",
+      "Lithophytes",
+      "Psammophytes"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Plants & Botany",
+    "difficulty": "medium",
+    "id": "77867e72-c9cc-45c0-95d2-a077e9eb4d39",
+    "created_at": "2025-04-13T23:56:43.317Z",
+    "backupTimestamp": "2025-04-13T23:56:43.318Z",
+    "localBackupTimestamp": "2025-04-13T17:56:43.318Z"
+  },
+  {
+    "question": "Which tree produces frankincense?",
+    "correct_answer": "Boswellia",
+    "incorrect_answers": [
+      "Commiphora",
+      "Cedrus",
+      "Santalum",
+      "Aquilaria",
+      "Pinus",
+      "Cinnamomum",
+      "Eucalyptus"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Plants & Botany",
+    "difficulty": "medium",
+    "id": "8fadbdaf-174e-4e9c-8c9a-908952b838df",
+    "created_at": "2025-04-13T23:56:43.321Z",
+    "backupTimestamp": "2025-04-13T23:56:43.321Z",
+    "localBackupTimestamp": "2025-04-13T17:56:43.321Z"
+  },
+  {
+    "question": "Which plant part is typically the driest?",
+    "correct_answer": "Seeds",
+    "incorrect_answers": [
+      "Leaves",
+      "Stems",
+      "Roots",
+      "Flowers",
+      "Fruits",
+      "Bark",
+      "Pollen"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Plants & Botany",
+    "difficulty": "medium",
+    "id": "9b175b02-c471-48e2-b9b1-5709e9e900e8",
+    "created_at": "2025-04-13T23:56:43.324Z",
+    "backupTimestamp": "2025-04-13T23:56:43.325Z",
+    "localBackupTimestamp": "2025-04-13T17:56:43.325Z"
+  },
+  {
+    "question": "What causes the red and purple colors in autumn leaves?",
+    "correct_answer": "Anthocyanins",
+    "incorrect_answers": [
+      "Chlorophyll",
+      "Carotenoids",
+      "Xanthophylls",
+      "Tannins",
+      "Lycopene",
+      "Melanin",
+      "Betalains"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Plants & Botany",
+    "difficulty": "medium",
+    "id": "1a65c435-8bbf-4a44-81de-a9f5dd8a6bee",
+    "created_at": "2025-04-13T23:56:43.328Z",
+    "backupTimestamp": "2025-04-13T23:56:43.329Z",
+    "localBackupTimestamp": "2025-04-13T17:56:43.329Z"
+  },
+  {
+    "question": "Which plant family includes peas and beans?",
+    "correct_answer": "Fabaceae",
+    "incorrect_answers": [
+      "Solanaceae",
+      "Poaceae",
+      "Brassicaceae",
+      "Cucurbitaceae",
+      "Asteraceae",
+      "Rosaceae",
+      "Apiaceae"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Plants & Botany",
+    "difficulty": "medium",
+    "id": "05a15d11-9a7d-4dfd-b9b7-efb50e72f01e",
+    "created_at": "2025-04-13T23:56:43.333Z",
+    "backupTimestamp": "2025-04-13T23:56:43.333Z",
+    "localBackupTimestamp": "2025-04-13T17:56:43.333Z"
+  },
+  {
+    "question": "What is the study of mosses called?",
+    "correct_answer": "Bryology",
+    "incorrect_answers": [
+      "Mycology",
+      "Phycology",
+      "Dendrology",
+      "Pomology",
+      "Agrostology",
+      "Pteridology",
+      "Palynology"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Plants & Botany",
+    "difficulty": "medium",
+    "id": "f633574e-035e-432f-a4b0-4b7089f34e68",
+    "created_at": "2025-04-13T23:56:43.337Z",
+    "backupTimestamp": "2025-04-13T23:56:43.338Z",
+    "localBackupTimestamp": "2025-04-13T17:56:43.338Z"
+  },
+  {
+    "question": "Which plant has the largest flower?",
+    "correct_answer": "Rafflesia arnoldii",
+    "incorrect_answers": [
+      "Titan arum",
+      "Victoria amazonica",
+      "Amorphophallus titanum",
+      "Hydnora africana",
+      "Puya raimondii",
+      "Corypha umbraculifera",
+      "Corpse lily"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Plants & Botany",
+    "difficulty": "medium",
+    "id": "845b8b66-af72-4f98-a1fc-9b0ba1554180",
+    "created_at": "2025-04-13T23:56:43.342Z",
+    "backupTimestamp": "2025-04-13T23:56:43.342Z",
+    "localBackupTimestamp": "2025-04-13T17:56:43.342Z"
+  },
+  {
+    "question": "Which tissue forms tree rings?",
+    "correct_answer": "Cambium",
+    "incorrect_answers": [
+      "Xylem",
+      "Phloem",
+      "Pith",
+      "Cork",
+      "Cortex",
+      "Epidermis",
+      "Endodermis"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Plants & Botany",
+    "difficulty": "medium",
+    "id": "52383a91-aa9a-4209-b550-cbd678824271",
+    "created_at": "2025-04-13T23:56:43.346Z",
+    "backupTimestamp": "2025-04-13T23:56:43.346Z",
+    "localBackupTimestamp": "2025-04-13T17:56:43.346Z"
+  },
+  {
+    "question": "What type of fruit is a strawberry botanically?",
+    "correct_answer": "Aggregate accessory fruit",
+    "incorrect_answers": [
+      "Berry",
+      "Drupe",
+      "Pome",
+      "Nut",
+      "Legume",
+      "Simple fruit",
+      "Multiple fruit"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Plants & Botany",
+    "difficulty": "medium",
+    "id": "a9ca3546-89ca-4c4c-9d21-40c3c30adcb2",
+    "created_at": "2025-04-13T23:56:43.349Z",
+    "backupTimestamp": "2025-04-13T23:56:43.350Z",
+    "localBackupTimestamp": "2025-04-13T17:56:43.350Z"
+  },
+  {
+    "question": "Which plant grows the fastest?",
+    "correct_answer": "Bamboo",
+    "incorrect_answers": [
+      "Corn",
+      "Sunflower",
+      "Kudzu",
+      "Eucalyptus",
+      "Giant Kelp",
+      "Duckweed",
+      "Willow"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Plants & Botany",
+    "difficulty": "medium",
+    "id": "583684b4-96a1-4929-81b8-8ebeee2c03cc",
+    "created_at": "2025-04-13T23:56:43.353Z",
+    "backupTimestamp": "2025-04-13T23:56:43.353Z",
+    "localBackupTimestamp": "2025-04-13T17:56:43.353Z"
+  },
+  {
+    "question": "Which tree produces quinine?",
+    "correct_answer": "Cinchona",
+    "incorrect_answers": [
+      "Willow",
+      "Eucalyptus",
+      "Neem",
+      "Tea",
+      "Ginkgo",
+      "Yew",
+      "Cedar"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Plants & Botany",
+    "difficulty": "medium",
+    "id": "e494573d-94af-4b1e-872c-aef75f9c2a0e",
+    "created_at": "2025-04-13T23:56:43.357Z",
+    "backupTimestamp": "2025-04-13T23:56:43.357Z",
+    "localBackupTimestamp": "2025-04-13T17:56:43.357Z"
+  },
+  {
+    "question": "What do you call the study of fungi?",
+    "correct_answer": "Mycology",
+    "incorrect_answers": [
+      "Phycology",
+      "Bryology",
+      "Dendrology",
+      "Pomology",
+      "Pteridology",
+      "Ethnobotany",
+      "Agrostology"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Plants & Botany",
+    "difficulty": "medium",
+    "id": "a76bc2da-0eac-438e-b854-e17c62785568",
+    "created_at": "2025-04-13T23:56:43.360Z",
+    "backupTimestamp": "2025-04-13T23:56:43.361Z",
+    "localBackupTimestamp": "2025-04-13T17:56:43.361Z"
+  },
+  {
+    "question": "What is the smallest flowering plant?",
+    "correct_answer": "Wolffia",
+    "incorrect_answers": [
+      "Duckweed",
+      "Lemna",
+      "Azolla",
+      "Utricularia",
+      "Pistia",
+      "Salvinia",
+      "Lemna"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Plants & Botany",
+    "difficulty": "medium",
+    "id": "2bc06282-2378-4c14-aa3c-7ea58326aa71",
+    "created_at": "2025-04-13T23:56:43.364Z",
+    "backupTimestamp": "2025-04-13T23:56:43.365Z",
+    "localBackupTimestamp": "2025-04-13T17:56:43.365Z"
+  },
+  {
+    "question": "Which plant moves in response to touch?",
+    "correct_answer": "Mimosa pudica",
+    "incorrect_answers": [
+      "Venus flytrap",
+      "Sundew",
+      "Pitcher plant",
+      "Bladderwort",
+      "Nepenthes",
+      "Cobra lily",
+      "Butterwort"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Plants & Botany",
+    "difficulty": "medium",
+    "id": "4d819716-b79d-4a1f-a4db-7e33399b9749",
+    "created_at": "2025-04-13T23:56:43.368Z",
+    "backupTimestamp": "2025-04-13T23:56:43.368Z",
+    "localBackupTimestamp": "2025-04-13T17:56:43.368Z"
+  },
+  {
+    "question": "What is a propagule?",
+    "correct_answer": "Any plant material used for propagation",
+    "incorrect_answers": [
+      "A type of fruit",
+      "A young root",
+      "A hybrid plant",
+      "A seed coating",
+      "A special leaf",
+      "A woody stem",
+      "An underground stem"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Plants & Botany",
+    "difficulty": "medium",
+    "id": "c1a65cd8-46dd-4a2a-ac54-7b7a13e8378d",
+    "created_at": "2025-04-13T23:56:43.371Z",
+    "backupTimestamp": "2025-04-13T23:56:43.371Z",
+    "localBackupTimestamp": "2025-04-13T17:56:43.371Z"
+  },
+  {
+    "question": "What is a stolon?",
+    "correct_answer": "A horizontal stem that produces new plants",
+    "incorrect_answers": [
+      "A modified root",
+      "A seed pod",
+      "A flower type",
+      "A leaf vein",
+      "A fruit type",
+      "A protective spine",
+      "A pollen tube"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Plants & Botany",
+    "difficulty": "medium",
+    "id": "bc879000-bb0e-486f-a421-1c701c3b770d",
+    "created_at": "2025-04-13T23:56:43.375Z",
+    "backupTimestamp": "2025-04-13T23:56:43.375Z",
+    "localBackupTimestamp": "2025-04-13T17:56:43.375Z"
+  },
+  {
+    "question": "Which tree produces the most oxygen?",
+    "correct_answer": "Empress Tree",
+    "incorrect_answers": [
+      "Oak",
+      "Pine",
+      "Eucalyptus",
+      "Maple",
+      "Willow",
+      "Bamboo",
+      "Fir"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Plants & Botany",
+    "difficulty": "medium",
+    "id": "a389f3f3-f83e-4ece-86a1-62e595322268",
+    "created_at": "2025-04-13T23:56:43.378Z",
+    "backupTimestamp": "2025-04-13T23:56:43.378Z",
+    "localBackupTimestamp": "2025-04-13T17:56:43.378Z"
+  },
+  {
+    "question": "Which tree sap is used to make maple syrup?",
+    "correct_answer": "Sugar maple",
+    "incorrect_answers": [
+      "Red maple",
+      "Silver maple",
+      "Japanese maple",
+      "Norway maple",
+      "Boxelder",
+      "Black maple",
+      "Bigleaf maple"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Plants & Botany",
+    "difficulty": "medium",
+    "id": "44b50be2-cc57-4901-a044-b6f82abf0e23",
+    "created_at": "2025-04-13T23:56:43.381Z",
+    "backupTimestamp": "2025-04-13T23:56:43.382Z",
+    "localBackupTimestamp": "2025-04-13T17:56:43.382Z"
+  },
+  {
+    "question": "Which color of light do plants absorb most?",
+    "correct_answer": "Blue and Red",
+    "incorrect_answers": [
+      "Green",
+      "Yellow",
+      "Orange",
+      "Violet",
+      "Indigo",
+      "Ultraviolet",
+      "Infrared"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Plants & Botany",
+    "difficulty": "medium",
+    "id": "7864d309-cc39-4ac5-9edf-74b63b17edf8",
+    "created_at": "2025-04-13T23:56:43.384Z",
+    "backupTimestamp": "2025-04-13T23:56:43.385Z",
+    "localBackupTimestamp": "2025-04-13T17:56:43.385Z"
+  },
+  {
+    "question": "What is the process of plant pollen formation called?",
+    "correct_answer": "Microsporogenesis",
+    "incorrect_answers": [
+      "Megasporogenesis",
+      "Germination",
+      "Pollination",
+      "Syngamy",
+      "Meiosis",
+      "Mitosis",
+      "Gametogenesis"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Plants & Botany",
+    "difficulty": "medium",
+    "id": "863c4508-21f5-448f-a358-e160e97266d3",
+    "created_at": "2025-04-13T23:56:43.389Z",
+    "backupTimestamp": "2025-04-13T23:56:43.389Z",
+    "localBackupTimestamp": "2025-04-13T17:56:43.389Z"
+  },
+  {
+    "question": "What is the most expensive spice by weight?",
+    "correct_answer": "Saffron",
+    "incorrect_answers": [
+      "Vanilla",
+      "Cardamom",
+      "Cinnamon",
+      "Cloves",
+      "Nutmeg",
+      "Star Anise",
+      "Turmeric"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Plants & Botany",
+    "difficulty": "medium",
+    "id": "90b2e0d9-dcf2-49b7-893d-6090fe009ae3",
+    "created_at": "2025-04-13T23:56:43.392Z",
+    "backupTimestamp": "2025-04-13T23:56:43.393Z",
+    "localBackupTimestamp": "2025-04-13T17:56:43.393Z"
+  },
+  {
+    "question": "What is a plant's pollen grain equivalent to?",
+    "correct_answer": "Male gametophyte",
+    "incorrect_answers": [
+      "Female gametophyte",
+      "Spore",
+      "Zygote",
+      "Embryo",
+      "Ovule",
+      "Anther",
+      "Seed"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Plants & Botany",
+    "difficulty": "medium",
+    "id": "adfd975a-a18b-4b72-9deb-04aa14d1a70d",
+    "created_at": "2025-04-13T23:56:43.397Z",
+    "backupTimestamp": "2025-04-13T23:56:43.398Z",
+    "localBackupTimestamp": "2025-04-13T17:56:43.398Z"
+  },
+  {
+    "question": "Which plant has the longest lifespan?",
+    "correct_answer": "Great Basin Bristlecone Pine",
+    "incorrect_answers": [
+      "Giant Sequoia",
+      "Olive Tree",
+      "Baobab",
+      "Ginkgo",
+      "Welwitschia",
+      "Cypress",
+      "Banyan"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Plants & Botany",
+    "difficulty": "medium",
+    "id": "ee5ff0c7-2c3b-44f9-b8c0-f242bc506113",
+    "created_at": "2025-04-13T23:56:43.401Z",
+    "backupTimestamp": "2025-04-13T23:56:43.402Z",
+    "localBackupTimestamp": "2025-04-13T17:56:43.402Z"
+  },
+  {
+    "question": "Which plant does caffeine naturally occur in?",
+    "correct_answer": "Coffee plant",
+    "incorrect_answers": [
+      "Mint",
+      "Lavender",
+      "Rosemary",
+      "Dandelion",
+      "Chamomile",
+      "Jasmine",
+      "Hibiscus"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Plants & Botany",
+    "difficulty": "medium",
+    "id": "69707ccb-e47d-48b8-98cf-89723673eab0",
+    "created_at": "2025-04-13T23:56:43.405Z",
+    "backupTimestamp": "2025-04-13T23:56:43.405Z",
+    "localBackupTimestamp": "2025-04-13T17:56:43.405Z"
+  },
+  {
+    "question": "What is the transformation of a plant vegetative bud?",
+    "correct_answer": "Vernalization",
+    "incorrect_answers": [
+      "Photoperiodism",
+      "Dormancy",
+      "Abscission",
+      "Senescence",
+      "Etiolation",
+      "Tropism",
+      "Nastic movement"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Plants & Botany",
+    "difficulty": "medium",
+    "id": "a6ed327a-85ac-46f2-a56d-00ebc81ed272",
+    "created_at": "2025-04-13T23:56:43.408Z",
+    "backupTimestamp": "2025-04-13T23:56:43.409Z",
+    "localBackupTimestamp": "2025-04-13T17:56:43.409Z"
+  },
+  {
+    "question": "What is a rhizome?",
+    "correct_answer": "Modified underground stem",
+    "incorrect_answers": [
+      "Root type",
+      "Fruit",
+      "Leaf structure",
+      "Flower part",
+      "Seed coating",
+      "Pollen type",
+      "Fungal structure"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Plants & Botany",
+    "difficulty": "medium",
+    "id": "718abb72-3fa0-4f31-989b-736c8a163033",
+    "created_at": "2025-04-13T23:56:43.412Z",
+    "backupTimestamp": "2025-04-13T23:56:43.412Z",
+    "localBackupTimestamp": "2025-04-13T17:56:43.412Z"
+  },
+  {
+    "question": "Which plant produces natural rubber?",
+    "correct_answer": "Hevea brasiliensis",
+    "incorrect_answers": [
+      "Ficus elastica",
+      "Euphorbia tirucalli",
+      "Castilla elastica",
+      "Taraxacum kok-saghyz",
+      "Parthenium argentatum",
+      "Solidago leavenworthii",
+      "Lactuca tatarica"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Plants & Botany",
+    "difficulty": "medium",
+    "id": "94c39ab6-a258-4419-8df2-5a12fffa0918",
+    "created_at": "2025-04-13T23:56:43.416Z",
+    "backupTimestamp": "2025-04-13T23:56:43.416Z",
+    "localBackupTimestamp": "2025-04-13T17:56:43.416Z"
+  },
+  {
+    "question": "What is the main function of plant stomata?",
+    "correct_answer": "Gas exchange",
+    "incorrect_answers": [
+      "Water absorption",
+      "Food storage",
+      "Reproduction",
+      "Support",
+      "Protection",
+      "Photosynthesis",
+      "Nitrogen fixation"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Plants & Botany",
+    "difficulty": "medium",
+    "id": "bd3d67cd-5296-4d1d-aa2a-b04f2ffc86b5",
+    "created_at": "2025-04-13T23:56:43.421Z",
+    "backupTimestamp": "2025-04-13T23:56:43.421Z",
+    "localBackupTimestamp": "2025-04-13T17:56:43.421Z"
+  },
+  {
+    "question": "Which edible plant part is a modified stem?",
+    "correct_answer": "Potato",
+    "incorrect_answers": [
+      "Carrot",
+      "Tomato",
+      "Lettuce",
+      "Apple",
+      "Peanut",
+      "Onion",
+      "Corn"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Plants & Botany",
+    "difficulty": "medium",
+    "id": "755b0734-47b4-4873-97a7-ce9cb193b7ad",
+    "created_at": "2025-04-13T23:56:43.424Z",
+    "backupTimestamp": "2025-04-13T23:56:43.424Z",
+    "localBackupTimestamp": "2025-04-13T17:56:43.424Z"
+  },
+  {
+    "question": "What is the botanical name for wheat?",
+    "correct_answer": "Triticum",
+    "incorrect_answers": [
+      "Hordeum",
+      "Avena",
+      "Secale",
+      "Zea",
+      "Oryza",
+      "Panicum",
+      "Sorghum"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Plants & Botany",
+    "difficulty": "medium",
+    "id": "90992ede-0eab-4e02-a303-9fa9c6e2b12f",
+    "created_at": "2025-04-13T23:56:43.428Z",
+    "backupTimestamp": "2025-04-13T23:56:43.428Z",
+    "localBackupTimestamp": "2025-04-13T17:56:43.428Z"
+  },
+  {
+    "question": "What is the study of algae called?",
+    "correct_answer": "Phycology",
+    "incorrect_answers": [
+      "Mycology",
+      "Bryology",
+      "Dendrology",
+      "Pteridology",
+      "Palynology",
+      "Agrostology",
+      "Pomology"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Plants & Botany",
+    "difficulty": "medium",
+    "id": "94c3d60f-8094-449c-8ed9-d04913fc3e36",
+    "created_at": "2025-04-13T23:56:43.431Z",
+    "backupTimestamp": "2025-04-13T23:56:43.431Z",
+    "localBackupTimestamp": "2025-04-13T17:56:43.431Z"
+  },
+  {
+    "question": "Which tree produces dates?",
+    "correct_answer": "Date palm",
+    "incorrect_answers": [
+      "Coconut palm",
+      "Oil palm",
+      "Royal palm",
+      "Betel palm",
+      "Areca palm",
+      "Sago palm",
+      "Fan palm"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Plants & Botany",
+    "difficulty": "medium",
+    "id": "f65e1a4e-3117-454d-98ab-8b751e6c0451",
+    "created_at": "2025-04-13T23:56:43.434Z",
+    "backupTimestamp": "2025-04-13T23:56:43.434Z",
+    "localBackupTimestamp": "2025-04-13T17:56:43.434Z"
+  },
+  {
+    "question": "What is the study of trees called?",
+    "correct_answer": "Dendrology",
+    "incorrect_answers": [
+      "Arboriculture",
+      "Silviculture",
+      "Pomology",
+      "Forestry",
+      "Horticulture",
+      "Xyology",
+      "Lignology"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Plants & Botany",
+    "difficulty": "medium",
+    "id": "28fed60c-cc97-4bbb-b56f-ce823543b028",
+    "created_at": "2025-04-13T23:56:43.437Z",
+    "backupTimestamp": "2025-04-13T23:56:43.438Z",
+    "localBackupTimestamp": "2025-04-13T17:56:43.438Z"
+  },
+  {
+    "question": "Which plant produces opium?",
+    "correct_answer": "Papaver somniferum",
+    "incorrect_answers": [
+      "Cannabis sativa",
+      "Erythroxylum coca",
+      "Psilocybe cubensis",
+      "Lophophora williamsii",
+      "Salvia divinorum",
+      "Piper methysticum",
+      "Amanita muscaria"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Plants & Botany",
+    "difficulty": "medium",
+    "id": "633b44f1-798a-44ca-b101-3af21480b5bb",
+    "created_at": "2025-04-13T23:56:43.442Z",
+    "backupTimestamp": "2025-04-13T23:56:43.442Z",
+    "localBackupTimestamp": "2025-04-13T17:56:43.442Z"
+  },
+  {
+    "question": "What is an angiosperm?",
+    "correct_answer": "Flowering plant",
+    "incorrect_answers": [
+      "Conifer",
+      "Fern",
+      "Moss",
+      "Algae",
+      "Fungus",
+      "Lichen",
+      "Liverwort"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Plants & Botany",
+    "difficulty": "medium",
+    "id": "0c877537-dbc7-46e5-b883-8724750a3c19",
+    "created_at": "2025-04-13T23:56:43.446Z",
+    "backupTimestamp": "2025-04-13T23:56:43.447Z",
+    "localBackupTimestamp": "2025-04-13T17:56:43.447Z"
+  },
+  {
+    "question": "Which tree produces the hardest wood?",
+    "correct_answer": "Australian Buloke",
+    "incorrect_answers": [
+      "Lignum Vitae",
+      "Quebracho",
+      "Ebony",
+      "Ironwood",
+      "Hickory",
+      "Osage Orange",
+      "African Blackwood"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Plants & Botany",
+    "difficulty": "medium",
+    "id": "d943b343-c330-4f5d-8363-118f4f78eeb7",
+    "created_at": "2025-04-13T23:56:43.450Z",
+    "backupTimestamp": "2025-04-13T23:56:43.450Z",
+    "localBackupTimestamp": "2025-04-13T17:56:43.450Z"
+  },
+  {
+    "question": "Which rare plant produces the largest unbranched inflorescence?",
+    "correct_answer": "Puya raimondii",
+    "incorrect_answers": [
+      "Titan arum",
+      "Rafflesia arnoldii",
+      "Amorphophallus titanum",
+      "Corpse flower",
+      "Giant water lily",
+      "Century plant",
+      "Talipot palm"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Plants & Botany",
+    "difficulty": "hard",
+    "id": "a9185c13-18bf-416d-9b59-cb16ea09feea",
+    "created_at": "2025-04-14T00:04:03.593Z",
+    "backupTimestamp": "2025-04-14T00:04:03.597Z",
+    "localBackupTimestamp": "2025-04-13T18:04:03.597Z"
+  },
+  {
+    "question": "What phenomenon is known as nyctinasty in plants?",
+    "correct_answer": "Sleep movements",
+    "incorrect_answers": [
+      "Sun tracking",
+      "Death blooming",
+      "Root expansion",
+      "Water conservation",
+      "Frost resistance",
+      "Thermal regulation",
+      "Salt tolerance"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Plants & Botany",
+    "difficulty": "hard",
+    "id": "37185a6b-5dec-4df3-a89b-2ec30404fe77",
+    "created_at": "2025-04-14T00:04:03.608Z",
+    "backupTimestamp": "2025-04-14T00:04:03.611Z",
+    "localBackupTimestamp": "2025-04-13T18:04:03.611Z"
+  },
+  {
+    "question": "What is thigmotropism in plants?",
+    "correct_answer": "Growth response to touch",
+    "incorrect_answers": [
+      "Growth toward light",
+      "Growth against gravity",
+      "Growth toward water",
+      "Growth toward nutrients",
+      "Response to chemicals",
+      "Response to heat",
+      "Response to sound"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Plants & Botany",
+    "difficulty": "hard",
+    "id": "0eb0f9aa-0542-41d7-ac93-cd48a4aa961b",
+    "created_at": "2025-04-14T00:04:03.617Z",
+    "backupTimestamp": "2025-04-14T00:04:03.617Z",
+    "localBackupTimestamp": "2025-04-13T18:04:03.617Z"
+  },
+  {
+    "question": "Which botanical substance is extracted from Cinchona bark?",
+    "correct_answer": "Quinine",
+    "incorrect_answers": [
+      "Morphine",
+      "Aspirin",
+      "Cocaine",
+      "Caffeine",
+      "Nicotine",
+      "Digitalis",
+      "Atropine"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Plants & Botany",
+    "difficulty": "hard",
+    "id": "ab8a5da5-29d8-4156-9d48-d4e6bac5dd38",
+    "created_at": "2025-04-14T00:04:03.624Z",
+    "backupTimestamp": "2025-04-14T00:04:03.625Z",
+    "localBackupTimestamp": "2025-04-13T18:04:03.625Z"
+  },
+  {
+    "question": "What plant pigment is responsible for phototropism?",
+    "correct_answer": "Phototropin",
+    "incorrect_answers": [
+      "Chlorophyll",
+      "Carotenoid",
+      "Anthocyanin",
+      "Phytochrome",
+      "Cryptochrome",
+      "Xanthophyll",
+      "Phycoerythrin"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Plants & Botany",
+    "difficulty": "hard",
+    "id": "8b6951db-f791-437f-a10b-2bffebfeba3b",
+    "created_at": "2025-04-14T00:04:03.631Z",
+    "backupTimestamp": "2025-04-14T00:04:03.632Z",
+    "localBackupTimestamp": "2025-04-13T18:04:03.632Z"
+  },
+  {
+    "question": "Which enzyme fixes atmospheric nitrogen in legumes?",
+    "correct_answer": "Nitrogenase",
+    "incorrect_answers": [
+      "Rubisco",
+      "Amylase",
+      "Catalase",
+      "Cellulase",
+      "Protease",
+      "Lipase",
+      "Urease"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Plants & Botany",
+    "difficulty": "hard",
+    "id": "65ca3219-4ff3-4c4d-a9b6-28bf445bde08",
+    "created_at": "2025-04-14T00:04:03.637Z",
+    "backupTimestamp": "2025-04-14T00:04:03.638Z",
+    "localBackupTimestamp": "2025-04-13T18:04:03.638Z"
+  },
+  {
+    "question": "What unique adaptation does Welwitschia mirabilis have?",
+    "correct_answer": "Only two leaves for its entire lifespan",
+    "incorrect_answers": [
+      "Can survive without water for 100 years",
+      "Changes gender annually",
+      "Produces toxic pollen",
+      "Grows underground",
+      "Flowers only once every 50 years",
+      "Has no roots",
+      "Can move locations"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Plants & Botany",
+    "difficulty": "hard",
+    "id": "e7b882fb-6acd-4d73-98ef-636301e1117f",
+    "created_at": "2025-04-14T00:04:03.642Z",
+    "backupTimestamp": "2025-04-14T00:04:03.643Z",
+    "localBackupTimestamp": "2025-04-13T18:04:03.643Z"
+  },
+  {
+    "question": "Which essential plant hormone regulates abscission?",
+    "correct_answer": "Ethylene",
+    "incorrect_answers": [
+      "Auxin",
+      "Gibberellin",
+      "Cytokinin",
+      "Abscisic acid",
+      "Brassinosteroid",
+      "Jasmonic acid",
+      "Salicylic acid"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Plants & Botany",
+    "difficulty": "hard",
+    "id": "acebe155-bdce-4f55-ac09-4ad72ed883e8",
+    "created_at": "2025-04-14T00:04:03.648Z",
+    "backupTimestamp": "2025-04-14T00:04:03.649Z",
+    "localBackupTimestamp": "2025-04-13T18:04:03.649Z"
+  },
+  {
+    "question": "What is the only gymnosperm phylum that produces flowers?",
+    "correct_answer": "Gnetophyta",
+    "incorrect_answers": [
+      "Cycadophyta",
+      "Ginkgophyta",
+      "Pinophyta",
+      "Pteridophyta",
+      "Bryophyta",
+      "Marchantiophyta",
+      "Anthocerotophyta"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Plants & Botany",
+    "difficulty": "hard",
+    "id": "75d70d9d-5e79-495c-941b-1b5d767a25dc",
+    "created_at": "2025-04-14T00:04:03.658Z",
+    "backupTimestamp": "2025-04-14T00:04:03.658Z",
+    "localBackupTimestamp": "2025-04-13T18:04:03.658Z"
+  },
+  {
+    "question": "Which rare Philippine palm is harvested just before flowering?",
+    "correct_answer": "Talipot palm",
+    "incorrect_answers": [
+      "Nipa palm",
+      "Buri palm",
+      "Coconut palm",
+      "Betel palm",
+      "Fishtail palm",
+      "Sugar palm",
+      "Royal palm"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Plants & Botany",
+    "difficulty": "hard",
+    "id": "30ca8539-02e9-4137-8ac8-11059dd42c79",
+    "created_at": "2025-04-14T00:04:03.663Z",
+    "backupTimestamp": "2025-04-14T00:04:03.663Z",
+    "localBackupTimestamp": "2025-04-13T18:04:03.663Z"
+  },
+  {
+    "question": "What type of specialized roots help mangroves respire?",
+    "correct_answer": "Pneumatophores",
+    "incorrect_answers": [
+      "Prop roots",
+      "Buttress roots",
+      "Aerial roots",
+      "Stilt roots",
+      "Contractile roots",
+      "Storage roots",
+      "Haustoria"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Plants & Botany",
+    "difficulty": "hard",
+    "id": "dca16d2e-83f4-492e-a559-763d65bc67fe",
+    "created_at": "2025-04-14T00:04:03.667Z",
+    "backupTimestamp": "2025-04-14T00:04:03.668Z",
+    "localBackupTimestamp": "2025-04-13T18:04:03.668Z"
+  },
+  {
+    "question": "Which plant digestive enzyme is used in molecular biology?",
+    "correct_answer": "Bromelain",
+    "incorrect_answers": [
+      "Papain",
+      "Ficin",
+      "Pepsin",
+      "Rennet",
+      "Zingibain",
+      "Actinidin",
+      "Chymopapain"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Plants & Botany",
+    "difficulty": "hard",
+    "id": "91a03e48-6177-4375-9e17-c9a8c3790bb0",
+    "created_at": "2025-04-14T00:04:03.673Z",
+    "backupTimestamp": "2025-04-14T00:04:03.673Z",
+    "localBackupTimestamp": "2025-04-13T18:04:03.673Z"
+  },
+  {
+    "question": "What is the botanical term for leaf fall?",
+    "correct_answer": "Abscission",
+    "incorrect_answers": [
+      "Senescence",
+      "Marcescence",
+      "Deciduation",
+      "Defoliation",
+      "Exfoliation",
+      "Ablation",
+      "Dehiscence"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Plants & Botany",
+    "difficulty": "hard",
+    "id": "81b1daa7-4391-4e5f-bd94-8f85d347b85c",
+    "created_at": "2025-04-14T00:04:03.677Z",
+    "backupTimestamp": "2025-04-14T00:04:03.677Z",
+    "localBackupTimestamp": "2025-04-13T18:04:03.677Z"
+  },
+  {
+    "question": "What vascular tissue is found only in angiosperms?",
+    "correct_answer": "Vessel elements",
+    "incorrect_answers": [
+      "Tracheids",
+      "Sieve tubes",
+      "Companion cells",
+      "Fibers",
+      "Parenchyma",
+      "Collenchyma",
+      "Sclerenchyma"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Plants & Botany",
+    "difficulty": "hard",
+    "id": "c059c11f-de2f-4f58-8b1a-06d4ca2d2b79",
+    "created_at": "2025-04-14T00:04:03.683Z",
+    "backupTimestamp": "2025-04-14T00:04:03.683Z",
+    "localBackupTimestamp": "2025-04-13T18:04:03.683Z"
+  },
+  {
+    "question": "What botanical disease is caused by Phytophthora infestans?",
+    "correct_answer": "Potato blight",
+    "incorrect_answers": [
+      "Dutch elm disease",
+      "White pine blister rust",
+      "Chestnut blight",
+      "Apple scab",
+      "Wheat rust",
+      "Corn smut",
+      "Rice blast"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Plants & Botany",
+    "difficulty": "hard",
+    "id": "c8833b7a-2b75-4cfe-a025-62826e8c40aa",
+    "created_at": "2025-04-14T00:04:03.687Z",
+    "backupTimestamp": "2025-04-14T00:04:03.688Z",
+    "localBackupTimestamp": "2025-04-13T18:04:03.688Z"
+  },
+  {
+    "question": "What legendary plant was sought by medieval alchemists?",
+    "correct_answer": "Mandrake",
+    "incorrect_answers": [
+      "Belladonna",
+      "Wolfsbane",
+      "Ginseng",
+      "Mistletoe",
+      "Datura",
+      "Hemlock",
+      "Wormwood"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Plants & Botany",
+    "difficulty": "hard",
+    "id": "6020e520-ff8b-4c61-b878-d9858b0bbb9e",
+    "created_at": "2025-04-14T00:04:03.692Z",
+    "backupTimestamp": "2025-04-14T00:04:03.692Z",
+    "localBackupTimestamp": "2025-04-13T18:04:03.692Z"
+  },
+  {
+    "question": "Which plant taxonomic system is used today?",
+    "correct_answer": "APG IV",
+    "incorrect_answers": [
+      "Linnean",
+      "Bentham & Hooker",
+      "Engler & Prantl",
+      "APG III",
+      "Bessey system",
+      "Takhtajan system",
+      "Cronquist system"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Plants & Botany",
+    "difficulty": "hard",
+    "id": "da4e9b37-e8c9-4b5c-a659-99b5ceb0a8cd",
+    "created_at": "2025-04-14T00:04:03.696Z",
+    "backupTimestamp": "2025-04-14T00:04:03.697Z",
+    "localBackupTimestamp": "2025-04-13T18:04:03.697Z"
+  },
+  {
+    "question": "Which acid is abundant in stinging nettles?",
+    "correct_answer": "Formic acid",
+    "incorrect_answers": [
+      "Acetic acid",
+      "Citric acid",
+      "Malic acid",
+      "Tartaric acid",
+      "Oxalic acid",
+      "Lactic acid",
+      "Tannic acid"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Plants & Botany",
+    "difficulty": "hard",
+    "id": "18f9de6f-e362-45d6-83ab-d39a7de58e38",
+    "created_at": "2025-04-14T00:04:03.701Z",
+    "backupTimestamp": "2025-04-14T00:04:03.701Z",
+    "localBackupTimestamp": "2025-04-13T18:04:03.701Z"
+  },
+  {
+    "question": "What botanical process is measured by a dendrometer?",
+    "correct_answer": "Tree growth",
+    "incorrect_answers": [
+      "Leaf transpiration",
+      "Root expansion",
+      "Sap flow",
+      "Flower blooming",
+      "Seed germination",
+      "Photosynthesis rate",
+      "Water uptake"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Plants & Botany",
+    "difficulty": "hard",
+    "id": "e3f8af71-5f02-43ef-bbd6-27662a32149d",
+    "created_at": "2025-04-14T00:04:03.705Z",
+    "backupTimestamp": "2025-04-14T00:04:03.706Z",
+    "localBackupTimestamp": "2025-04-13T18:04:03.706Z"
+  },
+  {
+    "question": "Which plant has the largest genome?",
+    "correct_answer": "Paris japonica",
+    "incorrect_answers": [
+      "Sequoia",
+      "Wheat",
+      "Maize",
+      "Fern",
+      "Lily",
+      "Amoeba dubia",
+      "Marbled lungfish"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Plants & Botany",
+    "difficulty": "hard",
+    "id": "47576ee0-0d42-41f7-a894-902e0cb7f046",
+    "created_at": "2025-04-14T00:04:03.711Z",
+    "backupTimestamp": "2025-04-14T00:04:03.712Z",
+    "localBackupTimestamp": "2025-04-13T18:04:03.712Z"
+  },
+  {
+    "question": "What phenomenon is Kranz anatomy associated with?",
+    "correct_answer": "C4 photosynthesis",
+    "incorrect_answers": [
+      "CAM photosynthesis",
+      "C3 photosynthesis",
+      "Carnivorous plants",
+      "Water storage",
+      "Desert adaptation",
+      "Cold resistance",
+      "Salt tolerance"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Plants & Botany",
+    "difficulty": "hard",
+    "id": "e3ccc4a8-f68d-48bb-9337-49aa1d83a582",
+    "created_at": "2025-04-14T00:04:03.717Z",
+    "backupTimestamp": "2025-04-14T00:04:03.717Z",
+    "localBackupTimestamp": "2025-04-13T18:04:03.717Z"
+  },
+  {
+    "question": "What is the only known photosynthetic animal?",
+    "correct_answer": "Elysia chlorotica",
+    "incorrect_answers": [
+      "Coral",
+      "Sea anemone",
+      "Hydra",
+      "Green hydra",
+      "Sponge",
+      "Jellyfish",
+      "Flatworm"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Plants & Botany",
+    "difficulty": "hard",
+    "id": "f3710bf1-b7d8-4512-8fa0-018b29d6966c",
+    "created_at": "2025-04-14T00:04:03.721Z",
+    "backupTimestamp": "2025-04-14T00:04:03.721Z",
+    "localBackupTimestamp": "2025-04-13T18:04:03.721Z"
+  },
+  {
+    "question": "Which enzyme is central to carbon fixation?",
+    "correct_answer": "RuBisCO",
+    "incorrect_answers": [
+      "Catalase",
+      "Amylase",
+      "Cellulase",
+      "Nitrogenase",
+      "Ligase",
+      "Polymerase",
+      "Protease"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Plants & Botany",
+    "difficulty": "hard",
+    "id": "a846c54e-c674-4501-819d-7a0516fac67b",
+    "created_at": "2025-04-14T00:04:03.725Z",
+    "backupTimestamp": "2025-04-14T00:04:03.726Z",
+    "localBackupTimestamp": "2025-04-13T18:04:03.726Z"
+  },
+  {
+    "question": "Which plant is known as the 'living fossil'?",
+    "correct_answer": "Ginkgo biloba",
+    "incorrect_answers": [
+      "Welwitschia mirabilis",
+      "Wollemi pine",
+      "Cycad",
+      "Dawn redwood",
+      "Horsetail",
+      "Club moss",
+      "Coelacanth"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Plants & Botany",
+    "difficulty": "hard",
+    "id": "7d65ac6c-0263-451d-806a-680a0eec7eb5",
+    "created_at": "2025-04-14T00:04:03.729Z",
+    "backupTimestamp": "2025-04-14T00:04:03.730Z",
+    "localBackupTimestamp": "2025-04-13T18:04:03.730Z"
+  },
+  {
+    "question": "What historic plant disease caused the Irish Famine?",
+    "correct_answer": "Potato blight",
+    "incorrect_answers": [
+      "Wheat rust",
+      "Corn smut",
+      "Rice blast",
+      "Oat crown rust",
+      "Barley powdery mildew",
+      "Rye ergot",
+      "Cassava mosaic"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Plants & Botany",
+    "difficulty": "hard",
+    "id": "c228a23f-89ed-4386-a977-3a0792a6484b",
+    "created_at": "2025-04-14T00:04:03.734Z",
+    "backupTimestamp": "2025-04-14T00:04:03.734Z",
+    "localBackupTimestamp": "2025-04-13T18:04:03.734Z"
+  },
+  {
+    "question": "What is the study of pollen called?",
+    "correct_answer": "Palynology",
+    "incorrect_answers": [
+      "Pollination",
+      "Anthology",
+      "Carpology",
+      "Pollentology",
+      "Pollentics",
+      "Anthecology",
+      "Pollinology"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Plants & Botany",
+    "difficulty": "hard",
+    "id": "f9fdcd01-e7a5-4253-b23b-c70d9d82f65d",
+    "created_at": "2025-04-14T00:04:03.738Z",
+    "backupTimestamp": "2025-04-14T00:04:03.738Z",
+    "localBackupTimestamp": "2025-04-13T18:04:03.738Z"
+  },
+  {
+    "question": "What is the common name for Dionaea muscipula?",
+    "correct_answer": "Venus flytrap",
+    "incorrect_answers": [
+      "Pitcher plant",
+      "Sundew",
+      "Bladderwort",
+      "Cobra lily",
+      "Butterwort",
+      "Portuguese sundew",
+      "Waterwheel plant"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Plants & Botany",
+    "difficulty": "hard",
+    "id": "e5f85fa1-3f33-4121-a3fc-3d955da6ae18",
+    "created_at": "2025-04-14T00:04:03.741Z",
+    "backupTimestamp": "2025-04-14T00:04:03.741Z",
+    "localBackupTimestamp": "2025-04-13T18:04:03.741Z"
+  },
+  {
+    "question": "Which ancient plant is called a 'living fossil'?",
+    "correct_answer": "Cycad",
+    "incorrect_answers": [
+      "Fern",
+      "Moss",
+      "Ginkgo",
+      "Horsetail",
+      "Dawn redwood",
+      "Club moss",
+      "Wollemi pine"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Plants & Botany",
+    "difficulty": "hard",
+    "id": "2e769843-b921-42c3-a969-fbd4a92a7d44",
+    "created_at": "2025-04-14T00:04:03.746Z",
+    "backupTimestamp": "2025-04-14T00:04:03.746Z",
+    "localBackupTimestamp": "2025-04-13T18:04:03.746Z"
+  },
+  {
+    "question": "What unique property does the corpse flower have?",
+    "correct_answer": "Smells like rotting flesh",
+    "incorrect_answers": [
+      "Blooms once per century",
+      "Can eat small insects",
+      "Grows only at night",
+      "Changes color hourly",
+      "Absorbs animal DNA",
+      "Luminescent at night",
+      "Burns to touch"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Plants & Botany",
+    "difficulty": "hard",
+    "id": "2e3a5eac-4049-47ea-a643-b02ba09e1104",
+    "created_at": "2025-04-14T00:04:03.749Z",
+    "backupTimestamp": "2025-04-14T00:04:03.750Z",
+    "localBackupTimestamp": "2025-04-13T18:04:03.750Z"
+  },
+  {
+    "question": "What specialized tissue transports sugar in plants?",
+    "correct_answer": "Phloem",
+    "incorrect_answers": [
+      "Xylem",
+      "Cambium",
+      "Palisade mesophyll",
+      "Epidermis",
+      "Cortex",
+      "Pith",
+      "Endodermis"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Plants & Botany",
+    "difficulty": "hard",
+    "id": "afd8a739-44d6-41ac-ab4f-10458c7d0fc4",
+    "created_at": "2025-04-14T00:04:03.753Z",
+    "backupTimestamp": "2025-04-14T00:04:03.754Z",
+    "localBackupTimestamp": "2025-04-13T18:04:03.754Z"
+  },
+  {
+    "question": "What adaptation allows desert plants to photosynthesize?",
+    "correct_answer": "CAM photosynthesis",
+    "incorrect_answers": [
+      "C3 photosynthesis",
+      "C4 photosynthesis",
+      "Kranz anatomy",
+      "Bundle sheaths",
+      "Thick cuticle",
+      "Deep roots",
+      "Reduced leaves"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Plants & Botany",
+    "difficulty": "hard",
+    "id": "913365da-1e2e-421d-93f4-2d53d170d958",
+    "created_at": "2025-04-14T00:04:03.757Z",
+    "backupTimestamp": "2025-04-14T00:04:03.757Z",
+    "localBackupTimestamp": "2025-04-13T18:04:03.757Z"
+  },
+  {
+    "question": "Which alkaloid is found in deadly nightshade?",
+    "correct_answer": "Atropine",
+    "incorrect_answers": [
+      "Morphine",
+      "Quinine",
+      "Caffeine",
+      "Nicotine",
+      "Cocaine",
+      "Strychnine",
+      "Theobromine"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Plants & Botany",
+    "difficulty": "hard",
+    "id": "7965d24c-4fe2-4338-a16d-ed080be64982",
+    "created_at": "2025-04-14T00:04:03.761Z",
+    "backupTimestamp": "2025-04-14T00:04:03.761Z",
+    "localBackupTimestamp": "2025-04-13T18:04:03.761Z"
+  },
+  {
+    "question": "What is the common name for Taraxacum officinale?",
+    "correct_answer": "Dandelion",
+    "incorrect_answers": [
+      "Milkweed",
+      "Thistle",
+      "Chickweed",
+      "Plantain",
+      "Nettle",
+      "Clover",
+      "Sorrel"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Plants & Botany",
+    "difficulty": "hard",
+    "id": "9926728e-9721-40b9-812b-6b57c842fb79",
+    "created_at": "2025-04-14T00:04:03.765Z",
+    "backupTimestamp": "2025-04-14T00:04:03.765Z",
+    "localBackupTimestamp": "2025-04-13T18:04:03.765Z"
+  },
+  {
+    "question": "Which plant tissue is responsible for secondary growth?",
+    "correct_answer": "Lateral meristem",
+    "incorrect_answers": [
+      "Apical meristem",
+      "Ground tissue",
+      "Vascular tissue",
+      "Dermal tissue",
+      "Pith",
+      "Cortex",
+      "Epidermis"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Plants & Botany",
+    "difficulty": "hard",
+    "id": "7ce99ca7-11dd-470b-b391-8d007c0d91ce",
+    "created_at": "2025-04-14T00:04:03.768Z",
+    "backupTimestamp": "2025-04-14T00:04:03.768Z",
+    "localBackupTimestamp": "2025-04-13T18:04:03.768Z"
+  },
+  {
+    "question": "What botanical feature is unique to angiosperms?",
+    "correct_answer": "Double fertilization",
+    "incorrect_answers": [
+      "Seeds",
+      "Pollen",
+      "Cones",
+      "Vascular tissue",
+      "Roots",
+      "Leaves",
+      "Flowers"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Plants & Botany",
+    "difficulty": "hard",
+    "id": "9bd77d59-9b13-436f-bae7-85cef77a8a64",
+    "created_at": "2025-04-14T00:04:03.772Z",
+    "backupTimestamp": "2025-04-14T00:04:03.772Z",
+    "localBackupTimestamp": "2025-04-13T18:04:03.772Z"
+  },
+  {
+    "question": "Which plant produces the alkaloid reserpine?",
+    "correct_answer": "Rauwolfia serpentina",
+    "incorrect_answers": [
+      "Papaver somniferum",
+      "Atropa belladonna",
+      "Cannabis sativa",
+      "Erythroxylum coca",
+      "Datura stramonium",
+      "Convolvulus",
+      "Ephedra sinica"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Plants & Botany",
+    "difficulty": "hard",
+    "id": "1e91aec5-d254-4341-b303-322e194bde6f",
+    "created_at": "2025-04-14T00:04:03.775Z",
+    "backupTimestamp": "2025-04-14T00:04:03.776Z",
+    "localBackupTimestamp": "2025-04-13T18:04:03.776Z"
+  },
+  {
+    "question": "What is the chemical formula for chlorophyll a?",
+    "correct_answer": "C55H72O5N4Mg",
+    "incorrect_answers": [
+      "C55H70O6N4Mg",
+      "C35H30O5N4Mg",
+      "C45H52O5N4Fe",
+      "C20H25O2N",
+      "C9H8O4",
+      "C8H10N4O2",
+      "C17H21NO4"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Plants & Botany",
+    "difficulty": "hard",
+    "id": "439e0418-b291-48dd-bc97-6af29b69d943",
+    "created_at": "2025-04-14T00:04:03.779Z",
+    "backupTimestamp": "2025-04-14T00:04:03.779Z",
+    "localBackupTimestamp": "2025-04-13T18:04:03.779Z"
+  },
+  {
+    "question": "Which plant family includes the most species?",
+    "correct_answer": "Orchidaceae",
+    "incorrect_answers": [
+      "Asteraceae",
+      "Fabaceae",
+      "Rubiaceae",
+      "Poaceae",
+      "Solanaceae",
+      "Rosaceae",
+      "Brassicaceae"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Plants & Botany",
+    "difficulty": "hard",
+    "id": "08cedba2-5637-43c5-b057-dc7af54d5a3b",
+    "created_at": "2025-04-14T00:04:03.783Z",
+    "backupTimestamp": "2025-04-14T00:04:03.783Z",
+    "localBackupTimestamp": "2025-04-13T18:04:03.783Z"
+  },
+  {
+    "question": "What is the process of shedding leaves called?",
+    "correct_answer": "Abscission",
+    "incorrect_answers": [
+      "Senescence",
+      "Defoliation",
+      "Deciduation",
+      "Marcescence",
+      "Ablation",
+      "Exfoliation",
+      "Dehiscence"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Plants & Botany",
+    "difficulty": "hard",
+    "id": "3b447054-986d-4fe4-b1c0-1ec051e12c7a",
+    "created_at": "2025-04-14T00:04:03.787Z",
+    "backupTimestamp": "2025-04-14T00:04:03.787Z",
+    "localBackupTimestamp": "2025-04-13T18:04:03.787Z"
+  },
+  {
+    "question": "Which plant compound causes photodermatitis?",
+    "correct_answer": "Furocoumarin",
+    "incorrect_answers": [
+      "Capsaicin",
+      "Salicylic acid",
+      "Urushiol",
+      "Taxol",
+      "Digitoxin",
+      "Solanine",
+      "Ricin"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Plants & Botany",
+    "difficulty": "hard",
+    "id": "0e8608bc-7b6e-4421-9b4f-0d133bdb4845",
+    "created_at": "2025-04-14T00:04:03.790Z",
+    "backupTimestamp": "2025-04-14T00:04:03.790Z",
+    "localBackupTimestamp": "2025-04-13T18:04:03.790Z"
+  },
+  {
+    "question": "What is the study of plant galls?",
+    "correct_answer": "Cecidology",
+    "incorrect_answers": [
+      "Gallology",
+      "Teratology",
+      "Pathology",
+      "Mycology",
+      "Etiology",
+      "Phytopathology",
+      "Oncology"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Plants & Botany",
+    "difficulty": "hard",
+    "id": "c077088c-3085-41d6-b81a-543848e1d14d",
+    "created_at": "2025-04-14T00:04:03.794Z",
+    "backupTimestamp": "2025-04-14T00:04:03.794Z",
+    "localBackupTimestamp": "2025-04-13T18:04:03.794Z"
+  },
+  {
+    "question": "Which plant has the largest cones?",
+    "correct_answer": "Coulter Pine",
+    "incorrect_answers": [
+      "Sugar Pine",
+      "Sequoia",
+      "Redwood",
+      "Norfolk Pine",
+      "Bunya Pine",
+      "Kauri",
+      "Monkey Puzzle"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Plants & Botany",
+    "difficulty": "hard",
+    "id": "f4001cb0-fcb9-4354-904d-d541dc4b1b40",
+    "created_at": "2025-04-14T00:04:03.798Z",
+    "backupTimestamp": "2025-04-14T00:04:03.798Z",
+    "localBackupTimestamp": "2025-04-13T18:04:03.798Z"
+  },
+  {
+    "question": "What phenomenon is mycorrhiza?",
+    "correct_answer": "Fungus-root symbiosis",
+    "incorrect_answers": [
+      "Root disease",
+      "Root parasitism",
+      "Root mutation",
+      "Soil interaction",
+      "Water absorption",
+      "Nitrogen fixation",
+      "Root grafting"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Plants & Botany",
+    "difficulty": "hard",
+    "id": "c65bc651-f424-473c-8b15-e0292dc6c6cb",
+    "created_at": "2025-04-14T00:04:03.801Z",
+    "backupTimestamp": "2025-04-14T00:04:03.802Z",
+    "localBackupTimestamp": "2025-04-13T18:04:03.802Z"
+  },
+  {
+    "question": "Which wood is virtually unsinkable?",
+    "correct_answer": "Balsa",
+    "incorrect_answers": [
+      "Oak",
+      "Cedar",
+      "Pine",
+      "Teak",
+      "Redwood",
+      "Mahogany",
+      "Maple"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Plants & Botany",
+    "difficulty": "hard",
+    "id": "e5792f9b-a059-4af8-ac57-0e3bd9b74e0a",
+    "created_at": "2025-04-14T00:04:03.805Z",
+    "backupTimestamp": "2025-04-14T00:04:03.805Z",
+    "localBackupTimestamp": "2025-04-13T18:04:03.805Z"
+  },
+  {
+    "question": "What unusual adaptation do resurrection plants have?",
+    "correct_answer": "Revive after complete desiccation",
+    "incorrect_answers": [
+      "Grow without sunlight",
+      "Live underwater",
+      "Change gender",
+      "Move locations",
+      "Digest animals",
+      "Produce electricity",
+      "Reproduce asexually"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Plants & Botany",
+    "difficulty": "hard",
+    "id": "46df81ec-a8a5-4457-84ea-8037bb39b4af",
+    "created_at": "2025-04-14T00:04:03.808Z",
+    "backupTimestamp": "2025-04-14T00:04:03.810Z",
+    "localBackupTimestamp": "2025-04-13T18:04:03.810Z"
+  },
+  {
+    "question": "What structure allows plants to climb?",
+    "correct_answer": "Tendrils",
+    "incorrect_answers": [
+      "Thorns",
+      "Stolons",
+      "Rhizomes",
+      "Bulbs",
+      "Corms",
+      "Tubers",
+      "Runners"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Plants & Botany",
+    "difficulty": "hard",
+    "id": "4f54ebcc-9719-4f5c-b8b6-0268e1b1d753",
+    "created_at": "2025-04-14T00:04:03.814Z",
+    "backupTimestamp": "2025-04-14T00:04:03.815Z",
+    "localBackupTimestamp": "2025-04-13T18:04:03.815Z"
+  },
+  {
+    "question": "What adaptation do halophytes possess?",
+    "correct_answer": "Salt tolerance",
+    "incorrect_answers": [
+      "Cold resistance",
+      "Fire resistance",
+      "Drought tolerance",
+      "Flood survival",
+      "Acid tolerance",
+      "Heavy metal tolerance",
+      "Pathogen resistance"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Plants & Botany",
+    "difficulty": "hard",
+    "id": "70c725b4-139d-43fc-90cd-b3b1525bd62c",
+    "created_at": "2025-04-14T00:04:03.818Z",
+    "backupTimestamp": "2025-04-14T00:04:03.819Z",
+    "localBackupTimestamp": "2025-04-13T18:04:03.819Z"
+  },
+  {
+    "question": "Which compound gives garlic its distinctive odor?",
+    "correct_answer": "Allicin",
+    "incorrect_answers": [
+      "Capsaicin",
+      "Myristicin",
+      "Isothiocyanate",
+      "Geosmin",
+      "Eugenol",
+      "Limonene",
+      "Linalool"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Plants & Botany",
+    "difficulty": "hard",
+    "id": "5889ff64-82a8-497b-bda5-acac5a4ad191",
+    "created_at": "2025-04-14T00:04:03.822Z",
+    "backupTimestamp": "2025-04-14T00:04:03.823Z",
+    "localBackupTimestamp": "2025-04-13T18:04:03.823Z"
+  },
+  {
+    "question": "What is the study of extinct plants?",
+    "correct_answer": "Paleobotany",
+    "incorrect_answers": [
+      "Dendrochronology",
+      "Archaeobotany",
+      "Palynology",
+      "Ethnobotany",
+      "Phytopaleontology",
+      "Fossilology",
+      "Anthracology"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Plants & Botany",
+    "difficulty": "hard",
+    "id": "1d90349c-b92b-4bfc-980a-0fac04ea34b0",
+    "created_at": "2025-04-14T00:04:03.827Z",
+    "backupTimestamp": "2025-04-14T00:04:03.827Z",
+    "localBackupTimestamp": "2025-04-13T18:04:03.827Z"
+  },
+  {
+    "question": "Which plant produces triterpenoid saponins?",
+    "correct_answer": "Ginseng",
+    "incorrect_answers": [
+      "Aloe",
+      "Cannabis",
+      "Echinacea",
+      "Ginkgo",
+      "St. John's wort",
+      "Garlic",
+      "Valerian"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Plants & Botany",
+    "difficulty": "hard",
+    "id": "6bf10dca-ccc3-49a7-b410-bcd261ca456c",
+    "created_at": "2025-04-14T00:04:03.831Z",
+    "backupTimestamp": "2025-04-14T00:04:03.831Z",
+    "localBackupTimestamp": "2025-04-13T18:04:03.831Z"
+  },
+  {
+    "question": "What botanical anomaly is Hura crepitans known for?",
+    "correct_answer": "Explosive seed dispersal",
+    "incorrect_answers": [
+      "Carnivorous behavior",
+      "Toxic pollen",
+      "Luminescent bark",
+      "Magnetic attraction",
+      "Flammable sap",
+      "Temperature regulation",
+      "Sound production"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Plants & Botany",
+    "difficulty": "hard",
+    "id": "296d4ff0-02b6-4e41-a27d-25bbf7666f33",
+    "created_at": "2025-04-14T00:04:03.835Z",
+    "backupTimestamp": "2025-04-14T00:04:03.835Z",
+    "localBackupTimestamp": "2025-04-13T18:04:03.835Z"
+  },
+  {
+    "question": "What is the study of plant diseases?",
+    "correct_answer": "Phytopathology",
+    "incorrect_answers": [
+      "Mycology",
+      "Virology",
+      "Pathology",
+      "Epidemiology",
+      "Etiology",
+      "Nosology",
+      "Symptomatology"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Plants & Botany",
+    "difficulty": "hard",
+    "id": "318ad867-588a-4d21-bdff-0479f129caab",
+    "created_at": "2025-04-14T00:04:03.838Z",
+    "backupTimestamp": "2025-04-14T00:04:03.839Z",
+    "localBackupTimestamp": "2025-04-13T18:04:03.839Z"
+  },
+  {
+    "question": "Which plant's name means 'wolfsbane' in Greek?",
+    "correct_answer": "Aconitum",
+    "incorrect_answers": [
+      "Digitalis",
+      "Belladonna",
+      "Mandrake",
+      "Hemlock",
+      "Nightshade",
+      "Henbane",
+      "Foxglove"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Plants & Botany",
+    "difficulty": "hard",
+    "id": "349e9d33-72c7-4127-a552-72f90f1466d8",
+    "created_at": "2025-04-14T00:04:03.843Z",
+    "backupTimestamp": "2025-04-14T00:04:03.844Z",
+    "localBackupTimestamp": "2025-04-13T18:04:03.844Z"
+  },
+  {
+    "question": "Which plant has the shortest life cycle?",
+    "correct_answer": "Arabidopsis thaliana",
+    "incorrect_answers": [
+      "Bamboo",
+      "Duckweed",
+      "Desert annual",
+      "Moss",
+      "Algae",
+      "Pea plant",
+      "Maize"
+    ],
+    "main_category": "Science & Nature",
+    "subcategory": "Plants & Botany",
+    "difficulty": "hard",
+    "id": "cc834a9b-6fc2-4e02-92a7-5742398c4968",
+    "created_at": "2025-04-14T00:04:03.847Z",
+    "backupTimestamp": "2025-04-14T00:04:03.847Z",
+    "localBackupTimestamp": "2025-04-13T18:04:03.847Z"
   }
 ]
