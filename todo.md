@@ -43,7 +43,11 @@
       - [x] Question ID (foreign key to questions table)
       - [x] Answer was correct (boolean)
       - [x] Timestamp
-  - [ ] Add response backup system
+  - [ ] Create mobile screens
+    - [ ] Create home screen (easy, medium, hard, surprise me, settings, statistics)
+    - [ ] Create settings screen where user can select which categories to include or exclude.
+    - [ ] Create question screen.
+  - [ ] Add response backup system (mobile-only)
     - [ ] Create responses.json backup functions
       - [ ] Function to safely write responses:
         - [ ] Copy existing responses.json to .bak
@@ -58,17 +62,16 @@
       - [ ] Look for responses.json file
       - [ ] Import responses if backup found
   - [ ] Get 10,000 questions
-  - [ ] Create home screen (easy, medium, hard, surprise me, settings, statistics)
-  - [ ] Create settings screen (select categories)
   - [ ] Create question screen
-  - [ ] Create statistics screen where user can see how they have performed in different categories and difficulties.
   - [ ] Handle the case when the user has answered all available questions.
-  - [ ] Add a way for a user to report problem questions in the mobile app. Email simplytrivia@gmail.com?
-  - [ ] Test in dark mode and light mode.
 
 ## Future updates
+  - [ ] Create statistics screen where user can see how they have performed in different categories and difficulties.
+  - [ ] Test in dark mode and light mode.
+  - [ ] Add AI fact-checking (ask AI to review JSON files?)
+  - [ ] Get AI to provide UI design.
   - [ ] Backend for questions, user accounts
-  - [ ] Ability for users to report inaccurate questions.
+  - [ ] Add a way for a user to report problem questions in the mobile app. Email simplytrivia@gmail.com?
   - [ ] Track questions that are answered and determine how difficult they are based on how often they are answered correctly.
   - [ ] Periodically cull questions that have a >95% correct answer rate.
   - [ ] Time limit for answering questions.
