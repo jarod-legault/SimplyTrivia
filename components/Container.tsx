@@ -1,4 +1,4 @@
-import { StyleSheet, SafeAreaView } from 'react-native';
+import { StyleSheet, SafeAreaView, Platform } from 'react-native';
 
 export const Container = ({ children }: { children: React.ReactNode }) => {
   return <SafeAreaView style={styles.container}>{children}</SafeAreaView>;
@@ -7,5 +7,6 @@ export const Container = ({ children }: { children: React.ReactNode }) => {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
+    paddingTop: Platform.OS === 'ios' ? 10 : 30, // Additional padding for notch/camera area
   },
 });
