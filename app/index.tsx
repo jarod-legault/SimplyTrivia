@@ -1,6 +1,6 @@
 import { Stack, useRouter } from 'expo-router';
 import { useEffect, useState } from 'react';
-import { StyleSheet, Text, View, Platform, Pressable } from 'react-native';
+import { StyleSheet, Text, View, Platform, Pressable, Image } from 'react-native';
 
 import { useStore } from '../store';
 import type { Difficulty } from '../types';
@@ -39,6 +39,11 @@ export default function Home() {
       <Container>
         <View style={styles.container}>
           <View style={styles.header}>
+            <Image
+              source={require('../assets/Simply Trivia Logo.png')}
+              style={styles.logo}
+              resizeMode="contain"
+            />
             <Text style={styles.title}>Simply Trivia</Text>
           </View>
 
@@ -110,8 +115,13 @@ const styles = StyleSheet.create({
     alignItems: 'center',
     marginBottom: 40,
   },
+  logo: {
+    width: '80%',
+    height: 120,
+    marginBottom: 20,
+  },
   title: {
-    fontSize: 32,
+    fontSize: 24,
     fontWeight: 'bold',
     color: '#333',
   },
