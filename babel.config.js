@@ -1,10 +1,9 @@
 module.exports = function (api) {
   api.cache(true);
-  let plugins = [];
+  const plugins = [['inline-import', { extensions: ['.sql'] }]];
 
   return {
-    presets: ["babel-preset-expo"],
-
+    presets: ['babel-preset-expo'],
     plugins,
   };
 };

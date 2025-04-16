@@ -1,17 +1,13 @@
-import { eq } from 'drizzle-orm';
-import { drizzle } from 'drizzle-orm/sqlite-proxy';
+import { drizzle } from 'drizzle-orm/expo-sqlite';
 import { Asset } from 'expo-asset';
 import * as FileSystem from 'expo-file-system';
-import * as ExpoSQLite from 'expo-sqlite';
+import * as SQLite from 'expo-sqlite';
 import { Platform } from 'react-native';
 
-import { Question, NewQuestion, QuestionData } from './schema';
 import * as schema from './schema';
-import { generateUUID } from '../utils/uuid';
 
 // Database connection instance
 let db: ReturnType<typeof drizzle> | null = null;
-let SQLiteProxy: any;
 
 // Constants for database files
 const DB_FILENAME = 'questions.db';
@@ -30,14 +26,40 @@ export const initDatabase = async () => {
       throw new Error('Database operations are not supported in web version');
     }
 
-    // Mobile implementation
-    await initMobileDatabase();
+    // Check if database file exists in document directory
+    const fileInfo = await FileSystem.getInfoAsync(DB_PATH);
 
-    // Initialize Drizzle with our proxy
-    db = drizzle(SQLiteProxy, { schema });
+    // Delete existing database file to force a fresh copy
+    if (fileInfo.exists) {
+      console.log('Deleting existing database file to ensure fresh copy...');
+      await FileSystem.deleteAsync(DB_PATH);
+    }
 
-    // Create tables if they don't exist
-    await createTables();
+    console.log('Copying database from bundled assets...');
+    try {
+      // Try to load database from bundled assets
+      const asset = Asset.fromModule(require('../data/questions.db'));
+      await asset.downloadAsync();
+
+      if (asset.localUri) {
+        await FileSystem.copyAsync({
+          from: asset.localUri,
+          to: DB_PATH,
+        });
+        console.log('Successfully copied bundled database from data folder');
+      } else {
+        throw new Error('Database file not found in data folder');
+      }
+    } catch (error) {
+      console.error('Failed to load or copy database:', error);
+      throw new Error(
+        'Could not find or load the required database file. The app requires a pre-populated questions database to function.'
+      );
+    }
+
+    // Open the database using the proper path
+    const sqlite = SQLite.openDatabaseSync(DB_PATH);
+    db = drizzle(sqlite, { schema });
 
     console.log('Database initialized successfully');
     return db;
@@ -48,115 +70,25 @@ export const initDatabase = async () => {
 };
 
 /**
- * Initialize database for mobile platforms
+ * Get all categories
  */
-const initMobileDatabase = async () => {
+export const getCategories = async () => {
   try {
-    // Check if database file already exists in document directory
-    const fileInfo = await FileSystem.getInfoAsync(DB_PATH);
-
-    if (!fileInfo.exists) {
-      console.log('Database file not found in document directory, checking bundled assets...');
-
-      try {
-        // Try to load database from bundled assets
-        console.log('Attempting to copy bundled database from assets...');
-        const asset = Asset.fromModule(require('../assets/questions.db'));
-        await asset.downloadAsync();
-
-        if (asset.localUri) {
-          await FileSystem.copyAsync({
-            from: asset.localUri,
-            to: DB_PATH,
-          });
-          console.log('Successfully copied bundled database from assets');
-        } else {
-          console.log('No bundled database found in assets, creating new database');
-        }
-      } catch (error) {
-        console.log('No bundled database found or error copying, creating new database:', error);
-      }
-    } else {
-      console.log('Using existing database file from document directory');
-    }
-
-    // Open the database using the proper async method
-    const database = await ExpoSQLite.openDatabaseAsync(DB_PATH);
-    console.log('Database opened successfully');
-
-    // Create our proxy for Expo SQLite
-    SQLiteProxy = {
-      execute: async (sql: string, params: any[] = []) => {
-        try {
-          return await new Promise((resolve, reject) => {
-            (async () => {
-              try {
-                const result = await database.runAsync(sql, params);
-
-                if (sql.trim().toUpperCase().startsWith('SELECT')) {
-                  resolve(Array.isArray(result) ? result : []);
-                } else {
-                  resolve([]);
-                }
-              } catch (err) {
-                console.error('Error executing SQL:', err);
-                reject(new Error(err instanceof Error ? err.message : String(err)));
-              }
-            })();
-          });
-        } catch (error) {
-          console.error('SQL error:', error, 'SQL:', sql, 'Params:', params);
-          throw error;
-        }
-      },
-    };
+    const database = await initDatabase();
+    console.log('Fetching categories from database...');
+    const result = await database.select().from(schema.categories);
+    console.log(`Found ${result.length} categories`);
+    return result;
   } catch (error) {
-    console.error('Error initializing mobile database:', error);
-    throw error;
-  }
-};
-
-/**
- * Create tables if they don't exist
- */
-const createTables = async () => {
-  const createQuestionsTable = `
-    CREATE TABLE IF NOT EXISTS questions (
-      id TEXT PRIMARY KEY NOT NULL,
-      question TEXT NOT NULL,
-      correct_answer TEXT NOT NULL,
-      incorrect_answers TEXT NOT NULL,
-      main_category TEXT NOT NULL,
-      subcategory TEXT NOT NULL,
-      difficulty TEXT NOT NULL,
-      created_at INTEGER NOT NULL
-    )
-  `;
-
-  const createResponsesTable = `
-    CREATE TABLE IF NOT EXISTS responses (
-      id TEXT PRIMARY KEY NOT NULL,
-      question_id TEXT NOT NULL,
-      is_correct INTEGER NOT NULL,
-      created_at INTEGER NOT NULL,
-      FOREIGN KEY (question_id) REFERENCES questions(id)
-    )
-  `;
-
-  try {
-    await SQLiteProxy.execute(createQuestionsTable);
-    await SQLiteProxy.execute(createResponsesTable);
-    console.log('Tables created or verified');
-  } catch (error) {
-    console.error('Error creating tables:', error);
-    throw error;
+    console.error('Error fetching categories:', error);
+    return [];
   }
 };
 
 /**
  * Get all questions
  */
-export const getQuestions = async (): Promise<Question[]> => {
+export const getQuestions = async () => {
   try {
     const database = await initDatabase();
     console.log('Fetching questions from database...');
@@ -166,102 +98,5 @@ export const getQuestions = async (): Promise<Question[]> => {
   } catch (error) {
     console.error('Error fetching questions:', error);
     return [];
-  }
-};
-
-/**
- * Add a new question
- */
-export const addQuestion = async (questionData: QuestionData): Promise<Question | null> => {
-  try {
-    if (!questionData?.question) {
-      throw new Error('Invalid question data');
-    }
-
-    const database = await initDatabase();
-    console.log('Adding question:', questionData.question);
-
-    const newQuestion: NewQuestion = {
-      id: generateUUID(),
-      question: questionData.question,
-      correctAnswer: questionData.correct_answer,
-      incorrectAnswers:
-        typeof questionData.incorrect_answers === 'string'
-          ? questionData.incorrect_answers
-          : JSON.stringify(questionData.incorrect_answers),
-      mainCategory: questionData.main_category,
-      subcategory: questionData.subcategory,
-      difficulty: questionData.difficulty,
-      createdAt: new Date(),
-    };
-
-    await database.insert(schema.questions).values(newQuestion);
-    console.log('Question added successfully with ID:', newQuestion.id);
-    return newQuestion as Question;
-  } catch (error) {
-    console.error('Error adding question:', error);
-    return null;
-  }
-};
-
-/**
- * Delete a question by ID
- */
-export const deleteQuestion = async (id: string): Promise<boolean> => {
-  try {
-    const database = await initDatabase();
-    await database.delete(schema.questions).where(eq(schema.questions.id, id));
-    console.log('Question deleted:', id);
-    return true;
-  } catch (error) {
-    console.error('Error deleting question:', error);
-    return false;
-  }
-};
-
-/**
- * Import multiple questions
- */
-export const importQuestions = async (questionsData: QuestionData[]): Promise<Question[]> => {
-  if (!questionsData?.length) {
-    console.log('No questions to import');
-    return [];
-  }
-
-  const database = await initDatabase();
-  const batchSize = 50;
-  const results: Question[] = [];
-
-  try {
-    // Process in batches to avoid memory issues
-    for (let i = 0; i < questionsData.length; i += batchSize) {
-      const batch = questionsData.slice(i, i + batchSize);
-      console.log(
-        `Processing batch ${i / batchSize + 1} of ${Math.ceil(questionsData.length / batchSize)}`
-      );
-
-      const newQuestions: NewQuestion[] = batch.map((data) => ({
-        id: generateUUID(),
-        question: data.question,
-        correctAnswer: data.correct_answer,
-        incorrectAnswers:
-          typeof data.incorrect_answers === 'string'
-            ? data.incorrect_answers
-            : JSON.stringify(data.incorrect_answers),
-        mainCategory: data.main_category,
-        subcategory: data.subcategory,
-        difficulty: data.difficulty,
-        createdAt: new Date(),
-      }));
-
-      await database.insert(schema.questions).values(newQuestions);
-      results.push(...(newQuestions as Question[]));
-    }
-
-    console.log(`Successfully imported ${results.length} questions`);
-    return results;
-  } catch (error) {
-    console.error('Error importing questions:', error);
-    throw error;
   }
 };

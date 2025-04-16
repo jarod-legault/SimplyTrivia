@@ -1,5 +1,14 @@
-import { Slot } from 'expo-router';
+import { Stack } from 'expo-router';
+import { useEffect } from 'react';
 
-export default function Layout() {
-  return <Slot />;
+import { useStore } from '../store';
+
+export default function RootLayout() {
+  const initialize = useStore((state) => state.initialize);
+
+  useEffect(() => {
+    initialize().catch(console.error);
+  }, [initialize]);
+
+  return <Stack />;
 }

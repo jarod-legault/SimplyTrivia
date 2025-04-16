@@ -30,7 +30,7 @@ export default function Home() {
   };
 
   const handleSettingsPress = () => {
-    // Router navigation will be added later
+    router.push('./settings');
   };
 
   return (
