@@ -44,7 +44,7 @@
       - [x] Answer was correct (boolean)
       - [x] Timestamp
   - [ ] Create mobile screens
-    - [ ] Create home screen (easy, medium, hard, surprise me, settings, statistics)
+    - [ ] Create home screen (easy, medium, hard, surprise me, settings)
     - [ ] Create settings screen where user can select which categories to include or exclude.
     - [ ] Create question screen.
   - [ ] Add response backup system (mobile-only)
