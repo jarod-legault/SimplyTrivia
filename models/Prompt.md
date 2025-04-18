@@ -1,6 +1,6 @@
 - Current method is to ask Copilot Agent in "Ask" mode using Claude 3.7 Sonnet".
 
-- Provide 55 unique trivia questions in JSON format.
+- Provide 55 unique "easy" trivia questions in JSON format.
 - Each question should have the following properties:
   - question
   - correct_answer
@@ -8,8 +8,7 @@
   - main_category
   - subcategory
   - difficulty (easy, medium, hard)
-- The questions should be equally distributed between easy, medium, and hard.
-- All questions should be in the category of "History" and the subcategory of "Modern History".
+- All questions should be in the category of "Geography" and the subcategory of "Countries & Capitals".
 - Proof read each question to make sure there are no problems with the question. If there are problems, fix the problems or replace it with a different question.
 - Do not provide any questions that have only two possible answers, like true/false questions.
 - Ensure that the correct answer does not appear in the question.
