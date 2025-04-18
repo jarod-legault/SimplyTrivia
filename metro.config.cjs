@@ -8,4 +8,7 @@ const config = getDefaultConfig(process.cwd());
 config.resolver.assetExts.push('db');
 config.resolver.sourceExts.push('sql');
 
+// Support both ESM and CommonJS
+config.resolver.sourceExts.push('mjs', 'cjs');
+
 module.exports = config;
