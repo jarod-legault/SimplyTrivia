@@ -1,19 +1,48 @@
 ## Tech Specs
-  - Expo Android & iOS mobile app is the main app users will use.
-  - Expo Web app for question database management.
-  - Expo Router
-  - SQLite database:
-    - Questions table: Stores all trivia questions, ships with the app
-    - Responses table: Tracks user's answered questions and performance
-  - Local-only apps. No network required. All questions will be stored locally on the device.
-  - Expo web app that runs locally. This is used for me to add questions to the SQLite database.
-    - Text input to paste JSON questions.
-    - Button to select a JSON file to upload questions.
-    - The JSON is validated to make sure the questions match our question schema.
-    - The new questions are compared against the existing questions in the database to see if there are any duplicates. If there are, they are presented to the user to either accept or reject.
-    - There will be a button that will allow the user to export the database file so it can be saved in the repository to be used in the mobile app.
-    - The Expo web app will use `better-sqlite3` to manage the SQLite database.
-  - Both the web and mobile app will use drizzle ORM for SQLite so they can share schemas.
+  - Mobile App:
+    - Built with Expo for Android & iOS
+    - Uses SQLite via expo-sqlite for local database
+    - Local-only, no network required
+    - All questions stored locally on device
+    - Uses drizzle ORM for database operations
+    - Responses table tracks user progress locally
+
+  - Web App:
+    - Separate Expo web app for question database management
+    - Communicates with Node/Express API server
+    - Never accesses database directly
+    - Uses API endpoints for all database operations
+    - Provides UI for adding/editing/deleting questions and categories
+
+  - API Server:
+    - Node.js/Express server
+    - Uses better-sqlite3 for database operations
+    - Uses drizzle ORM with shared schema
+    - Provides endpoints for:
+      - Question management (CRUD operations)
+      - Category management
+      - Duplicate detection
+      - Answer validation
+      - Backup management
+
+  - Database Utils Structure:
+    - mobile-db.ts:
+      - Uses expo-sqlite and drizzle ORM
+      - Handles local database initialization from bundled file
+      - Provides methods for local question/category queries
+      - Manages local response tracking
+
+    - server-db.ts:
+      - Uses better-sqlite3 and drizzle ORM
+      - Handles server-side database operations
+      - Provides methods for duplicate detection
+      - Manages category validation
+      - Handles question backup functionality
+
+  - Both apps share:
+    - Common database schema (models/schema.ts)
+    - Common types (models/database.common.ts)
+    - Drizzle ORM for consistent database operations
 
 ## Question Database Management
   - Questions are added through the web admin interface and published with new app releases
