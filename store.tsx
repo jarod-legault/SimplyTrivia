@@ -2,7 +2,7 @@ import AsyncStorage from '@react-native-async-storage/async-storage';
 import { create } from 'zustand';
 import { createJSONStorage, persist } from 'zustand/middleware';
 
-import { db } from './models/database';
+import { initDatabase, getCategories } from './models/database';
 import type { Category } from './models/database.common';
 import { Difficulty } from './types';
 
@@ -55,10 +55,10 @@ export const useStore = create<State>()(
       initialize: async () => {
         try {
           // Initialize database
-          await db.initDatabase();
+          await initDatabase();
 
           // Get all categories and set them as enabled by default
-          const categories = await db.getCategories();
+          const categories = await getCategories();
 
           // Only set default preferences if there are none saved
           set((state) => {

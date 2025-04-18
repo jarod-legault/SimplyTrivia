@@ -1,33 +1,30 @@
-import { eq } from 'drizzle-orm';
+import { eq, and } from 'drizzle-orm';
 import { drizzle } from 'drizzle-orm/expo-sqlite';
 import { Asset } from 'expo-asset';
 import * as FileSystem from 'expo-file-system';
 import * as SQLite from 'expo-sqlite';
 
-import { Category, Question } from './database.common';
-import * as schema from './schema';
-import { generateUUID } from '../utils/uuid';
+import { generateUUID } from './uuid';
+import { DatabaseProvider, type TriviaQuestion } from '../models/database.common';
+
+import { Category, Question } from '../models/database.common';
+import * as schema from '../models/schema';
 
 const DB_NAME = 'questions.db';
 const DB_PATH = FileSystem.documentDirectory + DB_NAME;
 
 let db: ReturnType<typeof drizzle> | null = null;
 
-/**
- * Initialize the database
- */
 export const initDatabase = async () => {
   if (db) {
     return db;
   }
 
   try {
-    // Check if database exists
     const info = await FileSystem.getInfoAsync(DB_PATH);
     if (!info.exists) {
       console.log('Database does not exist, copying from bundled assets...');
       try {
-        // Try to load database from bundled assets
         const asset = Asset.fromModule(require('../data/questions.db'));
         await asset.downloadAsync();
 
@@ -48,7 +45,6 @@ export const initDatabase = async () => {
       }
     }
 
-    // Open the database using the proper path
     const sqlite = SQLite.openDatabaseSync(DB_NAME);
     db = drizzle(sqlite, { schema });
 
@@ -60,9 +56,6 @@ export const initDatabase = async () => {
   }
 };
 
-/**
- * Get all categories
- */
 export const getCategories = async (): Promise<Category[]> => {
   try {
     const database = await initDatabase();
@@ -72,46 +65,37 @@ export const getCategories = async (): Promise<Category[]> => {
     return result;
   } catch (error) {
     console.error('Error fetching categories:', error);
-    return [];
+    throw error;
   }
 };
 
-/**
- * Get all questions
- */
-export const getQuestions = async (): Promise<Question[]> => {
+export const getQuestions = async (
+  mainCategory?: string,
+  subcategory?: string
+): Promise<Question[]> => {
   try {
     const database = await initDatabase();
-    console.log('Fetching questions from database...');
-    const result = await database.select().from(schema.questions);
-    console.log(`Found ${result.length} questions`);
-    return result;
+    let query = database.select().from(schema.questions);
+
+    if (mainCategory && subcategory) {
+      query = database
+        .select()
+        .from(schema.questions)
+        .where(
+          and(
+            eq(schema.questions.mainCategory, mainCategory),
+            eq(schema.questions.subcategory, subcategory)
+          )
+        );
+    }
+
+    return await query;
   } catch (error) {
     console.error('Error fetching questions:', error);
-    return [];
+    throw error;
   }
 };
 
-/**
- * Get a single question by ID
- */
-export const getQuestionById = async (id: string): Promise<Question | null> => {
-  try {
-    const database = await initDatabase();
-    const result = await database
-      .select()
-      .from(schema.questions)
-      .where(eq(schema.questions.id, id));
-    return result[0] || null;
-  } catch (error) {
-    console.error('Error fetching question:', error);
-    return null;
-  }
-};
-
-/**
- * Save a response to a question
- */
 export const saveResponse = async (questionId: string, isCorrect: boolean): Promise<void> => {
   try {
     const database = await initDatabase();
