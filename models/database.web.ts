@@ -4,9 +4,8 @@ import { generateUUID } from '../utils/uuid';
 // Check if we're in a browser environment with IndexedDB support
 const isIndexedDBAvailable = () => {
   try {
-    return typeof window !== 'undefined' && 
-           typeof window.indexedDB !== 'undefined';
-  } catch (e) {
+    return typeof window !== 'undefined' && typeof window.indexedDB !== 'undefined';
+  } catch {
     return false;
   }
 };
@@ -35,7 +34,9 @@ export const initDatabase = (): Promise<void> => {
       // Create categories store
       const categoriesStore = db.createObjectStore('categories', { keyPath: 'id' });
       categoriesStore.createIndex('mainCategory', 'mainCategory', { unique: false });
-      categoriesStore.createIndex('mainSubCategory', ['mainCategory', 'subcategory'], { unique: true });
+      categoriesStore.createIndex('mainSubCategory', ['mainCategory', 'subcategory'], {
+        unique: true,
+      });
 
       // Create questions store
       const questionsStore = db.createObjectStore('questions', { keyPath: 'id' });
@@ -48,13 +49,13 @@ export const initDatabase = (): Promise<void> => {
 
     request.onsuccess = async () => {
       db = request.result;
-      
+
       // Populate categories if empty
       const categories = await getCategories();
       if (categories.length === 0) {
         await populateCategories();
       }
-      
+
       resolve();
     };
   });
@@ -71,12 +72,12 @@ const populateCategories = async () => {
     transaction.onerror = () => reject(transaction.error);
     transaction.oncomplete = () => resolve();
 
-    DEFAULT_CATEGORIES.forEach(category => {
+    DEFAULT_CATEGORIES.forEach((category) => {
       store.add({
         id: generateUUID(),
         mainCategory: category.main,
         subcategory: category.sub,
-        createdAt: timestamp
+        createdAt: timestamp,
       });
     });
   });
@@ -89,7 +90,8 @@ export const getCategories = (): Promise<Category[]> => {
       return;
     }
 
-    const transaction = db.transaction(['categories'], 'readonly');
+    const database = db; // Create a stable reference
+    const transaction = database.transaction(['categories'], 'readonly');
     const store = transaction.objectStore('categories');
     const request = store.getAll();
 
@@ -98,11 +100,15 @@ export const getCategories = (): Promise<Category[]> => {
   });
 };
 
-export const getQuestions = async (mainCategory?: string, subcategory?: string): Promise<Question[]> => {
+export const getQuestions = async (
+  mainCategory?: string,
+  subcategory?: string
+): Promise<Question[]> => {
   if (!db) return [];
 
+  const database = db; // Create a stable reference
   return new Promise((resolve, reject) => {
-    const transaction = db.transaction(['questions'], 'readonly');
+    const transaction = database.transaction(['questions'], 'readonly');
     const store = transaction.objectStore('questions');
     const request = store.getAll();
 
@@ -110,8 +116,8 @@ export const getQuestions = async (mainCategory?: string, subcategory?: string):
     request.onsuccess = () => {
       let questions = request.result;
       if (mainCategory && subcategory) {
-        questions = questions.filter(q => 
-          q.mainCategory === mainCategory && q.subcategory === subcategory
+        questions = questions.filter(
+          (q) => q.mainCategory === mainCategory && q.subcategory === subcategory
         );
       }
       resolve(questions);
@@ -122,8 +128,9 @@ export const getQuestions = async (mainCategory?: string, subcategory?: string):
 export const getQuestionById = async (id: string): Promise<Question | null> => {
   if (!db) return null;
 
+  const database = db; // Create a stable reference
   return new Promise((resolve, reject) => {
-    const transaction = db.transaction(['questions'], 'readonly');
+    const transaction = database.transaction(['questions'], 'readonly');
     const store = transaction.objectStore('questions');
     const request = store.get(id);
 
@@ -135,15 +142,16 @@ export const getQuestionById = async (id: string): Promise<Question | null> => {
 export const saveResponse = async (questionId: string, isCorrect: boolean): Promise<void> => {
   if (!db) return;
 
+  const database = db; // Create a stable reference
   return new Promise((resolve, reject) => {
-    const transaction = db.transaction(['responses'], 'readwrite');
+    const transaction = database.transaction(['responses'], 'readwrite');
     const store = transaction.objectStore('responses');
-    
+
     const response = {
       id: generateUUID(),
       questionId,
       isCorrect,
-      createdAt: new Date().getTime()
+      createdAt: new Date().getTime(),
     };
 
     const request = store.add(response);

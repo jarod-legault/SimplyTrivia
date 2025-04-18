@@ -3,8 +3,8 @@ import React, { useEffect, useState } from 'react';
 import { StyleSheet, Text, View, ScrollView, Pressable, ActivityIndicator } from 'react-native';
 
 import { getCategories } from '../models/database';
-
 import { useStore } from '../store';
+
 import { Container } from '~/components/Container';
 
 interface Category {
