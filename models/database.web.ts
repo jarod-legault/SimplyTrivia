@@ -1,217 +1,153 @@
-import Database from 'better-sqlite3';
-import { drizzle } from 'drizzle-orm/better-sqlite3';
-import fs from 'fs';
-import path from 'path';
-
 import { Category, Question, DEFAULT_CATEGORIES } from './database.common';
-import * as schema from './schema';
 import { generateUUID } from '../utils/uuid';
 
-// Define the database directory and file
-const DB_DIR = path.join(process.cwd(), 'data');
-const DB_PATH = path.join(DB_DIR, 'questions.db');
-
-// Make sure the data directory exists
-try {
-  if (!fs.existsSync(DB_DIR)) {
-    fs.mkdirSync(DB_DIR, { recursive: true });
+// Check if we're in a browser environment with IndexedDB support
+const isIndexedDBAvailable = () => {
+  try {
+    return typeof window !== 'undefined' && 
+           typeof window.indexedDB !== 'undefined';
+  } catch (e) {
+    return false;
   }
-} catch (err) {
-  console.error('Failed to create data directory:', err);
-}
-
-// Initialize the database connection
-let db: ReturnType<typeof drizzle> | null = null;
-let sqlite: Database.Database | null = null;
-
-/**
- * Get the database instance, initializing it if necessary
- */
-export const initDatabase = () => {
-  if (!db) {
-    try {
-      sqlite = new Database(DB_PATH);
-      db = drizzle(sqlite, { schema });
-
-      // Initialize the database schema
-      sqlite.exec(`
-        CREATE TABLE IF NOT EXISTS categories (
-          id TEXT PRIMARY KEY NOT NULL,
-          main_category TEXT NOT NULL,
-          subcategory TEXT NOT NULL,
-          created_at INTEGER NOT NULL,
-          UNIQUE(main_category, subcategory)
-        );
-
-        CREATE TABLE IF NOT EXISTS questions (
-          id TEXT PRIMARY KEY NOT NULL,
-          question TEXT NOT NULL,
-          correct_answer TEXT NOT NULL,
-          incorrect_answers TEXT NOT NULL,
-          main_category TEXT NOT NULL,
-          subcategory TEXT NOT NULL,
-          difficulty TEXT NOT NULL,
-          created_at INTEGER NOT NULL,
-          FOREIGN KEY (main_category, subcategory)
-            REFERENCES categories(main_category, subcategory)
-        );
-
-        CREATE TABLE IF NOT EXISTS responses (
-          id TEXT PRIMARY KEY NOT NULL,
-          question_id TEXT NOT NULL,
-          is_correct INTEGER NOT NULL,
-          created_at INTEGER NOT NULL,
-          FOREIGN KEY (question_id) REFERENCES questions(id)
-        );
-      `);
-
-      // Populate categories if empty
-      const categoriesCount = sqlite.prepare('SELECT COUNT(*) as count FROM categories').get() as {
-        count: number;
-      };
-
-      if (categoriesCount.count === 0) {
-        populateCategories();
-      }
-    } catch (err) {
-      console.error('Failed to initialize database:', err);
-      throw err;
-    }
-  }
-
-  return db;
 };
 
-/**
- * Populate the categories table with predefined categories
- */
-const populateCategories = () => {
-  if (!sqlite) return;
+let db: IDBDatabase | null = null;
 
-  const insertCategory = sqlite.prepare(`
-    INSERT INTO categories (id, main_category, subcategory, created_at)
-    VALUES (?, ?, ?, ?)
-  `);
+export const initDatabase = (): Promise<void> => {
+  return new Promise((resolve, reject) => {
+    if (!isIndexedDBAvailable()) {
+      reject(new Error('IndexedDB is not available in this environment'));
+      return;
+    }
 
+    if (db) {
+      resolve();
+      return;
+    }
+
+    const request = indexedDB.open('SimplyTrivia', 1);
+
+    request.onerror = () => reject(request.error);
+
+    request.onupgradeneeded = (event) => {
+      const db = (event.target as IDBOpenDBRequest).result;
+
+      // Create categories store
+      const categoriesStore = db.createObjectStore('categories', { keyPath: 'id' });
+      categoriesStore.createIndex('mainCategory', 'mainCategory', { unique: false });
+      categoriesStore.createIndex('mainSubCategory', ['mainCategory', 'subcategory'], { unique: true });
+
+      // Create questions store
+      const questionsStore = db.createObjectStore('questions', { keyPath: 'id' });
+      questionsStore.createIndex('category', ['mainCategory', 'subcategory'], { unique: false });
+
+      // Create responses store
+      const responsesStore = db.createObjectStore('responses', { keyPath: 'id' });
+      responsesStore.createIndex('questionId', 'questionId', { unique: false });
+    };
+
+    request.onsuccess = async () => {
+      db = request.result;
+      
+      // Populate categories if empty
+      const categories = await getCategories();
+      if (categories.length === 0) {
+        await populateCategories();
+      }
+      
+      resolve();
+    };
+  });
+};
+
+const populateCategories = async () => {
+  if (!db) return;
+
+  const transaction = db.transaction(['categories'], 'readwrite');
+  const store = transaction.objectStore('categories');
   const timestamp = new Date().getTime();
 
-  sqlite.transaction(() => {
-    for (const category of DEFAULT_CATEGORIES) {
-      insertCategory.run(generateUUID(), category.main, category.sub, timestamp);
-    }
-  })();
+  return new Promise<void>((resolve, reject) => {
+    transaction.onerror = () => reject(transaction.error);
+    transaction.oncomplete = () => resolve();
+
+    DEFAULT_CATEGORIES.forEach(category => {
+      store.add({
+        id: generateUUID(),
+        mainCategory: category.main,
+        subcategory: category.sub,
+        createdAt: timestamp
+      });
+    });
+  });
 };
 
-/**
- * Get all categories
- */
-export const getCategories = (): Category[] => {
-  if (!sqlite) {
-    initDatabase();
-  }
-  if (!sqlite) return [];
-
-  const results = sqlite
-    .prepare(
-      'SELECT id, main_category as mainCategory, subcategory, created_at as createdAt FROM categories ORDER BY main_category, subcategory'
-    )
-    .all() as Category[];
-
-  return results;
-};
-
-/**
- * Get all subcategories for a main category
- */
-export const getSubcategories = (mainCategory: string): string[] => {
-  if (!sqlite) {
-    initDatabase();
-  }
-  if (!sqlite) return [];
-
-  const results = sqlite
-    .prepare('SELECT subcategory FROM categories WHERE main_category = ? ORDER BY subcategory')
-    .all(mainCategory) as { subcategory: string }[];
-
-  return results.map((r) => r.subcategory);
-};
-
-/**
- * Get all main categories
- */
-export const getMainCategories = (): string[] => {
-  if (!sqlite) {
-    initDatabase();
-  }
-  if (!sqlite) return [];
-
-  const results = sqlite
-    .prepare('SELECT DISTINCT main_category FROM categories ORDER BY main_category')
-    .all() as { main_category: string }[];
-
-  return results.map((r) => r.main_category);
-};
-
-/**
- * Validate a category/subcategory pair
- */
-export const validateCategory = (mainCategory: string, subcategory: string): boolean => {
-  if (!sqlite) {
-    initDatabase();
-  }
-  if (!sqlite) return false;
-
-  const result = sqlite
-    .prepare('SELECT COUNT(*) as count FROM categories WHERE main_category = ? AND subcategory = ?')
-    .get(mainCategory, subcategory) as { count: number };
-
-  return result.count > 0;
-};
-
-/**
- * Find similar questions for duplicate detection
- */
-export const findSimilarQuestions = (questionText: string): Question[] => {
-  if (!sqlite) {
-    initDatabase();
-  }
-  if (!sqlite) return [];
-
-  try {
-    // First try a direct match
-    const exactMatches = sqlite
-      .prepare(`SELECT * FROM questions WHERE LOWER(question) = LOWER(?)`)
-      .all(questionText) as Question[];
-
-    if (exactMatches.length > 0) {
-      return exactMatches;
+export const getCategories = (): Promise<Category[]> => {
+  return new Promise((resolve, reject) => {
+    if (!db) {
+      resolve([]);
+      return;
     }
 
-    // Then try a fuzzy match using LIKE
-    const fuzzyMatches = sqlite
-      .prepare(
-        `SELECT * FROM questions
-         WHERE LOWER(question) LIKE LOWER(?)
-         LIMIT 5`
-      )
-      .all(`%${questionText}%`) as Question[];
+    const transaction = db.transaction(['categories'], 'readonly');
+    const store = transaction.objectStore('categories');
+    const request = store.getAll();
 
-    return fuzzyMatches;
-  } catch (err) {
-    console.error('Error checking for similar questions:', err);
-    return [];
-  }
+    request.onerror = () => reject(request.error);
+    request.onsuccess = () => resolve(request.result);
+  });
 };
 
-/**
- * Check if a question contains an answer
- */
-export const checkQuestionContainsAnswer = (question: string, answer: string): boolean => {
-  // Convert both strings to lowercase for case-insensitive comparison
-  const cleanQuestion = question.toLowerCase();
-  const cleanAnswer = answer.toLowerCase();
+export const getQuestions = async (mainCategory?: string, subcategory?: string): Promise<Question[]> => {
+  if (!db) return [];
 
-  // Check if the answer appears as a whole word in the question
-  const wordBoundaryRegex = new RegExp(`\\b${cleanAnswer}\\b`);
-  return wordBoundaryRegex.test(cleanQuestion);
+  return new Promise((resolve, reject) => {
+    const transaction = db.transaction(['questions'], 'readonly');
+    const store = transaction.objectStore('questions');
+    const request = store.getAll();
+
+    request.onerror = () => reject(request.error);
+    request.onsuccess = () => {
+      let questions = request.result;
+      if (mainCategory && subcategory) {
+        questions = questions.filter(q => 
+          q.mainCategory === mainCategory && q.subcategory === subcategory
+        );
+      }
+      resolve(questions);
+    };
+  });
+};
+
+export const getQuestionById = async (id: string): Promise<Question | null> => {
+  if (!db) return null;
+
+  return new Promise((resolve, reject) => {
+    const transaction = db.transaction(['questions'], 'readonly');
+    const store = transaction.objectStore('questions');
+    const request = store.get(id);
+
+    request.onerror = () => reject(request.error);
+    request.onsuccess = () => resolve(request.result || null);
+  });
+};
+
+export const saveResponse = async (questionId: string, isCorrect: boolean): Promise<void> => {
+  if (!db) return;
+
+  return new Promise((resolve, reject) => {
+    const transaction = db.transaction(['responses'], 'readwrite');
+    const store = transaction.objectStore('responses');
+    
+    const response = {
+      id: generateUUID(),
+      questionId,
+      isCorrect,
+      createdAt: new Date().getTime()
+    };
+
+    const request = store.add(response);
+    request.onerror = () => reject(request.error);
+    request.onsuccess = () => resolve();
+  });
 };

@@ -6,6 +6,11 @@ import path from 'path';
 import { generateUUID } from './uuid';
 import * as schema from '../models/schema';
 
+// Early environment check to prevent module from loading in browser
+if (typeof window !== 'undefined') {
+  throw new Error('This module is intended for server-side use only');
+}
+
 // Define the database directory and file
 const DB_DIR = path.join(process.cwd(), 'data');
 const DB_PATH = path.join(DB_DIR, 'questions.db');
