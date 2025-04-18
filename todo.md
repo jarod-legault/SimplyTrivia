@@ -46,6 +46,7 @@
   - [ ] Create mobile screens
     - [ ] Create home screen (easy, medium, hard, surprise me, settings)
     - [ ] Create settings screen where user can select which categories to include or exclude.
+    - [ ] Change settings button to a gear icon.
     - [ ] Create question screen.
   - [ ] Add response backup system (mobile-only)
     - [ ] Create responses.json backup functions
