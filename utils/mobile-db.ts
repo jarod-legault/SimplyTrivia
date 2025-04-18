@@ -5,8 +5,6 @@ import * as FileSystem from 'expo-file-system';
 import * as SQLite from 'expo-sqlite';
 
 import { generateUUID } from './uuid';
-import { DatabaseProvider, type TriviaQuestion } from '../models/database.common';
-
 import { Category, Question } from '../models/database.common';
 import * as schema from '../models/schema';
 
@@ -75,10 +73,9 @@ export const getQuestions = async (
 ): Promise<Question[]> => {
   try {
     const database = await initDatabase();
-    let query = database.select().from(schema.questions);
 
     if (mainCategory && subcategory) {
-      query = database
+      return await database
         .select()
         .from(schema.questions)
         .where(
@@ -89,7 +86,7 @@ export const getQuestions = async (
         );
     }
 
-    return await query;
+    return await database.select().from(schema.questions);
   } catch (error) {
     console.error('Error fetching questions:', error);
     throw error;
