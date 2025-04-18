@@ -55,10 +55,10 @@ export const useStore = create<State>()(
         try {
           // Initialize database
           await initDatabase();
-          
+
           // Get all categories and set them as enabled by default
           const categories = await getCategories();
-          
+
           // Only set default preferences if there are none saved
           set((state) => {
             if (state.categoryPreferences.length === 0) {
