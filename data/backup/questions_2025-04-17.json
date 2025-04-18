@@ -1,0 +1,22 @@
+[
+  {
+    "question": "In the original run of Twin Peaks (1990-1991), what was the total screen time of the character Laura Palmer in the series, despite being the central mystery?",
+    "correct_answer": "2 minutes and 45 seconds",
+    "incorrect_answers": [
+      "15 minutes and 30 seconds",
+      "8 minutes and 20 seconds",
+      "5 minutes and 15 seconds",
+      "12 minutes total",
+      "4 minutes and 10 seconds",
+      "1 minute and 15 seconds",
+      "10 minutes and 45 seconds"
+    ],
+    "main_category": "Pop Culture",
+    "subcategory": "Television",
+    "difficulty": "hard",
+    "id": "39e64da9-49a8-4dea-bc61-2ba538b0a615",
+    "created_at": "2025-04-18T02:47:14.855Z",
+    "backupTimestamp": "2025-04-18T02:47:14.859Z",
+    "localBackupTimestamp": "2025-04-17T20:47:14.859Z"
+  }
+]
