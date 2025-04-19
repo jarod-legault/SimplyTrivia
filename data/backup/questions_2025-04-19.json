@@ -6738,5 +6738,3445 @@
     "created_at": "2025-04-19T18:23:22.149Z",
     "backupTimestamp": "2025-04-19T18:23:22.149Z",
     "localBackupTimestamp": "2025-04-19T12:23:22.149Z"
+  },
+  {
+    "question": "Which country is known for the traditional dress called kimono?",
+    "correct_answer": "Japan",
+    "incorrect_answers": [
+      "China",
+      "Korea",
+      "Vietnam",
+      "Thailand",
+      "Indonesia",
+      "Mongolia",
+      "Malaysia"
+    ],
+    "main_category": "Geography",
+    "subcategory": "World Cultures",
+    "difficulty": "easy",
+    "id": "d85cc852-72c3-4cd3-aa4f-80d467ffd4df",
+    "created_at": "2025-04-19T18:30:50.939Z",
+    "backupTimestamp": "2025-04-19T18:30:50.944Z",
+    "localBackupTimestamp": "2025-04-19T12:30:50.944Z"
+  },
+  {
+    "question": "What is the traditional Scottish garment worn by men?",
+    "correct_answer": "Kilt",
+    "incorrect_answers": [
+      "Tartan",
+      "Sporran",
+      "Tam o' Shanter",
+      "Balmoral",
+      "Trews",
+      "Claidheamh",
+      "Plaid"
+    ],
+    "main_category": "Geography",
+    "subcategory": "World Cultures",
+    "difficulty": "easy",
+    "id": "eb326c31-6993-4d79-89f3-34d27fde9982",
+    "created_at": "2025-04-19T18:30:50.952Z",
+    "backupTimestamp": "2025-04-19T18:30:50.953Z",
+    "localBackupTimestamp": "2025-04-19T12:30:50.953Z"
+  },
+  {
+    "question": "Which country is known for the traditional dance called flamenco?",
+    "correct_answer": "Spain",
+    "incorrect_answers": [
+      "Italy",
+      "Portugal",
+      "Greece",
+      "Mexico",
+      "Argentina",
+      "Brazil",
+      "Cuba"
+    ],
+    "main_category": "Geography",
+    "subcategory": "World Cultures",
+    "difficulty": "easy",
+    "id": "b58d6b9b-0666-4fa3-a0e0-5ddbc5311a1e",
+    "created_at": "2025-04-19T18:30:50.957Z",
+    "backupTimestamp": "2025-04-19T18:30:50.957Z",
+    "localBackupTimestamp": "2025-04-19T12:30:50.957Z"
+  },
+  {
+    "question": "What is the main language spoken in Brazil?",
+    "correct_answer": "Portuguese",
+    "incorrect_answers": [
+      "Spanish",
+      "French",
+      "Italian",
+      "English",
+      "Dutch",
+      "German",
+      "Latin"
+    ],
+    "main_category": "Geography",
+    "subcategory": "World Cultures",
+    "difficulty": "easy",
+    "id": "b26ecda2-f0cc-4af3-9bcf-41aee6987ca9",
+    "created_at": "2025-04-19T18:30:50.961Z",
+    "backupTimestamp": "2025-04-19T18:30:50.961Z",
+    "localBackupTimestamp": "2025-04-19T12:30:50.961Z"
+  },
+  {
+    "question": "Which country celebrates Bastille Day as a national holiday?",
+    "correct_answer": "France",
+    "incorrect_answers": [
+      "Germany",
+      "Italy",
+      "Spain",
+      "Belgium",
+      "Switzerland",
+      "Netherlands",
+      "United Kingdom"
+    ],
+    "main_category": "Geography",
+    "subcategory": "World Cultures",
+    "difficulty": "easy",
+    "id": "75191078-6264-4306-9ba8-4281a66a47a2",
+    "created_at": "2025-04-19T18:30:50.964Z",
+    "backupTimestamp": "2025-04-19T18:30:50.966Z",
+    "localBackupTimestamp": "2025-04-19T12:30:50.966Z"
+  },
+  {
+    "question": "Which country is known for the cultural celebration of Oktoberfest?",
+    "correct_answer": "Germany",
+    "incorrect_answers": [
+      "Austria",
+      "Switzerland",
+      "Belgium",
+      "Czech Republic",
+      "Poland",
+      "Denmark",
+      "Netherlands"
+    ],
+    "main_category": "Geography",
+    "subcategory": "World Cultures",
+    "difficulty": "easy",
+    "id": "34a4324a-191c-4f62-ac47-5e1de978e96d",
+    "created_at": "2025-04-19T18:30:50.970Z",
+    "backupTimestamp": "2025-04-19T18:30:50.970Z",
+    "localBackupTimestamp": "2025-04-19T12:30:50.970Z"
+  },
+  {
+    "question": "Which country is known for creating sushi?",
+    "correct_answer": "Japan",
+    "incorrect_answers": [
+      "China",
+      "Thailand",
+      "Vietnam",
+      "South Korea",
+      "Philippines",
+      "Malaysia",
+      "Indonesia"
+    ],
+    "main_category": "Geography",
+    "subcategory": "World Cultures",
+    "difficulty": "easy",
+    "id": "e524017e-fa2d-4ed8-948a-fbd8ffd3a1d8",
+    "created_at": "2025-04-19T18:30:50.973Z",
+    "backupTimestamp": "2025-04-19T18:30:50.973Z",
+    "localBackupTimestamp": "2025-04-19T12:30:50.973Z"
+  },
+  {
+    "question": "Which country is famous for its Carnival celebration in Rio?",
+    "correct_answer": "Brazil",
+    "incorrect_answers": [
+      "Mexico",
+      "Argentina",
+      "Colombia",
+      "Peru",
+      "Venezuela",
+      "Spain",
+      "Portugal"
+    ],
+    "main_category": "Geography",
+    "subcategory": "World Cultures",
+    "difficulty": "easy",
+    "id": "c408516e-7efa-4b48-9022-0b2a2cd1bf4d",
+    "created_at": "2025-04-19T18:30:50.976Z",
+    "backupTimestamp": "2025-04-19T18:30:50.976Z",
+    "localBackupTimestamp": "2025-04-19T12:30:50.976Z"
+  },
+  {
+    "question": "What is the traditional hat worn in Mexico called?",
+    "correct_answer": "Sombrero",
+    "incorrect_answers": [
+      "Beret",
+      "Fez",
+      "Panama hat",
+      "Fedora",
+      "Bowler",
+      "Trilby",
+      "Toque"
+    ],
+    "main_category": "Geography",
+    "subcategory": "World Cultures",
+    "difficulty": "easy",
+    "id": "96e3aaa2-9513-452c-9853-c3a44d5bf956",
+    "created_at": "2025-04-19T18:30:50.980Z",
+    "backupTimestamp": "2025-04-19T18:30:50.980Z",
+    "localBackupTimestamp": "2025-04-19T12:30:50.980Z"
+  },
+  {
+    "question": "Which country is known for the traditional dance called hula?",
+    "correct_answer": "Hawaii (USA)",
+    "incorrect_answers": [
+      "New Zealand",
+      "Fiji",
+      "Samoa",
+      "Tahiti",
+      "Philippines",
+      "Indonesia",
+      "Tonga"
+    ],
+    "main_category": "Geography",
+    "subcategory": "World Cultures",
+    "difficulty": "easy",
+    "id": "4f2218c8-60a2-491c-b031-08334d845069",
+    "created_at": "2025-04-19T18:30:50.983Z",
+    "backupTimestamp": "2025-04-19T18:30:50.983Z",
+    "localBackupTimestamp": "2025-04-19T12:30:50.983Z"
+  },
+  {
+    "question": "Which language is most widely spoken in India?",
+    "correct_answer": "Hindi",
+    "incorrect_answers": [
+      "Bengali",
+      "Telugu",
+      "Marathi",
+      "Tamil",
+      "Urdu",
+      "Gujarati",
+      "Punjabi"
+    ],
+    "main_category": "Geography",
+    "subcategory": "World Cultures",
+    "difficulty": "easy",
+    "id": "18b1e0d5-5296-44f5-a64d-b3e8f4d27085",
+    "created_at": "2025-04-19T18:30:50.986Z",
+    "backupTimestamp": "2025-04-19T18:30:50.987Z",
+    "localBackupTimestamp": "2025-04-19T12:30:50.987Z"
+  },
+  {
+    "question": "Which country is famous for its Bollywood film industry?",
+    "correct_answer": "India",
+    "incorrect_answers": [
+      "Pakistan",
+      "Bangladesh",
+      "Nepal",
+      "Sri Lanka",
+      "Indonesia",
+      "Malaysia",
+      "Thailand"
+    ],
+    "main_category": "Geography",
+    "subcategory": "World Cultures",
+    "difficulty": "easy",
+    "id": "4f6083c6-d6bb-4740-9f65-8400eefee73c",
+    "created_at": "2025-04-19T18:30:50.993Z",
+    "backupTimestamp": "2025-04-19T18:30:50.993Z",
+    "localBackupTimestamp": "2025-04-19T12:30:50.993Z"
+  },
+  {
+    "question": "What is the traditional clothing for women in Vietnam called?",
+    "correct_answer": "Ao dai",
+    "incorrect_answers": [
+      "Kimono",
+      "Hanbok",
+      "Cheongsam",
+      "Sarong",
+      "Sari",
+      "Kebaya",
+      "Sampot"
+    ],
+    "main_category": "Geography",
+    "subcategory": "World Cultures",
+    "difficulty": "easy",
+    "id": "81935401-eb0b-47fa-83b6-23f3a009f070",
+    "created_at": "2025-04-19T18:30:50.996Z",
+    "backupTimestamp": "2025-04-19T18:30:50.997Z",
+    "localBackupTimestamp": "2025-04-19T12:30:50.997Z"
+  },
+  {
+    "question": "Which country is known for the traditional dance called tango?",
+    "correct_answer": "Argentina",
+    "incorrect_answers": [
+      "Brazil",
+      "Spain",
+      "Portugal",
+      "Chile",
+      "Uruguay",
+      "Mexico",
+      "Colombia"
+    ],
+    "main_category": "Geography",
+    "subcategory": "World Cultures",
+    "difficulty": "easy",
+    "id": "36986cee-a784-4ad1-ab25-b6b8e1334f63",
+    "created_at": "2025-04-19T18:30:51.000Z",
+    "backupTimestamp": "2025-04-19T18:30:51.000Z",
+    "localBackupTimestamp": "2025-04-19T12:30:51.000Z"
+  },
+  {
+    "question": "Which country celebrates Diwali as a major festival?",
+    "correct_answer": "India",
+    "incorrect_answers": [
+      "China",
+      "Japan",
+      "Thailand",
+      "Vietnam",
+      "Cambodia",
+      "Nepal",
+      "Malaysia"
+    ],
+    "main_category": "Geography",
+    "subcategory": "World Cultures",
+    "difficulty": "easy",
+    "id": "dbcef921-b7d8-4972-87a1-5cff1c644e41",
+    "created_at": "2025-04-19T18:30:51.003Z",
+    "backupTimestamp": "2025-04-19T18:30:51.003Z",
+    "localBackupTimestamp": "2025-04-19T12:30:51.003Z"
+  },
+  {
+    "question": "What is the traditional clothing for women in Korea called?",
+    "correct_answer": "Hanbok",
+    "incorrect_answers": [
+      "Kimono",
+      "Cheongsam",
+      "Ao dai",
+      "Sari",
+      "Sarong",
+      "Kebaya",
+      "Yukata"
+    ],
+    "main_category": "Geography",
+    "subcategory": "World Cultures",
+    "difficulty": "easy",
+    "id": "a264cc9d-7421-42ea-b2b9-bb44b2e80cb5",
+    "created_at": "2025-04-19T18:30:51.006Z",
+    "backupTimestamp": "2025-04-19T18:30:51.006Z",
+    "localBackupTimestamp": "2025-04-19T12:30:51.006Z"
+  },
+  {
+    "question": "Which country is known for celebrating Día de los Muertos?",
+    "correct_answer": "Mexico",
+    "incorrect_answers": [
+      "Spain",
+      "Brazil",
+      "Colombia",
+      "Peru",
+      "Argentina",
+      "Chile",
+      "Venezuela"
+    ],
+    "main_category": "Geography",
+    "subcategory": "World Cultures",
+    "difficulty": "easy",
+    "id": "a02be946-262b-4be9-9c01-093f8ecc402c",
+    "created_at": "2025-04-19T18:30:51.010Z",
+    "backupTimestamp": "2025-04-19T18:30:51.010Z",
+    "localBackupTimestamp": "2025-04-19T12:30:51.010Z"
+  },
+  {
+    "question": "Which country is known for creating pizza?",
+    "correct_answer": "Italy",
+    "incorrect_answers": [
+      "Greece",
+      "Spain",
+      "France",
+      "Turkey",
+      "Lebanon",
+      "United States",
+      "Germany"
+    ],
+    "main_category": "Geography",
+    "subcategory": "World Cultures",
+    "difficulty": "easy",
+    "id": "97e1fdda-a7f0-4f66-a3d2-a69b845a1b72",
+    "created_at": "2025-04-19T18:30:51.012Z",
+    "backupTimestamp": "2025-04-19T18:30:51.013Z",
+    "localBackupTimestamp": "2025-04-19T12:30:51.013Z"
+  },
+  {
+    "question": "Which country is known for the traditional dress called lederhosen?",
+    "correct_answer": "Germany",
+    "incorrect_answers": [
+      "Austria",
+      "Switzerland",
+      "Denmark",
+      "Sweden",
+      "Norway",
+      "Poland",
+      "Czech Republic"
+    ],
+    "main_category": "Geography",
+    "subcategory": "World Cultures",
+    "difficulty": "easy",
+    "id": "9ba86e87-086c-46fc-9590-240e457fc371",
+    "created_at": "2025-04-19T18:30:51.015Z",
+    "backupTimestamp": "2025-04-19T18:30:51.015Z",
+    "localBackupTimestamp": "2025-04-19T12:30:51.015Z"
+  },
+  {
+    "question": "Which country celebrates Thanksgiving as a national holiday?",
+    "correct_answer": "United States",
+    "incorrect_answers": [
+      "Canada",
+      "England",
+      "Australia",
+      "Germany",
+      "France",
+      "Italy",
+      "Spain"
+    ],
+    "main_category": "Geography",
+    "subcategory": "World Cultures",
+    "difficulty": "easy",
+    "id": "ab74039b-af7e-44e9-bc18-06b0476ed903",
+    "created_at": "2025-04-19T18:30:51.017Z",
+    "backupTimestamp": "2025-04-19T18:30:51.018Z",
+    "localBackupTimestamp": "2025-04-19T12:30:51.018Z"
+  },
+  {
+    "question": "What is the traditional female garment in India called?",
+    "correct_answer": "Sari",
+    "incorrect_answers": [
+      "Kimono",
+      "Hanbok",
+      "Ao dai",
+      "Cheongsam",
+      "Kebaya",
+      "Salwar kameez",
+      "Sarong"
+    ],
+    "main_category": "Geography",
+    "subcategory": "World Cultures",
+    "difficulty": "easy",
+    "id": "81144471-3372-4967-8a1f-5b9c65187e85",
+    "created_at": "2025-04-19T18:30:51.020Z",
+    "backupTimestamp": "2025-04-19T18:30:51.020Z",
+    "localBackupTimestamp": "2025-04-19T12:30:51.020Z"
+  },
+  {
+    "question": "Which country is famous for originating tacos?",
+    "correct_answer": "Mexico",
+    "incorrect_answers": [
+      "Spain",
+      "United States",
+      "Brazil",
+      "Argentina",
+      "Colombia",
+      "Peru",
+      "Chile"
+    ],
+    "main_category": "Geography",
+    "subcategory": "World Cultures",
+    "difficulty": "easy",
+    "id": "8fd2d497-c424-4d62-903a-00a1c332e2b1",
+    "created_at": "2025-04-19T18:30:51.022Z",
+    "backupTimestamp": "2025-04-19T18:30:51.022Z",
+    "localBackupTimestamp": "2025-04-19T12:30:51.022Z"
+  },
+  {
+    "question": "Which country has the maple leaf on its flag?",
+    "correct_answer": "Canada",
+    "incorrect_answers": [
+      "United States",
+      "United Kingdom",
+      "Australia",
+      "New Zealand",
+      "Jamaica",
+      "South Africa",
+      "Japan"
+    ],
+    "main_category": "Geography",
+    "subcategory": "World Cultures",
+    "difficulty": "easy",
+    "id": "157082cd-f8ef-44bf-8ab8-54a6fbdc231b",
+    "created_at": "2025-04-19T18:30:51.024Z",
+    "backupTimestamp": "2025-04-19T18:30:51.024Z",
+    "localBackupTimestamp": "2025-04-19T12:30:51.024Z"
+  },
+  {
+    "question": "What language is primarily spoken in Argentina?",
+    "correct_answer": "Spanish",
+    "incorrect_answers": [
+      "Portuguese",
+      "Italian",
+      "French",
+      "English",
+      "German",
+      "Guaraní",
+      "Quechua"
+    ],
+    "main_category": "Geography",
+    "subcategory": "World Cultures",
+    "difficulty": "easy",
+    "id": "b464db2c-c7bb-4730-8b54-e0ba93a570c2",
+    "created_at": "2025-04-19T18:30:51.026Z",
+    "backupTimestamp": "2025-04-19T18:30:51.027Z",
+    "localBackupTimestamp": "2025-04-19T12:30:51.027Z"
+  },
+  {
+    "question": "Which country is famous for the Maori culture and haka dance?",
+    "correct_answer": "New Zealand",
+    "incorrect_answers": [
+      "Australia",
+      "Fiji",
+      "Samoa",
+      "Tonga",
+      "Hawaii",
+      "Papua New Guinea",
+      "Vanuatu"
+    ],
+    "main_category": "Geography",
+    "subcategory": "World Cultures",
+    "difficulty": "easy",
+    "id": "ae57fdce-b6bf-4f65-b767-372913cf7505",
+    "created_at": "2025-04-19T18:30:51.029Z",
+    "backupTimestamp": "2025-04-19T18:30:51.029Z",
+    "localBackupTimestamp": "2025-04-19T12:30:51.029Z"
+  },
+  {
+    "question": "Which culture is known for creating bagpipes?",
+    "correct_answer": "Scottish",
+    "incorrect_answers": [
+      "Irish",
+      "Welsh",
+      "English",
+      "French",
+      "Italian",
+      "Spanish",
+      "German"
+    ],
+    "main_category": "Geography",
+    "subcategory": "World Cultures",
+    "difficulty": "easy",
+    "id": "20a931f6-9fce-4849-a909-394d64054288",
+    "created_at": "2025-04-19T18:30:51.031Z",
+    "backupTimestamp": "2025-04-19T18:30:51.031Z",
+    "localBackupTimestamp": "2025-04-19T12:30:51.031Z"
+  },
+  {
+    "question": "Which country celebrates the Songkran water festival?",
+    "correct_answer": "Thailand",
+    "incorrect_answers": [
+      "Vietnam",
+      "Cambodia",
+      "Laos",
+      "Myanmar",
+      "Philippines",
+      "Malaysia",
+      "Indonesia"
+    ],
+    "main_category": "Geography",
+    "subcategory": "World Cultures",
+    "difficulty": "easy",
+    "id": "0ad55929-9caf-4699-8589-0a7454bb32ec",
+    "created_at": "2025-04-19T18:30:51.033Z",
+    "backupTimestamp": "2025-04-19T18:30:51.034Z",
+    "localBackupTimestamp": "2025-04-19T12:30:51.034Z"
+  },
+  {
+    "question": "Which country is known for originating pasta?",
+    "correct_answer": "Italy",
+    "incorrect_answers": [
+      "China",
+      "France",
+      "Spain",
+      "Greece",
+      "Turkey",
+      "Egypt",
+      "Morocco"
+    ],
+    "main_category": "Geography",
+    "subcategory": "World Cultures",
+    "difficulty": "easy",
+    "id": "8729d74c-d7ed-40ed-9021-73913aa2cd5f",
+    "created_at": "2025-04-19T18:30:51.036Z",
+    "backupTimestamp": "2025-04-19T18:30:51.036Z",
+    "localBackupTimestamp": "2025-04-19T12:30:51.036Z"
+  },
+  {
+    "question": "What is the traditional Chinese New Year gift called?",
+    "correct_answer": "Red envelope",
+    "incorrect_answers": [
+      "Moon cake",
+      "Lucky bamboo",
+      "Jade ornament",
+      "Lotus flower",
+      "Fortune cookie",
+      "Silk scarf",
+      "Paper lantern"
+    ],
+    "main_category": "Geography",
+    "subcategory": "World Cultures",
+    "difficulty": "easy",
+    "id": "a9ea1d32-fde4-4548-8dca-5aec15a4a24e",
+    "created_at": "2025-04-19T18:30:51.038Z",
+    "backupTimestamp": "2025-04-19T18:30:51.038Z",
+    "localBackupTimestamp": "2025-04-19T12:30:51.038Z"
+  },
+  {
+    "question": "Which language is primarily spoken in Egypt?",
+    "correct_answer": "Arabic",
+    "incorrect_answers": [
+      "Coptic",
+      "Persian",
+      "Turkish",
+      "Hebrew",
+      "Greek",
+      "French",
+      "English"
+    ],
+    "main_category": "Geography",
+    "subcategory": "World Cultures",
+    "difficulty": "easy",
+    "id": "696b206e-21b7-40ea-a5bb-809f9e0cbeaa",
+    "created_at": "2025-04-19T18:30:51.041Z",
+    "backupTimestamp": "2025-04-19T18:30:51.042Z",
+    "localBackupTimestamp": "2025-04-19T12:30:51.042Z"
+  },
+  {
+    "question": "Which culture invented chopsticks?",
+    "correct_answer": "Chinese",
+    "incorrect_answers": [
+      "Japanese",
+      "Korean",
+      "Vietnamese",
+      "Thai",
+      "Mongolian",
+      "Malaysian",
+      "Filipino"
+    ],
+    "main_category": "Geography",
+    "subcategory": "World Cultures",
+    "difficulty": "easy",
+    "id": "687e8c15-cb17-4b6e-ad13-f2aee4a5376f",
+    "created_at": "2025-04-19T18:30:51.044Z",
+    "backupTimestamp": "2025-04-19T18:30:51.045Z",
+    "localBackupTimestamp": "2025-04-19T12:30:51.045Z"
+  },
+  {
+    "question": "What is the official language of Australia?",
+    "correct_answer": "English",
+    "incorrect_answers": [
+      "French",
+      "Spanish",
+      "Dutch",
+      "German",
+      "Portuguese",
+      "Indigenous Australian",
+      "Mandarin"
+    ],
+    "main_category": "Geography",
+    "subcategory": "World Cultures",
+    "difficulty": "easy",
+    "id": "54b04fda-2e5a-42e2-acf7-cf305142a4c6",
+    "created_at": "2025-04-19T18:30:51.047Z",
+    "backupTimestamp": "2025-04-19T18:30:51.048Z",
+    "localBackupTimestamp": "2025-04-19T12:30:51.048Z"
+  },
+  {
+    "question": "Which country is known for tulips and windmills?",
+    "correct_answer": "Netherlands",
+    "incorrect_answers": [
+      "Belgium",
+      "Denmark",
+      "Germany",
+      "France",
+      "England",
+      "Switzerland",
+      "Austria"
+    ],
+    "main_category": "Geography",
+    "subcategory": "World Cultures",
+    "difficulty": "easy",
+    "id": "1d254ae1-eedf-4918-9ed3-5eab09467b7c",
+    "created_at": "2025-04-19T18:30:51.050Z",
+    "backupTimestamp": "2025-04-19T18:30:51.050Z",
+    "localBackupTimestamp": "2025-04-19T12:30:51.050Z"
+  },
+  {
+    "question": "Which musical instrument is traditional in Hawaiian culture?",
+    "correct_answer": "Ukulele",
+    "incorrect_answers": [
+      "Guitar",
+      "Bongos",
+      "Maracas",
+      "Bagpipes",
+      "Accordion",
+      "Harmonica",
+      "Banjo"
+    ],
+    "main_category": "Geography",
+    "subcategory": "World Cultures",
+    "difficulty": "easy",
+    "id": "66d666bd-578b-4bd7-b8ca-2e78d8142f04",
+    "created_at": "2025-04-19T18:30:51.052Z",
+    "backupTimestamp": "2025-04-19T18:30:51.053Z",
+    "localBackupTimestamp": "2025-04-19T12:30:51.053Z"
+  },
+  {
+    "question": "Which country celebrates Guy Fawkes Night?",
+    "correct_answer": "United Kingdom",
+    "incorrect_answers": [
+      "United States",
+      "Canada",
+      "Australia",
+      "Ireland",
+      "France",
+      "Germany",
+      "Spain"
+    ],
+    "main_category": "Geography",
+    "subcategory": "World Cultures",
+    "difficulty": "easy",
+    "id": "06aecf0b-fe57-4c82-a98c-06e17effa4eb",
+    "created_at": "2025-04-19T18:30:51.055Z",
+    "backupTimestamp": "2025-04-19T18:30:51.056Z",
+    "localBackupTimestamp": "2025-04-19T12:30:51.056Z"
+  },
+  {
+    "question": "Which culture created the martial art of karate?",
+    "correct_answer": "Japanese",
+    "incorrect_answers": [
+      "Chinese",
+      "Korean",
+      "Thai",
+      "Vietnamese",
+      "Filipino",
+      "Cambodian",
+      "Taiwanese"
+    ],
+    "main_category": "Geography",
+    "subcategory": "World Cultures",
+    "difficulty": "easy",
+    "id": "068c362d-a190-4f79-97d3-49314f5098ee",
+    "created_at": "2025-04-19T18:30:51.058Z",
+    "backupTimestamp": "2025-04-19T18:30:51.059Z",
+    "localBackupTimestamp": "2025-04-19T12:30:51.059Z"
+  },
+  {
+    "question": "Which country is known for the traditional dish paella?",
+    "correct_answer": "Spain",
+    "incorrect_answers": [
+      "Italy",
+      "France",
+      "Portugal",
+      "Greece",
+      "Morocco",
+      "Turkey",
+      "Mexico"
+    ],
+    "main_category": "Geography",
+    "subcategory": "World Cultures",
+    "difficulty": "easy",
+    "id": "920f264e-508b-46c5-aa50-d2c01b617db5",
+    "created_at": "2025-04-19T18:30:51.061Z",
+    "backupTimestamp": "2025-04-19T18:30:51.061Z",
+    "localBackupTimestamp": "2025-04-19T12:30:51.061Z"
+  },
+  {
+    "question": "Which country celebrates Cinco de Mayo?",
+    "correct_answer": "Mexico",
+    "incorrect_answers": [
+      "Spain",
+      "Argentina",
+      "Chile",
+      "Peru",
+      "Colombia",
+      "Venezuela",
+      "Ecuador"
+    ],
+    "main_category": "Geography",
+    "subcategory": "World Cultures",
+    "difficulty": "easy",
+    "id": "c91bc905-cbdd-4b3e-8702-0d9d9e36f406",
+    "created_at": "2025-04-19T18:30:51.063Z",
+    "backupTimestamp": "2025-04-19T18:30:51.064Z",
+    "localBackupTimestamp": "2025-04-19T12:30:51.064Z"
+  },
+  {
+    "question": "Which country is associated with the didgeridoo instrument?",
+    "correct_answer": "Australia",
+    "incorrect_answers": [
+      "New Zealand",
+      "Papua New Guinea",
+      "South Africa",
+      "Kenya",
+      "Nigeria",
+      "Brazil",
+      "Peru"
+    ],
+    "main_category": "Geography",
+    "subcategory": "World Cultures",
+    "difficulty": "easy",
+    "id": "8943d0c5-0a7d-47f6-b5cf-64e26085ab4c",
+    "created_at": "2025-04-19T18:30:51.066Z",
+    "backupTimestamp": "2025-04-19T18:30:51.067Z",
+    "localBackupTimestamp": "2025-04-19T12:30:51.067Z"
+  },
+  {
+    "question": "Which country is known for creating kebabs?",
+    "correct_answer": "Turkey",
+    "incorrect_answers": [
+      "Greece",
+      "Lebanon",
+      "Egypt",
+      "Iran",
+      "Morocco",
+      "Saudi Arabia",
+      "Syria"
+    ],
+    "main_category": "Geography",
+    "subcategory": "World Cultures",
+    "difficulty": "easy",
+    "id": "c9088e28-3450-4ed6-a557-680654195f4f",
+    "created_at": "2025-04-19T18:30:51.069Z",
+    "backupTimestamp": "2025-04-19T18:30:51.070Z",
+    "localBackupTimestamp": "2025-04-19T12:30:51.070Z"
+  },
+  {
+    "question": "Which language is primarily spoken in Portugal?",
+    "correct_answer": "Portuguese",
+    "incorrect_answers": [
+      "Spanish",
+      "French",
+      "Italian",
+      "English",
+      "Catalan",
+      "Galician",
+      "Latin"
+    ],
+    "main_category": "Geography",
+    "subcategory": "World Cultures",
+    "difficulty": "easy",
+    "id": "b0f0bcf3-7e91-45d9-a763-1fc87b8c1cf7",
+    "created_at": "2025-04-19T18:30:51.072Z",
+    "backupTimestamp": "2025-04-19T18:30:51.072Z",
+    "localBackupTimestamp": "2025-04-19T12:30:51.072Z"
+  },
+  {
+    "question": "Which country celebrates St. Patrick's Day as a national holiday?",
+    "correct_answer": "Ireland",
+    "incorrect_answers": [
+      "United States",
+      "United Kingdom",
+      "Canada",
+      "Australia",
+      "Scotland",
+      "Wales",
+      "France"
+    ],
+    "main_category": "Geography",
+    "subcategory": "World Cultures",
+    "difficulty": "easy",
+    "id": "b4e5c3c2-ce04-4fc8-a9ef-05084104ca5b",
+    "created_at": "2025-04-19T18:30:51.075Z",
+    "backupTimestamp": "2025-04-19T18:30:51.075Z",
+    "localBackupTimestamp": "2025-04-19T12:30:51.075Z"
+  },
+  {
+    "question": "Which country is known for creating vodka?",
+    "correct_answer": "Russia",
+    "incorrect_answers": [
+      "Poland",
+      "Ukraine",
+      "Sweden",
+      "Finland",
+      "Germany",
+      "France",
+      "United States"
+    ],
+    "main_category": "Geography",
+    "subcategory": "World Cultures",
+    "difficulty": "easy",
+    "id": "c83e83ce-a256-4bbf-a0a2-7a5e7fa12984",
+    "created_at": "2025-04-19T18:30:51.078Z",
+    "backupTimestamp": "2025-04-19T18:30:51.078Z",
+    "localBackupTimestamp": "2025-04-19T12:30:51.078Z"
+  },
+  {
+    "question": "Which country has the kangaroo as a national symbol?",
+    "correct_answer": "Australia",
+    "incorrect_answers": [
+      "New Zealand",
+      "South Africa",
+      "Argentina",
+      "Brazil",
+      "Indonesia",
+      "Malaysia",
+      "Papua New Guinea"
+    ],
+    "main_category": "Geography",
+    "subcategory": "World Cultures",
+    "difficulty": "easy",
+    "id": "7a3eca6f-2eb2-40b5-8bb9-f8c6d801c5fc",
+    "created_at": "2025-04-19T18:30:51.080Z",
+    "backupTimestamp": "2025-04-19T18:30:51.081Z",
+    "localBackupTimestamp": "2025-04-19T12:30:51.081Z"
+  },
+  {
+    "question": "Which country is known for the traditional dance Kathak?",
+    "correct_answer": "India",
+    "incorrect_answers": [
+      "China",
+      "Japan",
+      "Thailand",
+      "Indonesia",
+      "Pakistan",
+      "Sri Lanka",
+      "Nepal"
+    ],
+    "main_category": "Geography",
+    "subcategory": "World Cultures",
+    "difficulty": "easy",
+    "id": "6be5f258-1dcc-4d21-8972-4560ae3f0e8e",
+    "created_at": "2025-04-19T18:30:51.083Z",
+    "backupTimestamp": "2025-04-19T18:30:51.084Z",
+    "localBackupTimestamp": "2025-04-19T12:30:51.084Z"
+  },
+  {
+    "question": "Which African country is known for its Maasai warriors?",
+    "correct_answer": "Kenya",
+    "incorrect_answers": [
+      "Tanzania",
+      "South Africa",
+      "Ethiopia",
+      "Nigeria",
+      "Ghana",
+      "Zimbabwe",
+      "Uganda"
+    ],
+    "main_category": "Geography",
+    "subcategory": "World Cultures",
+    "difficulty": "easy",
+    "id": "093bd676-35da-49f7-8d55-1fae331cf338",
+    "created_at": "2025-04-19T18:30:51.086Z",
+    "backupTimestamp": "2025-04-19T18:30:51.086Z",
+    "localBackupTimestamp": "2025-04-19T12:30:51.086Z"
+  },
+  {
+    "question": "Which country celebrates Chinese New Year most widely?",
+    "correct_answer": "China",
+    "incorrect_answers": [
+      "Japan",
+      "Thailand",
+      "Vietnam",
+      "Malaysia",
+      "Singapore",
+      "Philippines",
+      "Indonesia"
+    ],
+    "main_category": "Geography",
+    "subcategory": "World Cultures",
+    "difficulty": "easy",
+    "id": "5598c429-5c2c-42d6-af89-b6577a3bea12",
+    "created_at": "2025-04-19T18:30:51.088Z",
+    "backupTimestamp": "2025-04-19T18:30:51.088Z",
+    "localBackupTimestamp": "2025-04-19T12:30:51.088Z"
+  },
+  {
+    "question": "Which country is known for the traditional dress dirndl?",
+    "correct_answer": "Austria",
+    "incorrect_answers": [
+      "Germany",
+      "Switzerland",
+      "Poland",
+      "Czech Republic",
+      "Hungary",
+      "Slovakia",
+      "Slovenia"
+    ],
+    "main_category": "Geography",
+    "subcategory": "World Cultures",
+    "difficulty": "easy",
+    "id": "fba47453-82c2-4378-8349-3ba23470efb0",
+    "created_at": "2025-04-19T18:30:51.090Z",
+    "backupTimestamp": "2025-04-19T18:30:51.091Z",
+    "localBackupTimestamp": "2025-04-19T12:30:51.091Z"
+  },
+  {
+    "question": "Which language is primarily spoken in Switzerland?",
+    "correct_answer": "German",
+    "incorrect_answers": [
+      "French",
+      "Italian",
+      "Romansh",
+      "English",
+      "Dutch",
+      "Swedish",
+      "Danish"
+    ],
+    "main_category": "Geography",
+    "subcategory": "World Cultures",
+    "difficulty": "easy",
+    "id": "9028a5f0-35f6-4c32-a0a5-069e6a571549",
+    "created_at": "2025-04-19T18:30:51.093Z",
+    "backupTimestamp": "2025-04-19T18:30:51.093Z",
+    "localBackupTimestamp": "2025-04-19T12:30:51.093Z"
+  },
+  {
+    "question": "Which country originated the martial art of Taekwondo?",
+    "correct_answer": "South Korea",
+    "incorrect_answers": [
+      "Japan",
+      "China",
+      "Thailand",
+      "Philippines",
+      "Vietnam",
+      "Mongolia",
+      "Taiwan"
+    ],
+    "main_category": "Geography",
+    "subcategory": "World Cultures",
+    "difficulty": "easy",
+    "id": "aa71943a-329d-4a52-9b58-da923a321fa3",
+    "created_at": "2025-04-19T18:30:51.095Z",
+    "backupTimestamp": "2025-04-19T18:30:51.096Z",
+    "localBackupTimestamp": "2025-04-19T12:30:51.096Z"
+  },
+  {
+    "question": "Which cuisine features dishes like falafel and hummus?",
+    "correct_answer": "Middle Eastern",
+    "incorrect_answers": [
+      "Mediterranean",
+      "Indian",
+      "Greek",
+      "Turkish",
+      "North African",
+      "Persian",
+      "Ethiopian"
+    ],
+    "main_category": "Geography",
+    "subcategory": "World Cultures",
+    "difficulty": "easy",
+    "id": "3951461a-8697-4e38-a772-233eac044f1e",
+    "created_at": "2025-04-19T18:30:51.098Z",
+    "backupTimestamp": "2025-04-19T18:30:51.098Z",
+    "localBackupTimestamp": "2025-04-19T12:30:51.098Z"
+  },
+  {
+    "question": "Which country is known for its traditional wooden shoes?",
+    "correct_answer": "Netherlands",
+    "incorrect_answers": [
+      "Sweden",
+      "Norway",
+      "Germany",
+      "Switzerland",
+      "Belgium",
+      "Denmark",
+      "Finland"
+    ],
+    "main_category": "Geography",
+    "subcategory": "World Cultures",
+    "difficulty": "easy",
+    "id": "40cb21ef-2e1c-4c6d-aa0f-34a82bfd56a1",
+    "created_at": "2025-04-19T18:30:51.100Z",
+    "backupTimestamp": "2025-04-19T18:30:51.100Z",
+    "localBackupTimestamp": "2025-04-19T12:30:51.100Z"
+  },
+  {
+    "question": "Which country is associated with the tango dance?",
+    "correct_answer": "Argentina",
+    "incorrect_answers": [
+      "Brazil",
+      "Spain",
+      "Mexico",
+      "Cuba",
+      "Colombia",
+      "Chile",
+      "Uruguay"
+    ],
+    "main_category": "Geography",
+    "subcategory": "World Cultures",
+    "difficulty": "easy",
+    "id": "d36be83f-0d49-49d8-9d7f-4da1142d2bcd",
+    "created_at": "2025-04-19T18:30:51.102Z",
+    "backupTimestamp": "2025-04-19T18:30:51.102Z",
+    "localBackupTimestamp": "2025-04-19T12:30:51.102Z"
+  },
+  {
+    "question": "Which holiday is known as the Festival of Lights?",
+    "correct_answer": "Diwali",
+    "incorrect_answers": [
+      "Hanukkah",
+      "Christmas",
+      "Kwanzaa",
+      "Eid al-Fitr",
+      "Lunar New Year",
+      "Easter",
+      "Vesak"
+    ],
+    "main_category": "Geography",
+    "subcategory": "World Cultures",
+    "difficulty": "easy",
+    "id": "73bb481d-2078-43b4-b59f-81b1a9a14dbf",
+    "created_at": "2025-04-19T18:30:51.105Z",
+    "backupTimestamp": "2025-04-19T18:30:51.105Z",
+    "localBackupTimestamp": "2025-04-19T12:30:51.105Z"
+  },
+  {
+    "question": "Which country has the beaver as a national symbol?",
+    "correct_answer": "Canada",
+    "incorrect_answers": [
+      "United States",
+      "Russia",
+      "Norway",
+      "Sweden",
+      "Finland",
+      "Germany",
+      "Poland"
+    ],
+    "main_category": "Geography",
+    "subcategory": "World Cultures",
+    "difficulty": "easy",
+    "id": "622852b4-cd53-4a5f-b1f1-fb4f33ff7551",
+    "created_at": "2025-04-19T18:30:51.107Z",
+    "backupTimestamp": "2025-04-19T18:30:51.107Z",
+    "localBackupTimestamp": "2025-04-19T12:30:51.107Z"
+  },
+  {
+    "question": "Which culture is known for creating totem poles?",
+    "correct_answer": "Native American",
+    "incorrect_answers": [
+      "Aboriginal Australian",
+      "Maori",
+      "Inuit",
+      "Polynesian",
+      "Aztec",
+      "Mayan",
+      "African"
+    ],
+    "main_category": "Geography",
+    "subcategory": "World Cultures",
+    "difficulty": "easy",
+    "id": "de611b5e-ebd9-4fd4-8058-89172bd4cd78",
+    "created_at": "2025-04-19T18:30:51.109Z",
+    "backupTimestamp": "2025-04-19T18:30:51.109Z",
+    "localBackupTimestamp": "2025-04-19T12:30:51.109Z"
+  },
+  {
+    "question": "Which country is known for originating sushi?",
+    "correct_answer": "Japan",
+    "incorrect_answers": [
+      "China",
+      "South Korea",
+      "Thailand",
+      "Vietnam",
+      "Malaysia",
+      "Philippines",
+      "Taiwan"
+    ],
+    "main_category": "Geography",
+    "subcategory": "World Cultures",
+    "difficulty": "easy",
+    "id": "8f7a6854-1b9d-4627-9eb2-f5b254bf7c04",
+    "created_at": "2025-04-19T18:30:51.111Z",
+    "backupTimestamp": "2025-04-19T18:30:51.112Z",
+    "localBackupTimestamp": "2025-04-19T12:30:51.112Z"
+  },
+  {
+    "question": "Which Southeast Asian country is known for the Angkor Wat temple complex?",
+    "correct_answer": "Cambodia",
+    "incorrect_answers": [
+      "Thailand",
+      "Vietnam",
+      "Laos",
+      "Myanmar",
+      "Indonesia",
+      "Malaysia",
+      "Philippines"
+    ],
+    "main_category": "Geography",
+    "subcategory": "World Cultures",
+    "difficulty": "medium",
+    "id": "ae3d971f-7387-4889-a872-691277e0bca0",
+    "created_at": "2025-04-19T18:34:34.215Z",
+    "backupTimestamp": "2025-04-19T18:34:34.218Z",
+    "localBackupTimestamp": "2025-04-19T12:34:34.218Z"
+  },
+  {
+    "question": "What traditional Japanese theater features elaborate makeup and stylized movements?",
+    "correct_answer": "Kabuki",
+    "incorrect_answers": [
+      "Noh",
+      "Bunraku",
+      "Kyogen",
+      "Rakugo",
+      "Butoh",
+      "Kagura",
+      "Yose"
+    ],
+    "main_category": "Geography",
+    "subcategory": "World Cultures",
+    "difficulty": "medium",
+    "id": "67c63989-a09f-4f8c-b372-f9841316f8ca",
+    "created_at": "2025-04-19T18:34:34.225Z",
+    "backupTimestamp": "2025-04-19T18:34:34.226Z",
+    "localBackupTimestamp": "2025-04-19T12:34:34.226Z"
+  },
+  {
+    "question": "Which North African dish consists of couscous with stewed vegetables and meat?",
+    "correct_answer": "Tagine",
+    "incorrect_answers": [
+      "Harira",
+      "Shakshuka",
+      "Pastilla",
+      "Rfissa",
+      "Bisteeya",
+      "Mechoui",
+      "Merguez"
+    ],
+    "main_category": "Geography",
+    "subcategory": "World Cultures",
+    "difficulty": "medium",
+    "id": "0b8c53b4-167f-48dd-a135-2d992e40292a",
+    "created_at": "2025-04-19T18:34:34.233Z",
+    "backupTimestamp": "2025-04-19T18:34:34.234Z",
+    "localBackupTimestamp": "2025-04-19T12:34:34.234Z"
+  },
+  {
+    "question": "Which indigenous people are native to the Arctic regions of Canada?",
+    "correct_answer": "Inuit",
+    "incorrect_answers": [
+      "Cree",
+      "Navajo",
+      "Sioux",
+      "Cherokee",
+      "Apache",
+      "Métis",
+      "Iroquois"
+    ],
+    "main_category": "Geography",
+    "subcategory": "World Cultures",
+    "difficulty": "medium",
+    "id": "c1070ada-53cc-4509-bd31-2f2973d7ff07",
+    "created_at": "2025-04-19T18:34:34.239Z",
+    "backupTimestamp": "2025-04-19T18:34:34.240Z",
+    "localBackupTimestamp": "2025-04-19T12:34:34.240Z"
+  },
+  {
+    "question": "Which African musical instrument is made from a hollow gourd?",
+    "correct_answer": "Kora",
+    "incorrect_answers": [
+      "Djembe",
+      "Balafon",
+      "Mbira",
+      "Talking drum",
+      "Shekere",
+      "Axatse",
+      "Kalimba"
+    ],
+    "main_category": "Geography",
+    "subcategory": "World Cultures",
+    "difficulty": "medium",
+    "id": "9ad7886b-e305-40c7-8008-96399a653bdc",
+    "created_at": "2025-04-19T18:34:34.245Z",
+    "backupTimestamp": "2025-04-19T18:34:34.245Z",
+    "localBackupTimestamp": "2025-04-19T12:34:34.245Z"
+  },
+  {
+    "question": "Which European country celebrates Las Fallas festival with giant sculptures?",
+    "correct_answer": "Spain",
+    "incorrect_answers": [
+      "Italy",
+      "Portugal",
+      "France",
+      "Greece",
+      "Croatia",
+      "Switzerland",
+      "Belgium"
+    ],
+    "main_category": "Geography",
+    "subcategory": "World Cultures",
+    "difficulty": "medium",
+    "id": "c41fc09b-f5bf-4ef4-9741-76fdbca55863",
+    "created_at": "2025-04-19T18:34:34.249Z",
+    "backupTimestamp": "2025-04-19T18:34:34.250Z",
+    "localBackupTimestamp": "2025-04-19T12:34:34.250Z"
+  },
+  {
+    "question": "Which culture originated the practice of foot binding?",
+    "correct_answer": "Chinese",
+    "incorrect_answers": [
+      "Japanese",
+      "Korean",
+      "Vietnamese",
+      "Thai",
+      "Mongolian",
+      "Filipino",
+      "Tibetan"
+    ],
+    "main_category": "Geography",
+    "subcategory": "World Cultures",
+    "difficulty": "medium",
+    "id": "310b214c-14dd-40ac-aed1-b1a822cc5cea",
+    "created_at": "2025-04-19T18:34:34.252Z",
+    "backupTimestamp": "2025-04-19T18:34:34.253Z",
+    "localBackupTimestamp": "2025-04-19T12:34:34.253Z"
+  },
+  {
+    "question": "Which indigenous group is known for creating totem poles in the Pacific Northwest?",
+    "correct_answer": "Haida",
+    "incorrect_answers": [
+      "Navajo",
+      "Sioux",
+      "Inuit",
+      "Apache",
+      "Cherokee",
+      "Iroquois",
+      "Hopi"
+    ],
+    "main_category": "Geography",
+    "subcategory": "World Cultures",
+    "difficulty": "medium",
+    "id": "f2614357-c742-4989-af52-7ee11fa968e3",
+    "created_at": "2025-04-19T18:34:34.255Z",
+    "backupTimestamp": "2025-04-19T18:34:34.255Z",
+    "localBackupTimestamp": "2025-04-19T12:34:34.255Z"
+  },
+  {
+    "question": "Which traditional clothing is worn by Masai warriors in Kenya and Tanzania?",
+    "correct_answer": "Shuka",
+    "incorrect_answers": [
+      "Kanzu",
+      "Kikoi",
+      "Kofia",
+      "Kitenge",
+      "Kanga",
+      "Gomesi",
+      "Dashiki"
+    ],
+    "main_category": "Geography",
+    "subcategory": "World Cultures",
+    "difficulty": "medium",
+    "id": "09dc567e-f19c-485e-9d0c-8f4e25b7c739",
+    "created_at": "2025-04-19T18:34:34.258Z",
+    "backupTimestamp": "2025-04-19T18:34:34.259Z",
+    "localBackupTimestamp": "2025-04-19T12:34:34.259Z"
+  },
+  {
+    "question": "Which Latin American country celebrates the Day of the Dead (Día de los Muertos)?",
+    "correct_answer": "Mexico",
+    "incorrect_answers": [
+      "Brazil",
+      "Argentina",
+      "Peru",
+      "Colombia",
+      "Chile",
+      "Ecuador",
+      "Venezuela"
+    ],
+    "main_category": "Geography",
+    "subcategory": "World Cultures",
+    "difficulty": "medium",
+    "id": "941f2399-dda5-420a-831b-66311b177af8",
+    "created_at": "2025-04-19T18:34:34.264Z",
+    "backupTimestamp": "2025-04-19T18:34:34.264Z",
+    "localBackupTimestamp": "2025-04-19T12:34:34.264Z"
+  },
+  {
+    "question": "Which South Asian country celebrates Holi, the festival of colors?",
+    "correct_answer": "India",
+    "incorrect_answers": [
+      "Pakistan",
+      "Bangladesh",
+      "Sri Lanka",
+      "Nepal",
+      "Bhutan",
+      "Maldives",
+      "Afghanistan"
+    ],
+    "main_category": "Geography",
+    "subcategory": "World Cultures",
+    "difficulty": "medium",
+    "id": "5004fac8-5572-454c-a7c7-2b4d6c64d6cf",
+    "created_at": "2025-04-19T18:34:34.269Z",
+    "backupTimestamp": "2025-04-19T18:34:34.270Z",
+    "localBackupTimestamp": "2025-04-19T12:34:34.270Z"
+  },
+  {
+    "question": "Which Middle Eastern bread is baked in a tandoor oven?",
+    "correct_answer": "Naan",
+    "incorrect_answers": [
+      "Pita",
+      "Lavash",
+      "Taboon",
+      "Sangak",
+      "Barbari",
+      "Samoon",
+      "Markook"
+    ],
+    "main_category": "Geography",
+    "subcategory": "World Cultures",
+    "difficulty": "medium",
+    "id": "de751f21-7469-4211-9516-e09cd9907f51",
+    "created_at": "2025-04-19T18:34:34.272Z",
+    "backupTimestamp": "2025-04-19T18:34:34.273Z",
+    "localBackupTimestamp": "2025-04-19T12:34:34.273Z"
+  },
+  {
+    "question": "Which traditional Moroccan headwear is a flat-topped hat with a tassel?",
+    "correct_answer": "Fez",
+    "incorrect_answers": [
+      "Turban",
+      "Tarboosh",
+      "Keffiyeh",
+      "Tagelmust",
+      "Taqiyah",
+      "Kufi",
+      "Agal"
+    ],
+    "main_category": "Geography",
+    "subcategory": "World Cultures",
+    "difficulty": "medium",
+    "id": "0b99a716-f00b-4d57-bd7f-96172b36fe34",
+    "created_at": "2025-04-19T18:34:34.276Z",
+    "backupTimestamp": "2025-04-19T18:34:34.276Z",
+    "localBackupTimestamp": "2025-04-19T12:34:34.276Z"
+  },
+  {
+    "question": "Which religious festival involves a pilgrimage to Mecca?",
+    "correct_answer": "Hajj",
+    "incorrect_answers": [
+      "Ramadan",
+      "Eid al-Fitr",
+      "Diwali",
+      "Passover",
+      "Easter",
+      "Vesak",
+      "Navratri"
+    ],
+    "main_category": "Geography",
+    "subcategory": "World Cultures",
+    "difficulty": "medium",
+    "id": "71c14711-845e-4eee-a4ab-8afe0edb80f7",
+    "created_at": "2025-04-19T18:34:34.279Z",
+    "backupTimestamp": "2025-04-19T18:34:34.279Z",
+    "localBackupTimestamp": "2025-04-19T12:34:34.279Z"
+  },
+  {
+    "question": "Which East Asian martial art translates to 'empty hand'?",
+    "correct_answer": "Karate",
+    "incorrect_answers": [
+      "Judo",
+      "Taekwondo",
+      "Kung Fu",
+      "Aikido",
+      "Hapkido",
+      "Kendo",
+      "Jujitsu"
+    ],
+    "main_category": "Geography",
+    "subcategory": "World Cultures",
+    "difficulty": "medium",
+    "id": "6ed2755c-2c02-47c1-bb8e-98850941cf5f",
+    "created_at": "2025-04-19T18:34:34.282Z",
+    "backupTimestamp": "2025-04-19T18:34:34.282Z",
+    "localBackupTimestamp": "2025-04-19T12:34:34.282Z"
+  },
+  {
+    "question": "Which European country has a traditional costume called a dirndl?",
+    "correct_answer": "Austria",
+    "incorrect_answers": [
+      "Germany",
+      "Switzerland",
+      "Liechtenstein",
+      "Hungary",
+      "Czech Republic",
+      "Poland",
+      "Slovakia"
+    ],
+    "main_category": "Geography",
+    "subcategory": "World Cultures",
+    "difficulty": "medium",
+    "id": "b846d576-805e-4cbf-b11e-7a91057eece3",
+    "created_at": "2025-04-19T18:34:34.285Z",
+    "backupTimestamp": "2025-04-19T18:34:34.285Z",
+    "localBackupTimestamp": "2025-04-19T12:34:34.285Z"
+  },
+  {
+    "question": "Which Southeast Asian country celebrates Songkran water festival?",
+    "correct_answer": "Thailand",
+    "incorrect_answers": [
+      "Vietnam",
+      "Myanmar",
+      "Laos",
+      "Cambodia",
+      "Malaysia",
+      "Indonesia",
+      "Philippines"
+    ],
+    "main_category": "Geography",
+    "subcategory": "World Cultures",
+    "difficulty": "medium",
+    "id": "b140109e-6280-4ad6-b5bc-3308c101ed70",
+    "created_at": "2025-04-19T18:34:34.288Z",
+    "backupTimestamp": "2025-04-19T18:34:34.288Z",
+    "localBackupTimestamp": "2025-04-19T12:34:34.288Z"
+  },
+  {
+    "question": "Which stringed instrument is central to traditional Portuguese fado music?",
+    "correct_answer": "Portuguese guitar",
+    "incorrect_answers": [
+      "Mandolin",
+      "Lute",
+      "Viola",
+      "Bandolim",
+      "Cavaquinho",
+      "Bouzouki",
+      "Cittern"
+    ],
+    "main_category": "Geography",
+    "subcategory": "World Cultures",
+    "difficulty": "medium",
+    "id": "901ba7bb-b81c-4178-bea1-9d1d9bf32d55",
+    "created_at": "2025-04-19T18:34:34.290Z",
+    "backupTimestamp": "2025-04-19T18:34:34.291Z",
+    "localBackupTimestamp": "2025-04-19T12:34:34.291Z"
+  },
+  {
+    "question": "Which indigenous Australian instrument produces a drone sound?",
+    "correct_answer": "Didgeridoo",
+    "incorrect_answers": [
+      "Bullroarer",
+      "Gum-leaf",
+      "Clapsticks",
+      "Hardwood drums",
+      "Possum-skin drums",
+      "Seed rattles",
+      "Warrup"
+    ],
+    "main_category": "Geography",
+    "subcategory": "World Cultures",
+    "difficulty": "medium",
+    "id": "15636a74-b96e-4083-870f-363ac27e4c73",
+    "created_at": "2025-04-19T18:34:34.293Z",
+    "backupTimestamp": "2025-04-19T18:34:34.294Z",
+    "localBackupTimestamp": "2025-04-19T12:34:34.294Z"
+  },
+  {
+    "question": "Which Irish festival is celebrated on February 1st?",
+    "correct_answer": "St. Brigid's Day",
+    "incorrect_answers": [
+      "Beltane",
+      "Samhain",
+      "Lughnasadh",
+      "Imbolc",
+      "Bealtaine",
+      "Lammas",
+      "Mabon"
+    ],
+    "main_category": "Geography",
+    "subcategory": "World Cultures",
+    "difficulty": "medium",
+    "id": "504ff3dc-2774-4697-a502-967532c5787a",
+    "created_at": "2025-04-19T18:34:34.296Z",
+    "backupTimestamp": "2025-04-19T18:34:34.297Z",
+    "localBackupTimestamp": "2025-04-19T12:34:34.297Z"
+  },
+  {
+    "question": "Which South American country is known for gaucho cowboy culture?",
+    "correct_answer": "Argentina",
+    "incorrect_answers": [
+      "Brazil",
+      "Uruguay",
+      "Paraguay",
+      "Chile",
+      "Bolivia",
+      "Peru",
+      "Colombia"
+    ],
+    "main_category": "Geography",
+    "subcategory": "World Cultures",
+    "difficulty": "medium",
+    "id": "3f96e1b0-8322-437c-a538-9123b7e7afe7",
+    "created_at": "2025-04-19T18:34:34.299Z",
+    "backupTimestamp": "2025-04-19T18:34:34.299Z",
+    "localBackupTimestamp": "2025-04-19T12:34:34.299Z"
+  },
+  {
+    "question": "Which writing system is used in Ethiopia?",
+    "correct_answer": "Ge'ez script",
+    "incorrect_answers": [
+      "Arabic script",
+      "Latin alphabet",
+      "Hieroglyphics",
+      "Cyrillic script",
+      "Tifinagh",
+      "N'Ko script",
+      "Adlam script"
+    ],
+    "main_category": "Geography",
+    "subcategory": "World Cultures",
+    "difficulty": "medium",
+    "id": "8ee4f556-1f03-4514-95d5-ff60f2409f44",
+    "created_at": "2025-04-19T18:34:34.301Z",
+    "backupTimestamp": "2025-04-19T18:34:34.302Z",
+    "localBackupTimestamp": "2025-04-19T12:34:34.302Z"
+  },
+  {
+    "question": "Which Nordic tradition involves jumping over seven bonfires on Midsummer?",
+    "correct_answer": "Finnish",
+    "incorrect_answers": [
+      "Swedish",
+      "Norwegian",
+      "Danish",
+      "Icelandic",
+      "Estonian",
+      "Latvian",
+      "Lithuanian"
+    ],
+    "main_category": "Geography",
+    "subcategory": "World Cultures",
+    "difficulty": "medium",
+    "id": "c6dde648-d58c-4ece-b175-2e48e7160f9d",
+    "created_at": "2025-04-19T18:34:34.303Z",
+    "backupTimestamp": "2025-04-19T18:34:34.304Z",
+    "localBackupTimestamp": "2025-04-19T12:34:34.304Z"
+  },
+  {
+    "question": "Which Central Asian nomadic dwelling is a portable round tent?",
+    "correct_answer": "Yurt",
+    "incorrect_answers": [
+      "Tipi",
+      "Igloo",
+      "Wigwam",
+      "Longhouse",
+      "Hogan",
+      "Bungalow",
+      "Ger"
+    ],
+    "main_category": "Geography",
+    "subcategory": "World Cultures",
+    "difficulty": "medium",
+    "id": "a8cf7610-c3e3-4851-a917-a48a479b0648",
+    "created_at": "2025-04-19T18:34:34.306Z",
+    "backupTimestamp": "2025-04-19T18:34:34.306Z",
+    "localBackupTimestamp": "2025-04-19T12:34:34.306Z"
+  },
+  {
+    "question": "Which Polynesian ceremony involves drinking kava?",
+    "correct_answer": "Kava ceremony",
+    "incorrect_answers": [
+      "Luau",
+      "Hula",
+      "Taualuga",
+      "Siva Samoa",
+      "Poi Ball dance",
+      "Ti'i ceremony",
+      "Hakari feast"
+    ],
+    "main_category": "Geography",
+    "subcategory": "World Cultures",
+    "difficulty": "medium",
+    "id": "053ba230-26c6-42bf-b54f-b4c2720f5bd8",
+    "created_at": "2025-04-19T18:34:34.309Z",
+    "backupTimestamp": "2025-04-19T18:34:34.309Z",
+    "localBackupTimestamp": "2025-04-19T12:34:34.309Z"
+  },
+  {
+    "question": "Which traditional Chinese festival celebrates the full moon and family unity?",
+    "correct_answer": "Mid-Autumn Festival",
+    "incorrect_answers": [
+      "Qingming Festival",
+      "Dragon Boat Festival",
+      "Dongzhi Festival",
+      "Hungry Ghost Festival",
+      "Lantern Festival",
+      "Double Ninth Festival",
+      "Laba Festival"
+    ],
+    "main_category": "Geography",
+    "subcategory": "World Cultures",
+    "difficulty": "medium",
+    "id": "7299f125-9200-42a4-a3f2-856235fd4844",
+    "created_at": "2025-04-19T18:34:34.311Z",
+    "backupTimestamp": "2025-04-19T18:34:34.311Z",
+    "localBackupTimestamp": "2025-04-19T12:34:34.311Z"
+  },
+  {
+    "question": "Which Scandinavian festival celebrates the winter solstice with a crowned girl?",
+    "correct_answer": "St. Lucia Day",
+    "incorrect_answers": [
+      "Midsummer",
+      "Walpurgis Night",
+      "Valborg",
+      "Fastelavn",
+      "Mørketid",
+      "Julebord",
+      "Kekri"
+    ],
+    "main_category": "Geography",
+    "subcategory": "World Cultures",
+    "difficulty": "medium",
+    "id": "b0401f20-1ac7-43e0-950b-59e8833176f6",
+    "created_at": "2025-04-19T18:34:34.314Z",
+    "backupTimestamp": "2025-04-19T18:34:34.314Z",
+    "localBackupTimestamp": "2025-04-19T12:34:34.314Z"
+  },
+  {
+    "question": "Which traditional Eastern European dance involves squatting and kicking?",
+    "correct_answer": "Hopak",
+    "incorrect_answers": [
+      "Polka",
+      "Csárdás",
+      "Kolo",
+      "Mazurka",
+      "Troika",
+      "Trepak",
+      "Kalinka"
+    ],
+    "main_category": "Geography",
+    "subcategory": "World Cultures",
+    "difficulty": "medium",
+    "id": "65293e27-86e0-4adf-bc4d-670454dff54d",
+    "created_at": "2025-04-19T18:34:34.316Z",
+    "backupTimestamp": "2025-04-19T18:34:34.316Z",
+    "localBackupTimestamp": "2025-04-19T12:34:34.316Z"
+  },
+  {
+    "question": "Which Central American culture built Chichen Itza?",
+    "correct_answer": "Mayan",
+    "incorrect_answers": [
+      "Aztec",
+      "Incan",
+      "Olmec",
+      "Toltec",
+      "Zapotec",
+      "Mixtec",
+      "Taino"
+    ],
+    "main_category": "Geography",
+    "subcategory": "World Cultures",
+    "difficulty": "medium",
+    "id": "eada7219-323e-4d11-966b-18d5c3db2011",
+    "created_at": "2025-04-19T18:34:34.318Z",
+    "backupTimestamp": "2025-04-19T18:34:34.318Z",
+    "localBackupTimestamp": "2025-04-19T12:34:34.318Z"
+  },
+  {
+    "question": "Which Japanese art form involves arranging flowers?",
+    "correct_answer": "Ikebana",
+    "incorrect_answers": [
+      "Origami",
+      "Bonsai",
+      "Kintsugi",
+      "Sumi-e",
+      "Shodo",
+      "Ukiyo-e",
+      "Furoshiki"
+    ],
+    "main_category": "Geography",
+    "subcategory": "World Cultures",
+    "difficulty": "medium",
+    "id": "daa06359-f17d-4240-8f9c-c9c4590c8328",
+    "created_at": "2025-04-19T18:34:34.320Z",
+    "backupTimestamp": "2025-04-19T18:34:34.320Z",
+    "localBackupTimestamp": "2025-04-19T12:34:34.320Z"
+  },
+  {
+    "question": "Which Indian classical dance form originated in Kerala?",
+    "correct_answer": "Kathakali",
+    "incorrect_answers": [
+      "Bharatanatyam",
+      "Kathak",
+      "Odissi",
+      "Kuchipudi",
+      "Manipuri",
+      "Mohiniyattam",
+      "Sattriya"
+    ],
+    "main_category": "Geography",
+    "subcategory": "World Cultures",
+    "difficulty": "medium",
+    "id": "3cfa7e02-52a6-4446-acf2-3e5d9068e0ee",
+    "created_at": "2025-04-19T18:34:34.323Z",
+    "backupTimestamp": "2025-04-19T18:34:34.323Z",
+    "localBackupTimestamp": "2025-04-19T12:34:34.323Z"
+  },
+  {
+    "question": "Which Andean indigenous people speak Quechua?",
+    "correct_answer": "Quechua people",
+    "incorrect_answers": [
+      "Aymara",
+      "Mapuche",
+      "Guaraní",
+      "Yanomami",
+      "Shuar",
+      "Emberá",
+      "Kuna"
+    ],
+    "main_category": "Geography",
+    "subcategory": "World Cultures",
+    "difficulty": "medium",
+    "id": "6b6caf50-5bec-44d6-bdf6-005ac925c4cf",
+    "created_at": "2025-04-19T18:34:34.326Z",
+    "backupTimestamp": "2025-04-19T18:34:34.326Z",
+    "localBackupTimestamp": "2025-04-19T12:34:34.326Z"
+  },
+  {
+    "question": "Which Middle Eastern wind instrument is made from reed?",
+    "correct_answer": "Ney",
+    "incorrect_answers": [
+      "Oud",
+      "Kanun",
+      "Darbuka",
+      "Zurna",
+      "Duduk",
+      "Rebab",
+      "Santoor"
+    ],
+    "main_category": "Geography",
+    "subcategory": "World Cultures",
+    "difficulty": "medium",
+    "id": "d3af1cff-13f0-416a-a1c4-8de13ba035fd",
+    "created_at": "2025-04-19T18:34:34.328Z",
+    "backupTimestamp": "2025-04-19T18:34:34.328Z",
+    "localBackupTimestamp": "2025-04-19T12:34:34.328Z"
+  },
+  {
+    "question": "Which West African storyteller is known as a griot?",
+    "correct_answer": "Mandinka",
+    "incorrect_answers": [
+      "Yoruba",
+      "Igbo",
+      "Hausa",
+      "Fulani",
+      "Akan",
+      "Wolof",
+      "Bambara"
+    ],
+    "main_category": "Geography",
+    "subcategory": "World Cultures",
+    "difficulty": "medium",
+    "id": "e36e0a39-5fe8-4d34-892e-16d7c00f24ae",
+    "created_at": "2025-04-19T18:34:34.331Z",
+    "backupTimestamp": "2025-04-19T18:34:34.331Z",
+    "localBackupTimestamp": "2025-04-19T12:34:34.331Z"
+  },
+  {
+    "question": "Which Russian celebration involves eating blini pancakes before Lent?",
+    "correct_answer": "Maslenitsa",
+    "incorrect_answers": [
+      "Koliada",
+      "Kupala Night",
+      "Radunitsa",
+      "Semik",
+      "Rusalnaya",
+      "Troitsa",
+      "Pokrov"
+    ],
+    "main_category": "Geography",
+    "subcategory": "World Cultures",
+    "difficulty": "medium",
+    "id": "48a3cd66-ea0c-44cd-a68f-9aada38c0a75",
+    "created_at": "2025-04-19T18:34:34.334Z",
+    "backupTimestamp": "2025-04-19T18:34:34.335Z",
+    "localBackupTimestamp": "2025-04-19T12:34:34.335Z"
+  },
+  {
+    "question": "Which East African ethnic group is known for jumping dances?",
+    "correct_answer": "Maasai",
+    "incorrect_answers": [
+      "Kikuyu",
+      "Luo",
+      "Samburu",
+      "Turkana",
+      "Kalenjin",
+      "Oromo",
+      "Amhara"
+    ],
+    "main_category": "Geography",
+    "subcategory": "World Cultures",
+    "difficulty": "medium",
+    "id": "a4f93ece-d296-4a3f-be09-d919e61444d5",
+    "created_at": "2025-04-19T18:34:34.337Z",
+    "backupTimestamp": "2025-04-19T18:34:34.337Z",
+    "localBackupTimestamp": "2025-04-19T12:34:34.337Z"
+  },
+  {
+    "question": "Which traditional Korean house has an ondol heating system?",
+    "correct_answer": "Hanok",
+    "incorrect_answers": [
+      "Machiya",
+      "Minka",
+      "Tulou",
+      "Siheyuan",
+      "Nipa hut",
+      "Joglo",
+      "Nha san"
+    ],
+    "main_category": "Geography",
+    "subcategory": "World Cultures",
+    "difficulty": "medium",
+    "id": "dcadff03-1a8f-4015-8b7b-b3e9a91d73d3",
+    "created_at": "2025-04-19T18:34:34.339Z",
+    "backupTimestamp": "2025-04-19T18:34:34.340Z",
+    "localBackupTimestamp": "2025-04-19T12:34:34.340Z"
+  },
+  {
+    "question": "Which Native American tribe is known for dreamcatchers?",
+    "correct_answer": "Ojibwe",
+    "incorrect_answers": [
+      "Cherokee",
+      "Navajo",
+      "Apache",
+      "Sioux",
+      "Hopi",
+      "Iroquois",
+      "Seminole"
+    ],
+    "main_category": "Geography",
+    "subcategory": "World Cultures",
+    "difficulty": "medium",
+    "id": "28480ad2-bc79-4052-b695-8d1f6923222d",
+    "created_at": "2025-04-19T18:34:34.342Z",
+    "backupTimestamp": "2025-04-19T18:34:34.342Z",
+    "localBackupTimestamp": "2025-04-19T12:34:34.342Z"
+  },
+  {
+    "question": "Which Baltic festival celebrates the summer solstice?",
+    "correct_answer": "Jāņi",
+    "incorrect_answers": [
+      "Užgavėnės",
+      "Midsummer",
+      "Kaziuko mugė",
+      "Meteņi",
+      "Joninės",
+      "Vappu",
+      "Maslenitsa"
+    ],
+    "main_category": "Geography",
+    "subcategory": "World Cultures",
+    "difficulty": "medium",
+    "id": "106b3c29-292c-4a7b-887e-8dcdb68541d4",
+    "created_at": "2025-04-19T18:34:34.347Z",
+    "backupTimestamp": "2025-04-19T18:34:34.347Z",
+    "localBackupTimestamp": "2025-04-19T12:34:34.347Z"
+  },
+  {
+    "question": "Which Tibetan religious art form uses colored sand?",
+    "correct_answer": "Mandala",
+    "incorrect_answers": [
+      "Thangka",
+      "Torma",
+      "Dorje",
+      "Phurba",
+      "Tsa tsa",
+      "Thokcha",
+      "Kapala"
+    ],
+    "main_category": "Geography",
+    "subcategory": "World Cultures",
+    "difficulty": "medium",
+    "id": "0275897f-d84d-447c-9001-db109be06b76",
+    "created_at": "2025-04-19T18:34:34.350Z",
+    "backupTimestamp": "2025-04-19T18:34:34.350Z",
+    "localBackupTimestamp": "2025-04-19T12:34:34.350Z"
+  },
+  {
+    "question": "Which Pacific Island culture uses tapa cloth made from bark?",
+    "correct_answer": "Tongan",
+    "incorrect_answers": [
+      "Hawaiian",
+      "Maori",
+      "Samoan",
+      "Fijian",
+      "Tahitian",
+      "Rapanui",
+      "Marquesan"
+    ],
+    "main_category": "Geography",
+    "subcategory": "World Cultures",
+    "difficulty": "medium",
+    "id": "50ee0ae1-5d87-4e2a-8ab3-b255dd1a963e",
+    "created_at": "2025-04-19T18:34:34.352Z",
+    "backupTimestamp": "2025-04-19T18:34:34.352Z",
+    "localBackupTimestamp": "2025-04-19T12:34:34.352Z"
+  },
+  {
+    "question": "Which South American country has Quechua as an official language?",
+    "correct_answer": "Peru",
+    "incorrect_answers": [
+      "Brazil",
+      "Argentina",
+      "Chile",
+      "Colombia",
+      "Venezuela",
+      "Ecuador",
+      "Uruguay"
+    ],
+    "main_category": "Geography",
+    "subcategory": "World Cultures",
+    "difficulty": "medium",
+    "id": "7968a6af-d71f-4ba0-8f09-160d664c08ba",
+    "created_at": "2025-04-19T18:34:34.355Z",
+    "backupTimestamp": "2025-04-19T18:34:34.355Z",
+    "localBackupTimestamp": "2025-04-19T12:34:34.355Z"
+  },
+  {
+    "question": "Which New Zealand Maori war dance is performed before rugby matches?",
+    "correct_answer": "Haka",
+    "incorrect_answers": [
+      "Poi",
+      "Waiata",
+      "Karanga",
+      "Wero",
+      "Hongi",
+      "Taiaha",
+      "Powhiri"
+    ],
+    "main_category": "Geography",
+    "subcategory": "World Cultures",
+    "difficulty": "medium",
+    "id": "d104f1fa-233e-46f1-8a9e-cd1c5475fea3",
+    "created_at": "2025-04-19T18:34:34.357Z",
+    "backupTimestamp": "2025-04-19T18:34:34.357Z",
+    "localBackupTimestamp": "2025-04-19T12:34:34.357Z"
+  },
+  {
+    "question": "Which Mediterranean culture created the bouzouki instrument?",
+    "correct_answer": "Greek",
+    "incorrect_answers": [
+      "Turkish",
+      "Italian",
+      "Spanish",
+      "Portuguese",
+      "Lebanese",
+      "Egyptian",
+      "Moroccan"
+    ],
+    "main_category": "Geography",
+    "subcategory": "World Cultures",
+    "difficulty": "medium",
+    "id": "e167cdd2-b2db-4a4d-a3fb-a9eb2f268b8d",
+    "created_at": "2025-04-19T18:34:34.360Z",
+    "backupTimestamp": "2025-04-19T18:34:34.360Z",
+    "localBackupTimestamp": "2025-04-19T12:34:34.360Z"
+  },
+  {
+    "question": "Which Malaysian cultural celebration features intricate rice art?",
+    "correct_answer": "Kaamatan",
+    "incorrect_answers": [
+      "Hari Raya",
+      "Deepavali",
+      "Thaipusam",
+      "Gawai",
+      "Mooncake Festival",
+      "Hungry Ghost Festival",
+      "Chingay"
+    ],
+    "main_category": "Geography",
+    "subcategory": "World Cultures",
+    "difficulty": "medium",
+    "id": "3da7f517-0383-4660-b35f-a0da371ddad0",
+    "created_at": "2025-04-19T18:34:34.362Z",
+    "backupTimestamp": "2025-04-19T18:34:34.362Z",
+    "localBackupTimestamp": "2025-04-19T12:34:34.362Z"
+  },
+  {
+    "question": "Which Arabic calligraphy style has sharp geometric angles?",
+    "correct_answer": "Kufic",
+    "incorrect_answers": [
+      "Naskh",
+      "Diwani",
+      "Thuluth",
+      "Nastaliq",
+      "Ruq'ah",
+      "Maghribi",
+      "Muhaqqaq"
+    ],
+    "main_category": "Geography",
+    "subcategory": "World Cultures",
+    "difficulty": "medium",
+    "id": "8081be9c-ceb5-4db2-9cdc-fca55ef492ee",
+    "created_at": "2025-04-19T18:34:34.364Z",
+    "backupTimestamp": "2025-04-19T18:34:34.365Z",
+    "localBackupTimestamp": "2025-04-19T12:34:34.365Z"
+  },
+  {
+    "question": "Which Mongolian festival celebrates the three manly sports?",
+    "correct_answer": "Naadam",
+    "incorrect_answers": [
+      "Tsagaan Sar",
+      "Ovoo",
+      "Khuumii",
+      "Danshig",
+      "Maidar",
+      "Duujingarav",
+      "Choijin Lama"
+    ],
+    "main_category": "Geography",
+    "subcategory": "World Cultures",
+    "difficulty": "medium",
+    "id": "11039bc7-2a8f-4e03-9eeb-fea8860eadb4",
+    "created_at": "2025-04-19T18:34:34.367Z",
+    "backupTimestamp": "2025-04-19T18:34:34.367Z",
+    "localBackupTimestamp": "2025-04-19T12:34:34.367Z"
+  },
+  {
+    "question": "Which Central American culture performs the palo volador ritual?",
+    "correct_answer": "Maya",
+    "incorrect_answers": [
+      "Aztec",
+      "Inca",
+      "Olmec",
+      "Toltec",
+      "Zapotec",
+      "Mixtec",
+      "Taíno"
+    ],
+    "main_category": "Geography",
+    "subcategory": "World Cultures",
+    "difficulty": "medium",
+    "id": "1cfa4454-9aba-42fc-a306-52577abc440b",
+    "created_at": "2025-04-19T18:34:34.369Z",
+    "backupTimestamp": "2025-04-19T18:34:34.369Z",
+    "localBackupTimestamp": "2025-04-19T12:34:34.369Z"
+  },
+  {
+    "question": "Which Indian harvest festival marks the Tamil New Year?",
+    "correct_answer": "Pongal",
+    "incorrect_answers": [
+      "Onam",
+      "Baisakhi",
+      "Lohri",
+      "Bihu",
+      "Makar Sankranti",
+      "Ugadi",
+      "Vishu"
+    ],
+    "main_category": "Geography",
+    "subcategory": "World Cultures",
+    "difficulty": "medium",
+    "id": "c8558fe9-2a33-4cbe-887e-1665839299eb",
+    "created_at": "2025-04-19T18:34:34.372Z",
+    "backupTimestamp": "2025-04-19T18:34:34.372Z",
+    "localBackupTimestamp": "2025-04-19T12:34:34.372Z"
+  },
+  {
+    "question": "Which Middle Eastern bread is cooked in a taboon clay oven?",
+    "correct_answer": "Taboon bread",
+    "incorrect_answers": [
+      "Pita",
+      "Lavash",
+      "Khubz",
+      "Sangak",
+      "Barbari",
+      "Markook",
+      "Tannur"
+    ],
+    "main_category": "Geography",
+    "subcategory": "World Cultures",
+    "difficulty": "medium",
+    "id": "90ffab0b-d83b-42a0-a3b1-2e4366718a07",
+    "created_at": "2025-04-19T18:34:34.374Z",
+    "backupTimestamp": "2025-04-19T18:34:34.374Z",
+    "localBackupTimestamp": "2025-04-19T12:34:34.374Z"
+  },
+  {
+    "question": "Which African ethnicity practices lip plate body modification?",
+    "correct_answer": "Mursi",
+    "incorrect_answers": [
+      "Maasai",
+      "Zulu",
+      "Xhosa",
+      "Himba",
+      "Tuareg",
+      "Yoruba",
+      "Dinka"
+    ],
+    "main_category": "Geography",
+    "subcategory": "World Cultures",
+    "difficulty": "medium",
+    "id": "c004bc56-21cf-465c-9ffb-7856793a3a98",
+    "created_at": "2025-04-19T18:34:34.377Z",
+    "backupTimestamp": "2025-04-19T18:34:34.377Z",
+    "localBackupTimestamp": "2025-04-19T12:34:34.377Z"
+  },
+  {
+    "question": "Which Southeast Asian dance drama tells stories from the Ramayana?",
+    "correct_answer": "Khon",
+    "incorrect_answers": [
+      "Wayang",
+      "Legong",
+      "Apsara",
+      "Barong",
+      "Randai",
+      "Mak Yong",
+      "Pangalay"
+    ],
+    "main_category": "Geography",
+    "subcategory": "World Cultures",
+    "difficulty": "medium",
+    "id": "bcdbf8cd-0bd6-4091-be05-442819bda0f1",
+    "created_at": "2025-04-19T18:34:34.379Z",
+    "backupTimestamp": "2025-04-19T18:34:34.380Z",
+    "localBackupTimestamp": "2025-04-19T12:34:34.380Z"
+  },
+  {
+    "question": "Which indigenous people of Alaska practice whale hunting?",
+    "correct_answer": "Inupiat",
+    "incorrect_answers": [
+      "Yupik",
+      "Tlingit",
+      "Athabaskan",
+      "Aleut",
+      "Haida",
+      "Tsimshian",
+      "Eyak"
+    ],
+    "main_category": "Geography",
+    "subcategory": "World Cultures",
+    "difficulty": "medium",
+    "id": "185f7a25-2af7-45bd-bbd7-fadbb9697904",
+    "created_at": "2025-04-19T18:34:34.382Z",
+    "backupTimestamp": "2025-04-19T18:34:34.382Z",
+    "localBackupTimestamp": "2025-04-19T12:34:34.382Z"
+  },
+  {
+    "question": "Which traditional Persian music system has twelve modal structures?",
+    "correct_answer": "Dastgah",
+    "incorrect_answers": [
+      "Maqam",
+      "Raga",
+      "Mugham",
+      "Makam",
+      "Nouba",
+      "Radif",
+      "Avaz"
+    ],
+    "main_category": "Geography",
+    "subcategory": "World Cultures",
+    "difficulty": "medium",
+    "id": "7d8a1cb0-73d6-448d-a5d5-24550c9ec72e",
+    "created_at": "2025-04-19T18:34:34.384Z",
+    "backupTimestamp": "2025-04-19T18:34:34.385Z",
+    "localBackupTimestamp": "2025-04-19T12:34:34.385Z"
+  },
+  {
+    "question": "Which traditional Chinese philosophy focuses on natural balance?",
+    "correct_answer": "Taoism",
+    "incorrect_answers": [
+      "Confucianism",
+      "Buddhism",
+      "Legalism",
+      "Mohism",
+      "Neo-Confucianism",
+      "Maoism",
+      "Zen"
+    ],
+    "main_category": "Geography",
+    "subcategory": "World Cultures",
+    "difficulty": "medium",
+    "id": "7630c31d-40ff-4ce5-9fd3-6c4d29258289",
+    "created_at": "2025-04-19T18:34:34.387Z",
+    "backupTimestamp": "2025-04-19T18:34:34.387Z",
+    "localBackupTimestamp": "2025-04-19T12:34:34.387Z"
+  },
+  {
+    "question": "Which European country celebrates Walpurgis Night on April 30?",
+    "correct_answer": "Sweden",
+    "incorrect_answers": [
+      "Germany",
+      "Finland",
+      "Norway",
+      "Denmark",
+      "Estonia",
+      "Netherlands",
+      "Czech Republic"
+    ],
+    "main_category": "Geography",
+    "subcategory": "World Cultures",
+    "difficulty": "medium",
+    "id": "562d3d47-39dc-4ca9-937a-b9c6124b6e0e",
+    "created_at": "2025-04-19T18:34:34.389Z",
+    "backupTimestamp": "2025-04-19T18:34:34.389Z",
+    "localBackupTimestamp": "2025-04-19T12:34:34.389Z"
+  },
+  {
+    "question": "Which South American festival features devil dancing?",
+    "correct_answer": "Oruro Carnival",
+    "incorrect_answers": [
+      "Carnival of Rio",
+      "Barranquilla Carnival",
+      "Carnival of Binche",
+      "Carnival of Santa Cruz",
+      "Carnival of Pasto",
+      "Carnival of Negros y Blancos",
+      "Carnival of Santiago"
+    ],
+    "main_category": "Geography",
+    "subcategory": "World Cultures",
+    "difficulty": "medium",
+    "id": "84a6d826-4b59-4a98-a0dc-ce44e5558160",
+    "created_at": "2025-04-19T18:34:34.391Z",
+    "backupTimestamp": "2025-04-19T18:34:34.392Z",
+    "localBackupTimestamp": "2025-04-19T12:34:34.392Z"
+  },
+  {
+    "question": "Which Indigenous Australian clan uses the beehive-shaped 'gangurru' in ceremonies?",
+    "correct_answer": "Wardaman",
+    "incorrect_answers": [
+      "Yolngu",
+      "Pitjantjatjara",
+      "Arrernte",
+      "Warlpiri",
+      "Kaurna",
+      "Noongar",
+      "Bundjalung"
+    ],
+    "main_category": "Geography",
+    "subcategory": "World Cultures",
+    "difficulty": "hard",
+    "id": "0bba438a-5864-40a2-a08b-6d427b9cdbdf",
+    "created_at": "2025-04-19T18:39:08.877Z",
+    "backupTimestamp": "2025-04-19T18:39:08.879Z",
+    "localBackupTimestamp": "2025-04-19T12:39:08.879Z"
+  },
+  {
+    "question": "Which traditional Japanese theater form uses all-male performers?",
+    "correct_answer": "Kabuki",
+    "incorrect_answers": [
+      "Noh",
+      "Bunraku",
+      "Kyogen",
+      "Takarazuka",
+      "Butoh",
+      "Yose",
+      "Kagura"
+    ],
+    "main_category": "Geography",
+    "subcategory": "World Cultures",
+    "difficulty": "hard",
+    "id": "4fc1ef39-a055-461e-b586-b8694ec77760",
+    "created_at": "2025-04-19T18:39:08.883Z",
+    "backupTimestamp": "2025-04-19T18:39:08.884Z",
+    "localBackupTimestamp": "2025-04-19T12:39:08.884Z"
+  },
+  {
+    "question": "Which indigenous Andean wind instrument has panpipes tied in a row?",
+    "correct_answer": "Siku",
+    "incorrect_answers": [
+      "Quena",
+      "Zampoña",
+      "Tarka",
+      "Ocarina",
+      "Charango",
+      "Antara",
+      "Moceño"
+    ],
+    "main_category": "Geography",
+    "subcategory": "World Cultures",
+    "difficulty": "hard",
+    "id": "b9286875-3e2e-4185-976e-87237c9391be",
+    "created_at": "2025-04-19T18:39:08.889Z",
+    "backupTimestamp": "2025-04-19T18:39:08.890Z",
+    "localBackupTimestamp": "2025-04-19T12:39:08.890Z"
+  },
+  {
+    "question": "Which West African ethnic group created the adinkra symbolic cloth?",
+    "correct_answer": "Ashanti",
+    "incorrect_answers": [
+      "Yoruba",
+      "Igbo",
+      "Hausa",
+      "Fulani",
+      "Wolof",
+      "Mandinka",
+      "Dogon"
+    ],
+    "main_category": "Geography",
+    "subcategory": "World Cultures",
+    "difficulty": "hard",
+    "id": "400429c2-7868-4032-8e9a-e77d94b7fc3d",
+    "created_at": "2025-04-19T18:39:08.893Z",
+    "backupTimestamp": "2025-04-19T18:39:08.894Z",
+    "localBackupTimestamp": "2025-04-19T12:39:08.894Z"
+  },
+  {
+    "question": "Which Himalayan ethnic group traditionally practices polyandry?",
+    "correct_answer": "Sherpa",
+    "incorrect_answers": [
+      "Tibetan",
+      "Ladakhi",
+      "Tharu",
+      "Gurung",
+      "Tamang",
+      "Lepcha",
+      "Bhutia"
+    ],
+    "main_category": "Geography",
+    "subcategory": "World Cultures",
+    "difficulty": "hard",
+    "id": "c18f207e-6115-4354-b59c-33e14d86e111",
+    "created_at": "2025-04-19T18:39:08.899Z",
+    "backupTimestamp": "2025-04-19T18:39:08.899Z",
+    "localBackupTimestamp": "2025-04-19T12:39:08.899Z"
+  },
+  {
+    "question": "Which traditional Korean art form involves semi-transparent painted screens?",
+    "correct_answer": "Chaekgeori",
+    "incorrect_answers": [
+      "Minhwa",
+      "Dancheong",
+      "Najeonchilgi",
+      "Hwagak",
+      "Hanji",
+      "Baekja",
+      "Hanbok"
+    ],
+    "main_category": "Geography",
+    "subcategory": "World Cultures",
+    "difficulty": "hard",
+    "id": "4a9b1184-aede-40f3-992a-835137cb515f",
+    "created_at": "2025-04-19T18:39:08.902Z",
+    "backupTimestamp": "2025-04-19T18:39:08.903Z",
+    "localBackupTimestamp": "2025-04-19T12:39:08.903Z"
+  },
+  {
+    "question": "In which North African country did the Amazigh script Tifinagh originate?",
+    "correct_answer": "Morocco",
+    "incorrect_answers": [
+      "Algeria",
+      "Libya",
+      "Tunisia",
+      "Egypt",
+      "Mali",
+      "Niger",
+      "Mauritania"
+    ],
+    "main_category": "Geography",
+    "subcategory": "World Cultures",
+    "difficulty": "hard",
+    "id": "c65a64be-f82a-4ffa-968e-1f6b050b6c9d",
+    "created_at": "2025-04-19T18:39:08.906Z",
+    "backupTimestamp": "2025-04-19T18:39:08.906Z",
+    "localBackupTimestamp": "2025-04-19T12:39:08.906Z"
+  },
+  {
+    "question": "Which Mesopotamian culture created cylinder seals for legal documents?",
+    "correct_answer": "Sumerian",
+    "incorrect_answers": [
+      "Babylonian",
+      "Assyrian",
+      "Akkadian",
+      "Persian",
+      "Hittite",
+      "Elamite",
+      "Phoenician"
+    ],
+    "main_category": "Geography",
+    "subcategory": "World Cultures",
+    "difficulty": "hard",
+    "id": "dc8891ec-70d3-4679-af24-fa91498d6ed2",
+    "created_at": "2025-04-19T18:39:08.910Z",
+    "backupTimestamp": "2025-04-19T18:39:08.910Z",
+    "localBackupTimestamp": "2025-04-19T12:39:08.910Z"
+  },
+  {
+    "question": "Which Indigenous people use the carved Chilkat blanket for ceremonies?",
+    "correct_answer": "Tlingit",
+    "incorrect_answers": [
+      "Haida",
+      "Tsimshian",
+      "Kwakiutl",
+      "Salish",
+      "Nootka",
+      "Cree",
+      "Inuit"
+    ],
+    "main_category": "Geography",
+    "subcategory": "World Cultures",
+    "difficulty": "hard",
+    "id": "53fb7fec-4598-40c3-be2b-d8891c6183d6",
+    "created_at": "2025-04-19T18:39:08.913Z",
+    "backupTimestamp": "2025-04-19T18:39:08.913Z",
+    "localBackupTimestamp": "2025-04-19T12:39:08.913Z"
+  },
+  {
+    "question": "Which Balinese ceremony involves filing the canine teeth?",
+    "correct_answer": "Metatah",
+    "incorrect_answers": [
+      "Ngaben",
+      "Melasti",
+      "Galungan",
+      "Nyepi",
+      "Kuningan",
+      "Mesangih",
+      "Ngelawang"
+    ],
+    "main_category": "Geography",
+    "subcategory": "World Cultures",
+    "difficulty": "hard",
+    "id": "3efca643-5ee6-4553-97fe-165d7ca42951",
+    "created_at": "2025-04-19T18:39:08.916Z",
+    "backupTimestamp": "2025-04-19T18:39:08.917Z",
+    "localBackupTimestamp": "2025-04-19T12:39:08.917Z"
+  },
+  {
+    "question": "Which Micronesian island uses stone money called rai?",
+    "correct_answer": "Yap",
+    "incorrect_answers": [
+      "Palau",
+      "Guam",
+      "Chuuk",
+      "Pohnpei",
+      "Kosrae",
+      "Nauru",
+      "Kiribati"
+    ],
+    "main_category": "Geography",
+    "subcategory": "World Cultures",
+    "difficulty": "hard",
+    "id": "d62c3975-0c3f-4d44-9c46-d99662dddefc",
+    "created_at": "2025-04-19T18:39:08.919Z",
+    "backupTimestamp": "2025-04-19T18:39:08.920Z",
+    "localBackupTimestamp": "2025-04-19T12:39:08.920Z"
+  },
+  {
+    "question": "Which traditional Iranian music mode is associated with mourning?",
+    "correct_answer": "Dashti",
+    "incorrect_answers": [
+      "Shur",
+      "Mahur",
+      "Nava",
+      "Segah",
+      "Chahargah",
+      "Homayoun",
+      "Rast-Panjgah"
+    ],
+    "main_category": "Geography",
+    "subcategory": "World Cultures",
+    "difficulty": "hard",
+    "id": "92bc1472-aa74-493d-b24f-1839014ecf69",
+    "created_at": "2025-04-19T18:39:08.923Z",
+    "backupTimestamp": "2025-04-19T18:39:08.923Z",
+    "localBackupTimestamp": "2025-04-19T12:39:08.923Z"
+  },
+  {
+    "question": "Which Mongolian festival celebrates camel herders?",
+    "correct_answer": "Thousand Camel Festival",
+    "incorrect_answers": [
+      "Naadam",
+      "Tsagaan Sar",
+      "Golden Eagle Festival",
+      "Mongolian New Year",
+      "Ice Festival",
+      "Yak Festival",
+      "Danshig Naadam"
+    ],
+    "main_category": "Geography",
+    "subcategory": "World Cultures",
+    "difficulty": "hard",
+    "id": "7edd2263-9ebb-435e-aa2f-dcfdade39fb2",
+    "created_at": "2025-04-19T18:39:08.925Z",
+    "backupTimestamp": "2025-04-19T18:39:08.926Z",
+    "localBackupTimestamp": "2025-04-19T12:39:08.926Z"
+  },
+  {
+    "question": "Which Mexican indigenous group is known for yarn painting art?",
+    "correct_answer": "Huichol",
+    "incorrect_answers": [
+      "Nahua",
+      "Zapotec",
+      "Mixtec",
+      "Maya",
+      "Otomi",
+      "Purépecha",
+      "Totonac"
+    ],
+    "main_category": "Geography",
+    "subcategory": "World Cultures",
+    "difficulty": "hard",
+    "id": "c9586e34-3998-45d6-9835-a8c16a940a6a",
+    "created_at": "2025-04-19T18:39:08.928Z",
+    "backupTimestamp": "2025-04-19T18:39:08.928Z",
+    "localBackupTimestamp": "2025-04-19T12:39:08.928Z"
+  },
+  {
+    "question": "Which ethnic group practices the 'lip plate' cultural modification?",
+    "correct_answer": "Mursi",
+    "incorrect_answers": [
+      "Maasai",
+      "Himba",
+      "Samburu",
+      "Ndebele",
+      "Turkana",
+      "Dinka",
+      "Suri"
+    ],
+    "main_category": "Geography",
+    "subcategory": "World Cultures",
+    "difficulty": "hard",
+    "id": "c4e24b89-cfc3-46fc-b517-d4b08435bb20",
+    "created_at": "2025-04-19T18:39:08.931Z",
+    "backupTimestamp": "2025-04-19T18:39:08.932Z",
+    "localBackupTimestamp": "2025-04-19T12:39:08.932Z"
+  },
+  {
+    "question": "Which cultural group traditionally performs the tinikling bamboo dance?",
+    "correct_answer": "Filipino",
+    "incorrect_answers": [
+      "Indonesian",
+      "Thai",
+      "Vietnamese",
+      "Malaysian",
+      "Cambodian",
+      "Burmese",
+      "Laotian"
+    ],
+    "main_category": "Geography",
+    "subcategory": "World Cultures",
+    "difficulty": "hard",
+    "id": "0b4200dd-2840-47c6-8042-8a2febe67361",
+    "created_at": "2025-04-19T18:39:08.935Z",
+    "backupTimestamp": "2025-04-19T18:39:08.935Z",
+    "localBackupTimestamp": "2025-04-19T12:39:08.935Z"
+  },
+  {
+    "question": "Which Saami traditional singing style uses vocal imitation of animals?",
+    "correct_answer": "Joik",
+    "incorrect_answers": [
+      "Kulning",
+      "Kveding",
+      "Stev",
+      "Rímur",
+      "Trall",
+      "Þulur",
+      "Kantele"
+    ],
+    "main_category": "Geography",
+    "subcategory": "World Cultures",
+    "difficulty": "hard",
+    "id": "ff63abb9-27de-4721-a277-6018b5e27b39",
+    "created_at": "2025-04-19T18:39:08.938Z",
+    "backupTimestamp": "2025-04-19T18:39:08.938Z",
+    "localBackupTimestamp": "2025-04-19T12:39:08.938Z"
+  },
+  {
+    "question": "Which indigenous Amazonian group uses curare for hunting?",
+    "correct_answer": "Yanomami",
+    "incorrect_answers": [
+      "Kayapo",
+      "Tupi",
+      "Guarani",
+      "Arawak",
+      "Xingu",
+      "Munduruku",
+      "Juruna"
+    ],
+    "main_category": "Geography",
+    "subcategory": "World Cultures",
+    "difficulty": "hard",
+    "id": "620eaade-e33c-41da-b9ad-dfb37a75927d",
+    "created_at": "2025-04-19T18:39:08.941Z",
+    "backupTimestamp": "2025-04-19T18:39:08.941Z",
+    "localBackupTimestamp": "2025-04-19T12:39:08.941Z"
+  },
+  {
+    "question": "Which traditional Japanese tea ceremony follows wabi-sabi principles?",
+    "correct_answer": "Chado",
+    "incorrect_answers": [
+      "Sado",
+      "Ocha",
+      "Sencha-do",
+      "Matcha-do",
+      "Chanoyu",
+      "Teishu",
+      "Ryurei"
+    ],
+    "main_category": "Geography",
+    "subcategory": "World Cultures",
+    "difficulty": "hard",
+    "id": "187e9a0d-bc2e-479b-9c8b-5a6cc2f8b287",
+    "created_at": "2025-04-19T18:39:08.943Z",
+    "backupTimestamp": "2025-04-19T18:39:08.944Z",
+    "localBackupTimestamp": "2025-04-19T12:39:08.944Z"
+  },
+  {
+    "question": "Which Romanian folk ritual involves dancing with bear skins?",
+    "correct_answer": "Ursul",
+    "incorrect_answers": [
+      "Căluşari",
+      "Capra",
+      "Drăgaica",
+      "Junii",
+      "Paparuda",
+      "Sânziene",
+      "Pluguşorul"
+    ],
+    "main_category": "Geography",
+    "subcategory": "World Cultures",
+    "difficulty": "hard",
+    "id": "00ce5ad3-2c7a-4b43-9195-379bf3b67d0c",
+    "created_at": "2025-04-19T18:39:08.947Z",
+    "backupTimestamp": "2025-04-19T18:39:08.947Z",
+    "localBackupTimestamp": "2025-04-19T12:39:08.947Z"
+  },
+  {
+    "question": "Which Pacific Island culture uses tabua whale teeth as ceremonial gifts?",
+    "correct_answer": "Fijian",
+    "incorrect_answers": [
+      "Tongan",
+      "Samoan",
+      "Hawaiian",
+      "Māori",
+      "Tahitian",
+      "Marquesan",
+      "Rapanui"
+    ],
+    "main_category": "Geography",
+    "subcategory": "World Cultures",
+    "difficulty": "hard",
+    "id": "4700ea60-6dc3-490f-9d43-e0f33a565695",
+    "created_at": "2025-04-19T18:39:08.949Z",
+    "backupTimestamp": "2025-04-19T18:39:08.950Z",
+    "localBackupTimestamp": "2025-04-19T12:39:08.950Z"
+  },
+  {
+    "question": "Which Siberian ethnic group traditionally lives in portable dwellings called chums?",
+    "correct_answer": "Nenets",
+    "incorrect_answers": [
+      "Yakut",
+      "Evenki",
+      "Chukchi",
+      "Komi",
+      "Buryat",
+      "Khanty",
+      "Ket"
+    ],
+    "main_category": "Geography",
+    "subcategory": "World Cultures",
+    "difficulty": "hard",
+    "id": "6f26901c-a07e-48e4-ab75-ee689bc1fa6c",
+    "created_at": "2025-04-19T18:39:08.953Z",
+    "backupTimestamp": "2025-04-19T18:39:08.953Z",
+    "localBackupTimestamp": "2025-04-19T12:39:08.953Z"
+  },
+  {
+    "question": "Which traditional Indonesian martial art features a swaying dance-like movements?",
+    "correct_answer": "Pencak Silat",
+    "incorrect_answers": [
+      "Kuntao",
+      "Tarung Derajat",
+      "Merpati Putih",
+      "Beksi",
+      "Cimande",
+      "Setia Hati",
+      "Bakti Negara"
+    ],
+    "main_category": "Geography",
+    "subcategory": "World Cultures",
+    "difficulty": "hard",
+    "id": "695ed8a8-b561-4819-a001-9f4e70adafd6",
+    "created_at": "2025-04-19T18:39:08.956Z",
+    "backupTimestamp": "2025-04-19T18:39:08.956Z",
+    "localBackupTimestamp": "2025-04-19T12:39:08.956Z"
+  },
+  {
+    "question": "Which nomadic people perform the eagle dance at the Altai Eagle Festival?",
+    "correct_answer": "Kazakh",
+    "incorrect_answers": [
+      "Kyrgyz",
+      "Mongol",
+      "Tuvan",
+      "Uzbek",
+      "Tajik",
+      "Uyghur",
+      "Turkmen"
+    ],
+    "main_category": "Geography",
+    "subcategory": "World Cultures",
+    "difficulty": "hard",
+    "id": "08462ced-7b78-4e8c-814e-ad4eb55e78f8",
+    "created_at": "2025-04-19T18:39:08.959Z",
+    "backupTimestamp": "2025-04-19T18:39:08.960Z",
+    "localBackupTimestamp": "2025-04-19T12:39:08.960Z"
+  },
+  {
+    "question": "Which Chinese minority creates the indigo batik textiles of Guizhou?",
+    "correct_answer": "Miao",
+    "incorrect_answers": [
+      "Hmong",
+      "Yi",
+      "Dai",
+      "Bai",
+      "Tujia",
+      "Dong",
+      "Zhuang"
+    ],
+    "main_category": "Geography",
+    "subcategory": "World Cultures",
+    "difficulty": "hard",
+    "id": "f7e5c38f-27f6-4f6f-9d8b-51ed6f740667",
+    "created_at": "2025-04-19T18:39:08.962Z",
+    "backupTimestamp": "2025-04-19T18:39:08.963Z",
+    "localBackupTimestamp": "2025-04-19T12:39:08.963Z"
+  },
+  {
+    "question": "Which indigenous Australian ritual involves the didgeridoo and clapsticks?",
+    "correct_answer": "Corroboree",
+    "incorrect_answers": [
+      "Tjukurpa",
+      "Walkabout",
+      "Dreaming",
+      "Bora",
+      "Kurdaitcha",
+      "Songline",
+      "Bunya"
+    ],
+    "main_category": "Geography",
+    "subcategory": "World Cultures",
+    "difficulty": "hard",
+    "id": "8bf33313-feed-4881-95d2-a5af70d9468f",
+    "created_at": "2025-04-19T18:39:08.965Z",
+    "backupTimestamp": "2025-04-19T18:39:08.965Z",
+    "localBackupTimestamp": "2025-04-19T12:39:08.965Z"
+  },
+  {
+    "question": "Which Indian classical dance form originates from Odisha?",
+    "correct_answer": "Odissi",
+    "incorrect_answers": [
+      "Bharatanatyam",
+      "Kathak",
+      "Kathakali",
+      "Kuchipudi",
+      "Manipuri",
+      "Mohiniyattam",
+      "Sattriya"
+    ],
+    "main_category": "Geography",
+    "subcategory": "World Cultures",
+    "difficulty": "hard",
+    "id": "2547232e-a7b2-4704-95f6-767e70d1f1a3",
+    "created_at": "2025-04-19T18:39:08.968Z",
+    "backupTimestamp": "2025-04-19T18:39:08.968Z",
+    "localBackupTimestamp": "2025-04-19T12:39:08.968Z"
+  },
+  {
+    "question": "Which Central Asian ethnic group creates the yurt-like dwelling called bozüy?",
+    "correct_answer": "Kyrgyz",
+    "incorrect_answers": [
+      "Kazakh",
+      "Uzbek",
+      "Turkmen",
+      "Tajik",
+      "Uyghur",
+      "Mongol",
+      "Tatar"
+    ],
+    "main_category": "Geography",
+    "subcategory": "World Cultures",
+    "difficulty": "hard",
+    "id": "a22fc564-e1e8-46ed-a3c8-57674c1abfd4",
+    "created_at": "2025-04-19T18:39:08.971Z",
+    "backupTimestamp": "2025-04-19T18:39:08.972Z",
+    "localBackupTimestamp": "2025-04-19T12:39:08.972Z"
+  },
+  {
+    "question": "Which traditional Portuguese music is associated with saudade?",
+    "correct_answer": "Fado",
+    "incorrect_answers": [
+      "Cante Alentejano",
+      "Corridinho",
+      "Vira",
+      "Bailinho",
+      "Rancho Folclórico",
+      "Chula",
+      "Pauliteiros"
+    ],
+    "main_category": "Geography",
+    "subcategory": "World Cultures",
+    "difficulty": "hard",
+    "id": "1bf6500e-1fb7-4b9b-bba9-fec1c7ca7bc6",
+    "created_at": "2025-04-19T18:39:08.975Z",
+    "backupTimestamp": "2025-04-19T18:39:08.975Z",
+    "localBackupTimestamp": "2025-04-19T12:39:08.975Z"
+  },
+  {
+    "question": "Which Mesoamerican culture practiced the ball game tlachtli?",
+    "correct_answer": "Maya",
+    "incorrect_answers": [
+      "Aztec",
+      "Toltec",
+      "Olmec",
+      "Zapotec",
+      "Mixtec",
+      "Tarascan",
+      "Totonac"
+    ],
+    "main_category": "Geography",
+    "subcategory": "World Cultures",
+    "difficulty": "hard",
+    "id": "aae15e13-82a0-439d-9d84-cec3789c4b66",
+    "created_at": "2025-04-19T18:39:08.977Z",
+    "backupTimestamp": "2025-04-19T18:39:08.978Z",
+    "localBackupTimestamp": "2025-04-19T12:39:08.978Z"
+  },
+  {
+    "question": "Which cultural tradition involves burning effigies during Las Fallas festival?",
+    "correct_answer": "Valencian",
+    "incorrect_answers": [
+      "Catalan",
+      "Andalusian",
+      "Galician",
+      "Basque",
+      "Asturian",
+      "Aragonese",
+      "Murcian"
+    ],
+    "main_category": "Geography",
+    "subcategory": "World Cultures",
+    "difficulty": "hard",
+    "id": "db8c5907-7d30-4c70-8ca9-e54e42116a9b",
+    "created_at": "2025-04-19T18:39:08.980Z",
+    "backupTimestamp": "2025-04-19T18:39:08.981Z",
+    "localBackupTimestamp": "2025-04-19T12:39:08.981Z"
+  },
+  {
+    "question": "Which Southeast Asian region is known for ikat weaving with indigo dye?",
+    "correct_answer": "Toraja",
+    "incorrect_answers": [
+      "Batak",
+      "Minangkabau",
+      "Dayak",
+      "Javanese",
+      "Balinese",
+      "Bugis",
+      "Sundanese"
+    ],
+    "main_category": "Geography",
+    "subcategory": "World Cultures",
+    "difficulty": "hard",
+    "id": "8167778d-596f-4993-8260-a35365d05f9f",
+    "created_at": "2025-04-19T18:39:08.983Z",
+    "backupTimestamp": "2025-04-19T18:39:08.984Z",
+    "localBackupTimestamp": "2025-04-19T12:39:08.984Z"
+  },
+  {
+    "question": "Which Peruvian Andean ritual involves offering to Pachamama?",
+    "correct_answer": "Despacho",
+    "incorrect_answers": [
+      "Ayni",
+      "Inti Raymi",
+      "Warachikuy",
+      "Qoyllur Rit'i",
+      "Ch'alla",
+      "Alasitas",
+      "Tinku"
+    ],
+    "main_category": "Geography",
+    "subcategory": "World Cultures",
+    "difficulty": "hard",
+    "id": "56937fd5-c11e-417f-afe6-cb4b1c23e86e",
+    "created_at": "2025-04-19T18:39:08.987Z",
+    "backupTimestamp": "2025-04-19T18:39:08.988Z",
+    "localBackupTimestamp": "2025-04-19T12:39:08.988Z"
+  },
+  {
+    "question": "Which Indigenous Canadian people created the Inukshuk stone landmarks?",
+    "correct_answer": "Inuit",
+    "incorrect_answers": [
+      "Cree",
+      "Métis",
+      "Ojibwe",
+      "Dene",
+      "Haida",
+      "Iroquois",
+      "Blackfoot"
+    ],
+    "main_category": "Geography",
+    "subcategory": "World Cultures",
+    "difficulty": "hard",
+    "id": "5db067d5-b79c-45fd-a53a-d989f60bbb33",
+    "created_at": "2025-04-19T18:39:08.991Z",
+    "backupTimestamp": "2025-04-19T18:39:08.991Z",
+    "localBackupTimestamp": "2025-04-19T12:39:08.991Z"
+  },
+  {
+    "question": "Which Chinese minority group practices the dongba pictographic script?",
+    "correct_answer": "Naxi",
+    "incorrect_answers": [
+      "Bai",
+      "Dai",
+      "Yi",
+      "Miao",
+      "Hui",
+      "Uyghur",
+      "Tibetan"
+    ],
+    "main_category": "Geography",
+    "subcategory": "World Cultures",
+    "difficulty": "hard",
+    "id": "bbe162f6-6af5-4198-85e6-c6509fef44c6",
+    "created_at": "2025-04-19T18:39:08.994Z",
+    "backupTimestamp": "2025-04-19T18:39:08.995Z",
+    "localBackupTimestamp": "2025-04-19T12:39:08.995Z"
+  },
+  {
+    "question": "Which African ceremony involves the wodaabe tribe's 'gerewol' competition?",
+    "correct_answer": "Cure Salée",
+    "incorrect_answers": [
+      "Guérewol",
+      "Yaake",
+      "Fulani Sharo",
+      "Ngoma",
+      "Mwari",
+      "Dama",
+      "Bwiti"
+    ],
+    "main_category": "Geography",
+    "subcategory": "World Cultures",
+    "difficulty": "hard",
+    "id": "e35ff83a-276a-4c9e-b8de-4f61f3cc9c1e",
+    "created_at": "2025-04-19T18:39:08.998Z",
+    "backupTimestamp": "2025-04-19T18:39:08.998Z",
+    "localBackupTimestamp": "2025-04-19T12:39:08.998Z"
+  },
+  {
+    "question": "Which Tibetan festival involves unfurling giant thangka paintings?",
+    "correct_answer": "Shoton",
+    "incorrect_answers": [
+      "Losar",
+      "Saga Dawa",
+      "Butter Lamp Festival",
+      "Gyantse Horse Racing",
+      "Cham Dance",
+      "Monlam",
+      "Ganden Ngamchoe"
+    ],
+    "main_category": "Geography",
+    "subcategory": "World Cultures",
+    "difficulty": "hard",
+    "id": "20c9fc76-c4a2-495c-bdf4-da766ddb0b2e",
+    "created_at": "2025-04-19T18:39:09.000Z",
+    "backupTimestamp": "2025-04-19T18:39:09.001Z",
+    "localBackupTimestamp": "2025-04-19T12:39:09.001Z"
+  },
+  {
+    "question": "Which Polynesian island's writing system is called rongorongo?",
+    "correct_answer": "Easter Island",
+    "incorrect_answers": [
+      "Hawaii",
+      "Tahiti",
+      "Samoa",
+      "Tonga",
+      "Fiji",
+      "Marquesas",
+      "Cook Islands"
+    ],
+    "main_category": "Geography",
+    "subcategory": "World Cultures",
+    "difficulty": "hard",
+    "id": "b63dc03a-89ca-4bed-a73f-c1c1931c4a2b",
+    "created_at": "2025-04-19T18:39:09.004Z",
+    "backupTimestamp": "2025-04-19T18:39:09.004Z",
+    "localBackupTimestamp": "2025-04-19T12:39:09.004Z"
+  },
+  {
+    "question": "Which Middle Eastern instrument has horsehair strings and a spike at the bottom?",
+    "correct_answer": "Kamancheh",
+    "incorrect_answers": [
+      "Oud",
+      "Tar",
+      "Santoor",
+      "Setar",
+      "Qanun",
+      "Ney",
+      "Daf"
+    ],
+    "main_category": "Geography",
+    "subcategory": "World Cultures",
+    "difficulty": "hard",
+    "id": "4fe8ed1f-5749-4983-bc05-50ef97983089",
+    "created_at": "2025-04-19T18:39:09.007Z",
+    "backupTimestamp": "2025-04-19T18:39:09.007Z",
+    "localBackupTimestamp": "2025-04-19T12:39:09.007Z"
+  },
+  {
+    "question": "Which Turkish oil wrestling festival occurs in Kırkpınar?",
+    "correct_answer": "Kırkpınar Oil Wrestling",
+    "incorrect_answers": [
+      "Güreş Festivali",
+      "Edirne Wrestling",
+      "Yağlı Güreş",
+      "Pehlivan Games",
+      "Başpehlivan",
+      "Osmanlı Güreş",
+      "Cazgır"
+    ],
+    "main_category": "Geography",
+    "subcategory": "World Cultures",
+    "difficulty": "hard",
+    "id": "0d784fa3-7b54-4dce-8632-fa0349774606",
+    "created_at": "2025-04-19T18:39:09.009Z",
+    "backupTimestamp": "2025-04-19T18:39:09.010Z",
+    "localBackupTimestamp": "2025-04-19T12:39:09.010Z"
+  },
+  {
+    "question": "Which traditional Nigerian textile is dyed with indigo in geometric patterns?",
+    "correct_answer": "Adire",
+    "incorrect_answers": [
+      "Aso Oke",
+      "Ankara",
+      "Aso-Ebi",
+      "Ukara",
+      "Akwete",
+      "Babban Riga",
+      "Okene"
+    ],
+    "main_category": "Geography",
+    "subcategory": "World Cultures",
+    "difficulty": "hard",
+    "id": "0a27f10d-05de-4f4b-8dc3-65e7f4f24817",
+    "created_at": "2025-04-19T18:39:09.012Z",
+    "backupTimestamp": "2025-04-19T18:39:09.013Z",
+    "localBackupTimestamp": "2025-04-19T12:39:09.013Z"
+  },
+  {
+    "question": "Which Thai art form uses perforated cowhide to create shadow puppets?",
+    "correct_answer": "Nang Yai",
+    "incorrect_answers": [
+      "Khon",
+      "Likay",
+      "Hun Krabok",
+      "Lakhon",
+      "Fon",
+      "Molam",
+      "Piphat"
+    ],
+    "main_category": "Geography",
+    "subcategory": "World Cultures",
+    "difficulty": "hard",
+    "id": "db0e4bf0-5c4b-40a9-9a57-5216f8365312",
+    "created_at": "2025-04-19T18:39:09.015Z",
+    "backupTimestamp": "2025-04-19T18:39:09.015Z",
+    "localBackupTimestamp": "2025-04-19T12:39:09.015Z"
+  },
+  {
+    "question": "Which Central Asian musical tradition involves throat singing?",
+    "correct_answer": "Tuvan Khoomei",
+    "incorrect_answers": [
+      "Kazakh Dombra",
+      "Kyrgyz Komuz",
+      "Mongolian Long Song",
+      "Uzbek Shashmaqom",
+      "Tajik Falak",
+      "Afghan Attan",
+      "Turkmen Dutar"
+    ],
+    "main_category": "Geography",
+    "subcategory": "World Cultures",
+    "difficulty": "hard",
+    "id": "1efb95bf-200d-42fc-801f-d12dd81429db",
+    "created_at": "2025-04-19T18:39:09.017Z",
+    "backupTimestamp": "2025-04-19T18:39:09.018Z",
+    "localBackupTimestamp": "2025-04-19T12:39:09.018Z"
+  },
+  {
+    "question": "Which Native American tribe created the dreamcatcher?",
+    "correct_answer": "Ojibwe",
+    "incorrect_answers": [
+      "Lakota",
+      "Navajo",
+      "Cherokee",
+      "Apache",
+      "Iroquois",
+      "Hopi",
+      "Cheyenne"
+    ],
+    "main_category": "Geography",
+    "subcategory": "World Cultures",
+    "difficulty": "hard",
+    "id": "b63db89d-fd22-4fd6-9d0c-5a536bfae595",
+    "created_at": "2025-04-19T18:39:09.020Z",
+    "backupTimestamp": "2025-04-19T18:39:09.021Z",
+    "localBackupTimestamp": "2025-04-19T12:39:09.021Z"
+  },
+  {
+    "question": "Which Irish festival celebrates the pagan goddess Brigid?",
+    "correct_answer": "Imbolc",
+    "incorrect_answers": [
+      "Lughnasa",
+      "Bealtaine",
+      "Samhain",
+      "St. Brigid's Day",
+      "Wren Day",
+      "Puck Fair",
+      "La Fheile Padraig"
+    ],
+    "main_category": "Geography",
+    "subcategory": "World Cultures",
+    "difficulty": "hard",
+    "id": "d3c979e9-e25f-4cc2-8997-c7d8dac6d15f",
+    "created_at": "2025-04-19T18:39:09.023Z",
+    "backupTimestamp": "2025-04-19T18:39:09.023Z",
+    "localBackupTimestamp": "2025-04-19T12:39:09.023Z"
+  },
+  {
+    "question": "Which West African musical tradition uses the 21-string kora?",
+    "correct_answer": "Griot",
+    "incorrect_answers": [
+      "Highlife",
+      "Jùjú",
+      "Afrobeat",
+      "Mbalax",
+      "Fuji",
+      "Soukous",
+      "Bikutsi"
+    ],
+    "main_category": "Geography",
+    "subcategory": "World Cultures",
+    "difficulty": "hard",
+    "id": "068043ac-af62-448e-9dfc-21849ab14fc1",
+    "created_at": "2025-04-19T18:39:09.026Z",
+    "backupTimestamp": "2025-04-19T18:39:09.026Z",
+    "localBackupTimestamp": "2025-04-19T12:39:09.026Z"
+  },
+  {
+    "question": "Which Japanese craft involves folding kimonos into decorative objects?",
+    "correct_answer": "Furoshiki",
+    "incorrect_answers": [
+      "Origami",
+      "Temari",
+      "Kumihimo",
+      "Shibori",
+      "Mizuhiki",
+      "Sashiko",
+      "Yuzen"
+    ],
+    "main_category": "Geography",
+    "subcategory": "World Cultures",
+    "difficulty": "hard",
+    "id": "45e0a767-3429-4a70-95c3-0cdd7cbb37f5",
+    "created_at": "2025-04-19T18:39:09.028Z",
+    "backupTimestamp": "2025-04-19T18:39:09.029Z",
+    "localBackupTimestamp": "2025-04-19T12:39:09.029Z"
+  },
+  {
+    "question": "Which Bhutanese festival involves masked dances called cham?",
+    "correct_answer": "Tshechu",
+    "incorrect_answers": [
+      "Losar",
+      "Thrue Bab",
+      "Blessed Rainy Day",
+      "Lomba",
+      "Drukpa Tshe Zhi",
+      "Gomphu Kora",
+      "Gasa Tshechu"
+    ],
+    "main_category": "Geography",
+    "subcategory": "World Cultures",
+    "difficulty": "hard",
+    "id": "638d76ba-32c3-41b3-8ee0-e6dde8717e54",
+    "created_at": "2025-04-19T18:39:09.031Z",
+    "backupTimestamp": "2025-04-19T18:39:09.031Z",
+    "localBackupTimestamp": "2025-04-19T12:39:09.031Z"
+  },
+  {
+    "question": "Which indigenous culture created the quipu knotted-string recording device?",
+    "correct_answer": "Inca",
+    "incorrect_answers": [
+      "Maya",
+      "Aztec",
+      "Olmec",
+      "Toltec",
+      "Moche",
+      "Nazca",
+      "Chimu"
+    ],
+    "main_category": "Geography",
+    "subcategory": "World Cultures",
+    "difficulty": "hard",
+    "id": "34cbd57b-6200-4d78-a645-1e7d9048c93d",
+    "created_at": "2025-04-19T18:39:09.034Z",
+    "backupTimestamp": "2025-04-19T18:39:09.034Z",
+    "localBackupTimestamp": "2025-04-19T12:39:09.034Z"
+  },
+  {
+    "question": "Which traditional Dutch winter festival features Zwarte Piet?",
+    "correct_answer": "Sinterklaas",
+    "incorrect_answers": [
+      "Koningsdag",
+      "Carnaval",
+      "Prinsjesdag",
+      "Elfstedentocht",
+      "Luilak",
+      "Tikkertjesdag",
+      "Bescherming"
+    ],
+    "main_category": "Geography",
+    "subcategory": "World Cultures",
+    "difficulty": "hard",
+    "id": "3a9374fc-b296-4913-823d-75d31f6373d4",
+    "created_at": "2025-04-19T18:39:09.036Z",
+    "backupTimestamp": "2025-04-19T18:39:09.037Z",
+    "localBackupTimestamp": "2025-04-19T12:39:09.037Z"
+  },
+  {
+    "question": "Which South African culture creates beaded love letters called ndwangos?",
+    "correct_answer": "Zulu",
+    "incorrect_answers": [
+      "Xhosa",
+      "Ndebele",
+      "Sotho",
+      "Tswana",
+      "Venda",
+      "Tsonga",
+      "Swazi"
+    ],
+    "main_category": "Geography",
+    "subcategory": "World Cultures",
+    "difficulty": "hard",
+    "id": "33aeb251-5983-4130-a6cf-f4d58d2870ed",
+    "created_at": "2025-04-19T18:39:09.039Z",
+    "backupTimestamp": "2025-04-19T18:39:09.040Z",
+    "localBackupTimestamp": "2025-04-19T12:39:09.040Z"
+  },
+  {
+    "question": "Which Indian martial art originated in Kerala?",
+    "correct_answer": "Kalaripayattu",
+    "incorrect_answers": [
+      "Silambam",
+      "Gatka",
+      "Mardani khel",
+      "Thang-Ta",
+      "Pari Khanda",
+      "Lathi",
+      "Musti Yuddha"
+    ],
+    "main_category": "Geography",
+    "subcategory": "World Cultures",
+    "difficulty": "hard",
+    "id": "cdc87905-0471-49ce-a8a1-e057dd5722a5",
+    "created_at": "2025-04-19T18:39:09.042Z",
+    "backupTimestamp": "2025-04-19T18:39:09.042Z",
+    "localBackupTimestamp": "2025-04-19T12:39:09.042Z"
+  },
+  {
+    "question": "Which Bolivian festival features ch'alla rituals for Pachamama?",
+    "correct_answer": "Alasitas",
+    "incorrect_answers": [
+      "Oruro Carnival",
+      "Gran Poder",
+      "Urkupiña",
+      "Chutillos",
+      "Aymara New Year",
+      "Pujllay",
+      "Ch'utillos"
+    ],
+    "main_category": "Geography",
+    "subcategory": "World Cultures",
+    "difficulty": "hard",
+    "id": "0aff19c4-f76c-4836-ab8e-94501f9c3345",
+    "created_at": "2025-04-19T18:39:09.045Z",
+    "backupTimestamp": "2025-04-19T18:39:09.045Z",
+    "localBackupTimestamp": "2025-04-19T12:39:09.045Z"
+  },
+  {
+    "question": "Which Mexican indigenous group creates the amate bark paintings?",
+    "correct_answer": "Otomi",
+    "incorrect_answers": [
+      "Nahua",
+      "Huichol",
+      "Maya",
+      "Zapotec",
+      "Mixtec",
+      "Tzotzil",
+      "Purépecha"
+    ],
+    "main_category": "Geography",
+    "subcategory": "World Cultures",
+    "difficulty": "hard",
+    "id": "abee56aa-2a35-4554-a02b-c1c3293d7e16",
+    "created_at": "2025-04-19T18:39:09.048Z",
+    "backupTimestamp": "2025-04-19T18:39:09.048Z",
+    "localBackupTimestamp": "2025-04-19T12:39:09.048Z"
+  },
+  {
+    "question": "Which traditional Korean winter kimchi-making ritual is now UNESCO listed?",
+    "correct_answer": "Kimjang",
+    "incorrect_answers": [
+      "Seollal",
+      "Jesa",
+      "Ganggangsullae",
+      "Dano",
+      "Donghwari",
+      "Jejeon",
+      "Sangsaeng"
+    ],
+    "main_category": "Geography",
+    "subcategory": "World Cultures",
+    "difficulty": "hard",
+    "id": "dfbea26c-355b-402e-add6-cbdd67681280",
+    "created_at": "2025-04-19T18:39:09.050Z",
+    "backupTimestamp": "2025-04-19T18:39:09.050Z",
+    "localBackupTimestamp": "2025-04-19T12:39:09.050Z"
+  },
+  {
+    "question": "Which Russian folk instrument has three strings and a triangular body?",
+    "correct_answer": "Balalaika",
+    "incorrect_answers": [
+      "Domra",
+      "Gusli",
+      "Bayan",
+      "Zhaleika",
+      "Garmon",
+      "Gudok",
+      "Svirel"
+    ],
+    "main_category": "Geography",
+    "subcategory": "World Cultures",
+    "difficulty": "hard",
+    "id": "a1637a92-a7ae-41f0-8b37-da9d25738e17",
+    "created_at": "2025-04-19T18:39:09.053Z",
+    "backupTimestamp": "2025-04-19T18:39:09.053Z",
+    "localBackupTimestamp": "2025-04-19T12:39:09.053Z"
+  },
+  {
+    "question": "Which New Zealand Māori wood carving is worn around the neck?",
+    "correct_answer": "Hei-tiki",
+    "incorrect_answers": [
+      "Pounamu",
+      "Mere",
+      "Koru",
+      "Manaia",
+      "Hei Matau",
+      "Pekapeka",
+      "Koauau"
+    ],
+    "main_category": "Geography",
+    "subcategory": "World Cultures",
+    "difficulty": "hard",
+    "id": "3c8b008f-d10b-4c28-b1b3-13da32fd613b",
+    "created_at": "2025-04-19T18:39:09.056Z",
+    "backupTimestamp": "2025-04-19T18:39:09.056Z",
+    "localBackupTimestamp": "2025-04-19T12:39:09.056Z"
+  },
+  {
+    "question": "Which Scandinavian tradition involves burning a giant goat effigy?",
+    "correct_answer": "Gävle Goat",
+    "incorrect_answers": [
+      "Midsommar",
+      "Walpurgis Night",
+      "Joulupukki",
+      "St. Lucia Day",
+      "Julebukk",
+      "Þorrablót",
+      "Nuutinpäivä"
+    ],
+    "main_category": "Geography",
+    "subcategory": "World Cultures",
+    "difficulty": "hard",
+    "id": "2b298af4-72fd-460d-97e5-5777d874c576",
+    "created_at": "2025-04-19T18:39:09.060Z",
+    "backupTimestamp": "2025-04-19T18:39:09.060Z",
+    "localBackupTimestamp": "2025-04-19T12:39:09.060Z"
   }
 ]
