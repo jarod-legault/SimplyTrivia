@@ -18,7 +18,8 @@
     "web": "expo start --web",
     "web:build": "expo export -p web",
     "web:serve": "npx serve dist",
-    "dev:server": "nodemon --exec node --loader ts-node/esm server.ts"
+    "dev:server": "nodemon --exec node --loader ts-node/esm server.ts",
+    "init:json": "node --loader ts-node/esm utils/init-json-files.ts"
   },
   "dependencies": {
     "@expo/vector-icons": "^14.0.0",

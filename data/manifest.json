@@ -1,0 +1,59 @@
+{
+  "lastUpdate": "2025-04-19T22:17:05.732Z",
+  "categories": {
+    "timestamp": "2025-04-19T22:17:05.732Z",
+    "count": 52
+  },
+  "questionFiles": {
+    "art-culture.json": {
+      "timestamp": "2025-04-19T22:17:05.732Z",
+      "questionCount": 0,
+      "mainCategory": "Art & Culture"
+    },
+    "food-drink.json": {
+      "timestamp": "2025-04-19T22:17:05.732Z",
+      "questionCount": 0,
+      "mainCategory": "Food & Drink"
+    },
+    "geography.json": {
+      "timestamp": "2025-04-19T22:17:05.732Z",
+      "questionCount": 676,
+      "mainCategory": "Geography"
+    },
+    "history.json": {
+      "timestamp": "2025-04-19T22:17:05.732Z",
+      "questionCount": 659,
+      "mainCategory": "History"
+    },
+    "language-words.json": {
+      "timestamp": "2025-04-19T22:17:05.732Z",
+      "questionCount": 0,
+      "mainCategory": "Language & Words"
+    },
+    "miscellaneous.json": {
+      "timestamp": "2025-04-19T22:17:05.732Z",
+      "questionCount": 0,
+      "mainCategory": "Miscellaneous"
+    },
+    "pop-culture.json": {
+      "timestamp": "2025-04-19T22:17:05.732Z",
+      "questionCount": 1411,
+      "mainCategory": "Pop Culture"
+    },
+    "science-nature.json": {
+      "timestamp": "2025-04-19T22:17:05.732Z",
+      "questionCount": 904,
+      "mainCategory": "Science & Nature"
+    },
+    "sports-games.json": {
+      "timestamp": "2025-04-19T22:17:05.732Z",
+      "questionCount": 0,
+      "mainCategory": "Sports & Games"
+    },
+    "technology.json": {
+      "timestamp": "2025-04-19T22:17:05.732Z",
+      "questionCount": 0,
+      "mainCategory": "Technology"
+    }
+  }
+}

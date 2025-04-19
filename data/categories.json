@@ -1,0 +1,314 @@
+[
+  {
+    "id": "3960ddc9-3846-41f0-8eea-002d2bf9ed1a",
+    "mainCategory": "Art & Culture",
+    "subcategory": "Architecture",
+    "createdAt": 1744494000334
+  },
+  {
+    "id": "481f75b2-e8b2-4a6b-bbe6-6492f8b06d43",
+    "mainCategory": "Art & Culture",
+    "subcategory": "Museums & Galleries",
+    "createdAt": 1744494000334
+  },
+  {
+    "id": "241a1336-02e5-4212-9371-4edebc7fbf61",
+    "mainCategory": "Art & Culture",
+    "subcategory": "Painting & Drawing",
+    "createdAt": 1744494000334
+  },
+  {
+    "id": "5341b798-b820-4839-b6a2-4c834151a8f4",
+    "mainCategory": "Art & Culture",
+    "subcategory": "Sculpture",
+    "createdAt": 1744494000334
+  },
+  {
+    "id": "669377d1-64f9-4839-8cc5-f6009763ace6",
+    "mainCategory": "Food & Drink",
+    "subcategory": "Beverages & Cocktails",
+    "createdAt": 1744494000334
+  },
+  {
+    "id": "780c5929-ba31-4944-958d-849be6e7e42d",
+    "mainCategory": "Food & Drink",
+    "subcategory": "Cooking & Ingredients",
+    "createdAt": 1744494000334
+  },
+  {
+    "id": "fd93c97b-78eb-4a26-88bf-bffb89b30ae2",
+    "mainCategory": "Food & Drink",
+    "subcategory": "Cuisine Around the World",
+    "createdAt": 1744494000334
+  },
+  {
+    "id": "7d5f4558-d769-4f5e-8591-4e5c6baf10cf",
+    "mainCategory": "Food & Drink",
+    "subcategory": "Wine & Beer",
+    "createdAt": 1744494000334
+  },
+  {
+    "id": "19446ca2-f787-46dd-ae99-5f2800bd5062",
+    "mainCategory": "Geography",
+    "subcategory": "Bodies of Water, Mountains, & Volcanoes",
+    "createdAt": 1745084903
+  },
+  {
+    "id": "2e364811-6e9b-457c-8bd5-2d4e6a36c186",
+    "mainCategory": "Geography",
+    "subcategory": "Cities Around the World",
+    "createdAt": 1744494000334
+  },
+  {
+    "id": "d050bc10-7f0a-4248-94ba-71ac70f03803",
+    "mainCategory": "Geography",
+    "subcategory": "Countries & Capitals",
+    "createdAt": 1744494000334
+  },
+  {
+    "id": "bdbfbaf9-df67-4720-a5cc-a129abce55e1",
+    "mainCategory": "Geography",
+    "subcategory": "World Cultures",
+    "createdAt": 1744494000334
+  },
+  {
+    "id": "2ca8ea50-251f-4500-ac34-9b50798466c1",
+    "mainCategory": "History",
+    "subcategory": "Ancient History",
+    "createdAt": 1744494000334
+  },
+  {
+    "id": "0f367634-a953-43f4-8946-9a84c1b3ad96",
+    "mainCategory": "History",
+    "subcategory": "Inventions & Discoveries",
+    "createdAt": 1744494000334
+  },
+  {
+    "id": "7273401a-ab64-469d-8ae6-85960b5af8f6",
+    "mainCategory": "History",
+    "subcategory": "Medieval History",
+    "createdAt": 1744494000334
+  },
+  {
+    "id": "611025bc-bc24-4387-86ee-2c43bb7787f1",
+    "mainCategory": "History",
+    "subcategory": "Modern History",
+    "createdAt": 1744494000334
+  },
+  {
+    "id": "e4efc72a-dd49-4aa9-804c-a41fda030781",
+    "mainCategory": "Language & Words",
+    "subcategory": "Famous Quotes",
+    "createdAt": 1744494000334
+  },
+  {
+    "id": "fe24ebdb-3ead-47de-a974-67daf879cab0",
+    "mainCategory": "Language & Words",
+    "subcategory": "Grammar & Vocabulary",
+    "createdAt": 1744494000334
+  },
+  {
+    "id": "9f761de7-6002-49f7-ba9c-31ee853c8454",
+    "mainCategory": "Language & Words",
+    "subcategory": "Idioms & Expressions",
+    "createdAt": 1744494000334
+  },
+  {
+    "id": "26536eee-f310-4add-951c-084ebad1f8a0",
+    "mainCategory": "Language & Words",
+    "subcategory": "Slang & Colloquialisms",
+    "createdAt": 1744494000334
+  },
+  {
+    "id": "073700c4-0d61-4684-b9e1-c4d8b3cc11af",
+    "mainCategory": "Miscellaneous",
+    "subcategory": "Advertising & Brands",
+    "createdAt": 1744494000334
+  },
+  {
+    "id": "dab4f7e7-45c1-489b-9d49-4695fb279b86",
+    "mainCategory": "Miscellaneous",
+    "subcategory": "Holiday Traditions",
+    "createdAt": 1744494000334
+  },
+  {
+    "id": "6f6e0f1d-c605-426d-afdd-bb1de0f64479",
+    "mainCategory": "Miscellaneous",
+    "subcategory": "Weird Facts",
+    "createdAt": 1744494000334
+  },
+  {
+    "id": "381c0546-bbd6-47ea-b2fa-0cb46f353a5d",
+    "mainCategory": "Miscellaneous",
+    "subcategory": "World Records",
+    "createdAt": 1744494000334
+  },
+  {
+    "id": "36f520fc-88bc-48b0-8fca-24b37910e52e",
+    "mainCategory": "Pop Culture",
+    "subcategory": "Board Games",
+    "createdAt": 1744494000334
+  },
+  {
+    "id": "316a1f6b-ff59-4560-b5b4-8bdfe0bc34b8",
+    "mainCategory": "Pop Culture",
+    "subcategory": "Books & Literature",
+    "createdAt": 1744494000334
+  },
+  {
+    "id": "f1bd4a9c-775a-4130-abc4-9fce793c06b1",
+    "mainCategory": "Pop Culture",
+    "subcategory": "Broadway musicals",
+    "createdAt": 1744494000334
+  },
+  {
+    "id": "0077394e-296c-4e0b-bce2-291fe498b60c",
+    "mainCategory": "Pop Culture",
+    "subcategory": "Celebrities",
+    "createdAt": 1744494000334
+  },
+  {
+    "id": "434f029c-3666-4d69-9366-5b45a5c36ef8",
+    "mainCategory": "Pop Culture",
+    "subcategory": "Comics",
+    "createdAt": 1744494000334
+  },
+  {
+    "id": "c7bba722-b629-4a60-992b-d6225cca2628",
+    "mainCategory": "Pop Culture",
+    "subcategory": "Movies",
+    "createdAt": 1744494000334
+  },
+  {
+    "id": "f054922b-39b9-4818-9c80-01de042c4b5a",
+    "mainCategory": "Pop Culture",
+    "subcategory": "Music",
+    "createdAt": 1744494000334
+  },
+  {
+    "id": "1b5e4d81-b2cb-470d-b9e7-a7a1c4eb7f37",
+    "mainCategory": "Pop Culture",
+    "subcategory": "Television",
+    "createdAt": 1744494000334
+  },
+  {
+    "id": "706745ca-0e7e-4883-b065-cc7a9efa0788",
+    "mainCategory": "Pop Culture",
+    "subcategory": "Video Games",
+    "createdAt": 1744494000334
+  },
+  {
+    "id": "1e6110d2-2879-4b22-b3a6-efc106f37fe1",
+    "mainCategory": "Science & Nature",
+    "subcategory": "Animals & Wildlife",
+    "createdAt": 1744494000334
+  },
+  {
+    "id": "753e91b7-f8b5-4c8c-bad8-bb40aee46617",
+    "mainCategory": "Science & Nature",
+    "subcategory": "Astronomy & Space",
+    "createdAt": 1744494000334
+  },
+  {
+    "id": "98089f1e-1190-4ed2-9d6e-1551f1f89323",
+    "mainCategory": "Science & Nature",
+    "subcategory": "Biology",
+    "createdAt": 1744494000334
+  },
+  {
+    "id": "0bb01a1c-3d33-41a3-9d2f-3ada31aaae43",
+    "mainCategory": "Science & Nature",
+    "subcategory": "Chemistry",
+    "createdAt": 1744494000334
+  },
+  {
+    "id": "ed04ff58-c5d1-44a1-add0-387d1375b35b",
+    "mainCategory": "Science & Nature",
+    "subcategory": "Physics",
+    "createdAt": 1744494000334
+  },
+  {
+    "id": "8499f36c-31d7-43dd-b53c-1fd72cc851de",
+    "mainCategory": "Science & Nature",
+    "subcategory": "Plants & Botany",
+    "createdAt": 1744494000334
+  },
+  {
+    "id": "8d95282d-616a-4dd2-9cd9-78e0d2790f9e",
+    "mainCategory": "Sports & Games",
+    "subcategory": "American/Canadian Football",
+    "createdAt": 1744494000334
+  },
+  {
+    "id": "ceb7238e-1bd1-43ad-8dcf-e128009e73e1",
+    "mainCategory": "Sports & Games",
+    "subcategory": "Baseball",
+    "createdAt": 1744494000334
+  },
+  {
+    "id": "b4068831-4c2d-4616-994c-8cd6c28976ea",
+    "mainCategory": "Sports & Games",
+    "subcategory": "Basketball",
+    "createdAt": 1744494000334
+  },
+  {
+    "id": "e4bd0247-cd46-4bfb-a487-3904986bd8aa",
+    "mainCategory": "Sports & Games",
+    "subcategory": "Boxing / Martial Arts",
+    "createdAt": 1744494000334
+  },
+  {
+    "id": "d5902b20-03df-454e-9a67-6746fa3c1260",
+    "mainCategory": "Sports & Games",
+    "subcategory": "Cricket",
+    "createdAt": 1744494000334
+  },
+  {
+    "id": "a6ad5357-fd38-4bf8-8ecb-9fb228cfbcb8",
+    "mainCategory": "Sports & Games",
+    "subcategory": "Football/Soccer",
+    "createdAt": 1744494000334
+  },
+  {
+    "id": "2e86f8f8-e02f-40c7-9517-ac09494b871d",
+    "mainCategory": "Sports & Games",
+    "subcategory": "Hockey",
+    "createdAt": 1744494000334
+  },
+  {
+    "id": "fb8e1152-b02e-4def-ac92-901b726e0da8",
+    "mainCategory": "Sports & Games",
+    "subcategory": "Olympic Games",
+    "createdAt": 1744494000334
+  },
+  {
+    "id": "70e1745d-ceb4-4a8d-9ed7-8d3a50d80704",
+    "mainCategory": "Technology",
+    "subcategory": "Computers & Internet",
+    "createdAt": 1744494000334
+  },
+  {
+    "id": "e50e2e3a-a381-4c5d-9428-710dcb50f880",
+    "mainCategory": "Technology",
+    "subcategory": "Famous Inventions",
+    "createdAt": 1744494000334
+  },
+  {
+    "id": "1cddb7d8-a5e8-435f-b1b9-cf4347cdc6d6",
+    "mainCategory": "Technology",
+    "subcategory": "Social Media",
+    "createdAt": 1744494000334
+  },
+  {
+    "id": "38485315-df3f-4f4c-ada4-b8161cf5154a",
+    "mainCategory": "Technology",
+    "subcategory": "Tech Companies",
+    "createdAt": 1744494000334
+  },
+  {
+    "id": "57216b0a-ed95-4c19-aeca-c2c2444a6ffc",
+    "mainCategory": "Technology",
+    "subcategory": "Tech History",
+    "createdAt": 1744494000334
+  }
+]
