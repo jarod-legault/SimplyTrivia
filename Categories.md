@@ -1,8 +1,5 @@
 # Trivia App Categories & Subcategories
 
-- 60 subcategories in total
-- 167 questions per subcategory would be 10,020 questions
-
 ## Pop Culture
 - Movies
 - Television
@@ -30,11 +27,8 @@
 
 ## Geography
 - Countries & Capitals
-- Landmarks & Monuments
-- Rivers, Lakes & Oceans
-- Mountains & Volcanoes
+- Bodies of Water, Mountains, & Volcanoes
 - Cities Around the World
-- Maps & Borders
 - World Cultures
 
 ## Sports & Games
