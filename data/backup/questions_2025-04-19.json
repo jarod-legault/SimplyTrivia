@@ -1,0 +1,3422 @@
+[
+  {
+    "question": "Which is the largest ocean on Earth?",
+    "correct_answer": "Pacific Ocean",
+    "incorrect_answers": [
+      "Atlantic Ocean",
+      "Indian Ocean",
+      "Arctic Ocean",
+      "Southern Ocean",
+      "Caribbean Sea",
+      "Mediterranean Sea",
+      "South China Sea"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Bodies of Water, Mountains, & Volcanoes",
+    "difficulty": "easy",
+    "id": "4ec7a691-a50c-4bae-ada0-b502ef851d5d",
+    "created_at": "2025-04-19T17:58:09.703Z",
+    "backupTimestamp": "2025-04-19T17:58:09.704Z",
+    "localBackupTimestamp": "2025-04-19T11:58:09.704Z"
+  },
+  {
+    "question": "What is the highest mountain in the world?",
+    "correct_answer": "Mount Everest",
+    "incorrect_answers": [
+      "K2",
+      "Kangchenjunga",
+      "Lhotse",
+      "Makalu",
+      "Cho Oyu",
+      "Dhaulagiri",
+      "Manaslu"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Bodies of Water, Mountains, & Volcanoes",
+    "difficulty": "easy",
+    "id": "11d4fd49-468e-4c73-a8c5-ca839909e9bd",
+    "created_at": "2025-04-19T17:58:09.706Z",
+    "backupTimestamp": "2025-04-19T17:58:09.706Z",
+    "localBackupTimestamp": "2025-04-19T11:58:09.706Z"
+  },
+  {
+    "question": "Which is the longest river in the world?",
+    "correct_answer": "Nile River",
+    "incorrect_answers": [
+      "Amazon River",
+      "Yangtze River",
+      "Mississippi River",
+      "Yellow River",
+      "Yenisei River",
+      "Congo River",
+      "Mekong River"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Bodies of Water, Mountains, & Volcanoes",
+    "difficulty": "easy",
+    "id": "af8c061f-bd02-4361-9fbd-6b5a3abc739d",
+    "created_at": "2025-04-19T17:58:09.707Z",
+    "backupTimestamp": "2025-04-19T17:58:09.708Z",
+    "localBackupTimestamp": "2025-04-19T11:58:09.708Z"
+  },
+  {
+    "question": "Which famous volcano destroyed Pompeii in 79 CE?",
+    "correct_answer": "Mount Vesuvius",
+    "incorrect_answers": [
+      "Mount Etna",
+      "Mount St. Helens",
+      "Mount Fuji",
+      "Mount Pinatubo",
+      "Krakatoa",
+      "Mount Tambora",
+      "Stromboli"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Bodies of Water, Mountains, & Volcanoes",
+    "difficulty": "easy",
+    "id": "933bb8ae-2e6a-494a-b8ce-4588132c9f4e",
+    "created_at": "2025-04-19T17:58:09.710Z",
+    "backupTimestamp": "2025-04-19T17:58:09.710Z",
+    "localBackupTimestamp": "2025-04-19T11:58:09.710Z"
+  },
+  {
+    "question": "What is the deepest lake in the world?",
+    "correct_answer": "Lake Baikal",
+    "incorrect_answers": [
+      "Caspian Sea",
+      "Lake Superior",
+      "Lake Tanganyika",
+      "Lake Victoria",
+      "Great Slave Lake",
+      "Lake Michigan",
+      "Lake Titicaca"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Bodies of Water, Mountains, & Volcanoes",
+    "difficulty": "easy",
+    "id": "54ece0f0-e36d-4789-8abd-7a6ad1d9b39b",
+    "created_at": "2025-04-19T17:58:09.711Z",
+    "backupTimestamp": "2025-04-19T17:58:09.712Z",
+    "localBackupTimestamp": "2025-04-19T11:58:09.712Z"
+  },
+  {
+    "question": "Which mountain range runs along the west coast of South America?",
+    "correct_answer": "Andes Mountains",
+    "incorrect_answers": [
+      "Rocky Mountains",
+      "Alps",
+      "Himalayas",
+      "Appalachian Mountains",
+      "Atlas Mountains",
+      "Urals",
+      "Sierra Nevada"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Bodies of Water, Mountains, & Volcanoes",
+    "difficulty": "easy",
+    "id": "db2dfa8d-0073-4e1d-af18-b4f52aeb54be",
+    "created_at": "2025-04-19T17:58:09.712Z",
+    "backupTimestamp": "2025-04-19T17:58:09.713Z",
+    "localBackupTimestamp": "2025-04-19T11:58:09.713Z"
+  },
+  {
+    "question": "Which body of water separates Europe and Africa?",
+    "correct_answer": "Mediterranean Sea",
+    "incorrect_answers": [
+      "Red Sea",
+      "Black Sea",
+      "Atlantic Ocean",
+      "Caspian Sea",
+      "Baltic Sea",
+      "Adriatic Sea",
+      "Aegean Sea"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Bodies of Water, Mountains, & Volcanoes",
+    "difficulty": "easy",
+    "id": "9833cdd4-b092-4826-bb22-c2b3e0aa11dc",
+    "created_at": "2025-04-19T17:58:09.714Z",
+    "backupTimestamp": "2025-04-19T17:58:09.715Z",
+    "localBackupTimestamp": "2025-04-19T11:58:09.715Z"
+  },
+  {
+    "question": "Which is the highest mountain in North America?",
+    "correct_answer": "Denali",
+    "incorrect_answers": [
+      "Mount Logan",
+      "Pico de Orizaba",
+      "Mount Whitney",
+      "Mount Elbert",
+      "Mount Mitchell",
+      "Mount Rainier",
+      "Mount Robson"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Bodies of Water, Mountains, & Volcanoes",
+    "difficulty": "easy",
+    "id": "b62f815f-0bc0-4fbb-8140-ee719f52189d",
+    "created_at": "2025-04-19T17:58:09.716Z",
+    "backupTimestamp": "2025-04-19T17:58:09.716Z",
+    "localBackupTimestamp": "2025-04-19T11:58:09.716Z"
+  },
+  {
+    "question": "Which river flows through the Grand Canyon?",
+    "correct_answer": "Colorado River",
+    "incorrect_answers": [
+      "Mississippi River",
+      "Rio Grande",
+      "Snake River",
+      "Columbia River",
+      "Arkansas River",
+      "Missouri River",
+      "Yellowstone River"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Bodies of Water, Mountains, & Volcanoes",
+    "difficulty": "easy",
+    "id": "e4765600-0a96-4287-b1e7-99d3946056b9",
+    "created_at": "2025-04-19T17:58:09.717Z",
+    "backupTimestamp": "2025-04-19T17:58:09.718Z",
+    "localBackupTimestamp": "2025-04-19T11:58:09.718Z"
+  },
+  {
+    "question": "What is the largest active volcano on Earth?",
+    "correct_answer": "Mauna Loa",
+    "incorrect_answers": [
+      "Mount Etna",
+      "Mount Kilimanjaro",
+      "Mount Fuji",
+      "Mount St. Helens",
+      "Mount Vesuvius",
+      "Krakatoa",
+      "Mount Tambora"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Bodies of Water, Mountains, & Volcanoes",
+    "difficulty": "easy",
+    "id": "bc8631d3-73d1-4ee0-9abf-d5930fac996d",
+    "created_at": "2025-04-19T17:58:09.719Z",
+    "backupTimestamp": "2025-04-19T17:58:09.719Z",
+    "localBackupTimestamp": "2025-04-19T11:58:09.719Z"
+  },
+  {
+    "question": "Which sea lies between Russia and Alaska?",
+    "correct_answer": "Bering Sea",
+    "incorrect_answers": [
+      "Beaufort Sea",
+      "Chukchi Sea",
+      "Laptev Sea",
+      "East Siberian Sea",
+      "Sea of Okhotsk",
+      "Barents Sea",
+      "Norwegian Sea"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Bodies of Water, Mountains, & Volcanoes",
+    "difficulty": "easy",
+    "id": "0cfc6e2b-4c56-461b-bb2d-723c24f520fc",
+    "created_at": "2025-04-19T17:58:09.720Z",
+    "backupTimestamp": "2025-04-19T17:58:09.721Z",
+    "localBackupTimestamp": "2025-04-19T11:58:09.721Z"
+  },
+  {
+    "question": "Which mountain range separates Europe and Asia?",
+    "correct_answer": "Ural Mountains",
+    "incorrect_answers": [
+      "Alps",
+      "Pyrenees",
+      "Caucasus Mountains",
+      "Carpathian Mountains",
+      "Dinaric Alps",
+      "Scandinavian Mountains",
+      "Balkan Mountains"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Bodies of Water, Mountains, & Volcanoes",
+    "difficulty": "easy",
+    "id": "030b90de-ec7e-443c-81f6-642f703bdf55",
+    "created_at": "2025-04-19T17:58:09.722Z",
+    "backupTimestamp": "2025-04-19T17:58:09.722Z",
+    "localBackupTimestamp": "2025-04-19T11:58:09.722Z"
+  },
+  {
+    "question": "Which river is the longest in Europe?",
+    "correct_answer": "Volga River",
+    "incorrect_answers": [
+      "Danube River",
+      "Rhine River",
+      "Seine River",
+      "Thames River",
+      "Elbe River",
+      "Po River",
+      "Loire River"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Bodies of Water, Mountains, & Volcanoes",
+    "difficulty": "easy",
+    "id": "3efab80e-9c67-4537-99b7-77a712c78d41",
+    "created_at": "2025-04-19T17:58:09.723Z",
+    "backupTimestamp": "2025-04-19T17:58:09.724Z",
+    "localBackupTimestamp": "2025-04-19T11:58:09.724Z"
+  },
+  {
+    "question": "Which famous volcano in Italy destroyed Pompeii?",
+    "correct_answer": "Mount Vesuvius",
+    "incorrect_answers": [
+      "Mount Etna",
+      "Stromboli",
+      "Vulcano",
+      "Monte Nuovo",
+      "Mount Epomeo",
+      "Campi Flegrei",
+      "Ischia"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Bodies of Water, Mountains, & Volcanoes",
+    "difficulty": "easy",
+    "id": "e207c76b-7afb-4903-880c-de4b0cbab0de",
+    "created_at": "2025-04-19T17:58:09.725Z",
+    "backupTimestamp": "2025-04-19T17:58:09.725Z",
+    "localBackupTimestamp": "2025-04-19T11:58:09.725Z"
+  },
+  {
+    "question": "Which lake is the largest freshwater lake by surface area?",
+    "correct_answer": "Lake Superior",
+    "incorrect_answers": [
+      "Lake Victoria",
+      "Lake Huron",
+      "Lake Michigan",
+      "Lake Tanganyika",
+      "Lake Baikal",
+      "Great Bear Lake",
+      "Lake Malawi"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Bodies of Water, Mountains, & Volcanoes",
+    "difficulty": "easy",
+    "id": "dddfaac6-2f55-4dca-b210-7215833fe36e",
+    "created_at": "2025-04-19T17:58:09.726Z",
+    "backupTimestamp": "2025-04-19T17:58:09.727Z",
+    "localBackupTimestamp": "2025-04-19T11:58:09.727Z"
+  },
+  {
+    "question": "In which mountain range would you find Mount Everest?",
+    "correct_answer": "Himalayas",
+    "incorrect_answers": [
+      "Andes",
+      "Alps",
+      "Rocky Mountains",
+      "Urals",
+      "Atlas Mountains",
+      "Appalachian Mountains",
+      "Pyrenees"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Bodies of Water, Mountains, & Volcanoes",
+    "difficulty": "easy",
+    "id": "bc4d608e-ae8e-4a04-8841-aa0c7101a54a",
+    "created_at": "2025-04-19T17:58:09.728Z",
+    "backupTimestamp": "2025-04-19T17:58:09.728Z",
+    "localBackupTimestamp": "2025-04-19T11:58:09.728Z"
+  },
+  {
+    "question": "Which river flows through Paris?",
+    "correct_answer": "Seine River",
+    "incorrect_answers": [
+      "Loire River",
+      "Rhone River",
+      "Garonne River",
+      "Thames River",
+      "Rhine River",
+      "Danube River",
+      "Po River"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Bodies of Water, Mountains, & Volcanoes",
+    "difficulty": "easy",
+    "id": "ee5542fa-900d-4f71-a2ef-8ef0469e4f2f",
+    "created_at": "2025-04-19T17:58:09.730Z",
+    "backupTimestamp": "2025-04-19T17:58:09.731Z",
+    "localBackupTimestamp": "2025-04-19T11:58:09.731Z"
+  },
+  {
+    "question": "Which volcano is located in Sicily, Italy?",
+    "correct_answer": "Mount Etna",
+    "incorrect_answers": [
+      "Mount Vesuvius",
+      "Stromboli",
+      "Vulcano",
+      "Monte Nuovo",
+      "Mount Epomeo",
+      "Campi Flegrei",
+      "Mount Marsili"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Bodies of Water, Mountains, & Volcanoes",
+    "difficulty": "easy",
+    "id": "84741e25-1a3a-4294-95b6-d2cefd3c8f20",
+    "created_at": "2025-04-19T17:58:09.732Z",
+    "backupTimestamp": "2025-04-19T17:58:09.732Z",
+    "localBackupTimestamp": "2025-04-19T11:58:09.732Z"
+  },
+  {
+    "question": "Which famous canal connects the Mediterranean and Red Seas?",
+    "correct_answer": "Suez Canal",
+    "incorrect_answers": [
+      "Panama Canal",
+      "Kiel Canal",
+      "Grand Canal",
+      "Erie Canal",
+      "Corinth Canal",
+      "Gota Canal",
+      "Welland Canal"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Bodies of Water, Mountains, & Volcanoes",
+    "difficulty": "easy",
+    "id": "05d0aa3c-1550-43a3-9312-4cdf7ee934f5",
+    "created_at": "2025-04-19T17:58:09.733Z",
+    "backupTimestamp": "2025-04-19T17:58:09.733Z",
+    "localBackupTimestamp": "2025-04-19T11:58:09.733Z"
+  },
+  {
+    "question": "Which mountain range runs through central Europe?",
+    "correct_answer": "Alps",
+    "incorrect_answers": [
+      "Pyrenees",
+      "Carpathians",
+      "Apennines",
+      "Dinaric Alps",
+      "Balkans",
+      "Scandinavian Mountains",
+      "Caucasus Mountains"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Bodies of Water, Mountains, & Volcanoes",
+    "difficulty": "easy",
+    "id": "2a07bcf0-6ee2-47c3-8480-6993a23dd7a1",
+    "created_at": "2025-04-19T17:58:09.734Z",
+    "backupTimestamp": "2025-04-19T17:58:09.734Z",
+    "localBackupTimestamp": "2025-04-19T11:58:09.734Z"
+  },
+  {
+    "question": "Which river flows through London?",
+    "correct_answer": "Thames River",
+    "incorrect_answers": [
+      "Seine River",
+      "Tiber River",
+      "Danube River",
+      "Rhine River",
+      "Mersey River",
+      "Severn River",
+      "Trent River"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Bodies of Water, Mountains, & Volcanoes",
+    "difficulty": "easy",
+    "id": "52eb8410-4f70-4fba-b9b9-255eed2fe0c2",
+    "created_at": "2025-04-19T17:58:09.735Z",
+    "backupTimestamp": "2025-04-19T17:58:09.735Z",
+    "localBackupTimestamp": "2025-04-19T11:58:09.735Z"
+  },
+  {
+    "question": "Which volcano erupted in Washington state in 1980?",
+    "correct_answer": "Mount St. Helens",
+    "incorrect_answers": [
+      "Mount Rainier",
+      "Mount Baker",
+      "Mount Adams",
+      "Mount Hood",
+      "Mount Shasta",
+      "Mount Jefferson",
+      "Glacier Peak"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Bodies of Water, Mountains, & Volcanoes",
+    "difficulty": "easy",
+    "id": "cd789d0e-3075-438a-8e75-bf4c6bd73979",
+    "created_at": "2025-04-19T17:58:09.736Z",
+    "backupTimestamp": "2025-04-19T17:58:09.736Z",
+    "localBackupTimestamp": "2025-04-19T11:58:09.736Z"
+  },
+  {
+    "question": "Which strait separates Asia from North America?",
+    "correct_answer": "Bering Strait",
+    "incorrect_answers": [
+      "Strait of Gibraltar",
+      "Strait of Malacca",
+      "English Channel",
+      "Strait of Hormuz",
+      "Bass Strait",
+      "Cook Strait",
+      "Strait of Magellan"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Bodies of Water, Mountains, & Volcanoes",
+    "difficulty": "easy",
+    "id": "6130a324-7ad5-42dd-b0cf-89034353049d",
+    "created_at": "2025-04-19T17:58:09.737Z",
+    "backupTimestamp": "2025-04-19T17:58:09.738Z",
+    "localBackupTimestamp": "2025-04-19T11:58:09.738Z"
+  },
+  {
+    "question": "What is the highest mountain in Japan?",
+    "correct_answer": "Mount Fuji",
+    "incorrect_answers": [
+      "Mount Kita",
+      "Mount Hotaka",
+      "Mount Yari",
+      "Mount Tate",
+      "Mount Asahi",
+      "Mount Poroshiri",
+      "Mount Rishiri"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Bodies of Water, Mountains, & Volcanoes",
+    "difficulty": "easy",
+    "id": "d799c1ec-a70a-42b0-a43f-a609263c3301",
+    "created_at": "2025-04-19T17:58:09.738Z",
+    "backupTimestamp": "2025-04-19T17:58:09.739Z",
+    "localBackupTimestamp": "2025-04-19T11:58:09.739Z"
+  },
+  {
+    "question": "Which river is the longest in the United States?",
+    "correct_answer": "Missouri River",
+    "incorrect_answers": [
+      "Mississippi River",
+      "Colorado River",
+      "Yukon River",
+      "Rio Grande",
+      "Arkansas River",
+      "Columbia River",
+      "Snake River"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Bodies of Water, Mountains, & Volcanoes",
+    "difficulty": "easy",
+    "id": "82c9bbce-2e78-43ce-a8fa-d2f477a7d172",
+    "created_at": "2025-04-19T17:58:09.740Z",
+    "backupTimestamp": "2025-04-19T17:58:09.740Z",
+    "localBackupTimestamp": "2025-04-19T11:58:09.740Z"
+  },
+  {
+    "question": "What is the name of the active volcano in Hawaii?",
+    "correct_answer": "Kilauea",
+    "incorrect_answers": [
+      "Mauna Loa",
+      "Mauna Kea",
+      "Hualalai",
+      "Kohala",
+      "Leahi",
+      "Kamakou",
+      "Puu Kukui"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Bodies of Water, Mountains, & Volcanoes",
+    "difficulty": "easy",
+    "id": "d9a3bb68-3fd3-4e1b-b8f6-0327f6b5e282",
+    "created_at": "2025-04-19T17:58:09.741Z",
+    "backupTimestamp": "2025-04-19T17:58:09.741Z",
+    "localBackupTimestamp": "2025-04-19T11:58:09.741Z"
+  },
+  {
+    "question": "Which body of water is located between Australia and New Zealand?",
+    "correct_answer": "Tasman Sea",
+    "incorrect_answers": [
+      "Coral Sea",
+      "Solomon Sea",
+      "Arafura Sea",
+      "Timor Sea",
+      "Bass Strait",
+      "Great Australian Bight",
+      "Gulf of Carpentaria"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Bodies of Water, Mountains, & Volcanoes",
+    "difficulty": "easy",
+    "id": "d4b5a5a9-6454-4311-9b4b-4dbba8b76e6d",
+    "created_at": "2025-04-19T17:58:09.742Z",
+    "backupTimestamp": "2025-04-19T17:58:09.742Z",
+    "localBackupTimestamp": "2025-04-19T11:58:09.742Z"
+  },
+  {
+    "question": "Which mountain range runs along the eastern coast of Australia?",
+    "correct_answer": "Great Dividing Range",
+    "incorrect_answers": [
+      "Blue Mountains",
+      "MacDonnell Ranges",
+      "Flinders Ranges",
+      "Stirling Range",
+      "Darling Range",
+      "Musgrave Ranges",
+      "Hamersley Range"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Bodies of Water, Mountains, & Volcanoes",
+    "difficulty": "easy",
+    "id": "b62492e1-163b-4f64-a9a2-644351787378",
+    "created_at": "2025-04-19T17:58:09.743Z",
+    "backupTimestamp": "2025-04-19T17:58:09.743Z",
+    "localBackupTimestamp": "2025-04-19T11:58:09.743Z"
+  },
+  {
+    "question": "Which river flows through Cairo?",
+    "correct_answer": "Nile River",
+    "incorrect_answers": [
+      "Amazon River",
+      "Mississippi River",
+      "Yangtze River",
+      "Congo River",
+      "Tigris River",
+      "Euphrates River",
+      "Indus River"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Bodies of Water, Mountains, & Volcanoes",
+    "difficulty": "easy",
+    "id": "a2844ce1-e9cd-4393-9971-54c7032f42b4",
+    "created_at": "2025-04-19T17:58:09.744Z",
+    "backupTimestamp": "2025-04-19T17:58:09.744Z",
+    "localBackupTimestamp": "2025-04-19T11:58:09.744Z"
+  },
+  {
+    "question": "Which volcano in the Philippines erupted in 1991?",
+    "correct_answer": "Mount Pinatubo",
+    "incorrect_answers": [
+      "Mount Mayon",
+      "Mount Taal",
+      "Mount Apo",
+      "Mount Kanlaon",
+      "Mount Bulusan",
+      "Mount Hibok-Hibok",
+      "Mount Kitanglad"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Bodies of Water, Mountains, & Volcanoes",
+    "difficulty": "easy",
+    "id": "62840cda-fcd2-4422-9e5e-078163214476",
+    "created_at": "2025-04-19T17:58:09.745Z",
+    "backupTimestamp": "2025-04-19T17:58:09.745Z",
+    "localBackupTimestamp": "2025-04-19T11:58:09.745Z"
+  },
+  {
+    "question": "Which river forms part of the border between the US and Mexico?",
+    "correct_answer": "Rio Grande",
+    "incorrect_answers": [
+      "Colorado River",
+      "Mississippi River",
+      "Missouri River",
+      "Columbia River",
+      "Arkansas River",
+      "Red River",
+      "Pecos River"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Bodies of Water, Mountains, & Volcanoes",
+    "difficulty": "easy",
+    "id": "fbbadbb7-4147-4abe-b7ad-2ae21780b15a",
+    "created_at": "2025-04-19T17:58:09.746Z",
+    "backupTimestamp": "2025-04-19T17:58:09.747Z",
+    "localBackupTimestamp": "2025-04-19T11:58:09.747Z"
+  },
+  {
+    "question": "What is the highest mountain in Africa?",
+    "correct_answer": "Mount Kilimanjaro",
+    "incorrect_answers": [
+      "Mount Kenya",
+      "Mount Stanley",
+      "Mount Meru",
+      "Ras Dashen",
+      "Mount Elgon",
+      "Mount Cameroon",
+      "Mount Toubkal"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Bodies of Water, Mountains, & Volcanoes",
+    "difficulty": "easy",
+    "id": "1db4f7aa-5a68-4f91-a737-63885c14b519",
+    "created_at": "2025-04-19T17:58:09.748Z",
+    "backupTimestamp": "2025-04-19T17:58:09.748Z",
+    "localBackupTimestamp": "2025-04-19T11:58:09.748Z"
+  },
+  {
+    "question": "Which lake is the largest in Africa?",
+    "correct_answer": "Lake Victoria",
+    "incorrect_answers": [
+      "Lake Tanganyika",
+      "Lake Malawi",
+      "Lake Chad",
+      "Lake Turkana",
+      "Lake Albert",
+      "Lake Kariba",
+      "Lake Nasser"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Bodies of Water, Mountains, & Volcanoes",
+    "difficulty": "easy",
+    "id": "e796f420-cba0-42ab-b716-61028928fb2c",
+    "created_at": "2025-04-19T17:58:09.749Z",
+    "backupTimestamp": "2025-04-19T17:58:09.749Z",
+    "localBackupTimestamp": "2025-04-19T11:58:09.749Z"
+  },
+  {
+    "question": "Which mountain range contains Mount Everest?",
+    "correct_answer": "Himalayas",
+    "incorrect_answers": [
+      "Karakoram Range",
+      "Hindu Kush",
+      "Pamir Mountains",
+      "Tian Shan",
+      "Kunlun Mountains",
+      "Altai Mountains",
+      "Zagros Mountains"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Bodies of Water, Mountains, & Volcanoes",
+    "difficulty": "easy",
+    "id": "67668c9c-432d-4d8b-9e19-5d9b8f9a92f9",
+    "created_at": "2025-04-19T17:58:09.750Z",
+    "backupTimestamp": "2025-04-19T17:58:09.750Z",
+    "localBackupTimestamp": "2025-04-19T11:58:09.750Z"
+  },
+  {
+    "question": "Which river is known as the cradle of Chinese civilization?",
+    "correct_answer": "Yellow River",
+    "incorrect_answers": [
+      "Yangtze River",
+      "Pearl River",
+      "Mekong River",
+      "Amur River",
+      "Yalu River",
+      "Xi River",
+      "Han River"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Bodies of Water, Mountains, & Volcanoes",
+    "difficulty": "easy",
+    "id": "dea4938a-cb12-4f79-a3f8-f692b64888e9",
+    "created_at": "2025-04-19T17:58:09.751Z",
+    "backupTimestamp": "2025-04-19T17:58:09.753Z",
+    "localBackupTimestamp": "2025-04-19T11:58:09.753Z"
+  },
+  {
+    "question": "Which volcano destroyed the Greek island of Thera (Santorini)?",
+    "correct_answer": "Thera Volcano",
+    "incorrect_answers": [
+      "Mount Etna",
+      "Mount Vesuvius",
+      "Stromboli",
+      "Mount Olympus",
+      "Methana Volcano",
+      "Milos Volcano",
+      "Nisyros Volcano"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Bodies of Water, Mountains, & Volcanoes",
+    "difficulty": "easy",
+    "id": "daa1c725-1282-4e2d-9859-9402d06be63d",
+    "created_at": "2025-04-19T17:58:09.754Z",
+    "backupTimestamp": "2025-04-19T17:58:09.754Z",
+    "localBackupTimestamp": "2025-04-19T11:58:09.754Z"
+  },
+  {
+    "question": "Which famous waterfall is located on the border of Canada and the US?",
+    "correct_answer": "Niagara Falls",
+    "incorrect_answers": [
+      "Victoria Falls",
+      "Angel Falls",
+      "Iguazu Falls",
+      "Yosemite Falls",
+      "Sutherland Falls",
+      "Kaieteur Falls",
+      "Gullfoss"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Bodies of Water, Mountains, & Volcanoes",
+    "difficulty": "easy",
+    "id": "ab6a18cb-a620-43b4-b351-a6afa929eb8c",
+    "created_at": "2025-04-19T17:58:09.755Z",
+    "backupTimestamp": "2025-04-19T17:58:09.755Z",
+    "localBackupTimestamp": "2025-04-19T11:58:09.755Z"
+  },
+  {
+    "question": "Which mountain range runs through Switzerland?",
+    "correct_answer": "Alps",
+    "incorrect_answers": [
+      "Pyrenees",
+      "Carpathians",
+      "Apennines",
+      "Jura Mountains",
+      "Vosges",
+      "Dinaric Alps",
+      "Massif Central"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Bodies of Water, Mountains, & Volcanoes",
+    "difficulty": "easy",
+    "id": "f8499cbf-5ac5-4c77-81a3-200057ea2b46",
+    "created_at": "2025-04-19T17:58:09.756Z",
+    "backupTimestamp": "2025-04-19T17:58:09.757Z",
+    "localBackupTimestamp": "2025-04-19T11:58:09.757Z"
+  },
+  {
+    "question": "Which famous volcano is located on the island of Sicily?",
+    "correct_answer": "Mount Etna",
+    "incorrect_answers": [
+      "Mount Vesuvius",
+      "Stromboli",
+      "Vulcano",
+      "Monte Nuovo",
+      "Mount Epomeo",
+      "Campi Flegrei",
+      "Ischia"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Bodies of Water, Mountains, & Volcanoes",
+    "difficulty": "easy",
+    "id": "233704f9-1b18-4bc7-ac1a-8f6e9171fb1d",
+    "created_at": "2025-04-19T17:58:09.758Z",
+    "backupTimestamp": "2025-04-19T17:58:09.758Z",
+    "localBackupTimestamp": "2025-04-19T11:58:09.758Z"
+  },
+  {
+    "question": "Which lake is the largest by volume in the world?",
+    "correct_answer": "Lake Baikal",
+    "incorrect_answers": [
+      "Caspian Sea",
+      "Lake Superior",
+      "Lake Tanganyika",
+      "Lake Michigan",
+      "Great Bear Lake",
+      "Lake Huron",
+      "Lake Victoria"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Bodies of Water, Mountains, & Volcanoes",
+    "difficulty": "easy",
+    "id": "659850ce-e8fd-4a5a-af6f-61867d972345",
+    "created_at": "2025-04-19T17:58:09.759Z",
+    "backupTimestamp": "2025-04-19T17:58:09.760Z",
+    "localBackupTimestamp": "2025-04-19T11:58:09.760Z"
+  },
+  {
+    "question": "Which mountain is the tallest in South America?",
+    "correct_answer": "Aconcagua",
+    "incorrect_answers": [
+      "Ojos del Salado",
+      "Monte Pissis",
+      "Huascaran",
+      "Llullaillaco",
+      "Chimborazo",
+      "Yerupaja",
+      "Sajama"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Bodies of Water, Mountains, & Volcanoes",
+    "difficulty": "easy",
+    "id": "b22d9516-6418-4c4f-90eb-ed7a4e948634",
+    "created_at": "2025-04-19T17:58:09.761Z",
+    "backupTimestamp": "2025-04-19T17:58:09.761Z",
+    "localBackupTimestamp": "2025-04-19T11:58:09.761Z"
+  },
+  {
+    "question": "Which river is the longest in Asia?",
+    "correct_answer": "Yangtze River",
+    "incorrect_answers": [
+      "Yellow River",
+      "Ganges River",
+      "Indus River",
+      "Mekong River",
+      "Lena River",
+      "Yenisei River",
+      "Ob River"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Bodies of Water, Mountains, & Volcanoes",
+    "difficulty": "easy",
+    "id": "f051512f-4c49-41ef-aa44-9ca373767946",
+    "created_at": "2025-04-19T17:58:09.762Z",
+    "backupTimestamp": "2025-04-19T17:58:09.763Z",
+    "localBackupTimestamp": "2025-04-19T11:58:09.763Z"
+  },
+  {
+    "question": "Which volcano erupted in 1883 and is considered one of the deadliest?",
+    "correct_answer": "Krakatoa",
+    "incorrect_answers": [
+      "Mount Tambora",
+      "Mount St. Helens",
+      "Mount Pinatubo",
+      "Mount Vesuvius",
+      "Mount Pelée",
+      "Mount Unzen",
+      "Nevado del Ruiz"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Bodies of Water, Mountains, & Volcanoes",
+    "difficulty": "easy",
+    "id": "debd2cb2-4ec2-4f6e-8c89-e1edd9761d5e",
+    "created_at": "2025-04-19T17:58:09.764Z",
+    "backupTimestamp": "2025-04-19T17:58:09.765Z",
+    "localBackupTimestamp": "2025-04-19T11:58:09.765Z"
+  },
+  {
+    "question": "Which gulf is located between Iran and the Arabian Peninsula?",
+    "correct_answer": "Persian Gulf",
+    "incorrect_answers": [
+      "Gulf of Oman",
+      "Gulf of Aden",
+      "Red Sea",
+      "Arabian Sea",
+      "Gulf of Suez",
+      "Gulf of Aqaba",
+      "Bay of Bengal"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Bodies of Water, Mountains, & Volcanoes",
+    "difficulty": "easy",
+    "id": "e2522a77-522b-462e-8d9b-e56fcf47f069",
+    "created_at": "2025-04-19T17:58:09.766Z",
+    "backupTimestamp": "2025-04-19T17:58:09.766Z",
+    "localBackupTimestamp": "2025-04-19T11:58:09.766Z"
+  },
+  {
+    "question": "Which mountain range includes Mount Blanc?",
+    "correct_answer": "Alps",
+    "incorrect_answers": [
+      "Pyrenees",
+      "Carpathians",
+      "Apennines",
+      "Dinaric Alps",
+      "Caucasus Mountains",
+      "Atlas Mountains",
+      "Urals"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Bodies of Water, Mountains, & Volcanoes",
+    "difficulty": "easy",
+    "id": "d58e228b-80cf-4eff-958f-b64fff9c6bd2",
+    "created_at": "2025-04-19T17:58:09.767Z",
+    "backupTimestamp": "2025-04-19T17:58:09.767Z",
+    "localBackupTimestamp": "2025-04-19T11:58:09.767Z"
+  },
+  {
+    "question": "Which river flows through Rome?",
+    "correct_answer": "Tiber River",
+    "incorrect_answers": [
+      "Po River",
+      "Arno River",
+      "Seine River",
+      "Thames River",
+      "Danube River",
+      "Rhine River",
+      "Loire River"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Bodies of Water, Mountains, & Volcanoes",
+    "difficulty": "easy",
+    "id": "196e4083-52e1-4b7b-8b23-1eccbd666e5f",
+    "created_at": "2025-04-19T17:58:09.769Z",
+    "backupTimestamp": "2025-04-19T17:58:09.769Z",
+    "localBackupTimestamp": "2025-04-19T11:58:09.769Z"
+  },
+  {
+    "question": "Which volcano is known as the 'Lighthouse of the Mediterranean'?",
+    "correct_answer": "Stromboli",
+    "incorrect_answers": [
+      "Mount Etna",
+      "Mount Vesuvius",
+      "Vulcano",
+      "Monte Nuovo",
+      "Mount Epomeo",
+      "Campi Flegrei",
+      "Ischia"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Bodies of Water, Mountains, & Volcanoes",
+    "difficulty": "easy",
+    "id": "d618d342-0521-401c-8683-40306804ef3f",
+    "created_at": "2025-04-19T17:58:09.770Z",
+    "backupTimestamp": "2025-04-19T17:58:09.770Z",
+    "localBackupTimestamp": "2025-04-19T11:58:09.770Z"
+  },
+  {
+    "question": "Which is the saltiest sea in the world?",
+    "correct_answer": "Dead Sea",
+    "incorrect_answers": [
+      "Red Sea",
+      "Mediterranean Sea",
+      "Black Sea",
+      "Caspian Sea",
+      "Baltic Sea",
+      "Adriatic Sea",
+      "Arabian Sea"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Bodies of Water, Mountains, & Volcanoes",
+    "difficulty": "easy",
+    "id": "4c67ea92-f33f-4aac-9b0d-cbd1e8171f50",
+    "created_at": "2025-04-19T17:58:09.771Z",
+    "backupTimestamp": "2025-04-19T17:58:09.772Z",
+    "localBackupTimestamp": "2025-04-19T11:58:09.772Z"
+  },
+  {
+    "question": "Which mountain range runs through central North America?",
+    "correct_answer": "Rocky Mountains",
+    "incorrect_answers": [
+      "Appalachian Mountains",
+      "Sierra Nevada",
+      "Cascade Range",
+      "Great Dividing Range",
+      "Coast Mountains",
+      "Brooks Range",
+      "Alaska Range"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Bodies of Water, Mountains, & Volcanoes",
+    "difficulty": "easy",
+    "id": "26c2b8a4-6433-43df-bee4-b07afe90e9db",
+    "created_at": "2025-04-19T17:58:09.773Z",
+    "backupTimestamp": "2025-04-19T17:58:09.773Z",
+    "localBackupTimestamp": "2025-04-19T11:58:09.773Z"
+  },
+  {
+    "question": "Which river delta is the largest in the world?",
+    "correct_answer": "Ganges-Brahmaputra Delta",
+    "incorrect_answers": [
+      "Nile Delta",
+      "Mississippi Delta",
+      "Amazon Delta",
+      "Yangtze Delta",
+      "Mekong Delta",
+      "Niger Delta",
+      "Danube Delta"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Bodies of Water, Mountains, & Volcanoes",
+    "difficulty": "easy",
+    "id": "42e15c20-6bb7-4d1c-9b54-6aaad4321020",
+    "created_at": "2025-04-19T17:58:09.774Z",
+    "backupTimestamp": "2025-04-19T17:58:09.775Z",
+    "localBackupTimestamp": "2025-04-19T11:58:09.775Z"
+  },
+  {
+    "question": "Which volcano in Japan is often depicted with a snowy peak?",
+    "correct_answer": "Mount Fuji",
+    "incorrect_answers": [
+      "Mount Asama",
+      "Mount Aso",
+      "Mount Ontake",
+      "Mount Sakurajima",
+      "Mount Unzen",
+      "Mount Kirishima",
+      "Mount Yotei"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Bodies of Water, Mountains, & Volcanoes",
+    "difficulty": "easy",
+    "id": "4af0e60f-dc15-4ef7-b9f8-7fe0ab5aa86e",
+    "created_at": "2025-04-19T17:58:09.776Z",
+    "backupTimestamp": "2025-04-19T17:58:09.776Z",
+    "localBackupTimestamp": "2025-04-19T11:58:09.776Z"
+  },
+  {
+    "question": "Which sea is located between Europe and Africa?",
+    "correct_answer": "Mediterranean Sea",
+    "incorrect_answers": [
+      "Black Sea",
+      "Red Sea",
+      "Baltic Sea",
+      "North Sea",
+      "Adriatic Sea",
+      "Aegean Sea",
+      "Ionian Sea"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Bodies of Water, Mountains, & Volcanoes",
+    "difficulty": "easy",
+    "id": "094a492d-66ed-446d-a6f0-f5b846b8f6ab",
+    "created_at": "2025-04-19T17:58:09.778Z",
+    "backupTimestamp": "2025-04-19T17:58:09.779Z",
+    "localBackupTimestamp": "2025-04-19T11:58:09.779Z"
+  },
+  {
+    "question": "Which mountain range spans seven countries in Europe?",
+    "correct_answer": "Alps",
+    "incorrect_answers": [
+      "Pyrenees",
+      "Carpathians",
+      "Apennines",
+      "Dinaric Alps",
+      "Balkan Mountains",
+      "Caucasus Mountains",
+      "Scandinavian Mountains"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Bodies of Water, Mountains, & Volcanoes",
+    "difficulty": "easy",
+    "id": "3f2b3c3d-ad31-416b-902f-2a08f893047f",
+    "created_at": "2025-04-19T17:58:09.780Z",
+    "backupTimestamp": "2025-04-19T17:58:09.781Z",
+    "localBackupTimestamp": "2025-04-19T11:58:09.781Z"
+  },
+  {
+    "question": "Which river flows through Budapest?",
+    "correct_answer": "Danube River",
+    "incorrect_answers": [
+      "Tisza River",
+      "Rhine River",
+      "Seine River",
+      "Thames River",
+      "Elbe River",
+      "Vistula River",
+      "Po River"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Bodies of Water, Mountains, & Volcanoes",
+    "difficulty": "easy",
+    "id": "29cbaaec-5b0e-40ff-84ab-9ab470c5857a",
+    "created_at": "2025-04-19T17:58:09.783Z",
+    "backupTimestamp": "2025-04-19T17:58:09.783Z",
+    "localBackupTimestamp": "2025-04-19T11:58:09.783Z"
+  },
+  {
+    "question": "Which volcano in Indonesia erupted in 1883?",
+    "correct_answer": "Krakatoa",
+    "incorrect_answers": [
+      "Mount Merapi",
+      "Mount Tambora",
+      "Mount Semeru",
+      "Mount Agung",
+      "Mount Rinjani",
+      "Mount Sinabung",
+      "Mount Kelud"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Bodies of Water, Mountains, & Volcanoes",
+    "difficulty": "easy",
+    "id": "0f1cfa5b-f17a-48f8-a150-cd52388edcc8",
+    "created_at": "2025-04-19T17:58:09.784Z",
+    "backupTimestamp": "2025-04-19T17:58:09.785Z",
+    "localBackupTimestamp": "2025-04-19T11:58:09.785Z"
+  },
+  {
+    "question": "Which is the largest lake in the United Kingdom?",
+    "correct_answer": "Loch Lomond",
+    "incorrect_answers": [
+      "Loch Ness",
+      "Lake Windermere",
+      "Rutland Water",
+      "Kielder Water",
+      "Ullswater",
+      "Lough Neagh",
+      "Haweswater"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Bodies of Water, Mountains, & Volcanoes",
+    "difficulty": "easy",
+    "id": "b30ce0cd-8a83-46d6-ac0b-bc6f5e9cd725",
+    "created_at": "2025-04-19T17:58:09.786Z",
+    "backupTimestamp": "2025-04-19T17:58:09.786Z",
+    "localBackupTimestamp": "2025-04-19T11:58:09.786Z"
+  },
+  {
+    "question": "Which is the highest peak in the Alps?",
+    "correct_answer": "Mont Blanc",
+    "incorrect_answers": [
+      "Monte Rosa",
+      "Matterhorn",
+      "Eiger",
+      "Jungfrau",
+      "Grossglockner",
+      "Gran Paradiso",
+      "Zugspitze"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Bodies of Water, Mountains, & Volcanoes",
+    "difficulty": "easy",
+    "id": "5d7e6c0f-6b40-4dbc-a886-b18a1a954c48",
+    "created_at": "2025-04-19T17:58:09.788Z",
+    "backupTimestamp": "2025-04-19T17:58:09.789Z",
+    "localBackupTimestamp": "2025-04-19T11:58:09.789Z"
+  },
+  {
+    "question": "Which mountain is the second highest in the world?",
+    "correct_answer": "K2",
+    "incorrect_answers": [
+      "Kangchenjunga",
+      "Lhotse",
+      "Makalu",
+      "Cho Oyu",
+      "Dhaulagiri",
+      "Manaslu",
+      "Nanga Parbat"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Bodies of Water, Mountains, & Volcanoes",
+    "difficulty": "medium",
+    "id": "f04bd978-377c-4475-a7e5-9d0a2c8ef856",
+    "created_at": "2025-04-19T18:04:48.445Z",
+    "backupTimestamp": "2025-04-19T18:04:48.447Z",
+    "localBackupTimestamp": "2025-04-19T12:04:48.447Z"
+  },
+  {
+    "question": "Which river is the second longest in the world?",
+    "correct_answer": "Amazon River",
+    "incorrect_answers": [
+      "Yangtze River",
+      "Yellow River",
+      "Mississippi River",
+      "Yenisei River",
+      "Congo River",
+      "Ob-Irtysh River",
+      "Paraná River"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Bodies of Water, Mountains, & Volcanoes",
+    "difficulty": "medium",
+    "id": "4130dba5-9f81-434f-ba26-9e5e54c4efe2",
+    "created_at": "2025-04-19T18:04:48.458Z",
+    "backupTimestamp": "2025-04-19T18:04:48.459Z",
+    "localBackupTimestamp": "2025-04-19T12:04:48.459Z"
+  },
+  {
+    "question": "What is the name of the largest glacier in Europe?",
+    "correct_answer": "Vatnajökull",
+    "incorrect_answers": [
+      "Aletsch Glacier",
+      "Jostedalsbreen",
+      "Myrdalsjökull",
+      "Novaya Zemlya",
+      "Austfonna",
+      "Svartisen",
+      "Drangajökull"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Bodies of Water, Mountains, & Volcanoes",
+    "difficulty": "medium",
+    "id": "f22a8c1d-7a11-4f19-b78b-21561d27590d",
+    "created_at": "2025-04-19T18:04:48.462Z",
+    "backupTimestamp": "2025-04-19T18:04:48.463Z",
+    "localBackupTimestamp": "2025-04-19T12:04:48.463Z"
+  },
+  {
+    "question": "Which volcano was responsible for the Year Without a Summer in 1816?",
+    "correct_answer": "Mount Tambora",
+    "incorrect_answers": [
+      "Krakatoa",
+      "Mount Vesuvius",
+      "Mount St. Helens",
+      "Mount Pinatubo",
+      "Mount Pelée",
+      "Mount Etna",
+      "Mount Fuji"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Bodies of Water, Mountains, & Volcanoes",
+    "difficulty": "medium",
+    "id": "298cf955-775b-4173-91a3-5493cebe5ebd",
+    "created_at": "2025-04-19T18:04:48.465Z",
+    "backupTimestamp": "2025-04-19T18:04:48.467Z",
+    "localBackupTimestamp": "2025-04-19T12:04:48.467Z"
+  },
+  {
+    "question": "Which sea has the highest salt content in the world?",
+    "correct_answer": "Dead Sea",
+    "incorrect_answers": [
+      "Red Sea",
+      "Mediterranean Sea",
+      "Great Salt Lake",
+      "Caspian Sea",
+      "Baltic Sea",
+      "Black Sea",
+      "Aral Sea"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Bodies of Water, Mountains, & Volcanoes",
+    "difficulty": "medium",
+    "id": "3e9d4ca4-9af9-48ed-9368-e1a5f96cd007",
+    "created_at": "2025-04-19T18:04:48.469Z",
+    "backupTimestamp": "2025-04-19T18:04:48.470Z",
+    "localBackupTimestamp": "2025-04-19T12:04:48.470Z"
+  },
+  {
+    "question": "Which strait connects the Mediterranean Sea to the Atlantic Ocean?",
+    "correct_answer": "Strait of Gibraltar",
+    "incorrect_answers": [
+      "Dardanelles",
+      "Bosporus Strait",
+      "Strait of Messina",
+      "Strait of Sicily",
+      "Strait of Otranto",
+      "Strait of Bonifacio",
+      "Strait of Dover"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Bodies of Water, Mountains, & Volcanoes",
+    "difficulty": "medium",
+    "id": "7c85e906-9498-4fe6-82e3-2a21879df9f0",
+    "created_at": "2025-04-19T18:04:48.473Z",
+    "backupTimestamp": "2025-04-19T18:04:48.474Z",
+    "localBackupTimestamp": "2025-04-19T12:04:48.474Z"
+  },
+  {
+    "question": "Which canyon is the second deepest in the world?",
+    "correct_answer": "Cotahuasi Canyon",
+    "incorrect_answers": [
+      "Grand Canyon",
+      "Colca Canyon",
+      "Yarlung Tsangpo Canyon",
+      "Fish River Canyon",
+      "Copper Canyon",
+      "Tara River Canyon",
+      "Blyde River Canyon"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Bodies of Water, Mountains, & Volcanoes",
+    "difficulty": "medium",
+    "id": "a50c0fbe-5130-41c3-9498-e6395a91453d",
+    "created_at": "2025-04-19T18:04:48.476Z",
+    "backupTimestamp": "2025-04-19T18:04:48.476Z",
+    "localBackupTimestamp": "2025-04-19T12:04:48.476Z"
+  },
+  {
+    "question": "Which lake contains the most water of any freshwater lake?",
+    "correct_answer": "Lake Baikal",
+    "incorrect_answers": [
+      "Lake Superior",
+      "Lake Tanganyika",
+      "Lake Michigan",
+      "Lake Victoria",
+      "Great Bear Lake",
+      "Lake Huron",
+      "Lake Malawi"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Bodies of Water, Mountains, & Volcanoes",
+    "difficulty": "medium",
+    "id": "e831ec46-5321-4d60-9f65-fed8d43f13c2",
+    "created_at": "2025-04-19T18:04:48.477Z",
+    "backupTimestamp": "2025-04-19T18:04:48.478Z",
+    "localBackupTimestamp": "2025-04-19T12:04:48.478Z"
+  },
+  {
+    "question": "On which mountain did Noah's Ark supposedly come to rest?",
+    "correct_answer": "Mount Ararat",
+    "incorrect_answers": [
+      "Mount Sinai",
+      "Mount Olympus",
+      "Mount Elbrus",
+      "Mount Kazbek",
+      "Mount Hermon",
+      "Mount Etna",
+      "Mount Meru"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Bodies of Water, Mountains, & Volcanoes",
+    "difficulty": "medium",
+    "id": "7315d964-5801-4add-9d49-77b99a59cf94",
+    "created_at": "2025-04-19T18:04:48.479Z",
+    "backupTimestamp": "2025-04-19T18:04:48.479Z",
+    "localBackupTimestamp": "2025-04-19T12:04:48.479Z"
+  },
+  {
+    "question": "Which river forms the largest delta in the world?",
+    "correct_answer": "Ganges-Brahmaputra",
+    "incorrect_answers": [
+      "Nile",
+      "Mississippi",
+      "Amazon",
+      "Mekong",
+      "Yangtze",
+      "Niger",
+      "Volga"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Bodies of Water, Mountains, & Volcanoes",
+    "difficulty": "medium",
+    "id": "fece7b7f-dad9-473d-a13d-e3410e67b5cf",
+    "created_at": "2025-04-19T18:04:48.480Z",
+    "backupTimestamp": "2025-04-19T18:04:48.481Z",
+    "localBackupTimestamp": "2025-04-19T12:04:48.481Z"
+  },
+  {
+    "question": "Which volcano had the largest eruption in the 20th century?",
+    "correct_answer": "Mount Novarupta",
+    "incorrect_answers": [
+      "Mount Pinatubo",
+      "Mount St. Helens",
+      "Mount Vesuvius",
+      "Krakatoa",
+      "Mount Pelée",
+      "Mount Tambora",
+      "Mount Katmai"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Bodies of Water, Mountains, & Volcanoes",
+    "difficulty": "medium",
+    "id": "ce8752e2-4693-4d3c-bd34-d20e9df6c4ae",
+    "created_at": "2025-04-19T18:04:48.482Z",
+    "backupTimestamp": "2025-04-19T18:04:48.482Z",
+    "localBackupTimestamp": "2025-04-19T12:04:48.482Z"
+  },
+  {
+    "question": "Which strait separates Europe and Africa?",
+    "correct_answer": "Strait of Gibraltar",
+    "incorrect_answers": [
+      "Strait of Messina",
+      "Dardanelles",
+      "Bosporus Strait",
+      "Strait of Dover",
+      "Strait of Otranto",
+      "Strait of Sicily",
+      "Strait of Hormuz"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Bodies of Water, Mountains, & Volcanoes",
+    "difficulty": "medium",
+    "id": "41dd8925-79ce-41c6-8c99-89ed795cf3ca",
+    "created_at": "2025-04-19T18:04:48.483Z",
+    "backupTimestamp": "2025-04-19T18:04:48.483Z",
+    "localBackupTimestamp": "2025-04-19T12:04:48.483Z"
+  },
+  {
+    "question": "Which is the deepest point in the Earth's oceans?",
+    "correct_answer": "Challenger Deep",
+    "incorrect_answers": [
+      "Mariana Trench",
+      "Tonga Trench",
+      "Philippine Trench",
+      "Puerto Rico Trench",
+      "Japan Trench",
+      "South Sandwich Trench",
+      "Diamantina Trench"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Bodies of Water, Mountains, & Volcanoes",
+    "difficulty": "medium",
+    "id": "f75e6e56-b5fd-48d3-80e4-1ae6c43f71a4",
+    "created_at": "2025-04-19T18:04:48.484Z",
+    "backupTimestamp": "2025-04-19T18:04:48.485Z",
+    "localBackupTimestamp": "2025-04-19T12:04:48.485Z"
+  },
+  {
+    "question": "Which is the tallest waterfall in Europe?",
+    "correct_answer": "Vinnufossen",
+    "incorrect_answers": [
+      "Krimml Falls",
+      "Gavarnie Falls",
+      "Mardalsfossen",
+      "Rhine Falls",
+      "Plitvice Falls",
+      "Dettifoss",
+      "Skógafoss"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Bodies of Water, Mountains, & Volcanoes",
+    "difficulty": "medium",
+    "id": "bbc623c4-a069-49e1-bb3c-39dd51746dd2",
+    "created_at": "2025-04-19T18:04:48.486Z",
+    "backupTimestamp": "2025-04-19T18:04:48.488Z",
+    "localBackupTimestamp": "2025-04-19T12:04:48.488Z"
+  },
+  {
+    "question": "Which river flows through the most countries in the world?",
+    "correct_answer": "Danube River",
+    "incorrect_answers": [
+      "Nile River",
+      "Rhine River",
+      "Amazon River",
+      "Congo River",
+      "Niger River",
+      "Zambezi River",
+      "Mekong River"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Bodies of Water, Mountains, & Volcanoes",
+    "difficulty": "medium",
+    "id": "9ca2bcd4-b198-441e-9113-6598b8929ea3",
+    "created_at": "2025-04-19T18:04:48.489Z",
+    "backupTimestamp": "2025-04-19T18:04:48.489Z",
+    "localBackupTimestamp": "2025-04-19T12:04:48.489Z"
+  },
+  {
+    "question": "In which mountain range is Mount Aconcagua located?",
+    "correct_answer": "Andes",
+    "incorrect_answers": [
+      "Rocky Mountains",
+      "Himalayas",
+      "Alps",
+      "Atlas Mountains",
+      "Pyrenees",
+      "Carpathian Mountains",
+      "Appalachian Mountains"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Bodies of Water, Mountains, & Volcanoes",
+    "difficulty": "medium",
+    "id": "3b6526c9-d5ac-40ec-b694-8e4bd3a90c16",
+    "created_at": "2025-04-19T18:04:48.491Z",
+    "backupTimestamp": "2025-04-19T18:04:48.491Z",
+    "localBackupTimestamp": "2025-04-19T12:04:48.491Z"
+  },
+  {
+    "question": "Which is the largest hot desert in the world?",
+    "correct_answer": "Sahara Desert",
+    "incorrect_answers": [
+      "Arabian Desert",
+      "Gobi Desert",
+      "Kalahari Desert",
+      "Great Victoria Desert",
+      "Patagonian Desert",
+      "Syrian Desert",
+      "Great Basin Desert"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Bodies of Water, Mountains, & Volcanoes",
+    "difficulty": "medium",
+    "id": "5cf2f5d4-5810-45b8-a922-fe0445ffb0ab",
+    "created_at": "2025-04-19T18:04:48.492Z",
+    "backupTimestamp": "2025-04-19T18:04:48.492Z",
+    "localBackupTimestamp": "2025-04-19T12:04:48.492Z"
+  },
+  {
+    "question": "What is the deepest lake in the United States?",
+    "correct_answer": "Crater Lake",
+    "incorrect_answers": [
+      "Lake Tahoe",
+      "Lake Chelan",
+      "Lake Superior",
+      "Lake Michigan",
+      "Great Slave Lake",
+      "Flathead Lake",
+      "Lake Pend Oreille"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Bodies of Water, Mountains, & Volcanoes",
+    "difficulty": "medium",
+    "id": "22213e59-5555-4198-bee7-cdeca2d6a8d1",
+    "created_at": "2025-04-19T18:04:48.494Z",
+    "backupTimestamp": "2025-04-19T18:04:48.494Z",
+    "localBackupTimestamp": "2025-04-19T12:04:48.494Z"
+  },
+  {
+    "question": "Which volcano is known as the 'Throat of Fire'?",
+    "correct_answer": "Tungurahua",
+    "incorrect_answers": [
+      "Cotopaxi",
+      "Kilauea",
+      "Mount Etna",
+      "Popocatepetl",
+      "Eyjafjallajökull",
+      "Sangay",
+      "Fuego"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Bodies of Water, Mountains, & Volcanoes",
+    "difficulty": "medium",
+    "id": "9ee1211c-6e46-4d1b-b0d3-2db2ac31f001",
+    "created_at": "2025-04-19T18:04:48.495Z",
+    "backupTimestamp": "2025-04-19T18:04:48.495Z",
+    "localBackupTimestamp": "2025-04-19T12:04:48.495Z"
+  },
+  {
+    "question": "Which bay is the largest in the world?",
+    "correct_answer": "Bay of Bengal",
+    "incorrect_answers": [
+      "Hudson Bay",
+      "Chesapeake Bay",
+      "Gulf of Mexico",
+      "Gulf of Carpentaria",
+      "Persian Gulf",
+      "Gulf of Guinea",
+      "Gulf of Thailand"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Bodies of Water, Mountains, & Volcanoes",
+    "difficulty": "medium",
+    "id": "37302d71-9ec1-47c7-9413-5608f66436d4",
+    "created_at": "2025-04-19T18:04:48.496Z",
+    "backupTimestamp": "2025-04-19T18:04:48.497Z",
+    "localBackupTimestamp": "2025-04-19T12:04:48.497Z"
+  },
+  {
+    "question": "Which mountain is considered the world's most dangerous to climb?",
+    "correct_answer": "Annapurna",
+    "incorrect_answers": [
+      "K2",
+      "Mount Everest",
+      "Nanga Parbat",
+      "Kangchenjunga",
+      "Matterhorn",
+      "Denali",
+      "Mount Eiger"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Bodies of Water, Mountains, & Volcanoes",
+    "difficulty": "medium",
+    "id": "a9f04e92-5b43-4aa8-b942-1d59d7923c69",
+    "created_at": "2025-04-19T18:04:48.498Z",
+    "backupTimestamp": "2025-04-19T18:04:48.498Z",
+    "localBackupTimestamp": "2025-04-19T12:04:48.498Z"
+  },
+  {
+    "question": "Which river is the longest in Western Europe?",
+    "correct_answer": "Rhine River",
+    "incorrect_answers": [
+      "Danube River",
+      "Loire River",
+      "Seine River",
+      "Thames River",
+      "Elbe River",
+      "Po River",
+      "Tagus River"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Bodies of Water, Mountains, & Volcanoes",
+    "difficulty": "medium",
+    "id": "aecfad52-e9b9-4751-80d8-fbe7f0d1a833",
+    "created_at": "2025-04-19T18:04:48.500Z",
+    "backupTimestamp": "2025-04-19T18:04:48.501Z",
+    "localBackupTimestamp": "2025-04-19T12:04:48.501Z"
+  },
+  {
+    "question": "Which Japanese volcano last erupted in 1707?",
+    "correct_answer": "Mount Fuji",
+    "incorrect_answers": [
+      "Mount Aso",
+      "Mount Asama",
+      "Mount Sakurajima",
+      "Mount Unzen",
+      "Mount Ontake",
+      "Mount Kirishima",
+      "Mount Bandai"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Bodies of Water, Mountains, & Volcanoes",
+    "difficulty": "medium",
+    "id": "2502ec68-ec80-4c88-bff1-e9350ff68832",
+    "created_at": "2025-04-19T18:04:48.502Z",
+    "backupTimestamp": "2025-04-19T18:04:48.503Z",
+    "localBackupTimestamp": "2025-04-19T12:04:48.503Z"
+  },
+  {
+    "question": "Which is the only active volcano on mainland Europe?",
+    "correct_answer": "Mount Vesuvius",
+    "incorrect_answers": [
+      "Mount Etna",
+      "Stromboli",
+      "Vulcano",
+      "Mount Olympus",
+      "Monte Nuovo",
+      "Campi Flegrei",
+      "Monte Epomeo"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Bodies of Water, Mountains, & Volcanoes",
+    "difficulty": "medium",
+    "id": "48a328e9-7c3c-4aed-9b68-a753ef025e43",
+    "created_at": "2025-04-19T18:04:48.504Z",
+    "backupTimestamp": "2025-04-19T18:04:48.505Z",
+    "localBackupTimestamp": "2025-04-19T12:04:48.505Z"
+  },
+  {
+    "question": "Which lake is home to the highest navigable body of water?",
+    "correct_answer": "Lake Titicaca",
+    "incorrect_answers": [
+      "Lake Victoria",
+      "Lake Tanganyika",
+      "Lake Baikal",
+      "Great Bear Lake",
+      "Lake Superior",
+      "Lake Issyk-Kul",
+      "Lake Poopó"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Bodies of Water, Mountains, & Volcanoes",
+    "difficulty": "medium",
+    "id": "f8fb466c-fd39-4a77-ad18-ab430a8100b2",
+    "created_at": "2025-04-19T18:04:48.507Z",
+    "backupTimestamp": "2025-04-19T18:04:48.509Z",
+    "localBackupTimestamp": "2025-04-19T12:04:48.509Z"
+  },
+  {
+    "question": "Which mountain peak is farthest from the Earth's center?",
+    "correct_answer": "Chimborazo",
+    "incorrect_answers": [
+      "Mount Everest",
+      "Mount Kilimanjaro",
+      "K2",
+      "Mount McKinley",
+      "Mount Aconcagua",
+      "Mount Elbrus",
+      "Puncak Jaya"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Bodies of Water, Mountains, & Volcanoes",
+    "difficulty": "medium",
+    "id": "ba2e0786-1711-4b6b-9b0a-1900bfa351cf",
+    "created_at": "2025-04-19T18:04:48.510Z",
+    "backupTimestamp": "2025-04-19T18:04:48.511Z",
+    "localBackupTimestamp": "2025-04-19T12:04:48.511Z"
+  },
+  {
+    "question": "Which sea is the coldest in the world?",
+    "correct_answer": "East Siberian Sea",
+    "incorrect_answers": [
+      "Barents Sea",
+      "Kara Sea",
+      "Laptev Sea",
+      "Chukchi Sea",
+      "Beaufort Sea",
+      "Greenland Sea",
+      "Bering Sea"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Bodies of Water, Mountains, & Volcanoes",
+    "difficulty": "medium",
+    "id": "a1f6994e-dbe7-4994-83d9-db597108232a",
+    "created_at": "2025-04-19T18:04:48.512Z",
+    "backupTimestamp": "2025-04-19T18:04:48.513Z",
+    "localBackupTimestamp": "2025-04-19T12:04:48.513Z"
+  },
+  {
+    "question": "Which continental mountain range is the longest in the world?",
+    "correct_answer": "Andes",
+    "incorrect_answers": [
+      "Rocky Mountains",
+      "Himalayas",
+      "Great Dividing Range",
+      "Transantarctic Mountains",
+      "Atlas Mountains",
+      "Ural Mountains",
+      "Appalachian Mountains"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Bodies of Water, Mountains, & Volcanoes",
+    "difficulty": "medium",
+    "id": "1c255066-4286-4252-96b1-1ebf8a6c899f",
+    "created_at": "2025-04-19T18:04:48.514Z",
+    "backupTimestamp": "2025-04-19T18:04:48.514Z",
+    "localBackupTimestamp": "2025-04-19T12:04:48.514Z"
+  },
+  {
+    "question": "Which is the only river flowing out of Lake Titicaca?",
+    "correct_answer": "Desaguadero River",
+    "incorrect_answers": [
+      "Amazon River",
+      "Ucayali River",
+      "Madeira River",
+      "Pilcomayo River",
+      "Beni River",
+      "Putumayo River",
+      "Marañón River"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Bodies of Water, Mountains, & Volcanoes",
+    "difficulty": "medium",
+    "id": "caf8c31b-9cf9-4c14-bfbb-9f0d311a9860",
+    "created_at": "2025-04-19T18:04:48.516Z",
+    "backupTimestamp": "2025-04-19T18:04:48.516Z",
+    "localBackupTimestamp": "2025-04-19T12:04:48.516Z"
+  },
+  {
+    "question": "Which volcanic eruption was the loudest sound in recorded history?",
+    "correct_answer": "Krakatoa",
+    "incorrect_answers": [
+      "Mount Tambora",
+      "Mount St. Helens",
+      "Mount Pinatubo",
+      "Mount Vesuvius",
+      "Mount Pelée",
+      "Mount Etna",
+      "Laki"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Bodies of Water, Mountains, & Volcanoes",
+    "difficulty": "medium",
+    "id": "2993a6ff-4133-4bae-be32-8f50c4f60b01",
+    "created_at": "2025-04-19T18:04:48.517Z",
+    "backupTimestamp": "2025-04-19T18:04:48.518Z",
+    "localBackupTimestamp": "2025-04-19T12:04:48.518Z"
+  },
+  {
+    "question": "Which is the largest freshwater lake in Southeast Asia?",
+    "correct_answer": "Tonle Sap",
+    "incorrect_answers": [
+      "Laguna de Bay",
+      "Lake Toba",
+      "Inle Lake",
+      "Qinghai Lake",
+      "Lake Lanao",
+      "Tai Hu",
+      "Poyang Lake"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Bodies of Water, Mountains, & Volcanoes",
+    "difficulty": "medium",
+    "id": "8943e498-a7f4-4c6a-8ed5-66d5b871237a",
+    "created_at": "2025-04-19T18:04:48.519Z",
+    "backupTimestamp": "2025-04-19T18:04:48.519Z",
+    "localBackupTimestamp": "2025-04-19T12:04:48.519Z"
+  },
+  {
+    "question": "Which mountain in Australia is the tallest?",
+    "correct_answer": "Mount Kosciuszko",
+    "incorrect_answers": [
+      "Mount Townsend",
+      "Mount Twynam",
+      "Mount Bogong",
+      "Mount Bartle Frere",
+      "Mount Ossa",
+      "Mount Zeil",
+      "Mount Meharry"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Bodies of Water, Mountains, & Volcanoes",
+    "difficulty": "medium",
+    "id": "f8c6a036-9481-49b5-a681-96d57e901a52",
+    "created_at": "2025-04-19T18:04:48.520Z",
+    "backupTimestamp": "2025-04-19T18:04:48.521Z",
+    "localBackupTimestamp": "2025-04-19T12:04:48.521Z"
+  },
+  {
+    "question": "Which river forms part of the border between China and Russia?",
+    "correct_answer": "Amur River",
+    "incorrect_answers": [
+      "Yalu River",
+      "Ussuri River",
+      "Yellow River",
+      "Yangtze River",
+      "Songhua River",
+      "Mekong River",
+      "Irtysh River"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Bodies of Water, Mountains, & Volcanoes",
+    "difficulty": "medium",
+    "id": "7e5d3c3b-48df-4e43-a4d9-c65937f45264",
+    "created_at": "2025-04-19T18:04:48.522Z",
+    "backupTimestamp": "2025-04-19T18:04:48.522Z",
+    "localBackupTimestamp": "2025-04-19T12:04:48.522Z"
+  },
+  {
+    "question": "Which volcano caused a tsunami that killed 36,000 in 1883?",
+    "correct_answer": "Krakatoa",
+    "incorrect_answers": [
+      "Mount Tambora",
+      "Mount Pelée",
+      "Mount St. Helens",
+      "Mount Pinatubo",
+      "Mount Vesuvius",
+      "Mount Unzen",
+      "Nevado del Ruiz"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Bodies of Water, Mountains, & Volcanoes",
+    "difficulty": "medium",
+    "id": "93b99dfd-a635-4fb0-9800-5f1a2997c0af",
+    "created_at": "2025-04-19T18:04:48.523Z",
+    "backupTimestamp": "2025-04-19T18:04:48.524Z",
+    "localBackupTimestamp": "2025-04-19T12:04:48.524Z"
+  },
+  {
+    "question": "Which body of water is the world's largest inland sea?",
+    "correct_answer": "Caspian Sea",
+    "incorrect_answers": [
+      "Black Sea",
+      "Mediterranean Sea",
+      "Red Sea",
+      "Dead Sea",
+      "Aral Sea",
+      "Baltic Sea",
+      "Sea of Galilee"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Bodies of Water, Mountains, & Volcanoes",
+    "difficulty": "medium",
+    "id": "8edd64b4-5ffb-472e-a8a5-d5f89b7064cb",
+    "created_at": "2025-04-19T18:04:48.525Z",
+    "backupTimestamp": "2025-04-19T18:04:48.527Z",
+    "localBackupTimestamp": "2025-04-19T12:04:48.527Z"
+  },
+  {
+    "question": "Which is the highest mountain entirely within Switzerland?",
+    "correct_answer": "Dufourspitze",
+    "incorrect_answers": [
+      "Matterhorn",
+      "Jungfrau",
+      "Eiger",
+      "Finsteraarhorn",
+      "Grand Combin",
+      "Weisshorn",
+      "Mönch"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Bodies of Water, Mountains, & Volcanoes",
+    "difficulty": "medium",
+    "id": "69f72035-223d-4289-8acf-1d0837f3b96b",
+    "created_at": "2025-04-19T18:04:48.528Z",
+    "backupTimestamp": "2025-04-19T18:04:48.529Z",
+    "localBackupTimestamp": "2025-04-19T12:04:48.529Z"
+  },
+  {
+    "question": "Which river is considered the cradle of ancient Egyptian civilization?",
+    "correct_answer": "Nile River",
+    "incorrect_answers": [
+      "Amazon River",
+      "Yangtze River",
+      "Mississippi River",
+      "Tigris River",
+      "Euphrates River",
+      "Indus River",
+      "Yellow River"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Bodies of Water, Mountains, & Volcanoes",
+    "difficulty": "medium",
+    "id": "841e08d6-6313-4bfb-a9b4-8c6208dd1726",
+    "created_at": "2025-04-19T18:04:48.530Z",
+    "backupTimestamp": "2025-04-19T18:04:48.531Z",
+    "localBackupTimestamp": "2025-04-19T12:04:48.531Z"
+  },
+  {
+    "question": "Which volcano has erupted more than 50 times since 1776?",
+    "correct_answer": "Mount Etna",
+    "incorrect_answers": [
+      "Mount Vesuvius",
+      "Mount St. Helens",
+      "Mount Fuji",
+      "Mount Pinatubo",
+      "Krakatoa",
+      "Mount Tambora",
+      "Stromboli"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Bodies of Water, Mountains, & Volcanoes",
+    "difficulty": "medium",
+    "id": "8cee12b1-ee57-4840-8ea6-fecca84dce68",
+    "created_at": "2025-04-19T18:04:48.532Z",
+    "backupTimestamp": "2025-04-19T18:04:48.532Z",
+    "localBackupTimestamp": "2025-04-19T12:04:48.532Z"
+  },
+  {
+    "question": "Which strait connects the Black Sea and the Sea of Marmara?",
+    "correct_answer": "Bosphorus Strait",
+    "incorrect_answers": [
+      "Dardanelles",
+      "Strait of Gibraltar",
+      "Strait of Messina",
+      "Strait of Kerch",
+      "Strait of Otranto",
+      "Strait of Sicily",
+      "Strait of Dover"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Bodies of Water, Mountains, & Volcanoes",
+    "difficulty": "medium",
+    "id": "e37c59bb-6a33-4414-9165-b20b85b163ae",
+    "created_at": "2025-04-19T18:04:48.533Z",
+    "backupTimestamp": "2025-04-19T18:04:48.533Z",
+    "localBackupTimestamp": "2025-04-19T12:04:48.533Z"
+  },
+  {
+    "question": "Which African lake is the world's second largest freshwater lake?",
+    "correct_answer": "Lake Victoria",
+    "incorrect_answers": [
+      "Lake Tanganyika",
+      "Lake Malawi",
+      "Lake Chad",
+      "Lake Turkana",
+      "Lake Albert",
+      "Lake Kariba",
+      "Lake Volta"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Bodies of Water, Mountains, & Volcanoes",
+    "difficulty": "medium",
+    "id": "5171543f-992f-4351-ac25-916b1de85334",
+    "created_at": "2025-04-19T18:04:48.535Z",
+    "backupTimestamp": "2025-04-19T18:04:48.535Z",
+    "localBackupTimestamp": "2025-04-19T12:04:48.535Z"
+  },
+  {
+    "question": "Which mountain has the highest prominence in the world?",
+    "correct_answer": "Mount Everest",
+    "incorrect_answers": [
+      "K2",
+      "Aconcagua",
+      "Denali",
+      "Mount Kilimanjaro",
+      "Mount McKinley",
+      "Mont Blanc",
+      "Chimborazo"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Bodies of Water, Mountains, & Volcanoes",
+    "difficulty": "medium",
+    "id": "b0f68434-dbb6-456a-9aaa-e92cbc6bc000",
+    "created_at": "2025-04-19T18:04:48.536Z",
+    "backupTimestamp": "2025-04-19T18:04:48.536Z",
+    "localBackupTimestamp": "2025-04-19T12:04:48.536Z"
+  },
+  {
+    "question": "Which river system has the largest drainage basin in the world?",
+    "correct_answer": "Amazon River",
+    "incorrect_answers": [
+      "Mississippi River",
+      "Nile River",
+      "Congo River",
+      "Yangtze River",
+      "Yenisei River",
+      "Paraná River",
+      "Ganges River"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Bodies of Water, Mountains, & Volcanoes",
+    "difficulty": "medium",
+    "id": "69839f56-c54c-4a1d-87e0-6ae86d175a26",
+    "created_at": "2025-04-19T18:04:48.537Z",
+    "backupTimestamp": "2025-04-19T18:04:48.538Z",
+    "localBackupTimestamp": "2025-04-19T12:04:48.538Z"
+  },
+  {
+    "question": "Which volcano is nicknamed 'The Lighthouse of the Mediterranean'?",
+    "correct_answer": "Stromboli",
+    "incorrect_answers": [
+      "Mount Etna",
+      "Mount Vesuvius",
+      "Vulcano",
+      "Monte Nuovo",
+      "Mount Epomeo",
+      "Campi Flegrei",
+      "Ischia"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Bodies of Water, Mountains, & Volcanoes",
+    "difficulty": "medium",
+    "id": "c402752d-6164-4fe8-bc1c-e322504f2440",
+    "created_at": "2025-04-19T18:04:48.538Z",
+    "backupTimestamp": "2025-04-19T18:04:48.539Z",
+    "localBackupTimestamp": "2025-04-19T12:04:48.539Z"
+  },
+  {
+    "question": "Which body of water separates Saudi Arabia from Africa?",
+    "correct_answer": "Red Sea",
+    "incorrect_answers": [
+      "Persian Gulf",
+      "Arabian Sea",
+      "Gulf of Aden",
+      "Gulf of Oman",
+      "Mediterranean Sea",
+      "Gulf of Suez",
+      "Gulf of Aqaba"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Bodies of Water, Mountains, & Volcanoes",
+    "difficulty": "medium",
+    "id": "63a29966-7026-40e2-98e7-1d82654c4414",
+    "created_at": "2025-04-19T18:04:48.540Z",
+    "backupTimestamp": "2025-04-19T18:04:48.541Z",
+    "localBackupTimestamp": "2025-04-19T12:04:48.541Z"
+  },
+  {
+    "question": "Which mountain is known as the 'Savage Mountain'?",
+    "correct_answer": "K2",
+    "incorrect_answers": [
+      "Mount Everest",
+      "Annapurna",
+      "Nanga Parbat",
+      "Kangchenjunga",
+      "Makalu",
+      "Dhaulagiri",
+      "Manaslu"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Bodies of Water, Mountains, & Volcanoes",
+    "difficulty": "medium",
+    "id": "e4686de9-2330-4e87-84ff-63b740ed8948",
+    "created_at": "2025-04-19T18:04:48.542Z",
+    "backupTimestamp": "2025-04-19T18:04:48.542Z",
+    "localBackupTimestamp": "2025-04-19T12:04:48.542Z"
+  },
+  {
+    "question": "Which river is the third longest in Africa?",
+    "correct_answer": "Niger River",
+    "incorrect_answers": [
+      "Nile River",
+      "Congo River",
+      "Zambezi River",
+      "Orange River",
+      "Limpopo River",
+      "Senegal River",
+      "Volta River"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Bodies of Water, Mountains, & Volcanoes",
+    "difficulty": "medium",
+    "id": "ddf9cdff-7dfd-4397-8844-4b636b7ac5d5",
+    "created_at": "2025-04-19T18:04:48.543Z",
+    "backupTimestamp": "2025-04-19T18:04:48.543Z",
+    "localBackupTimestamp": "2025-04-19T12:04:48.543Z"
+  },
+  {
+    "question": "Which volcano produces the most fluid lava in the world?",
+    "correct_answer": "Kilauea",
+    "incorrect_answers": [
+      "Mauna Loa",
+      "Mount Etna",
+      "Mount Fuji",
+      "Mount Vesuvius",
+      "Stromboli",
+      "Mount Pelée",
+      "Krakatoa"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Bodies of Water, Mountains, & Volcanoes",
+    "difficulty": "medium",
+    "id": "0b92d649-737f-42e4-9bd5-1d25824dbb5e",
+    "created_at": "2025-04-19T18:04:48.544Z",
+    "backupTimestamp": "2025-04-19T18:04:48.545Z",
+    "localBackupTimestamp": "2025-04-19T12:04:48.545Z"
+  },
+  {
+    "question": "Which is the second longest river in Europe?",
+    "correct_answer": "Danube River",
+    "incorrect_answers": [
+      "Volga River",
+      "Dnieper River",
+      "Don River",
+      "Rhine River",
+      "Elbe River",
+      "Loire River",
+      "Tagus River"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Bodies of Water, Mountains, & Volcanoes",
+    "difficulty": "medium",
+    "id": "35e6b1f6-e3d1-4529-a561-09f32b3fd13a",
+    "created_at": "2025-04-19T18:04:48.546Z",
+    "backupTimestamp": "2025-04-19T18:04:48.546Z",
+    "localBackupTimestamp": "2025-04-19T12:04:48.546Z"
+  },
+  {
+    "question": "Which mountain range is home to the Matterhorn?",
+    "correct_answer": "Alps",
+    "incorrect_answers": [
+      "Pyrenees",
+      "Caucasus Mountains",
+      "Carpathian Mountains",
+      "Dinaric Alps",
+      "Apennines",
+      "Sierra Nevada",
+      "Ural Mountains"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Bodies of Water, Mountains, & Volcanoes",
+    "difficulty": "medium",
+    "id": "071d659f-ecbb-4748-aab0-7749f95b3c34",
+    "created_at": "2025-04-19T18:04:48.547Z",
+    "backupTimestamp": "2025-04-19T18:04:48.547Z",
+    "localBackupTimestamp": "2025-04-19T12:04:48.547Z"
+  },
+  {
+    "question": "Which river basin covers around 40% of South America?",
+    "correct_answer": "Amazon River Basin",
+    "incorrect_answers": [
+      "Paraná River Basin",
+      "Orinoco River Basin",
+      "São Francisco River Basin",
+      "Magdalena River Basin",
+      "Uruguay River Basin",
+      "Tocantins River Basin",
+      "Rio Negro Basin"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Bodies of Water, Mountains, & Volcanoes",
+    "difficulty": "medium",
+    "id": "f443fad1-16f8-4346-a68d-bb65f20362d0",
+    "created_at": "2025-04-19T18:04:48.548Z",
+    "backupTimestamp": "2025-04-19T18:04:48.549Z",
+    "localBackupTimestamp": "2025-04-19T12:04:48.549Z"
+  },
+  {
+    "question": "Which volcano killed 23,000 people in Colombia in 1985?",
+    "correct_answer": "Nevado del Ruiz",
+    "incorrect_answers": [
+      "Galeras",
+      "Nevado del Huila",
+      "Puracé",
+      "Cumbal",
+      "Doña Juana",
+      "Azufral",
+      "Cerro Machín"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Bodies of Water, Mountains, & Volcanoes",
+    "difficulty": "medium",
+    "id": "9801ac3f-1f63-43f7-846f-4ddfe9677323",
+    "created_at": "2025-04-19T18:04:48.550Z",
+    "backupTimestamp": "2025-04-19T18:04:48.550Z",
+    "localBackupTimestamp": "2025-04-19T12:04:48.550Z"
+  },
+  {
+    "question": "Which sea is the world's largest inland body of water?",
+    "correct_answer": "Caspian Sea",
+    "incorrect_answers": [
+      "Mediterranean Sea",
+      "Black Sea",
+      "Red Sea",
+      "Baltic Sea",
+      "Sea of Japan",
+      "Aral Sea",
+      "Dead Sea"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Bodies of Water, Mountains, & Volcanoes",
+    "difficulty": "medium",
+    "id": "a51ac506-15ae-4bf5-9d0a-b96a7b054926",
+    "created_at": "2025-04-19T18:04:48.551Z",
+    "backupTimestamp": "2025-04-19T18:04:48.551Z",
+    "localBackupTimestamp": "2025-04-19T12:04:48.551Z"
+  },
+  {
+    "question": "Which is the highest unclimbed mountain in the world?",
+    "correct_answer": "Gangkhar Puensum",
+    "incorrect_answers": [
+      "Muchu Chhish",
+      "Kabru North",
+      "Labuche Kang III",
+      "Karjiang South",
+      "Tongshanjiabu",
+      "Zemu Peak",
+      "Saser Kangri II East"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Bodies of Water, Mountains, & Volcanoes",
+    "difficulty": "medium",
+    "id": "e126d325-af30-4b0b-8e2f-46194f8751e5",
+    "created_at": "2025-04-19T18:04:48.552Z",
+    "backupTimestamp": "2025-04-19T18:04:48.552Z",
+    "localBackupTimestamp": "2025-04-19T12:04:48.552Z"
+  },
+  {
+    "question": "Which river is the primary outflow from Lake Victoria?",
+    "correct_answer": "White Nile",
+    "incorrect_answers": [
+      "Blue Nile",
+      "Kagera River",
+      "Nile River",
+      "Congo River",
+      "Niger River",
+      "Zambezi River",
+      "Rufiji River"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Bodies of Water, Mountains, & Volcanoes",
+    "difficulty": "medium",
+    "id": "6db3c77a-13df-48e8-a5d0-c6f62bbaef27",
+    "created_at": "2025-04-19T18:04:48.554Z",
+    "backupTimestamp": "2025-04-19T18:04:48.554Z",
+    "localBackupTimestamp": "2025-04-19T12:04:48.554Z"
+  },
+  {
+    "question": "Which volcano in Italy has been active for the past 2000 years?",
+    "correct_answer": "Mount Etna",
+    "incorrect_answers": [
+      "Mount Vesuvius",
+      "Stromboli",
+      "Vulcano",
+      "Monte Nuovo",
+      "Mount Epomeo",
+      "Campi Flegrei",
+      "Monte Amiata"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Bodies of Water, Mountains, & Volcanoes",
+    "difficulty": "medium",
+    "id": "e6752e82-8921-449c-8e34-cca5f7c1c696",
+    "created_at": "2025-04-19T18:04:48.555Z",
+    "backupTimestamp": "2025-04-19T18:04:48.555Z",
+    "localBackupTimestamp": "2025-04-19T12:04:48.555Z"
+  },
+  {
+    "question": "Which channel separates England and France?",
+    "correct_answer": "English Channel",
+    "incorrect_answers": [
+      "North Sea",
+      "Irish Sea",
+      "Celtic Sea",
+      "Bay of Biscay",
+      "Strait of Dover",
+      "Bristol Channel",
+      "Gulf of Saint-Malo"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Bodies of Water, Mountains, & Volcanoes",
+    "difficulty": "medium",
+    "id": "b3c43c54-8169-477c-b590-6c5c8fbcd6b4",
+    "created_at": "2025-04-19T18:04:48.556Z",
+    "backupTimestamp": "2025-04-19T18:04:48.556Z",
+    "localBackupTimestamp": "2025-04-19T12:04:48.556Z"
+  },
+  {
+    "question": "Which is the second deepest lake in the world?",
+    "correct_answer": "Lake Tanganyika",
+    "incorrect_answers": [
+      "Lake Baikal",
+      "Caspian Sea",
+      "Lake Vostok",
+      "Lake Malawi",
+      "Great Slave Lake",
+      "Crater Lake",
+      "Lake Matano"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Bodies of Water, Mountains, & Volcanoes",
+    "difficulty": "hard",
+    "id": "80ff2716-2a37-4373-9830-961f17fbbc67",
+    "created_at": "2025-04-19T18:09:26.332Z",
+    "backupTimestamp": "2025-04-19T18:09:26.333Z",
+    "localBackupTimestamp": "2025-04-19T12:09:26.333Z"
+  },
+  {
+    "question": "Which dormant stratovolcano is the highest mountain in Iran?",
+    "correct_answer": "Mount Damavand",
+    "incorrect_answers": [
+      "Mount Sabalan",
+      "Mount Alvand",
+      "Zard Kuh",
+      "Mount Taftan",
+      "Alam Kuh",
+      "Mount Dena",
+      "Shir Kuh"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Bodies of Water, Mountains, & Volcanoes",
+    "difficulty": "hard",
+    "id": "fdb36d50-6d5f-490f-b14e-ce47d70cf7bd",
+    "created_at": "2025-04-19T18:09:26.336Z",
+    "backupTimestamp": "2025-04-19T18:09:26.337Z",
+    "localBackupTimestamp": "2025-04-19T12:09:26.337Z"
+  },
+  {
+    "question": "Which strait separates Sumatra from Malaysia?",
+    "correct_answer": "Strait of Malacca",
+    "incorrect_answers": [
+      "Sunda Strait",
+      "Lombok Strait",
+      "Makassar Strait",
+      "Karimata Strait",
+      "Bangka Strait",
+      "Torres Strait",
+      "Singapore Strait"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Bodies of Water, Mountains, & Volcanoes",
+    "difficulty": "hard",
+    "id": "fef335f5-b1e4-44ca-8024-0a0e1f3ec177",
+    "created_at": "2025-04-19T18:09:26.338Z",
+    "backupTimestamp": "2025-04-19T18:09:26.339Z",
+    "localBackupTimestamp": "2025-04-19T12:09:26.339Z"
+  },
+  {
+    "question": "Which African lake is the world's fourth largest by volume?",
+    "correct_answer": "Lake Tanganyika",
+    "incorrect_answers": [
+      "Lake Victoria",
+      "Lake Malawi",
+      "Lake Turkana",
+      "Lake Kivu",
+      "Lake Albert",
+      "Lake Kariba",
+      "Lake Volta"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Bodies of Water, Mountains, & Volcanoes",
+    "difficulty": "hard",
+    "id": "0e4a6e59-31cb-4b04-9b8e-574250c110fd",
+    "created_at": "2025-04-19T18:09:26.341Z",
+    "backupTimestamp": "2025-04-19T18:09:26.342Z",
+    "localBackupTimestamp": "2025-04-19T12:09:26.342Z"
+  },
+  {
+    "question": "Which mountains separate the Tibetan Plateau from the Indian subcontinent?",
+    "correct_answer": "Himalayas",
+    "incorrect_answers": [
+      "Karakoram",
+      "Hindu Kush",
+      "Kunlun Mountains",
+      "Tian Shan",
+      "Pamir Mountains",
+      "Altai Mountains",
+      "Zagros Mountains"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Bodies of Water, Mountains, & Volcanoes",
+    "difficulty": "hard",
+    "id": "c9abed9d-9471-4cb0-98ef-9bca042bd46e",
+    "created_at": "2025-04-19T18:09:26.343Z",
+    "backupTimestamp": "2025-04-19T18:09:26.344Z",
+    "localBackupTimestamp": "2025-04-19T12:09:26.344Z"
+  },
+  {
+    "question": "Which river has the greatest average discharge in Europe?",
+    "correct_answer": "Volga River",
+    "incorrect_answers": [
+      "Danube River",
+      "Rhine River",
+      "Dnieper River",
+      "Don River",
+      "Elbe River",
+      "Loire River",
+      "Po River"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Bodies of Water, Mountains, & Volcanoes",
+    "difficulty": "hard",
+    "id": "11614a34-e1aa-4a1e-aa6b-c8a3ab050c6a",
+    "created_at": "2025-04-19T18:09:26.345Z",
+    "backupTimestamp": "2025-04-19T18:09:26.345Z",
+    "localBackupTimestamp": "2025-04-19T12:09:26.345Z"
+  },
+  {
+    "question": "Which ocean current flows north along Japan's east coast?",
+    "correct_answer": "Kuroshio Current",
+    "incorrect_answers": [
+      "Oyashio Current",
+      "North Pacific Current",
+      "California Current",
+      "Alaska Current",
+      "North Equatorial Current",
+      "Tsushima Current",
+      "East Korean Warm Current"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Bodies of Water, Mountains, & Volcanoes",
+    "difficulty": "hard",
+    "id": "3f7487ad-456f-42fb-b7de-fcf71e9f37b5",
+    "created_at": "2025-04-19T18:09:26.346Z",
+    "backupTimestamp": "2025-04-19T18:09:26.347Z",
+    "localBackupTimestamp": "2025-04-19T12:09:26.347Z"
+  },
+  {
+    "question": "Which mountain forms the western anchor of the Himalayas?",
+    "correct_answer": "Nanga Parbat",
+    "incorrect_answers": [
+      "K2",
+      "Dhaulagiri",
+      "Annapurna",
+      "Manaslu",
+      "Makalu",
+      "Cho Oyu",
+      "Shishapangma"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Bodies of Water, Mountains, & Volcanoes",
+    "difficulty": "hard",
+    "id": "ea94b4e1-7cca-4f50-b28a-f94d0dda01a3",
+    "created_at": "2025-04-19T18:09:26.349Z",
+    "backupTimestamp": "2025-04-19T18:09:26.350Z",
+    "localBackupTimestamp": "2025-04-19T12:09:26.350Z"
+  },
+  {
+    "question": "Which strait separates Corsica and Sardinia?",
+    "correct_answer": "Strait of Bonifacio",
+    "incorrect_answers": [
+      "Strait of Messina",
+      "Strait of Sicily",
+      "Strait of Otranto",
+      "Strait of Gibraltar",
+      "Dardanelles",
+      "Bosphorus Strait",
+      "Strait of Hormuz"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Bodies of Water, Mountains, & Volcanoes",
+    "difficulty": "hard",
+    "id": "61a0e3c5-2d2a-416b-a2b5-9070ad3bb488",
+    "created_at": "2025-04-19T18:09:26.352Z",
+    "backupTimestamp": "2025-04-19T18:09:26.354Z",
+    "localBackupTimestamp": "2025-04-19T12:09:26.354Z"
+  },
+  {
+    "question": "Which volcano forms the highest point in the Atlantic Ocean?",
+    "correct_answer": "Pico do Fogo",
+    "incorrect_answers": [
+      "Mount Pico",
+      "Mount Scenery",
+      "Mount Soufrière",
+      "Tristan da Cunha",
+      "Mount Pelee",
+      "La Soufrière",
+      "Teide"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Bodies of Water, Mountains, & Volcanoes",
+    "difficulty": "hard",
+    "id": "3e8f7846-d900-45cc-85c3-736cad35dd4a",
+    "created_at": "2025-04-19T18:09:26.360Z",
+    "backupTimestamp": "2025-04-19T18:09:26.361Z",
+    "localBackupTimestamp": "2025-04-19T12:09:26.361Z"
+  },
+  {
+    "question": "Which river forms most of the border between Ecuador and Peru?",
+    "correct_answer": "Marañón River",
+    "incorrect_answers": [
+      "Amazon River",
+      "Napo River",
+      "Putumayo River",
+      "Ucayali River",
+      "Pastaza River",
+      "Huallaga River",
+      "Tigre River"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Bodies of Water, Mountains, & Volcanoes",
+    "difficulty": "hard",
+    "id": "f8db0760-c1cf-4d9d-a284-949bb804ab76",
+    "created_at": "2025-04-19T18:09:26.364Z",
+    "backupTimestamp": "2025-04-19T18:09:26.365Z",
+    "localBackupTimestamp": "2025-04-19T12:09:26.365Z"
+  },
+  {
+    "question": "Which waterfall has the greatest average annual flow rate?",
+    "correct_answer": "Boyoma Falls",
+    "incorrect_answers": [
+      "Niagara Falls",
+      "Victoria Falls",
+      "Iguazu Falls",
+      "Angel Falls",
+      "Khone Falls",
+      "Dettifoss",
+      "Gullfoss"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Bodies of Water, Mountains, & Volcanoes",
+    "difficulty": "hard",
+    "id": "93a71e39-9063-4cde-b337-09fba9e7d193",
+    "created_at": "2025-04-19T18:09:26.367Z",
+    "backupTimestamp": "2025-04-19T18:09:26.368Z",
+    "localBackupTimestamp": "2025-04-19T12:09:26.368Z"
+  },
+  {
+    "question": "Which is the only active volcano on the island of Hokkaido?",
+    "correct_answer": "Mount Tarumae",
+    "incorrect_answers": [
+      "Mount Yotei",
+      "Mount Asahi",
+      "Mount Tokachi",
+      "Mount Meakan",
+      "Mount Usu",
+      "Mount Komagatake",
+      "Mount Rausu"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Bodies of Water, Mountains, & Volcanoes",
+    "difficulty": "hard",
+    "id": "a870be4a-9748-42f6-a22a-59cc4189a649",
+    "created_at": "2025-04-19T18:09:26.369Z",
+    "backupTimestamp": "2025-04-19T18:09:26.370Z",
+    "localBackupTimestamp": "2025-04-19T12:09:26.370Z"
+  },
+  {
+    "question": "Which sea separates the Korean Peninsula from Japan?",
+    "correct_answer": "Sea of Japan",
+    "incorrect_answers": [
+      "Yellow Sea",
+      "East China Sea",
+      "Philippine Sea",
+      "Sea of Okhotsk",
+      "Bohai Sea",
+      "Korea Strait",
+      "Seto Inland Sea"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Bodies of Water, Mountains, & Volcanoes",
+    "difficulty": "hard",
+    "id": "9a110632-83c9-4509-b669-bfea6e63aaef",
+    "created_at": "2025-04-19T18:09:26.372Z",
+    "backupTimestamp": "2025-04-19T18:09:26.373Z",
+    "localBackupTimestamp": "2025-04-19T12:09:26.373Z"
+  },
+  {
+    "question": "Which is the largest lake entirely within California?",
+    "correct_answer": "Clear Lake",
+    "incorrect_answers": [
+      "Lake Tahoe",
+      "Mono Lake",
+      "Salton Sea",
+      "Eagle Lake",
+      "Lake Almanor",
+      "Goose Lake",
+      "Lake Berryessa"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Bodies of Water, Mountains, & Volcanoes",
+    "difficulty": "hard",
+    "id": "ca06bdf2-dc16-420e-ac8e-68199d19da9d",
+    "created_at": "2025-04-19T18:09:26.377Z",
+    "backupTimestamp": "2025-04-19T18:09:26.377Z",
+    "localBackupTimestamp": "2025-04-19T12:09:26.377Z"
+  },
+  {
+    "question": "Which mountain range contains Mount Logan, Canada's highest peak?",
+    "correct_answer": "Saint Elias Mountains",
+    "incorrect_answers": [
+      "Rocky Mountains",
+      "Coast Mountains",
+      "Mackenzie Mountains",
+      "Selkirk Mountains",
+      "Purcell Mountains",
+      "Torngat Mountains",
+      "Cariboo Mountains"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Bodies of Water, Mountains, & Volcanoes",
+    "difficulty": "hard",
+    "id": "0dbbc733-fc6e-43d3-ad41-f147d635b58a",
+    "created_at": "2025-04-19T18:09:26.378Z",
+    "backupTimestamp": "2025-04-19T18:09:26.379Z",
+    "localBackupTimestamp": "2025-04-19T12:09:26.379Z"
+  },
+  {
+    "question": "Which Chinese river is known as the 'Mother River'?",
+    "correct_answer": "Yellow River",
+    "incorrect_answers": [
+      "Yangtze River",
+      "Pearl River",
+      "Mekong River",
+      "Songhua River",
+      "Heilong River",
+      "Xi River",
+      "Huai River"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Bodies of Water, Mountains, & Volcanoes",
+    "difficulty": "hard",
+    "id": "08fb94eb-8a3a-4bdd-8784-970c21259de7",
+    "created_at": "2025-04-19T18:09:26.380Z",
+    "backupTimestamp": "2025-04-19T18:09:26.380Z",
+    "localBackupTimestamp": "2025-04-19T12:09:26.380Z"
+  },
+  {
+    "question": "Which volcano erupted in 1815 causing a 'year without summer'?",
+    "correct_answer": "Mount Tambora",
+    "incorrect_answers": [
+      "Krakatoa",
+      "Mount Pinatubo",
+      "Mount Vesuvius",
+      "Mount St. Helens",
+      "Mount Pelée",
+      "Laki",
+      "Mount Katmai"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Bodies of Water, Mountains, & Volcanoes",
+    "difficulty": "hard",
+    "id": "b450afab-7d14-4d43-a378-478ff15b1030",
+    "created_at": "2025-04-19T18:09:26.381Z",
+    "backupTimestamp": "2025-04-19T18:09:26.382Z",
+    "localBackupTimestamp": "2025-04-19T12:09:26.382Z"
+  },
+  {
+    "question": "Which body of water is located between Turkey and Cyprus?",
+    "correct_answer": "Mediterranean Sea",
+    "incorrect_answers": [
+      "Black Sea",
+      "Aegean Sea",
+      "Sea of Marmara",
+      "Ionian Sea",
+      "Adriatic Sea",
+      "Tyrrhenian Sea",
+      "Levantine Sea"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Bodies of Water, Mountains, & Volcanoes",
+    "difficulty": "hard",
+    "id": "0b1c2dbe-3533-4e2c-b14c-c705c7195a8f",
+    "created_at": "2025-04-19T18:09:26.383Z",
+    "backupTimestamp": "2025-04-19T18:09:26.383Z",
+    "localBackupTimestamp": "2025-04-19T12:09:26.383Z"
+  },
+  {
+    "question": "Which peak is the highest in the Caucasus Mountains?",
+    "correct_answer": "Mount Elbrus",
+    "incorrect_answers": [
+      "Dykh-Tau",
+      "Shkhara",
+      "Koshtan-Tau",
+      "Janga",
+      "Kazbek",
+      "Tetnuldi",
+      "Bazarduzu"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Bodies of Water, Mountains, & Volcanoes",
+    "difficulty": "hard",
+    "id": "82587a20-d20d-41ac-b3cc-35b4801753b2",
+    "created_at": "2025-04-19T18:09:26.385Z",
+    "backupTimestamp": "2025-04-19T18:09:26.385Z",
+    "localBackupTimestamp": "2025-04-19T12:09:26.385Z"
+  },
+  {
+    "question": "Which river forms part of the border between Myanmar and Thailand?",
+    "correct_answer": "Moei River",
+    "incorrect_answers": [
+      "Salween River",
+      "Mekong River",
+      "Irrawaddy River",
+      "Chao Phraya River",
+      "Sittaung River",
+      "Ping River",
+      "Ruak River"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Bodies of Water, Mountains, & Volcanoes",
+    "difficulty": "hard",
+    "id": "5f1e1d3d-6db0-49d7-ac35-a214d9f2bdb5",
+    "created_at": "2025-04-19T18:09:26.387Z",
+    "backupTimestamp": "2025-04-19T18:09:26.387Z",
+    "localBackupTimestamp": "2025-04-19T12:09:26.387Z"
+  },
+  {
+    "question": "Which volcano forms the highest mountain in Nicaragua?",
+    "correct_answer": "San Cristóbal",
+    "incorrect_answers": [
+      "Concepción",
+      "Momotombo",
+      "Cosigüina",
+      "Telica",
+      "Masaya",
+      "Cerro Negro",
+      "Apoyeque"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Bodies of Water, Mountains, & Volcanoes",
+    "difficulty": "hard",
+    "id": "69dc2432-bd94-43c3-b0b6-faa828f0e3a8",
+    "created_at": "2025-04-19T18:09:26.388Z",
+    "backupTimestamp": "2025-04-19T18:09:26.389Z",
+    "localBackupTimestamp": "2025-04-19T12:09:26.389Z"
+  },
+  {
+    "question": "Which fjord is the deepest in the world?",
+    "correct_answer": "Sognefjord",
+    "incorrect_answers": [
+      "Hardangerfjord",
+      "Geirangerfjord",
+      "Milford Sound",
+      "Scoresby Sund",
+      "Nordvestfjord",
+      "Lysefjord",
+      "Aurlandsfjord"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Bodies of Water, Mountains, & Volcanoes",
+    "difficulty": "hard",
+    "id": "1b187c8b-0985-445f-8c69-c5bb1faace13",
+    "created_at": "2025-04-19T18:09:26.390Z",
+    "backupTimestamp": "2025-04-19T18:09:26.390Z",
+    "localBackupTimestamp": "2025-04-19T12:09:26.390Z"
+  },
+  {
+    "question": "Which is the oldest lake in the world?",
+    "correct_answer": "Lake Baikal",
+    "incorrect_answers": [
+      "Lake Tanganyika",
+      "Lake Vostok",
+      "Lake Titicaca",
+      "Dead Sea",
+      "Caspian Sea",
+      "Lake Ohrid",
+      "Lake Maracaibo"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Bodies of Water, Mountains, & Volcanoes",
+    "difficulty": "hard",
+    "id": "92ae9c58-7e52-4a85-ab5a-528c88e4d1c3",
+    "created_at": "2025-04-19T18:09:26.391Z",
+    "backupTimestamp": "2025-04-19T18:09:26.392Z",
+    "localBackupTimestamp": "2025-04-19T12:09:26.392Z"
+  },
+  {
+    "question": "Which mountain massif separates France and Spain?",
+    "correct_answer": "Pyrenees",
+    "incorrect_answers": [
+      "Alps",
+      "Jura Mountains",
+      "Massif Central",
+      "Cantabrian Mountains",
+      "Iberian Mountains",
+      "Sierra Nevada",
+      "Picos de Europa"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Bodies of Water, Mountains, & Volcanoes",
+    "difficulty": "hard",
+    "id": "d2b1aa2c-695f-438f-bb44-11d364662c58",
+    "created_at": "2025-04-19T18:09:26.393Z",
+    "backupTimestamp": "2025-04-19T18:09:26.393Z",
+    "localBackupTimestamp": "2025-04-19T12:09:26.393Z"
+  },
+  {
+    "question": "Which strait separates Africa from Yemen?",
+    "correct_answer": "Bab-el-Mandeb",
+    "incorrect_answers": [
+      "Strait of Hormuz",
+      "Gulf of Aden",
+      "Strait of Tiran",
+      "Strait of Sicily",
+      "Strait of Gibraltar",
+      "Mozambique Channel",
+      "Suez Canal"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Bodies of Water, Mountains, & Volcanoes",
+    "difficulty": "hard",
+    "id": "6b7f941c-971f-49ad-9405-fb7a209812fa",
+    "created_at": "2025-04-19T18:09:26.394Z",
+    "backupTimestamp": "2025-04-19T18:09:26.395Z",
+    "localBackupTimestamp": "2025-04-19T12:09:26.395Z"
+  },
+  {
+    "question": "Which supervolcano is located under Yellowstone National Park?",
+    "correct_answer": "Yellowstone Caldera",
+    "incorrect_answers": [
+      "Long Valley Caldera",
+      "Valles Caldera",
+      "Lake Toba",
+      "Taupo Volcano",
+      "Aira Caldera",
+      "Campi Flegrei",
+      "La Garita Caldera"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Bodies of Water, Mountains, & Volcanoes",
+    "difficulty": "hard",
+    "id": "0962a215-e520-4194-8a27-c7771af5db80",
+    "created_at": "2025-04-19T18:09:26.396Z",
+    "backupTimestamp": "2025-04-19T18:09:26.396Z",
+    "localBackupTimestamp": "2025-04-19T12:09:26.396Z"
+  },
+  {
+    "question": "Which is the largest tropical lake in the world?",
+    "correct_answer": "Lake Victoria",
+    "incorrect_answers": [
+      "Lake Tanganyika",
+      "Lake Malawi",
+      "Lake Titicaca",
+      "Lake Nicaragua",
+      "Lake Tonle Sap",
+      "Lake Toba",
+      "Laguna de Bay"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Bodies of Water, Mountains, & Volcanoes",
+    "difficulty": "hard",
+    "id": "69c6ba36-12fb-4b46-bd8a-e8bfc02e6a75",
+    "created_at": "2025-04-19T18:09:26.397Z",
+    "backupTimestamp": "2025-04-19T18:09:26.398Z",
+    "localBackupTimestamp": "2025-04-19T12:09:26.398Z"
+  },
+  {
+    "question": "Which mountains form the natural border between Poland and Slovakia?",
+    "correct_answer": "Tatra Mountains",
+    "incorrect_answers": [
+      "Carpathian Mountains",
+      "Sudetes Mountains",
+      "Beskids",
+      "Ore Mountains",
+      "Bieszczady Mountains",
+      "Pieniny Mountains",
+      "Świętokrzyskie Mountains"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Bodies of Water, Mountains, & Volcanoes",
+    "difficulty": "hard",
+    "id": "38c4a0bf-69b8-4192-87bb-5dffd3d4e947",
+    "created_at": "2025-04-19T18:09:26.399Z",
+    "backupTimestamp": "2025-04-19T18:09:26.399Z",
+    "localBackupTimestamp": "2025-04-19T12:09:26.399Z"
+  },
+  {
+    "question": "Which river flows through the most countries?",
+    "correct_answer": "Danube River",
+    "incorrect_answers": [
+      "Rhine River",
+      "Nile River",
+      "Congo River",
+      "Niger River",
+      "Amazon River",
+      "Mekong River",
+      "Zambezi River"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Bodies of Water, Mountains, & Volcanoes",
+    "difficulty": "hard",
+    "id": "cb7cc68d-e8a3-4d4e-ae77-d8810359199d",
+    "created_at": "2025-04-19T18:09:26.400Z",
+    "backupTimestamp": "2025-04-19T18:09:26.401Z",
+    "localBackupTimestamp": "2025-04-19T12:09:26.401Z"
+  },
+  {
+    "question": "Which volcano in Alaska had its largest eruption in 1912?",
+    "correct_answer": "Novarupta",
+    "incorrect_answers": [
+      "Mount Katmai",
+      "Mount Redoubt",
+      "Mount Spurr",
+      "Mount Augustine",
+      "Mount Cleveland",
+      "Pavlof Volcano",
+      "Mount Shishaldin"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Bodies of Water, Mountains, & Volcanoes",
+    "difficulty": "hard",
+    "id": "10c48179-1a93-42f2-9a58-d6abd94ec8ab",
+    "created_at": "2025-04-19T18:09:26.402Z",
+    "backupTimestamp": "2025-04-19T18:09:26.402Z",
+    "localBackupTimestamp": "2025-04-19T12:09:26.402Z"
+  },
+  {
+    "question": "Which sea is known as the Euxine Sea in classical antiquity?",
+    "correct_answer": "Black Sea",
+    "incorrect_answers": [
+      "Mediterranean Sea",
+      "Aegean Sea",
+      "Baltic Sea",
+      "Adriatic Sea",
+      "Caspian Sea",
+      "Red Sea",
+      "Dead Sea"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Bodies of Water, Mountains, & Volcanoes",
+    "difficulty": "hard",
+    "id": "3e8de83c-4b83-4705-ba89-ca5b89b3d2f5",
+    "created_at": "2025-04-19T18:09:26.403Z",
+    "backupTimestamp": "2025-04-19T18:09:26.404Z",
+    "localBackupTimestamp": "2025-04-19T12:09:26.404Z"
+  },
+  {
+    "question": "Which is the most volcanically active country in Europe?",
+    "correct_answer": "Iceland",
+    "incorrect_answers": [
+      "Italy",
+      "Greece",
+      "Spain",
+      "Portugal",
+      "Romania",
+      "France",
+      "Germany"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Bodies of Water, Mountains, & Volcanoes",
+    "difficulty": "hard",
+    "id": "6b250c94-c5bd-43df-a041-69754d4bc045",
+    "created_at": "2025-04-19T18:09:26.405Z",
+    "backupTimestamp": "2025-04-19T18:09:26.406Z",
+    "localBackupTimestamp": "2025-04-19T12:09:26.406Z"
+  },
+  {
+    "question": "Which glacier is the largest in continental Europe?",
+    "correct_answer": "Jostedalsbreen",
+    "incorrect_answers": [
+      "Aletsch Glacier",
+      "Vatnajökull",
+      "Austfonna",
+      "Folgefonna",
+      "Mýrdalsjökull",
+      "Mer de Glace",
+      "Drangajökull"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Bodies of Water, Mountains, & Volcanoes",
+    "difficulty": "hard",
+    "id": "668e4e73-66b9-4959-adff-e29526902ce5",
+    "created_at": "2025-04-19T18:09:26.407Z",
+    "backupTimestamp": "2025-04-19T18:09:26.407Z",
+    "localBackupTimestamp": "2025-04-19T12:09:26.407Z"
+  },
+  {
+    "question": "Which river has traditionally marked the boundary of Siberia?",
+    "correct_answer": "Ural River",
+    "incorrect_answers": [
+      "Ob River",
+      "Yenisei River",
+      "Lena River",
+      "Amur River",
+      "Volga River",
+      "Don River",
+      "Kolyma River"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Bodies of Water, Mountains, & Volcanoes",
+    "difficulty": "hard",
+    "id": "69ae89f9-91e6-415a-8c66-31e3b55ca95e",
+    "created_at": "2025-04-19T18:09:26.408Z",
+    "backupTimestamp": "2025-04-19T18:09:26.409Z",
+    "localBackupTimestamp": "2025-04-19T12:09:26.409Z"
+  },
+  {
+    "question": "Which undersea feature is the world's largest submarine canyon?",
+    "correct_answer": "Zhemchug Canyon",
+    "incorrect_answers": [
+      "Congo Canyon",
+      "Monterey Canyon",
+      "Great Bahama Canyon",
+      "Hudson Canyon",
+      "Indus Canyon",
+      "Bering Canyon",
+      "Ganges Canyon"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Bodies of Water, Mountains, & Volcanoes",
+    "difficulty": "hard",
+    "id": "e35b38f5-7f2d-4ab0-a029-6eb1a1b88e50",
+    "created_at": "2025-04-19T18:09:26.410Z",
+    "backupTimestamp": "2025-04-19T18:09:26.410Z",
+    "localBackupTimestamp": "2025-04-19T12:09:26.410Z"
+  },
+  {
+    "question": "Which mountain range in Australia is the world's longest land-based fault?",
+    "correct_answer": "MacDonnell Ranges",
+    "incorrect_answers": [
+      "Great Dividing Range",
+      "Flinders Ranges",
+      "Australian Alps",
+      "Stirling Range",
+      "Darling Range",
+      "Hamersley Range",
+      "Blue Mountains"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Bodies of Water, Mountains, & Volcanoes",
+    "difficulty": "hard",
+    "id": "5b026132-188b-498e-8792-5b960f22df15",
+    "created_at": "2025-04-19T18:09:26.411Z",
+    "backupTimestamp": "2025-04-19T18:09:26.412Z",
+    "localBackupTimestamp": "2025-04-19T12:09:26.412Z"
+  },
+  {
+    "question": "Which strait connects the Sea of Marmara with the Aegean Sea?",
+    "correct_answer": "Dardanelles",
+    "incorrect_answers": [
+      "Bosphorus",
+      "Strait of Gibraltar",
+      "Strait of Messina",
+      "Strait of Otranto",
+      "Strait of Sicily",
+      "Kerch Strait",
+      "Strait of Hormuz"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Bodies of Water, Mountains, & Volcanoes",
+    "difficulty": "hard",
+    "id": "e133f95f-9074-444c-87f5-86fa72ddf1e4",
+    "created_at": "2025-04-19T18:09:26.413Z",
+    "backupTimestamp": "2025-04-19T18:09:26.413Z",
+    "localBackupTimestamp": "2025-04-19T12:09:26.413Z"
+  },
+  {
+    "question": "Which is the world's largest freshwater wetland area?",
+    "correct_answer": "Pantanal",
+    "incorrect_answers": [
+      "Everglades",
+      "Okavango Delta",
+      "Sundarbans",
+      "Camargue",
+      "Iberá Wetlands",
+      "Sudd",
+      "Kakadu"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Bodies of Water, Mountains, & Volcanoes",
+    "difficulty": "hard",
+    "id": "8e001dd0-5a36-4891-a81b-409311ab22c0",
+    "created_at": "2025-04-19T18:09:26.414Z",
+    "backupTimestamp": "2025-04-19T18:09:26.415Z",
+    "localBackupTimestamp": "2025-04-19T12:09:26.415Z"
+  },
+  {
+    "question": "Which volcano has erupted most frequently since 1500 CE?",
+    "correct_answer": "Mount Etna",
+    "incorrect_answers": [
+      "Stromboli",
+      "Kilauea",
+      "Yasur",
+      "Mount Merapi",
+      "Sangay",
+      "Popocatépetl",
+      "Sakurajima"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Bodies of Water, Mountains, & Volcanoes",
+    "difficulty": "hard",
+    "id": "b969270a-18ee-49d2-a836-190d51987e72",
+    "created_at": "2025-04-19T18:09:26.416Z",
+    "backupTimestamp": "2025-04-19T18:09:26.416Z",
+    "localBackupTimestamp": "2025-04-19T12:09:26.416Z"
+  },
+  {
+    "question": "Which river forms most of the border between Argentina and Uruguay?",
+    "correct_answer": "Uruguay River",
+    "incorrect_answers": [
+      "Paraná River",
+      "Paraguay River",
+      "Negro River",
+      "Salado River",
+      "Colorado River",
+      "Pilcomayo River",
+      "Bermejo River"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Bodies of Water, Mountains, & Volcanoes",
+    "difficulty": "hard",
+    "id": "6b43c183-3003-496f-9fe1-a11039f386bd",
+    "created_at": "2025-04-19T18:09:26.417Z",
+    "backupTimestamp": "2025-04-19T18:09:26.418Z",
+    "localBackupTimestamp": "2025-04-19T12:09:26.418Z"
+  },
+  {
+    "question": "Which island is home to Olympus Mons, the tallest volcano in our solar system?",
+    "correct_answer": "Mars",
+    "incorrect_answers": [
+      "Jupiter",
+      "Venus",
+      "Mercury",
+      "Io",
+      "Titan",
+      "Europa",
+      "Triton"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Bodies of Water, Mountains, & Volcanoes",
+    "difficulty": "hard",
+    "id": "72c837c9-6924-4629-b609-aa493133af0e",
+    "created_at": "2025-04-19T18:09:26.419Z",
+    "backupTimestamp": "2025-04-19T18:09:26.420Z",
+    "localBackupTimestamp": "2025-04-19T12:09:26.420Z"
+  },
+  {
+    "question": "Which is the largest lake on New Zealand's South Island?",
+    "correct_answer": "Lake Te Anau",
+    "incorrect_answers": [
+      "Lake Wakatipu",
+      "Lake Wanaka",
+      "Lake Tekapo",
+      "Lake Pukaki",
+      "Lake Hawea",
+      "Lake Manapouri",
+      "Lake Brunner"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Bodies of Water, Mountains, & Volcanoes",
+    "difficulty": "hard",
+    "id": "dd7fc2eb-2459-4a39-a72e-4c2cbd277df3",
+    "created_at": "2025-04-19T18:09:26.421Z",
+    "backupTimestamp": "2025-04-19T18:09:26.421Z",
+    "localBackupTimestamp": "2025-04-19T12:09:26.421Z"
+  },
+  {
+    "question": "Which mountain was first summited in 1953 by Edmund Hillary and Tenzing Norgay?",
+    "correct_answer": "Mount Everest",
+    "incorrect_answers": [
+      "K2",
+      "Kangchenjunga",
+      "Lhotse",
+      "Makalu",
+      "Cho Oyu",
+      "Dhaulagiri",
+      "Manaslu"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Bodies of Water, Mountains, & Volcanoes",
+    "difficulty": "hard",
+    "id": "80e7c8f5-62ab-4b90-8741-6c0ca7d886e1",
+    "created_at": "2025-04-19T18:09:26.423Z",
+    "backupTimestamp": "2025-04-19T18:09:26.423Z",
+    "localBackupTimestamp": "2025-04-19T12:09:26.423Z"
+  },
+  {
+    "question": "Which is the only river flowing both into and out of Lake Geneva?",
+    "correct_answer": "Rhône River",
+    "incorrect_answers": [
+      "Rhine River",
+      "Seine River",
+      "Loire River",
+      "Aare River",
+      "Saône River",
+      "Isère River",
+      "Doubs River"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Bodies of Water, Mountains, & Volcanoes",
+    "difficulty": "hard",
+    "id": "fe278c3b-24c1-4cff-9a80-53e79a89ee99",
+    "created_at": "2025-04-19T18:09:26.425Z",
+    "backupTimestamp": "2025-04-19T18:09:26.425Z",
+    "localBackupTimestamp": "2025-04-19T12:09:26.425Z"
+  },
+  {
+    "question": "Which Japanese volcano erupted in 1783 causing a famine?",
+    "correct_answer": "Mount Asama",
+    "incorrect_answers": [
+      "Mount Fuji",
+      "Mount Aso",
+      "Mount Ontake",
+      "Mount Sakurajima",
+      "Mount Unzen",
+      "Mount Bandai",
+      "Mount Kirishima"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Bodies of Water, Mountains, & Volcanoes",
+    "difficulty": "hard",
+    "id": "c77f27ac-b04a-420b-8613-bd7930dc67ca",
+    "created_at": "2025-04-19T18:09:26.426Z",
+    "backupTimestamp": "2025-04-19T18:09:26.427Z",
+    "localBackupTimestamp": "2025-04-19T12:09:26.427Z"
+  },
+  {
+    "question": "Which bay has the highest tidal range in the world?",
+    "correct_answer": "Bay of Fundy",
+    "incorrect_answers": [
+      "Cook Inlet",
+      "Bristol Channel",
+      "Gulf of Khambhat",
+      "Mont Saint-Michel Bay",
+      "Ungava Bay",
+      "Severn Estuary",
+      "Turnagain Arm"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Bodies of Water, Mountains, & Volcanoes",
+    "difficulty": "hard",
+    "id": "e76b4810-eb65-4ec7-8395-e2d7924a2e3b",
+    "created_at": "2025-04-19T18:09:26.428Z",
+    "backupTimestamp": "2025-04-19T18:09:26.429Z",
+    "localBackupTimestamp": "2025-04-19T12:09:26.429Z"
+  },
+  {
+    "question": "Which is the largest crater lake in the world?",
+    "correct_answer": "Lake Toba",
+    "incorrect_answers": [
+      "Crater Lake",
+      "Lake Taupo",
+      "Laguna Quilotoa",
+      "Lake Pinatubo",
+      "Crater Lake of Heaven",
+      "Lake Coatepeque",
+      "Lake Atitlán"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Bodies of Water, Mountains, & Volcanoes",
+    "difficulty": "hard",
+    "id": "95bb1556-a71e-4a52-ad1f-9f7092f7d6d1",
+    "created_at": "2025-04-19T18:09:26.430Z",
+    "backupTimestamp": "2025-04-19T18:09:26.430Z",
+    "localBackupTimestamp": "2025-04-19T12:09:26.430Z"
+  },
+  {
+    "question": "Which mountain range is the world's youngest major range?",
+    "correct_answer": "Himalayas",
+    "incorrect_answers": [
+      "Alps",
+      "Andes",
+      "Rockies",
+      "Appalachians",
+      "Atlas Mountains",
+      "Urals",
+      "Great Dividing Range"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Bodies of Water, Mountains, & Volcanoes",
+    "difficulty": "hard",
+    "id": "191d2c64-b2c9-4815-b702-a9ea0e60bbac",
+    "created_at": "2025-04-19T18:09:26.432Z",
+    "backupTimestamp": "2025-04-19T18:09:26.432Z",
+    "localBackupTimestamp": "2025-04-19T12:09:26.432Z"
+  },
+  {
+    "question": "Which river forms the border between Zambia and Zimbabwe?",
+    "correct_answer": "Zambezi River",
+    "incorrect_answers": [
+      "Congo River",
+      "Limpopo River",
+      "Orange River",
+      "Okavango River",
+      "Luangwa River",
+      "Kafue River",
+      "Save River"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Bodies of Water, Mountains, & Volcanoes",
+    "difficulty": "hard",
+    "id": "88a3e607-5618-43f9-9576-2964bff18688",
+    "created_at": "2025-04-19T18:09:26.433Z",
+    "backupTimestamp": "2025-04-19T18:09:26.434Z",
+    "localBackupTimestamp": "2025-04-19T12:09:26.434Z"
+  },
+  {
+    "question": "Which volcano in Colombia killed over 23,000 people in 1985?",
+    "correct_answer": "Nevado del Ruiz",
+    "incorrect_answers": [
+      "Galeras",
+      "Cerro Machín",
+      "Nevado del Huila",
+      "Puracé",
+      "Cumbal",
+      "Doña Juana",
+      "Azufral"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Bodies of Water, Mountains, & Volcanoes",
+    "difficulty": "hard",
+    "id": "8cb7d706-5ee6-442d-b456-a58e39d23cff",
+    "created_at": "2025-04-19T18:09:26.435Z",
+    "backupTimestamp": "2025-04-19T18:09:26.435Z",
+    "localBackupTimestamp": "2025-04-19T12:09:26.435Z"
+  },
+  {
+    "question": "Which hot spring geyser has the most regular eruption pattern?",
+    "correct_answer": "Old Faithful",
+    "incorrect_answers": [
+      "Strokkur",
+      "Grand Geyser",
+      "Castle Geyser",
+      "Great Fountain Geyser",
+      "Giant Geyser",
+      "Steamboat Geyser",
+      "Pohutu Geyser"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Bodies of Water, Mountains, & Volcanoes",
+    "difficulty": "hard",
+    "id": "9590f9f9-a65b-4222-b4d2-33236e046eeb",
+    "created_at": "2025-04-19T18:09:26.436Z",
+    "backupTimestamp": "2025-04-19T18:09:26.437Z",
+    "localBackupTimestamp": "2025-04-19T12:09:26.437Z"
+  },
+  {
+    "question": "Which is the only river that flows from India to Pakistan?",
+    "correct_answer": "Sutlej River",
+    "incorrect_answers": [
+      "Indus River",
+      "Chenab River",
+      "Jhelum River",
+      "Ravi River",
+      "Beas River",
+      "Ganges River",
+      "Yamuna River"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Bodies of Water, Mountains, & Volcanoes",
+    "difficulty": "hard",
+    "id": "82575858-4092-4ec3-9c75-c2e781bf6c09",
+    "created_at": "2025-04-19T18:09:26.438Z",
+    "backupTimestamp": "2025-04-19T18:09:26.439Z",
+    "localBackupTimestamp": "2025-04-19T12:09:26.439Z"
+  },
+  {
+    "question": "Which mountain is the third highest in the world?",
+    "correct_answer": "Kangchenjunga",
+    "incorrect_answers": [
+      "K2",
+      "Lhotse",
+      "Makalu",
+      "Cho Oyu",
+      "Dhaulagiri",
+      "Manaslu",
+      "Nanga Parbat"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Bodies of Water, Mountains, & Volcanoes",
+    "difficulty": "hard",
+    "id": "b7a14b76-e2d1-419f-ad20-a65171a50cb3",
+    "created_at": "2025-04-19T18:09:26.440Z",
+    "backupTimestamp": "2025-04-19T18:09:26.440Z",
+    "localBackupTimestamp": "2025-04-19T12:09:26.440Z"
+  },
+  {
+    "question": "Which is the deepest underwater trench in the Atlantic Ocean?",
+    "correct_answer": "Puerto Rico Trench",
+    "incorrect_answers": [
+      "South Sandwich Trench",
+      "Romanche Trench",
+      "Cayman Trench",
+      "Diamantina Trench",
+      "Milwaukee Deep",
+      "Java Trench",
+      "Eurasian Basin"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Bodies of Water, Mountains, & Volcanoes",
+    "difficulty": "hard",
+    "id": "ef634805-a13c-47a3-a4e8-f33a630fad1c",
+    "created_at": "2025-04-19T18:09:26.442Z",
+    "backupTimestamp": "2025-04-19T18:09:26.442Z",
+    "localBackupTimestamp": "2025-04-19T12:09:26.442Z"
+  },
+  {
+    "question": "Which country has the most active volcanoes?",
+    "correct_answer": "Indonesia",
+    "incorrect_answers": [
+      "Japan",
+      "United States",
+      "Mexico",
+      "Philippines",
+      "Chile",
+      "Russia",
+      "Papua New Guinea"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Bodies of Water, Mountains, & Volcanoes",
+    "difficulty": "hard",
+    "id": "d1080b14-8efe-4fc0-9049-1a3866bc753a",
+    "created_at": "2025-04-19T18:09:26.443Z",
+    "backupTimestamp": "2025-04-19T18:09:26.444Z",
+    "localBackupTimestamp": "2025-04-19T12:09:26.444Z"
+  },
+  {
+    "question": "Which is the world's largest endorheic lake?",
+    "correct_answer": "Caspian Sea",
+    "incorrect_answers": [
+      "Aral Sea",
+      "Lake Urmia",
+      "Dead Sea",
+      "Great Salt Lake",
+      "Lake Titicaca",
+      "Lake Eyre",
+      "Lake Turkana"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Bodies of Water, Mountains, & Volcanoes",
+    "difficulty": "hard",
+    "id": "e762b8c7-37ba-405a-90bc-bfe8f41ddab6",
+    "created_at": "2025-04-19T18:09:26.445Z",
+    "backupTimestamp": "2025-04-19T18:09:26.446Z",
+    "localBackupTimestamp": "2025-04-19T12:09:26.446Z"
+  },
+  {
+    "question": "Which peak is the highest in the Alps?",
+    "correct_answer": "Mont Blanc",
+    "incorrect_answers": [
+      "Monte Rosa",
+      "Matterhorn",
+      "Dufourspitze",
+      "Dom",
+      "Liskamm",
+      "Weisshorn",
+      "Grand Combin"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Bodies of Water, Mountains, & Volcanoes",
+    "difficulty": "hard",
+    "id": "ec9b28c3-4358-444d-83de-cd417c4a3faf",
+    "created_at": "2025-04-19T18:09:26.448Z",
+    "backupTimestamp": "2025-04-19T18:09:26.450Z",
+    "localBackupTimestamp": "2025-04-19T12:09:26.450Z"
+  }
+]
