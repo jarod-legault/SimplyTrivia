@@ -44,12 +44,12 @@
       - [x] Answer was correct (boolean)
       - [x] Timestamp
   - [ ] Implement new JSON file management system
-    - [ ] Initialize JSON files from existing database
+    - [x] Initialize JSON files from existing database
       - [x] Create script to read existing questions and categories from SQLite database
       - [x] Generate initial manifest.json with current timestamp
       - [x] Generate categories.json from existing categories
       - [x] Generate category-specific JSON files in data/questions/
-      - [ ] Verify data consistency between database and generated files
+      - [x] Verify data consistency between database and generated files
     - [ ] Set up bundled JSON files structure
       - [ ] Create data/questions directory
       - [ ] Create initial manifest.json
