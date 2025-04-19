@@ -75,3 +75,95 @@
   - The database may contain more than 5 incorrect answers for a question, but we will select 5 random incorrect answers to mix in with the correct answer.
   - The questions will be randomized based on the categories selected in the settings screen, and the difficulty selected on the home screen.
   - The app will record the questions that the user has answered, so that they will never be asked duplicate questions, and this will be used for the statistics screen.
+
+## Mobile Database Synchronization
+
+### Data Organization
+- Questions are organized by main category into separate JSON files stored in `data/questions/`
+- Categories are listed in `categories.json` in the `data` directory
+- The `manifest.json` file in the `data` directory tracks timestamps and metadata
+- Only the latest version of each file is maintained (no version history needed)
+- All files are bundled with the app (no downloading required)
+
+### File Structure
+```
+data/
+  manifest.json          # Tracks last update times and file metadata
+  categories.json       # All categories
+  questions/           # Directory containing all question files
+    pop-culture.json  # One file per main category
+    science.json
+    history.json
+    etc...
+```
+
+### Manifest File Structure
+```json
+{
+  "lastUpdate": "2025-04-19T10:00:00Z",
+  "categories": {
+    "timestamp": "2025-04-19T10:00:00Z",
+    "count": 52
+  },
+  "questionFiles": {
+    "pop-culture.json": {
+      "timestamp": "2025-04-19T10:00:00Z",
+      "questionCount": 500,
+      "mainCategory": "Pop Culture"
+    },
+    "science.json": {
+      "timestamp": "2025-04-19T09:00:00Z",
+      "questionCount": 300,
+      "mainCategory": "Science & Nature"
+    }
+    // ... etc
+  }
+}
+```
+
+### Web App JSON Generation
+The web app maintains the JSON files automatically:
+1. When questions are added, edited, or deleted:
+   - Updates the relevant category's JSON file in data/questions/
+   - Updates the file's timestamp in manifest.json
+2. When categories are modified:
+   - Updates categories.json
+   - If a category is renamed: Updates the corresponding question file name and all questions within it
+   - If a category is deleted: Removes its question file and updates manifest.json
+   - If a category is added: Creates a new empty question file and updates manifest.json
+3. All JSON files are maintained in sync with the SQLite database
+   - Every database operation that modifies questions or categories triggers corresponding JSON updates
+   - JSON files are always kept in a consistent state with the database
+
+### Mobile App Database Updates
+1. On app start:
+   - Check manifest.json timestamps
+   - Compare timestamps with local database metadata
+   - Process files that have changed since last update
+
+2. For each changed category:
+   - Start a database transaction
+   - Delete all existing questions for that category
+   - Import all questions from the new JSON file
+   - Update local timestamp metadata
+   - Commit transaction
+
+3. Category changes:
+   - When a category is removed:
+     - Update local database schema
+     - Remove questions from that category
+     - Update local timestamp metadata
+   - When a category is edited:
+     - Update local database schema
+     - Update all affected questions
+     - Update local timestamp metadata
+   - When a category is added:
+     - Update local database schema
+     - Import any questions for the new category
+     - Update local timestamp metadata
+
+### Error Handling
+- Failed updates should roll back completely
+- Partial updates are not allowed
+- Invalid JSON files should be reported
+- Database integrity is verified after updates

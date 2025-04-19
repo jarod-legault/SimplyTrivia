@@ -43,6 +43,34 @@
       - [x] Question ID (foreign key to questions table)
       - [x] Answer was correct (boolean)
       - [x] Timestamp
+  - [ ] Implement new JSON file management system
+    - [ ] Initialize JSON files from existing database
+      - [ ] Create script to read existing questions and categories from SQLite database
+      - [ ] Generate initial manifest.json with current timestamp
+      - [ ] Generate categories.json from existing categories
+      - [ ] Generate category-specific JSON files in data/questions/
+      - [ ] Verify data consistency between database and generated files
+    - [ ] Set up bundled JSON files structure
+      - [ ] Create data/questions directory
+      - [ ] Create initial manifest.json
+      - [ ] Create categories.json from current database
+      - [ ] Split questions by category into separate JSON files
+    - [ ] Update web admin interface to maintain JSON files
+      - [ ] Add JSON generation utilities
+      - [ ] Update category operations (add/edit/delete) to maintain JSON files
+      - [ ] Update question operations to maintain category JSON files
+      - [ ] Add manifest update functionality
+      - [ ] Add JSON file consistency checks
+    - [ ] Clean up old backup system
+      - [ ] Remove data/backup directory after verifying new files
+      - [ ] Remove backup.ts utility
+      - [ ] Remove backup-related code from server
+    - [ ] Update mobile database initialization
+      - [ ] Add manifest timestamp checking on app start
+      - [ ] Add function to check which categories need updates
+      - [ ] Add transaction-based category updates
+      - [ ] Add database integrity verification
+      - [ ] Add JSON validation and error reporting
   - [ ] Create mobile screens
     - [x] Create home screen (easy, medium, hard, surprise me, settings)
     - [x] Create settings screen where user can select which categories to include or exclude.
