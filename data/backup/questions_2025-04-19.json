@@ -3418,5 +3418,3325 @@
     "created_at": "2025-04-19T18:09:26.448Z",
     "backupTimestamp": "2025-04-19T18:09:26.450Z",
     "localBackupTimestamp": "2025-04-19T12:09:26.450Z"
+  },
+  {
+    "question": "Which city is the capital of France?",
+    "correct_answer": "Paris",
+    "incorrect_answers": [
+      "London",
+      "Berlin",
+      "Rome",
+      "Madrid",
+      "Brussels",
+      "Amsterdam",
+      "Lisbon"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Cities Around the World",
+    "difficulty": "easy",
+    "id": "fdcbf9fc-9767-49ef-9350-a9127bb17ab4",
+    "created_at": "2025-04-19T18:14:41.032Z",
+    "backupTimestamp": "2025-04-19T18:14:41.033Z",
+    "localBackupTimestamp": "2025-04-19T12:14:41.033Z"
+  },
+  {
+    "question": "Which city is known as the 'Big Apple'?",
+    "correct_answer": "New York City",
+    "incorrect_answers": [
+      "Chicago",
+      "Los Angeles",
+      "Boston",
+      "Washington D.C.",
+      "San Francisco",
+      "Miami",
+      "Seattle"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Cities Around the World",
+    "difficulty": "easy",
+    "id": "dae503a5-47af-4588-9b6a-6c84524ef81f",
+    "created_at": "2025-04-19T18:14:41.035Z",
+    "backupTimestamp": "2025-04-19T18:14:41.037Z",
+    "localBackupTimestamp": "2025-04-19T12:14:41.037Z"
+  },
+  {
+    "question": "Which city is the capital of Japan?",
+    "correct_answer": "Tokyo",
+    "incorrect_answers": [
+      "Kyoto",
+      "Osaka",
+      "Hiroshima",
+      "Yokohama",
+      "Nagoya",
+      "Sapporo",
+      "Kobe"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Cities Around the World",
+    "difficulty": "easy",
+    "id": "1c54657f-8afb-466e-9de8-382133bcbde7",
+    "created_at": "2025-04-19T18:14:41.045Z",
+    "backupTimestamp": "2025-04-19T18:14:41.047Z",
+    "localBackupTimestamp": "2025-04-19T12:14:41.047Z"
+  },
+  {
+    "question": "Which city is home to the Eiffel Tower?",
+    "correct_answer": "Paris",
+    "incorrect_answers": [
+      "London",
+      "Rome",
+      "Berlin",
+      "Madrid",
+      "Brussels",
+      "Amsterdam",
+      "Lyon"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Cities Around the World",
+    "difficulty": "easy",
+    "id": "4e9369e2-6515-48a2-8523-c1e3f84b4cc6",
+    "created_at": "2025-04-19T18:14:41.050Z",
+    "backupTimestamp": "2025-04-19T18:14:41.050Z",
+    "localBackupTimestamp": "2025-04-19T12:14:41.050Z"
+  },
+  {
+    "question": "Which city is the capital of the United Kingdom?",
+    "correct_answer": "London",
+    "incorrect_answers": [
+      "Edinburgh",
+      "Dublin",
+      "Cardiff",
+      "Manchester",
+      "Liverpool",
+      "Glasgow",
+      "Belfast"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Cities Around the World",
+    "difficulty": "easy",
+    "id": "13fee5b6-002c-471e-a366-9e86cc042bf0",
+    "created_at": "2025-04-19T18:14:41.053Z",
+    "backupTimestamp": "2025-04-19T18:14:41.053Z",
+    "localBackupTimestamp": "2025-04-19T12:14:41.053Z"
+  },
+  {
+    "question": "Which city hosts the famous Carnival celebration in Brazil?",
+    "correct_answer": "Rio de Janeiro",
+    "incorrect_answers": [
+      "São Paulo",
+      "Brasília",
+      "Salvador",
+      "Fortaleza",
+      "Recife",
+      "Manaus",
+      "Belo Horizonte"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Cities Around the World",
+    "difficulty": "easy",
+    "id": "061d9f17-c5f0-41a1-b1d5-202879cc07d8",
+    "created_at": "2025-04-19T18:14:41.055Z",
+    "backupTimestamp": "2025-04-19T18:14:41.056Z",
+    "localBackupTimestamp": "2025-04-19T12:14:41.056Z"
+  },
+  {
+    "question": "Which city is the capital of Australia?",
+    "correct_answer": "Canberra",
+    "incorrect_answers": [
+      "Sydney",
+      "Melbourne",
+      "Brisbane",
+      "Perth",
+      "Adelaide",
+      "Gold Coast",
+      "Darwin"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Cities Around the World",
+    "difficulty": "easy",
+    "id": "69be5206-0728-468d-a31e-f0c1c60adc71",
+    "created_at": "2025-04-19T18:14:41.058Z",
+    "backupTimestamp": "2025-04-19T18:14:41.058Z",
+    "localBackupTimestamp": "2025-04-19T12:14:41.058Z"
+  },
+  {
+    "question": "Which city is home to the Colosseum?",
+    "correct_answer": "Rome",
+    "incorrect_answers": [
+      "Athens",
+      "Milan",
+      "Naples",
+      "Venice",
+      "Florence",
+      "Turin",
+      "Bologna"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Cities Around the World",
+    "difficulty": "easy",
+    "id": "bf7764d5-fda0-46d7-b512-89b737432906",
+    "created_at": "2025-04-19T18:14:41.060Z",
+    "backupTimestamp": "2025-04-19T18:14:41.060Z",
+    "localBackupTimestamp": "2025-04-19T12:14:41.060Z"
+  },
+  {
+    "question": "Which city is the capital of Canada?",
+    "correct_answer": "Ottawa",
+    "incorrect_answers": [
+      "Toronto",
+      "Montreal",
+      "Vancouver",
+      "Calgary",
+      "Quebec City",
+      "Edmonton",
+      "Winnipeg"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Cities Around the World",
+    "difficulty": "easy",
+    "id": "800858a0-a759-4a98-8a65-0bd42910c7d9",
+    "created_at": "2025-04-19T18:14:41.062Z",
+    "backupTimestamp": "2025-04-19T18:14:41.063Z",
+    "localBackupTimestamp": "2025-04-19T12:14:41.063Z"
+  },
+  {
+    "question": "Which city is located on two continents?",
+    "correct_answer": "Istanbul",
+    "incorrect_answers": [
+      "Cairo",
+      "Moscow",
+      "Jerusalem",
+      "Dubai",
+      "Athens",
+      "Ankara",
+      "Alexandria"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Cities Around the World",
+    "difficulty": "easy",
+    "id": "9ebda7d5-81ad-4098-8101-49b8bd2a585c",
+    "created_at": "2025-04-19T18:14:41.065Z",
+    "backupTimestamp": "2025-04-19T18:14:41.065Z",
+    "localBackupTimestamp": "2025-04-19T12:14:41.065Z"
+  },
+  {
+    "question": "Which city is the capital of China?",
+    "correct_answer": "Beijing",
+    "incorrect_answers": [
+      "Shanghai",
+      "Hong Kong",
+      "Guangzhou",
+      "Shenzhen",
+      "Tianjin",
+      "Chongqing",
+      "Nanjing"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Cities Around the World",
+    "difficulty": "easy",
+    "id": "35a06e1b-3d9c-4059-a425-e5abfe8d6cae",
+    "created_at": "2025-04-19T18:14:41.067Z",
+    "backupTimestamp": "2025-04-19T18:14:41.068Z",
+    "localBackupTimestamp": "2025-04-19T12:14:41.068Z"
+  },
+  {
+    "question": "Which city is home to the Taj Mahal?",
+    "correct_answer": "Agra",
+    "incorrect_answers": [
+      "New Delhi",
+      "Mumbai",
+      "Jaipur",
+      "Kolkata",
+      "Chennai",
+      "Bangalore",
+      "Hyderabad"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Cities Around the World",
+    "difficulty": "easy",
+    "id": "6cab01f2-3a5b-4191-a5f3-3e97a093a403",
+    "created_at": "2025-04-19T18:14:41.070Z",
+    "backupTimestamp": "2025-04-19T18:14:41.071Z",
+    "localBackupTimestamp": "2025-04-19T12:14:41.071Z"
+  },
+  {
+    "question": "Which city is the capital of Germany?",
+    "correct_answer": "Berlin",
+    "incorrect_answers": [
+      "Munich",
+      "Hamburg",
+      "Frankfurt",
+      "Cologne",
+      "Dresden",
+      "Stuttgart",
+      "Düsseldorf"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Cities Around the World",
+    "difficulty": "easy",
+    "id": "2c35c73a-01df-4c80-b9c3-c44c6e9c9682",
+    "created_at": "2025-04-19T18:14:41.072Z",
+    "backupTimestamp": "2025-04-19T18:14:41.073Z",
+    "localBackupTimestamp": "2025-04-19T12:14:41.073Z"
+  },
+  {
+    "question": "Which city is known as the 'Eternal City'?",
+    "correct_answer": "Rome",
+    "incorrect_answers": [
+      "Athens",
+      "Jerusalem",
+      "Cairo",
+      "Istanbul",
+      "Beijing",
+      "Damascus",
+      "Alexandria"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Cities Around the World",
+    "difficulty": "easy",
+    "id": "e2f08d53-a499-4d1e-8ad8-b548bc7ed15d",
+    "created_at": "2025-04-19T18:14:41.075Z",
+    "backupTimestamp": "2025-04-19T18:14:41.075Z",
+    "localBackupTimestamp": "2025-04-19T12:14:41.075Z"
+  },
+  {
+    "question": "Which city is the capital of Russia?",
+    "correct_answer": "Moscow",
+    "incorrect_answers": [
+      "Saint Petersburg",
+      "Kiev",
+      "Minsk",
+      "Warsaw",
+      "Volgograd",
+      "Novosibirsk",
+      "Yekaterinburg"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Cities Around the World",
+    "difficulty": "easy",
+    "id": "992a2b10-0c66-4230-81b1-051b348a316e",
+    "created_at": "2025-04-19T18:14:41.077Z",
+    "backupTimestamp": "2025-04-19T18:14:41.077Z",
+    "localBackupTimestamp": "2025-04-19T12:14:41.077Z"
+  },
+  {
+    "question": "Which city is home to the Great Pyramid of Giza?",
+    "correct_answer": "Cairo",
+    "incorrect_answers": [
+      "Alexandria",
+      "Luxor",
+      "Aswan",
+      "Giza",
+      "Sharm El Sheikh",
+      "Hurghada",
+      "Port Said"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Cities Around the World",
+    "difficulty": "easy",
+    "id": "a594d22a-93c8-4316-a6db-9aba54886711",
+    "created_at": "2025-04-19T18:14:41.079Z",
+    "backupTimestamp": "2025-04-19T18:14:41.080Z",
+    "localBackupTimestamp": "2025-04-19T12:14:41.080Z"
+  },
+  {
+    "question": "Which city is the capital of Italy?",
+    "correct_answer": "Rome",
+    "incorrect_answers": [
+      "Milan",
+      "Naples",
+      "Venice",
+      "Florence",
+      "Turin",
+      "Bologna",
+      "Palermo"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Cities Around the World",
+    "difficulty": "easy",
+    "id": "c67751b3-3ee8-46f8-a7e8-8102e4bf43a7",
+    "created_at": "2025-04-19T18:14:41.081Z",
+    "backupTimestamp": "2025-04-19T18:14:41.082Z",
+    "localBackupTimestamp": "2025-04-19T12:14:41.082Z"
+  },
+  {
+    "question": "Which city is known as the 'City of Light'?",
+    "correct_answer": "Paris",
+    "incorrect_answers": [
+      "Vienna",
+      "London",
+      "Berlin",
+      "Amsterdam",
+      "Brussels",
+      "Madrid",
+      "Venice"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Cities Around the World",
+    "difficulty": "easy",
+    "id": "29f8f1cb-f174-4952-8b95-1a3dc02a4d3e",
+    "created_at": "2025-04-19T18:14:41.084Z",
+    "backupTimestamp": "2025-04-19T18:14:41.084Z",
+    "localBackupTimestamp": "2025-04-19T12:14:41.084Z"
+  },
+  {
+    "question": "Which city is the capital of Spain?",
+    "correct_answer": "Madrid",
+    "incorrect_answers": [
+      "Barcelona",
+      "Seville",
+      "Valencia",
+      "Malaga",
+      "Granada",
+      "Bilbao",
+      "Zaragoza"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Cities Around the World",
+    "difficulty": "easy",
+    "id": "864e2902-e2af-47d3-8ad0-23178b483521",
+    "created_at": "2025-04-19T18:14:41.086Z",
+    "backupTimestamp": "2025-04-19T18:14:41.087Z",
+    "localBackupTimestamp": "2025-04-19T12:14:41.087Z"
+  },
+  {
+    "question": "Which city is home to the famous Golden Gate Bridge?",
+    "correct_answer": "San Francisco",
+    "incorrect_answers": [
+      "Los Angeles",
+      "New York City",
+      "Seattle",
+      "Portland",
+      "Las Vegas",
+      "Chicago",
+      "Boston"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Cities Around the World",
+    "difficulty": "easy",
+    "id": "22ea0ce9-f811-43af-8c09-59349c7db98a",
+    "created_at": "2025-04-19T18:14:41.089Z",
+    "backupTimestamp": "2025-04-19T18:14:41.089Z",
+    "localBackupTimestamp": "2025-04-19T12:14:41.089Z"
+  },
+  {
+    "question": "Which city is the capital of Mexico?",
+    "correct_answer": "Mexico City",
+    "incorrect_answers": [
+      "Guadalajara",
+      "Monterrey",
+      "Cancun",
+      "Tijuana",
+      "Acapulco",
+      "Puebla",
+      "Merida"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Cities Around the World",
+    "difficulty": "easy",
+    "id": "588599b5-b7e9-4501-8fd8-450a80310a5f",
+    "created_at": "2025-04-19T18:14:41.091Z",
+    "backupTimestamp": "2025-04-19T18:14:41.091Z",
+    "localBackupTimestamp": "2025-04-19T12:14:41.091Z"
+  },
+  {
+    "question": "Which city is home to the Opera House with sail-shaped roofs?",
+    "correct_answer": "Sydney",
+    "incorrect_answers": [
+      "Melbourne",
+      "Brisbane",
+      "Perth",
+      "Adelaide",
+      "Gold Coast",
+      "Canberra",
+      "Auckland"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Cities Around the World",
+    "difficulty": "easy",
+    "id": "f3f2775b-f7f8-4924-9f6f-3e50dbbdf67d",
+    "created_at": "2025-04-19T18:14:41.093Z",
+    "backupTimestamp": "2025-04-19T18:14:41.093Z",
+    "localBackupTimestamp": "2025-04-19T12:14:41.093Z"
+  },
+  {
+    "question": "Which city is the capital of Brazil?",
+    "correct_answer": "Brasília",
+    "incorrect_answers": [
+      "Rio de Janeiro",
+      "São Paulo",
+      "Salvador",
+      "Fortaleza",
+      "Manaus",
+      "Recife",
+      "Belo Horizonte"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Cities Around the World",
+    "difficulty": "easy",
+    "id": "0480eb56-b874-40b2-bc9f-8c46d3a6b95d",
+    "created_at": "2025-04-19T18:14:41.095Z",
+    "backupTimestamp": "2025-04-19T18:14:41.095Z",
+    "localBackupTimestamp": "2025-04-19T12:14:41.095Z"
+  },
+  {
+    "question": "Which city is known for its canals and gondolas?",
+    "correct_answer": "Venice",
+    "incorrect_answers": [
+      "Amsterdam",
+      "Copenhagen",
+      "Stockholm",
+      "Bruges",
+      "Hamburg",
+      "St. Petersburg",
+      "Bangkok"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Cities Around the World",
+    "difficulty": "easy",
+    "id": "4e911cdc-977a-4881-aaea-6d4fabf568b9",
+    "created_at": "2025-04-19T18:14:41.098Z",
+    "backupTimestamp": "2025-04-19T18:14:41.098Z",
+    "localBackupTimestamp": "2025-04-19T12:14:41.098Z"
+  },
+  {
+    "question": "Which city is the capital of India?",
+    "correct_answer": "New Delhi",
+    "incorrect_answers": [
+      "Mumbai",
+      "Kolkata",
+      "Chennai",
+      "Bangalore",
+      "Hyderabad",
+      "Ahmedabad",
+      "Jaipur"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Cities Around the World",
+    "difficulty": "easy",
+    "id": "701f98eb-66ce-4a86-9bae-fad90b3a6f8d",
+    "created_at": "2025-04-19T18:14:41.100Z",
+    "backupTimestamp": "2025-04-19T18:14:41.100Z",
+    "localBackupTimestamp": "2025-04-19T12:14:41.100Z"
+  },
+  {
+    "question": "Which city is home to the Forbidden City?",
+    "correct_answer": "Beijing",
+    "incorrect_answers": [
+      "Shanghai",
+      "Hong Kong",
+      "Tokyo",
+      "Seoul",
+      "Taipei",
+      "Kyoto",
+      "Guangzhou"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Cities Around the World",
+    "difficulty": "easy",
+    "id": "18429d80-227e-4854-b0a0-2dd55ae926ff",
+    "created_at": "2025-04-19T18:14:41.102Z",
+    "backupTimestamp": "2025-04-19T18:14:41.103Z",
+    "localBackupTimestamp": "2025-04-19T12:14:41.103Z"
+  },
+  {
+    "question": "Which city is the capital of Egypt?",
+    "correct_answer": "Cairo",
+    "incorrect_answers": [
+      "Alexandria",
+      "Luxor",
+      "Aswan",
+      "Sharm El Sheikh",
+      "Hurghada",
+      "Port Said",
+      "Giza"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Cities Around the World",
+    "difficulty": "easy",
+    "id": "0de25347-9595-4021-92e7-54d1b9f18a66",
+    "created_at": "2025-04-19T18:14:41.104Z",
+    "backupTimestamp": "2025-04-19T18:14:41.104Z",
+    "localBackupTimestamp": "2025-04-19T12:14:41.104Z"
+  },
+  {
+    "question": "Which city hosts the largest Oktoberfest celebration?",
+    "correct_answer": "Munich",
+    "incorrect_answers": [
+      "Berlin",
+      "Hamburg",
+      "Frankfurt",
+      "Cologne",
+      "Stuttgart",
+      "Dresden",
+      "Vienna"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Cities Around the World",
+    "difficulty": "easy",
+    "id": "62666721-40d6-4299-aa25-db578c6f991f",
+    "created_at": "2025-04-19T18:14:41.106Z",
+    "backupTimestamp": "2025-04-19T18:14:41.106Z",
+    "localBackupTimestamp": "2025-04-19T12:14:41.106Z"
+  },
+  {
+    "question": "Which city is the capital of South Africa?",
+    "correct_answer": "Pretoria",
+    "incorrect_answers": [
+      "Cape Town",
+      "Johannesburg",
+      "Durban",
+      "Bloemfontein",
+      "Port Elizabeth",
+      "Soweto",
+      "East London"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Cities Around the World",
+    "difficulty": "easy",
+    "id": "44b80946-778d-4a6f-9ca3-f42ea3dc0b49",
+    "created_at": "2025-04-19T18:14:41.108Z",
+    "backupTimestamp": "2025-04-19T18:14:41.108Z",
+    "localBackupTimestamp": "2025-04-19T12:14:41.108Z"
+  },
+  {
+    "question": "Which city is known for its ancient Acropolis?",
+    "correct_answer": "Athens",
+    "incorrect_answers": [
+      "Rome",
+      "Istanbul",
+      "Cairo",
+      "Jerusalem",
+      "Thessaloniki",
+      "Alexandria",
+      "Ankara"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Cities Around the World",
+    "difficulty": "easy",
+    "id": "ecec54e1-232b-4a2e-8390-6bdc41bf4c51",
+    "created_at": "2025-04-19T18:14:41.110Z",
+    "backupTimestamp": "2025-04-19T18:14:41.110Z",
+    "localBackupTimestamp": "2025-04-19T12:14:41.110Z"
+  },
+  {
+    "question": "Which city is the capital of Argentina?",
+    "correct_answer": "Buenos Aires",
+    "incorrect_answers": [
+      "Santiago",
+      "Lima",
+      "Montevideo",
+      "Bogotá",
+      "São Paulo",
+      "Caracas",
+      "Córdoba"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Cities Around the World",
+    "difficulty": "easy",
+    "id": "de838cbf-8f50-4334-9fcd-c6e4e63513a6",
+    "created_at": "2025-04-19T18:14:41.111Z",
+    "backupTimestamp": "2025-04-19T18:14:41.112Z",
+    "localBackupTimestamp": "2025-04-19T12:14:41.112Z"
+  },
+  {
+    "question": "Which city is home to the Statue of Liberty?",
+    "correct_answer": "New York City",
+    "incorrect_answers": [
+      "Washington D.C.",
+      "Boston",
+      "Philadelphia",
+      "Chicago",
+      "Los Angeles",
+      "San Francisco",
+      "Miami"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Cities Around the World",
+    "difficulty": "easy",
+    "id": "fa7bbf19-06bc-44dd-b338-f269f586be96",
+    "created_at": "2025-04-19T18:14:41.113Z",
+    "backupTimestamp": "2025-04-19T18:14:41.114Z",
+    "localBackupTimestamp": "2025-04-19T12:14:41.114Z"
+  },
+  {
+    "question": "Which city is the capital of Thailand?",
+    "correct_answer": "Bangkok",
+    "incorrect_answers": [
+      "Phuket",
+      "Chiang Mai",
+      "Pattaya",
+      "Krabi",
+      "Koh Samui",
+      "Ayutthaya",
+      "Hat Yai"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Cities Around the World",
+    "difficulty": "easy",
+    "id": "0a8749c0-9853-4c89-be84-b83ef7f28953",
+    "created_at": "2025-04-19T18:14:41.115Z",
+    "backupTimestamp": "2025-04-19T18:14:41.116Z",
+    "localBackupTimestamp": "2025-04-19T12:14:41.116Z"
+  },
+  {
+    "question": "Which city is known as the 'Windy City'?",
+    "correct_answer": "Chicago",
+    "incorrect_answers": [
+      "Boston",
+      "New York City",
+      "Seattle",
+      "San Francisco",
+      "Denver",
+      "Detroit",
+      "Minneapolis"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Cities Around the World",
+    "difficulty": "easy",
+    "id": "b8c848bb-941d-4cba-abb1-1cbbcad21b60",
+    "created_at": "2025-04-19T18:14:41.117Z",
+    "backupTimestamp": "2025-04-19T18:14:41.117Z",
+    "localBackupTimestamp": "2025-04-19T12:14:41.117Z"
+  },
+  {
+    "question": "Which city is the capital of South Korea?",
+    "correct_answer": "Seoul",
+    "incorrect_answers": [
+      "Busan",
+      "Incheon",
+      "Daegu",
+      "Daejeon",
+      "Gwangju",
+      "Ulsan",
+      "Suwon"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Cities Around the World",
+    "difficulty": "easy",
+    "id": "f8fae9e6-faf6-49d2-85bc-1894966c742c",
+    "created_at": "2025-04-19T18:14:41.119Z",
+    "backupTimestamp": "2025-04-19T18:14:41.120Z",
+    "localBackupTimestamp": "2025-04-19T12:14:41.120Z"
+  },
+  {
+    "question": "Which city is home to the Brandenburg Gate?",
+    "correct_answer": "Berlin",
+    "incorrect_answers": [
+      "Munich",
+      "Hamburg",
+      "Frankfurt",
+      "Cologne",
+      "Dresden",
+      "Stuttgart",
+      "Vienna"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Cities Around the World",
+    "difficulty": "easy",
+    "id": "7961f423-3a17-4d13-a3cd-ea8eb7a618e2",
+    "created_at": "2025-04-19T18:14:41.122Z",
+    "backupTimestamp": "2025-04-19T18:14:41.122Z",
+    "localBackupTimestamp": "2025-04-19T12:14:41.122Z"
+  },
+  {
+    "question": "Which city is the capital of Turkey?",
+    "correct_answer": "Ankara",
+    "incorrect_answers": [
+      "Istanbul",
+      "Izmir",
+      "Antalya",
+      "Bursa",
+      "Adana",
+      "Konya",
+      "Gaziantep"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Cities Around the World",
+    "difficulty": "easy",
+    "id": "8c602066-3925-4991-8d0d-cec2d4d4f7c2",
+    "created_at": "2025-04-19T18:14:41.123Z",
+    "backupTimestamp": "2025-04-19T18:14:41.123Z",
+    "localBackupTimestamp": "2025-04-19T12:14:41.123Z"
+  },
+  {
+    "question": "Which city is known for the Space Needle tower?",
+    "correct_answer": "Seattle",
+    "incorrect_answers": [
+      "Portland",
+      "San Francisco",
+      "Los Angeles",
+      "Chicago",
+      "New York City",
+      "Dallas",
+      "Houston"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Cities Around the World",
+    "difficulty": "easy",
+    "id": "a049cdfa-541f-43c8-92c9-8d3dee13da52",
+    "created_at": "2025-04-19T18:14:41.125Z",
+    "backupTimestamp": "2025-04-19T18:14:41.125Z",
+    "localBackupTimestamp": "2025-04-19T12:14:41.125Z"
+  },
+  {
+    "question": "Which city is the capital of Sweden?",
+    "correct_answer": "Stockholm",
+    "incorrect_answers": [
+      "Oslo",
+      "Copenhagen",
+      "Helsinki",
+      "Gothenburg",
+      "Malmö",
+      "Uppsala",
+      "Bergen"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Cities Around the World",
+    "difficulty": "easy",
+    "id": "7c7167f4-f9f1-44b3-a704-cf4c1530fe1f",
+    "created_at": "2025-04-19T18:14:41.126Z",
+    "backupTimestamp": "2025-04-19T18:14:41.126Z",
+    "localBackupTimestamp": "2025-04-19T12:14:41.126Z"
+  },
+  {
+    "question": "Which city is home to the Christ the Redeemer statue?",
+    "correct_answer": "Rio de Janeiro",
+    "incorrect_answers": [
+      "São Paulo",
+      "Brasília",
+      "Salvador",
+      "Buenos Aires",
+      "Lima",
+      "Bogotá",
+      "Santiago"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Cities Around the World",
+    "difficulty": "easy",
+    "id": "da7d3138-dbda-4026-aa6c-9f9bfcd7cc32",
+    "created_at": "2025-04-19T18:14:41.129Z",
+    "backupTimestamp": "2025-04-19T18:14:41.129Z",
+    "localBackupTimestamp": "2025-04-19T12:14:41.129Z"
+  },
+  {
+    "question": "Which city is the capital of Cuba?",
+    "correct_answer": "Havana",
+    "incorrect_answers": [
+      "Santiago de Cuba",
+      "Santo Domingo",
+      "San Juan",
+      "Kingston",
+      "Nassau",
+      "Port-au-Prince",
+      "Cancun"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Cities Around the World",
+    "difficulty": "easy",
+    "id": "4cd0fac1-e57f-4e60-aca0-86206e45f628",
+    "created_at": "2025-04-19T18:14:41.131Z",
+    "backupTimestamp": "2025-04-19T18:14:41.131Z",
+    "localBackupTimestamp": "2025-04-19T12:14:41.131Z"
+  },
+  {
+    "question": "Which city is known for its red light district and canals?",
+    "correct_answer": "Amsterdam",
+    "incorrect_answers": [
+      "Copenhagen",
+      "Hamburg",
+      "Venice",
+      "Bruges",
+      "Stockholm",
+      "Brussels",
+      "Rotterdam"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Cities Around the World",
+    "difficulty": "easy",
+    "id": "c0b832ef-92d3-40ca-82f8-5768e645fcce",
+    "created_at": "2025-04-19T18:14:41.133Z",
+    "backupTimestamp": "2025-04-19T18:14:41.133Z",
+    "localBackupTimestamp": "2025-04-19T12:14:41.133Z"
+  },
+  {
+    "question": "Which city is the capital of Portugal?",
+    "correct_answer": "Lisbon",
+    "incorrect_answers": [
+      "Porto",
+      "Madrid",
+      "Barcelona",
+      "Seville",
+      "Valencia",
+      "Coimbra",
+      "Braga"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Cities Around the World",
+    "difficulty": "easy",
+    "id": "07b70257-4234-43e1-8b45-17e366e96e1a",
+    "created_at": "2025-04-19T18:14:41.135Z",
+    "backupTimestamp": "2025-04-19T18:14:41.135Z",
+    "localBackupTimestamp": "2025-04-19T12:14:41.135Z"
+  },
+  {
+    "question": "Which city is home to the Burj Khalifa, the world's tallest building?",
+    "correct_answer": "Dubai",
+    "incorrect_answers": [
+      "Abu Dhabi",
+      "Doha",
+      "Riyadh",
+      "Kuwait City",
+      "Muscat",
+      "Manama",
+      "Jeddah"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Cities Around the World",
+    "difficulty": "easy",
+    "id": "c54be929-948d-4a7d-8340-e8a32ce67310",
+    "created_at": "2025-04-19T18:14:41.138Z",
+    "backupTimestamp": "2025-04-19T18:14:41.138Z",
+    "localBackupTimestamp": "2025-04-19T12:14:41.138Z"
+  },
+  {
+    "question": "Which city is the capital of Greece?",
+    "correct_answer": "Athens",
+    "incorrect_answers": [
+      "Thessaloniki",
+      "Patras",
+      "Heraklion",
+      "Larissa",
+      "Rhodes",
+      "Corinth",
+      "Sparta"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Cities Around the World",
+    "difficulty": "easy",
+    "id": "6aa5e1d9-d000-431a-b8bf-7a1cc1880c63",
+    "created_at": "2025-04-19T18:14:41.139Z",
+    "backupTimestamp": "2025-04-19T18:14:41.140Z",
+    "localBackupTimestamp": "2025-04-19T12:14:41.140Z"
+  },
+  {
+    "question": "Which city is famous for the Leaning Tower?",
+    "correct_answer": "Pisa",
+    "incorrect_answers": [
+      "Rome",
+      "Florence",
+      "Venice",
+      "Milan",
+      "Naples",
+      "Turin",
+      "Bologna"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Cities Around the World",
+    "difficulty": "easy",
+    "id": "221ea4e5-59ae-4467-a479-95835a1c5a5c",
+    "created_at": "2025-04-19T18:14:41.141Z",
+    "backupTimestamp": "2025-04-19T18:14:41.142Z",
+    "localBackupTimestamp": "2025-04-19T12:14:41.142Z"
+  },
+  {
+    "question": "Which city is the capital of Colombia?",
+    "correct_answer": "Bogotá",
+    "incorrect_answers": [
+      "Medellin",
+      "Cali",
+      "Cartagena",
+      "Barranquilla",
+      "Lima",
+      "Quito",
+      "Caracas"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Cities Around the World",
+    "difficulty": "easy",
+    "id": "dc3801b0-29ea-427e-8bd0-797ed7fa644f",
+    "created_at": "2025-04-19T18:14:41.143Z",
+    "backupTimestamp": "2025-04-19T18:14:41.143Z",
+    "localBackupTimestamp": "2025-04-19T12:14:41.143Z"
+  },
+  {
+    "question": "Which city is home to the Hermitage Museum?",
+    "correct_answer": "Saint Petersburg",
+    "incorrect_answers": [
+      "Moscow",
+      "Kiev",
+      "Warsaw",
+      "Prague",
+      "Vienna",
+      "Berlin",
+      "Budapest"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Cities Around the World",
+    "difficulty": "easy",
+    "id": "41cea90b-32fb-4ff5-8995-d3ff6208ae6e",
+    "created_at": "2025-04-19T18:14:41.145Z",
+    "backupTimestamp": "2025-04-19T18:14:41.145Z",
+    "localBackupTimestamp": "2025-04-19T12:14:41.145Z"
+  },
+  {
+    "question": "Which city is the capital of New Zealand?",
+    "correct_answer": "Wellington",
+    "incorrect_answers": [
+      "Auckland",
+      "Christchurch",
+      "Hamilton",
+      "Dunedin",
+      "Queenstown",
+      "Napier",
+      "Rotorua"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Cities Around the World",
+    "difficulty": "easy",
+    "id": "465ecfb5-a20a-4632-8c7a-6b3c10cdf109",
+    "created_at": "2025-04-19T18:14:41.147Z",
+    "backupTimestamp": "2025-04-19T18:14:41.148Z",
+    "localBackupTimestamp": "2025-04-19T12:14:41.148Z"
+  },
+  {
+    "question": "Which city is known as the 'City of Canals'?",
+    "correct_answer": "Venice",
+    "incorrect_answers": [
+      "Amsterdam",
+      "Stockholm",
+      "Copenhagen",
+      "Bruges",
+      "Hamburg",
+      "Utrecht",
+      "Bangkok"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Cities Around the World",
+    "difficulty": "easy",
+    "id": "806ab307-e7ce-479e-9102-fc7440bd0cec",
+    "created_at": "2025-04-19T18:14:41.149Z",
+    "backupTimestamp": "2025-04-19T18:14:41.150Z",
+    "localBackupTimestamp": "2025-04-19T12:14:41.150Z"
+  },
+  {
+    "question": "Which city is the capital of Ireland?",
+    "correct_answer": "Dublin",
+    "incorrect_answers": [
+      "Cork",
+      "Galway",
+      "Limerick",
+      "Belfast",
+      "Waterford",
+      "Kilkenny",
+      "Derry"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Cities Around the World",
+    "difficulty": "easy",
+    "id": "8bca10a2-e4b9-4952-9c93-53009318e1d7",
+    "created_at": "2025-04-19T18:14:41.151Z",
+    "backupTimestamp": "2025-04-19T18:14:41.152Z",
+    "localBackupTimestamp": "2025-04-19T12:14:41.152Z"
+  },
+  {
+    "question": "Which city is home to the famous Sagrada Familia church?",
+    "correct_answer": "Barcelona",
+    "incorrect_answers": [
+      "Madrid",
+      "Seville",
+      "Valencia",
+      "Malaga",
+      "Granada",
+      "Bilbao",
+      "Toledo"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Cities Around the World",
+    "difficulty": "easy",
+    "id": "974349db-8d2b-4105-b18c-00b6ede03cd1",
+    "created_at": "2025-04-19T18:14:41.154Z",
+    "backupTimestamp": "2025-04-19T18:14:41.154Z",
+    "localBackupTimestamp": "2025-04-19T12:14:41.154Z"
+  },
+  {
+    "question": "Which city is the capital of Hungary?",
+    "correct_answer": "Budapest",
+    "incorrect_answers": [
+      "Prague",
+      "Vienna",
+      "Bratislava",
+      "Warsaw",
+      "Zagreb",
+      "Bucharest",
+      "Belgrade"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Cities Around the World",
+    "difficulty": "easy",
+    "id": "c1c82527-cd05-4742-837a-fb51fa448755",
+    "created_at": "2025-04-19T18:14:41.156Z",
+    "backupTimestamp": "2025-04-19T18:14:41.156Z",
+    "localBackupTimestamp": "2025-04-19T12:14:41.156Z"
+  },
+  {
+    "question": "Which city is known for its cable cars and steep hills?",
+    "correct_answer": "San Francisco",
+    "incorrect_answers": [
+      "Seattle",
+      "Los Angeles",
+      "Portland",
+      "Denver",
+      "Boston",
+      "New York City",
+      "Chicago"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Cities Around the World",
+    "difficulty": "easy",
+    "id": "485636a1-66f6-4ead-a0e8-c0c9c2c1e1ec",
+    "created_at": "2025-04-19T18:14:41.157Z",
+    "backupTimestamp": "2025-04-19T18:14:41.157Z",
+    "localBackupTimestamp": "2025-04-19T12:14:41.157Z"
+  },
+  {
+    "question": "Which city is the capital of Morocco?",
+    "correct_answer": "Rabat",
+    "incorrect_answers": [
+      "Casablanca",
+      "Marrakech",
+      "Fez",
+      "Tangier",
+      "Agadir",
+      "Meknes",
+      "Essaouira"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Cities Around the World",
+    "difficulty": "easy",
+    "id": "75fe42ab-17b3-48f2-b89c-54a71fe49d71",
+    "created_at": "2025-04-19T18:14:41.159Z",
+    "backupTimestamp": "2025-04-19T18:14:41.159Z",
+    "localBackupTimestamp": "2025-04-19T12:14:41.159Z"
+  },
+  {
+    "question": "Which city is famous for its Red Square?",
+    "correct_answer": "Moscow",
+    "incorrect_answers": [
+      "Saint Petersburg",
+      "Kiev",
+      "Warsaw",
+      "Prague",
+      "Berlin",
+      "Budapest",
+      "Minsk"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Cities Around the World",
+    "difficulty": "easy",
+    "id": "a437c4fc-ddd6-419a-947b-2bf1853fed49",
+    "created_at": "2025-04-19T18:14:41.161Z",
+    "backupTimestamp": "2025-04-19T18:14:41.161Z",
+    "localBackupTimestamp": "2025-04-19T12:14:41.161Z"
+  },
+  {
+    "question": "Which city is the capital of Vietnam?",
+    "correct_answer": "Hanoi",
+    "incorrect_answers": [
+      "Ho Chi Minh City",
+      "Da Nang",
+      "Hue",
+      "Haiphong",
+      "Nha Trang",
+      "Can Tho",
+      "Bangkok"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Cities Around the World",
+    "difficulty": "easy",
+    "id": "2b60e089-2c8f-4216-a929-943a1096d21b",
+    "created_at": "2025-04-19T18:14:41.163Z",
+    "backupTimestamp": "2025-04-19T18:14:41.163Z",
+    "localBackupTimestamp": "2025-04-19T12:14:41.163Z"
+  },
+  {
+    "question": "Which city was formerly known as Constantinople?",
+    "correct_answer": "Istanbul",
+    "incorrect_answers": [
+      "Athens",
+      "Ankara",
+      "Izmir",
+      "Sofia",
+      "Thessaloniki",
+      "Alexandria",
+      "Beirut"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Cities Around the World",
+    "difficulty": "medium",
+    "id": "3e575efc-17bb-4cdd-ab64-0b4a59dd29f5",
+    "created_at": "2025-04-19T18:18:52.978Z",
+    "backupTimestamp": "2025-04-19T18:18:52.979Z",
+    "localBackupTimestamp": "2025-04-19T12:18:52.979Z"
+  },
+  {
+    "question": "Which Asian city is nicknamed the 'Pearl of the Orient'?",
+    "correct_answer": "Hong Kong",
+    "incorrect_answers": [
+      "Shanghai",
+      "Singapore",
+      "Tokyo",
+      "Seoul",
+      "Manila",
+      "Bangkok",
+      "Taipei"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Cities Around the World",
+    "difficulty": "medium",
+    "id": "0c31526d-7778-453e-89f6-e7e0632e57c3",
+    "created_at": "2025-04-19T18:18:52.985Z",
+    "backupTimestamp": "2025-04-19T18:18:52.986Z",
+    "localBackupTimestamp": "2025-04-19T12:18:52.986Z"
+  },
+  {
+    "question": "Which city is home to the famous Spanish Steps?",
+    "correct_answer": "Rome",
+    "incorrect_answers": [
+      "Madrid",
+      "Barcelona",
+      "Seville",
+      "Valencia",
+      "Florence",
+      "Naples",
+      "Malaga"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Cities Around the World",
+    "difficulty": "medium",
+    "id": "be85af17-446b-4f1e-b5f5-938a2b515a71",
+    "created_at": "2025-04-19T18:18:52.988Z",
+    "backupTimestamp": "2025-04-19T18:18:52.989Z",
+    "localBackupTimestamp": "2025-04-19T12:18:52.989Z"
+  },
+  {
+    "question": "Which city hosts the world's largest carnival celebration?",
+    "correct_answer": "Rio de Janeiro",
+    "incorrect_answers": [
+      "New Orleans",
+      "Venice",
+      "Cologne",
+      "Salvador",
+      "Nice",
+      "Trinidad",
+      "Barranquilla"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Cities Around the World",
+    "difficulty": "medium",
+    "id": "0716c9ab-2b28-4840-9d9f-db5fdcead35f",
+    "created_at": "2025-04-19T18:18:52.992Z",
+    "backupTimestamp": "2025-04-19T18:18:52.993Z",
+    "localBackupTimestamp": "2025-04-19T12:18:52.993Z"
+  },
+  {
+    "question": "Which city has the nickname 'The Eternal City'?",
+    "correct_answer": "Rome",
+    "incorrect_answers": [
+      "Athens",
+      "Jerusalem",
+      "Cairo",
+      "Damascus",
+      "Istanbul",
+      "Beijing",
+      "Alexandria"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Cities Around the World",
+    "difficulty": "medium",
+    "id": "846c47ac-1a61-4315-950e-76da710e1456",
+    "created_at": "2025-04-19T18:18:52.995Z",
+    "backupTimestamp": "2025-04-19T18:18:52.995Z",
+    "localBackupTimestamp": "2025-04-19T12:18:52.995Z"
+  },
+  {
+    "question": "Which city was built on 118 small islands?",
+    "correct_answer": "Venice",
+    "incorrect_answers": [
+      "Amsterdam",
+      "Stockholm",
+      "Copenhagen",
+      "Helsinki",
+      "St. Petersburg",
+      "Bangkok",
+      "Singapore"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Cities Around the World",
+    "difficulty": "medium",
+    "id": "bc36f197-5e68-442d-b210-0068ec66b412",
+    "created_at": "2025-04-19T18:18:52.997Z",
+    "backupTimestamp": "2025-04-19T18:18:52.998Z",
+    "localBackupTimestamp": "2025-04-19T12:18:52.998Z"
+  },
+  {
+    "question": "Which city is known as the 'City of Mozart'?",
+    "correct_answer": "Salzburg",
+    "incorrect_answers": [
+      "Vienna",
+      "Prague",
+      "Munich",
+      "Leipzig",
+      "Budapest",
+      "Milan",
+      "Zurich"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Cities Around the World",
+    "difficulty": "medium",
+    "id": "58189cf1-4adf-4932-a845-bccb77c4c75c",
+    "created_at": "2025-04-19T18:18:53.001Z",
+    "backupTimestamp": "2025-04-19T18:18:53.001Z",
+    "localBackupTimestamp": "2025-04-19T12:18:53.001Z"
+  },
+  {
+    "question": "Which South American city is the highest administrative capital?",
+    "correct_answer": "La Paz",
+    "incorrect_answers": [
+      "Quito",
+      "Bogotá",
+      "Sucre",
+      "Lima",
+      "Santiago",
+      "Brasília",
+      "Caracas"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Cities Around the World",
+    "difficulty": "medium",
+    "id": "50515334-20ac-41b8-86d6-db933d87fb27",
+    "created_at": "2025-04-19T18:18:53.004Z",
+    "backupTimestamp": "2025-04-19T18:18:53.004Z",
+    "localBackupTimestamp": "2025-04-19T12:18:53.004Z"
+  },
+  {
+    "question": "Which city is the capital of the autonomous region of Catalonia?",
+    "correct_answer": "Barcelona",
+    "incorrect_answers": [
+      "Valencia",
+      "Seville",
+      "Madrid",
+      "Bilbao",
+      "Zaragoza",
+      "Málaga",
+      "Lisbon"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Cities Around the World",
+    "difficulty": "medium",
+    "id": "6f0ddc1b-3dd1-406f-bc7f-452fa7a58179",
+    "created_at": "2025-04-19T18:18:53.007Z",
+    "backupTimestamp": "2025-04-19T18:18:53.007Z",
+    "localBackupTimestamp": "2025-04-19T12:18:53.007Z"
+  },
+  {
+    "question": "Which city is located at the confluence of the Blue and White Nile?",
+    "correct_answer": "Khartoum",
+    "incorrect_answers": [
+      "Cairo",
+      "Alexandria",
+      "Luxor",
+      "Aswan",
+      "Addis Ababa",
+      "Nairobi",
+      "Juba"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Cities Around the World",
+    "difficulty": "medium",
+    "id": "267048e0-1646-4392-b502-9b49b12fcf31",
+    "created_at": "2025-04-19T18:18:53.011Z",
+    "backupTimestamp": "2025-04-19T18:18:53.011Z",
+    "localBackupTimestamp": "2025-04-19T12:18:53.011Z"
+  },
+  {
+    "question": "Which city is home to the ancient ruins of Machu Picchu?",
+    "correct_answer": "Cusco",
+    "incorrect_answers": [
+      "Lima",
+      "La Paz",
+      "Quito",
+      "Santiago",
+      "Bogotá",
+      "Arequipa",
+      "Iquitos"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Cities Around the World",
+    "difficulty": "medium",
+    "id": "288929af-bac0-4b39-b7b1-3eece0c5d317",
+    "created_at": "2025-04-19T18:18:53.013Z",
+    "backupTimestamp": "2025-04-19T18:18:53.013Z",
+    "localBackupTimestamp": "2025-04-19T12:18:53.013Z"
+  },
+  {
+    "question": "Which city is nicknamed the 'Bride of the Mediterranean'?",
+    "correct_answer": "Alexandria",
+    "incorrect_answers": [
+      "Athens",
+      "Beirut",
+      "Tel Aviv",
+      "Tunis",
+      "Algiers",
+      "Marseille",
+      "Barcelona"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Cities Around the World",
+    "difficulty": "medium",
+    "id": "c9fccbde-3f99-428c-8b4b-5ddb033132e7",
+    "created_at": "2025-04-19T18:18:53.015Z",
+    "backupTimestamp": "2025-04-19T18:18:53.016Z",
+    "localBackupTimestamp": "2025-04-19T12:18:53.016Z"
+  },
+  {
+    "question": "Which city is known as the 'Paris of the East'?",
+    "correct_answer": "Budapest",
+    "incorrect_answers": [
+      "Prague",
+      "Vienna",
+      "Bucharest",
+      "Warsaw",
+      "Sofia",
+      "Berlin",
+      "Moscow"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Cities Around the World",
+    "difficulty": "medium",
+    "id": "918491a9-dddc-4e4f-8cb5-6329a1895fe0",
+    "created_at": "2025-04-19T18:18:53.018Z",
+    "backupTimestamp": "2025-04-19T18:18:53.018Z",
+    "localBackupTimestamp": "2025-04-19T12:18:53.018Z"
+  },
+  {
+    "question": "Which city has the busiest subway system in the world?",
+    "correct_answer": "Tokyo",
+    "incorrect_answers": [
+      "New York City",
+      "London",
+      "Moscow",
+      "Beijing",
+      "Shanghai",
+      "Seoul",
+      "Mexico City"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Cities Around the World",
+    "difficulty": "medium",
+    "id": "856bf9fc-b411-4236-8ebc-de1bd54c00d6",
+    "created_at": "2025-04-19T18:18:53.020Z",
+    "backupTimestamp": "2025-04-19T18:18:53.020Z",
+    "localBackupTimestamp": "2025-04-19T12:18:53.020Z"
+  },
+  {
+    "question": "Which city is home to the Grand Palace and Wat Phra Kaew?",
+    "correct_answer": "Bangkok",
+    "incorrect_answers": [
+      "Hanoi",
+      "Singapore",
+      "Kuala Lumpur",
+      "Phnom Penh",
+      "Jakarta",
+      "Manila",
+      "Ho Chi Minh City"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Cities Around the World",
+    "difficulty": "medium",
+    "id": "07d651cd-8cba-4610-ae5f-dadac48de4bc",
+    "created_at": "2025-04-19T18:18:53.022Z",
+    "backupTimestamp": "2025-04-19T18:18:53.022Z",
+    "localBackupTimestamp": "2025-04-19T12:18:53.022Z"
+  },
+  {
+    "question": "Which city is nicknamed 'The Smoke' by Australians?",
+    "correct_answer": "London",
+    "incorrect_answers": [
+      "Sydney",
+      "Melbourne",
+      "Manchester",
+      "Edinburgh",
+      "Glasgow",
+      "Birmingham",
+      "Liverpool"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Cities Around the World",
+    "difficulty": "medium",
+    "id": "3c848b3d-1b8c-418a-ad07-aaf472c03f60",
+    "created_at": "2025-04-19T18:18:53.024Z",
+    "backupTimestamp": "2025-04-19T18:18:53.025Z",
+    "localBackupTimestamp": "2025-04-19T12:18:53.025Z"
+  },
+  {
+    "question": "Which city is known as the 'City of Seven Hills'?",
+    "correct_answer": "Rome",
+    "incorrect_answers": [
+      "Lisbon",
+      "Istanbul",
+      "San Francisco",
+      "Athens",
+      "Jerusalem",
+      "Cincinnati",
+      "Seattle"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Cities Around the World",
+    "difficulty": "medium",
+    "id": "f74ae190-7671-42a6-9ebb-6b6ec30ffdc7",
+    "created_at": "2025-04-19T18:18:53.028Z",
+    "backupTimestamp": "2025-04-19T18:18:53.028Z",
+    "localBackupTimestamp": "2025-04-19T12:18:53.028Z"
+  },
+  {
+    "question": "Which city is the largest in Africa by population?",
+    "correct_answer": "Cairo",
+    "incorrect_answers": [
+      "Lagos",
+      "Kinshasa",
+      "Johannesburg",
+      "Nairobi",
+      "Casablanca",
+      "Algiers",
+      "Addis Ababa"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Cities Around the World",
+    "difficulty": "medium",
+    "id": "d54d09fa-de80-4cea-8396-1fa58e8f8309",
+    "created_at": "2025-04-19T18:18:53.031Z",
+    "backupTimestamp": "2025-04-19T18:18:53.031Z",
+    "localBackupTimestamp": "2025-04-19T12:18:53.031Z"
+  },
+  {
+    "question": "Which city is known for its Blue Mosque and Hagia Sophia?",
+    "correct_answer": "Istanbul",
+    "incorrect_answers": [
+      "Ankara",
+      "Izmir",
+      "Damascus",
+      "Tehran",
+      "Jerusalem",
+      "Cairo",
+      "Baghdad"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Cities Around the World",
+    "difficulty": "medium",
+    "id": "79dc1664-e28a-4d1d-a97f-e53b07813fa9",
+    "created_at": "2025-04-19T18:18:53.033Z",
+    "backupTimestamp": "2025-04-19T18:18:53.034Z",
+    "localBackupTimestamp": "2025-04-19T12:18:53.034Z"
+  },
+  {
+    "question": "Which city is built on 42 islands connected by 80 bridges?",
+    "correct_answer": "Stockholm",
+    "incorrect_answers": [
+      "Copenhagen",
+      "Helsinki",
+      "Oslo",
+      "Amsterdam",
+      "Venice",
+      "Hamburg",
+      "St. Petersburg"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Cities Around the World",
+    "difficulty": "medium",
+    "id": "ec9aa82f-c88b-48f3-8a83-dd86d62b9276",
+    "created_at": "2025-04-19T18:18:53.036Z",
+    "backupTimestamp": "2025-04-19T18:18:53.036Z",
+    "localBackupTimestamp": "2025-04-19T12:18:53.036Z"
+  },
+  {
+    "question": "Which city is home to Wenceslas Square?",
+    "correct_answer": "Prague",
+    "incorrect_answers": [
+      "Vienna",
+      "Warsaw",
+      "Budapest",
+      "Bratislava",
+      "Krakow",
+      "Munich",
+      "Berlin"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Cities Around the World",
+    "difficulty": "medium",
+    "id": "ccb389d2-6ddc-4c42-af32-024d1f4b3ee1",
+    "created_at": "2025-04-19T18:18:53.040Z",
+    "backupTimestamp": "2025-04-19T18:18:53.040Z",
+    "localBackupTimestamp": "2025-04-19T12:18:53.040Z"
+  },
+  {
+    "question": "Which city's airport code is SIN?",
+    "correct_answer": "Singapore",
+    "incorrect_answers": [
+      "Shanghai",
+      "Sydney",
+      "Seoul",
+      "Santiago",
+      "San Juan",
+      "Stockholm",
+      "San Diego"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Cities Around the World",
+    "difficulty": "medium",
+    "id": "20e27f1f-4d10-4862-a1f6-e9a89308ca55",
+    "created_at": "2025-04-19T18:18:53.044Z",
+    "backupTimestamp": "2025-04-19T18:18:53.045Z",
+    "localBackupTimestamp": "2025-04-19T12:18:53.045Z"
+  },
+  {
+    "question": "Which European city is nicknamed the 'Venice of the North'?",
+    "correct_answer": "Amsterdam",
+    "incorrect_answers": [
+      "Stockholm",
+      "Copenhagen",
+      "St. Petersburg",
+      "Bruges",
+      "Hamburg",
+      "Berlin",
+      "Helsinki"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Cities Around the World",
+    "difficulty": "medium",
+    "id": "f3b18e5a-acb3-4a28-bc52-85a21f90a999",
+    "created_at": "2025-04-19T18:18:53.048Z",
+    "backupTimestamp": "2025-04-19T18:18:53.049Z",
+    "localBackupTimestamp": "2025-04-19T12:18:53.049Z"
+  },
+  {
+    "question": "Which city is home to the Prado Museum?",
+    "correct_answer": "Madrid",
+    "incorrect_answers": [
+      "Barcelona",
+      "Seville",
+      "Valencia",
+      "Lisbon",
+      "Rome",
+      "Paris",
+      "Florence"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Cities Around the World",
+    "difficulty": "medium",
+    "id": "676e5ae6-6484-4323-9bd7-d83b9b81a1dd",
+    "created_at": "2025-04-19T18:18:53.053Z",
+    "backupTimestamp": "2025-04-19T18:18:53.053Z",
+    "localBackupTimestamp": "2025-04-19T12:18:53.053Z"
+  },
+  {
+    "question": "Which city is known as the 'Pink City' of India?",
+    "correct_answer": "Jaipur",
+    "incorrect_answers": [
+      "New Delhi",
+      "Mumbai",
+      "Agra",
+      "Kolkata",
+      "Chennai",
+      "Bangalore",
+      "Hyderabad"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Cities Around the World",
+    "difficulty": "medium",
+    "id": "593f14b2-274d-4758-aa80-32fa6cffddc7",
+    "created_at": "2025-04-19T18:18:53.055Z",
+    "backupTimestamp": "2025-04-19T18:18:53.056Z",
+    "localBackupTimestamp": "2025-04-19T12:18:53.056Z"
+  },
+  {
+    "question": "Which city hosts the famous 'Day of the Dead' celebrations?",
+    "correct_answer": "Oaxaca",
+    "incorrect_answers": [
+      "Mexico City",
+      "Guadalajara",
+      "Puebla",
+      "Mérida",
+      "Cancun",
+      "Monterrey",
+      "Tijuana"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Cities Around the World",
+    "difficulty": "medium",
+    "id": "1c8961ac-91a5-450f-ad54-bc1dbc216f04",
+    "created_at": "2025-04-19T18:18:53.058Z",
+    "backupTimestamp": "2025-04-19T18:18:53.060Z",
+    "localBackupTimestamp": "2025-04-19T12:18:53.060Z"
+  },
+  {
+    "question": "Which city was once called Edo?",
+    "correct_answer": "Tokyo",
+    "incorrect_answers": [
+      "Kyoto",
+      "Osaka",
+      "Hiroshima",
+      "Nagasaki",
+      "Seoul",
+      "Beijing",
+      "Shanghai"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Cities Around the World",
+    "difficulty": "medium",
+    "id": "8f8d4a3d-6617-4f11-983a-9d190664fcd6",
+    "created_at": "2025-04-19T18:18:53.062Z",
+    "backupTimestamp": "2025-04-19T18:18:53.062Z",
+    "localBackupTimestamp": "2025-04-19T12:18:53.062Z"
+  },
+  {
+    "question": "Which city is known as the 'Emerald City'?",
+    "correct_answer": "Seattle",
+    "incorrect_answers": [
+      "Portland",
+      "Boston",
+      "Chicago",
+      "San Francisco",
+      "Dublin",
+      "Wellington",
+      "Vancouver"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Cities Around the World",
+    "difficulty": "medium",
+    "id": "4df9b48f-6209-4766-943d-2cdd742809b4",
+    "created_at": "2025-04-19T18:18:53.065Z",
+    "backupTimestamp": "2025-04-19T18:18:53.065Z",
+    "localBackupTimestamp": "2025-04-19T12:18:53.065Z"
+  },
+  {
+    "question": "Which city is home to the world's first metro system?",
+    "correct_answer": "London",
+    "incorrect_answers": [
+      "New York City",
+      "Paris",
+      "Tokyo",
+      "Berlin",
+      "Moscow",
+      "Budapest",
+      "Madrid"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Cities Around the World",
+    "difficulty": "medium",
+    "id": "adf6db18-dab0-4b2c-8a5b-12f893a0a363",
+    "created_at": "2025-04-19T18:18:53.067Z",
+    "backupTimestamp": "2025-04-19T18:18:53.067Z",
+    "localBackupTimestamp": "2025-04-19T12:18:53.067Z"
+  },
+  {
+    "question": "Which city is nicknamed 'The Pearl of the Danube'?",
+    "correct_answer": "Budapest",
+    "incorrect_answers": [
+      "Vienna",
+      "Belgrade",
+      "Bratislava",
+      "Munich",
+      "Prague",
+      "Sofia",
+      "Bucharest"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Cities Around the World",
+    "difficulty": "medium",
+    "id": "918f79a0-484f-4971-93e3-9a787fff72b3",
+    "created_at": "2025-04-19T18:18:53.069Z",
+    "backupTimestamp": "2025-04-19T18:18:53.070Z",
+    "localBackupTimestamp": "2025-04-19T12:18:53.070Z"
+  },
+  {
+    "question": "Which city is the largest in Scandinavia by population?",
+    "correct_answer": "Stockholm",
+    "incorrect_answers": [
+      "Copenhagen",
+      "Oslo",
+      "Helsinki",
+      "Gothenburg",
+      "Malmö",
+      "Bergen",
+      "Tampere"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Cities Around the World",
+    "difficulty": "medium",
+    "id": "6c54ba28-5c3d-48fa-a15d-f47b72fcfb7d",
+    "created_at": "2025-04-19T18:18:53.071Z",
+    "backupTimestamp": "2025-04-19T18:18:53.071Z",
+    "localBackupTimestamp": "2025-04-19T12:18:53.071Z"
+  },
+  {
+    "question": "Which city is built on seven hills and has a clock called 'Big Ben'?",
+    "correct_answer": "London",
+    "incorrect_answers": [
+      "Rome",
+      "Athens",
+      "Edinburgh",
+      "Lisbon",
+      "San Francisco",
+      "Seattle",
+      "Istanbul"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Cities Around the World",
+    "difficulty": "medium",
+    "id": "0cba91e5-8d46-4ce7-82f1-c8a161a8df60",
+    "created_at": "2025-04-19T18:18:53.073Z",
+    "backupTimestamp": "2025-04-19T18:18:53.073Z",
+    "localBackupTimestamp": "2025-04-19T12:18:53.073Z"
+  },
+  {
+    "question": "Which city is home to the European Central Bank headquarters?",
+    "correct_answer": "Frankfurt",
+    "incorrect_answers": [
+      "Brussels",
+      "Geneva",
+      "Luxembourg City",
+      "Amsterdam",
+      "Paris",
+      "Vienna",
+      "Berlin"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Cities Around the World",
+    "difficulty": "medium",
+    "id": "0889e263-f9c1-4606-9cac-ff5c68de124b",
+    "created_at": "2025-04-19T18:18:53.075Z",
+    "backupTimestamp": "2025-04-19T18:18:53.075Z",
+    "localBackupTimestamp": "2025-04-19T12:18:53.075Z"
+  },
+  {
+    "question": "Which city was previously known as Saigon?",
+    "correct_answer": "Ho Chi Minh City",
+    "incorrect_answers": [
+      "Hanoi",
+      "Bangkok",
+      "Manila",
+      "Phnom Penh",
+      "Singapore",
+      "Jakarta",
+      "Yangon"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Cities Around the World",
+    "difficulty": "medium",
+    "id": "ae66bfcd-f05f-45f8-941b-73c8e67b792a",
+    "created_at": "2025-04-19T18:18:53.077Z",
+    "backupTimestamp": "2025-04-19T18:18:53.077Z",
+    "localBackupTimestamp": "2025-04-19T12:18:53.077Z"
+  },
+  {
+    "question": "Which city is nicknamed 'The Windy City'?",
+    "correct_answer": "Chicago",
+    "incorrect_answers": [
+      "Boston",
+      "New York City",
+      "San Francisco",
+      "Seattle",
+      "Denver",
+      "Wellington",
+      "Toronto"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Cities Around the World",
+    "difficulty": "medium",
+    "id": "42ae3d61-8fac-4d7d-8de8-addb3cc3cb0d",
+    "created_at": "2025-04-19T18:18:53.079Z",
+    "backupTimestamp": "2025-04-19T18:18:53.079Z",
+    "localBackupTimestamp": "2025-04-19T12:18:53.079Z"
+  },
+  {
+    "question": "Which city is home to La Sagrada Familia cathedral?",
+    "correct_answer": "Barcelona",
+    "incorrect_answers": [
+      "Madrid",
+      "Seville",
+      "Valencia",
+      "Granada",
+      "Toledo",
+      "Córdoba",
+      "Bilbao"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Cities Around the World",
+    "difficulty": "medium",
+    "id": "c7327a4a-8746-4704-99c5-c954cbd65f38",
+    "created_at": "2025-04-19T18:18:53.081Z",
+    "backupTimestamp": "2025-04-19T18:18:53.081Z",
+    "localBackupTimestamp": "2025-04-19T12:18:53.081Z"
+  },
+  {
+    "question": "Which city is known as the 'City of Lakes'?",
+    "correct_answer": "Udaipur",
+    "incorrect_answers": [
+      "Stockholm",
+      "Geneva",
+      "Minneapolis",
+      "Seattle",
+      "Chicago",
+      "Venice",
+      "Amsterdam"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Cities Around the World",
+    "difficulty": "medium",
+    "id": "9107cc7d-192f-444a-9e27-bbfd46b467a0",
+    "created_at": "2025-04-19T18:18:53.083Z",
+    "backupTimestamp": "2025-04-19T18:18:53.084Z",
+    "localBackupTimestamp": "2025-04-19T12:18:53.084Z"
+  },
+  {
+    "question": "Which Asian city's name means 'Eastern Capital'?",
+    "correct_answer": "Tokyo",
+    "incorrect_answers": [
+      "Beijing",
+      "Seoul",
+      "Shanghai",
+      "Kyoto",
+      "Taipei",
+      "Bangkok",
+      "Manila"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Cities Around the World",
+    "difficulty": "medium",
+    "id": "e37a009e-aa37-45c3-b2db-f4c25c966eb3",
+    "created_at": "2025-04-19T18:18:53.086Z",
+    "backupTimestamp": "2025-04-19T18:18:53.086Z",
+    "localBackupTimestamp": "2025-04-19T12:18:53.086Z"
+  },
+  {
+    "question": "Which city is home to the CN Tower?",
+    "correct_answer": "Toronto",
+    "incorrect_answers": [
+      "Montreal",
+      "Vancouver",
+      "Ottawa",
+      "Calgary",
+      "New York City",
+      "Chicago",
+      "Seattle"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Cities Around the World",
+    "difficulty": "medium",
+    "id": "311c9b44-f1ef-44e0-b8b6-9c5eccf55340",
+    "created_at": "2025-04-19T18:18:53.088Z",
+    "backupTimestamp": "2025-04-19T18:18:53.089Z",
+    "localBackupTimestamp": "2025-04-19T12:18:53.089Z"
+  },
+  {
+    "question": "Which city is nicknamed 'The Mother of Cities'?",
+    "correct_answer": "Prague",
+    "incorrect_answers": [
+      "Rome",
+      "Athens",
+      "Jerusalem",
+      "Istanbul",
+      "Damascus",
+      "Cairo",
+      "Baghdad"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Cities Around the World",
+    "difficulty": "medium",
+    "id": "228ddb4e-6815-4427-91e7-509fe6960446",
+    "created_at": "2025-04-19T18:18:53.090Z",
+    "backupTimestamp": "2025-04-19T18:18:53.091Z",
+    "localBackupTimestamp": "2025-04-19T12:18:53.091Z"
+  },
+  {
+    "question": "Which city is home to the largest Ferris wheel in Europe?",
+    "correct_answer": "London",
+    "incorrect_answers": [
+      "Paris",
+      "Berlin",
+      "Vienna",
+      "Barcelona",
+      "Rome",
+      "Amsterdam",
+      "Budapest"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Cities Around the World",
+    "difficulty": "medium",
+    "id": "2bcdbf9e-d614-4699-bf8b-ed03bec78fd5",
+    "created_at": "2025-04-19T18:18:53.093Z",
+    "backupTimestamp": "2025-04-19T18:18:53.093Z",
+    "localBackupTimestamp": "2025-04-19T12:18:53.093Z"
+  },
+  {
+    "question": "Which city is nicknamed 'The City of Dreaming Spires'?",
+    "correct_answer": "Oxford",
+    "incorrect_answers": [
+      "Cambridge",
+      "Edinburgh",
+      "London",
+      "York",
+      "Bath",
+      "Canterbury",
+      "Durham"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Cities Around the World",
+    "difficulty": "medium",
+    "id": "68969a51-bd45-40ec-a980-790ac3f843a7",
+    "created_at": "2025-04-19T18:18:53.095Z",
+    "backupTimestamp": "2025-04-19T18:18:53.096Z",
+    "localBackupTimestamp": "2025-04-19T12:18:53.096Z"
+  },
+  {
+    "question": "Which city is located at the juncture of the Bosphorus and Marmara Sea?",
+    "correct_answer": "Istanbul",
+    "incorrect_answers": [
+      "Athens",
+      "Izmir",
+      "Ankara",
+      "Odessa",
+      "Sevastopol",
+      "Batumi",
+      "Constanta"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Cities Around the World",
+    "difficulty": "medium",
+    "id": "513f4534-dfe0-4248-8543-316c85957fc8",
+    "created_at": "2025-04-19T18:18:53.098Z",
+    "backupTimestamp": "2025-04-19T18:18:53.098Z",
+    "localBackupTimestamp": "2025-04-19T12:18:53.098Z"
+  },
+  {
+    "question": "Which city is known as the 'City of a Thousand Minarets'?",
+    "correct_answer": "Cairo",
+    "incorrect_answers": [
+      "Istanbul",
+      "Marrakech",
+      "Jerusalem",
+      "Damascus",
+      "Tehran",
+      "Dubai",
+      "Mecca"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Cities Around the World",
+    "difficulty": "medium",
+    "id": "7971271d-900c-4660-a538-b13739528b00",
+    "created_at": "2025-04-19T18:18:53.100Z",
+    "backupTimestamp": "2025-04-19T18:18:53.100Z",
+    "localBackupTimestamp": "2025-04-19T12:18:53.100Z"
+  },
+  {
+    "question": "Which Japanese city is known for its autumn maple leaf viewing?",
+    "correct_answer": "Kyoto",
+    "incorrect_answers": [
+      "Tokyo",
+      "Osaka",
+      "Nara",
+      "Hiroshima",
+      "Fukuoka",
+      "Sapporo",
+      "Nagoya"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Cities Around the World",
+    "difficulty": "medium",
+    "id": "8bda8433-bb1b-4a70-b69e-550c877b248a",
+    "created_at": "2025-04-19T18:18:53.103Z",
+    "backupTimestamp": "2025-04-19T18:18:53.103Z",
+    "localBackupTimestamp": "2025-04-19T12:18:53.103Z"
+  },
+  {
+    "question": "Which city was formerly called Leningrad?",
+    "correct_answer": "Saint Petersburg",
+    "incorrect_answers": [
+      "Moscow",
+      "Volgograd",
+      "Vladivostok",
+      "Kiev",
+      "Minsk",
+      "Riga",
+      "Tallinn"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Cities Around the World",
+    "difficulty": "medium",
+    "id": "b8b388f2-0aaa-470a-84a5-15e2996624d4",
+    "created_at": "2025-04-19T18:18:53.105Z",
+    "backupTimestamp": "2025-04-19T18:18:53.105Z",
+    "localBackupTimestamp": "2025-04-19T12:18:53.105Z"
+  },
+  {
+    "question": "Which city in Brazil has the largest Japanese population outside Japan?",
+    "correct_answer": "São Paulo",
+    "incorrect_answers": [
+      "Rio de Janeiro",
+      "Brasília",
+      "Salvador",
+      "Curitiba",
+      "Porto Alegre",
+      "Belo Horizonte",
+      "Recife"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Cities Around the World",
+    "difficulty": "medium",
+    "id": "b3387ccf-5f56-4f4c-93ef-3aafc484daf8",
+    "created_at": "2025-04-19T18:18:53.107Z",
+    "backupTimestamp": "2025-04-19T18:18:53.107Z",
+    "localBackupTimestamp": "2025-04-19T12:18:53.107Z"
+  },
+  {
+    "question": "Which city is known as the 'Gateway to Africa'?",
+    "correct_answer": "Tangier",
+    "incorrect_answers": [
+      "Casablanca",
+      "Marrakech",
+      "Cairo",
+      "Algiers",
+      "Tunis",
+      "Tripoli",
+      "Dakar"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Cities Around the World",
+    "difficulty": "medium",
+    "id": "f86abbba-4e3e-47ef-adf6-e105f70667ce",
+    "created_at": "2025-04-19T18:18:53.109Z",
+    "backupTimestamp": "2025-04-19T18:18:53.109Z",
+    "localBackupTimestamp": "2025-04-19T12:18:53.109Z"
+  },
+  {
+    "question": "Which North American city is built on more than 200 man-made islands?",
+    "correct_answer": "Mexico City",
+    "incorrect_answers": [
+      "New York City",
+      "Miami",
+      "Los Angeles",
+      "Toronto",
+      "Vancouver",
+      "Montreal",
+      "San Francisco"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Cities Around the World",
+    "difficulty": "medium",
+    "id": "3d159063-4243-434b-a267-6e27cee17f66",
+    "created_at": "2025-04-19T18:18:53.111Z",
+    "backupTimestamp": "2025-04-19T18:18:53.111Z",
+    "localBackupTimestamp": "2025-04-19T12:18:53.111Z"
+  },
+  {
+    "question": "Which city is home to the Blue Domed Church seen on postcards?",
+    "correct_answer": "Santorini",
+    "incorrect_answers": [
+      "Athens",
+      "Mykonos",
+      "Rhodes",
+      "Corfu",
+      "Crete",
+      "Thessaloniki",
+      "Patras"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Cities Around the World",
+    "difficulty": "medium",
+    "id": "22c85f5a-e2b2-4c80-892f-2bb347ffbd66",
+    "created_at": "2025-04-19T18:18:53.114Z",
+    "backupTimestamp": "2025-04-19T18:18:53.114Z",
+    "localBackupTimestamp": "2025-04-19T12:18:53.114Z"
+  },
+  {
+    "question": "Which Asian city has the nickname 'Lion City'?",
+    "correct_answer": "Singapore",
+    "incorrect_answers": [
+      "Hong Kong",
+      "Kuala Lumpur",
+      "Bangkok",
+      "Manila",
+      "Jakarta",
+      "Taipei",
+      "Seoul"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Cities Around the World",
+    "difficulty": "medium",
+    "id": "6219fd7e-e919-46a8-8fa8-d0c593db4a28",
+    "created_at": "2025-04-19T18:18:53.116Z",
+    "backupTimestamp": "2025-04-19T18:18:53.116Z",
+    "localBackupTimestamp": "2025-04-19T12:18:53.116Z"
+  },
+  {
+    "question": "Which city is known for its gondolas?",
+    "correct_answer": "Venice",
+    "incorrect_answers": [
+      "Rome",
+      "Florence",
+      "Milan",
+      "Naples",
+      "Amsterdam",
+      "Barcelona",
+      "Lisbon"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Cities Around the World",
+    "difficulty": "medium",
+    "id": "22fcfcd9-38c6-4993-bc0a-9e7a2edcf5eb",
+    "created_at": "2025-04-19T18:18:53.117Z",
+    "backupTimestamp": "2025-04-19T18:18:53.118Z",
+    "localBackupTimestamp": "2025-04-19T12:18:53.118Z"
+  },
+  {
+    "question": "Which city is nicknamed 'The Floating City'?",
+    "correct_answer": "Venice",
+    "incorrect_answers": [
+      "Amsterdam",
+      "Stockholm",
+      "Bangkok",
+      "Copenhagen",
+      "Hong Kong",
+      "Dubai",
+      "Singapore"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Cities Around the World",
+    "difficulty": "medium",
+    "id": "4de43ac9-b338-4bd0-8e53-28f69d3e9628",
+    "created_at": "2025-04-19T18:18:53.119Z",
+    "backupTimestamp": "2025-04-19T18:18:53.120Z",
+    "localBackupTimestamp": "2025-04-19T12:18:53.120Z"
+  },
+  {
+    "question": "Which city has a famous neighborhood called Montmartre?",
+    "correct_answer": "Paris",
+    "incorrect_answers": [
+      "London",
+      "Rome",
+      "Madrid",
+      "Barcelona",
+      "Brussels",
+      "Lyon",
+      "Marseille"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Cities Around the World",
+    "difficulty": "medium",
+    "id": "d0fd7bee-d54d-4e4d-ab8d-d3b7cc477d8f",
+    "created_at": "2025-04-19T18:18:53.122Z",
+    "backupTimestamp": "2025-04-19T18:18:53.122Z",
+    "localBackupTimestamp": "2025-04-19T12:18:53.122Z"
+  },
+  {
+    "question": "Which city was founded as Byzantium in 657 BCE?",
+    "correct_answer": "Istanbul",
+    "incorrect_answers": [
+      "Athens",
+      "Rome",
+      "Alexandria",
+      "Antioch",
+      "Damascus",
+      "Jerusalem",
+      "Ephesus"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Cities Around the World",
+    "difficulty": "hard",
+    "id": "f860e898-cdf3-46e1-a8a0-fbaac81ffe89",
+    "created_at": "2025-04-19T18:23:21.988Z",
+    "backupTimestamp": "2025-04-19T18:23:21.992Z",
+    "localBackupTimestamp": "2025-04-19T12:23:21.992Z"
+  },
+  {
+    "question": "Which city was formerly known as Bombay?",
+    "correct_answer": "Mumbai",
+    "incorrect_answers": [
+      "Kolkata",
+      "Delhi",
+      "Chennai",
+      "Bangalore",
+      "Hyderabad",
+      "Ahmedabad",
+      "Pune"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Cities Around the World",
+    "difficulty": "hard",
+    "id": "3f98b9f8-f353-47c7-89f2-42fa6317d537",
+    "created_at": "2025-04-19T18:23:22.000Z",
+    "backupTimestamp": "2025-04-19T18:23:22.000Z",
+    "localBackupTimestamp": "2025-04-19T12:23:22.000Z"
+  },
+  {
+    "question": "Which city is located in both Asia and Europe?",
+    "correct_answer": "Istanbul",
+    "incorrect_answers": [
+      "Baku",
+      "Moscow",
+      "Tbilisi",
+      "Astana",
+      "Yekaterinburg",
+      "Ufa",
+      "Orenburg"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Cities Around the World",
+    "difficulty": "hard",
+    "id": "f2bd9f9f-1311-464a-a393-85250086c4df",
+    "created_at": "2025-04-19T18:23:22.006Z",
+    "backupTimestamp": "2025-04-19T18:23:22.007Z",
+    "localBackupTimestamp": "2025-04-19T12:23:22.007Z"
+  },
+  {
+    "question": "Which city is built on 118 small islands separated by canals?",
+    "correct_answer": "Venice",
+    "incorrect_answers": [
+      "Amsterdam",
+      "Stockholm",
+      "Copenhagen",
+      "Bruges",
+      "Hamburg",
+      "St. Petersburg",
+      "Suzhou"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Cities Around the World",
+    "difficulty": "hard",
+    "id": "fe29960d-5b54-492b-aba7-13416312f601",
+    "created_at": "2025-04-19T18:23:22.012Z",
+    "backupTimestamp": "2025-04-19T18:23:22.013Z",
+    "localBackupTimestamp": "2025-04-19T12:23:22.013Z"
+  },
+  {
+    "question": "Which city was called Lutetia during Roman times?",
+    "correct_answer": "Paris",
+    "incorrect_answers": [
+      "Lyon",
+      "Marseille",
+      "Bordeaux",
+      "Toulouse",
+      "Nantes",
+      "Strasbourg",
+      "Nice"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Cities Around the World",
+    "difficulty": "hard",
+    "id": "f410423b-fa4c-4577-98af-c0d0ffacff4c",
+    "created_at": "2025-04-19T18:23:22.016Z",
+    "backupTimestamp": "2025-04-19T18:23:22.016Z",
+    "localBackupTimestamp": "2025-04-19T12:23:22.016Z"
+  },
+  {
+    "question": "Which city's ancient name was Tenochtitlan?",
+    "correct_answer": "Mexico City",
+    "incorrect_answers": [
+      "Guadalajara",
+      "Cancun",
+      "Lima",
+      "Caracas",
+      "Bogotá",
+      "Quito",
+      "La Paz"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Cities Around the World",
+    "difficulty": "hard",
+    "id": "cd0fda27-32e7-41b8-bbee-7d5e1c9cbe54",
+    "created_at": "2025-04-19T18:23:22.019Z",
+    "backupTimestamp": "2025-04-19T18:23:22.020Z",
+    "localBackupTimestamp": "2025-04-19T12:23:22.020Z"
+  },
+  {
+    "question": "Which city stands at the confluence of the Blue and White Nile?",
+    "correct_answer": "Khartoum",
+    "incorrect_answers": [
+      "Cairo",
+      "Alexandria",
+      "Aswan",
+      "Luxor",
+      "Addis Ababa",
+      "Juba",
+      "Kampala"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Cities Around the World",
+    "difficulty": "hard",
+    "id": "759e776e-2c6b-4736-b5cb-273c685c7f45",
+    "created_at": "2025-04-19T18:23:22.022Z",
+    "backupTimestamp": "2025-04-19T18:23:22.023Z",
+    "localBackupTimestamp": "2025-04-19T12:23:22.023Z"
+  },
+  {
+    "question": "Which city is nicknamed 'The Pearl of the Orient'?",
+    "correct_answer": "Manila",
+    "incorrect_answers": [
+      "Hong Kong",
+      "Shanghai",
+      "Singapore",
+      "Macau",
+      "Bangkok",
+      "Taipei",
+      "Hanoi"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Cities Around the World",
+    "difficulty": "hard",
+    "id": "8998b900-f390-4684-9ad7-2721a32bbeb8",
+    "created_at": "2025-04-19T18:23:22.026Z",
+    "backupTimestamp": "2025-04-19T18:23:22.027Z",
+    "localBackupTimestamp": "2025-04-19T12:23:22.027Z"
+  },
+  {
+    "question": "Which city is known as 'The City of a Hundred Spires'?",
+    "correct_answer": "Prague",
+    "incorrect_answers": [
+      "Vienna",
+      "Budapest",
+      "Krakow",
+      "Salzburg",
+      "Munich",
+      "Dresden",
+      "Cologne"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Cities Around the World",
+    "difficulty": "hard",
+    "id": "984046c7-08a2-47d9-b566-0e8f73c52f82",
+    "created_at": "2025-04-19T18:23:22.030Z",
+    "backupTimestamp": "2025-04-19T18:23:22.031Z",
+    "localBackupTimestamp": "2025-04-19T12:23:22.031Z"
+  },
+  {
+    "question": "Which city was once known as Christiana until 1925?",
+    "correct_answer": "Oslo",
+    "incorrect_answers": [
+      "Copenhagen",
+      "Stockholm",
+      "Helsinki",
+      "Reykjavik",
+      "Gothenburg",
+      "Bergen",
+      "Trondheim"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Cities Around the World",
+    "difficulty": "hard",
+    "id": "98093750-3ca6-4dfe-a56e-1728e37762bb",
+    "created_at": "2025-04-19T18:23:22.035Z",
+    "backupTimestamp": "2025-04-19T18:23:22.036Z",
+    "localBackupTimestamp": "2025-04-19T12:23:22.036Z"
+  },
+  {
+    "question": "Which city was formerly known as New Amsterdam?",
+    "correct_answer": "New York City",
+    "incorrect_answers": [
+      "Boston",
+      "Philadelphia",
+      "Washington D.C.",
+      "Albany",
+      "Hartford",
+      "Newark",
+      "Baltimore"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Cities Around the World",
+    "difficulty": "hard",
+    "id": "2c5933db-e910-4016-8ec1-16be71827a11",
+    "created_at": "2025-04-19T18:23:22.039Z",
+    "backupTimestamp": "2025-04-19T18:23:22.039Z",
+    "localBackupTimestamp": "2025-04-19T12:23:22.039Z"
+  },
+  {
+    "question": "Which city has a district called Schöneberg?",
+    "correct_answer": "Berlin",
+    "incorrect_answers": [
+      "Vienna",
+      "Munich",
+      "Hamburg",
+      "Cologne",
+      "Frankfurt",
+      "Zurich",
+      "Stuttgart"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Cities Around the World",
+    "difficulty": "hard",
+    "id": "0737051c-91e0-4c0b-9d92-2b6314c31be2",
+    "created_at": "2025-04-19T18:23:22.042Z",
+    "backupTimestamp": "2025-04-19T18:23:22.042Z",
+    "localBackupTimestamp": "2025-04-19T12:23:22.042Z"
+  },
+  {
+    "question": "Which city is nicknamed 'Cradle of Liberty'?",
+    "correct_answer": "Boston",
+    "incorrect_answers": [
+      "Philadelphia",
+      "Washington D.C.",
+      "New York City",
+      "Chicago",
+      "Atlanta",
+      "Baltimore",
+      "Richmond"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Cities Around the World",
+    "difficulty": "hard",
+    "id": "e47887e5-6d00-4fef-849a-40a613ea15b8",
+    "created_at": "2025-04-19T18:23:22.046Z",
+    "backupTimestamp": "2025-04-19T18:23:22.047Z",
+    "localBackupTimestamp": "2025-04-19T12:23:22.047Z"
+  },
+  {
+    "question": "Which city is home to the Petronas Twin Towers?",
+    "correct_answer": "Kuala Lumpur",
+    "incorrect_answers": [
+      "Singapore",
+      "Jakarta",
+      "Bangkok",
+      "Manila",
+      "Shanghai",
+      "Dubai",
+      "Tokyo"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Cities Around the World",
+    "difficulty": "hard",
+    "id": "c9154d5a-092d-4b74-be54-ad9fb08765d6",
+    "created_at": "2025-04-19T18:23:22.051Z",
+    "backupTimestamp": "2025-04-19T18:23:22.052Z",
+    "localBackupTimestamp": "2025-04-19T12:23:22.052Z"
+  },
+  {
+    "question": "Which city was called Eboracum by the Romans?",
+    "correct_answer": "York",
+    "incorrect_answers": [
+      "London",
+      "Bath",
+      "Canterbury",
+      "Manchester",
+      "Chester",
+      "Lincoln",
+      "Colchester"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Cities Around the World",
+    "difficulty": "hard",
+    "id": "65692aff-9944-4252-9af0-8a7de5cedcd0",
+    "created_at": "2025-04-19T18:23:22.054Z",
+    "backupTimestamp": "2025-04-19T18:23:22.055Z",
+    "localBackupTimestamp": "2025-04-19T12:23:22.055Z"
+  },
+  {
+    "question": "Which city is known as the 'City of the Violet Crown'?",
+    "correct_answer": "Athens",
+    "incorrect_answers": [
+      "Rome",
+      "Alexandria",
+      "Jerusalem",
+      "Thessaloniki",
+      "Cairo",
+      "Istanbul",
+      "Damascus"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Cities Around the World",
+    "difficulty": "hard",
+    "id": "9d1f293a-37ab-48e8-8fb9-4b9c8491f5db",
+    "created_at": "2025-04-19T18:23:22.057Z",
+    "backupTimestamp": "2025-04-19T18:23:22.057Z",
+    "localBackupTimestamp": "2025-04-19T12:23:22.057Z"
+  },
+  {
+    "question": "Which city has the oldest still-operational university in the world?",
+    "correct_answer": "Fez",
+    "incorrect_answers": [
+      "Bologna",
+      "Oxford",
+      "Paris",
+      "Salamanca",
+      "Cairo",
+      "Damascus",
+      "Timbuktu"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Cities Around the World",
+    "difficulty": "hard",
+    "id": "d85c20b5-e9de-44a0-9fe6-a6eea2b8970e",
+    "created_at": "2025-04-19T18:23:22.059Z",
+    "backupTimestamp": "2025-04-19T18:23:22.060Z",
+    "localBackupTimestamp": "2025-04-19T12:23:22.060Z"
+  },
+  {
+    "question": "Which city was the first capital of Brazil?",
+    "correct_answer": "Salvador",
+    "incorrect_answers": [
+      "Rio de Janeiro",
+      "São Paulo",
+      "Brasília",
+      "Belo Horizonte",
+      "Recife",
+      "Fortaleza",
+      "Porto Alegre"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Cities Around the World",
+    "difficulty": "hard",
+    "id": "0196f8dc-a0d7-4606-a1fd-edd82bf1a5be",
+    "created_at": "2025-04-19T18:23:22.062Z",
+    "backupTimestamp": "2025-04-19T18:23:22.063Z",
+    "localBackupTimestamp": "2025-04-19T12:23:22.063Z"
+  },
+  {
+    "question": "Which city has a neighborhood called Kreuzberg?",
+    "correct_answer": "Berlin",
+    "incorrect_answers": [
+      "Munich",
+      "Vienna",
+      "Zurich",
+      "Hamburg",
+      "Stuttgart",
+      "Frankfurt",
+      "Cologne"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Cities Around the World",
+    "difficulty": "hard",
+    "id": "67125385-abff-48c0-8a5f-76f25047acf0",
+    "created_at": "2025-04-19T18:23:22.065Z",
+    "backupTimestamp": "2025-04-19T18:23:22.065Z",
+    "localBackupTimestamp": "2025-04-19T12:23:22.065Z"
+  },
+  {
+    "question": "Which city was founded as Augusta Treverorum in 30 BCE?",
+    "correct_answer": "Trier",
+    "incorrect_answers": [
+      "Cologne",
+      "Mainz",
+      "Augsburg",
+      "Regensburg",
+      "Frankfurt",
+      "Strasbourg",
+      "Luxembourg City"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Cities Around the World",
+    "difficulty": "hard",
+    "id": "4434faa8-24f7-432c-8d0f-52f7428211cd",
+    "created_at": "2025-04-19T18:23:22.068Z",
+    "backupTimestamp": "2025-04-19T18:23:22.068Z",
+    "localBackupTimestamp": "2025-04-19T12:23:22.068Z"
+  },
+  {
+    "question": "Which city is home to the world's oldest still-operating restaurant?",
+    "correct_answer": "Madrid",
+    "incorrect_answers": [
+      "Rome",
+      "Paris",
+      "Vienna",
+      "Beijing",
+      "Kyoto",
+      "Barcelona",
+      "Venice"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Cities Around the World",
+    "difficulty": "hard",
+    "id": "a1f9dede-1923-40ee-8c7a-519c6e00ae66",
+    "created_at": "2025-04-19T18:23:22.070Z",
+    "backupTimestamp": "2025-04-19T18:23:22.071Z",
+    "localBackupTimestamp": "2025-04-19T12:23:22.071Z"
+  },
+  {
+    "question": "Which city was once known as Edo?",
+    "correct_answer": "Tokyo",
+    "incorrect_answers": [
+      "Kyoto",
+      "Osaka",
+      "Hiroshima",
+      "Nagasaki",
+      "Yokohama",
+      "Kobe",
+      "Fukuoka"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Cities Around the World",
+    "difficulty": "hard",
+    "id": "1cc4dea5-91a5-4d9c-b105-cfc1d29dc801",
+    "created_at": "2025-04-19T18:23:22.073Z",
+    "backupTimestamp": "2025-04-19T18:23:22.074Z",
+    "localBackupTimestamp": "2025-04-19T12:23:22.074Z"
+  },
+  {
+    "question": "Which city is nicknamed 'The Athens of the North'?",
+    "correct_answer": "Edinburgh",
+    "incorrect_answers": [
+      "Stockholm",
+      "Copenhagen",
+      "Helsinki",
+      "Oslo",
+      "Berlin",
+      "St. Petersburg",
+      "Amsterdam"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Cities Around the World",
+    "difficulty": "hard",
+    "id": "2a54a9cf-2b1b-4703-987a-1d45434ebdc5",
+    "created_at": "2025-04-19T18:23:22.076Z",
+    "backupTimestamp": "2025-04-19T18:23:22.076Z",
+    "localBackupTimestamp": "2025-04-19T12:23:22.076Z"
+  },
+  {
+    "question": "Which city's ancient name was Londinium?",
+    "correct_answer": "London",
+    "incorrect_answers": [
+      "Paris",
+      "Rome",
+      "Athens",
+      "York",
+      "Bath",
+      "Canterbury",
+      "Dover"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Cities Around the World",
+    "difficulty": "hard",
+    "id": "6068f8d5-a6c7-4739-891c-26595db640f1",
+    "created_at": "2025-04-19T18:23:22.078Z",
+    "backupTimestamp": "2025-04-19T18:23:22.080Z",
+    "localBackupTimestamp": "2025-04-19T12:23:22.080Z"
+  },
+  {
+    "question": "Which city is nicknamed 'The Forbidden City'?",
+    "correct_answer": "Lhasa",
+    "incorrect_answers": [
+      "Beijing",
+      "Shanghai",
+      "Pyongyang",
+      "Ulaanbaatar",
+      "Kathmandu",
+      "Thimphu",
+      "Samarkand"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Cities Around the World",
+    "difficulty": "hard",
+    "id": "95222839-8522-4500-b87d-cad4a8dfbf07",
+    "created_at": "2025-04-19T18:23:22.082Z",
+    "backupTimestamp": "2025-04-19T18:23:22.082Z",
+    "localBackupTimestamp": "2025-04-19T12:23:22.082Z"
+  },
+  {
+    "question": "Which city is nicknamed 'The City of Golden Towers'?",
+    "correct_answer": "Prague",
+    "incorrect_answers": [
+      "Vienna",
+      "Budapest",
+      "Krakow",
+      "Moscow",
+      "St. Petersburg",
+      "Tallinn",
+      "Riga"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Cities Around the World",
+    "difficulty": "hard",
+    "id": "68fdec61-725d-459c-a5dc-5dc283ecf3d8",
+    "created_at": "2025-04-19T18:23:22.084Z",
+    "backupTimestamp": "2025-04-19T18:23:22.084Z",
+    "localBackupTimestamp": "2025-04-19T12:23:22.084Z"
+  },
+  {
+    "question": "Which city's ancient district is called Alfama?",
+    "correct_answer": "Lisbon",
+    "incorrect_answers": [
+      "Madrid",
+      "Barcelona",
+      "Seville",
+      "Porto",
+      "Valencia",
+      "Malaga",
+      "Cordoba"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Cities Around the World",
+    "difficulty": "hard",
+    "id": "25fc27f7-3e51-4113-a254-d5fa3075e766",
+    "created_at": "2025-04-19T18:23:22.086Z",
+    "backupTimestamp": "2025-04-19T18:23:22.087Z",
+    "localBackupTimestamp": "2025-04-19T12:23:22.087Z"
+  },
+  {
+    "question": "Which city is located at the confluence of the Allegheny and Monongahela rivers?",
+    "correct_answer": "Pittsburgh",
+    "incorrect_answers": [
+      "Cleveland",
+      "Cincinnati",
+      "Buffalo",
+      "Detroit",
+      "St. Louis",
+      "Louisville",
+      "Philadelphia"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Cities Around the World",
+    "difficulty": "hard",
+    "id": "27e80e08-8343-41bf-a7a8-880e25c730e1",
+    "created_at": "2025-04-19T18:23:22.088Z",
+    "backupTimestamp": "2025-04-19T18:23:22.089Z",
+    "localBackupTimestamp": "2025-04-19T12:23:22.089Z"
+  },
+  {
+    "question": "Which city is nicknamed 'The City of Palaces'?",
+    "correct_answer": "Kolkata",
+    "incorrect_answers": [
+      "Jaipur",
+      "Mumbai",
+      "Delhi",
+      "Chennai",
+      "Hyderabad",
+      "Lucknow",
+      "Udaipur"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Cities Around the World",
+    "difficulty": "hard",
+    "id": "9ac254ca-8bf3-42aa-bfbc-8af871b98397",
+    "created_at": "2025-04-19T18:23:22.090Z",
+    "backupTimestamp": "2025-04-19T18:23:22.091Z",
+    "localBackupTimestamp": "2025-04-19T12:23:22.091Z"
+  },
+  {
+    "question": "Which city has a neighborhood called La Boca?",
+    "correct_answer": "Buenos Aires",
+    "incorrect_answers": [
+      "Rio de Janeiro",
+      "Santiago",
+      "Lima",
+      "Bogotá",
+      "Montevideo",
+      "Asunción",
+      "São Paulo"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Cities Around the World",
+    "difficulty": "hard",
+    "id": "cc476fca-44e8-4408-9468-f67688194a4e",
+    "created_at": "2025-04-19T18:23:22.093Z",
+    "backupTimestamp": "2025-04-19T18:23:22.093Z",
+    "localBackupTimestamp": "2025-04-19T12:23:22.093Z"
+  },
+  {
+    "question": "Which city was formerly known as Batavia?",
+    "correct_answer": "Jakarta",
+    "incorrect_answers": [
+      "Manila",
+      "Singapore",
+      "Kuala Lumpur",
+      "Bangkok",
+      "Phnom Penh",
+      "Ho Chi Minh City",
+      "Yangon"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Cities Around the World",
+    "difficulty": "hard",
+    "id": "fb1d777b-d607-4b16-9fd2-9c3498f2b5f4",
+    "created_at": "2025-04-19T18:23:22.096Z",
+    "backupTimestamp": "2025-04-19T18:23:22.096Z",
+    "localBackupTimestamp": "2025-04-19T12:23:22.096Z"
+  },
+  {
+    "question": "Which city is nicknamed 'The White City'?",
+    "correct_answer": "Tel Aviv",
+    "incorrect_answers": [
+      "Jerusalem",
+      "Casablanca",
+      "Tunis",
+      "Algiers",
+      "Beirut",
+      "Cairo",
+      "Athens"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Cities Around the World",
+    "difficulty": "hard",
+    "id": "7d751335-d0a8-4d4e-b84c-7595c459213f",
+    "created_at": "2025-04-19T18:23:22.099Z",
+    "backupTimestamp": "2025-04-19T18:23:22.099Z",
+    "localBackupTimestamp": "2025-04-19T12:23:22.099Z"
+  },
+  {
+    "question": "Which city was known as Leopoldville until 1966?",
+    "correct_answer": "Kinshasa",
+    "incorrect_answers": [
+      "Brazzaville",
+      "Luanda",
+      "Libreville",
+      "Bujumbura",
+      "Kigali",
+      "Kampala",
+      "Nairobi"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Cities Around the World",
+    "difficulty": "hard",
+    "id": "baf5be93-76bf-4428-a15f-d7c4245876b2",
+    "created_at": "2025-04-19T18:23:22.101Z",
+    "backupTimestamp": "2025-04-19T18:23:22.102Z",
+    "localBackupTimestamp": "2025-04-19T12:23:22.102Z"
+  },
+  {
+    "question": "Which city has a neighborhood called Trastevere?",
+    "correct_answer": "Rome",
+    "incorrect_answers": [
+      "Milan",
+      "Florence",
+      "Venice",
+      "Naples",
+      "Barcelona",
+      "Madrid",
+      "Lisbon"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Cities Around the World",
+    "difficulty": "hard",
+    "id": "9c2d5507-59ae-411f-84ca-15cb438bc8d0",
+    "created_at": "2025-04-19T18:23:22.103Z",
+    "backupTimestamp": "2025-04-19T18:23:22.104Z",
+    "localBackupTimestamp": "2025-04-19T12:23:22.104Z"
+  },
+  {
+    "question": "Which Japanese city's name translates to 'Eastern Capital'?",
+    "correct_answer": "Tokyo",
+    "incorrect_answers": [
+      "Kyoto",
+      "Osaka",
+      "Nagoya",
+      "Sapporo",
+      "Hiroshima",
+      "Fukuoka",
+      "Yokohama"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Cities Around the World",
+    "difficulty": "hard",
+    "id": "19ca234c-8690-4033-8b08-cc2267107cbe",
+    "created_at": "2025-04-19T18:23:22.106Z",
+    "backupTimestamp": "2025-04-19T18:23:22.106Z",
+    "localBackupTimestamp": "2025-04-19T12:23:22.106Z"
+  },
+  {
+    "question": "Which city was known as Salisbury until 1982?",
+    "correct_answer": "Harare",
+    "incorrect_answers": [
+      "Lusaka",
+      "Maputo",
+      "Nairobi",
+      "Lilongwe",
+      "Gaborone",
+      "Windhoek",
+      "Pretoria"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Cities Around the World",
+    "difficulty": "hard",
+    "id": "fe103483-2f2e-4707-b3d4-5f979e7363ba",
+    "created_at": "2025-04-19T18:23:22.108Z",
+    "backupTimestamp": "2025-04-19T18:23:22.108Z",
+    "localBackupTimestamp": "2025-04-19T12:23:22.108Z"
+  },
+  {
+    "question": "Which city is nicknamed 'The Pearl of the Adriatic'?",
+    "correct_answer": "Dubrovnik",
+    "incorrect_answers": [
+      "Venice",
+      "Split",
+      "Trieste",
+      "Kotor",
+      "Bari",
+      "Ancona",
+      "Rijeka"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Cities Around the World",
+    "difficulty": "hard",
+    "id": "7b3b9701-6d02-41ed-8dd6-b002df8f84f4",
+    "created_at": "2025-04-19T18:23:22.111Z",
+    "backupTimestamp": "2025-04-19T18:23:22.111Z",
+    "localBackupTimestamp": "2025-04-19T12:23:22.111Z"
+  },
+  {
+    "question": "Which city is home to the ancient district of Plaka?",
+    "correct_answer": "Athens",
+    "incorrect_answers": [
+      "Rome",
+      "Istanbul",
+      "Thessaloniki",
+      "Alexandria",
+      "Cairo",
+      "Jerusalem",
+      "Beirut"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Cities Around the World",
+    "difficulty": "hard",
+    "id": "51fe14bf-74ad-43a4-89f6-a65de2685da0",
+    "created_at": "2025-04-19T18:23:22.113Z",
+    "backupTimestamp": "2025-04-19T18:23:22.113Z",
+    "localBackupTimestamp": "2025-04-19T12:23:22.113Z"
+  },
+  {
+    "question": "Which city is built on 14 islands connected by 57 bridges?",
+    "correct_answer": "Stockholm",
+    "incorrect_answers": [
+      "Copenhagen",
+      "Helsinki",
+      "Amsterdam",
+      "Venice",
+      "Oslo",
+      "Hamburg",
+      "St. Petersburg"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Cities Around the World",
+    "difficulty": "hard",
+    "id": "ddc7629e-04a3-4f41-8ba5-77e10a4df42c",
+    "created_at": "2025-04-19T18:23:22.115Z",
+    "backupTimestamp": "2025-04-19T18:23:22.115Z",
+    "localBackupTimestamp": "2025-04-19T12:23:22.115Z"
+  },
+  {
+    "question": "Which city was called Aquincum during Roman times?",
+    "correct_answer": "Budapest",
+    "incorrect_answers": [
+      "Vienna",
+      "Prague",
+      "Belgrade",
+      "Bratislava",
+      "Zagreb",
+      "Bucharest",
+      "Sofia"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Cities Around the World",
+    "difficulty": "hard",
+    "id": "1f8b560e-bcf4-41f4-9d81-c9005f890c52",
+    "created_at": "2025-04-19T18:23:22.117Z",
+    "backupTimestamp": "2025-04-19T18:23:22.118Z",
+    "localBackupTimestamp": "2025-04-19T12:23:22.118Z"
+  },
+  {
+    "question": "Which city is nicknamed 'The Phoenix City'?",
+    "correct_answer": "Coventry",
+    "incorrect_answers": [
+      "Dresden",
+      "Warsaw",
+      "Hiroshima",
+      "Berlin",
+      "Rotterdam",
+      "London",
+      "Tokyo"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Cities Around the World",
+    "difficulty": "hard",
+    "id": "c52405eb-9e79-4022-b0a3-03946bd272bb",
+    "created_at": "2025-04-19T18:23:22.120Z",
+    "backupTimestamp": "2025-04-19T18:23:22.120Z",
+    "localBackupTimestamp": "2025-04-19T12:23:22.120Z"
+  },
+  {
+    "question": "Which city has a district called Södermalm?",
+    "correct_answer": "Stockholm",
+    "incorrect_answers": [
+      "Oslo",
+      "Copenhagen",
+      "Helsinki",
+      "Gothenburg",
+      "Malmö",
+      "Bergen",
+      "Reykjavik"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Cities Around the World",
+    "difficulty": "hard",
+    "id": "f2a26a3a-fddf-44c7-9b32-9187e80f686d",
+    "created_at": "2025-04-19T18:23:22.122Z",
+    "backupTimestamp": "2025-04-19T18:23:22.122Z",
+    "localBackupTimestamp": "2025-04-19T12:23:22.122Z"
+  },
+  {
+    "question": "Which city is nicknamed 'The City of Swan'?",
+    "correct_answer": "Perth",
+    "incorrect_answers": [
+      "Sydney",
+      "Melbourne",
+      "Brisbane",
+      "Adelaide",
+      "Gold Coast",
+      "Canberra",
+      "Hobart"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Cities Around the World",
+    "difficulty": "hard",
+    "id": "c0030575-716d-4544-8e5f-2cfe8fb3887d",
+    "created_at": "2025-04-19T18:23:22.124Z",
+    "backupTimestamp": "2025-04-19T18:23:22.125Z",
+    "localBackupTimestamp": "2025-04-19T12:23:22.125Z"
+  },
+  {
+    "question": "Which city is nicknamed 'The City of Lilies'?",
+    "correct_answer": "Florence",
+    "incorrect_answers": [
+      "Rome",
+      "Venice",
+      "Milan",
+      "Naples",
+      "Bologna",
+      "Turin",
+      "Verona"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Cities Around the World",
+    "difficulty": "hard",
+    "id": "628fd99e-1b4e-454e-b8e7-6f0704b59d75",
+    "created_at": "2025-04-19T18:23:22.126Z",
+    "backupTimestamp": "2025-04-19T18:23:22.126Z",
+    "localBackupTimestamp": "2025-04-19T12:23:22.126Z"
+  },
+  {
+    "question": "Which city was named Nieuw Amsterdam by the Dutch in 1625?",
+    "correct_answer": "New York City",
+    "incorrect_answers": [
+      "Boston",
+      "Philadelphia",
+      "Baltimore",
+      "Albany",
+      "Washington D.C.",
+      "Newark",
+      "Hartford"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Cities Around the World",
+    "difficulty": "hard",
+    "id": "930a809d-b9d0-41af-87af-e2cd59674815",
+    "created_at": "2025-04-19T18:23:22.128Z",
+    "backupTimestamp": "2025-04-19T18:23:22.129Z",
+    "localBackupTimestamp": "2025-04-19T12:23:22.129Z"
+  },
+  {
+    "question": "Which city has a district called Beyoglu?",
+    "correct_answer": "Istanbul",
+    "incorrect_answers": [
+      "Ankara",
+      "Izmir",
+      "Antalya",
+      "Damascus",
+      "Beirut",
+      "Cairo",
+      "Athens"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Cities Around the World",
+    "difficulty": "hard",
+    "id": "ec8603df-b039-4ad7-9264-2ea8eb1a09a2",
+    "created_at": "2025-04-19T18:23:22.131Z",
+    "backupTimestamp": "2025-04-19T18:23:22.131Z",
+    "localBackupTimestamp": "2025-04-19T12:23:22.131Z"
+  },
+  {
+    "question": "Which city is nicknamed 'The Emerald City'?",
+    "correct_answer": "Seattle",
+    "incorrect_answers": [
+      "Portland",
+      "Vancouver",
+      "Dublin",
+      "Boston",
+      "San Francisco",
+      "Chicago",
+      "Melbourne"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Cities Around the World",
+    "difficulty": "hard",
+    "id": "d07aa3de-1323-4fc2-83fe-e0568d5d9518",
+    "created_at": "2025-04-19T18:23:22.133Z",
+    "backupTimestamp": "2025-04-19T18:23:22.133Z",
+    "localBackupTimestamp": "2025-04-19T12:23:22.133Z"
+  },
+  {
+    "question": "Which city is located on seven hills called 'tepetl'?",
+    "correct_answer": "Mexico City",
+    "incorrect_answers": [
+      "Rome",
+      "Istanbul",
+      "Lisbon",
+      "Athens",
+      "Jerusalem",
+      "Edinburgh",
+      "Seattle"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Cities Around the World",
+    "difficulty": "hard",
+    "id": "7475bef5-bfa4-4fd9-b6b1-d946c38ef1af",
+    "created_at": "2025-04-19T18:23:22.135Z",
+    "backupTimestamp": "2025-04-19T18:23:22.135Z",
+    "localBackupTimestamp": "2025-04-19T12:23:22.135Z"
+  },
+  {
+    "question": "Which city has the oldest still-operating university in the Americas?",
+    "correct_answer": "Lima",
+    "incorrect_answers": [
+      "Mexico City",
+      "Havana",
+      "Bogotá",
+      "Santo Domingo",
+      "Boston",
+      "Philadelphia",
+      "Quebec City"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Cities Around the World",
+    "difficulty": "hard",
+    "id": "6ad42124-e442-4817-8df0-44312b8a7a48",
+    "created_at": "2025-04-19T18:23:22.137Z",
+    "backupTimestamp": "2025-04-19T18:23:22.137Z",
+    "localBackupTimestamp": "2025-04-19T12:23:22.137Z"
+  },
+  {
+    "question": "Which city's name means 'Northern Capital' in Chinese?",
+    "correct_answer": "Beijing",
+    "incorrect_answers": [
+      "Shanghai",
+      "Guangzhou",
+      "Hong Kong",
+      "Nanjing",
+      "Tianjin",
+      "Chongqing",
+      "Shenzhen"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Cities Around the World",
+    "difficulty": "hard",
+    "id": "a6de25ec-9ddb-4d81-8f5b-56fa0a838269",
+    "created_at": "2025-04-19T18:23:22.139Z",
+    "backupTimestamp": "2025-04-19T18:23:22.139Z",
+    "localBackupTimestamp": "2025-04-19T12:23:22.139Z"
+  },
+  {
+    "question": "Which city is nicknamed 'The City of a Thousand Trades'?",
+    "correct_answer": "Birmingham",
+    "incorrect_answers": [
+      "Manchester",
+      "Liverpool",
+      "Sheffield",
+      "Leeds",
+      "Glasgow",
+      "Newcastle",
+      "Bristol"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Cities Around the World",
+    "difficulty": "hard",
+    "id": "c31268a9-01f6-4b40-8dcc-8dec2a54ff16",
+    "created_at": "2025-04-19T18:23:22.141Z",
+    "backupTimestamp": "2025-04-19T18:23:22.141Z",
+    "localBackupTimestamp": "2025-04-19T12:23:22.141Z"
+  },
+  {
+    "question": "Which city was formerly known as Stalingrad?",
+    "correct_answer": "Volgograd",
+    "incorrect_answers": [
+      "St. Petersburg",
+      "Yekaterinburg",
+      "Nizhny Novgorod",
+      "Samara",
+      "Rostov-on-Don",
+      "Kazan",
+      "Novosibirsk"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Cities Around the World",
+    "difficulty": "hard",
+    "id": "68f1b23f-93fb-42f1-9d34-24658e37931a",
+    "created_at": "2025-04-19T18:23:22.143Z",
+    "backupTimestamp": "2025-04-19T18:23:22.143Z",
+    "localBackupTimestamp": "2025-04-19T12:23:22.143Z"
+  },
+  {
+    "question": "Which city is nicknamed 'The Crescent City'?",
+    "correct_answer": "New Orleans",
+    "incorrect_answers": [
+      "Miami",
+      "San Francisco",
+      "Boston",
+      "Charleston",
+      "Savannah",
+      "Mobile",
+      "Houston"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Cities Around the World",
+    "difficulty": "hard",
+    "id": "38b2d06b-3ccc-417d-a756-be29614b4cc6",
+    "created_at": "2025-04-19T18:23:22.145Z",
+    "backupTimestamp": "2025-04-19T18:23:22.145Z",
+    "localBackupTimestamp": "2025-04-19T12:23:22.145Z"
+  },
+  {
+    "question": "Which city is home to the ancient district of Sultanahmet?",
+    "correct_answer": "Istanbul",
+    "incorrect_answers": [
+      "Cairo",
+      "Damascus",
+      "Jerusalem",
+      "Marrakech",
+      "Fez",
+      "Baghdad",
+      "Tehran"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Cities Around the World",
+    "difficulty": "hard",
+    "id": "8c974856-d503-4260-931b-3a49df827d62",
+    "created_at": "2025-04-19T18:23:22.147Z",
+    "backupTimestamp": "2025-04-19T18:23:22.147Z",
+    "localBackupTimestamp": "2025-04-19T12:23:22.147Z"
+  },
+  {
+    "question": "Which Baltic city was formerly known as Reval?",
+    "correct_answer": "Tallinn",
+    "incorrect_answers": [
+      "Riga",
+      "Vilnius",
+      "Helsinki",
+      "St. Petersburg",
+      "Kaliningrad",
+      "Gdansk",
+      "Klaipeda"
+    ],
+    "main_category": "Geography",
+    "subcategory": "Cities Around the World",
+    "difficulty": "hard",
+    "id": "fd1b45c6-6646-4763-a1ee-004bf8e9bda7",
+    "created_at": "2025-04-19T18:23:22.149Z",
+    "backupTimestamp": "2025-04-19T18:23:22.149Z",
+    "localBackupTimestamp": "2025-04-19T12:23:22.149Z"
   }
 ]
