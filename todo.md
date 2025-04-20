@@ -50,16 +50,16 @@
       - [x] Generate categories.json from existing categories
       - [x] Generate category-specific JSON files in data/questions/
       - [x] Verify data consistency between database and generated files
+    - [ ] Clean up old backup system
+      - [x] Remove data/backup directory after verifying new files
+      - [x] Remove backup.ts utility
+      - [ ] Remove backup-related code from server
     - [ ] Update web admin interface to maintain JSON files
       - [ ] Add JSON generation utilities
       - [ ] Update category operations (add/edit/delete) to maintain JSON files
       - [ ] Update question operations to maintain category JSON files
       - [ ] Add manifest update functionality
       - [ ] Add JSON file consistency checks
-    - [ ] Clean up old backup system
-      - [ ] Remove data/backup directory after verifying new files
-      - [ ] Remove backup.ts utility
-      - [ ] Remove backup-related code from server
     - [ ] Update mobile database initialization
       - [ ] Add manifest timestamp checking on app start
       - [ ] Add function to check which categories need updates
