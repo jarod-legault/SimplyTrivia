@@ -5,3 +5,4 @@
 - If I ask a question, answer the question, but ask for permission before implementing any changes.
 - Check for errors in files after modifying them.
 - If there are eslint or prettier warnings, please use a terminal command to auto-fix the issues. It is faster than you trying to fix them.
+- Stay on task. Only make changes related to the current task.
