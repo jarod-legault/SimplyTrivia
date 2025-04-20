@@ -1,7 +1,6 @@
 {
   "name": "simplytrivia",
   "version": "1.0.0",
-  "type": "module",
   "main": "expo-router/entry",
   "scripts": {
     "android": "expo run:android",
@@ -18,7 +17,6 @@
     "web": "expo start --web",
     "web:build": "expo export -p web",
     "web:serve": "npx serve dist",
-    "dev:server": "nodemon --exec node --loader ts-node/esm server.ts",
     "init:json": "node --loader ts-node/esm utils/init-json-files.ts"
   },
   "dependencies": {
