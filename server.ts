@@ -6,7 +6,6 @@ import { ParamsDictionary } from 'express-serve-static-core';
 import { PORT } from './config';
 import * as schema from './models/schema';
 import { QuestionData } from './models/schema';
-import { saveQuestionToBackupFile, removeQuestionFromBackups } from './utils/backup';
 import {
   getDB,
   findSimilarQuestions,
@@ -186,14 +185,6 @@ app.post('/api/questions', (async (
         await db.insert(schema.questions).values(newQuestion);
         added.push(newQuestion);
         console.log('Question added successfully');
-
-        // Save to backup file
-        console.log('Saving to backup file');
-        saveQuestionToBackupFile({
-          ...data,
-          id: newQuestion.id,
-          created_at: newQuestion.createdAt,
-        });
       } catch (err) {
         console.error('Error processing question:', err);
         errors.push({
@@ -301,13 +292,6 @@ app.post('/api/questions/handle-duplicate', (async (req: Request, res: Response)
         // Insert into database
         await db.insert(schema.questions).values(newQuestion);
 
-        // Save to backup
-        await saveQuestionToBackupFile({
-          ...question,
-          id: newQuestion.id,
-          created_at: newQuestion.createdAt,
-        });
-
         res.json({
           success: true,
           message: 'Duplicate question approved and added',
@@ -380,13 +364,6 @@ app.post('/api/questions/handle-answer-in-question', (async (req: Request, res: 
         // Insert into database
         await db.insert(schema.questions).values(newQuestion);
 
-        // Save to backup
-        await saveQuestionToBackupFile({
-          ...question,
-          id: newQuestion.id,
-          created_at: newQuestion.createdAt,
-        });
-
         res.json({
           success: true,
           message: 'Question approved and added despite containing answer',
@@ -448,7 +425,6 @@ app.post('/api/questions/handle-scanned-answer', (async (req: Request, res: Resp
       // If not approved (Remove), delete the question from the database
       try {
         await db.delete(schema.questions).where(eq(schema.questions.id, question.id));
-        await removeQuestionFromBackups(question.id);
         res.json({
           success: true,
           message: 'Question removed due to containing answer',
@@ -528,9 +504,6 @@ app.delete('/api/questions/:id', (async (req: Request<DeleteParams>, res: Respon
 
     // Delete from database
     await db.delete(schema.questions).where(eq(schema.questions.id, req.params.id));
-
-    // Remove from backup files
-    await removeQuestionFromBackups(req.params.id);
 
     res.json({
       success: true,
