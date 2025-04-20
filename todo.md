@@ -53,11 +53,17 @@
     - [ ] Clean up old backup system
       - [x] Remove data/backup directory after verifying new files
       - [x] Remove backup.ts utility
-      - [ ] Remove backup-related code from server
+      - [x] Remove backup-related code from server
     - [ ] Update web admin interface to maintain JSON files
-      - [ ] Add JSON generation utilities
-      - [ ] Update category operations (add/edit/delete) to maintain JSON files
-      - [ ] Update question operations to maintain category JSON files
+      - [ ] Add JSON generation utilities one at a time, and test each one after implementing it.
+        - [ ] Add category
+        - [ ] Edit category
+        - [ ] Delete category
+        - [ ] Add question
+        - [ ] Edit question
+        - [ ] Delete question
+      - [ ] Update category operations (add/edit/delete) to maintain JSON files. Update one API route at a time and test each one after implementing.
+      - [ ] Update question operations to maintain category JSON files. Update one API route at a time and test each one after implementing.
       - [ ] Add manifest update functionality
       - [ ] Add JSON file consistency checks
     - [ ] Update mobile database initialization
