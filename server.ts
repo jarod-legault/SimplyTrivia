@@ -8,6 +8,7 @@ import path from 'path';
 import { PORT } from './config';
 import * as schema from './models/schema';
 import { QuestionData } from './models/schema';
+import { verifyCategoryConsistency, verifyQuestionFileConsistency } from './utils/json-validation';
 import {
   getDB,
   findSimilarQuestions,
@@ -19,10 +20,6 @@ import {
 import { generateUUID } from './utils/uuid';
 
 interface DeleteParams extends ParamsDictionary {
-  id: string;
-}
-
-interface UpdateParams extends ParamsDictionary {
   id: string;
 }
 
@@ -232,6 +229,13 @@ app.post('/api/questions', (async (
         questionCount: updatedQuestions.length,
         mainCategory,
       };
+
+      // Verify question file consistency
+      if (!(await verifyQuestionFileConsistency(mainCategory))) {
+        throw new Error(
+          `Question file consistency check failed for ${mainCategory} after adding questions`
+        );
+      }
     }
 
     // Write updated manifest
@@ -557,6 +561,13 @@ app.delete('/api/questions/:id', (async (req: Request<DeleteParams>, res: Respon
       const updatedQuestions = categoryQuestions.filter((q: any) => q.id !== req.params.id);
       fs.writeFileSync(questionsPath, JSON.stringify(updatedQuestions, null, 2));
 
+      // Verify question file consistency
+      if (!(await verifyQuestionFileConsistency(question[0].mainCategory))) {
+        throw new Error(
+          `Question file consistency check failed for ${question[0].mainCategory} after deleting question`
+        );
+      }
+
       // Update manifest.json
       const manifestPath = path.join(__dirname, 'data', 'manifest.json');
       const manifest = JSON.parse(fs.readFileSync(manifestPath, 'utf-8'));
@@ -662,6 +673,11 @@ app.post('/api/categories', (async (req: Request, res: Response) => {
     categories.push(newCategory);
     fs.writeFileSync(categoriesPath, JSON.stringify(categories, null, 2));
 
+    // Verify category consistency
+    if (!(await verifyCategoryConsistency())) {
+      throw new Error('Category consistency check failed after adding new category');
+    }
+
     // Update manifest.json
     const manifestPath = path.join(__dirname, 'data', 'manifest.json');
     const manifest = JSON.parse(fs.readFileSync(manifestPath, 'utf-8'));
@@ -738,6 +754,11 @@ app.delete('/api/categories/:id', (async (req: Request, res: Response) => {
     let categories = JSON.parse(fs.readFileSync(categoriesPath, 'utf-8'));
     categories = categories.filter((c: any) => c.id !== id);
     fs.writeFileSync(categoriesPath, JSON.stringify(categories, null, 2));
+
+    // Verify category consistency
+    if (!(await verifyCategoryConsistency())) {
+      throw new Error('Category consistency check failed after deleting category');
+    }
 
     // Update manifest.json
     const manifestPath = path.join(__dirname, 'data', 'manifest.json');
