@@ -65,9 +65,12 @@
     - [ ] Update mobile database initialization
       - [ ] Add manifest timestamp checking on app start
       - [ ] Add function to check which categories need updates
+      - [ ] Add function to check which question files need updates
       - [ ] Add transaction-based category updates
+      - [ ] Add transaction-based question updates per category
       - [ ] Add database integrity verification
       - [ ] Add JSON validation and error reporting
+      - [ ] Add rollback functionality for failed updates
   - [ ] Create mobile screens
     - [x] Create home screen (easy, medium, hard, surprise me, settings)
     - [x] Create settings screen where user can select which categories to include or exclude.
