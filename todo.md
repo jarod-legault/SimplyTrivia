@@ -67,7 +67,7 @@
       - [x] Add function to check which categories need updates
       - [x] Add function to check which question files need updates
       - [x] Add transaction-based category updates
-      - [ ] Add transaction-based question updates per category
+      - [x] Add transaction-based question updates per category
       - [ ] Add database integrity verification
       - [ ] Add JSON validation and error reporting
       - [ ] Add rollback functionality for failed updates
