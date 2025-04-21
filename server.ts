@@ -548,6 +548,28 @@ app.delete('/api/questions/:id', (async (req: Request<DeleteParams>, res: Respon
     // Delete from database
     await db.delete(schema.questions).where(eq(schema.questions.id, req.params.id));
 
+    // Update category's questions file
+    const fileName = `${question[0].mainCategory.toLowerCase().replace(/[^a-z0-9]+/g, '-')}.json`;
+    const questionsPath = path.join(__dirname, 'data', 'questions', fileName);
+
+    if (fs.existsSync(questionsPath)) {
+      const categoryQuestions = JSON.parse(fs.readFileSync(questionsPath, 'utf-8'));
+      const updatedQuestions = categoryQuestions.filter((q: any) => q.id !== req.params.id);
+      fs.writeFileSync(questionsPath, JSON.stringify(updatedQuestions, null, 2));
+
+      // Update manifest.json
+      const manifestPath = path.join(__dirname, 'data', 'manifest.json');
+      const manifest = JSON.parse(fs.readFileSync(manifestPath, 'utf-8'));
+      const now = new Date().toISOString();
+      manifest.lastUpdate = now;
+      manifest.questionFiles[fileName] = {
+        timestamp: now,
+        questionCount: updatedQuestions.length,
+        mainCategory: question[0].mainCategory,
+      };
+      fs.writeFileSync(manifestPath, JSON.stringify(manifest, null, 2));
+    }
+
     res.json({
       success: true,
       message: 'Question deleted successfully',

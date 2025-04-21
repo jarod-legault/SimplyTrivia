@@ -55,11 +55,11 @@
       - [x] Remove backup.ts utility
       - [x] Remove backup-related code from server
     - [ ] Update web admin interface to maintain JSON files
-      - [ ] Add JSON generation utilities one at a time, and test each one after implementing it.
+      - [x] Add JSON generation utilities one at a time, and test each one after implementing it.
         - [x] Update "add category" API route to update `categories.json` and test to make sure it works.
         - [x] Update "delete category" API route to update `categories.json` and test to make sure it works.
         - [x] Update "add question" API route to update the corresponding category JSON file and test to make sure it works.
-        - [ ] Update "delete question" API route to update the corresponding category JSON file and test to make sure it works.
+        - [x] Update "delete question" API route to update the corresponding category JSON file and test to make sure it works.
       - [ ] Add manifest update functionality
       - [ ] Add JSON file consistency checks
     - [ ] Update mobile database initialization
