@@ -2,6 +2,8 @@ import cors from 'cors';
 import { eq, desc, sql } from 'drizzle-orm';
 import express, { Request, Response, RequestHandler } from 'express';
 import { ParamsDictionary } from 'express-serve-static-core';
+import fs from 'fs';
+import path from 'path';
 
 import { PORT } from './config';
 import * as schema from './models/schema';
@@ -680,6 +682,36 @@ app.post('/api/categories', (async (req: Request, res: Response) => {
     };
 
     await db.insert(schema.categories).values(newCategory);
+
+    // Update categories.json
+    const categoriesPath = path.join(__dirname, 'data', 'categories.json');
+    const categories = JSON.parse(fs.readFileSync(categoriesPath, 'utf-8'));
+    categories.push(newCategory);
+    fs.writeFileSync(categoriesPath, JSON.stringify(categories, null, 2));
+
+    // Update manifest.json
+    const manifestPath = path.join(__dirname, 'data', 'manifest.json');
+    const manifest = JSON.parse(fs.readFileSync(manifestPath, 'utf-8'));
+    const now = new Date().toISOString();
+    manifest.lastUpdate = now;
+    manifest.categories.timestamp = now;
+    manifest.categories.count = categories.length;
+
+    // If this is a new main category, create its questions file
+    const fileName = `${mainCategory.toLowerCase().replace(/[^a-z0-9]+/g, '-')}.json`;
+    const questionsPath = path.join(__dirname, 'data', 'questions', fileName);
+    if (!manifest.questionFiles[fileName]) {
+      // Create empty questions file if it doesn't exist
+      fs.writeFileSync(questionsPath, '[]');
+      // Add to manifest
+      manifest.questionFiles[fileName] = {
+        timestamp: now,
+        questionCount: 0,
+        mainCategory,
+      };
+    }
+
+    fs.writeFileSync(manifestPath, JSON.stringify(manifest, null, 2));
 
     res.json({
       success: true,

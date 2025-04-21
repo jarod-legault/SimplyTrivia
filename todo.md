@@ -56,8 +56,7 @@
       - [x] Remove backup-related code from server
     - [ ] Update web admin interface to maintain JSON files
       - [ ] Add JSON generation utilities one at a time, and test each one after implementing it.
-        - [ ] Update "add category" API route to update `categories.json` and test to make sure it works.
-        - [ ] Update "edit category" API route to update `categories.json` and test to make sure it works.
+        - [x] Update "add category" API route to update `categories.json` and test to make sure it works.
         - [ ] Update "delete category" API route to update `categories.json` and test to make sure it works.
         - [ ] Update "add question" API route to update the corresponding JSON file for the category and test to make sure it works.
         - [ ] Update "edit question" API route to update the corresponding JSON file for the category and test to make sure it works.
