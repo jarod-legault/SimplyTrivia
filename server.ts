@@ -757,8 +757,42 @@ app.delete('/api/categories/:id', (async (req: Request, res: Response) => {
       });
     }
 
-    // Delete the category
+    // Delete the category from database
     await db.delete(schema.categories).where(eq(schema.categories.id, id));
+
+    // Update categories.json
+    const categoriesPath = path.join(__dirname, 'data', 'categories.json');
+    let categories = JSON.parse(fs.readFileSync(categoriesPath, 'utf-8'));
+    categories = categories.filter((c: any) => c.id !== id);
+    fs.writeFileSync(categoriesPath, JSON.stringify(categories, null, 2));
+
+    // Update manifest.json
+    const manifestPath = path.join(__dirname, 'data', 'manifest.json');
+    const manifest = JSON.parse(fs.readFileSync(manifestPath, 'utf-8'));
+    const now = new Date().toISOString();
+    manifest.lastUpdate = now;
+    manifest.categories.timestamp = now;
+    manifest.categories.count = categories.length;
+
+    // Check if this was the last subcategory for this main category
+    const remainingInMainCategory = categories.some(
+      (c: any) => c.mainCategory === category[0].mainCategory
+    );
+
+    if (!remainingInMainCategory) {
+      // This was the last subcategory, delete the questions file
+      const fileName = `${category[0].mainCategory.toLowerCase().replace(/[^a-z0-9]+/g, '-')}.json`;
+      const questionsPath = path.join(__dirname, 'data', 'questions', fileName);
+
+      if (fs.existsSync(questionsPath)) {
+        fs.unlinkSync(questionsPath);
+      }
+
+      // Remove from manifest
+      delete manifest.questionFiles[fileName];
+    }
+
+    fs.writeFileSync(manifestPath, JSON.stringify(manifest, null, 2));
 
     res.json({
       success: true,

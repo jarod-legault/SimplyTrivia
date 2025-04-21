@@ -57,7 +57,7 @@
     - [ ] Update web admin interface to maintain JSON files
       - [ ] Add JSON generation utilities one at a time, and test each one after implementing it.
         - [x] Update "add category" API route to update `categories.json` and test to make sure it works.
-        - [ ] Update "delete category" API route to update `categories.json` and test to make sure it works.
+        - [x] Update "delete category" API route to update `categories.json` and test to make sure it works.
         - [ ] Update "add question" API route to update the corresponding JSON file for the category and test to make sure it works.
         - [ ] Update "edit question" API route to update the corresponding JSON file for the category and test to make sure it works.
         - [ ] Update "delete question" API route to update the corresponding JSON file for the category and test to make sure it works.
