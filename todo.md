@@ -56,14 +56,12 @@
       - [x] Remove backup-related code from server
     - [ ] Update web admin interface to maintain JSON files
       - [ ] Add JSON generation utilities one at a time, and test each one after implementing it.
-        - [ ] Add category
-        - [ ] Edit category
-        - [ ] Delete category
-        - [ ] Add question
-        - [ ] Edit question
-        - [ ] Delete question
-      - [ ] Update category operations (add/edit/delete) to maintain JSON files. Update one API route at a time and test each one after implementing.
-      - [ ] Update question operations to maintain category JSON files. Update one API route at a time and test each one after implementing.
+        - [ ] Update "add category" API route to update `categories.json` and test to make sure it works.
+        - [ ] Update "edit category" API route to update `categories.json` and test to make sure it works.
+        - [ ] Update "delete category" API route to update `categories.json` and test to make sure it works.
+        - [ ] Update "add question" API route to update the corresponding JSON file for the category and test to make sure it works.
+        - [ ] Update "edit question" API route to update the corresponding JSON file for the category and test to make sure it works.
+        - [ ] Update "delete question" API route to update the corresponding JSON file for the category and test to make sure it works.
       - [ ] Add manifest update functionality
       - [ ] Add JSON file consistency checks
     - [ ] Update mobile database initialization
