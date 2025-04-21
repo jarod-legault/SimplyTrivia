@@ -90,6 +90,9 @@ app.post('/api/questions', (async (
     const questionWarnings = [];
     const errors = [];
 
+    // Track which category files need to be updated
+    const categoryUpdates = new Map<string, { questions: any[]; mainCategory: string }>();
+
     for (const data of questionsData) {
       try {
         console.log('Processing question:', data.question);
@@ -186,6 +189,17 @@ app.post('/api/questions', (async (
         console.log('Adding question to database');
         await db.insert(schema.questions).values(newQuestion);
         added.push(newQuestion);
+
+        // Track which category files need to be updated
+        const fileName = `${data.main_category.toLowerCase().replace(/[^a-z0-9]+/g, '-')}.json`;
+        if (!categoryUpdates.has(fileName)) {
+          categoryUpdates.set(fileName, {
+            questions: [],
+            mainCategory: data.main_category,
+          });
+        }
+        categoryUpdates.get(fileName)?.questions.push(newQuestion);
+
         console.log('Question added successfully');
       } catch (err) {
         console.error('Error processing question:', err);
@@ -195,6 +209,33 @@ app.post('/api/questions', (async (
         });
       }
     }
+
+    // Update JSON files for categories that had questions added
+    const now = new Date().toISOString();
+    const manifestPath = path.join(__dirname, 'data', 'manifest.json');
+    const manifest = JSON.parse(fs.readFileSync(manifestPath, 'utf-8'));
+    manifest.lastUpdate = now;
+
+    for (const [fileName, { questions, mainCategory }] of categoryUpdates) {
+      // Read and update the category's questions file
+      const questionsPath = path.join(__dirname, 'data', 'questions', fileName);
+      let existingQuestions = [];
+      if (fs.existsSync(questionsPath)) {
+        existingQuestions = JSON.parse(fs.readFileSync(questionsPath, 'utf-8'));
+      }
+      const updatedQuestions = [...existingQuestions, ...questions];
+      fs.writeFileSync(questionsPath, JSON.stringify(updatedQuestions, null, 2));
+
+      // Update manifest
+      manifest.questionFiles[fileName] = {
+        timestamp: now,
+        questionCount: updatedQuestions.length,
+        mainCategory,
+      };
+    }
+
+    // Write updated manifest
+    fs.writeFileSync(manifestPath, JSON.stringify(manifest, null, 2));
 
     console.log('Request complete:', {
       added: added.length,
