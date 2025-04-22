@@ -1,12 +1,16 @@
 import { eq, and, sql } from 'drizzle-orm';
 import { drizzle } from 'drizzle-orm/expo-sqlite';
+import { Asset } from 'expo-asset';
 import * as FileSystem from 'expo-file-system';
 import * as SQLite from 'expo-sqlite';
 
-// Import JSON files
 import { generateUUID } from './uuid';
-import categories from '../data/categories.json';
+import { Category, Question } from '../models/database.common';
+import * as schema from '../models/schema';
+
+// Import JSON files
 import manifest from '../data/manifest.json';
+import categories from '../data/categories.json';
 import artCulture from '../data/questions/art-culture.json';
 import foodDrink from '../data/questions/food-drink.json';
 import geography from '../data/questions/geography.json';
@@ -17,8 +21,6 @@ import popCulture from '../data/questions/pop-culture.json';
 import scienceNature from '../data/questions/science-nature.json';
 import sportsGames from '../data/questions/sports-games.json';
 import technology from '../data/questions/technology.json';
-import { Category, Question } from '../models/database.common';
-import * as schema from '../models/schema';
 
 const questionFiles = {
   'art-culture.json': artCulture,
@@ -387,77 +389,6 @@ export const applyCategoryUpdates = async (
     }
   } catch (error) {
     console.error('Error applying category updates:', error);
-    throw error;
-  }
-};
-
-export const applyQuestionFileUpdates = async (
-  sqlite: SQLite.SQLiteDatabase,
-  updates: QuestionFileUpdate[]
-): Promise<void> => {
-  if (updates.length === 0) {
-    return;
-  }
-
-  try {
-    // Load manifest file
-    const manifestJson = await FileSystem.readAsStringAsync(
-      FileSystem.documentDirectory + 'data/manifest.json'
-    );
-    const manifest = JSON.parse(manifestJson) as ManifestFile;
-
-    // Process each question file update
-    for (const update of updates) {
-      console.log(`Updating questions for ${update.mainCategory}...`);
-
-      // Read the question file
-      const questions = JSON.parse(
-        await FileSystem.readAsStringAsync(
-          FileSystem.documentDirectory + `data/questions/${update.fileName}`
-        )
-      );
-
-      // Start transaction for this category's questions
-      await sqlite.execAsync('BEGIN TRANSACTION');
-
-      try {
-        // Delete existing questions for this category
-        await sqlite.execAsync(
-          `DELETE FROM questions WHERE main_category = '${update.mainCategory}'`
-        );
-
-        // Import new questions
-        for (const question of questions) {
-          await sqlite.execAsync(
-            `INSERT INTO questions (id, question, correct_answer, incorrect_answers,
-              main_category, subcategory, difficulty, created_at)
-             VALUES ('${question.id}', '${question.question.replace(/'/g, "''")}',
-             '${question.correctAnswer.replace(/'/g, "''")}',
-             '${question.incorrectAnswers.replace(/'/g, "''")}',
-             '${question.mainCategory}', '${question.subcategory}',
-             '${question.difficulty}', ${new Date(question.createdAt).getTime()})`
-          );
-        }
-
-        // Update timestamp for this category
-        await updateStoredTimestamp(
-          sqlite,
-          `questions_${update.mainCategory}_timestamp`,
-          manifest.questionFiles[update.fileName].timestamp
-        );
-
-        // Commit transaction
-        await sqlite.execAsync('COMMIT');
-        console.log(
-          `Successfully updated ${questions.length} questions for ${update.mainCategory}`
-        );
-      } catch (error) {
-        await sqlite.execAsync('ROLLBACK');
-        throw error;
-      }
-    }
-  } catch (error) {
-    console.error('Error applying question file updates:', error);
     throw error;
   }
 };
