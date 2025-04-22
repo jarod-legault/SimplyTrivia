@@ -63,10 +63,10 @@
       - [x] Add manifest update functionality
       - [x] Add JSON file consistency checks
     - [ ] Update mobile database initialization
-      - [x] Add manifest timestamp checking on app start
-      - [x] Add function to check which categories need updates
-      - [x] Add function to check which question files need updates
-      - [x] Add transaction-based category updates
+      - [ ] Add manifest timestamp checking on app start
+      - [ ] Add function to check which categories need updates
+      - [ ] Add function to check which question files need updates
+      - [ ] Add transaction-based category updates
       - [ ] Add transaction-based question updates per category
       - [ ] Add database integrity verification
       - [ ] Add JSON validation and error reporting
