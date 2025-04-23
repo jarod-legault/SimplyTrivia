@@ -1,4 +1,5 @@
 import { Stack, useRouter } from 'expo-router';
+import { openDatabaseSync, useSQLiteContext, importDatabaseFromAssetAsync } from 'expo-sqlite';
 import { useEffect, useState } from 'react';
 import { StyleSheet, Text, View, Platform, Pressable, Image } from 'react-native';
 
@@ -7,7 +8,13 @@ import type { Difficulty } from '../types';
 
 import { Container } from '~/components/Container';
 
+import { drizzle } from 'drizzle-orm/expo-sqlite';
+// import { openDatabaseSync } from "expo-sqlite";
+import { categories, questions } from '~/models/schema';
+
 export default function Home() {
+  const expoSql = useSQLiteContext();
+
   const router = useRouter();
   const [isMounted, setIsMounted] = useState(false);
   const setDifficulty = useStore(
@@ -15,7 +22,38 @@ export default function Home() {
   );
 
   useEffect(() => {
-    setIsMounted(true);
+    const init = async () => {
+      console.log('sqlite version', expoSql.getFirstSync('SELECT sqlite_version()'));
+      console.log('Database name:', expoSql.databaseName);
+      const tables = expoSql.getAllSync('SELECT name FROM sqlite_master WHERE type="table"');
+      console.log('Tables in database:', tables);
+
+      const categoriesCount = expoSql.getFirstSync('SELECT COUNT(*) as count FROM categories');
+      const questionsCount = expoSql.getFirstSync('SELECT COUNT(*) as count FROM questions');
+      console.log('Categories count:', categoriesCount);
+      console.log('Questions count:', questionsCount);
+
+      const allCategories = expoSql.getAllSync('SELECT * FROM categories');
+      console.log('All categories:', allCategories);
+
+      const firstQuestion = expoSql.getFirstSync('SELECT * FROM questions LIMIT 1');
+      console.log('First question:', firstQuestion);
+
+      const db = drizzle(expoSql);
+      // await importDatabaseFromAssetAsync('questions.db', {
+      //   assetId: require('../assets/database/questions.db'),
+      // });
+      // const expo = openDatabaseSync('questions.db');
+      // const db = drizzle(expo);
+      const allCategoriesDrizzle = await db.select().from(categories);
+      console.log('allCategoriesDrizzle: ', allCategoriesDrizzle);
+      const firstQuestionDrizzle = await db.select().from(questions).limit(1);
+      console.log('First question drizzle:', firstQuestionDrizzle);
+
+      setIsMounted(true);
+    };
+
+    init();
   }, []);
 
   useEffect(() => {
