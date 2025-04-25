@@ -3,17 +3,13 @@ import { drizzle } from 'drizzle-orm/better-sqlite3';
 import fs from 'fs';
 import path from 'path';
 
-import { generateUUID } from './uuid';
+import { DB_DIR, SERVER_DB_PATH } from '../config/database';
 import * as schema from '../models/schema';
 
 // Early environment check to prevent module from loading in browser
 if (typeof window !== 'undefined') {
   throw new Error('This module is intended for server-side use only');
 }
-
-// Define the database directory and file
-const DB_DIR = path.join(process.cwd(), 'data');
-const DB_PATH = path.join(DB_DIR, 'questions.db');
 
 // Make sure the data directory exists
 try {
@@ -45,7 +41,7 @@ export const getDB = () => {
 
   if (!_db) {
     try {
-      _sqlite = new Database(DB_PATH);
+      _sqlite = new Database(SERVER_DB_PATH);
       _db = drizzle(_sqlite, { schema });
 
       // Initialize the database schema
