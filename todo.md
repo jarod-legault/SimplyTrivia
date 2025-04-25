@@ -63,14 +63,35 @@
       - [x] Add manifest update functionality
       - [x] Add JSON file consistency checks
     - [ ] Update mobile database initialization
-      - [ ] Add manifest timestamp checking on app start
-      - [ ] Add function to check which categories need updates
-      - [ ] Add function to check which question files need updates
-      - [ ] Add transaction-based category updates
-      - [ ] Add transaction-based question updates per category
-      - [ ] Add database integrity verification
-      - [ ] Add JSON validation and error reporting
-      - [ ] Add rollback functionality for failed updates
+      - [x] Prepare database asset
+        - [x] Move questions.db to assets/database/ folder
+        - [x] Update app.config.js to include .db files in asset bundling
+      - [ ] Update mobile-db.ts
+        - [x] Remove JSON import logic
+        - [x] Add bundled database copy logic using FileSystem
+        - [x] Initialize drizzle with openDatabaseSync
+        - [x] Add basic database verification (test query)
+    - [ ] Fix Settings screen to display categories
+      - [ ] Debug category loading
+      - [ ] Add category toggle functionality
+      - [ ] Save category preferences
+    - [ ] Test database functionality
+      - [ ] Verify questions are accessible
+      - [ ] Test category filtering
+      - [ ] Test difficulty filtering
+      - [ ] Create response backup system
+        - [ ] Add functions to export/import responses to JSON
+        - [ ] Add database update detection
+        - [ ] Implement response restoration after updates
+      - [ ] Data Consistency & Error Handling
+        - [ ] Add database consistency checks
+        - [ ] Add detailed error logging
+        - [ ] Handle corrupted database gracefully
+        - [ ] Implement database reset mechanism
+      - [ ] Remove old JSON files from data directory after verifying database importing works
+        - [ ] Remove export.json
+        - [ ] Remove mock-questions.json
+        - [ ] Remove questions_export.json
   - [ ] Create mobile screens
     - [x] Create home screen (easy, medium, hard, surprise me, settings)
     - [x] Create settings screen where user can select which categories to include or exclude.
