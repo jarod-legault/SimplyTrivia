@@ -1,6 +1,6 @@
+import { Ionicons } from '@expo/vector-icons';
 import { Stack, useRouter } from 'expo-router';
-import { useEffect, useState } from 'react';
-import { StyleSheet, Text, View, Platform, Pressable, Image } from 'react-native';
+import { StyleSheet, Text, View, Pressable, Image } from 'react-native';
 
 import { Container } from '../components/Container';
 import { useStore } from '../store';
@@ -8,20 +8,9 @@ import type { Difficulty } from '../types';
 
 export default function Home() {
   const router = useRouter();
-  const [isMounted, setIsMounted] = useState(false);
   const setDifficulty = useStore(
     (state: { setDifficulty: (d: Difficulty) => void }) => state.setDifficulty
   );
-
-  useEffect(() => {
-    setIsMounted(true);
-  }, []);
-
-  useEffect(() => {
-    if (isMounted && Platform.OS === 'web') {
-      router.replace('./admin');
-    }
-  }, [isMounted]);
 
   const handleDifficultySelect = (difficulty: Difficulty) => {
     setDifficulty(difficulty);
@@ -90,13 +79,9 @@ export default function Home() {
 
           <View style={styles.settingsContainer}>
             <Pressable
-              style={({ pressed }) => [
-                styles.button,
-                styles.settingsButton,
-                pressed && styles.buttonPressed,
-              ]}
+              style={({ pressed }) => [styles.settingsButton, pressed && styles.buttonPressed]}
               onPress={handleSettingsPress}>
-              <Text style={styles.buttonText}>Settings</Text>
+              <Ionicons name="settings" size={24} color="#fff" />
             </Pressable>
           </View>
         </View>
@@ -133,11 +118,6 @@ const styles = StyleSheet.create({
     borderRadius: 8,
     alignItems: 'center',
     elevation: 3,
-    ...(Platform.OS === 'web'
-      ? {
-          boxShadow: '0px 2px 3.84px rgba(0, 0, 0, 0.25)',
-        }
-      : {}),
   },
   buttonPressed: {
     opacity: 0.8,
@@ -160,9 +140,17 @@ const styles = StyleSheet.create({
     backgroundColor: '#9C27B0', // Purple
   },
   settingsButton: {
-    backgroundColor: '#607D8B', // Blue grey
+    backgroundColor: '#607D8B',
+    width: 48,
+    height: 48,
+    borderRadius: 24,
+    justifyContent: 'center',
+    alignItems: 'center',
+    elevation: 3,
   },
   settingsContainer: {
-    marginTop: 'auto',
+    position: 'absolute',
+    left: 20,
+    bottom: 20,
   },
 });

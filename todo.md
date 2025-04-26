@@ -95,7 +95,7 @@
   - [ ] Create mobile screens
     - [x] Create home screen (easy, medium, hard, surprise me, settings)
     - [x] Create settings screen where user can select which categories to include or exclude.
-    - [ ] Change settings button to a gear icon.
+    - [x] Change settings button to a gear icon.
     - [ ] Test app on iOS.
     - [ ] Create question screen.
   - [ ] Add response backup system (mobile-only)
