@@ -72,11 +72,11 @@
         - [x] Initialize drizzle with openDatabaseSync
         - [x] Add basic database verification (test query)
     - [ ] Fix Settings screen to display categories
-      - [ ] Debug category loading
-      - [ ] Add category toggle functionality
-      - [ ] Save category preferences
+      - [x] Debug category loading
+      - [x] Add category toggle functionality
+      - [x] Save category preferences
     - [ ] Test database functionality
-      - [ ] Verify questions are accessible
+      - [x] Verify questions are accessible
       - [ ] Test category filtering
       - [ ] Test difficulty filtering
       - [ ] Create response backup system
@@ -95,8 +95,8 @@
   - [ ] Create mobile screens
     - [x] Create home screen (easy, medium, hard, surprise me, settings)
     - [x] Create settings screen where user can select which categories to include or exclude.
-    - [ ] Test app on iOS.
     - [ ] Change settings button to a gear icon.
+    - [ ] Test app on iOS.
     - [ ] Create question screen.
   - [ ] Add response backup system (mobile-only)
     - [ ] Create responses.json backup functions
