@@ -2,8 +2,9 @@ import { Stack } from 'expo-router';
 import React, { useEffect, useState } from 'react';
 import { StyleSheet, Text, View, ScrollView, Pressable, ActivityIndicator } from 'react-native';
 
-import { getCategories } from '../models/database';
+import { categories as categoriesSchema } from '../models/schema';
 import { useStore } from '../store';
+import { useDatabase } from '../utils/mobile-db';
 
 import { Container } from '~/components/Container';
 
@@ -24,6 +25,26 @@ export default function SettingsScreen() {
   const [error, setError] = useState<string | null>(null);
 
   const { categoryPreferences, toggleCategory } = useStore();
+  const database = useDatabase();
+
+  // Fetch categories only once on mount
+  useEffect(() => {
+    const fetchCategories = async () => {
+      try {
+        console.log('Fetching categories from database...');
+        const allCategories = await database.select().from(categoriesSchema);
+        console.log('Categories fetched:', allCategories);
+        setCategories(allCategories);
+      } catch (err) {
+        console.error('Error fetching categories:', err);
+        setError('Failed to load categories');
+      } finally {
+        setIsLoading(false);
+      }
+    };
+
+    fetchCategories();
+  }, []);
 
   // Group categories by main category
   useEffect(() => {
@@ -42,23 +63,6 @@ export default function SettingsScreen() {
 
     setGroupedCategories(grouped);
   }, [categories]);
-
-  // Fetch categories on mount
-  useEffect(() => {
-    fetchCategories();
-  }, []);
-
-  const fetchCategories = async () => {
-    try {
-      const result = await getCategories();
-      setCategories(result);
-    } catch (err) {
-      console.error('Error fetching categories:', err);
-      setError('Failed to load categories');
-    } finally {
-      setIsLoading(false);
-    }
-  };
 
   const isCategoryEnabled = (mainCategory: string, subcategory: string) => {
     const pref = categoryPreferences.find(

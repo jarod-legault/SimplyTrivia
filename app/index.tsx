@@ -1,3 +1,4 @@
+import { drizzle } from 'drizzle-orm/expo-sqlite';
 import { Stack, useRouter } from 'expo-router';
 import { openDatabaseSync, useSQLiteContext, importDatabaseFromAssetAsync } from 'expo-sqlite';
 import { useEffect, useState } from 'react';
@@ -5,10 +6,8 @@ import { StyleSheet, Text, View, Platform, Pressable, Image } from 'react-native
 
 import { useStore } from '../store';
 import type { Difficulty } from '../types';
-
 import { Container } from '~/components/Container';
 
-import { drizzle } from 'drizzle-orm/expo-sqlite';
 // import { openDatabaseSync } from "expo-sqlite";
 import { categories, questions } from '~/models/schema';
 
