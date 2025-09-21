@@ -3,7 +3,7 @@
     "name": "SimplyTrivia",
     "slug": "SimplyTrivia",
     "version": "1.0.0",
-    "scheme": "SimplyTrivia",
+    "scheme": "simply-trivia",
     "web": {
       "bundler": "metro",
       "output": "static",
