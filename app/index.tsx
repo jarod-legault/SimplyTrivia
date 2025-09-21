@@ -14,6 +14,7 @@ import { Container } from '~/components/Container';
 import DifficultyButton from '~/components/DifficultyButton';
 import { useOtdbApi } from '~/hooks/useOtdbApi';
 import { useStore } from '~/store';
+import { palette, spacing } from '~/styles/theme';
 
 export default function Home() {
   const [loading, setLoading] = useState<boolean>(true);
@@ -44,29 +45,33 @@ export default function Home() {
     <>
       <Stack.Screen options={{ title: 'home', headerShown: false }} />
       <Container>
-        <ScrollView contentContainerStyle={styles.difficultyContainer}>
-          <View style={styles.headerStyle}>
-            <Image style={styles.logo} source={require('../assets/icon.png')} />
-            <Text style={styles.headerText}>Simply Trivia</Text>
+        <ScrollView contentContainerStyle={styles.scrollContent}>
+          <View style={styles.header}>
+            <View style={styles.logoWrapper}>
+              <Image style={styles.logo} source={require('../assets/icon.png')} />
+            </View>
+            <Text style={styles.title}>Simply Trivia</Text>
+            <Text style={styles.subtitle}>Pick a challenge level and start a streak of right answers.</Text>
           </View>
 
           <View style={styles.body}>
             {loading && (
-              <View style={{ flex: 1, justifyContent: 'center' }}>
-                <ActivityIndicator size="large" />
+              <View style={styles.loaderRow}>
+                <ActivityIndicator size="large" color={palette.accent} />
+                <Text style={styles.loaderCopy}>Contacting the trivia vault…</Text>
               </View>
             )}
 
             {networkError && (
               <Link replace href={{ pathname: '/', params: {} }} asChild>
                 <TouchableOpacity style={styles.retryButton}>
-                  <Text style={styles.retryButtonText}>Network Error - Retry</Text>
+                  <Text style={styles.retryButtonText}>Network Error — Tap to Retry</Text>
                 </TouchableOpacity>
               </Link>
             )}
 
-            {!loading && (
-              <>
+            {!loading && !networkError && (
+              <View style={styles.difficultyList}>
                 <Link href={{ pathname: '/question', params: {} }} asChild>
                   <DifficultyButton difficulty="easy" onPress={() => setDifficulty('easy')} />
                 </Link>
@@ -76,7 +81,7 @@ export default function Home() {
                 <Link href={{ pathname: '/question', params: {} }} asChild>
                   <DifficultyButton difficulty="hard" onPress={() => setDifficulty('hard')} />
                 </Link>
-              </>
+              </View>
             )}
           </View>
         </ScrollView>
@@ -86,50 +91,65 @@ export default function Home() {
 }
 
 const styles = StyleSheet.create({
-  headerStyle: {
-    flexDirection: 'row',
+  scrollContent: {
+    paddingVertical: spacing(6),
+  },
+  header: {
     alignItems: 'center',
-    marginTop: 100,
+    gap: spacing(2),
+    marginBottom: spacing(6),
+  },
+  logoWrapper: {
+    height: 120,
+    width: 120,
+    borderRadius: 30,
+    justifyContent: 'center',
+    alignItems: 'center',
+    backgroundColor: palette.surface,
+  },
+  logo: {
+    height: 70,
+    width: 70,
+    resizeMode: 'contain',
+  },
+  title: {
+    fontSize: 36,
+    fontWeight: '700',
+    color: palette.textPrimary,
+  },
+  subtitle: {
+    fontSize: 16,
+    lineHeight: 22,
+    textAlign: 'center',
+    color: palette.textSecondary,
+    paddingHorizontal: spacing(3),
   },
   body: {
     flex: 1,
     width: '100%',
+  },
+  loaderRow: {
     alignItems: 'center',
-    justifyContent: 'center',
+    gap: spacing(2),
   },
-  logo: {
-    height: 100,
-    width: 100,
-    marginRight: 20,
-  },
-  headerText: {
-    fontSize: 40,
-    color: '#8927D8',
-  },
-  difficultyContainer: {
-    flex: 1,
-    alignItems: 'center',
-  },
-  easyBorder: {
-    borderColor: '#009D40',
-  },
-  mediumBorder: {
-    borderColor: '#0e0fe0',
+  loaderCopy: {
+    color: palette.textSecondary,
+    fontSize: 16,
   },
   retryButton: {
-    padding: 20,
-    borderRadius: 10,
-    marginTop: 10,
-    backgroundColor: '#0e0fe0',
+    paddingVertical: spacing(2),
+    paddingHorizontal: spacing(3),
+    borderRadius: spacing(3),
+    marginTop: spacing(2),
+    backgroundColor: palette.error,
+    alignSelf: 'center',
   },
   retryButtonText: {
-    color: 'white',
-    fontSize: 20,
+    color: palette.textPrimary,
+    fontSize: 16,
+    fontWeight: '600',
   },
-  hardBorder: {
-    borderColor: '#FF570D',
-  },
-  screenContainer: {
-    flex: 1,
+  difficultyList: {
+    gap: spacing(2),
   },
 });

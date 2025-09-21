@@ -15,6 +15,7 @@ import { Container } from '~/components/Container';
 import { useQuestions } from '~/hooks/useQuestions';
 import { useStore } from '~/store';
 import { OTDBQuestionDetails } from '~/types';
+import { palette, radii, shadow, spacing } from '~/styles/theme';
 
 function QuestionScreen() {
   const difficulty = useStore((state) => state.difficulty);
@@ -57,13 +58,15 @@ function QuestionScreen() {
 
   return (
     <>
-      <Stack.Screen options={{ title: headerTitle }} />
+      <Stack.Screen options={{ title: `${headerTitle} Trivia`, headerStyle: { backgroundColor: palette.backgroundAlt }, headerTintColor: palette.textPrimary }} />
       <Container>
-        <ScrollView contentContainerStyle={styles.container}>
+        <ScrollView contentContainerStyle={styles.content}>
           {currentQuestion && !networkError && (
             <>
               <View style={styles.questionContainer}>
-                <Text style={styles.categoryText}>{currentQuestion.category}</Text>
+                <View style={styles.categoryPill}>
+                  <Text style={styles.categoryText}>{currentQuestion.category}</Text>
+                </View>
                 <Text style={styles.questionText}>{currentQuestion.question}</Text>
               </View>
               <Answers
@@ -74,10 +77,8 @@ function QuestionScreen() {
 
               <Link replace href={{ pathname: '/question', params: {} }} asChild>
                 <TouchableOpacity
-                  style={{
-                    ...styles.nextQuestionButton,
-                    opacity: !selectedAnswer ? 0 : 1,
-                  }}>
+                  disabled={!selectedAnswer}
+                  style={[styles.nextQuestionButton, !selectedAnswer && styles.nextQuestionButtonDisabled]}>
                   <Text style={styles.nextQuestionText}>Next Question</Text>
                 </TouchableOpacity>
               </Link>
@@ -85,13 +86,17 @@ function QuestionScreen() {
           )}
 
           {!!networkError && (
-            <Link replace href={{ pathname: '/question', params: {} }} asChild>
-              <TouchableOpacity
-                disabled={!selectedAnswer && !networkError}
-                style={styles.nextQuestionButton}>
-                <Text style={styles.nextQuestionText}>Network Error - Retry</Text>
-              </TouchableOpacity>
-            </Link>
+            <>
+              <View style={styles.errorCard}>
+                <Text style={styles.errorTitle}>We lost the connection</Text>
+                <Text style={styles.errorCopy}>{networkError}</Text>
+              </View>
+              <Link replace href={{ pathname: '/question', params: {} }} asChild>
+                <TouchableOpacity style={styles.nextQuestionButton}>
+                  <Text style={styles.nextQuestionText}>Retry Fetching Questions</Text>
+                </TouchableOpacity>
+              </Link>
+            </>
           )}
         </ScrollView>
       </Container>
@@ -102,36 +107,74 @@ function QuestionScreen() {
 export default QuestionScreen;
 
 const styles = StyleSheet.create({
-  categoryText: {
-    marginBottom: 10,
-  },
-  container: {
+  content: {
     flexGrow: 1,
     alignItems: 'center',
-    justifyContent: 'center',
-    borderWidth: 1,
-  },
-  nextQuestionButton: {
-    padding: 20,
-    borderRadius: 10,
-    marginTop: 10,
-    backgroundColor: '#0e0fe0',
-  },
-  nextQuestionText: {
-    color: 'white',
-    fontSize: 20,
+    paddingVertical: spacing(5),
+    gap: spacing(4),
   },
   questionContainer: {
-    width: '90%',
-    alignItems: 'center',
-    backgroundColor: 'white',
-    borderRadius: 30,
-    paddingVertical: 20,
-    paddingHorizontal: 10,
+    width: '100%',
+    paddingVertical: spacing(4),
+    paddingHorizontal: spacing(3),
+    backgroundColor: palette.surface,
+    borderRadius: radii.lg,
+    gap: spacing(2),
+    ...shadow.card,
+  },
+  categoryPill: {
+    alignSelf: 'flex-start',
+    backgroundColor: palette.surfaceHighlight,
+    paddingHorizontal: spacing(2),
+    paddingVertical: spacing(0.75),
+    borderRadius: radii.pill,
+  },
+  categoryText: {
+    color: palette.textSecondary,
+    fontSize: 14,
+    fontWeight: '600',
+    textTransform: 'uppercase',
+    letterSpacing: 1,
   },
   questionText: {
-    color: '#0e0fe0',
-    fontSize: 30,
-    textAlign: 'center',
+    color: palette.textPrimary,
+    fontSize: 22,
+    lineHeight: 30,
+    textAlign: 'left',
+  },
+  nextQuestionButton: {
+    width: '100%',
+    paddingVertical: spacing(2.5),
+    borderRadius: radii.md,
+    backgroundColor: palette.accent,
+    alignItems: 'center',
+    ...shadow.card,
+  },
+  nextQuestionButtonDisabled: {
+    backgroundColor: palette.accentMuted,
+    opacity: 0.6,
+  },
+  nextQuestionText: {
+    color: palette.textPrimary,
+    fontSize: 18,
+    fontWeight: '700',
+  },
+  errorCard: {
+    width: '100%',
+    padding: spacing(3),
+    borderRadius: radii.lg,
+    backgroundColor: 'rgba(255, 107, 107, 0.12)',
+    gap: spacing(1),
+    borderWidth: 1,
+    borderColor: palette.error,
+  },
+  errorTitle: {
+    color: palette.textPrimary,
+    fontSize: 18,
+    fontWeight: '700',
+  },
+  errorCopy: {
+    color: palette.textSecondary,
+    fontSize: 16,
   },
 });

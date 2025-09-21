@@ -1,7 +1,8 @@
 import { forwardRef } from 'react';
-import { StyleSheet, Text, TouchableOpacity } from 'react-native';
+import { StyleSheet, Text, TouchableOpacity, View } from 'react-native';
 
 import { Difficulty } from '~/types';
+import { palette, radii, shadow, spacing } from '~/styles/theme';
 
 interface Props {
   difficulty: Difficulty;
@@ -9,49 +10,92 @@ interface Props {
 }
 
 const DifficultyButton = forwardRef<TouchableOpacity, Props>(({ difficulty, onPress }, ref) => {
+  const details = getDifficultyDetails(difficulty);
+
   return (
     <TouchableOpacity
       ref={ref}
-      style={[styles.difficultyButtonContainer, getBorderStyle(difficulty)]}
+      activeOpacity={0.85}
+      style={[styles.difficultyButtonContainer, getBackgroundStyle(difficulty)]}
       onPress={onPress}>
-      <Text style={styles.difficultyTextStyle}>{difficulty}</Text>
+      <View style={styles.textBlock}>
+        <Text style={styles.difficultyLabel}>{details.label}</Text>
+        <Text style={styles.difficultyDescription}>{details.description}</Text>
+      </View>
     </TouchableOpacity>
   );
 });
 
-function getBorderStyle(difficulty: Difficulty) {
+function getBackgroundStyle(difficulty: Difficulty) {
   if (difficulty === 'easy') {
-    return styles.easyBorder;
+    return styles.easyBackground;
   } else if (difficulty === 'medium') {
-    return styles.mediumBorder;
-  } else {
-    return styles.hardBorder;
+    return styles.mediumBackground;
+  }
+
+  return styles.hardBackground;
+}
+
+function getDifficultyDetails(difficulty: Difficulty) {
+  switch (difficulty) {
+    case 'easy':
+      return {
+        label: 'Easy',
+        description: 'Great for warm-ups and casual trivia time.',
+      };
+    case 'medium':
+      return {
+        label: 'Medium',
+        description: 'Balanced mix of brain teasers and quick wins.',
+      };
+    case 'hard':
+    default:
+      return {
+        label: 'Hard',
+        description: 'For trivia pros chasing perfect streaks.',
+      };
   }
 }
 
 export default DifficultyButton;
 
 const styles = StyleSheet.create({
-  easyBorder: {
-    borderColor: '#009D40',
-  },
-  mediumBorder: {
-    borderColor: '#0e0fe0',
-  },
-  hardBorder: {
-    borderColor: '#FF570D',
-  },
   difficultyButtonContainer: {
-    width: '90%',
-    marginVertical: 10,
-    backgroundColor: 'white',
+    width: '100%',
+    paddingVertical: spacing(3),
+    paddingHorizontal: spacing(3),
+    borderRadius: radii.lg,
+    flexDirection: 'row',
     alignItems: 'center',
-    paddingVertical: 30,
-    borderWidth: 2,
-    borderRadius: 10,
+    ...shadow.card,
   },
-  difficultyTextStyle: {
-    fontSize: 30,
-    textTransform: 'capitalize',
+  easyBackground: {
+    backgroundColor: palette.surface,
+    borderWidth: 1,
+    borderColor: palette.easy,
+  },
+  mediumBackground: {
+    backgroundColor: palette.surface,
+    borderWidth: 1,
+    borderColor: palette.medium,
+  },
+  hardBackground: {
+    backgroundColor: palette.surface,
+    borderWidth: 1,
+    borderColor: palette.hard,
+  },
+  textBlock: {
+    flex: 1,
+    gap: spacing(0.5),
+  },
+  difficultyLabel: {
+    fontSize: 24,
+    fontWeight: '700',
+    color: palette.textPrimary,
+    textTransform: 'none',
+  },
+  difficultyDescription: {
+    fontSize: 15,
+    color: palette.textSecondary,
   },
 });

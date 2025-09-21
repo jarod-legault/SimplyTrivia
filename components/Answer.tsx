@@ -1,4 +1,6 @@
-import { StyleSheet, Text, TouchableOpacity } from 'react-native';
+import { StyleSheet, Text, TouchableOpacity, View } from 'react-native';
+
+import { palette, spacing } from '~/styles/theme';
 
 interface Props {
   correctAnswer: string;
@@ -6,13 +8,17 @@ interface Props {
   onPress: (selectedAnswer: string) => void;
   selectedAnswer: string | null;
   thisAnswer: string;
+  order: number;
 }
 
-function Answer({ thisAnswer, correctAnswer, disabled, onPress, selectedAnswer }: Props) {
+function Answer({ thisAnswer, correctAnswer, disabled, onPress, selectedAnswer, order }: Props) {
+  const label = String.fromCharCode(65 + order);
+
   return (
     <TouchableOpacity
       disabled={disabled}
       onPress={() => onPress(thisAnswer)}
+      activeOpacity={0.85}
       style={[
         styles.answerContainer,
         getAnswerBackgroundColor({
@@ -21,6 +27,9 @@ function Answer({ thisAnswer, correctAnswer, disabled, onPress, selectedAnswer }
           correctAnswer,
         }),
       ]}>
+      <View style={styles.labelBadge}>
+        <Text style={styles.labelText}>{label}</Text>
+      </View>
       <Text style={styles.answerText}>{thisAnswer}</Text>
     </TouchableOpacity>
   );
@@ -48,24 +57,45 @@ export default Answer;
 
 const styles = StyleSheet.create({
   answerContainer: {
-    width: '47%',
-    borderRadius: 20,
-    justifyContent: 'center',
-    marginVertical: 10,
-    padding: 5,
+    flexDirection: 'row',
+    alignItems: 'center',
+    gap: spacing(1.5),
+    width: '100%',
+    borderRadius: spacing(2),
+    paddingVertical: spacing(2),
+    paddingHorizontal: spacing(2),
   },
   correctAnswerContainer: {
-    backgroundColor: '#009D40',
+    backgroundColor: 'rgba(45, 190, 126, 0.18)',
+    borderWidth: 1,
+    borderColor: palette.success,
   },
   incorrectSelectedAnswerContainer: {
-    backgroundColor: '#FF570D',
+    backgroundColor: 'rgba(255, 107, 107, 0.16)',
+    borderWidth: 1,
+    borderColor: palette.error,
   },
   unselectedAnswerContainer: {
-    backgroundColor: 'white',
+    backgroundColor: palette.surface,
+    borderWidth: 1,
+    borderColor: palette.surfaceHighlight,
   },
   answerText: {
-    marginVertical: 30,
-    textAlign: 'center',
-    fontSize: 20,
+    flex: 1,
+    color: palette.textPrimary,
+    fontSize: 16,
+    lineHeight: 22,
+  },
+  labelBadge: {
+    height: spacing(4),
+    width: spacing(4),
+    borderRadius: spacing(2),
+    alignItems: 'center',
+    justifyContent: 'center',
+    backgroundColor: palette.surfaceHighlight,
+  },
+  labelText: {
+    color: palette.textPrimary,
+    fontWeight: '700',
   },
 });

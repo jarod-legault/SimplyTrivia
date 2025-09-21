@@ -1,11 +1,25 @@
-import { StyleSheet, SafeAreaView } from 'react-native';
+import { ReactNode } from 'react';
+import { SafeAreaView, StatusBar, StyleSheet, View } from 'react-native';
 
-export const Container = ({ children }: { children: React.ReactNode }) => {
-  return <SafeAreaView style={styles.container}>{children}</SafeAreaView>;
+import { palette, spacing } from '~/styles/theme';
+
+export const Container = ({ children }: { children: ReactNode }) => {
+  return (
+    <SafeAreaView style={styles.safeArea}>
+      <StatusBar barStyle="light-content" />
+      <View style={styles.container}>{children}</View>
+    </SafeAreaView>
+  );
 };
 
 const styles = StyleSheet.create({
+  safeArea: {
+    flex: 1,
+    backgroundColor: palette.background,
+  },
   container: {
     flex: 1,
+    backgroundColor: palette.backgroundAlt,
+    paddingHorizontal: spacing(2),
   },
 });

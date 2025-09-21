@@ -3,6 +3,7 @@
   - [x] Check Android package name.
   - [x] Update app icon and splash screen.
   - [ ] Make home screen and question screen prettier.
+  - [ ] Add light mode and dark mode.
   - [ ] Don't remove questions until they are answered.
   - [ ] Add settings screen where the user can select categories.
   - [ ] Store unanswered questions in local storage so they can be used later.

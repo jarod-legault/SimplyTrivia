@@ -4,6 +4,7 @@ import { StyleSheet, View } from 'react-native';
 import Answer from './Answer';
 
 import { OTDBQuestionDetails } from '~/types';
+import { spacing } from '~/styles/theme';
 
 interface Props {
   questionDetails: OTDBQuestionDetails;
@@ -30,7 +31,7 @@ function Answers({ questionDetails, onAnswerSelect, selectedAnswer }: Props) {
   return (
     <View style={styles.answersContainer}>
       {!!answers &&
-        answers.map((answer) => (
+        answers.map((answer, index) => (
           <Answer
             key={answer}
             thisAnswer={answer}
@@ -40,6 +41,7 @@ function Answers({ questionDetails, onAnswerSelect, selectedAnswer }: Props) {
               onAnswerSelect(newSelectedAnswer);
             }}
             selectedAnswer={selectedAnswer}
+            order={index}
           />
         ))}
     </View>
@@ -56,10 +58,8 @@ export default Answers;
 
 const styles = StyleSheet.create({
   answersContainer: {
-    width: '90%',
-    flexDirection: 'row',
-    flexWrap: 'wrap',
-    justifyContent: 'space-between',
-    marginTop: 20,
+    width: '100%',
+    gap: spacing(2),
+    marginTop: spacing(3),
   },
 });
