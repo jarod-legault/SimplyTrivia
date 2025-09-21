@@ -39,11 +39,11 @@ export const darkPalette: Palette = {
 };
 
 export const lightPalette: Palette = {
-  background: '#F4F6FF',
-  backgroundAlt: '#FFFFFF',
+  background: '#EEE9FF',
+  backgroundAlt: '#F9F6FF',
   surface: '#FFFFFF',
-  surfaceElevated: '#F5F7FF',
-  surfaceHighlight: '#E4E9FF',
+  surfaceElevated: '#F4F1FF',
+  surfaceHighlight: '#E0D9FF',
   textPrimary: '#1F1B3A',
   textSecondary: '#53577A',
   textOnAccent: '#FFFFFF',
@@ -54,7 +54,7 @@ export const lightPalette: Palette = {
   hard: '#F39C57',
   success: '#2DBE7E',
   error: '#E94444',
-  border: '#D4D9F4',
+  border: '#CBC5F2',
 };
 
 export const spacing = (multiplier = 1) => multiplier * 8;
