@@ -29,7 +29,7 @@
     ],
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "net.jarodl.simplytrivia"
+      "bundleIdentifier": "com.simplytrivia"
     },
     "android": {
       "adaptiveIcon": {
