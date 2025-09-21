@@ -1,6 +1,7 @@
 import axios from 'axios';
 import { Stack } from 'expo-router';
-import { useEffect, useMemo, useState } from 'react';
+import { useFocusEffect } from '@react-navigation/native';
+import { useCallback, useEffect, useMemo, useState } from 'react';
 import {
   ActivityIndicator,
   FlatList,
@@ -27,6 +28,7 @@ export default function SettingsScreen() {
   const selectedCategoryIds = useStore((state) => state.selectedCategoryIds);
   const setSelectedCategoryIds = useStore((state) => state.setSelectedCategoryIds);
   const setCategoriesInStore = useStore((state) => state.setCategories);
+  const clearQuestionCaches = useStore((state) => state.clearQuestionCaches);
   const { palette } = useTheme();
   const styles = useMemo(() => createStyles(palette), [palette]);
 
@@ -60,6 +62,21 @@ export default function SettingsScreen() {
       isMounted = false;
     };
   }, [setCategoriesInStore]);
+
+  useFocusEffect(
+    useCallback(() => {
+      const initialSelection = [...useStore.getState().selectedCategoryIds];
+
+      return () => {
+        const latestSelection = useStore.getState().selectedCategoryIds;
+        const addedCategory = latestSelection.some((id) => !initialSelection.includes(id));
+
+        if (addedCategory) {
+          clearQuestionCaches();
+        }
+      };
+    }, [clearQuestionCaches])
+  );
 
   const toggleCategory = (categoryId: number, nextValue?: boolean) => {
     const isSelected = selectedCategoryIds.includes(categoryId);

@@ -13,9 +13,9 @@
     - [x] Can we prevent user from deselecting all? It's fine.
     - [x] The app crashes after deselecting all and going to question screen. "Maximum update depth exceeded."(based on difficulty).
   - [x] Store unanswered questions in local storage so they can be used later.
-  - [ ] Shuffle all filtered questions in that difficulty after downloading more or filtering.
-  - [ ] When the app first loads, the `useQuestionManager` should request 20 questions (all difficulties) and add them to the associated caches. That should hopefully eliminate the spinner when first going to a difficulty category.
-  - [ ] Delete credentials.json.
+  - [x] Delete credentials.json.
+  - [x] Shuffle all filtered questions in that difficulty after downloading more or filtering. No. Just clear caches when adding categories.
+  - [ ] Test release builds on Android and iOS devices.
   - [ ] Remove unused packages.
   - [ ] Determine categories
   - [ ] Get 10,000 questions

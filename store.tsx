@@ -42,6 +42,7 @@ export type StoreState = {
   selectedCategoryIds: number[];
   setSelectedCategoryIds: (categoryIds: number[]) => void;
   categoriesInitialized: boolean;
+  clearQuestionCaches: () => void;
 };
 
 export const useStore = create<StoreState>((set) => ({
@@ -130,6 +131,17 @@ export const useStore = create<StoreState>((set) => ({
       };
     }),
   categoriesInitialized: persistedCategoryIds !== null,
+  clearQuestionCaches: () =>
+    set(() => {
+      settingsStorage.setItemSync(QUESTION_KEYS.easy, '[]');
+      settingsStorage.setItemSync(QUESTION_KEYS.medium, '[]');
+      settingsStorage.setItemSync(QUESTION_KEYS.hard, '[]');
+      return {
+        easyQuestions: [],
+        mediumQuestions: [],
+        hardQuestions: [],
+      };
+    }),
 }));
 
 function filterQuestionsByCategories(
