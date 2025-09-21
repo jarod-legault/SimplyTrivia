@@ -1,4 +1,4 @@
-import { StyleSheet, Text, TouchableOpacity, View } from 'react-native';
+import { StyleSheet, Text, TouchableOpacity } from 'react-native';
 
 import { palette, spacing } from '~/styles/theme';
 
@@ -8,12 +8,9 @@ interface Props {
   onPress: (selectedAnswer: string) => void;
   selectedAnswer: string | null;
   thisAnswer: string;
-  order: number;
 }
 
-function Answer({ thisAnswer, correctAnswer, disabled, onPress, selectedAnswer, order }: Props) {
-  const label = String.fromCharCode(65 + order);
-
+function Answer({ thisAnswer, correctAnswer, disabled, onPress, selectedAnswer }: Props) {
   return (
     <TouchableOpacity
       disabled={disabled}
@@ -27,9 +24,6 @@ function Answer({ thisAnswer, correctAnswer, disabled, onPress, selectedAnswer, 
           correctAnswer,
         }),
       ]}>
-      <View style={styles.labelBadge}>
-        <Text style={styles.labelText}>{label}</Text>
-      </View>
       <Text style={styles.answerText}>{thisAnswer}</Text>
     </TouchableOpacity>
   );
@@ -85,17 +79,5 @@ const styles = StyleSheet.create({
     color: palette.textPrimary,
     fontSize: 16,
     lineHeight: 22,
-  },
-  labelBadge: {
-    height: spacing(4),
-    width: spacing(4),
-    borderRadius: spacing(2),
-    alignItems: 'center',
-    justifyContent: 'center',
-    backgroundColor: palette.surfaceHighlight,
-  },
-  labelText: {
-    color: palette.textPrimary,
-    fontWeight: '700',
   },
 });

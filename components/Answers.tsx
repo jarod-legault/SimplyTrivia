@@ -31,7 +31,7 @@ function Answers({ questionDetails, onAnswerSelect, selectedAnswer }: Props) {
   return (
     <View style={styles.answersContainer}>
       {!!answers &&
-        answers.map((answer, index) => (
+        answers.map((answer) => (
           <Answer
             key={answer}
             thisAnswer={answer}
@@ -41,7 +41,6 @@ function Answers({ questionDetails, onAnswerSelect, selectedAnswer }: Props) {
               onAnswerSelect(newSelectedAnswer);
             }}
             selectedAnswer={selectedAnswer}
-            order={index}
           />
         ))}
     </View>
