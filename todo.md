@@ -2,6 +2,10 @@
   - [x] Delete unused files and clear out screens.
   - [x] Check Android package name.
   - [x] Update app icon and splash screen.
+  - [ ] Make home screen and question screen prettier.
+  - [ ] Don't remove questions until they are answered.
+  - [ ] Add settings screen where the user can select categories.
+  - [ ] Store unanswered questions in local storage so they can be used later.
   - [ ] Remove unused packages.
   - [ ] Determine categories
   - [ ] Get 10,000 questions
