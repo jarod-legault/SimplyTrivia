@@ -75,13 +75,13 @@ function QuestionScreen() {
                 selectedAnswer={selectedAnswer}
               />
 
-              <Link replace href={{ pathname: '/question', params: {} }} asChild>
-                <TouchableOpacity
-                  disabled={!selectedAnswer}
-                  style={[styles.nextQuestionButton, !selectedAnswer && styles.nextQuestionButtonDisabled]}>
-                  <Text style={styles.nextQuestionText}>Next Question</Text>
-                </TouchableOpacity>
-              </Link>
+              {!!selectedAnswer && (
+                <Link replace href={{ pathname: '/question', params: {} }} asChild>
+                  <TouchableOpacity style={styles.nextQuestionButton}>
+                    <Text style={styles.nextQuestionText}>Next Question</Text>
+                  </TouchableOpacity>
+                </Link>
+              )}
             </>
           )}
 
@@ -149,10 +149,6 @@ const styles = StyleSheet.create({
     backgroundColor: palette.accent,
     alignItems: 'center',
     ...shadow.card,
-  },
-  nextQuestionButtonDisabled: {
-    backgroundColor: palette.accentMuted,
-    opacity: 0.6,
   },
   nextQuestionText: {
     color: palette.textPrimary,
