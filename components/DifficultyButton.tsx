@@ -18,11 +18,6 @@ const DifficultyButton = forwardRef<TouchableOpacity, Props>(({ difficulty, onPr
       activeOpacity={0.85}
       style={[styles.difficultyButtonContainer, getBackgroundStyle(difficulty)]}
       onPress={onPress}>
-      <View style={styles.badgeBlock}>
-        <View style={[styles.difficultyBadge, getBadgeStyle(difficulty)]}>
-          <Text style={styles.badgeText}>{details.badge}</Text>
-        </View>
-      </View>
       <View style={styles.textBlock}>
         <Text style={styles.difficultyLabel}>{details.label}</Text>
         <Text style={styles.difficultyDescription}>{details.description}</Text>
@@ -47,33 +42,18 @@ function getDifficultyDetails(difficulty: Difficulty) {
       return {
         label: 'Easy',
         description: 'Great for warm-ups and casual trivia time.',
-        badge: 'E',
       };
     case 'medium':
       return {
         label: 'Medium',
         description: 'Balanced mix of brain teasers and quick wins.',
-        badge: 'M',
       };
     case 'hard':
     default:
       return {
         label: 'Hard',
         description: 'For trivia pros chasing perfect streaks.',
-        badge: 'H',
       };
-  }
-}
-
-function getBadgeStyle(difficulty: Difficulty) {
-  switch (difficulty) {
-    case 'easy':
-      return styles.easyBadge;
-    case 'medium':
-      return styles.mediumBadge;
-    case 'hard':
-    default:
-      return styles.hardBadge;
   }
 }
 
@@ -87,7 +67,6 @@ const styles = StyleSheet.create({
     borderRadius: radii.lg,
     flexDirection: 'row',
     alignItems: 'center',
-    gap: spacing(3),
     ...shadow.card,
   },
   easyBackground: {
@@ -104,35 +83,6 @@ const styles = StyleSheet.create({
     backgroundColor: palette.surface,
     borderWidth: 1,
     borderColor: palette.hard,
-  },
-  badgeBlock: {
-    justifyContent: 'center',
-  },
-  difficultyBadge: {
-    height: spacing(5),
-    width: spacing(5),
-    borderRadius: spacing(2.5),
-    justifyContent: 'center',
-    alignItems: 'center',
-  },
-  easyBadge: {
-    backgroundColor: 'rgba(45, 190, 126, 0.18)',
-    borderWidth: 1,
-    borderColor: palette.easy,
-  },
-  mediumBadge: {
-    backgroundColor: 'rgba(74, 168, 255, 0.16)',
-    borderWidth: 1,
-    borderColor: palette.medium,
-  },
-  hardBadge: {
-    backgroundColor: 'rgba(243, 156, 87, 0.18)',
-    borderWidth: 1,
-    borderColor: palette.hard,
-  },
-  badgeText: {
-    color: palette.textPrimary,
-    fontWeight: '700',
   },
   textBlock: {
     flex: 1,
