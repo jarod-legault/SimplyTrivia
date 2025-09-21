@@ -15,6 +15,7 @@
   - [x] Store unanswered questions in local storage so they can be used later.
   - [x] Delete credentials.json.
   - [x] Shuffle all filtered questions in that difficulty after downloading more or filtering. No. Just clear caches when adding categories.
+  - [ ] Lock rotation to portrait.
   - [ ] Test release builds on Android and iOS devices.
   - [ ] Remove unused packages.
   - [ ] Determine categories
