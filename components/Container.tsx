@@ -1,25 +1,31 @@
-import { ReactNode } from 'react';
+import { ReactNode, useMemo } from 'react';
 import { SafeAreaView, StatusBar, StyleSheet, View } from 'react-native';
 
-import { palette, spacing } from '~/styles/theme';
+import { useTheme } from '~/styles/ThemeProvider';
+import { Palette, spacing } from '~/styles/theme';
 
 export const Container = ({ children }: { children: ReactNode }) => {
+  const { palette, mode } = useTheme();
+  const styles = useMemo(() => createStyles(palette), [palette]);
+  const barStyle = mode === 'dark' ? 'light-content' : 'dark-content';
+
   return (
     <SafeAreaView style={styles.safeArea}>
-      <StatusBar barStyle="light-content" />
+      <StatusBar barStyle={barStyle} backgroundColor={palette.background} />
       <View style={styles.container}>{children}</View>
     </SafeAreaView>
   );
 };
 
-const styles = StyleSheet.create({
-  safeArea: {
-    flex: 1,
-    backgroundColor: palette.background,
-  },
-  container: {
-    flex: 1,
-    backgroundColor: palette.backgroundAlt,
-    paddingHorizontal: spacing(2),
-  },
-});
+const createStyles = (palette: Palette) =>
+  StyleSheet.create({
+    safeArea: {
+      flex: 1,
+      backgroundColor: palette.background,
+    },
+    container: {
+      flex: 1,
+      backgroundColor: palette.backgroundAlt,
+      paddingHorizontal: spacing(2),
+    },
+  });

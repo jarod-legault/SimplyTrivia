@@ -7,6 +7,8 @@
   - [ ] Don't remove questions until they are answered.
   - [ ] Add settings screen where the user can select categories.
   - [ ] Store unanswered questions in local storage so they can be used later.
+  - [ ] Put ScrollView on Questions page just in case they don't fit.
+  - [ ] Upgrade packages, including Expo.
   - [ ] Remove unused packages.
   - [ ] Determine categories
   - [ ] Get 10,000 questions

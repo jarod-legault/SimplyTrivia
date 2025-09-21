@@ -1,8 +1,9 @@
-import { forwardRef } from 'react';
+import { forwardRef, useMemo } from 'react';
 import { StyleSheet, Text, TouchableOpacity, View } from 'react-native';
 
 import { Difficulty } from '~/types';
-import { palette, radii, shadow, spacing } from '~/styles/theme';
+import { useTheme } from '~/styles/ThemeProvider';
+import { Palette, radii, shadow, spacing } from '~/styles/theme';
 
 interface Props {
   difficulty: Difficulty;
@@ -10,13 +11,16 @@ interface Props {
 }
 
 const DifficultyButton = forwardRef<TouchableOpacity, Props>(({ difficulty, onPress }, ref) => {
+  const { palette } = useTheme();
+  const styles = useMemo(() => createStyles(palette), [palette]);
   const details = getDifficultyDetails(difficulty);
+  const backgroundStyle = useMemo(() => getBackgroundStyle(styles, difficulty), [styles, difficulty]);
 
   return (
     <TouchableOpacity
       ref={ref}
       activeOpacity={0.85}
-      style={[styles.difficultyButtonContainer, getBackgroundStyle(difficulty)]}
+      style={[styles.difficultyButtonContainer, backgroundStyle]}
       onPress={onPress}>
       <View style={styles.textBlock}>
         <Text style={styles.difficultyLabel}>{details.label}</Text>
@@ -26,7 +30,7 @@ const DifficultyButton = forwardRef<TouchableOpacity, Props>(({ difficulty, onPr
   );
 });
 
-function getBackgroundStyle(difficulty: Difficulty) {
+function getBackgroundStyle(styles: ReturnType<typeof createStyles>, difficulty: Difficulty) {
   if (difficulty === 'easy') {
     return styles.easyBackground;
   } else if (difficulty === 'medium') {
@@ -59,43 +63,42 @@ function getDifficultyDetails(difficulty: Difficulty) {
 
 export default DifficultyButton;
 
-const styles = StyleSheet.create({
-  difficultyButtonContainer: {
-    width: '100%',
-    paddingVertical: spacing(3),
-    paddingHorizontal: spacing(3),
-    borderRadius: radii.lg,
-    flexDirection: 'row',
-    alignItems: 'center',
-    ...shadow.card,
-  },
-  easyBackground: {
-    backgroundColor: palette.surface,
-    borderWidth: 1,
-    borderColor: palette.easy,
-  },
-  mediumBackground: {
-    backgroundColor: palette.surface,
-    borderWidth: 1,
-    borderColor: palette.medium,
-  },
-  hardBackground: {
-    backgroundColor: palette.surface,
-    borderWidth: 1,
-    borderColor: palette.hard,
-  },
-  textBlock: {
-    flex: 1,
-    gap: spacing(0.5),
-  },
-  difficultyLabel: {
-    fontSize: 24,
-    fontWeight: '700',
-    color: palette.textPrimary,
-    textTransform: 'none',
-  },
-  difficultyDescription: {
-    fontSize: 15,
-    color: palette.textSecondary,
-  },
-});
+const createStyles = (palette: Palette) =>
+  StyleSheet.create({
+    difficultyButtonContainer: {
+      width: '100%',
+      paddingVertical: spacing(3),
+      paddingHorizontal: spacing(3),
+      borderRadius: radii.lg,
+      flexDirection: 'row',
+      alignItems: 'center',
+      backgroundColor: palette.surface,
+      ...shadow.card,
+      borderWidth: 1,
+      borderColor: palette.border,
+      gap: spacing(1.5),
+    },
+    easyBackground: {
+      borderColor: palette.easy,
+    },
+    mediumBackground: {
+      borderColor: palette.medium,
+    },
+    hardBackground: {
+      borderColor: palette.hard,
+    },
+    textBlock: {
+      flex: 1,
+      gap: spacing(0.5),
+    },
+    difficultyLabel: {
+      fontSize: 24,
+      fontWeight: '700',
+      color: palette.textPrimary,
+      textTransform: 'none',
+    },
+    difficultyDescription: {
+      fontSize: 15,
+      color: palette.textSecondary,
+    },
+  });

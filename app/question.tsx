@@ -1,5 +1,5 @@
 import { Link, Stack } from 'expo-router';
-import { useEffect, useRef, useState } from 'react';
+import { useEffect, useMemo, useRef, useState } from 'react';
 import {
   ActivityIndicator,
   ScrollView,
@@ -12,10 +12,12 @@ import {
 import Answers from '../components/Answers';
 
 import { Container } from '~/components/Container';
+import { ThemeToggle } from '~/components/ThemeToggle';
 import { useQuestions } from '~/hooks/useQuestions';
 import { useStore } from '~/store';
 import { OTDBQuestionDetails } from '~/types';
-import { palette, radii, shadow, spacing } from '~/styles/theme';
+import { useTheme } from '~/styles/ThemeProvider';
+import { Palette, radii, shadow, spacing, ThemeMode } from '~/styles/theme';
 
 function QuestionScreen() {
   const difficulty = useStore((state) => state.difficulty);
@@ -28,6 +30,8 @@ function QuestionScreen() {
   const [currentQuestion, setCurrentQuestion] = useState<OTDBQuestionDetails | null>(null);
   const getNextQuestion = useQuestions();
   const previousApiTimerIsTiming = useRef(false);
+  const { palette, mode } = useTheme();
+  const styles = useMemo(() => createStyles(palette, mode), [palette, mode]);
 
   useEffect(() => {
     if (!currentQuestion) setCurrentQuestion(getNextQuestion());
@@ -43,9 +47,11 @@ function QuestionScreen() {
 
   if (!currentQuestion && !networkError) {
     return (
-      <View style={styles.container}>
-        <ActivityIndicator size="large" />
-      </View>
+      <Container>
+        <View style={styles.loadingContainer}>
+          <ActivityIndicator size="large" color={palette.accent} />
+        </View>
+      </Container>
     );
   }
 
@@ -58,7 +64,15 @@ function QuestionScreen() {
 
   return (
     <>
-      <Stack.Screen options={{ title: `${headerTitle} Trivia`, headerStyle: { backgroundColor: palette.backgroundAlt }, headerTintColor: palette.textPrimary }} />
+      <Stack.Screen
+        options={{
+          title: `${headerTitle} Trivia`,
+          headerStyle: { backgroundColor: palette.backgroundAlt },
+          headerTintColor: palette.textPrimary,
+          headerShadowVisible: false,
+          headerRight: () => <ThemeToggle variant="compact" />,
+        }}
+      />
       <Container>
         <ScrollView contentContainerStyle={styles.content}>
           {currentQuestion && !networkError && (
@@ -106,71 +120,80 @@ function QuestionScreen() {
 
 export default QuestionScreen;
 
-const styles = StyleSheet.create({
-  content: {
-    flexGrow: 1,
-    alignItems: 'center',
-    paddingVertical: spacing(5),
-    gap: spacing(4),
-  },
-  questionContainer: {
-    width: '100%',
-    paddingVertical: spacing(4),
-    paddingHorizontal: spacing(3),
-    backgroundColor: palette.surface,
-    borderRadius: radii.lg,
-    gap: spacing(2),
-    ...shadow.card,
-  },
-  categoryPill: {
-    alignSelf: 'flex-start',
-    backgroundColor: palette.surfaceHighlight,
-    paddingHorizontal: spacing(2),
-    paddingVertical: spacing(0.75),
-    borderRadius: radii.pill,
-  },
-  categoryText: {
-    color: palette.textSecondary,
-    fontSize: 14,
-    fontWeight: '600',
-    textTransform: 'uppercase',
-    letterSpacing: 1,
-  },
-  questionText: {
-    color: palette.textPrimary,
-    fontSize: 22,
-    lineHeight: 30,
-    textAlign: 'left',
-  },
-  nextQuestionButton: {
-    width: '100%',
-    paddingVertical: spacing(2.5),
-    borderRadius: radii.md,
-    backgroundColor: palette.accent,
-    alignItems: 'center',
-    ...shadow.card,
-  },
-  nextQuestionText: {
-    color: palette.textPrimary,
-    fontSize: 18,
-    fontWeight: '700',
-  },
-  errorCard: {
-    width: '100%',
-    padding: spacing(3),
-    borderRadius: radii.lg,
-    backgroundColor: 'rgba(255, 107, 107, 0.12)',
-    gap: spacing(1),
-    borderWidth: 1,
-    borderColor: palette.error,
-  },
-  errorTitle: {
-    color: palette.textPrimary,
-    fontSize: 18,
-    fontWeight: '700',
-  },
-  errorCopy: {
-    color: palette.textSecondary,
-    fontSize: 16,
-  },
-});
+const createStyles = (palette: Palette, mode: ThemeMode) =>
+  StyleSheet.create({
+    loadingContainer: {
+      flex: 1,
+      justifyContent: 'center',
+      alignItems: 'center',
+      backgroundColor: palette.backgroundAlt,
+    },
+    content: {
+      flexGrow: 1,
+      alignItems: 'center',
+      paddingVertical: spacing(5),
+      gap: spacing(4),
+    },
+    questionContainer: {
+      width: '100%',
+      paddingVertical: spacing(4),
+      paddingHorizontal: spacing(3),
+      backgroundColor: palette.surface,
+      borderRadius: radii.lg,
+      gap: spacing(2),
+      ...shadow.card,
+      borderWidth: 1,
+      borderColor: palette.border,
+    },
+    categoryPill: {
+      alignSelf: 'flex-start',
+      backgroundColor: palette.surfaceHighlight,
+      paddingHorizontal: spacing(2),
+      paddingVertical: spacing(0.75),
+      borderRadius: radii.pill,
+    },
+    categoryText: {
+      color: palette.textSecondary,
+      fontSize: 14,
+      fontWeight: '600',
+      textTransform: 'uppercase',
+      letterSpacing: 1,
+    },
+    questionText: {
+      color: palette.textPrimary,
+      fontSize: 22,
+      lineHeight: 30,
+      textAlign: 'left',
+    },
+    nextQuestionButton: {
+      width: '100%',
+      paddingVertical: spacing(2.5),
+      borderRadius: radii.md,
+      backgroundColor: palette.accent,
+      alignItems: 'center',
+      ...shadow.card,
+    },
+    nextQuestionText: {
+      color: palette.textPrimary,
+      fontSize: 18,
+      fontWeight: '700',
+    },
+    errorCard: {
+      width: '100%',
+      padding: spacing(3),
+      borderRadius: radii.lg,
+      backgroundColor: mode === 'dark' ? 'rgba(255, 107, 107, 0.12)' : 'rgba(233, 68, 68, 0.1)',
+      gap: spacing(1),
+      borderWidth: 1,
+      borderColor: palette.error,
+    },
+    errorTitle: {
+      color: palette.textPrimary,
+      fontSize: 18,
+      fontWeight: '700',
+    },
+    errorCopy: {
+      color: palette.textSecondary,
+      fontSize: 16,
+    },
+  });

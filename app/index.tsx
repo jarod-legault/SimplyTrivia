@@ -1,5 +1,5 @@
 import { Stack, Link } from 'expo-router';
-import { useEffect, useState } from 'react';
+import { useEffect, useMemo, useState } from 'react';
 import {
   ActivityIndicator,
   Image,
@@ -12,9 +12,11 @@ import {
 
 import { Container } from '~/components/Container';
 import DifficultyButton from '~/components/DifficultyButton';
+import { ThemeToggle } from '~/components/ThemeToggle';
 import { useOtdbApi } from '~/hooks/useOtdbApi';
 import { useStore } from '~/store';
-import { palette, spacing } from '~/styles/theme';
+import { useTheme } from '~/styles/ThemeProvider';
+import { Palette, spacing } from '~/styles/theme';
 
 export default function Home() {
   const [loading, setLoading] = useState<boolean>(true);
@@ -23,6 +25,8 @@ export default function Home() {
   const setDifficulty = useStore((state) => state.setDifficulty);
 
   const { updateToken } = useOtdbApi();
+  const { palette } = useTheme();
+  const styles = useMemo(() => createStyles(palette), [palette]);
 
   useEffect(() => {
     async function init() {
@@ -46,6 +50,9 @@ export default function Home() {
       <Stack.Screen options={{ title: 'home', headerShown: false }} />
       <Container>
         <ScrollView contentContainerStyle={styles.scrollContent}>
+          <View style={styles.topBar}>
+            <ThemeToggle />
+          </View>
           <View style={styles.header}>
             <View style={styles.logoWrapper}>
               <Image style={styles.logo} source={require('../assets/icon.png')} />
@@ -90,68 +97,77 @@ export default function Home() {
   );
 }
 
-const styles = StyleSheet.create({
-  scrollContent: {
-    paddingVertical: spacing(6),
-  },
-  header: {
-    alignItems: 'center',
-    gap: spacing(2),
-    marginBottom: spacing(6),
-  },
-  logoWrapper: {
-    height: 120,
-    width: 120,
-    borderRadius: 30,
-    justifyContent: 'center',
-    alignItems: 'center',
-    backgroundColor: palette.surface,
-    overflow: 'hidden',
-  },
-  logo: {
-    height: 70,
-    width: 70,
-    resizeMode: 'cover',
-    borderRadius: 20,
-  },
-  title: {
-    fontSize: 36,
-    fontWeight: '700',
-    color: palette.textPrimary,
-  },
-  subtitle: {
-    fontSize: 16,
-    lineHeight: 22,
-    textAlign: 'center',
-    color: palette.textSecondary,
-    paddingHorizontal: spacing(3),
-  },
-  body: {
-    flex: 1,
-    width: '100%',
-  },
-  loaderRow: {
-    alignItems: 'center',
-    gap: spacing(2),
-  },
-  loaderCopy: {
-    color: palette.textSecondary,
-    fontSize: 16,
-  },
-  retryButton: {
-    paddingVertical: spacing(2),
-    paddingHorizontal: spacing(3),
-    borderRadius: spacing(3),
-    marginTop: spacing(2),
-    backgroundColor: palette.error,
-    alignSelf: 'center',
-  },
-  retryButtonText: {
-    color: palette.textPrimary,
-    fontSize: 16,
-    fontWeight: '600',
-  },
-  difficultyList: {
-    gap: spacing(2),
-  },
-});
+const createStyles = (palette: Palette) =>
+  StyleSheet.create({
+    scrollContent: {
+      paddingVertical: spacing(6),
+      gap: spacing(4),
+    },
+    topBar: {
+      width: '100%',
+      alignItems: 'flex-end',
+      paddingHorizontal: spacing(0.5),
+    },
+    header: {
+      alignItems: 'center',
+      gap: spacing(2),
+      marginBottom: spacing(1),
+    },
+    logoWrapper: {
+      height: 120,
+      width: 120,
+      borderRadius: 30,
+      justifyContent: 'center',
+      alignItems: 'center',
+      backgroundColor: palette.surface,
+      overflow: 'hidden',
+      borderWidth: 1,
+      borderColor: palette.border,
+    },
+    logo: {
+      height: 70,
+      width: 70,
+      resizeMode: 'cover',
+      borderRadius: 20,
+    },
+    title: {
+      fontSize: 36,
+      fontWeight: '700',
+      color: palette.textPrimary,
+    },
+    subtitle: {
+      fontSize: 16,
+      lineHeight: 22,
+      textAlign: 'center',
+      color: palette.textSecondary,
+      paddingHorizontal: spacing(3),
+    },
+    body: {
+      flex: 1,
+      width: '100%',
+    },
+    loaderRow: {
+      alignItems: 'center',
+      gap: spacing(2),
+    },
+    loaderCopy: {
+      color: palette.textSecondary,
+      fontSize: 16,
+    },
+    retryButton: {
+      paddingVertical: spacing(2),
+      paddingHorizontal: spacing(3),
+      borderRadius: spacing(3),
+      marginTop: spacing(2),
+      backgroundColor: palette.error,
+      alignSelf: 'center',
+    },
+    retryButtonText: {
+      color: palette.textPrimary,
+      fontSize: 16,
+      fontWeight: '600',
+    },
+    difficultyList: {
+      gap: spacing(2),
+    },
+  });
