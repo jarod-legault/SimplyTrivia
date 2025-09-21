@@ -39,6 +39,7 @@
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#00159C"
       },
+      "edgeToEdgeEnabled": true,
       "package": "com.simplytrivia"
     },
     "extra": {
