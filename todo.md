@@ -4,11 +4,13 @@
   - [x] Update app icon and splash screen.
   - [x] Make home screen and question screen prettier.
   - [x] Add light mode and dark mode.
-  - [ ] Don't remove questions until they are answered.
+  - [x] Don't remove questions until they are answered.
+  - [x] Upgrade to Expo 52.
+  - [ ] Upgrade to Expo 53.
+  - [ ] Make sure we are using new architecture.
   - [ ] Add settings screen where the user can select categories.
   - [ ] Store unanswered questions in local storage so they can be used later.
-  - [ ] Put ScrollView on Questions page just in case they don't fit.
-  - [ ] Upgrade packages, including Expo.
+  - [ ] Delete credentials.json.
   - [ ] Remove unused packages.
   - [ ] Determine categories
   - [ ] Get 10,000 questions
