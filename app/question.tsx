@@ -27,22 +27,32 @@ function QuestionScreen() {
   const apiTimerIsTiming = useStore((state) => state.apiTimerIsTiming);
   const [selectedAnswer, setSelectedAnswer] = useState<string>('');
   const [currentQuestion, setCurrentQuestion] = useState<OTDBQuestionDetails | null>(null);
-  const getNextQuestion = useQuestions();
+  const { peekQuestion, advanceQuestion } = useQuestions();
   const previousApiTimerIsTiming = useRef(false);
   const { palette, mode } = useTheme();
   const styles = useMemo(() => createStyles(palette, mode), [palette, mode]);
 
   useEffect(() => {
-    if (!currentQuestion) setCurrentQuestion(getNextQuestion());
-  }, [easyQuestions, mediumQuestions, hardQuestions]);
+    if (!currentQuestion) {
+      const next = peekQuestion();
+      if (next) setCurrentQuestion(next);
+    }
+  }, [easyQuestions, mediumQuestions, hardQuestions, currentQuestion, peekQuestion]);
 
   useEffect(() => {
     if (!currentQuestion && previousApiTimerIsTiming.current && !apiTimerIsTiming) {
-      setCurrentQuestion(getNextQuestion());
+      const next = peekQuestion();
+      if (next) setCurrentQuestion(next);
     }
 
     previousApiTimerIsTiming.current = apiTimerIsTiming;
-  }, [apiTimerIsTiming]);
+  }, [apiTimerIsTiming, currentQuestion, peekQuestion]);
+
+  const handleNextQuestion = () => {
+    const next = advanceQuestion();
+    setSelectedAnswer('');
+    setCurrentQuestion(next ?? null);
+  };
 
   if (!currentQuestion && !networkError) {
     return (
@@ -88,11 +98,9 @@ function QuestionScreen() {
               />
 
               {!!selectedAnswer && (
-                <Link replace href={{ pathname: '/question', params: {} }} asChild>
-                  <TouchableOpacity style={styles.nextQuestionButton}>
-                    <Text style={styles.nextQuestionText}>Next Question</Text>
-                  </TouchableOpacity>
-                </Link>
+                <TouchableOpacity onPress={handleNextQuestion} style={styles.nextQuestionButton}>
+                  <Text style={styles.nextQuestionText}>Next Question</Text>
+                </TouchableOpacity>
               )}
             </>
           )}

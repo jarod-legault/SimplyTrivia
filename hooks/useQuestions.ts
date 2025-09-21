@@ -1,4 +1,4 @@
-import { useRef } from 'react';
+import { useCallback, useRef } from 'react';
 import { useOtdbApi } from './useOtdbApi';
 
 import { useStore } from '~/store';
@@ -19,24 +19,41 @@ export function useQuestions() {
 
   const { getQuestionsFromOtdb } = useOtdbApi();
 
-  const getNextQuestion = () => {
+  const peekQuestion = useCallback((): OTDBQuestionDetails | null => {
     questionsRef.current = getQuestionsFromStore();
 
     if (questionsRef.current.length > 0) {
-      const nextQuestion = questionsRef.current.shift()!;
-      updateQuestionsInStore(questionsRef.current);
-      if (questionsRef.current.length <= MIN_QUESTION_COUNT) addQuestions();
-      return nextQuestion;
-    } else {
+      return questionsRef.current[0];
+    }
+
+    addQuestions();
+    return null;
+  }, [difficulty, easyQuestions, mediumQuestions, hardQuestions]);
+
+  const advanceQuestion = useCallback((): OTDBQuestionDetails | null => {
+    questionsRef.current = getQuestionsFromStore();
+
+    if (questionsRef.current.length === 0) {
       addQuestions();
       return null;
     }
-  };
+
+    const [, ...remainingQuestions] = questionsRef.current;
+    const nextQuestion = remainingQuestions[0] ?? null;
+
+    questionsRef.current = remainingQuestions;
+    updateQuestionsInStore(remainingQuestions);
+
+    if (remainingQuestions.length <= MIN_QUESTION_COUNT) addQuestions();
+
+    return nextQuestion;
+  }, [difficulty, easyQuestions, mediumQuestions, hardQuestions]);
 
   const addQuestions = async () => {
     const newQuestions = await getQuestionsFromOtdb(MAX_QUESTION_COUNT - MIN_QUESTION_COUNT);
     if (newQuestions !== null && newQuestions.length > 0) {
       const updatedQuestions = [...questionsRef.current, ...newQuestions];
+      questionsRef.current = updatedQuestions;
       updateQuestionsInStore(updatedQuestions);
     }
   };
@@ -71,5 +88,5 @@ export function useQuestions() {
     }
   };
 
-  return getNextQuestion;
+  return { peekQuestion, advanceQuestion };
 }
