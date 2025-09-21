@@ -106,11 +106,13 @@ const styles = StyleSheet.create({
     justifyContent: 'center',
     alignItems: 'center',
     backgroundColor: palette.surface,
+    overflow: 'hidden',
   },
   logo: {
     height: 70,
     width: 70,
-    resizeMode: 'contain',
+    resizeMode: 'cover',
+    borderRadius: 20,
   },
   title: {
     fontSize: 36,
