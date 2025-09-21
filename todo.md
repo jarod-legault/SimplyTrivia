@@ -18,7 +18,7 @@
   - [x] Lock rotation to portrait.
   - [x] Check on edgeToEdgeEnabled setting.
   - [x] Test release builds on Android and iOS devices.
-  - [ ] Merge into main.
+  - [x] Merge into main.
   - [ ] Get screenshots & videos.
   - [ ] Publish
   - [ ] Remove unused packages.
