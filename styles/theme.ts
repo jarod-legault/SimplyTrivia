@@ -8,6 +8,7 @@ export type Palette = {
   surfaceHighlight: string;
   textPrimary: string;
   textSecondary: string;
+  textOnAccent: string;
   accent: string;
   accentMuted: string;
   easy: string;
@@ -26,6 +27,7 @@ export const darkPalette: Palette = {
   surfaceHighlight: '#342466',
   textPrimary: '#F6F3FF',
   textSecondary: '#CFC8E6',
+  textOnAccent: '#F6F3FF',
   accent: '#8F6CFF',
   accentMuted: '#6D5ED8',
   easy: '#2DBE7E',
@@ -44,6 +46,7 @@ export const lightPalette: Palette = {
   surfaceHighlight: '#D9DFFC',
   textPrimary: '#1C1439',
   textSecondary: '#4A4D6A',
+  textOnAccent: '#FFFFFF',
   accent: '#4A35A8',
   accentMuted: '#7F71D8',
   easy: '#2DBE7E',

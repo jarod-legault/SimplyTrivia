@@ -172,7 +172,7 @@ const createStyles = (palette: Palette, mode: ThemeMode) =>
       ...shadow.card,
     },
     nextQuestionText: {
-      color: palette.textPrimary,
+      color: palette.textOnAccent,
       fontSize: 18,
       fontWeight: '700',
     },
