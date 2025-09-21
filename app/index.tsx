@@ -12,7 +12,6 @@ import {
 
 import { Container } from '~/components/Container';
 import DifficultyButton from '~/components/DifficultyButton';
-import { ThemeToggle } from '~/components/ThemeToggle';
 import { useOtdbApi } from '~/hooks/useOtdbApi';
 import { useStore } from '~/store';
 import { useTheme } from '~/styles/ThemeProvider';
@@ -50,9 +49,6 @@ export default function Home() {
       <Stack.Screen options={{ title: 'home', headerShown: false }} />
       <Container>
         <ScrollView contentContainerStyle={styles.scrollContent}>
-          <View style={styles.topBar}>
-            <ThemeToggle />
-          </View>
           <View style={styles.header}>
             <View style={styles.logoWrapper}>
               <Image style={styles.logo} source={require('../assets/icon.png')} />
@@ -102,11 +98,6 @@ const createStyles = (palette: Palette) =>
     scrollContent: {
       paddingVertical: spacing(6),
       gap: spacing(4),
-    },
-    topBar: {
-      width: '100%',
-      alignItems: 'flex-end',
-      paddingHorizontal: spacing(0.5),
     },
     header: {
       alignItems: 'center',

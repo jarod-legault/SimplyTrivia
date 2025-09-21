@@ -12,7 +12,6 @@ import {
 import Answers from '../components/Answers';
 
 import { Container } from '~/components/Container';
-import { ThemeToggle } from '~/components/ThemeToggle';
 import { useQuestions } from '~/hooks/useQuestions';
 import { useStore } from '~/store';
 import { OTDBQuestionDetails } from '~/types';
@@ -70,7 +69,6 @@ function QuestionScreen() {
           headerStyle: { backgroundColor: palette.backgroundAlt },
           headerTintColor: palette.textPrimary,
           headerShadowVisible: false,
-          headerRight: () => <ThemeToggle variant="compact" />,
         }}
       />
       <Container>
