@@ -1,4 +1,4 @@
-import { useEffect, useState } from 'react';
+import { useEffect, useMemo, useState } from 'react';
 import { StyleSheet, View } from 'react-native';
 
 import Answer from './Answer';
@@ -14,6 +14,7 @@ interface Props {
 
 function Answers({ questionDetails, onAnswerSelect, selectedAnswer }: Props) {
   const [answers, setAnswers] = useState<string[]>([]);
+  const styles = useMemo(() => createStyles(), []);
 
   useEffect(() => {
     if (!selectedAnswer) {
@@ -55,10 +56,12 @@ function getRandomIndex(max: number) {
 
 export default Answers;
 
-const styles = StyleSheet.create({
-  answersContainer: {
-    width: '100%',
-    gap: spacing(2),
-    marginTop: spacing(3),
-  },
-});
+const createStyles = () =>
+  StyleSheet.create({
+    answersContainer: {
+      width: '100%',
+      gap: spacing(2),
+      marginTop: spacing(3),
+      padding: 0,
+    },
+  });

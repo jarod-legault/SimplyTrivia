@@ -53,6 +53,7 @@ const createStyles = (palette: Palette, mode: ThemeMode) =>
       borderRadius: spacing(2),
       paddingVertical: spacing(2),
       paddingHorizontal: spacing(2),
+      backgroundColor: palette.surface,
     },
     correctAnswerContainer: {
       backgroundColor: mode === 'dark' ? 'rgba(45, 190, 126, 0.18)' : 'rgba(45, 190, 126, 0.12)',
@@ -67,7 +68,7 @@ const createStyles = (palette: Palette, mode: ThemeMode) =>
     unselectedAnswerContainer: {
       backgroundColor: palette.surface,
       borderWidth: 1,
-      borderColor: palette.border,
+      borderColor: palette.surfaceHighlight,
     },
     answerText: {
       flex: 1,

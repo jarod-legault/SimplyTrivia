@@ -3,7 +3,7 @@ import { StyleSheet, Text, TouchableOpacity, View } from 'react-native';
 
 import { Difficulty } from '~/types';
 import { useTheme } from '~/styles/ThemeProvider';
-import { Palette, radii, shadow, spacing } from '~/styles/theme';
+import { Palette, radii, shadow, spacing, ThemeMode } from '~/styles/theme';
 
 interface Props {
   difficulty: Difficulty;
@@ -11,16 +11,16 @@ interface Props {
 }
 
 const DifficultyButton = forwardRef<TouchableOpacity, Props>(({ difficulty, onPress }, ref) => {
-  const { palette } = useTheme();
-  const styles = useMemo(() => createStyles(palette), [palette]);
+  const { palette, mode } = useTheme();
+  const styles = useMemo(() => createStyles(palette, mode), [palette, mode]);
   const details = getDifficultyDetails(difficulty);
-  const backgroundStyle = useMemo(() => getBackgroundStyle(styles, difficulty), [styles, difficulty]);
+  const backgroundStyle = useMemo(() => getBackgroundStyle({ styles, difficulty }), [styles, difficulty]);
 
   return (
     <TouchableOpacity
       ref={ref}
       activeOpacity={0.85}
-      style={[styles.difficultyButtonContainer, backgroundStyle]}
+      style={[styles.difficultyButtonContainer, ...backgroundStyle]}
       onPress={onPress}>
       <View style={styles.textBlock}>
         <Text style={styles.difficultyLabel}>{details.label}</Text>
@@ -30,14 +30,20 @@ const DifficultyButton = forwardRef<TouchableOpacity, Props>(({ difficulty, onPr
   );
 });
 
-function getBackgroundStyle(styles: ReturnType<typeof createStyles>, difficulty: Difficulty) {
+function getBackgroundStyle({
+  styles,
+  difficulty,
+}: {
+  styles: ReturnType<typeof createStyles>;
+  difficulty: Difficulty;
+}) {
   if (difficulty === 'easy') {
-    return styles.easyBackground;
+    return [styles.easyBackground];
   } else if (difficulty === 'medium') {
-    return styles.mediumBackground;
+    return [styles.mediumBackground];
   }
 
-  return styles.hardBackground;
+  return [styles.hardBackground];
 }
 
 function getDifficultyDetails(difficulty: Difficulty) {
@@ -63,7 +69,7 @@ function getDifficultyDetails(difficulty: Difficulty) {
 
 export default DifficultyButton;
 
-const createStyles = (palette: Palette) =>
+const createStyles = (palette: Palette, mode: ThemeMode) =>
   StyleSheet.create({
     difficultyButtonContainer: {
       width: '100%',
@@ -75,7 +81,7 @@ const createStyles = (palette: Palette) =>
       backgroundColor: palette.surface,
       ...shadow.card,
       borderWidth: 1,
-      borderColor: palette.border,
+      borderColor: mode === 'light' ? palette.surfaceHighlight : palette.border,
       gap: spacing(1.5),
     },
     easyBackground: {

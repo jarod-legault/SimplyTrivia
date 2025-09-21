@@ -149,6 +149,7 @@ const createStyles = (palette: Palette, mode: ThemeMode) =>
       paddingHorizontal: spacing(2),
       paddingVertical: spacing(0.75),
       borderRadius: radii.pill,
+      borderWidth: 0,
     },
     categoryText: {
       color: palette.textSecondary,
