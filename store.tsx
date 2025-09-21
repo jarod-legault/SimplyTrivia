@@ -7,11 +7,19 @@ const API_RATE_LIMIT_IN_MS = 5500; // The limit is 5 seconds. We add an extra 50
 const SETTINGS_DB_NAME = 'settings';
 const SELECTED_CATEGORY_IDS_KEY = 'selectedCategoryIds';
 const CATEGORIES_KEY = 'categories';
+const QUESTION_KEYS = {
+  easy: 'questions_easy',
+  medium: 'questions_medium',
+  hard: 'questions_hard',
+} as const;
 
 const settingsStorage = new SQLiteStorage(SETTINGS_DB_NAME);
 
 const persistedCategoryIds = parseNumberArray(settingsStorage.getItemSync(SELECTED_CATEGORY_IDS_KEY));
 const persistedCategories = parseCategories(settingsStorage.getItemSync(CATEGORIES_KEY));
+const persistedEasyQuestions = parseQuestions(settingsStorage.getItemSync(QUESTION_KEYS.easy)) ?? [];
+const persistedMediumQuestions = parseQuestions(settingsStorage.getItemSync(QUESTION_KEYS.medium)) ?? [];
+const persistedHardQuestions = parseQuestions(settingsStorage.getItemSync(QUESTION_KEYS.hard)) ?? [];
 
 export type StoreState = {
   difficulty: Difficulty;
@@ -41,12 +49,21 @@ export const useStore = create<StoreState>((set) => ({
   setDifficulty: (difficulty) => set({ difficulty }),
   OTDBToken: '',
   setOTDBToken: (OTDBToken) => set({ OTDBToken }),
-  easyQuestions: [],
-  setEasyQuestions: (easyQuestions) => set({ easyQuestions }),
-  mediumQuestions: [],
-  setMediumQuestions: (mediumQuestions) => set({ mediumQuestions }),
-  hardQuestions: [],
-  setHardQuestions: (hardQuestions) => set({ hardQuestions }),
+  easyQuestions: persistedEasyQuestions,
+  setEasyQuestions: (easyQuestions) => {
+    settingsStorage.setItemSync(QUESTION_KEYS.easy, JSON.stringify(easyQuestions));
+    set({ easyQuestions });
+  },
+  mediumQuestions: persistedMediumQuestions,
+  setMediumQuestions: (mediumQuestions) => {
+    settingsStorage.setItemSync(QUESTION_KEYS.medium, JSON.stringify(mediumQuestions));
+    set({ mediumQuestions });
+  },
+  hardQuestions: persistedHardQuestions,
+  setHardQuestions: (hardQuestions) => {
+    settingsStorage.setItemSync(QUESTION_KEYS.hard, JSON.stringify(hardQuestions));
+    set({ hardQuestions });
+  },
   networkError: '',
   setNetworkError: (networkError) => set({ networkError }),
   isFetching: false,
@@ -75,25 +92,41 @@ export const useStore = create<StoreState>((set) => ({
       settingsStorage.setItemSync(SELECTED_CATEGORY_IDS_KEY, JSON.stringify(nextSelectedIds));
       settingsStorage.setItemSync(CATEGORIES_KEY, JSON.stringify(categories));
 
+      const filteredEasy = filterQuestionsByCategories(state.easyQuestions, categories, nextSelectedIds);
+      const filteredMedium = filterQuestionsByCategories(state.mediumQuestions, categories, nextSelectedIds);
+      const filteredHard = filterQuestionsByCategories(state.hardQuestions, categories, nextSelectedIds);
+
+      settingsStorage.setItemSync(QUESTION_KEYS.easy, JSON.stringify(filteredEasy));
+      settingsStorage.setItemSync(QUESTION_KEYS.medium, JSON.stringify(filteredMedium));
+      settingsStorage.setItemSync(QUESTION_KEYS.hard, JSON.stringify(filteredHard));
+
       return {
         categories,
         categoriesInitialized,
         selectedCategoryIds: nextSelectedIds,
-        easyQuestions: filterQuestionsByCategories(state.easyQuestions, categories, nextSelectedIds),
-        mediumQuestions: filterQuestionsByCategories(state.mediumQuestions, categories, nextSelectedIds),
-        hardQuestions: filterQuestionsByCategories(state.hardQuestions, categories, nextSelectedIds),
+        easyQuestions: filteredEasy,
+        mediumQuestions: filteredMedium,
+        hardQuestions: filteredHard,
       };
     }),
   selectedCategoryIds: persistedCategoryIds ?? [],
   setSelectedCategoryIds: (selectedCategoryIds) =>
     set((state) => {
       settingsStorage.setItemSync(SELECTED_CATEGORY_IDS_KEY, JSON.stringify(selectedCategoryIds));
+      const filteredEasy = filterQuestionsByCategories(state.easyQuestions, state.categories, selectedCategoryIds);
+      const filteredMedium = filterQuestionsByCategories(state.mediumQuestions, state.categories, selectedCategoryIds);
+      const filteredHard = filterQuestionsByCategories(state.hardQuestions, state.categories, selectedCategoryIds);
+
+      settingsStorage.setItemSync(QUESTION_KEYS.easy, JSON.stringify(filteredEasy));
+      settingsStorage.setItemSync(QUESTION_KEYS.medium, JSON.stringify(filteredMedium));
+      settingsStorage.setItemSync(QUESTION_KEYS.hard, JSON.stringify(filteredHard));
+
       return {
         selectedCategoryIds,
         categoriesInitialized: true,
-        easyQuestions: filterQuestionsByCategories(state.easyQuestions, state.categories, selectedCategoryIds),
-        mediumQuestions: filterQuestionsByCategories(state.mediumQuestions, state.categories, selectedCategoryIds),
-        hardQuestions: filterQuestionsByCategories(state.hardQuestions, state.categories, selectedCategoryIds),
+        easyQuestions: filteredEasy,
+        mediumQuestions: filteredMedium,
+        hardQuestions: filteredHard,
       };
     }),
   categoriesInitialized: persistedCategoryIds !== null,
@@ -147,4 +180,30 @@ function parseCategories(value: string | null): OTDBCategory[] | null {
     console.warn('Failed to parse stored categories', error);
     return null;
   }
+}
+
+function parseQuestions(value: string | null): OTDBQuestionDetails[] | null {
+  if (!value) return null;
+
+  try {
+    const parsed = JSON.parse(value);
+    if (!Array.isArray(parsed)) return null;
+
+    return parsed.filter((item) => isQuestion(item)) as OTDBQuestionDetails[];
+  } catch (error) {
+    console.warn('Failed to parse stored questions', error);
+    return null;
+  }
+}
+
+function isQuestion(value: any): value is OTDBQuestionDetails {
+  return (
+    value &&
+    typeof value.category === 'string' &&
+    typeof value.type === 'string' &&
+    typeof value.difficulty === 'string' &&
+    typeof value.question === 'string' &&
+    typeof value.correct_answer === 'string' &&
+    Array.isArray(value.incorrect_answers)
+  );
 }

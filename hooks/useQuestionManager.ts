@@ -32,8 +32,16 @@ export function useQuestionManager(difficulty: Difficulty) {
   }, []);
 
   useEffect(() => {
-    questionsRef.current = questions;
-  }, [questions]);
+    const filtered = filterQuestionsByCategories(questions, categories, selectedCategoryIds);
+    const needsUpdate =
+      filtered.length !== questions.length || filtered.some((question, index) => question !== questions[index]);
+
+    questionsRef.current = filtered;
+
+    if (needsUpdate) {
+      setQuestions(filtered);
+    }
+  }, [categories, questions, selectedCategoryIds, setQuestions]);
 
   const requestQuestions = useCallback(async () => {
     if (fetchInFlightRef.current) return;
@@ -89,6 +97,18 @@ export function useQuestionManager(difficulty: Difficulty) {
       void requestQuestions();
     };
   }, [requestQuestions]);
+
+  useEffect(() => {
+    const filtered = filterQuestionsByCategories(questions, categories, selectedCategoryIds);
+    const needsUpdate =
+      filtered.length !== questions.length || filtered.some((question, index) => question !== questions[index]);
+
+    questionsRef.current = filtered;
+
+    if (needsUpdate) {
+      setQuestions(filtered);
+    }
+  }, [categories, questions, selectedCategoryIds, setQuestions]);
 
   useEffect(() => {
     if (categoriesInitialized && selectedCategoryIds.length === 0) {

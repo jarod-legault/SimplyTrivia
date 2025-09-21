@@ -11,9 +11,10 @@
   - [x] Add settings screen where the user can select categories.
     - [x] Don't we already handle rate limiting in our queue? Why are we implementing it again?
     - [x] Can we prevent user from deselecting all? It's fine.
-    - [x] The app crashes after deselecting all and going to question screen. "Maximum update depth exceeded."
-    - [ ] Shuffle all questions in that difficulty after downloading more or filtering.
-  - [ ] Store unanswered questions in local storage so they can be used later.
+    - [x] The app crashes after deselecting all and going to question screen. "Maximum update depth exceeded."(based on difficulty).
+  - [x] Store unanswered questions in local storage so they can be used later.
+  - [ ] Shuffle all filtered questions in that difficulty after downloading more or filtering.
+  - [ ] When the app first loads, the `useQuestionManager` should request 20 questions (all difficulties) and add them to the associated caches. That should hopefully eliminate the spinner when first going to a difficulty category.
   - [ ] Delete credentials.json.
   - [ ] Remove unused packages.
   - [ ] Determine categories
