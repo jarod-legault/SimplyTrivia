@@ -8,3 +8,8 @@ export type OTDBQuestionDetails = {
   correct_answer: string;
   incorrect_answers: string[];
 };
+
+export type OTDBCategory = {
+  id: number;
+  name: string;
+};

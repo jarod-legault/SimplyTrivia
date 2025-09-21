@@ -7,6 +7,14 @@ import { OTDBQuestionDetails } from '~/types';
 const BASE_URL = 'https://opentdb.com';
 const QUESTION_URL = `${BASE_URL}/api.php/`;
 const TOKEN_URL = `${BASE_URL}/api_token.php/`;
+const RATE_LIMIT_STATUS = 429;
+
+export class RateLimitError extends Error {
+  constructor() {
+    super('Rate limited by Open Trivia DB');
+    this.name = 'RateLimitError';
+  }
+}
 
 export function useOtdbApi() {
   const difficulty = useStore((state) => state.difficulty);
@@ -17,25 +25,38 @@ export function useOtdbApi() {
   const setIsFetching = useStore((state) => state.setIsFetching);
   const apiTimerIsTiming = useStore((state) => state.apiTimerIsTiming);
 
-  const getQuestionsFromOtdb = async (amount: number) => {
+  const getQuestionsFromOtdb = async (amount: number, categoryId?: number) => {
     if (isFetching || apiTimerIsTiming) return null;
 
     setIsFetching(true);
 
     try {
-      const response = await axios.get(QUESTION_URL, {
-        params: {
-          amount,
-          encode: 'base64',
-          token: OTDBToken,
-          difficulty,
-        },
-      });
+      const params: Record<string, string | number | undefined> = {
+        amount,
+        encode: 'base64',
+        token: OTDBToken,
+        difficulty,
+      };
+
+      if (categoryId != null) {
+        params.category = categoryId;
+      }
+
+      const response = await axios.get(QUESTION_URL, { params });
 
       setNetworkError('');
 
       return convertQuestionsFromBase64(response.data.results);
     } catch (error) {
+      if (axios.isAxiosError(error)) {
+        const status = error.response?.status;
+        if (status === RATE_LIMIT_STATUS) {
+          // Swallow the network message and let the caller retry after backoff.
+          setNetworkError('');
+          throw new RateLimitError();
+        }
+      }
+
       setNetworkError((error as Error).message);
       return null;
     } finally {

@@ -1,5 +1,6 @@
 import { Stack, Link } from 'expo-router';
 import { useEffect, useMemo, useState } from 'react';
+import Ionicons from '@expo/vector-icons/Ionicons';
 import {
   ActivityIndicator,
   Image,
@@ -49,6 +50,16 @@ export default function Home() {
       <Stack.Screen options={{ title: 'home', headerShown: false }} />
       <Container>
         <ScrollView contentContainerStyle={styles.scrollContent}>
+          <View style={styles.toolbar}>
+            <Link href={{ pathname: '/settings', params: {} }} asChild>
+              <TouchableOpacity
+                style={styles.settingsButton}
+                accessibilityLabel="Open settings"
+                accessibilityRole="button">
+                <Ionicons name="settings-outline" size={22} color={palette.accent} />
+              </TouchableOpacity>
+            </Link>
+          </View>
           <View style={styles.header}>
             <View style={styles.logoWrapper}>
               <Image style={styles.logo} source={require('../assets/icon.png')} />
@@ -98,6 +109,10 @@ const createStyles = (palette: Palette) =>
     scrollContent: {
       paddingVertical: spacing(6),
       gap: spacing(4),
+    },
+    toolbar: {
+      width: '100%',
+      alignItems: 'flex-end',
     },
     header: {
       alignItems: 'center',
@@ -157,6 +172,13 @@ const createStyles = (palette: Palette) =>
       color: palette.textPrimary,
       fontSize: 16,
       fontWeight: '600',
+    },
+    settingsButton: {
+      padding: spacing(1),
+      borderRadius: spacing(2),
+      backgroundColor: palette.surface,
+      borderWidth: 1,
+      borderColor: palette.border,
     },
     difficultyList: {
       gap: spacing(2),

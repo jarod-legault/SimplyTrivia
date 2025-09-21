@@ -1,5 +1,5 @@
 import { Link, Stack } from 'expo-router';
-import { useEffect, useMemo, useRef, useState } from 'react';
+import { useEffect, useMemo, useState } from 'react';
 import {
   ActivityIndicator,
   ScrollView,
@@ -9,66 +9,92 @@ import {
   View,
 } from 'react-native';
 
-import Answers from '../components/Answers';
-
+import Answers from '~/components/Answers';
 import { Container } from '~/components/Container';
+import { useQuestionManager } from '~/hooks/useQuestionManager';
 import { useQuestions } from '~/hooks/useQuestions';
 import { useStore } from '~/store';
-import { OTDBQuestionDetails } from '~/types';
 import { useTheme } from '~/styles/ThemeProvider';
 import { Palette, radii, shadow, spacing, ThemeMode } from '~/styles/theme';
 
 function QuestionScreen() {
   const difficulty = useStore((state) => state.difficulty);
   const networkError = useStore((state) => state.networkError);
-  const easyQuestions = useStore((state) => state.easyQuestions);
-  const mediumQuestions = useStore((state) => state.mediumQuestions);
-  const hardQuestions = useStore((state) => state.hardQuestions);
-  const apiTimerIsTiming = useStore((state) => state.apiTimerIsTiming);
+  const selectedCategoryIds = useStore((state) => state.selectedCategoryIds);
+  const categoriesInitialized = useStore((state) => state.categoriesInitialized);
   const [selectedAnswer, setSelectedAnswer] = useState<string>('');
-  const [currentQuestion, setCurrentQuestion] = useState<OTDBQuestionDetails | null>(null);
-  const { peekQuestion, advanceQuestion } = useQuestions();
-  const previousApiTimerIsTiming = useRef(false);
   const { palette, mode } = useTheme();
   const styles = useMemo(() => createStyles(palette, mode), [palette, mode]);
+  const noCategoriesSelected = categoriesInitialized && selectedCategoryIds.length === 0;
 
-  useEffect(() => {
-    if (!currentQuestion) {
-      const next = peekQuestion();
-      if (next) setCurrentQuestion(next);
-    }
-  }, [easyQuestions, mediumQuestions, hardQuestions, currentQuestion, peekQuestion]);
-
-  useEffect(() => {
-    if (!currentQuestion && previousApiTimerIsTiming.current && !apiTimerIsTiming) {
-      const next = peekQuestion();
-      if (next) setCurrentQuestion(next);
-    }
-
-    previousApiTimerIsTiming.current = apiTimerIsTiming;
-  }, [apiTimerIsTiming, currentQuestion, peekQuestion]);
+  useQuestionManager(difficulty);
+  const { questions, advanceQuestion } = useQuestions(difficulty);
+  const currentQuestion = questions[0] ?? null;
 
   const handleNextQuestion = () => {
     const next = advanceQuestion();
     setSelectedAnswer('');
-    setCurrentQuestion(next ?? null);
   };
 
-  if (!currentQuestion && !networkError) {
-    return (
-      <Container>
-        <View style={styles.loadingContainer}>
-          <ActivityIndicator size="large" color={palette.accent} />
-        </View>
-      </Container>
-    );
-  }
+  useEffect(() => {
+    setSelectedAnswer('');
+  }, [currentQuestion?.question]);
 
   let headerTitle = 'Easy';
   if (difficulty === 'medium') {
     headerTitle = 'Medium';
   } else if (difficulty === 'hard') {
     headerTitle = 'Hard';
+  }
+
+  if (noCategoriesSelected) {
+    return (
+      <>
+        <Stack.Screen
+          options={{
+            title: `${headerTitle} Trivia`,
+            headerStyle: { backgroundColor: palette.backgroundAlt },
+            headerTintColor: palette.textPrimary,
+            headerShadowVisible: false,
+          }}
+        />
+        <Container>
+          <ScrollView contentContainerStyle={styles.content}>
+            <View style={styles.emptyStateCard}>
+              <Text style={styles.emptyStateTitle}>Choose your categories</Text>
+              <Text style={styles.emptyStateMessage}>
+                Select at least one category in settings to start receiving new questions.
+              </Text>
+              <Link href={{ pathname: '/settings', params: {} }} asChild>
+                <TouchableOpacity style={styles.emptyStateButton}>
+                  <Text style={styles.emptyStateButtonText}>Open Settings</Text>
+                </TouchableOpacity>
+              </Link>
+            </View>
+          </ScrollView>
+        </Container>
+      </>
+    );
+  }
+
+  if (!currentQuestion && !networkError) {
+    return (
+      <>
+        <Stack.Screen
+          options={{
+            title: `${headerTitle} Trivia`,
+            headerStyle: { backgroundColor: palette.backgroundAlt },
+            headerTintColor: palette.textPrimary,
+            headerShadowVisible: false,
+          }}
+        />
+        <Container>
+          <View style={styles.loadingContainer}>
+            <ActivityIndicator size="large" color={palette.accent} />
+          </View>
+        </Container>
+      </>
+    );
   }
 
   return (
@@ -140,6 +166,39 @@ const createStyles = (palette: Palette, mode: ThemeMode) =>
       paddingVertical: spacing(5),
       gap: spacing(4),
     },
+    emptyStateCard: {
+      width: '100%',
+      padding: spacing(4),
+      borderRadius: radii.lg,
+      backgroundColor: palette.surface,
+      borderWidth: 1,
+      borderColor: palette.border,
+      gap: spacing(2),
+      alignItems: 'center',
+    },
+    emptyStateTitle: {
+      fontSize: 22,
+      fontWeight: '700',
+      color: palette.textPrimary,
+    },
+    emptyStateMessage: {
+      fontSize: 16,
+      color: palette.textSecondary,
+      textAlign: 'center',
+      lineHeight: 22,
+    },
+    emptyStateButton: {
+      marginTop: spacing(1),
+      paddingVertical: spacing(1.5),
+      paddingHorizontal: spacing(3),
+      borderRadius: radii.md,
+      backgroundColor: palette.accent,
+    },
+    emptyStateButtonText: {
+      color: palette.textOnAccent,
+      fontWeight: '600',
+      fontSize: 16,
+    },
     questionContainer: {
       width: '100%',
       paddingVertical: spacing(4),
@@ -157,7 +216,6 @@ const createStyles = (palette: Palette, mode: ThemeMode) =>
       paddingHorizontal: spacing(2),
       paddingVertical: spacing(0.75),
       borderRadius: radii.pill,
-      borderWidth: 0,
     },
     categoryText: {
       color: palette.textSecondary,

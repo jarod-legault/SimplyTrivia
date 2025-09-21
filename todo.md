@@ -8,7 +8,11 @@
   - [x] Upgrade to Expo 52.
   - [x] Upgrade to Expo 53.
   - [x] Make sure we are using new architecture. It's enabled by default in 53.
-  - [ ] Add settings screen where the user can select categories.
+  - [x] Add settings screen where the user can select categories.
+    - [x] Don't we already handle rate limiting in our queue? Why are we implementing it again?
+    - [x] Can we prevent user from deselecting all? It's fine.
+    - [x] The app crashes after deselecting all and going to question screen. "Maximum update depth exceeded."
+    - [ ] Shuffle all questions in that difficulty after downloading more or filtering.
   - [ ] Store unanswered questions in local storage so they can be used later.
   - [ ] Delete credentials.json.
   - [ ] Remove unused packages.
@@ -18,7 +22,7 @@
   - [ ] Figure how to store questions answered by users (sqlite?)
   - [ ] Should we encrypt the questions in the app?
   - [ ] Create home screen (easy, medium, hard, surprise me, settings, statistics)
-  - [ ] Create settings screen (select categories)
+  - [x] Create settings screen (select categories)
   - [ ] Create question screen
   - [ ] Test in dark mode and light mode.
 
@@ -34,4 +38,3 @@
   - [ ] Weekly challenges with new sets of questions. Maybe add 10 questions per category on Monday. A user has one week to answer all the new questions, and a leaderboard will be posted.
   - [ ] Picture round
   - [ ] TV app
-
