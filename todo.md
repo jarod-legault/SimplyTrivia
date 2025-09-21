@@ -6,8 +6,8 @@
   - [x] Add light mode and dark mode.
   - [x] Don't remove questions until they are answered.
   - [x] Upgrade to Expo 52.
-  - [ ] Upgrade to Expo 53.
-  - [ ] Make sure we are using new architecture.
+  - [x] Upgrade to Expo 53.
+  - [x] Make sure we are using new architecture. It's enabled by default in 53.
   - [ ] Add settings screen where the user can select categories.
   - [ ] Store unanswered questions in local storage so they can be used later.
   - [ ] Delete credentials.json.
