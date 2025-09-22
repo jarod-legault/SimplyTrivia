@@ -10,6 +10,7 @@
     "android:build:release": "yarn && eas build --platform android --profile release --local",
     "android:build:publish": "yarn && eas build --platform android --profile production --local",
     "ios": "expo run:ios",
+    "ios:build:publish": "yarn && eas build --platform ios --profile production --local",
     "ios:simulator:list": "xcrun simctl list devices",
     "ios:simulator": "xcrun simctl boot ACF62586-7093-4516-ABCA-D1D32C9E5AB6 && open -a Simulator",
     "dev:ios:eas": "eas build --platform ios --profile development --local",
