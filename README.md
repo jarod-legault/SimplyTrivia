@@ -1,21 +1,35 @@
 # Simply Trivia
 
+Simply Trivia is a multi-difficulty trivia game powered by the [Open Trivia Database](https://opentdb.com/). Players can filter questions by category, and play in light or dark mode across iOS or Android.
+
+### Android Light Mode
+
+![Android Light Mode](./media/Android%20Light%20Mode.gif)
+
+### Android Dark Mode
+
+![Android Dark Mode](./media/Android%20Dark%20Mode.gif)
+
+### iPhone Light Mode
+
+![iPhone Light Mode](./media/iPhone%20Light%20Mode.gif)
+
+### iPhone Dark Mode
+
+![iPhone Dark Mode](./media/iPhone%20Dark%20Mode.gif)
+
 ## Gameplay
 
-When the app first starts, you are taken to the "home" screen, where you will have a choice of question difficulties: "Easy", "Medium", and "Hard". When you tap on one of those options, you will then be taken to the "question" screen where you will see a question with the category above it, and possible answers below that you can tap. The answers will either be 4 multiple choice options, or true/false. All questions are taken from the [Open Trivia Database](https://opentdb.com/).
+- Choose a difficulty (Easy, Medium, Hard) from the home screen to load a question.
+- Each question displays its category, question, and multiple-choice or true/false answers.
+- Tap an answer to see instant feedback: correct choices highlight green, incorrect ones red, and the correct answer is always revealed.
+- Tap **Next Question** to advance while the question cache refreshes in the background.
+- Filters persist between sessions so you can tailor categories to your interests.
 
-When you select an answer, it will turn green if it is correct, and red if it is incorrect. If it was incorrect, the correct answer will also turn green. Then you have the option of getting another question with the same difficulty by tapping the "Next Question" button, or pressing the back button to go back to the "home" screen to pick a different difficulty. A token from the Open Trivia Database API is used to make sure you don't get any repeated questions while you are in the same session of the app.
+## Key Features
 
-![Simply Trivia Demo](./Simply-Trivia-Demo.gif)
-
-Each question is retrieved when the "question" screen loads/reloads. The reason it is done this way is because of the Open Trivia Database token. This token keeps track of questions that have been retrieved from their database, but not of questions that have been displayed to the user. So if we retrieved 50 questions, but the user only viewed 10, there would be 40 questions that the user would not see until they closed and restarted the app.
-
-## Technologies/Frameworks
-
-The app is written in TypeScript and uses React Navigation 6 to navigate between screens and questions.
-
-## TODO
-
-- Deploy to Apple App Store.
-- Keep track of the user's score.
-- Add a database to keep track of user preferences, such a categories, and long-term performance (correct answer percentage).
+- **Expo SDK 53** with automatic light/dark theming.
+- **Category Filters:** Full category list fetched from OpenTDB; selections are stored locally and can be adjusted at any time.
+- **Local Question Cache:** Each difficulty maintains a stored queue via `expo-sqlite/kv-store` for instant reloads.
+- **Token-based Fetching:** Uses the OpenTDB session token to reduce duplicate questions during a session.
+- **Optimized Question Manager:** Downloads only when the cache drops below a threshold, respects rate limits, and filters new questions immediately.

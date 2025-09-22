@@ -19,6 +19,7 @@
   - [x] Check on edgeToEdgeEnabled setting.
   - [x] Test release builds on Android and iOS devices.
   - [x] Merge into main.
+  - [x] Update README.md.
   - [ ] Get screenshots & videos.
   - [ ] Publish
   - [ ] Remove unused packages.
