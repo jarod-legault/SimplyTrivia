@@ -3,6 +3,7 @@ import { StyleSheet, View } from 'react-native';
 
 import Answer from './Answer';
 
+import { useWideLayout } from '~/hooks/useWideLayout';
 import { OTDBQuestionDetails } from '~/types';
 import { spacing } from '~/styles/theme';
 
@@ -14,7 +15,8 @@ interface Props {
 
 function Answers({ questionDetails, onAnswerSelect, selectedAnswer }: Props) {
   const [answers, setAnswers] = useState<string[]>([]);
-  const styles = useMemo(() => createStyles(), []);
+  const isWideLayout = useWideLayout();
+  const styles = useMemo(() => createStyles(isWideLayout), [isWideLayout]);
 
   useEffect(() => {
     if (!selectedAnswer) {
@@ -27,14 +29,13 @@ function Answers({ questionDetails, onAnswerSelect, selectedAnswer }: Props) {
         ...incorrectAnswersCopy.slice(correctAnswerIndex),
       ]); // Insert the correct answer into the array in a random position.
     }
-  }, [selectedAnswer]);
+  }, [questionDetails, selectedAnswer]);
 
   return (
     <View style={styles.answersContainer}>
-      {!!answers &&
-        answers.map((answer) => (
+      {answers.map((answer) => (
+        <View key={answer} style={styles.answerCell}>
           <Answer
-            key={answer}
             thisAnswer={answer}
             correctAnswer={questionDetails.correct_answer}
             disabled={!!selectedAnswer}
@@ -43,7 +44,8 @@ function Answers({ questionDetails, onAnswerSelect, selectedAnswer }: Props) {
             }}
             selectedAnswer={selectedAnswer}
           />
-        ))}
+        </View>
+      ))}
     </View>
   );
 }
@@ -56,12 +58,23 @@ function getRandomIndex(max: number) {
 
 export default Answers;
 
-const createStyles = () =>
+const createStyles = (isWideLayout: boolean) =>
   StyleSheet.create({
     answersContainer: {
       width: '100%',
       gap: spacing(2),
       marginTop: spacing(3),
       padding: 0,
+      ...(isWideLayout
+        ? {
+            flexDirection: 'row',
+            flexWrap: 'wrap',
+            justifyContent: 'space-between',
+            rowGap: spacing(2),
+          }
+        : {}),
+    },
+    answerCell: {
+      width: isWideLayout ? '48%' : '100%',
     },
   });

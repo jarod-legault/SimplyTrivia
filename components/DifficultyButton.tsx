@@ -1,6 +1,7 @@
 import { useMemo } from 'react';
 import { StyleSheet, Text, TouchableOpacity, View } from 'react-native';
 
+import { useWideLayout } from '~/hooks/useWideLayout';
 import { Difficulty } from '~/types';
 import { useTheme } from '~/styles/ThemeProvider';
 import { Palette, radii, shadow, spacing, ThemeMode } from '~/styles/theme';
@@ -12,7 +13,8 @@ interface Props {
 
 function DifficultyButton({ difficulty, onPress }: Props) {
   const { palette, mode } = useTheme();
-  const styles = useMemo(() => createStyles(palette, mode), [palette, mode]);
+  const isWideLayout = useWideLayout();
+  const styles = useMemo(() => createStyles(palette, mode, isWideLayout), [palette, mode, isWideLayout]);
   const details = getDifficultyDetails(difficulty);
   const backgroundStyle = useMemo(() => getBackgroundStyle({ styles, difficulty }), [styles, difficulty]);
 
@@ -68,14 +70,14 @@ function getDifficultyDetails(difficulty: Difficulty) {
 
 export default DifficultyButton;
 
-const createStyles = (palette: Palette, mode: ThemeMode) =>
+const createStyles = (palette: Palette, mode: ThemeMode, isWideLayout: boolean) =>
   StyleSheet.create({
     difficultyButtonContainer: {
-      width: '100%',
+      width: isWideLayout ? '60%' : '100%',
+      alignSelf: 'center',
       paddingVertical: spacing(3),
       paddingHorizontal: spacing(3),
       borderRadius: radii.lg,
-      flexDirection: 'row',
       alignItems: 'center',
       backgroundColor: palette.surface,
       ...shadow.card,
@@ -93,17 +95,19 @@ const createStyles = (palette: Palette, mode: ThemeMode) =>
       borderColor: palette.hard,
     },
     textBlock: {
-      flex: 1,
       gap: spacing(0.5),
+      alignItems: 'center',
     },
     difficultyLabel: {
       fontSize: 24,
       fontWeight: '700',
       color: palette.textPrimary,
       textTransform: 'none',
+      textAlign: 'center',
     },
     difficultyDescription: {
       fontSize: 15,
       color: palette.textSecondary,
+      textAlign: 'center',
     },
   });

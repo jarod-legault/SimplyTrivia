@@ -2,7 +2,7 @@ import { ReactNode, useMemo } from 'react';
 import { SafeAreaView, StatusBar, StyleSheet, View } from 'react-native';
 
 import { useTheme } from '~/styles/ThemeProvider';
-import { Palette, spacing } from '~/styles/theme';
+import { contentMaxWidth, Palette, spacing } from '~/styles/theme';
 
 export const Container = ({ children }: { children: ReactNode }) => {
   const { palette, mode } = useTheme();
@@ -12,7 +12,9 @@ export const Container = ({ children }: { children: ReactNode }) => {
   return (
     <SafeAreaView style={styles.safeArea}>
       <StatusBar barStyle={barStyle} backgroundColor={palette.background} />
-      <View style={styles.container}>{children}</View>
+      <View style={styles.container}>
+        <View style={styles.content}>{children}</View>
+      </View>
     </SafeAreaView>
   );
 };
@@ -25,7 +27,13 @@ const createStyles = (palette: Palette) =>
     },
     container: {
       flex: 1,
+      alignItems: 'center',
       backgroundColor: palette.backgroundAlt,
+    },
+    content: {
+      flex: 1,
+      width: '100%',
+      maxWidth: contentMaxWidth,
       paddingHorizontal: spacing(2),
     },
   });

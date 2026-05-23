@@ -182,5 +182,6 @@ const createStyles = (palette: Palette) =>
     },
     difficultyList: {
       gap: spacing(2),
+      alignItems: 'center',
     },
   });

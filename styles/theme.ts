@@ -59,6 +59,10 @@ export const lightPalette: Palette = {
 
 export const spacing = (multiplier = 1) => multiplier * 8;
 
+export const contentMaxWidth = 680;
+
+export const wideLayoutMinWidth = 600;
+
 export const radii = {
   sm: 8,
   md: 16,
