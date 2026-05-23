@@ -1,5 +1,6 @@
-import axios from 'axios';
 import { Buffer } from 'buffer';
+
+import { fetchJson, HttpError } from './fetchJson';
 
 import { useStore } from '~/store';
 import { OTDBQuestionDetails } from '~/types';
@@ -42,19 +43,16 @@ export function useOtdbApi() {
         params.category = categoryId;
       }
 
-      const response = await axios.get(QUESTION_URL, { params });
+      const data = await fetchJson<{ results: OTDBQuestionDetails[] }>(QUESTION_URL, params);
 
       setNetworkError('');
 
-      return convertQuestionsFromBase64(response.data.results);
+      return convertQuestionsFromBase64(data.results);
     } catch (error) {
-      if (axios.isAxiosError(error)) {
-        const status = error.response?.status;
-        if (status === RATE_LIMIT_STATUS) {
-          // Swallow the network message and let the caller retry after backoff.
-          setNetworkError('');
-          throw new RateLimitError();
-        }
+      if (error instanceof HttpError && error.status === RATE_LIMIT_STATUS) {
+        // Swallow the network message and let the caller retry after backoff.
+        setNetworkError('');
+        throw new RateLimitError();
       }
 
       setNetworkError((error as Error).message);
@@ -65,12 +63,10 @@ export function useOtdbApi() {
   };
 
   const updateToken = async () => {
-    const response = await axios.get(TOKEN_URL, {
-      params: {
-        command: 'request',
-      },
+    const data = await fetchJson<{ token: string }>(TOKEN_URL, {
+      command: 'request',
     });
-    setOTDBToken(response.data.token);
+    setOTDBToken(data.token);
   };
 
   return { getQuestionsFromOtdb, updateToken };

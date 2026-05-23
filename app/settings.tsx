@@ -1,4 +1,3 @@
-import axios from 'axios';
 import { Stack, useFocusEffect } from 'expo-router';
 import { useCallback, useEffect, useMemo, useState } from 'react';
 import {
@@ -12,6 +11,7 @@ import {
 } from 'react-native';
 
 import { Container } from '~/components/Container';
+import { fetchJson } from '~/hooks/fetchJson';
 import { useStore } from '~/store';
 import { OTDBCategory } from '~/types';
 import { useTheme } from '~/styles/ThemeProvider';
@@ -37,9 +37,9 @@ export default function SettingsScreen() {
     async function fetchCategories() {
       try {
         setLoading(true);
-        const response = await axios.get(CATEGORIES_URL);
+        const data = await fetchJson<{ trivia_categories?: OTDBCategory[] }>(CATEGORIES_URL);
         if (!isMounted) return;
-        const fetchedCategories: OTDBCategory[] = [...(response.data.trivia_categories ?? [])].sort((a, b) =>
+        const fetchedCategories: OTDBCategory[] = [...(data.trivia_categories ?? [])].sort((a, b) =>
           a.name.localeCompare(b.name)
         );
         setCategories(fetchedCategories);
