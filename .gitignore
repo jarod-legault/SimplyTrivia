@@ -19,6 +19,7 @@ android
 
 credentials.json
 *.keystore
+*.apk
 
 # macOS
 .DS_Store
