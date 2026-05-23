@@ -5,7 +5,7 @@
   "scripts": {
     "android": "expo run:android",
     "android:emulator:list": "emulator -list-avds",
-    "android:emulator": "emulator -avd Pixel_8_Android_10",
+    "android:emulator": "emulator -avd Pixel_9",
     "android:build:dev": "yarn && eas build --platform android --profile development --local",
     "android:build:release": "yarn && eas build --platform android --profile release --local",
     "android:build:publish": "yarn && eas build --platform android --profile production --local",

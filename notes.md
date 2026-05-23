@@ -1,3 +1,12 @@
+## Running
+
+- If there are native changes
+  - Run `npx expo prebuild --clean`
+  - Run `yarn start`.
+  - Run `yarn android` or `yarn ios` to create a new development build and install.
+  - Run `npx expo run:android --device` if you want to build the dev build and install and run on a specific device.
+- If not, just run `yarn start` if it is not running, press `i` or `a` in the terminal to start on emulator.
+
 ## Building/Publishing
 - Credentials are stored on EAS servers.
 
