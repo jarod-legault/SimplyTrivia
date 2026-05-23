@@ -1,6 +1,5 @@
 import axios from 'axios';
-import { Stack } from 'expo-router';
-import { useFocusEffect } from '@react-navigation/native';
+import { Stack, useFocusEffect } from 'expo-router';
 import { useCallback, useEffect, useMemo, useState } from 'react';
 import {
   ActivityIndicator,

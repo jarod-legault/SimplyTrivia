@@ -1,4 +1,4 @@
-import { forwardRef, useMemo } from 'react';
+import { useMemo } from 'react';
 import { StyleSheet, Text, TouchableOpacity, View } from 'react-native';
 
 import { Difficulty } from '~/types';
@@ -10,7 +10,7 @@ interface Props {
   onPress?: () => void;
 }
 
-const DifficultyButton = forwardRef<TouchableOpacity, Props>(({ difficulty, onPress }, ref) => {
+function DifficultyButton({ difficulty, onPress }: Props) {
   const { palette, mode } = useTheme();
   const styles = useMemo(() => createStyles(palette, mode), [palette, mode]);
   const details = getDifficultyDetails(difficulty);
@@ -18,7 +18,6 @@ const DifficultyButton = forwardRef<TouchableOpacity, Props>(({ difficulty, onPr
 
   return (
     <TouchableOpacity
-      ref={ref}
       activeOpacity={0.85}
       style={[styles.difficultyButtonContainer, ...backgroundStyle]}
       onPress={onPress}>
@@ -28,7 +27,7 @@ const DifficultyButton = forwardRef<TouchableOpacity, Props>(({ difficulty, onPr
       </View>
     </TouchableOpacity>
   );
-});
+}
 
 function getBackgroundStyle({
   styles,

@@ -19,7 +19,7 @@ export function useQuestionManager(difficulty: Difficulty) {
   const categoriesInitialized = useStore((state) => state.categoriesInitialized);
 
   const fetchInFlightRef = useRef(false);
-  const retryTimeoutRef = useRef<NodeJS.Timeout | null>(null);
+  const retryTimeoutRef = useRef<ReturnType<typeof setTimeout> | null>(null);
   const questionsRef = useRef<OTDBQuestionDetails[]>(questions);
   const requestQuestionsRef = useRef<() => void>(() => {});
 
