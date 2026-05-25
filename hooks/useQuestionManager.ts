@@ -34,7 +34,8 @@ export function useQuestionManager(difficulty: Difficulty) {
   useEffect(() => {
     const filtered = filterQuestionsByCategories(questions, categories, selectedCategoryIds);
     const needsUpdate =
-      filtered.length !== questions.length || filtered.some((question, index) => question !== questions[index]);
+      filtered.length !== questions.length ||
+      filtered.some((question, index) => question !== questions[index]);
 
     questionsRef.current = filtered;
 
@@ -50,7 +51,8 @@ export function useQuestionManager(difficulty: Difficulty) {
     fetchInFlightRef.current = true;
 
     try {
-      const requestedCategoryId = selectedCategoryIds.length === 1 ? selectedCategoryIds[0] : undefined;
+      const requestedCategoryId =
+        selectedCategoryIds.length === 1 ? selectedCategoryIds[0] : undefined;
       const newQuestions = await getQuestionsFromOtdb(
         MAX_QUESTION_COUNT - MIN_QUESTION_COUNT,
         requestedCategoryId
@@ -90,18 +92,26 @@ export function useQuestionManager(difficulty: Difficulty) {
         scheduleRetry();
       }
     }
-  }, [categories, categoriesInitialized, getQuestionsFromOtdb, scheduleRetry, selectedCategoryIds, setQuestions]);
+  }, [
+    categories,
+    categoriesInitialized,
+    getQuestionsFromOtdb,
+    scheduleRetry,
+    selectedCategoryIds,
+    setQuestions,
+  ]);
 
   useEffect(() => {
     requestQuestionsRef.current = () => {
-      void requestQuestions();
+      requestQuestions();
     };
   }, [requestQuestions]);
 
   useEffect(() => {
     const filtered = filterQuestionsByCategories(questions, categories, selectedCategoryIds);
     const needsUpdate =
-      filtered.length !== questions.length || filtered.some((question, index) => question !== questions[index]);
+      filtered.length !== questions.length ||
+      filtered.some((question, index) => question !== questions[index]);
 
     questionsRef.current = filtered;
 
@@ -121,7 +131,7 @@ export function useQuestionManager(difficulty: Difficulty) {
     }
 
     if (!fetchInFlightRef.current && questionsRef.current.length <= MIN_QUESTION_COUNT) {
-      void requestQuestions();
+      requestQuestions();
     }
   }, [categoriesInitialized, requestQuestions, selectedCategoryIds, questions]);
 
@@ -167,7 +177,9 @@ function filterQuestionsByCategories(
   }
 
   const allowedNames = new Set(
-    categories.filter((category) => selectedCategoryIds.includes(category.id)).map((category) => category.name)
+    categories
+      .filter((category) => selectedCategoryIds.includes(category.id))
+      .map((category) => category.name)
   );
 
   return questions.filter((question) => allowedNames.has(question.category));

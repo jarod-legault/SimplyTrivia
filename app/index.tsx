@@ -1,6 +1,6 @@
+import Ionicons from '@expo/vector-icons/Ionicons';
 import { Stack, Link } from 'expo-router';
 import { useEffect, useMemo, useState } from 'react';
-import Ionicons from '@expo/vector-icons/Ionicons';
 import {
   ActivityIndicator,
   Image,
@@ -65,7 +65,9 @@ export default function Home() {
               <Image style={styles.logo} source={require('../assets/icon.png')} />
             </View>
             <Text style={styles.title}>Simply Trivia</Text>
-            <Text style={styles.subtitle}>Pick a challenge level and start a streak of right answers.</Text>
+            <Text style={styles.subtitle}>
+              Pick a challenge level and start a streak of right answers.
+            </Text>
           </View>
 
           <View style={styles.body}>

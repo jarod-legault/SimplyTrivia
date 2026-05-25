@@ -32,7 +32,7 @@ function QuestionScreen() {
   const currentQuestion = questions[0] ?? null;
 
   const handleNextQuestion = () => {
-    const next = advanceQuestion();
+    advanceQuestion();
     setSelectedAnswer('');
   };
 

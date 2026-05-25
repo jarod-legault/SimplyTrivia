@@ -15,20 +15,17 @@ interface Props {
 function Answer({ thisAnswer, correctAnswer, disabled, onPress, selectedAnswer }: Props) {
   const { palette, mode } = useTheme();
   const styles = useMemo(() => createStyles(palette, mode), [palette, mode]);
-  const backgroundStyle = useMemo(
-    () => {
-      if (thisAnswer === selectedAnswer && thisAnswer !== correctAnswer) {
-        return styles.incorrectSelectedAnswerContainer;
-      }
+  const backgroundStyle = useMemo(() => {
+    if (thisAnswer === selectedAnswer && thisAnswer !== correctAnswer) {
+      return styles.incorrectSelectedAnswerContainer;
+    }
 
-      if (!!selectedAnswer && thisAnswer === correctAnswer) {
-        return styles.correctAnswerContainer;
-      }
+    if (!!selectedAnswer && thisAnswer === correctAnswer) {
+      return styles.correctAnswerContainer;
+    }
 
-      return styles.unselectedAnswerContainer;
-    },
-    [styles, thisAnswer, selectedAnswer, correctAnswer]
-  );
+    return styles.unselectedAnswerContainer;
+  }, [styles, thisAnswer, selectedAnswer, correctAnswer]);
 
   return (
     <TouchableOpacity

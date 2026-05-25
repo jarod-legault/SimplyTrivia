@@ -4,8 +4,8 @@ import { StyleSheet, View } from 'react-native';
 import Answer from './Answer';
 
 import { useWideLayout } from '~/hooks/useWideLayout';
-import { OTDBQuestionDetails } from '~/types';
 import { spacing } from '~/styles/theme';
+import { OTDBQuestionDetails } from '~/types';
 
 interface Props {
   questionDetails: OTDBQuestionDetails;

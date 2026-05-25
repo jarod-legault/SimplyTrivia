@@ -15,11 +15,16 @@ const QUESTION_KEYS = {
 
 const settingsStorage = new SQLiteStorage(SETTINGS_DB_NAME);
 
-const persistedCategoryIds = parseNumberArray(settingsStorage.getItemSync(SELECTED_CATEGORY_IDS_KEY));
+const persistedCategoryIds = parseNumberArray(
+  settingsStorage.getItemSync(SELECTED_CATEGORY_IDS_KEY)
+);
 const persistedCategories = parseCategories(settingsStorage.getItemSync(CATEGORIES_KEY));
-const persistedEasyQuestions = parseQuestions(settingsStorage.getItemSync(QUESTION_KEYS.easy)) ?? [];
-const persistedMediumQuestions = parseQuestions(settingsStorage.getItemSync(QUESTION_KEYS.medium)) ?? [];
-const persistedHardQuestions = parseQuestions(settingsStorage.getItemSync(QUESTION_KEYS.hard)) ?? [];
+const persistedEasyQuestions =
+  parseQuestions(settingsStorage.getItemSync(QUESTION_KEYS.easy)) ?? [];
+const persistedMediumQuestions =
+  parseQuestions(settingsStorage.getItemSync(QUESTION_KEYS.medium)) ?? [];
+const persistedHardQuestions =
+  parseQuestions(settingsStorage.getItemSync(QUESTION_KEYS.hard)) ?? [];
 
 export type StoreState = {
   difficulty: Difficulty;
@@ -93,9 +98,21 @@ export const useStore = create<StoreState>((set) => ({
       settingsStorage.setItemSync(SELECTED_CATEGORY_IDS_KEY, JSON.stringify(nextSelectedIds));
       settingsStorage.setItemSync(CATEGORIES_KEY, JSON.stringify(categories));
 
-      const filteredEasy = filterQuestionsByCategories(state.easyQuestions, categories, nextSelectedIds);
-      const filteredMedium = filterQuestionsByCategories(state.mediumQuestions, categories, nextSelectedIds);
-      const filteredHard = filterQuestionsByCategories(state.hardQuestions, categories, nextSelectedIds);
+      const filteredEasy = filterQuestionsByCategories(
+        state.easyQuestions,
+        categories,
+        nextSelectedIds
+      );
+      const filteredMedium = filterQuestionsByCategories(
+        state.mediumQuestions,
+        categories,
+        nextSelectedIds
+      );
+      const filteredHard = filterQuestionsByCategories(
+        state.hardQuestions,
+        categories,
+        nextSelectedIds
+      );
 
       settingsStorage.setItemSync(QUESTION_KEYS.easy, JSON.stringify(filteredEasy));
       settingsStorage.setItemSync(QUESTION_KEYS.medium, JSON.stringify(filteredMedium));
@@ -114,9 +131,21 @@ export const useStore = create<StoreState>((set) => ({
   setSelectedCategoryIds: (selectedCategoryIds) =>
     set((state) => {
       settingsStorage.setItemSync(SELECTED_CATEGORY_IDS_KEY, JSON.stringify(selectedCategoryIds));
-      const filteredEasy = filterQuestionsByCategories(state.easyQuestions, state.categories, selectedCategoryIds);
-      const filteredMedium = filterQuestionsByCategories(state.mediumQuestions, state.categories, selectedCategoryIds);
-      const filteredHard = filterQuestionsByCategories(state.hardQuestions, state.categories, selectedCategoryIds);
+      const filteredEasy = filterQuestionsByCategories(
+        state.easyQuestions,
+        state.categories,
+        selectedCategoryIds
+      );
+      const filteredMedium = filterQuestionsByCategories(
+        state.mediumQuestions,
+        state.categories,
+        selectedCategoryIds
+      );
+      const filteredHard = filterQuestionsByCategories(
+        state.hardQuestions,
+        state.categories,
+        selectedCategoryIds
+      );
 
       settingsStorage.setItemSync(QUESTION_KEYS.easy, JSON.stringify(filteredEasy));
       settingsStorage.setItemSync(QUESTION_KEYS.medium, JSON.stringify(filteredMedium));
@@ -154,7 +183,9 @@ function filterQuestionsByCategories(
   }
 
   const allowedNames = new Set(
-    categories.filter((category) => selectedCategoryIds.includes(category.id)).map((category) => category.name)
+    categories
+      .filter((category) => selectedCategoryIds.includes(category.id))
+      .map((category) => category.name)
   );
 
   return questions.filter((question) => allowedNames.has(question.category));
@@ -187,7 +218,9 @@ function parseCategories(value: string | null): OTDBCategory[] | null {
         id: Number(item.id),
         name: String(item.name ?? ''),
       }))
-      .filter((category) => Number.isInteger(category.id) && category.id >= 0 && category.name.length > 0);
+      .filter(
+        (category) => Number.isInteger(category.id) && category.id >= 0 && category.name.length > 0
+      );
   } catch (error) {
     console.warn('Failed to parse stored categories', error);
     return null;

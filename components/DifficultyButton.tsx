@@ -2,9 +2,9 @@ import { useMemo } from 'react';
 import { StyleSheet, Text, TouchableOpacity, View } from 'react-native';
 
 import { useWideLayout } from '~/hooks/useWideLayout';
-import { Difficulty } from '~/types';
 import { useTheme } from '~/styles/ThemeProvider';
 import { Palette, radii, shadow, spacing, ThemeMode } from '~/styles/theme';
+import { Difficulty } from '~/types';
 
 interface Props {
   difficulty: Difficulty;
@@ -14,9 +14,15 @@ interface Props {
 function DifficultyButton({ difficulty, onPress }: Props) {
   const { palette, mode } = useTheme();
   const isWideLayout = useWideLayout();
-  const styles = useMemo(() => createStyles(palette, mode, isWideLayout), [palette, mode, isWideLayout]);
+  const styles = useMemo(
+    () => createStyles(palette, mode, isWideLayout),
+    [palette, mode, isWideLayout]
+  );
   const details = getDifficultyDetails(difficulty);
-  const backgroundStyle = useMemo(() => getBackgroundStyle({ styles, difficulty }), [styles, difficulty]);
+  const backgroundStyle = useMemo(
+    () => getBackgroundStyle({ styles, difficulty }),
+    [styles, difficulty]
+  );
 
   return (
     <TouchableOpacity

@@ -13,9 +13,9 @@ import {
 import { Container } from '~/components/Container';
 import { fetchJson } from '~/hooks/fetchJson';
 import { useStore } from '~/store';
-import { OTDBCategory } from '~/types';
 import { useTheme } from '~/styles/ThemeProvider';
 import { Palette, radii, spacing } from '~/styles/theme';
+import { OTDBCategory } from '~/types';
 
 const CATEGORIES_URL = 'https://opentdb.com/api_category.php';
 
